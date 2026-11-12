@@ -47,6 +47,7 @@
   // categorias de robôs (classificação da IFR — industriais e de serviço — e do noticiário mundial)
   const CATEGORIAS = [
     { id: "inicio", nome: "Destaques" },
+    { id: "ranking", nome: "Ranking", especial: true },
     { id: "lancamentos", nome: "Lançamentos" },
     { id: "humanoides", nome: "Humanoides" },
     { id: "quadrupedes", nome: "Cães-robô" },
@@ -73,7 +74,6 @@
     { id: "competicoes", nome: "Competições e Eventos" },
     { id: "ia", nome: "IA e Pesquisa" },
     { id: "negocios", nome: "Negócios" },
-    { id: "ranking", nome: "Ranking", especial: true },
     { id: "catalogo", nome: "Catálogo de robôs", especial: true },
     { id: "fabricantes", nome: "Fabricantes", especial: true },
     { id: "sites", nome: "Sites do mundo", especial: true },
@@ -421,9 +421,26 @@
       // a notícia que representa o grupo: a mais confiável, com resumo e foto
       g.it = [...g.itens].sort((a, b) => nivel(b) - nivel(a) || (b.rx ? 1 : 0) - (a.rx ? 1 : 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || b.p - a.p)[0];
       g.ultima = g.itens.reduce((m, x) => (x.d > m ? x.d : m), "");
+      // fonte original = o site que publicou primeiro
+      const primeiro = g.itens.reduce((m, x) => (x.d < m.d ? x : m), g.itens[0]);
+      g.orig = { f: primeiro.f, u: primeiro.u, s: primeiro.s };
+      g.outras = g.fontes.filter((f) => domDe(f) !== domDe(g.orig));
+      const comResumo = [g.it, ...g.itens].find((x) => x.rx) || [g.it, ...g.itens].find((x) => x.r);
+      g.resumo = comResumo ? comResumo.rx || comResumo.r : "";
+      g.cats = [...new Set(g.itens.flatMap((x) => x.c || []))];
+      g.lanc = g.itens.some((x) => x.l);
       for (const it of g.itens) it._grupo = g;
     }
     return grupos;
+  }
+  // a notícia que vai para a tela: uma por história, com todos os sites que a publicaram
+  function representante(g) {
+    const it = g.it;
+    return Object.assign(Object.create(Object.getPrototypeOf(it)), it, {
+      f: g.orig.f, u: g.orig.u, s: g.orig.s, o: g.outras,
+      r: (g.resumo || it.r || "").split("\n")[0], c: g.cats.slice(0, 4), l: g.lanc ? 1 : it.l,
+      _ok: true, _cred: it._cred, _grupo: g, _ids: g.itens.map((x) => x.id),
+    });
   }
 
   // ------------------------------------------------------------------ ranking das mais citadas
@@ -448,17 +465,27 @@
   function htmlRanking(listas, completo) {
     const lista = listas[rankAtual] || [];
     const abas = Object.entries(RANKING).map(([k, [nome]]) => `<button data-rank="${k}" class="${k === rankAtual ? "ativo" : ""}">${nome}</button>`).join("");
-    const linhas = lista.map((g, i) => {
+    const quadros = lista.map((g, i) => {
       const it = g.it;
-      const outros = g.fontes.filter((f) => domDe(f) !== domDe(it)).slice(0, 4).map((f) => esc(f.f)).join(" · ");
-      return `<li class="ranking__item${i < 3 ? " ranking__item--top" : ""}">
-        <span class="ranking__pos">${String(i + 1).padStart(2, "0")}</span>
-        <a class="ranking__foto" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}</a>
-        <div class="ranking__corpo">
-          <a class="ranking__titulo" href="${hrefNoticia(it)}">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a>
-          <small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${outros ? ` · também em ${outros}` : ""}</small>
+      const resumo = (g.resumo || "").split("\n").filter(Boolean);
+      const outras = g.outras.slice(0, 10).map((f) => `<a href="${esc(f.u)}" target="_blank" rel="noopener" title="${esc(f.s || "")}">${esc(f.f)}</a>`).join("");
+      const mais = g.outras.length > 10 ? `<span class="rq__mais">+${g.outras.length - 10}</span>` : "";
+      const chipsG = chips({ l: g.lanc, c: g.cats }, i === 0 ? 4 : 2);
+      return `<li class="rq${i === 0 ? " rq--primeiro" : i < 3 ? " rq--top" : ""}">
+        <a class="rq__foto" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}
+          <span class="rq__pos">${String(i + 1).padStart(2, "0")}</span>
+          <span class="rq__n"><b>${g.n}</b>${g.n > 1 ? "sites" : "site"}</span></a>
+        <div class="rq__corpo">
+          ${chipsG}
+          <h3 class="rq__titulo"><a href="${hrefNoticia(it)}">${esc(it.t)}</a></h3>
+          <div class="rq__data">${fmtDiaLongo(it.dia)} · ${fmtHora(it.d)}</div>
+          ${resumo.length ? `<p class="rq__resumo">${esc(resumo.join(" "))}</p>` : `<p class="rq__resumo rq__resumo--aguarde">O resumo em português está sendo preparado pelo robô.</p>`}
+          <div class="rq__fontes">
+            <a class="rq__orig" href="${esc(g.orig.u)}" target="_blank" rel="noopener"><span>★ Fonte original</span><b>${esc(g.orig.f)}</b>${g.orig.s ? `<small>${esc(g.orig.s)}</small>` : ""}<i>Ler ↗</i></a>
+            ${outras ? `<div class="rq__outras"><span class="rq__rot">Também publicaram</span>${outras}${mais}</div>` : ""}
+          </div>
+          <a class="rq__ler" href="${hrefNoticia(it)}">Ler o resumo completo ▶</a>
         </div>
-        <span class="ranking__n" title="Sites que publicaram esta notícia"><b>${g.n}</b>${g.n > 1 ? "sites" : "site"}</span>
       </li>`;
     }).join("");
     return `<div class="ranking${completo ? " ranking--completo" : ""}" data-ranking>
@@ -466,17 +493,18 @@
         <h2 class="titulo-secao titulo-secao--tipo"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES.ranking}</svg>Ranking: as 15 mais citadas <small>quantos sites do mundo publicaram a mesma notícia</small></h2>
         <div class="ranking__abas">${abas}</div>
       </div>
-      ${lista.length ? `<ol class="ranking__lista">${linhas}</ol>` : `<p class="painel__dica">Ainda não há notícias neste período.</p>`}
-      ${completo ? "" : `<a class="ranking__ver" href="#c=ranking">Ver o ranking completo ▶</a>`}
+      ${lista.length ? `<ol class="rq-lista">${quadros}</ol>` : `<p class="painel__dica">Ainda não há notícias neste período.</p>`}
     </div>`;
   }
+  const rankingNaInicial = () => false;  // o ranking tem a sua própria aba, ao lado de Destaques
   async function renderRankingInicio(id) {
     const el = $("#ranking");
-    if (!el) return;
-    if (estado.c !== "inicio" || estado.q) { el.innerHTML = ""; return; }
+    document.body.classList.toggle("com-ranking", rankingNaInicial());
+    if (!rankingNaInicial()) { el.innerHTML = ""; return new Set(); }
     const r = await dadosRanking();
-    if (id !== ultimoRender) return;
+    if (id !== ultimoRender) return new Set();
     el.innerHTML = htmlRanking(r.listas, false);
+    return new Set((r.listas[rankAtual] || []).flatMap((g) => g.itens.map((x) => x.id)));
   }
 
   // ------------------------------------------------------------------ página da notícia
@@ -510,18 +538,19 @@
     }
     aprovar(it);
     document.title = it.t + " — Central Robótica";
-    const resumo = (it.rx || it.r || "").split(/\n+/).filter(Boolean);
-    const corpoResumo = resumo.length
-      ? resumo.map((p) => `<p>${esc(p)}</p>`).join("")
-      : `<p class="noticia__aguarde">O robô da Central Robótica ainda está preparando o resumo em português desta notícia. Enquanto isso, você pode ler a matéria completa no site original, logo abaixo.</p>`;
     const original = it.lg && it.lg !== "pt" && it.to
       ? `<p class="noticia__original"><span>Título original (${esc(IDIOMAS[it.lg] || "idioma original")})</span>${esc(it.to)}</p>` : "";
     const perto = await itensDoPeriodo(somaDias(it.dia, -3), [somaDias(it.dia, 3), hojeBR()].sort()[0]);
     if (id !== ultimoRender) return;
     if (!perto.includes(it)) perto.push(it);
     agruparNoticias(perto);
-    const grupoFontes = (it._grupo && it._grupo.fontes) || [{ f: it.f, u: it.u, s: it.s }, ...(it.o || [])];
-    const outras = grupoFontes.filter((o) => o.u && o.u !== it.u && domDe(o) !== domDe(it));
+    const g = it._grupo;
+    const orig = g ? g.orig : { f: it.f, u: it.u, s: it.s };
+    const outras = g ? g.outras : (it.o || []).filter((o) => o.u && o.u !== it.u);
+    const resumo = ((g && g.resumo) || it.rx || it.r || "").split(/\n+/).filter(Boolean);
+    const corpoResumo = resumo.length
+      ? resumo.map((p) => `<p>${esc(p)}</p>`).join("")
+      : `<p class="noticia__aguarde">O robô da Central Robótica ainda está preparando o resumo em português desta notícia. Enquanto isso, você pode ler a matéria completa no site original, logo abaixo.</p>`;
     const nSites = 1 + outras.length;
     const linhaFonte = (o) => {
       const tipo = infoFonte(o.s, o.f);
@@ -535,16 +564,18 @@
     if (cat) {
       const vizinhas = await itensDoPeriodo(somaDias(it.dia, -6), it.dia);
       if (id !== ultimoRender) return;
-      rel = vizinhas.filter((x) => x.id !== it.id && (x.c || []).includes(cat)).sort((a, b) => (b.l || 0) - (a.l || 0) || b.p - a.p).slice(0, 6);
+      const meus = new Set(g ? g.itens.map((x) => x.id) : [it.id]);
+      rel = agruparNoticias(vizinhas.filter((x) => !meus.has(x.id))).map(representante)
+        .filter((x) => (x.c || []).includes(cat)).sort((a, b) => (b.l || 0) - (a.l || 0) || b.p - a.p).slice(0, 6);
     }
-    const tipoOrig = infoFonte(it.s, it.f);
+    const tipoOrig = infoFonte(orig.s, orig.f);
     el.innerHTML = `<article class="noticia">
       <button class="noticia__voltar" id="voltar-noticia">◀ Voltar às notícias</button>
       ${chips(it, 4)}
       <h1 class="noticia__titulo">${esc(it.t)}</h1>
       <div class="noticia__meta"><span>${fmtDiaLongo(it.dia)} · ${fmtHora(it.d)}</span>
         ${it.lg && it.lg !== "pt" ? `<span class="trad">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>` : ""}
-        <span>Publicado por <b>${esc(it.f)}</b></span></div>
+        <span>Publicado primeiro por <b>${esc(orig.f)}</b></span></div>
       <figure class="noticia__foto">${imagem(it)}</figure>
       <section class="noticia__resumo">
         <h2 class="titulo-secao">Resumo da notícia</h2>
@@ -553,9 +584,9 @@
       </section>
       <section class="noticia__fontes">
         <h2 class="titulo-secao">Quem publicou esta notícia <small>${nSites} site${nSites > 1 ? "s" : ""}</small></h2>
-        <a class="fonte-original" href="${esc(it.u)}" target="_blank" rel="noopener">
+        <a class="fonte-original" href="${esc(orig.u)}" target="_blank" rel="noopener">
           <span class="fonte-original__selo">★ Fonte original</span>
-          <span class="fonte-original__nome"><b>${esc(it.f)}</b>${it.s ? `<small>${esc(it.s)}</small>` : ""}</span>
+          <span class="fonte-original__nome"><b>${esc(orig.f)}</b>${orig.s ? `<small>${esc(orig.s)}</small>` : ""}</span>
           ${tipoOrig ? `<span class="fonte-original__tipo">${esc(tipoOrig)}</span>` : ""}
           <span class="fonte-original__ler">Ler a matéria completa no site original ↗</span>
         </a>
@@ -594,17 +625,7 @@
 
     const aviso = $("#aviso");
     aviso.hidden = true;
-    if (estado.p === "hoje" && !todos.length) {
-      const anteriores = diasDisponiveis().filter((d) => d < estado.d);
-      if (anteriores.length) {
-        const ult = anteriores[anteriores.length - 1];
-        todos = await itensDoPeriodo(ult, ult);
-        if (id !== ultimoRender) return;
-        aviso.hidden = false;
-        aviso.innerHTML = `Ainda não há notícias reunidas hoje. Exibindo o dia mais recente: <b>${fmtDiaLongo(ult)}</b>.`;
-        i = f = ult;
-      }
-    }
+    // "Hoje" mostra só as notícias do dia (sem trazer as de ontem)
 
     // busca
     let base = todos;
@@ -612,8 +633,14 @@
       const termos = semAcento(estado.q).split(/\s+/).filter(Boolean);
       base = todos.filter((it) => { const t = semAcento(`${it.t} ${it.r} ${it.f} ${it.to || ""} ${it.s || ""}`); return termos.every((x) => t.includes(x)); });
     }
+    // uma notícia por história: matérias de sites diferentes sobre o mesmo assunto viram um quadro só
+    base = agruparNoticias(base).map(representante);
     contarAbas(base);
-    const itens = base.filter((it) => passaCategoria(it, estado.c));
+    let itens = base.filter((it) => passaCategoria(it, estado.c));
+    // página inicial: o ranking vai no topo e não se repete nas seções de baixo
+    const noRanking = await renderRankingInicio(id);
+    if (id !== ultimoRender) return;
+    if (noRanking.size) itens = itens.filter((it) => !it._ids.some((x) => noRanking.has(x)));
     const multiDia = i !== f;
 
     renderLateral(base, itens);
@@ -622,11 +649,12 @@
     const dest = $("#destaques"), mais = $("#mais-destaques"), outras = $("#outras"), vazio = $("#vazio");
     if (!itens.length) {
       dest.innerHTML = mais.innerHTML = outras.innerHTML = "";
-      if ($("#ranking")) $("#ranking").innerHTML = "";
       vazio.hidden = false;
       vazio.innerHTML = estado.q
         ? `<b>Nada encontrado</b>Nenhuma notícia com “${esc(estado.q)}” neste período e categoria.`
-        : `<b>Sem notícias neste período</b>Tente outro dia, outra categoria ou consulte o arquivo ao lado.`;
+        : estado.p === "hoje"
+          ? `<b>Ainda não há notícias de hoje</b>O robô reúne as notícias do dia a cada hora. <button class="mais" data-ir="dia" data-d="${somaDias(hojeBR(), -1)}">Ver as notícias de ontem</button>`
+          : `<b>Sem notícias neste período</b>Tente outro dia, outra categoria ou consulte o arquivo ao lado.`;
       return;
     }
     vazio.hidden = true;
@@ -643,7 +671,7 @@
     const usados = new Set([...topo, ...cards].map((x) => x.id));
     const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || b.p - a.p || b.d.localeCompare(a.d));
 
-    const nomeCat = estado.c === "inicio" ? "Destaques" : NOME_CAT[estado.c];
+    const nomeCat = estado.c === "inicio" ? (noRanking.size ? "Outros destaques" : "Destaques") : NOME_CAT[estado.c];
     const titPeriodo = estado.p === "hoje" && i === hojeBR() ? "de hoje" : multiDia ? "do período" : "do dia";
 
     // resumo do ano: blocos por mês
@@ -659,7 +687,6 @@
       <div class="destaques__grade">${htmlPrincipal(topo[0], multiDia)}${topo.length > 1 ? `<div class="secundarios">${topo.slice(1).map((x) => htmlSec(x, multiDia)).join("")}</div>` : ""}</div>`;
     if (topo.length === 1) dest.querySelector(".destaques__grade").style.gridTemplateColumns = "1fr";
 
-    renderRankingInicio(id);
     mais.innerHTML = cards.length ? `<h2 class="titulo-secao">Mais destaques</h2><div class="cards">${cards.map((x) => htmlCard(x, multiDia)).join("")}</div>` : "";
 
     const pagina = resto.slice(0, POR_PAGINA * estado.pagina);
@@ -1198,7 +1225,7 @@
       ranking: 15, catalogo: CAT.robos.length, fabricantes: CAT.fabricantes.length, sites: (CAT.sites || []).length, historia: CONT.historia.length,
       curiosidades: (BM.total || 0).toLocaleString("pt-BR"), universidades: ((BM.universidades || 0) + (BM.arxiv || 0)).toLocaleString("pt-BR"),
     };
-    $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
+    $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && c.id !== "ranking" && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.id === "ranking" ? "aba--ranking" : c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
     $("#abas").addEventListener("click", (e) => { const b = e.target.closest(".aba"); if (b) irPara({ c: b.dataset.c, f: "", pagina: 1 }); });
     $("#recarregar").addEventListener("click", atualizarSite);
     $("#atualizar").addEventListener("click", atualizarSite);
@@ -1233,6 +1260,7 @@
       const rk = e.target.closest("[data-rank]");
       if (rk) {
         rankAtual = rk.dataset.rank;
+        if (rankingNaInicial() && !ESPECIAIS.has(estado.c) && !estado.n) { render(); return; }
         const r = await dadosRanking();
         document.querySelectorAll("[data-ranking]").forEach((el) => { el.outerHTML = htmlRanking(r.listas, el.classList.contains("ranking--completo")); });
         return;
