@@ -262,7 +262,10 @@ img { display: block; max-width: 100%; }
   .cards { grid-template-columns: 1fr; }
   .sec { grid-template-columns: 100px 1fr; }
   .periodo__nav strong { min-width: 0; font-size: 10.5px; }
-  .periodo__botoes button { padding: 9px 11px; }
+  .periodo__botoes { display: grid; grid-template-columns: repeat(3, 1fr); width: 100%; }
+  .periodo__botoes button { padding: 10px 4px; border-bottom: 1px solid var(--linha); }
+  .periodo__botoes button:nth-child(3n) { border-right: 0; }
+  .periodo__botoes button:nth-last-child(-n+3) { border-bottom: 0; }
   .menor { grid-template-columns: 72px 1fr; }
   .menor .capa { height: 52px; }
   .rodape__topo { grid-template-columns: 1fr; }
