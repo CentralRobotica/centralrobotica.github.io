@@ -16,16 +16,16 @@
 "fim": false
 },
 "UC Berkeley": {
-"proxima": 19,
-"fim": false
+"proxima": 21,
+"fim": true
 },
 "Berkeley AI Research (BAIR)": {
 "proxima": 2,
 "fim": false
 },
 "University of Washington": {
-"proxima": 19,
-"fim": false
+"proxima": 21,
+"fim": true
 },
 "Caltech": {
 "proxima": 2,
@@ -96,8 +96,8 @@
 "fim": false
 },
 "Robohub": {
-"proxima": 16,
-"fim": false
+"proxima": 17,
+"fim": true
 },
 "New Atlas": {
 "proxima": 11,
