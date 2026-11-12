@@ -132,7 +132,7 @@
   }
 
   // ------------------------------------------------------------------ estado
-  const estado = { c: "inicio", p: "hoje", d: hojeBR(), q: "", pagina: 1, f: "", g: "" };
+  const estado = { c: "inicio", p: "hoje", d: hojeBR(), q: "", pagina: 1, f: "", g: "", n: "", em: "" };
   function lerHash() {
     const h = new URLSearchParams(location.hash.slice(1));
     estado.c = NOME_CAT[h.get("c")] ? h.get("c") : "inicio";
@@ -142,11 +142,15 @@
     estado.q = h.get("q") || "";
     estado.f = h.get("f") || "";
     estado.g = h.get("g") || "";
+    estado.n = h.get("n") || "";
+    estado.em = /^\d{4}-\d{2}-\d{2}$/.test(h.get("em") || "") ? h.get("em") : "";
     estado.pagina = 1;
   }
   function irPara(mud) {
+    if (!("n" in mud)) estado.n = "";
     Object.assign(estado, mud);
     const h = new URLSearchParams();
+    if (estado.n) { h.set("n", estado.n); if (estado.em) h.set("em", estado.em); }
     if (estado.c !== "inicio") h.set("c", estado.c);
     if (estado.p !== "hoje") { h.set("p", estado.p); h.set("d", estado.d); }
     if (estado.q) h.set("q", estado.q);
@@ -308,7 +312,7 @@
     if (it.i) return `<img src="${esc(it.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" data-alt="${alt}" onerror="CR_falhaImagem(this)">`;
     return f ? htmlFoto(f) : placeholder(cat);
   }
-  const capa = (it) => `<div class="capa">${imagem(it)}</div>`;
+  const capa = (it) => `<a class="capa" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}</a>`;
   // a foto da matéria não carregou: usa a ilustrativa (e, em último caso, a arte da categoria)
   window.CR_falhaImagem = (img) => {
     const f = img.dataset.alt ? JSON.parse(decodeURIComponent(img.dataset.alt)) : null;
@@ -347,7 +351,8 @@
     }
     return h + "</div>";
   }
-  const link = (it, txt) => `<a href="${esc(it.u)}" target="_blank" rel="noopener" title="${esc(it.to || "")}">${esc(txt)}</a>`;
+  const hrefNoticia = (it) => `#n=${encodeURIComponent(it.id)}&em=${it.dia || (it.d || "").slice(0, 10)}`;
+  const link = (it, txt) => `<a href="${hrefNoticia(it)}" title="Ler o resumo em português">${esc(txt)}</a>`;
 
   function htmlPrincipal(it, comDia) {
     return `<article class="principal">
@@ -368,11 +373,100 @@
       <h4>${link(it, it.t)}</h4>${fonte(it, true)}</div></li>`;
   }
 
+  // ------------------------------------------------------------------ página da notícia
+  const TIPO_FONTE = { especializado: "Site especializado", imprensa: "Grande veículo internacional", tecnologia: "Site de tecnologia" };
+  function infoFonte(dom, nome) {
+    const c = credDe(dom, nome);
+    return [TIPO_FONTE[c[2]] || (c[0] >= 3 ? "Grande veículo internacional" : c[0] >= 2 ? "Site de tecnologia" : ""), c[4] || ""].filter(Boolean).join(" · ");
+  }
+  async function acharNoticia(idN, dia) {
+    const meses = dia ? [dia.slice(0, 7)] : Object.keys(INDICE.meses).sort().reverse();
+    for (const m of meses) {
+      await carregarMes(m);
+      const dados = window.CR_DADOS[m] || {};
+      const dias = dia && dados[dia] ? [dia, ...Object.keys(dados)] : Object.keys(dados);
+      for (const d of dias) for (const it of dados[d] || []) if (it.id === idN) { it.dia = d; return it; }
+    }
+    return dia ? acharNoticia(idN, "") : null;
+  }
+  async function renderNoticia(id) {
+    const el = $("#especial");
+    document.body.classList.add("modo-especial");
+    $("#especial").hidden = false;
+    for (const s of ["#destaques", "#mais-destaques", "#outras"]) $(s).innerHTML = "";
+    $("#aviso").hidden = $("#vazio").hidden = true;
+    el.innerHTML = `<div class="vazio"><b>Carregando a notícia…</b></div>`;
+    const it = await acharNoticia(estado.n, estado.em);
+    if (id !== ultimoRender) return;
+    if (!it) {
+      el.innerHTML = `<div class="vazio"><b>Notícia não encontrada</b>Ela pode ter saído do arquivo. <a href="#">Voltar às notícias</a></div>`;
+      return;
+    }
+    aprovar(it);
+    document.title = it.t + " — Central Robótica";
+    const resumo = (it.rx || it.r || "").split(/\n+/).filter(Boolean);
+    const corpoResumo = resumo.length
+      ? resumo.map((p) => `<p>${esc(p)}</p>`).join("")
+      : `<p class="noticia__aguarde">O robô da Central Robótica ainda está preparando o resumo em português desta notícia. Enquanto isso, você pode ler a matéria completa no site original, logo abaixo.</p>`;
+    const original = it.lg && it.lg !== "pt" && it.to
+      ? `<p class="noticia__original"><span>Título original (${esc(IDIOMAS[it.lg] || "idioma original")})</span>${esc(it.to)}</p>` : "";
+    const outras = (it.o || []).filter((o) => o.u && o.u !== it.u);
+    const nSites = 1 + outras.length;
+    const linhaFonte = (o) => {
+      const tipo = infoFonte(o.s, o.f);
+      return `<li><a href="${esc(o.u)}" target="_blank" rel="noopener">
+        <span class="outra-fonte__nome"><b>${esc(o.f)}</b>${o.s ? `<small>${esc(o.s)}</small>` : ""}</span>
+        ${tipo ? `<span class="outra-fonte__tipo">${esc(tipo)}</span>` : ""}<span class="outra-fonte__ler">Ler ↗</span></a></li>`;
+    };
+    // mais notícias do mesmo assunto, dos dias próximos
+    const cat = (it.c || []).find((c) => c !== "geral");
+    let rel = [];
+    if (cat) {
+      const vizinhas = await itensDoPeriodo(somaDias(it.dia, -6), it.dia);
+      if (id !== ultimoRender) return;
+      rel = vizinhas.filter((x) => x.id !== it.id && (x.c || []).includes(cat)).sort((a, b) => (b.l || 0) - (a.l || 0) || b.p - a.p).slice(0, 6);
+    }
+    const tipoOrig = infoFonte(it.s, it.f);
+    el.innerHTML = `<article class="noticia">
+      <button class="noticia__voltar" id="voltar-noticia">◀ Voltar às notícias</button>
+      ${chips(it, 4)}
+      <h1 class="noticia__titulo">${esc(it.t)}</h1>
+      <div class="noticia__meta"><span>${fmtDiaLongo(it.dia)} · ${fmtHora(it.d)}</span>
+        ${it.lg && it.lg !== "pt" ? `<span class="trad">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>` : ""}
+        <span>Publicado por <b>${esc(it.f)}</b></span></div>
+      <figure class="noticia__foto">${imagem(it)}</figure>
+      <section class="noticia__resumo">
+        <h2 class="titulo-secao">Resumo da notícia</h2>
+        ${corpoResumo}
+        ${original}
+      </section>
+      <section class="noticia__fontes">
+        <h2 class="titulo-secao">Quem publicou esta notícia <small>${nSites} site${nSites > 1 ? "s" : ""}</small></h2>
+        <a class="fonte-original" href="${esc(it.u)}" target="_blank" rel="noopener">
+          <span class="fonte-original__selo">★ Fonte original</span>
+          <span class="fonte-original__nome"><b>${esc(it.f)}</b>${it.s ? `<small>${esc(it.s)}</small>` : ""}</span>
+          ${tipoOrig ? `<span class="fonte-original__tipo">${esc(tipoOrig)}</span>` : ""}
+          <span class="fonte-original__ler">Ler a matéria completa no site original ↗</span>
+        </a>
+        ${outras.length ? `<h3 class="noticia__sub">Outros sites que também falam desta notícia</h3><ul class="outras-fontes">${outras.map(linhaFonte).join("")}</ul>` : ""}
+      </section>
+      ${rel.length ? `<section class="noticia__rel"><h2 class="titulo-secao">Mais notícias de ${esc(NOME_CAT[cat] || cat)}</h2><ul class="mini">${rel.map(miniNoticia).join("")}</ul></section>` : ""}
+    </article>`;
+    $("#voltar-noticia").addEventListener("click", () => {
+      if (veioDoSite) history.back(); else irPara({ n: "", em: "" });
+    });
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }
+  let veioDoSite = false;
+  window.addEventListener("hashchange", () => { if (/[#&]n=/.test(location.hash)) veioDoSite = true; });
+
   // ------------------------------------------------------------------ render
   let ultimoRender = 0;
   async function render() {
     const id = ++ultimoRender;
     marcarControles();
+    document.body.classList.toggle("modo-noticia", !!estado.n);
+    if (estado.n) { await renderNoticia(id); return; }
     const especial = ESPECIAIS.has(estado.c);
     document.body.classList.toggle("modo-especial", especial);
     $("#especial").hidden = !especial;
@@ -626,7 +720,7 @@
   };
   const linkNoticias = (q, n) => `<a class="btn-noticias" href="#p=ano&d=${hojeBR()}&q=${encodeURIComponent(q)}">${n} notícia${n === 1 ? "" : "s"} →</a>`;
   function miniNoticia(it) {
-    return `<li class="mini__item">${miniFoto(it)}<div><a href="${esc(it.u)}" target="_blank" rel="noopener">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a><small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${it.s ? " (" + esc(it.s) + ")" : ""}</small></div></li>`;
+    return `<li class="mini__item">${miniFoto(it)}<div><a href="${hrefNoticia(it)}">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a><small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${it.s ? " (" + esc(it.s) + ")" : ""}</small></div></li>`;
   }
   // imagem com reserva: tenta a foto principal; se falhar, usa a ilustrativa dos assuntos
   function imgComReserva(src, chaves, semente, cat) {
@@ -1051,7 +1145,10 @@
     $("#total-historico").textContent = INDICE.total ? `${INDICE.total.toLocaleString("pt-BR")} notícias no arquivo` : "";
 
     // fontes no rodapé
-    const fontes = Object.entries(INDICE.fontes || {}).sort((a, b) => a[0].localeCompare(b[0], "pt"));
+    // só os sites aprovados (especializados e grandes veículos do mundo — nada do Brasil)
+    const vistos = new Set();
+    const fontes = Object.entries(MAIORES).filter(([dom, v]) => !dom.endsWith(".br") && v[1] && !vistos.has(v[1]) && vistos.add(v[1]))
+      .map(([dom, v]) => [v[1], dom]).sort((a, b) => a[0].localeCompare(b[0], "pt"));
     $("#fontes").innerHTML = fontes.map(([nome, dom]) => `<a href="https://${esc(dom)}" target="_blank" rel="noopener" title="${esc(dom)}">${esc(nome)}</a>`).join("") || "—";
 
     renderArquivo();

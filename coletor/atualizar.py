@@ -34,8 +34,8 @@ ARQ_INDICE = os.path.join(RAIZ, "dados", "indice.js")
 BRASILIA = timezone(timedelta(hours=-3))  # Brasil sem horário de verão
 AGORA = datetime.now(BRASILIA)
 DIAS_MAX_ATRAS = 45  # ignora notícias mais antigas que isso
-LIMITE_GOOGLE = 160  # links do Google Notícias resolvidos por execução (em fila, devagar)
-INTERVALO_GOOGLE = 1.8  # segundos entre pedidos ao Google (evita bloqueio 429)
+LIMITE_GOOGLE = 220  # links do Google Notícias resolvidos por execução (em fila, devagar)
+INTERVALO_GOOGLE = 3.0  # segundos entre pedidos ao Google (evita bloqueio 429)
 LIMITE_COMPLETAR = 400  # notícias completadas (imagem/resumo) por execução
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
 
@@ -488,7 +488,9 @@ def tokens(titulo):
 
 
 def parecido(a, b):
-    if not a or not b:
+    """Semelhança entre dois títulos. Exige ao menos 2 palavras em comum: títulos em chinês,
+    japonês ou coreano só têm números/siglas latinas ("2026") e não podem ser juntados por isso."""
+    if not a or not b or len(a & b) < 2:
         return 0.0
     return len(a & b) / len(a | b)
 
@@ -655,10 +657,44 @@ def ler_feed(fonte):
 # --------------------------------------------------------------------------- #
 def meta_pagina(url):
     """Abre a página original e devolve (imagem, descrição) das meta tags."""
+    imagem, descricao, _ = pagina_artigo(url)
+    return imagem, descricao
+
+
+_LIXO_PARAGRAFO = re.compile(
+    r"cookie|subscribe|newsletter|sign up|log ?in|all rights reserved|©|copyright|advertis|javascript|"
+    r"your browser|privacy policy|terms of (?:use|service)|follow us|click here|read more|related:|"
+    r"assine|inscreva|publicidade|todos os direitos|版权|著作権|무단|저작권|광고|免责声明|責任編輯|记者|記者",
+    re.I)
+
+
+def paragrafos_artigo(pagina):
+    """Primeiros parágrafos do texto da matéria (sem menus, avisos e rodapés)."""
+    corpo = pagina
+    m = re.search(r"(?is)<article\b.*?</article>", pagina)
+    if m and len(m.group(0)) > 1500:
+        corpo = m.group(0)
+    corpo = re.sub(r"(?is)<(script|style|nav|header|footer|aside|figure|form|noscript)\b.*?</\1>", " ", corpo)
+    saida = []
+    for bruto in re.findall(r"(?is)<p\b[^>]*>(.*?)</p>", corpo):
+        t = limpar_html(bruto)
+        cjk = len(_CJK.findall(t)) and sum(len(x) for x in _CJK.findall(t)) > len(t) * 0.3
+        if len(t) < (35 if cjk else 90) or _LIXO_PARAGRAFO.search(t):
+            continue
+        if any(t[:60] in x for x in saida):
+            continue
+        saida.append(t)
+        if sum(len(x) for x in saida) > 40000:
+            break
+    return saida
+
+
+def pagina_artigo(url, titulo=""):
+    """Abre a página original e devolve (imagem, descrição, resumo da matéria inteira)."""
     try:
-        pagina = baixar(url, timeout=12, limite=600_000).decode("utf-8", "ignore")
+        pagina = baixar(url, timeout=12, limite=1_500_000).decode("utf-8", "ignore")
     except Exception:
-        return "", ""
+        return "", "", ""
     imagem = descricao = ""
     for padrao in (
         r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)',
@@ -678,7 +714,123 @@ def meta_pagina(url):
         if m:
             descricao = cortar(limpar_html(m.group(1)), 320)
             break
-    return imagem, descricao
+    return imagem, descricao, resumir(titulo, descricao, paragrafos_artigo(pagina))
+
+
+_PARADAS = set("""
+the and for that with this from have has had was were are been being will would could should into about after
+before over under than then them they their there these those which while where when what who whom whose also
+just more most such only very said says can its it's not but our out new one two all any how why his her she
+him you your we us may might must per via de la le les des du un une et est pour dans par sur que qui avec
+pas plus ses son aux die der das und den dem des ein eine ist mit von für auf nicht sich auch als bei wie
+el los las del por con una para que como más sus son está fue han ser il lo gli della dei per con che non
+una sono come più anche nel alla delle dos das uma com por para que como mais seus suas são está foi
+""".split())
+_FRASES = re.compile(r"(?<=[.!?…])(?<!\s[A-Z]\.)(?<!Mr\.)(?<!Dr\.)(?<!Ms\.)(?<!St\.)(?<!Inc\.)(?<!Co\.)(?<!vs\.)\s+(?=[\"“'A-ZÀ-Ý0-9가-힯])|(?<=[。！？])")
+_PALAVRA = re.compile(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’\-]{2,}|[0-9]+(?:[.,][0-9]+)?%?|[가-힯]{2,}")
+
+
+_LEGENDA = re.compile(r"(?i)(?:credit|crédito|image|photo|foto|source|getty images|shutterstock)\s*:|\s\|\s|^\(?(?:photo|foto|image)")
+
+
+def _tokens(frase):
+    """Palavras importantes de uma frase (letras latinas, coreano) + pares de caracteres (chinês/japonês)."""
+    toks = [w.lower() for w in _PALAVRA.findall(frase)]
+    toks = [w for w in toks if w not in _PARADAS and len(w) >= 3 or w[:1].isdigit() or "가" <= w[:1] <= "힯"]
+    for bloco in re.findall(r"[぀-ヿ㐀-鿿]{2,}", frase):
+        toks += [bloco[i:i + 2] for i in range(len(bloco) - 1)]
+    return toks
+
+
+def resumir(titulo, descricao, paragrafos, limite=900):
+    """Resumo da matéria inteira: dá nota a cada frase pelas palavras mais repetidas no texto
+    (e as do título) e junta as frases mais importantes, na ordem em que aparecem."""
+    frases = []
+    for i, p in enumerate(paragrafos):
+        for f in _FRASES.split(p):
+            f = f.strip()
+            if 25 <= len(f) <= 600 and not _LEGENDA.search(f):
+                frases.append((i, f))
+    if not frases:
+        return descricao
+    # chinês/japonês dizem muito mais em poucos caracteres
+    texto_todo = "".join(f for _, f in frases)
+    if sum(len(x) for x in re.findall(r"[぀-ヿ㐀-鿿]+", texto_todo)) > len(texto_todo) * 0.4:
+        limite = int(limite * 0.3)
+    freq = {}
+    for _, f in frases:
+        for t in set(_tokens(f)):
+            freq[t] = freq.get(t, 0) + 1
+    tit = set(_tokens(titulo)) | set(_tokens(descricao))
+    total = len(frases)
+    notas = []
+    for n, (par, f) in enumerate(frases):
+        toks = _tokens(f)
+        if len(toks) < 3:
+            notas.append(0)
+            continue
+        nota = sum(freq.get(t, 0) for t in set(toks)) / (len(set(toks)) ** 0.6)
+        nota *= 1 + 0.25 * len(tit & set(toks)) ** 0.5     # fala do assunto do título
+        nota *= 1.35 if n < 3 else 1.15 if n < total * 0.25 else 1.0  # o começo costuma ter o essencial
+        if re.search(r"\d", f):
+            nota *= 1.1                                   # números, datas, preços, metas
+        notas.append(nota)
+    escolhidas, tam = set(), 0
+    for n in sorted(range(total), key=lambda k: -notas[k]):
+        f = frases[n][1]
+        if notas[n] <= 0 or any(f[:50] in frases[k][1] for k in escolhidas):
+            continue
+        if tam and tam + len(f) > limite:
+            continue
+        escolhidas.add(n)
+        tam += len(f)
+        if tam >= limite * 0.8 or len(escolhidas) >= 7:
+            break
+    ordem = sorted(escolhidas)
+    # junta em 2 ou 3 parágrafos, seguindo os parágrafos da matéria
+    blocos, atual, ultimo_par = [], [], None
+    for n in ordem:
+        par, f = frases[n]
+        if atual and (len(" ".join(atual)) > limite / 2.5) and par != ultimo_par:
+            blocos.append(" ".join(atual))
+            atual = []
+        atual.append(f)
+        ultimo_par = par
+    if atual:
+        blocos.append(" ".join(atual))
+    texto = "\n".join(blocos).strip()
+    return texto or descricao
+
+
+def traduzir_longo(texto, max_bytes=1500):
+    """Traduz um texto longo em pedaços de frases (cada pedido ao tradutor tem limite de tamanho)."""
+    pedacos, atual = [], ""
+    for f in re.split(r"(?<=[.!?。！？\n])", texto):
+        if atual and len((atual + f).encode("utf-8")) > max_bytes:
+            pedacos.append(atual)
+            atual = ""
+        atual += f
+    if atual.strip():
+        pedacos.append(atual)
+    saida = []
+    for pedaco in pedacos[:4]:
+        pedaco = _cabe_no_tradutor(pedaco, max_bytes)
+        quebra = pedaco.endswith("\n")
+        t, ok, _ = traduzir(pedaco.strip())
+        if not ok:
+            return texto, False
+        saida.append(t + ("\n" if quebra else " "))
+    return "".join(saida).strip(), True
+
+
+def _cabe_no_tradutor(texto, max_bytes=1600):
+    """O tradutor recebe o texto pelo endereço: corta textos longos (CJK ocupa 3 bytes por letra)."""
+    while len(texto.encode("utf-8")) > max_bytes:
+        texto = texto[: int(len(texto) * 0.85)]
+        corte = max(texto.rfind(". "), texto.rfind("。"), texto.rfind("\n"))
+        if corte > len(texto) * 0.5:
+            texto = texto[:corte + 1]
+    return texto
 
 
 IMAGENS_GENERICAS = set()
@@ -712,7 +864,7 @@ def resolver_google(link):
 def _resolver_google(link):
     try:
         gid = urllib.parse.urlsplit(link).path.rstrip("/").split("/")[-1]
-        pagina = baixar(f"https://news.google.com/articles/{gid}", timeout=15, limite=600_000).decode("utf-8", "ignore")
+        pagina = baixar(f"https://news.google.com/articles/{gid}", timeout=20, limite=3_000_000).decode("utf-8", "ignore")
         sg = re.search(r'data-n-a-sg="([^"]+)"', pagina)
         ts = re.search(r'data-n-a-ts="([^"]+)"', pagina)
         if not (sg and ts):
@@ -744,16 +896,24 @@ def completar_item(item_salvo):
     alvos += [o["u"] for o in item_salvo.get("o", []) if "news.google.com" not in o["u"]]
     item_salvo["mx"] = item_salvo.get("mx", 0) + 1  # tentativas
     for alvo in alvos[:4]:
-        img, desc = meta_pagina(alvo)
+        img, desc, texto = pagina_artigo(alvo, item_salvo.get("to") or item_salvo.get("t", ""))
         if img in IMAGENS_GENERICAS:
             img = ""
         if img and not item_salvo.get("i"):
             item_salvo["i"] = img
-        if desc and not item_salvo.get("r") and alvo == item_salvo["u"]:
-            if item_salvo.get("lg") and item_salvo["lg"] != "pt":
-                desc, ok, _ = traduzir(desc)
-            item_salvo["r"] = desc
-        if item_salvo.get("i") and item_salvo.get("r"):
+        if texto and not item_salvo.get("rx"):
+            # resumo em português da notícia (página da notícia no site)
+            lingua = item_salvo.get("lg") or "x"
+            ok = True
+            if lingua != "pt":
+                texto, ok = traduzir_longo(texto)
+            if ok:
+                item_salvo["rx"] = texto
+                if not item_salvo.get("r"):
+                    item_salvo["r"] = cortar(texto.split("\n")[0], 320)
+            elif _TRAD["bloqueado"]:
+                item_salvo["mx"] -= 1  # tradutor ocupado: a tentativa não conta
+        if item_salvo.get("i") and item_salvo.get("rx"):
             break
     item_salvo["p"] = relevancia(item_salvo)
 
@@ -1261,9 +1421,9 @@ def main():
     IMAGENS_GENERICAS.update(genericas)
 
     # 3) imagem de destaque (e resumo) para quem ainda não tem
-    falta = [x for x in todos if (not x.get("i") or not x.get("r")) and x.get("mx", 0) < 3
+    falta = [x for x in todos if (not x.get("i") or not x.get("rx")) and x.get("mx", 0) < 3
              and ("news.google.com" not in x["u"] or any("news.google.com" not in o["u"] for o in x.get("o", [])))]
-    falta.sort(key=lambda x: (bool(x.get("i")), -(x.get("l") or 0), -int(x["d"][:10].replace("-", "")), -x["p"]))
+    falta.sort(key=lambda x: (-int(x["d"][:10].replace("-", "")), bool(x.get("i")), -(x.get("l") or 0), -x["p"]))
     falta = falta[:LIMITE_COMPLETAR]
     if falta:
         print(f"Buscando imagem de destaque e resumo para {len(falta)} notícias...")
