@@ -68,7 +68,11 @@ def git(*args):
 
 
 def publicar(log):
-    """Envia as notícias novas para o GitHub, se a pasta estiver ligada a um repositório."""
+    """Envia as notícias novas para o GitHub, se a pasta estiver ligada a um repositório.
+    Só publica quando roda no próprio GitHub (Actions) ou com CR_PUBLICAR=1 — no PC a
+    coleta só atualiza a cópia local, sem ficar esperando login em segundo plano."""
+    if os.environ.get("GITHUB_ACTIONS") != "true" and os.environ.get("CR_PUBLICAR") != "1":
+        return
     if not os.path.isdir(os.path.join(RAIZ, ".git")):
         return
     if not git("remote").stdout.strip():
