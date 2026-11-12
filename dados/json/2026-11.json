@@ -989,6 +989,7 @@
 "cv": "NDTV"
 },
 {
+<<<<<<< Updated upstream
 "id": "aa1991a1554c48",
 "t": "Black Friday Ecovacs: até 800€ de desconto nestes 5 robots que farão a limpeza por si!",
 "r": "",
@@ -1144,6 +1145,8 @@
 "cv": "Süddeutsche Zeitung"
 },
 {
+=======
+>>>>>>> Stashed changes
 "id": "1ae6be660537f9",
 "t": "Ring confirma que seu drone de câmera não terá controles manuais após travar na CBS News",
 "r": "Quando (ou se) o drone da câmera de segurança do Ring voar até nossas casas em janeiro, você não terá a opção de pilotá-lo sozinho. A Ring Drone Cam depende inteiramente de um sistema \"AI Pilot\" para seguir rotas pré-programadas e navegar de forma autônoma em torno de obstáculos, sem opção de controle manual disponível - e uma experiência embaraçosa…",
@@ -5856,6 +5859,7 @@
 "cr": 3,
 "cv": "ANSA",
 "gx": 3
+<<<<<<< Updated upstream
 },
 {
 "id": "35fd9c0c1bc5a6",
@@ -5885,6 +5889,8 @@
 "id": "cb86577744e57b"
 }
 ]
+=======
+>>>>>>> Stashed changes
 },
 {
 "id": "5b5f91c4181765",
@@ -6039,6 +6045,7 @@
 "cr": 3,
 "cv": "Mainichi",
 "gx": 2
+<<<<<<< Updated upstream
 },
 {
 "id": "fb388a33e1ed7a",
@@ -6080,6 +6087,8 @@
 "id": "58328fa9c96c1d"
 }
 ]
+=======
+>>>>>>> Stashed changes
 },
 {
 "id": "2db769c5554b2f",
@@ -6228,6 +6237,30 @@
 "cr": 3,
 "cv": "Taipei Times",
 "gx": 2
+<<<<<<< Updated upstream
+=======
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU2VFN2dSRjJZYkp0NzJsdU13d1NhUUhpUnhia3ZlT2lUTml4NzVGWXBKQkgwbHlyd1JRbDFvRkhFTmJzX1hEYW0tLXVFM1NVdjc0azBuMG85WURnR2RIM25QUy1xWFFCMnhSZHVGQTNIMG9vcUdqNnpqaTJiYWVOUjNHaTJCdzN0dWFlZTBfamxMUGNqLWwwTEJpR0xSa0pGSDBHUGZDbW5KWDBhSnlDUWVSd1JDSjlyd1ZPUnIzZjg1YVpKNUpsYjZGZUV3Sk43R2xoN3lYQ0VoeWk2d0E?oc=5",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 9.5,
+"cr": 3,
+"cv": "The Globe and Mail",
+"gx": 2
+>>>>>>> Stashed changes
 },
 {
 "id": "93d36608b8aac8",
@@ -6248,6 +6281,7 @@
 "cr": 3,
 "cv": "Interesting Engineering",
 "gx": 2
+<<<<<<< Updated upstream
 },
 {
 "id": "44198e2d9501cf",
@@ -6268,6 +6302,8 @@
 "cr": 3,
 "cv": "CBS News",
 "gx": 1
+=======
+>>>>>>> Stashed changes
 },
 {
 "id": "51893e983d0f51",
@@ -6308,7 +6344,7 @@
 "p": 9.0,
 "cr": 2,
 "cv": "CNET",
-"gx": 1
+"gx": 2
 },
 {
 "id": "32c3748ce3866b",
@@ -6328,7 +6364,7 @@
 "p": 9.0,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"gx": 1
+"gx": 2
 },
 {
 "id": "01548b720b07d9",
@@ -6348,7 +6384,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "ETNews",
-"gx": 1
+"gx": 2
 },
 {
 "id": "816ac7354e0ecb",
@@ -6367,7 +6403,8 @@
 "lg": "zh",
 "p": 8.2,
 "cr": 2,
-"cv": "36Kr"
+"cv": "36Kr",
+"gx": 1
 },
 {
 "id": "a52474b84e5c89",
@@ -6387,7 +6424,8 @@
 "lg": "en",
 "p": 8.2,
 "cr": 2,
-"cv": "Engadget"
+"cv": "Engadget",
+"gx": 1
 },
 {
 "id": "b6dc06006846ec",
