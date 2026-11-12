@@ -332,3 +332,8 @@ body.com-ranking .painel--citadas { display: none; }
 .aba--ranking:hover { background: linear-gradient(180deg, rgba(225, 6, 0, .55), rgba(225, 6, 0, .2)); }
 .aba--ranking.ativa { background: var(--vermelho); }
 .aba--ranking.ativa svg { color: #ffd34d; }
+
+/* link que cobre a foto (abre a página da notícia) sem envolver o link do crédito */
+.capa__link { position: absolute; inset: 0; z-index: 1; }
+.capa .credito, .rq__foto .credito { z-index: 2; }
+.rq__pos, .rq__n { z-index: 3; pointer-events: none; }

@@ -314,7 +314,8 @@
     if (it.i) return `<img src="${esc(it.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" data-alt="${alt}" onerror="CR_falhaImagem(this)">`;
     return f ? htmlFoto(f) : placeholder(cat);
   }
-  const capa = (it) => `<a class="capa" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}</a>`;
+  // a foto abre a página da notícia (o link cobre a foto; não pode envolver o link do crédito)
+  const capa = (it) => `<div class="capa">${imagem(it)}<a class="capa__link" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true"></a></div>`;
   // a foto da matéria não carregou: usa a ilustrativa (e, em último caso, a arte da categoria)
   window.CR_falhaImagem = (img) => {
     const f = img.dataset.alt ? JSON.parse(decodeURIComponent(img.dataset.alt)) : null;
@@ -472,9 +473,9 @@
       const mais = g.outras.length > 10 ? `<span class="rq__mais">+${g.outras.length - 10}</span>` : "";
       const chipsG = chips({ l: g.lanc, c: g.cats }, i === 0 ? 4 : 2);
       return `<li class="rq${i === 0 ? " rq--primeiro" : i < 3 ? " rq--top" : ""}">
-        <a class="rq__foto" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}
+        <div class="rq__foto">${imagem(it)}<a class="capa__link" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true"></a>
           <span class="rq__pos">${String(i + 1).padStart(2, "0")}</span>
-          <span class="rq__n"><b>${g.n}</b>${g.n > 1 ? "sites" : "site"}</span></a>
+          <span class="rq__n"><b>${g.n}</b>${g.n > 1 ? "sites" : "site"}</span></div>
         <div class="rq__corpo">
           ${chipsG}
           <h3 class="rq__titulo"><a href="${hrefNoticia(it)}">${esc(it.t)}</a></h3>
