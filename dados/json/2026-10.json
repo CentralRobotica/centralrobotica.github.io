@@ -109,7 +109,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "45fd290d29a06f",
@@ -130,7 +130,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "2cc9a057b610d2",
@@ -151,7 +151,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "41c2227ec580f6",
@@ -220,34 +220,13 @@
 ],
 "2026-10-29": [
 {
-"id": "a33445f403b3c9",
-"t": "Sistemas 6-DOF MagLev para embalagens avançadas introduzidos na SEMICON West 2026, novidade da PI",
-"r": "Estágios lineares, rotativos e AFM de seis eixos levitados magneticamente proporcionam estabilidade nanométrica e correção de erros durante o processo para colagem, inspeção e metrologia",
-"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/6-dof-maglev-systems-for-advanced-packaging-introduced-at-semicon-west-2026-new-from-pi-/27321",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-10-29T10:31-03:00",
-"c": [
-"inspecao"
-],
-"l": 0,
-"to": "6-DOF MagLev Systems for Advanced Packaging Introduced at SEMICON West 2026, new from PI",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
-},
-{
 "id": "b6d910ad7cf2c1",
 "t": "AGIBOT apresenta Worken para medir o trabalho produtivo do robô no AGIBOT Innovation Day 2026",
 "r": "AGIBOT revela sua plataforma de hardware integrada AHA3, modelo GO-3 Preview e WITA-Omni, lança formalmente G2 Max e Link-U OS 1.0 e destaca implantações no mundo real",
 "u": "http://www.RoboticsTomorrow.com/news/2026/10/29/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026/27319",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-10-29T10:07-03:00",
 "c": [
 "humanoides"
@@ -256,11 +235,79 @@
 "to": "AGIBOT Introduces Worken to Measure Productive Robot Work at AGIBOT Innovation Day 2026",
 "lg": "en",
 "esp": 1,
-"p": 5.4,
-"mx": 1,
+"p": 6.4,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "AGIBOT revela sua plataforma de hardware integrada AHA3, modelo GO-3 Preview e WITA-Omni, lança formalmente G2 Max e Link-U OS 1.0 e destaca implementações no mundo real A AGIBOT apresentou hoje o Worken, uma estrutura proposta para medir o trabalho produtivo realizado por robôs em ambientes do mundo real, no AGIBOT Innovation Day 2026 em Xangai. A empresa estreou o GO-3 Preview, seu modelo de base de IA incorporada de próxima geração, apresentou seu modelo de interação omnimodal WITA-Omni e lançou o robô industrial G2 Max e o Link-U OS 1.0. Juntos, AHA3, AGILE, GO-3 Preview e WITA-Omni refletem o progresso da AGIBOT em arquitetura de hardware integrada, inteligência de locomoção, execução de tarefas e interação humano-robô. AGIBOT lança G2 Max e destaca implantações no mundo real A AGIBOT lançou o G2 Max, um robô industrial de serviço pesado projetado para aplicações de manufatura e logística."
+},
+{
+"id": "90f17187580f72",
+"t": "Electromate comemora 40 anos de excelência em engenharia e compromisso com a automação canadense",
+"r": "Marcando quatro décadas de conhecimento técnico, parcerias confiáveis ​​e uma cultura que prioriza as pessoas nas indústrias de mecatrônica e robótica do Canadá.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/electromate-celebrates-40-years-of-engineering-excellence-and-commitment-to-canadian-automation/27320",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-10-29T10:28-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Electromate Celebrates 40 Years of Engineering Excellence and Commitment to Canadian Automation",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Marcando quatro décadas de conhecimento técnico, parcerias confiáveis ​​e uma cultura que prioriza as pessoas nas indústrias de mecatrônica e robótica do Canadá. VAUGHAN, ONTÁRIO, 1º de novembro de 2026 - Electromate Inc., um distribuidor canadense líder de controle de movimento de precisão, soluções mecatrônicas e robóticas, comemora orgulhosamente seu 40º aniversário, marcando quatro décadas ajudando engenheiros e fabricantes canadenses a resolver desafios complexos de automação. Quatro Décadas de Parcerias Confiáveis ​​O sucesso da Electromate foi construído em relacionamentos duradouros com clientes, fornecedores e funcionários. Através de parcerias com fabricantes líderes globais, a Electromate fornece soluções avançadas de automação, experiência em engenharia de aplicação e suporte técnico para ajudar os clientes a projetar e construir máquinas confiáveis ​​e de alto desempenho e sistemas complexos de automação e robótica."
+},
+{
+"id": "a14b0cce81bb63",
+"t": "IMTS estende parceria com McCormick Place até 2034, reforçando impacto econômico de US$ 500 milhões em Chicago",
+"r": "AMT – The Association For Manufacturing Technology and McCormick Place announce extended agreement for 2032 and 2034 shows alongside $101,000 investment in Chicago Public Schools STEM education.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/imts-extends-mccormick-place-partnership-through-2034-reinforcing-500m-economic-impact-on-chicago/27323",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-10-29T17:27-03:00",
+"c": [
+"negocios",
+"educacao",
+"industriais"
+],
+"l": 0,
+"to": "IMTS Extends McCormick Place Partnership Through 2034, Reinforcing $500M Economic Impact on Chicago",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "AMT – A Association For Manufacturing Technology e McCormick Place anunciam um acordo estendido para programas de 2032 e 2034, juntamente com um investimento de US$ 101.000 na educação STEM das Escolas Públicas de Chicago. Chicago (29 de outubro de 2026) — AMT - The Association For Manufacturing Technology, produtora do IMTS - The International Manufacturing Technology Show, e McCormick Place anunciaram hoje uma extensão de sua parceria de longa data, garantindo Chicago como sede do principal evento da AMT, IMTS, até 2034. Em parceria com a Haas Automation e a Gene Haas Foundation, a IMTS está contribuindo com US$ 101.000 para as Escolas Públicas de Chicago (CPS) para apoiar a educação STEM programas que apresentam aos alunos tecnologias avançadas de fabricação e oportunidades de carreira."
+},
+{
+"id": "8238768b37f504",
+"t": "Usinagem de peças grandes transformada com robótica de alta precisão",
+"r": "For some applications, investing in a CNC machine results in paying for unnecessary capability. Fives High Precision Machines (Fives HPM) provides a different and more effective approach with the Liné Machines RoboTDM, a high-precision robotic machining solution that brings direct milling, trimming, and drilling to…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/large-part-machining-transformed-with-high-precision-robotics/27324",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-10-29T19:38-03:00",
+"c": [
+"inspecao"
+],
+"l": 0,
+"to": "Large-Part Machining Transformed with High-Precision Robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Para algumas aplicações, investir em uma máquina CNC resulta no pagamento de recursos desnecessários. Fives High Precision Machines (Fives HPM) oferece uma abordagem diferente e mais eficaz com o Liné Machines RoboTDM, uma solução de usinagem robótica de alta precisão que traz fresamento, corte e perfuração diretos para peças grandes. A usinagem de componentes grandes requer uma grande máquina-ferramenta CNC, certo? Para aplicações onde tolerâncias até aproximadamente 0,1 mm são aceitáveis, o Liné Machines RoboTDM oferece uma alternativa altamente atrativa. Em última análise, ao atingir um nível de precisão suficiente para uma variedade de aplicações de peças grandes, o RoboTDM oferece aos fabricantes outra opção entre a robótica convencional e o custo de grandes máquinas-ferramentas CNC."
 },
 {
 "id": "7b870dd7b313c6",
@@ -307,72 +354,44 @@
 "rx": "O software Percepto Axion traz análise de inspeção baseada em IA para frotas de drones, sensores e registros de inspeção existentes."
 },
 {
-"id": "90f17187580f72",
-"t": "Electromate comemora 40 anos de excelência em engenharia e compromisso com a automação canadense",
-"r": "Marcando quatro décadas de conhecimento técnico, parcerias confiáveis ​​e uma cultura que prioriza as pessoas nas indústrias de mecatrônica e robótica do Canadá.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/electromate-celebrates-40-years-of-engineering-excellence-and-commitment-to-canadian-automation/27320",
-"f": "RoboticsTomorrow.com News",
+"id": "a33445f403b3c9",
+"t": "Sistemas 6-DOF MagLev para embalagens avançadas introduzidos na SEMICON West 2026, novidade da PI",
+"r": "Estágios lineares, rotativos e AFM de seis eixos levitados magneticamente proporcionam estabilidade nanométrica e correção de erros durante o processo para colagem, inspeção e metrologia",
+"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/6-dof-maglev-systems-for-advanced-packaging-introduced-at-semicon-west-2026-new-from-pi-/27321",
+"f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
 "i": "",
-"d": "2026-10-29T10:28-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Electromate Celebrates 40 Years of Engineering Excellence and Commitment to Canadian Automation",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Marcando quatro décadas de conhecimento técnico, parcerias confiáveis ​​e uma cultura que prioriza as pessoas nas indústrias de mecatrônica e robótica do Canadá. VAUGHAN, ONTÁRIO, 1º de novembro de 2026 - Electromate Inc., um distribuidor canadense líder de controle de movimento de precisão, soluções mecatrônicas e robóticas, comemora orgulhosamente seu 40º aniversário, marcando quatro décadas ajudando engenheiros e fabricantes canadenses a resolver desafios complexos de automação. Quatro Décadas de Parcerias Confiáveis ​​O sucesso da Electromate foi construído em relacionamentos duradouros com clientes, fornecedores e funcionários. Através de parcerias com fabricantes líderes globais, a Electromate fornece soluções avançadas de automação, experiência em engenharia de aplicação e suporte técnico para ajudar os clientes a projetar e construir máquinas confiáveis ​​e de alto desempenho e sistemas complexos de automação e robótica."
-},
-{
-"id": "a14b0cce81bb63",
-"t": "IMTS estende parceria com McCormick Place até 2034, reforçando impacto econômico de US$ 500 milhões em Chicago",
-"r": "AMT – The Association For Manufacturing Technology and McCormick Place announce extended agreement for 2032 and 2034 shows alongside $101,000 investment in Chicago Public Schools STEM education.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/imts-extends-mccormick-place-partnership-through-2034-reinforcing-500m-economic-impact-on-chicago/27323",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-10-29T17:27-03:00",
-"c": [
-"negocios",
-"educacao",
-"industriais"
-],
-"l": 0,
-"to": "IMTS Extends McCormick Place Partnership Through 2034, Reinforcing $500M Economic Impact on Chicago",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "AMT – A Association For Manufacturing Technology e McCormick Place anunciam um acordo estendido para programas de 2032 e 2034, juntamente com um investimento de US$ 101.000 na educação STEM das Escolas Públicas de Chicago. Chicago (29 de outubro de 2026) — AMT - The Association For Manufacturing Technology, produtora do IMTS - The International Manufacturing Technology Show, e McCormick Place anunciaram hoje uma extensão de sua parceria de longa data, garantindo Chicago como sede do principal evento da AMT, IMTS, até 2034. Em parceria com a Haas Automation e a Gene Haas Foundation, a IMTS está contribuindo com US$ 101.000 para as Escolas Públicas de Chicago (CPS) para apoiar a educação STEM programas que apresentam aos alunos tecnologias avançadas de fabricação e oportunidades de carreira."
-},
-{
-"id": "8238768b37f504",
-"t": "Usinagem de peças grandes transformada com robótica de alta precisão",
-"r": "For some applications, investing in a CNC machine results in paying for unnecessary capability. Fives High Precision Machines (Fives HPM) provides a different and more effective approach with the Liné Machines RoboTDM, a high-precision robotic machining solution that brings direct milling, trimming, and drilling to…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/10/29/large-part-machining-transformed-with-high-precision-robotics/27324",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-10-29T19:38-03:00",
+"d": "2026-10-29T10:31-03:00",
 "c": [
 "inspecao"
 ],
 "l": 0,
-"to": "Large-Part Machining Transformed with High-Precision Robotics",
+"to": "6-DOF MagLev Systems for Advanced Packaging Introduced at SEMICON West 2026, new from PI",
 "lg": "en",
 "esp": 1,
 "p": 4.6,
-"mx": 1,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"rx": "Para algumas aplicações, investir em uma máquina CNC resulta no pagamento de recursos desnecessários. Fives High Precision Machines (Fives HPM) oferece uma abordagem diferente e mais eficaz com o Liné Machines RoboTDM, uma solução de usinagem robótica de alta precisão que traz fresamento, corte e perfuração diretos para peças grandes. A usinagem de componentes grandes requer uma grande máquina-ferramenta CNC, certo? Para aplicações onde tolerâncias até aproximadamente 0,1 mm são aceitáveis, o Liné Machines RoboTDM oferece uma alternativa altamente atrativa. Em última análise, ao atingir um nível de precisão suficiente para uma variedade de aplicações de peças grandes, o RoboTDM oferece aos fabricantes outra opção entre a robótica convencional e o custo de grandes máquinas-ferramentas CNC."
+"mx": 9
+},
+{
+"id": "d269098e8249d1",
+"t": "Um robô de entrega ultrapassou o sinal vermelho, bateu um ônibus e saiu do local do acidente: nove feridos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeEtidjhyV2t6WDVFZXdxUXQ0SE02alF6cE96SkEyblJPNEQ2ZFVZMWNYNjlTVGFPdF9USU04MTlkRFhSTms2bVhMLVRIRWtXMkhZMmMxWjFYanJBVGIzUmV2ZEhqTlA3Z0FBS3E4QnpCSEtDZG9nTHEtOHFFeEhEc2YtZ19pNVI5eU9MV0JqLW1adkI3UWRBMUpXM0NyRmRKamlRLXJYejhtbGhfZk1NT25YRDQwaXozTWRaZ1hsLTBWTC03QVYzZWIwUC1kbEdvYzVYeGVFOG14TUhDcTYzOXlkWE5wVjJQblZjNnFIYWFwZ9IBjAJBVV95cUxNZUZuQWJWQ1NIMi1iQzFUcHBMYjAwOER1dDg2QS1jb2NxT0x4M2ZPVllqM0syMEpQQXhSQllLLTN1dUNjTTFXRTlFcndKR0RMRHBveE5hTkRRcEVQd1hMTjFNZW9kdkhNLVZQYjFlUmo4clJzUzBGZXcwRzFDME1QN2VFSThnU0xTVVZhRFRPYzc0MGdYOG1fXzE0SURqWjNOcE8wUVMyenBrU2cwSnAxcW9hMVNoUWZ0TzIzVUU2X0lrUTZuLXFiUzN0aTF3OWVEVnczaWFURnhnYVQyLXA4ak90YjVqZjYyS1JVa0hKalBFdW5Tc3dTV0pLelVLbXJsckl6X3ZpeFdCWGNJ?oc=5",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "",
+"d": "2026-10-29T04:00-03:00",
+"c": [
+"entrega"
+],
+"l": 0,
+"to": "Un robot de reparto pasó un semáforo en rojo, chocó un autobús y abandonó la escena del accidente: nueve heridos",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "Infobae"
 }
 ],
 "2026-10-28": [
@@ -417,7 +436,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "19950921145ba7",
@@ -438,7 +457,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "f9847c46651283",
@@ -459,7 +478,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "ca340d318d264b",
@@ -591,7 +610,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-10-26": [
@@ -729,7 +748,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "e6d4ea57d9aa11",
@@ -865,7 +884,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-10-22": [
@@ -934,7 +953,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-10-21": [
@@ -957,7 +976,7 @@
 "p": 12.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "2c9536723835ab",
@@ -1001,8 +1020,8 @@
 "cr": 3,
 "cv": "ScienceDaily",
 "mx": 1,
-"cur": 1,
-"rx": "O medicamento, retatrutida, pertence a uma nova geração de medicamentos GLP-1 desenvolvidos para ajudar a regular o apetite e o peso corporal. Pesquisadores da Universidade da Pensilvânia analisaram quase 150 mil postagens e comentários do Reddit de aproximadamente 40 mil usuários para investigar essas contas. Os utilizadores do Reddit representam uma população muito diferente dos participantes dos ensaios clínicos, e as suas contas não conseguem estabelecer se o medicamento causou os sintomas que descreveram.\n“Não podemos dizer que a retatrutida esteja causando esses sintomas, ou mesmo que os usuários do Reddit estejam realmente tomando retatrutida genuína, uma vez que a droga não está disponível legalmente e as formulações do mercado paralelo variam”, diz Lyle Ungar, professor do CIS e coautor do estudo. Mas entre os usuários do Reddit que relataram tomar retatrutida não aprovada, o padrão parecia diferente."
+"rx": "O medicamento, retatrutida, pertence a uma nova geração de medicamentos GLP-1 desenvolvidos para ajudar a regular o apetite e o peso corporal. Pesquisadores da Universidade da Pensilvânia analisaram quase 150 mil postagens e comentários do Reddit de aproximadamente 40 mil usuários para investigar essas contas. Os utilizadores do Reddit representam uma população muito diferente dos participantes dos ensaios clínicos, e as suas contas não conseguem estabelecer se o medicamento causou os sintomas que descreveram.\n“Não podemos dizer que a retatrutida esteja causando esses sintomas, ou mesmo que os usuários do Reddit estejam realmente tomando retatrutida genuína, uma vez que a droga não está disponível legalmente e as formulações do mercado paralelo variam”, diz Lyle Ungar, professor do CIS e coautor do estudo. Mas entre os usuários do Reddit que relataram tomar retatrutida não aprovada, o padrão parecia diferente.",
+"cur": 1
 },
 {
 "id": "c4ee3f30eef45f",
@@ -1069,7 +1088,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "15705003f60bff",
@@ -1183,7 +1202,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "448617650f8a8e",
@@ -1230,8 +1249,8 @@
 "cr": 3,
 "cv": "New Atlas",
 "mx": 1,
-"cur": 1,
-"rx": "Na realidade, descreve uma nova plataforma robótica que os cientistas criaram para uma implantação rápida e a longo prazo para monitorizar águas remotas. Pesquisadores da Universidade de Tecnologia e Design de Cingapura (SUTD) desenvolveram o que chamam de ALBATROS, abreviação de Airborne Lander with Buoyant AuToROtating Sailing Sensor; uma plataforma robótica conceitual inspirada na natureza que pode ser implantada a partir de uma aeronave sobre águas remotas, pousar na água, endireitar-se e navegar de forma autônoma usando energia eólica.\n“Com o ALBATROS, queríamos usar o melhor dos dois mundos: a velocidade da implantação aérea para alcançar rapidamente águas remotas e a resistência da navegação para permanecer lá para monitoramento de longa duração.” Num cenário prático, uma aeronave transporta a plataforma ALBATROS através de águas abertas e a posiciona sobre uma área designada."
+"rx": "Na realidade, descreve uma nova plataforma robótica que os cientistas criaram para uma implantação rápida e a longo prazo para monitorizar águas remotas. Pesquisadores da Universidade de Tecnologia e Design de Cingapura (SUTD) desenvolveram o que chamam de ALBATROS, abreviação de Airborne Lander with Buoyant AuToROtating Sailing Sensor; uma plataforma robótica conceitual inspirada na natureza que pode ser implantada a partir de uma aeronave sobre águas remotas, pousar na água, endireitar-se e navegar de forma autônoma usando energia eólica.\n“Com o ALBATROS, queríamos usar o melhor dos dois mundos: a velocidade da implantação aérea para alcançar rapidamente águas remotas e a resistência da navegação para permanecer lá para monitoramento de longa duração.” Num cenário prático, uma aeronave transporta a plataforma ALBATROS através de águas abertas e a posiciona sobre uma área designada.",
+"cur": 1
 },
 {
 "id": "ccc78e744f5c1e",
@@ -1462,8 +1481,8 @@
 "cr": 3,
 "cv": "IEEE Spectrum",
 "mx": 1,
-"cur": 1,
-"rx": "Uma das câmeras de navegação do Perseverance capturou esta foto em 11 de outubro de 2026, o dia em que uma viagem de 299,6 pés ultrapassou o recorde de 28,06 milhas do Opportunity em Marte."
+"rx": "Uma das câmeras de navegação do Perseverance capturou esta foto em 11 de outubro de 2026, o dia em que uma viagem de 299,6 pés ultrapassou o recorde de 28,06 milhas do Opportunity em Marte.",
+"cur": 1
 },
 {
 "id": "106143bfb96d49",
@@ -1485,8 +1504,8 @@
 "cr": 3,
 "cv": "ScienceDaily",
 "mx": 1,
-"cur": 1,
-"rx": "Mesmo quando a inteligência artificial se comporta exatamente como um ser humano, as pessoas relutam em considerá-la consciente, de acordo com um novo estudo da Universidade Ludwig Maximilian de Munique (LMU). Mas será que comportar-se como um humano realmente convence as pessoas de que uma máquina tem consciência? Uma nova pesquisa da LMU sugere que as pessoas fazem uma distinção clara entre exibir um comportamento inteligente e possuir uma mente consciente, mesmo quando os humanos e a IA agem precisamente da mesma maneira.\nAs pessoas atribuem consistentemente menos consciência à IA do que os humanos - mesmo quando o seu comportamento é idêntico.\" Os investigadores acreditam que a diferença entre consciência e consciência oferece uma visão importante sobre como as pessoas entendem a inteligência artificial."
+"rx": "Mesmo quando a inteligência artificial se comporta exatamente como um ser humano, as pessoas relutam em considerá-la consciente, de acordo com um novo estudo da Universidade Ludwig Maximilian de Munique (LMU). Mas será que comportar-se como um humano realmente convence as pessoas de que uma máquina tem consciência? Uma nova pesquisa da LMU sugere que as pessoas fazem uma distinção clara entre exibir um comportamento inteligente e possuir uma mente consciente, mesmo quando os humanos e a IA agem precisamente da mesma maneira.\nAs pessoas atribuem consistentemente menos consciência à IA do que os humanos - mesmo quando o seu comportamento é idêntico.\" Os investigadores acreditam que a diferença entre consciência e consciência oferece uma visão importante sobre como as pessoas entendem a inteligência artificial.",
+"cur": 1
 },
 {
 "id": "3bfcfa2b67d196",

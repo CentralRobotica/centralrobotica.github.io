@@ -77,7 +77,7 @@
 "i": "https://hobby.watch.impress.co.jp/img/hbw/list/2155/747/012.jpg",
 "d": "2026-11-12T00:00-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 1,
 "to": "ガシャポン筐体がロボットに変形!?「超合金 ガシャポンステーションロボ」が初お披露目【#魂ネイション2026】",
@@ -145,7 +145,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Gadgets 360",
-"mx": 2
+"mx": 3
 },
 {
 "id": "e2d3e84c6a838b",
@@ -206,27 +206,6 @@
 "rx": "A Figure AI, uma empresa americana de robôs humanóides, está recrutando gerentes de campo para serem responsáveis ​​pela operação real de robôs humanóides. A Figure AI lançou recentemente seu site oficial de recrutamento."
 },
 {
-"id": "6c0f0ed0c0149b",
-"t": "Melexis dá sensação de toque aos robôs humanóides com seu primeiro módulo tátil na ponta dos dedos",
-"r": "O primeiro módulo mecatrônico da empresa combina sua revolucionária tecnologia de detecção Tactaxis® com o suporte mecânico, de material e de integração completo necessário para acelerar a avaliação e implantação do sensor tátil.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/12/melexis-gives-humanoid-robots-sense-of-touch-with-its-first-tactile-fingertip-module/27374",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-12T09:25-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Melexis Gives Humanoid Robots Sense of Touch with Its First Tactile Fingertip Module",
-"lg": "en",
-"esp": 1,
-"p": 6.4,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
-},
-{
 "id": "d791b7b4c4108a",
 "t": "Para resolver a escassez de mão de obra, as lojas de conveniência japonesas FamilyMart introduzirão robôs de “IA física”",
 "r": "A fim de aliviar o problema de escassez de mão de obra em suas lojas, a FamilyMart, uma grande rede de lojas de conveniência japonesa, determinou uma política para introduzir oficialmente robôs que usam tecnologia de \"IA física\" e podem reabastecer bebidas automaticamente em lojas em todo o Japão a partir de janeiro…",
@@ -253,6 +232,34 @@
 "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrcGE2a2s3ZmVneWhKdzRwOGUtVnhlTk12Z0xxYzE0SHdWSXhpWTdYUDJLclk4LTRHRDJhbHpoaHA2bnpxc3BvY3daeUUtN0JTcWRuMEE3YTZtZFlHZDhqbHJfSW3SAWRBVV95cUxQa3BhNmtrN2ZlZ3loSnc0cDhlLVZ4ZU5NdmdMcWMxNEh3Vkl4aVk3WFAyS3JZOC00R0QyYWx6aGhwNm56cXNwb2N3WnlFLTdCU3FkbjBBN2E2bWRZR2Q4amxyX0lt?oc=5",
 "s": "ec.ltn.com.tw",
 "id": "77e991e94f9dc1"
+}
+]
+},
+{
+"id": "30a9e9a269ff05",
+"t": "Israel pretende 1.000 robôs humanóides para patrulhar os túneis de Gaza",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0x1OXdibzFkNkRhSkJaLS1WbkhtVkZxbk5WRWx3VWVpdHlMVEIycUwtXzNBWDBNdEwyMG1pRjVwME14UU5jVTljaEJ0RlY5UG82SmpYRVRKaGZmcVNwSFY4Q0VkendlNG8zcTN5VG52SERVMnFnbnZaZHZSMjVUNmJaMUxQV3VvU3BkVVVLUHAzQVFJejhadXdsQ3pMWGVuMW45ejdzcEFJbVNHMGppNV85c1RUcjByQ1lpQmJyRXpYTHZIbGdzYnp4S3lvQQ?oc=5",
+"f": "The Australian",
+"s": "theaustralian.com.au",
+"i": "",
+"d": "2026-11-12T09:42-03:00",
+"c": [
+"inspecao",
+"humanoides"
+],
+"l": 0,
+"to": "Israel eyes 1,000 humanoid robots to patrol Gaza’s tunnels",
+"lg": "en",
+"p": 5.8,
+"cr": 3,
+"cv": "The Australian",
+"o": [
+{
+"f": "News24",
+"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0x1OXdibzFkNkRhSkJaLS1WbkhtVkZxbk5WRWx3VWVpdHlMVEIycUwtXzNBWDBNdEwyMG1pRjVwME14UU5jVTljaEJ0RlY5UG82SmpYRVRKaGZmcVNwSFY4Q0VkendlNG8zcTN5VG52SERVMnFnbnZaZHZSMjVUNmJaMUxQV3VvU3BkVVVLUHAzQVFJejhadXdsQ3pMWGVuMW45ejdzcEFJbVNHMGppNV85c1RUcjByQ1lpQmJyRXpYTHZIbGdzYnp4S3lvQdIB2wFBVV95cUxQMkxjQzdTMXRHaUdaOVJxM0FlNHRpVlVQTDhraFdQWkFLem5IR1pMcDB4MEhKS0tnci1ycHp6VkF0VlB3YUVOejhlYy01QTFpRHZUdF8xaEhkTG1tYWNueVNZNXFQRXowZjJaYkRwSjJ2a0owYjgwTVRRZVczSXlDZzlpNFZ0aFZaT3JDVFNlLTRDSm91TGpRWk8ySGc3QU1KSmR0TVFkY3ZrTXNRWk9ZLWZxLXp3alBOMHlSdHF6TFdNa3VZbFUyR0tUZmFnaDh4aXhMOFdkTUJTVGs?oc=5",
+"s": "theaustralian.com.au",
+"id": "9a9831845fd23b"
 }
 ]
 },
@@ -391,6 +398,50 @@
 "rx": "O serviço de entrega de drones da Chipotle está atualmente disponível para clientes qualificados em Dallas e Austin, Texas, por meio do aplicativo Zipline."
 },
 {
+"id": "7100fc61525097",
+"t": "Da linha de montagem à sala de testes: Align resolve desafio complexo de transporte",
+"r": "O fabricante precisava de uma solução de transporte discreta e altamente manobrável, capaz de mover conjuntos de motores pesando até 50.000 libras e medindo de 10 a 14 pés de altura. Pontes rolantes estão disponíveis em toda a instalação, e a folga da porta da sala de teste é de aproximadamente 14 pés de altura. Antes de usar o…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/12/from-assembly-line-to-test-room-align-solves-complex-transport-challenge/27375",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-12T09:51-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "From Assembly Line to Test Room: Align Solves Complex Transport Challenge",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 1,
+"rx": "O fabricante precisava de uma solução de transporte discreta e altamente manobrável, capaz de mover conjuntos de motores pesando até 50.000 libras e medindo de 10 a 14 pés de altura. Pontes rolantes estão disponíveis em toda a instalação, e a folga da porta da sala de teste é de aproximadamente 14 pés de altura. Antes de utilizar o transportador Align, o fabricante teve que desmontar cada motor porque a unidade de transporte anterior era muito alta.\nA Align Production Systems entregou com sucesso um transportador omnidirecional personalizado com capacidade de 50.000 lb para um fabricante líder de motores para movimentação segura de grandes conjuntos de motores em ambientes de produção restritos e em salas de teste compactas. Direção pivotante personalizada para curvas fechadas de 90° Para navegar em corredores estreitos e executar curvas fechadas de 90° na sala de testes, a Align desenvolveu um modo de direção pivotante especializado."
+},
+{
+"id": "41f3103c1d6ea8",
+"t": "Palladyne AI participará da 15ª Conferência Anual de Tecnologia ROTH",
+"r": "Os investidores qualificados devem entrar em contato com seu representante ROTH para marcar reuniões individuais com a administração.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/12/palladyne-ai-to-participate-in-15th-annual-roth-technology-conference/27376",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-12T09:54-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Palladyne AI To Participate in 15th Annual ROTH Technology Conference",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 1,
+"rx": "Os investidores qualificados devem entrar em contato com seu representante ROTH para marcar reuniões individuais com a administração. (NASDAQ: PDYN), uma empresa de tecnologia com sede nos EUA que fornece software de autonomia inteligente e componentes de missão crítica para os setores de defesa e manufatura avançada, anunciou hoje que Trevor Thatcher, CFO, e Kristi Martindale, CCO, participarão de reuniões individuais com investidores institucionais na 15ª Conferência Anual de Tecnologia ROTH na quarta-feira, 18 de novembro de 2026, em Nova York, NY. Sobre a Palladyne AI A Palladyne AI é uma empresa de tecnologia com sede nos EUA que fornece software de autonomia inteligente e componentes de missão crítica para os setores de defesa e manufatura avançada. Para obter mais informações, inclusive sobre GuideTech e Palladyne Aerospace and Defense, visite www.palladyneai.com."
+},
+{
 "id": "6100a521438a06",
 "t": "Empresa ucraniana de drones UFORCE levanta US$ 700 milhões para expandir a fabricação de defesa em todo o mundo",
 "r": "O investimento apoiará a produção de drones e sistemas autónomos testados em campos de batalha nos Estados Unidos, na Europa e noutros mercados aliados. A UFORCE, uma empresa de tecnologia de defesa fundada na Ucrânia, levantou US$ 700 milhões em uma rodada de financiamento da Série A, avaliada em US$ 6 bilhões. O investimento apoiará a expansão…",
@@ -414,6 +465,28 @@
 "cv": "DroneLife",
 "mx": 1,
 "rx": "A UFORCE, uma empresa de tecnologia de defesa fundada na Ucrânia, levantou US$ 700 milhões em uma rodada de financiamento da Série A, avaliada em US$ 6 bilhões. O investimento apoiará a expansão da produção de drones e sistemas de defesa autónomos para a Ucrânia e nações aliadas. O financiamento reflecte o crescente interesse dos investidores em sistemas de defesa autónomos desenvolvidos e testados durante a guerra na Ucrânia. A UFORCE planeja usar o capital para aumentar a produção, expandir a pesquisa e desenvolvimento e estabelecer operações de fabricação mais próximas de seus clientes internacionais.\nO CEO da UFORCE, Oleg Rogynskyy, disse que o investimento ajudará a empresa a expandir a produção enquanto continua a desenvolver sistemas baseados na experiência do campo de batalha. Também permitirá que as nações aliadas desenvolvam capacidade de produção nacional para sistemas de defesa autónomos."
+},
+{
+"id": "4da4fd24e1134f",
+"t": "O modelo de ação mundial Praxis-1 da Runway para robótica já está disponível",
+"r": "Praxis-1 baseia-se no trabalho da Runway como membro fundador da Cosmos Coalition, promovendo modelos de mundo aberto para IA física. | Fonte: Runway Runway AI Inc. lançou ontem o Praxis-1, seu modelo de ação mundial para robótica. O modelo agora está disponível para desenvolvedores com pesos abertos sob a licença Apache 2.0. Pista…",
+"u": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1-featured.jpg",
+"d": "2026-11-12T10:18-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Runway’s Praxis-1 world action model for robotics is now available",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "Runway AI Inc. lançou ontem o Praxis-1, seu modelo de ação mundial para robótica. O modelo agora está disponível para desenvolvedores com pesos abertos sob a licença Apache 2.0. A Runway anunciou o Praxis-1 pela primeira vez em setembro com parceiros de lançamento, incluindo Noble Machines, Standard Bots e Ultra. “Hoje, Praxis-1 é o modelo de ação mundial com melhor classificação no ranking RoboLab da NVIDIA e a política de código aberto ponta a ponta com melhor classificação.”\n“O Praxis-1 é baseado no modelo de base de vídeo da Runway e aprende como o mundo funciona antes de aprender a agir”, acrescentou. A Runway está comprometida em enviar o Praxis-1 como um modelo aberto desde seu anúncio inicial. Depois de disponibilizar o Praxis-1 aos desenvolvedores, a Runway disse que está se concentrando no dimensionamento das implantações."
 },
 {
 "id": "16bfd16c2dc15a",
@@ -461,6 +534,96 @@
 "rx": "Dois pilotos de drones FPV, Patrick Lombardi e Dan Miles, completam a lista antes da corrida privada de abertura da série em Adelaide, no final deste mês. Em 5 de novembro, o Airspeeder nomeou Patrick Lombardi como piloto do Airspeeder Team Italia e Dan Miles como piloto do Airspeeder GBR. A série de corridas de carros voadores elétricos com sede em Londres disse que os anúncios completam a formação inicial de pilotos para as cinco equipes nacionais na primeira Airspeeder International Series.\n\"Com Lombardi e Miles se juntando à formação, as primeiras cinco equipes agora têm seus pilotos. \"Airspeeder é onde tudo pelo qual trabalhei se junta: a precisão das corridas de drones, a velocidade do automobilismo e um esporte que ainda está sendo escrito, mal posso esperar para chegar lá, aprender com a equipe e começar a correr\", disse Miles."
 },
 {
+"id": "d28ee07f777c01",
+"t": "Viam Launchpad visa acelerar implantações de robótica",
+"r": "Viam fornece uma plataforma de software para facilitar o desenvolvimento robótico. Fonte: Viam Retornando da RoboBusiness e RobOpsCon, nunca me senti mais otimista em relação à indústria da robótica - quero dizer, da IA ​​física. Avaliações de bilhões de dólares e tecnologia inovadora continuam a superar as inovações de ontem em alta…",
+"u": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/0A8A0018-1-scaled.jpg",
+"d": "2026-11-12T10:30-03:00",
+"c": [
+"competicoes",
+"negocios"
+],
+"l": 0,
+"to": "Viam Launchpad aims to accelerate robotics deployments",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "Retornando do RoboBusiness e RobOpsCon, nunca me senti mais otimista em relação à indústria da robótica - quero dizer, da IA ​​física. “No passado, as startups de robótica precisavam de anos de pesquisa e desenvolvimento e enfrentavam a construção de uma enorme quantidade de infraestrutura para tornar um projeto algo mais do que um experimento científico”, disse Horowitz. Maffeo compartilhou recentemente sua experiência de trabalho com a plataforma de Horowitz: “A parceria com a equipe de engenharia da Viam nos últimos anos realmente impulsionou a Gambit.\nAo contrário do software, os fundadores da robótica precisam de acesso ao hardware, e a Viam possui um dos laboratórios de robótica mais robustos do Nordeste, completo com uma fazenda de braços robóticos. Esta é a tese por trás do Viam Launchpad: capacitar uma nova geração de fundadores de robótica com profundo conhecimento do setor para resolver problemas reais por meio da automação."
+},
+{
+"id": "be98b69c70a119",
+"t": "Agri Spray planeja mudança para fabricação de drones nos EUA à medida que restrições federais remodelam o mercado",
+"r": "Empresa de drones agrícolas com sede no Missouri descreve um plano de cinco anos para substituir componentes estrangeiros e construir uma cadeia de abastecimento doméstica. por DRONELIFE Features Editor Jim Magil Diante da mudança no cenário regulatório em relação ao mercado de UAVs fabricados no exterior, a Agri Spray, com sede em Boonville, Missouri, anunciou recentemente…",
+"u": "https://dronelife.com/2026/11/12/agri-spray-plans-shift-to-u-s-drone-manufacturing-as-federal-restrictions-reshape-the-market/",
+"f": "DroneLife",
+"s": "dronelife.com",
+"i": "https://dronelife.com/wp-content/uploads/2026/11/Agri-Spray.png-scaled-e1794490702812.jpeg",
+"d": "2026-11-12T10:40-03:00",
+"c": [
+"drones",
+"industriais",
+"agricolas"
+],
+"l": 0,
+"to": "Agri Spray Plans Shift to U.S. Drone Manufacturing as Federal Restrictions Reshape the Market",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneLife",
+"mx": 1,
+"rx": "Confrontada com a mudança do cenário regulatório relativo ao mercado de UAVs fabricados no exterior, a Agri Spray, sediada em Boonville, Missouri, anunciou recentemente que remodelaria fundamentalmente o seu modelo de negócios, passando de um distribuidor de produtos fabricados na China, para se tornar um fabricante de drones agrícolas totalmente de origem americana dentro de cinco anos. Departamento de Guerra, (DoW), que criou uma enorme necessidade de desenvolvimento doméstico e fabricação de drones de pulverização agrícola.\nEle acrescentou que ainda não existe capacidade nos EUA para fornecer à indústria de drones agrícolas os componentes críticos de que necessita – principalmente motores e baterias – para construir drones totalmente produzidos nos EUA na escala necessária. Fundada em 2020, nos últimos três anos, a Agri Spray produziu uma média de 1.000 drones de pulverização agrícola por ano."
+},
+{
+"id": "4f7edc6908d17d",
+"t": "FBI planeja triplicar a capacidade de treinamento contra drones para agências estaduais e locais",
+"r": "Em uma mesa redonda de mídia durante o Drone Security e SLTT Grant Forum, funcionários do FBI discutiram a nova autoridade anti-UAS, requisitos de treinamento e operações iniciais sob a Lei SAFER SKIES. O FBI planeja expandir significativamente o treinamento contra drones para autoridades estaduais, locais, tribais e territoriais (SLTT)…",
+"u": "https://dronelife.com/2026/11/12/fbi-counter-drone-training-local-law-enforcement/",
+"f": "DroneLife",
+"s": "dronelife.com",
+"i": "https://dronelife.com/wp-content/uploads/2026/11/NCUTC-training-scaled-e1794491487606.jpg",
+"d": "2026-11-12T11:03-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "FBI Plans to Triple Counter-Drone Training Capacity for State and Local Agencies",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneLife",
+"mx": 1,
+"rx": "O FBI planeja expandir significativamente o treinamento contra drones para agências de aplicação da lei estaduais, locais, tribais e territoriais (SLTT) à medida que novas autoridades federais entrarem em vigor. Durante uma mesa redonda de mídia no Drone Security Industry e SLTT Grant Forum, em 9 de novembro, funcionários do FBI discutiram os programas de treinamento da agência, o processo de autorização e a experiência inicial de apoio a operações locais de combate a UAS.\nO FBI também precisa de mais agências elegíveis para concluir o processo de acreditação antes de enviar pessoal para formação em mitigação. O FBI informou que as agências SLTT conduziram aproximadamente 60 operações anti-UAS com apoio federal desde julho. À medida que o FBI expande a formação e apoia mais agências SLTT, as autoridades esperam que as capacidades locais de combate aos UAS continuem a crescer."
+},
+{
+"id": "6c0f0ed0c0149b",
+"t": "Melexis dá sensação de toque aos robôs humanóides com seu primeiro módulo tátil na ponta dos dedos",
+"r": "O primeiro módulo mecatrônico da empresa combina sua revolucionária tecnologia de detecção Tactaxis® com o suporte mecânico, de material e de integração completo necessário para acelerar a avaliação e implantação do sensor tátil.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/12/melexis-gives-humanoid-robots-sense-of-touch-with-its-first-tactile-fingertip-module/27374",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-12T09:25-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Melexis Gives Humanoid Robots Sense of Touch with Its First Tactile Fingertip Module",
+"lg": "en",
+"esp": 1,
+"p": 5.4,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
 "id": "89f3af87efb866",
 "t": "Preço atual das ações da empresa de robôs (2026-11-12)",
 "r": "",
@@ -479,7 +642,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d2cde65981cc61",
@@ -534,6 +697,60 @@
 ],
 "cr": 3,
 "cv": "United Daily News"
+},
+{
+"id": "0ec6d07e2b545a",
+"t": "SoftBank e Nvidia apoiam Agile Robots da Alemanha com avaliação de US$ 8,5 bilhões",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejV6UjB3dnh4R0JIQ0JQcHlxdG1JS0VrZkNNaXpiVEZtRlFVcEJYYjNSV0xEX3NQVkI3ZEs4c19Xc191SWs2WTg5WkI0ZktBSHFmaTJLX0lQVGFhM2ZLdjlVUHpyNmR1ZUI5TlJvUElNMkw5VW85bDRwRGdfZFJNREtORDNFNXVkSG9scmR6Y3dIVGRURXBRbDNGcWd6TkU1RFVJRFZoVEQ2ZW1mOXFHbVRLc01mWmxzb2dua2NoWQ?oc=5",
+"f": "Reuters",
+"s": "reuters.com",
+"i": "",
+"d": "2026-11-12T06:56-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "SoftBank, Nvidia back Germany's Agile Robots at $8.5 billion valuation",
+"lg": "en",
+"p": 5.0,
+"cr": 3,
+"cv": "Reuters",
+"o": [
+{
+"f": "Forbes",
+"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2taQlMzeE15Nl8xM1F3c3JHbDNyNks4UEI3YVFCNERUX0NVeTh5akdMMm9GN21JcFk5bk1DT0hlbGs2QmFoVlRtT2N4NDZqRDM5SWtMQi1IeXZwTXBPek5NbnRxTE0yLUlsZFJoa2RoMWhCbkt0Q0ZjY3J0ZFV0UkllcHBKSWhxYUxNeTIxYW8xb3hBRXdlZnBWQjdsaHpfNEprcFdJQWFZeG9KOEs1WkxwVXR2MFRLd0JJRlpvZjlTV2Qtb3BmNzZJX3Uxb3hLUms4MkFn?oc=5",
+"s": "forbes.com",
+"id": "7d4953d34ddf57"
+}
+]
+},
+{
+"id": "beb8ba58d1ebfd",
+"t": "INDROTEK posiciona sua divisão de robótica na vanguarda das crescentes oportunidades industriais de defesa e tecnologia de uso duplo do Canadá",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaGxfWW5EYjBMSkljaXByTlpMcDdvUVVKZi1KalJjZThyZXZLVGhSU0RhQWFsc3BQcTNTUEJDSkdyVXpqSW5telIyVXBRUThGczJ5YjZyT1lMUm1zNFpRMm1janhibTNPQzFwNVQ5TnlMMk9VdWF0NHotTTNZVVZfV2ZYNWJ5amVvOVBDTmhfWEEwbXhhWFdCRUFjQnNWczdXZjg0NVVTSlVfVjdSdDhXeDZib1hwNXp3Q1pzbERScEVNdW1IajQtNm81d2dzdHljRjNjOF9JV0ZDOFB2RjdqbzRKRVVWc0tMS3d0anllaWQxS0FOaU5KOWVmWDNIZ1NlY3hUcm1DS1pzNUNJdE5VdG1RZXNqaFE?oc=5",
+"f": "Toronto Star",
+"s": "thestar.com",
+"i": "",
+"d": "2026-11-12T11:48-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "INDROTEK Positions Its Robotics Division at the Forefront of Canada's Growing Dual-Use Technology and Defense Industrial Opportunities",
+"lg": "en",
+"p": 5.0,
+"o": [
+{
+"f": "markets.businessinsider.com",
+"u": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRFhoQXhGZEQ4SVhOalh2bXcyWW5jMGxXVVJzcnNvY2piWFFJNVRwZ2FJTGJFdTdjQmc5SDJLcjNoVkxKUW5RT1M1Q3lsVGlCNV9mVnlwMGExSDdCVTNiSVZMYkFfSXJCc01IZWpSQ0VzcV9jOFlrN3k5SFRIWlgyNU5xZWNuaHJNbm9KLXVnVng5NWgwQnFJYXZuQ2VYMVJEeEZ5OEZTenhEQXpTMUZCWm1UOFBEUUVrY0xWMHVaOXhWbTdkQjJ2RHBpSUh6YTJyQjlsNVhhblpsdm1Pc3MweGFHOW90OWI1Y2pwcE1RekN1VnZ3TklmWnZUVHVGM3d2NG9CM1kycGhBM0ZUX1ROeWpFOE04cXJWcTFOUFZ3?oc=5",
+"s": "markets.businessinsider.com",
+"id": "edb3c300129fc9"
+}
+],
+"cr": 3,
+"cv": "Toronto Star"
 },
 {
 "id": "086f5582d0abf0",
@@ -697,7 +914,8 @@
 "i": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-facebookJumbo.jpg",
 "d": "2026-11-12T02:45-03:00",
 "c": [
-"negocios"
+"negocios",
+"industriais"
 ],
 "l": 0,
 "to": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
@@ -814,7 +1032,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 2
+"mx": 3
 },
 {
 "id": "e0e36a044adba9",
@@ -836,24 +1054,81 @@
 "cv": "Mainichi"
 },
 {
-"id": "30a9e9a269ff05",
-"t": "Israel pretende 1.000 robôs humanóides para patrulhar os túneis de Gaza",
+"id": "0a2f8e96f6b2df",
+"t": "AGIBOT presenta en la Web Summit de Lisboa a Luka, su robot humanoide A3 Ultra",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0x1OXdibzFkNkRhSkJaLS1WbkhtVkZxbk5WRWx3VWVpdHlMVEIycUwtXzNBWDBNdEwyMG1pRjVwME14UU5jVTljaEJ0RlY5UG82SmpYRVRKaGZmcVNwSFY4Q0VkendlNG8zcTN5VG52SERVMnFnbnZaZHZSMjVUNmJaMUxQV3VvU3BkVVVLUHAzQVFJejhadXdsQ3pMWGVuMW45ejdzcEFJbVNHMGppNV85c1RUcjByQ1lpQmJyRXpYTHZIbGdzYnp4S3lvQQ?oc=5",
-"f": "The Australian",
-"s": "theaustralian.com.au",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1dCelNnMVp6ZFFrVjZudEU3TmkzMzFlY21Bc09TcVJXZFlDMFpxcE5PWXlfakN5Y3lMQkhmR1c2NDBqYnR2OGs4MUFQc09kUkk4UlJFLUdwNVBRWWJyVFZjVmQ3M2dvbzh0OWFBem4tTENMRWZkVU9sU1preF9DZXRLMVh1OVY4b0FUU09iRVVoRzJuZHpMUHRn0gGfAUFVX3lxTE9oRnVpVlJMSUp4Zjdib0tRMUFXbUJnOXhXSmYtTEMyWTNUMjVVNE5Eb05yMF9raV9ocjRIRVZ4eDFXVzc3dkJHaEF0VlZ5ZlZRdTJncTN4SlcyWVU1aTMyUUQ5LW50bzJpWi12NlEtYlA1UjIxam9qV0NJclV4MDU1ZlRnNjJuMnFlc05yYUoxYUJ3N3ZiMlNHb09ZMHQ1UQ?oc=5",
+"f": "ABC",
+"s": "abc.es",
 "i": "",
-"d": "2026-11-12T09:42-03:00",
+"d": "2026-11-12T11:12-03:00",
 "c": [
-"inspecao",
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"p": 4.3,
+"cr": 3,
+"cv": "ABC (Espanha)"
+},
+{
+"id": "10dcaf0088a3e7",
+"t": "SoftBank e Nvidia investem na estrela alemã da robótica humanóide Agile Robots",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaDNleHdaRUI5TkV4a0lCdHlZR180elBUb3FCOHMxNV90bmxPWldlMlQzTGFOQ2pEeHRCTkd5Z2hPcDdseUFOOE1nWG9OTUluV2VqLVpMa2MtbGZ6R0V3WEZqQmR4aDB0UElkeVJLM0FqRkdFdmJCcjFRYlBZS09id1BQUkNieFp1TTBtdzZlZ1RYU3pjZHZmdEFRN1NheDMzMXE0MVlhWlRGanJQMlZXSlBHMllCTG50UjJPRU5kdlNxVnV5ZVdUb0l5ZEh2alB5SEF0azBCZw?oc=5",
+"f": "Les Echos",
+"s": "lesechos.fr",
+"i": "",
+"d": "2026-11-12T11:37-03:00",
+"c": [
 "humanoides"
 ],
 "l": 0,
-"to": "Israel eyes 1,000 humanoid robots to patrol Gaza’s tunnels",
-"lg": "en",
+"to": "SoftBank et Nvidia investissent dans la star de la robotique humanoïde allemande Agile Robots",
+"lg": "fr",
 "p": 4.3,
 "cr": 3,
-"cv": "The Australian"
+"cv": "Les Echos"
+},
+{
+"id": "291a83b02a1410",
+"t": "Humanóides e “chat tipo GPT” não são populares devido a barreiras físicas, como uso e região",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LU205ck04allNVUZWQlBZNzVFYUZMUU5EYkVvbDdjQkM2X1BLS0NEZW1hb21ZQ2Y5NWV1OEE3YTBpSmpMUGhuS0VZUVBscVJuenVHTHkzelFDMGp6bkRVUGhpNlFLUHc?oc=5",
+"f": "日経ビジネス電子版",
+"s": "business.nikkei.com",
+"i": "",
+"d": "2026-11-12T12:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "ヒューマノイド、「チャットGPT型」の普及せず 用途・地域など物理的な壁",
+"lg": "ja",
+"p": 4.3,
+"cr": 3,
+"cv": "Nikkei Asia"
+},
+{
+"id": "cd6bcf1d67c6e6",
+"t": "Startup dos EUA financiada pelo segundo filho de Trump negocia com militares israelenses para fornecer robôs humanóides",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KOFl5VUVyakt5T3NkT0ZVUlV4N0MxT3piLWs4NUo5Z0haVUZkc2dkcEwxVEVfcDd0YVlGZmVKUnUtUnFtNXdhaGJNZEVSWjI2UjBjZWdIUTJmNlRDcVRnSkZDcDNSSG9XYWxzWmk3cmQtaUI5T240?oc=5",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "",
+"d": "2026-11-12T12:00-03:00",
+"c": [
+"humanoides",
+"defesa",
+"negocios"
+],
+"l": 0,
+"to": "トランプ氏次男出資の米新興、ヒト型ロボット供給でイスラエル軍と協議",
+"lg": "ja",
+"p": 4.3,
+"cr": 3,
+"cv": "Nikkei Asia"
 },
 {
 "id": "2157f7546d46d7",
@@ -873,7 +1148,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2,
+"mx": 3,
 "rx": "Em 12 de novembro, o ecossistema aberto do Lingguang se expandiu novamente, adicionando suporte para seis conectores principais, incluindo WeChat ClawBot, QQ Robot, Luckin Coffee, Youdao Cloud Notes, Tick List e Tencent News. O conector amplia as capacidades do Lingguang. Esta expansão permite que os serviços da Lingguang cubram cenários de alta frequência, como mensagens instantâneas, gestão de conhecimento e colaboração de tarefas, e o número de serviços de conexão externa aumentou para 47.\nApós esta expansão ecológica, Lingguang abriu algumas funções do WeChat e QQ através do WeChat ClawBot e do conector do robô QQ. As notas da nuvem Youdao e os conectores da lista de verificação permitem que a Lingguang melhore significativamente o gerenciamento e a eficiência do conhecimento. Lingguang continua a expandir o ecossistema de conectores para quebrar as fronteiras entre IA e aplicações externas, para que mais ferramentas e serviços possam ser compreendidos, chamados e colaborados pela IA."
 },
 {
@@ -896,7 +1171,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "Hub automatizado › Todos os artigos › Robô cobra macia desliza no intestino delgado para diagnosticar distúrbios O robô macio BIOSENTER é um cilindro oco com quatro atuadores pneumáticos macios linearmente deformáveis ​​como corpo, dois atuadores pneumáticos macios radialmente expansíveis envoltos em mangas de kirigami como cabeça e cauda para ancoragem de tecido e uma caixa de controle sem fio para navegação.\nEstudos em animais mostraram que o robô poderia percorrer 2 metros do intestino delgado e realizar essas diferentes tarefas. O estudo em animais mostrou a viabilidade do uso do robô macio para biópsia de tecido, utilizando a entrega localizada de fluidos como modelo para futura administração de medicamentos e a visualização em tempo real das regiões mais profundas do intestino delgado sem danificar o tecido intestinal."
 },
 {
@@ -917,7 +1192,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "ANSA",
-"mx": 2,
+"mx": 3,
 "rx": "Parece algo saído de um episódio de A Família Addams, a mão robótica desenvolvida no Instituto Federal de Tecnologia de Zurique para operar em espaços de outra forma inacessíveis: pode andar na ponta dos dedos, levantar-se após uma queda e até digitar num teclado, mantendo o equilíbrio graças aos outros dedos. Pesquisadores do Soft Robotics Lab, liderados por Amirhossein Kazemi Pour, imaginaram um futuro em que os robôs serão capazes de separar as mãos e enviá-las para operar em espaços estreitos para inspecioná-las, operar comandos e mover objetos.\nOlhando para o futuro, os investigadores pretendem melhorar a mão robótica, equipando-a com um sistema de visão integrado e tornando-a capaz de realizar tarefas mais complexas."
 },
 {
@@ -966,7 +1241,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
 },
 {
 "id": "6493ce776fae31",
@@ -1008,7 +1283,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Wall Street Journal",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9b427f2bb620e9",
@@ -1028,7 +1303,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Handelsblatt",
-"mx": 2
+"mx": 3
 },
 {
 "id": "87b776391dfd76",
@@ -1048,7 +1323,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Robotstart",
-"mx": 2
+"mx": 3
 },
 {
 "id": "97c6ba86922448",
@@ -1069,7 +1344,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "3769f8fe0e1a6b",
@@ -1192,6 +1467,27 @@
 "cr": 3,
 "cv": "Dong-A Ilbo",
 "mx": 0
+},
+{
+"id": "e073106d676620",
+"t": "Exclusivo: SE3, uma startup alemã que desenvolve ‘inteligência espacial’ para drones militares, recebe US$ 30 milhões em financiamento da Série A",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmdrRTI4bHcwQzZST29FQjdhbDJSMTB4QUtOcC01Rk0zYTNscTJVMlhQbDcyV3NqMVlsN3BwTmZQZzlQRlZ2UUZPWFVPbTc1WVExZ2wySkltd1BDZU1XMFowZW5kYkdkam5Zem1EM29IS2xRQ2pvRkI2ZG53VWFZUWpRWTRuVERoQ0RWZjh1MTc0SUJBYnU2eWZDLUxGTTVoRGUzcTFOLVJyZEZaZk9MZFBMS0RTRG5pcnZaMUE0WGFqNEhRUndsdC1pQ3d6QjU5MlVhcWhMZGRHd002N3d6dTR3?oc=5",
+"f": "Fortune",
+"s": "fortune.com",
+"i": "",
+"d": "2026-11-12T05:00-03:00",
+"c": [
+"negocios",
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Fortune"
 },
 {
 "id": "52c7e656d72304",
@@ -1334,6 +1630,25 @@
 "mx": 0
 },
 {
+"id": "a5559cb4e2a8ce",
+"t": "Marinheiros robóticos enfrentam as tempestades de inverno da Antártica",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUR4ZjE2SnE4eDB1RmRhMjV5QTdBdFdTWDZJQzBEMWc5cWZWR1RaRmpCLUpyZEhyRjlxZUpvM05vT3ZYVFRRRmJzS3lNT3dIV1Z6aHpHaWhpcVRScXBnekt3TDdVc0xtanZKY2dpQUpkZnVCWk5zaXZ2LUhvcUtSN1dUcnVBeXk1NHZrVTZpdmNlR2lwTXJHTkZBTFN3S1U?oc=5",
+"f": "Mail & Guardian",
+"s": "mg.co.za",
+"i": "",
+"d": "2026-11-12T06:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robotic sailors take on Antarctica’s winter storms",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Mail & Guardian"
+},
+{
 "id": "aa1991a1554c48",
 "t": "Black Friday Ecovacs: até 800€ de desconto nestes 5 robots que farão a limpeza por si!",
 "r": "",
@@ -1371,25 +1686,6 @@
 "p": 3.5,
 "cr": 3,
 "cv": "El País"
-},
-{
-"id": "0ec6d07e2b545a",
-"t": "SoftBank e Nvidia apoiam Agile Robots da Alemanha com avaliação de US$ 8,5 bilhões",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejV6UjB3dnh4R0JIQ0JQcHlxdG1JS0VrZkNNaXpiVEZtRlFVcEJYYjNSV0xEX3NQVkI3ZEs4c19Xc191SWs2WTg5WkI0ZktBSHFmaTJLX0lQVGFhM2ZLdjlVUHpyNmR1ZUI5TlJvUElNMkw5VW85bDRwRGdfZFJNREtORDNFNXVkSG9scmR6Y3dIVGRURXBRbDNGcWd6TkU1RFVJRFZoVEQ2ZW1mOXFHbVRLc01mWmxzb2dua2NoWQ?oc=5",
-"f": "Reuters",
-"s": "reuters.com",
-"i": "",
-"d": "2026-11-12T06:56-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "SoftBank, Nvidia back Germany's Agile Robots at $8.5 billion valuation",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Reuters"
 },
 {
 "id": "d819e075a1740e",
@@ -1631,6 +1927,28 @@
 "cv": "Dong-A Ilbo"
 },
 {
+"id": "487b43cdea8d79",
+"t": "A frota de Robotaxi do Texas da Tesla supera Waymo: você deve ficar otimista?",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc211Y1RLUXdwNjk4aUtRdDdwY2hGNGJKWnRXOFRFNzNiUm1fYWdhS2YycUJNUjlvcEg3TUlMRXB3aDU4T1hxM2dWX2FCSllFbGUtaXIzZUZhX3AzYUxtOUF4ekFpX2pwVHZGTEQ3TjhILWhaaVF5b29NMkhvbUxzVDZTQjE2TmJSYmI1TWotSmVQZ1Z3cm1yaU03a19zWDVUeHpxdEMzOG5DX1BFUW1OUE10cWZhUzZjdGtPc05wZ2dNOGtfZ01EZ09WTm5mUWIxU3NHOHZ4NTJQYllJYXVQYw?oc=5",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-12T09:00-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla's Texas Robotaxi Fleet Tops Waymo: Should You Get Bullish?",
+"lg": "en",
+"p": 3.5,
+"xid": [
+"39ab4a0734a02e"
+],
+"cr": 3,
+"cv": "The Globe and Mail"
+},
+{
 "id": "9bfd5aa93eb9ca",
 "t": "Start-up alemã de robótica de IA avaliada em US$ 8,5 bilhões após nova arrecadação de fundos",
 "r": "",
@@ -1730,6 +2048,44 @@
 "cv": "Popular Mechanics"
 },
 {
+"id": "29e605d3a0269e",
+"t": "Start-up Agile Robots vale US$ 8,5 bilhões",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1dfYUN5cm5UU05DeUZlZldlc1M3elU5R1hZc2FlTjhTWXViWGNZeEVNNjdEWUFRZGpaUXdiQ3N5MGVYNDZ1VDBucl93dGJNNVpCSWgxZGVGd1JsWG02Q01lcHJrNjl2M1dXOXRZZENaY25iTDl5bF84QXNETE9rdmVDU3Y1VjhiWVJXZzU5UzV3dTRCc1lhLXdFbGpEUklaWEd3eUNlbW5FZ0xuMTQ2Q3BrWDZZVG55Skd2dm1WWUM?oc=5",
+"f": "FAZ",
+"s": "faz.net",
+"i": "",
+"d": "2026-11-12T10:42-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Start-up Agile Robots ist 8,5 Milliarden Dollar wert",
+"lg": "de",
+"p": 3.5,
+"cr": 3,
+"cv": "FAZ"
+},
+{
+"id": "049db30f5cf6fa",
+"t": "Robôs e máquinas de alta tecnologia, fabricados na Itália e populares no exterior: “Mas cuidado com a China”",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZYLVdCWlFCMGtvYXBWdnc0SWQtU1JHY01QajdCSU9zRUhpZDF3X1B0YWFDOHVQNVZUM1JwQmd4V1hhSEE0ZDI3dnVOcS1palVQVjlMNzdXN0NRdmxNVVB2VXdld1ZTTGx1R3BvWGs4MzRGZENGQzNBa0YxNTJ5RDNFTVBsbm8zeURnLUZjVnZRb2RxdEhjS3RkWmRSVFpKMjdRekJTNWNCdUk4cWtRb0NQVDhqRUU?oc=5",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "",
+"d": "2026-11-12T11:13-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robot e macchine hi-tech, il made in Italy che tira all’estero: “Ma attenzione alla Cina”",
+"lg": "it",
+"p": 3.5,
+"cr": 3,
+"cv": "La Repubblica"
+},
+{
 "id": "535d1b0267dfaa",
 "t": "SoftBank lidera um investimento de US$ 500 milhões em robôs ágeis para aumentar a produção em escala de robôs humanóides",
 "r": "A IT House informou em 12 de novembro que o fabricante alemão de robôs Agile Robots SE concluiu uma nova rodada de financiamento, com uma avaliação de US$ 8,5 bilhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 56,829 bilhões de yuans). Esta rodada de financiamento foi liderada pelo Grupo SoftBank…",
@@ -1748,7 +2104,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 12 de novembro que o fabricante alemão de robôs Agile Robots SE concluiu uma nova rodada de financiamento, com uma avaliação de US$ 8,5 bilhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 56,829 bilhões de yuans). Esta rodada de financiamento foi liderada pelo Grupo SoftBank, proporcionando novo apoio financeiro para a start-up expandir a produção de robôs de inteligência artificial.\nA Agile Robots, com sede em Munique, disse em um comunicado que a atual rodada de financiamento da empresa é de US$ 500 milhões (a taxa de câmbio atual é de aproximadamente 3,343 bilhões de yuans), e seu financiamento cumulativo atingiu aproximadamente US$ 2 bilhões (a taxa de câmbio atual é de aproximadamente 13,372 bilhões de yuans)."
 },
 {
@@ -1828,6 +2184,25 @@
 "p": 3.0,
 "cr": 2,
 "cv": "36Kr"
+},
+{
+"id": "942ea1046f5b3f",
+"t": "“ROBOT Spirits <SIDE MF> Bolt Gundam Marshall Action” de “Mobile Fighter G Gundam” será comercializado! [#TamashiNation2026] Além de Shining Gundam, 5 misteriosos lutadores móveis também foram confirmados",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WQWlheHlZUEVic0NyV3Fqb1JNWHZDRXBNamx2RlBVNlhZMWRIdjZ6Q2JIX1pTcE13dGM2NkxWMDhfY0hRX25qTFBiMXBOS0VyV24xSW85NUduMllHekgyT1hXUjFxaTA?oc=5",
+"f": "hobby Watch",
+"s": "hobby.watch.impress.co.jp",
+"i": "",
+"d": "2026-11-12T00:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "「機動武闘伝Gガンダム」より「ROBOT魂 ＜SIDE MF＞ ボルトガンダム マーシャルアクション」が商品化決定！【#魂ネイション2026】 シャイニングガンダムのほか、謎のモビルファイター5機も確認",
+"lg": "ja",
+"p": 2.2,
+"cr": 2,
+"cv": "Impress Watch"
 },
 {
 "id": "ad2d4d45e22fd5",
@@ -2509,7 +2884,8 @@
 "i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/11/6af4121f9ab41.jpeg",
 "d": "2026-11-11T04:02-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 1,
 "to": "Ring presenta il drone con intelligenza artificiale che sorveglia casa in autonomia",
@@ -2560,7 +2936,7 @@
 "p": 10.6,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 1,
+"mx": 2,
 "rx": "A LG está preparada para revelar um rosto humanóide “3D” de oito polegadas no evento CES 2027 de janeiro em Las Vegas. A gigante coreana de eletrônicos de consumo chama o Light Field Display (LFD) de \"a primeira solução de exibição 3D do mundo projetada especificamente para rostos humanóides\". O componente é um dos homenageados da CES 2027 do próximo ano. “Indo além das limitações dos designs de rostos de robôs fisicamente fixos, sua tecnologia óptica 3D cria visuais realistas que permitem uma expressão mais natural e uma interação emocional entre humanos e humanóides”, escreve LG.\nNenhuma palavra sobre se a empresa encontrou algum fabricante de robótica para implementar a tecnologia ou se planeja integrá-la a um sistema humanoide proprietário. Os robôs móveis autônomos são um dos segmentos de crescimento mais rápido da indústria robótica."
 },
 {
@@ -2615,7 +2991,9 @@
 "i": "https://cdn.mos.cms.futurecdn.net/v87gPLbDCUFCYsy49mMbD8-1920-80.png",
 "d": "2026-11-11T18:10-03:00",
 "c": [
-"drones"
+"drones",
+"resgate",
+"inspecao"
 ],
 "l": 1,
 "to": "DJI's latest drone combines thermal cameras, AI and advanced sensors",
@@ -2665,7 +3043,7 @@
 "p": 9.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 11 de novembro que a Tesla anunciou hoje o lançamento do modelo de carro com controle remoto Cybertruck e dos novos ornamentos de robô humanóide Tesla de 2,5 geração no site oficial do shopping. A IT House aprendeu na página do produto que o modelo de carro com controle remoto Tesla Cybertruck restaura a icônica forma angular de aço inoxidável para 1:10, com corpo de material de PC, dimensões de 56,5 x 25,0 x 20,5 cm e preço de 1.769 yuans.\nO modelo de carro Tesla Cybertruck com controle remoto é equipado com motor sem escova, tração nas quatro rodas e suspensão independente; um sistema de controle remoto 2.4G com distância máxima de controle de 99,4 metros; e uma função anti-deriva de giroscópio para ajudar a evitar a deriva da cauda."
 },
 {
@@ -2713,7 +3091,9 @@
 "i": "",
 "d": "2026-11-11T03:41-03:00",
 "c": [
-"inspecao"
+"inspecao",
+"drones",
+"espaco"
 ],
 "l": 1,
 "to": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺",
@@ -2721,7 +3101,7 @@
 "p": 8.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 11 de novembro que a marca de segurança Ring da Amazon anunciou ontem (10 de novembro) a expansão da linha de produtos Ring Robotics. Os primeiros produtos incluem Drone Cam, uma câmera voadora para residências, e Rover Cam, um robô com rodas para locais comerciais.\nAmbos os dispositivos estão equipados com o sistema AI Pilot, que combina câmeras, sensores, modelos visuais e processamento em nuvem para alcançar uma navegação autônoma. Rover Cam destina-se a escritórios, lojas e armazéns. É equipado com uma câmera periscópica elevável que pode visualizar balcões e prateleiras. Ele suporta gravação contínua de até 4K e transmissão ao vivo e integra sirenes, luzes e funções de voz bidirecionais."
 },
 {
@@ -2743,7 +3123,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Gadgets 360",
-"mx": 1
+"mx": 2
 },
 {
 "id": "e68e600d87e5f2",
@@ -2764,7 +3144,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 },
 {
 "id": "718398dc5f138d",
@@ -3093,7 +3473,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "fe7505111a0cdf",
@@ -3161,28 +3541,6 @@
 "cv": "The Robot Report",
 "mx": 1,
 "rx": "Memories.ai está construindo um pipeline de dados para empresas de robótica que combina coleta de vídeo padronizada com anotações alimentadas por IA para transformar imagens egocêntricas do dia a dia em dados de treinamento para robôs. Ele cria modelos de compreensão de vídeo e infraestrutura de dados, além de coletar e anotar vídeos em primeira pessoa (egocêntricos) para fornecer dados de treinamento de alta qualidade para empresas de robótica.\nMemories.ai afirmou que sua plataforma de infraestrutura de dados de vídeo é construída para IA física, robótica, modelos de mundo, modelos de visão-linguagem-ação (VLA) e humanóides. Ele fornece um data lake de vídeo com curadoria de vídeo egocêntrico, juntamente com serviços de anotação personalizados e ferramentas de conjunto de dados para treinar modelos de aprendizagem de robôs. Para clientes de robótica, a Memory AI planeja adaptar os dados às suas necessidades, oferecer acordos exclusivos ou não exclusivos e potencialmente expandir seu papel em modelos e infraestrutura de vídeo."
-},
-{
-"id": "870f1af8461ad9",
-"t": "Robôs feitos na Índia, construídos para o mundo: Kody Robots leva inovação em robótica indiana para NRF 2027",
-"r": "A Kody Robots, uma das principais empresas de robótica da Índia, exibirá seu robô publicitário habilitado para IA, Odigo, na NRF 2027: Retail's Big Show, que será realizada de 10 a 12 de janeiro de 2027 no Centro de Convenções Jacob K. Javits, na cidade de Nova York.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/11/made-in-india-robots-built-for-the-world-kody-robots-carries-indian-robotics-innovation-to-nrf-2027/27371",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-11T10:39-03:00",
-"c": [
-"servico"
-],
-"l": 0,
-"to": "Made in India Robots, Built for the World: Kody Robots Carries Indian Robotics Innovation to NRF 2027",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Kody Robots, um da Índia"
 },
 {
 "id": "919841b3c2163e",
@@ -3276,29 +3634,6 @@
 "rx": "Dogu Robotics (CEO Kim Jin-hyo), uma empresa especializada em soluções de robôs de patrulha autônomos de IA, participou do ‘2026 Tiboost Innovation Growth Program (TiBO) realizado em Taipei, Taiwan, em 10 de novembro."
 },
 {
-"id": "8c1046931dbaf5",
-"t": "Tronix3D investe US$ 4 milhões para expandir suas operações em Pittsburgh, criando 47 novos empregos",
-"r": "The expansion will increase the company’s production capacity and allow them to serve clients in the defense and robotics industries.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/11/tronix3d-investss-4-million-to-expand-its-pittsburgh-operations-creating-47-new-jobs/27372",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-11T11:09-03:00",
-"c": [
-"negocios",
-"defesa"
-],
-"l": 0,
-"to": "Tronix3D Investss $4 Million to Expand its Pittsburgh Operations, Creating 47 New Jobs",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. Pittsburgh, PA - Pittsburgh garantiu um investimento de quase US$ 4 milhões da Tronix3D para expandir suas operações de impressão e fabricação 3D. A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. “Este investimento nos permitirá aumentar nossa capacidade de produção, criar 47 novos empregos nos próximos três anos e continuar apoiando indústrias críticas, incluindo robótica, defesa, aeroespacial e IA física aqui mesmo na Pensilvânia.” Este anúncio surge na sequência de uma série de investimentos nos setores industrial e tecnológico de Pittsburgh."
-},
-{
 "id": "f3603d33978eb1",
 "t": "Robôs ganham ‘memória muscular’ para planejar seus próximos movimentos em milissegundos",
 "r": "Se “errar é humano”, você poderia dizer que os robôs são sobre-humanos. Eles são mais propensos a erros do que nós, mesmo quando encarregados de tarefas como tarefas domésticas e de fábrica, que podemos considerar fáceis. Uma razão para esses erros é que os robôs lutam para extrair detalhes relevantes do passado e agir sobre eles em tempo real, mesmo…",
@@ -3318,7 +3653,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b5d40ccd862ba3",
@@ -3339,7 +3674,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "1e3c53ac94b443",
@@ -3674,7 +4009,7 @@
 "lg": "en",
 "esp": 1,
 "p": 5.4,
-"mx": 2,
+"mx": 3,
 "cr": 3,
 "cv": "Humanoid.guide",
 "rx": "Atlas on Wheels é um protótipo de pesquisa humanóide com rodas da Boston Dynamics, projetado para explorar o desempenho de atuadores elétricos por meio de uma abordagem incomum de locomoção. Em vez de pés convencionais, utiliza rodas de scooter instaladas nos motores de tornozelo existentes, permitindo à equipa de investigação investigar o comportamento motor exigente sem construir um robô inteiramente novo.\nA combinação de evitar obstáculos com saltos e aterrissagens faz do Atlas on Wheels uma plataforma diferenciada para estudar o movimento com rodas presas a pernas articuladas. Atlas on Wheels é um protótipo destinado principalmente à pesquisa, e não um produto comercial estabelecido para força de trabalho. Seu significado mais amplo reside no uso de uma plataforma humanóide existente para investigar uma forma diferente de contato com o solo e as demandas resultantes em motores elétricos."
@@ -3696,7 +4031,7 @@
 "lg": "ko",
 "esp": 1,
 "p": 5.3,
-"mx": 2,
+"mx": 3,
 "cr": 3,
 "cv": "Robot Newspaper"
 },
@@ -3985,6 +4320,51 @@
 "cv": "DroneLife",
 "mx": 1,
 "rx": "Uma empresa iniciante de segurança de drones está desenvolvendo um sistema que não apenas lança um UAV de um ninho dentro do prédio para responder a essa intrusão, mas também implanta esse drone para neutralizar a ameaça, tornando a arma do agressor inoperante. A Brecourt Solutions, com sede em Enfield, Connecticut, que já introduziu o iDFR™ (Indoor Drone as First Responder system), está desenvolvendo uma ferramenta para permitir que seu quadricóptero proprietário colida com a arma de fogo de um suspeito e libere um pacote de minúsculos ímãs de terras raras projetados para bloquear o funcionamento interno da arma.\nO ex-Navy SEAL Jeff Ross, CEO e fundador da Brecourt, disse que, ao contrário de outros sistemas de segurança de drones internos projetados para responder a possíveis situações de atiradores ativos, o dispositivo de mau funcionamento da arma de fogo em desenvolvimento terá como alvo a arma, não a pessoa que a empunha."
+},
+{
+"id": "870f1af8461ad9",
+"t": "Robôs feitos na Índia, construídos para o mundo: Kody Robots leva inovação em robótica indiana para NRF 2027",
+"r": "A Kody Robots, uma das principais empresas de robótica da Índia, exibirá seu robô publicitário habilitado para IA, Odigo, na NRF 2027: Retail's Big Show, que será realizada de 10 a 12 de janeiro de 2027 no Centro de Convenções Jacob K. Javits, na cidade de Nova York.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/11/made-in-india-robots-built-for-the-world-kody-robots-carries-indian-robotics-innovation-to-nrf-2027/27371",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-11T10:39-03:00",
+"c": [
+"servico"
+],
+"l": 0,
+"to": "Made in India Robots, Built for the World: Kody Robots Carries Indian Robotics Innovation to NRF 2027",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Kody Robots, um da Índia"
+},
+{
+"id": "8c1046931dbaf5",
+"t": "Tronix3D investe US$ 4 milhões para expandir suas operações em Pittsburgh, criando 47 novos empregos",
+"r": "The expansion will increase the company’s production capacity and allow them to serve clients in the defense and robotics industries.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/11/tronix3d-investss-4-million-to-expand-its-pittsburgh-operations-creating-47-new-jobs/27372",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-11T11:09-03:00",
+"c": [
+"negocios",
+"defesa"
+],
+"l": 0,
+"to": "Tronix3D Investss $4 Million to Expand its Pittsburgh Operations, Creating 47 New Jobs",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. Pittsburgh, PA - Pittsburgh garantiu um investimento de quase US$ 4 milhões da Tronix3D para expandir suas operações de impressão e fabricação 3D. A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. “Este investimento nos permitirá aumentar nossa capacidade de produção, criar 47 novos empregos nos próximos três anos e continuar apoiando indústrias críticas, incluindo robótica, defesa, aeroespacial e IA física aqui mesmo na Pensilvânia.” Este anúncio surge na sequência de uma série de investimentos nos setores industrial e tecnológico de Pittsburgh."
 },
 {
 "id": "6a30578179807e",
@@ -6692,13 +7072,13 @@
 },
 {
 "f": "The Globe and Mail",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYS14WFFiR25RaW9iY1hzUVY0Z1JFdEFVUHotM3l4RW5GUFFUeHNJZTd2THh0T0hMb28tRHlIUExZelZHZWk1TU8wSmVTOFRRaXVFdHRhZzhyaUllc19Ed0VDTzdBaUVlZjdJRlRDWEh6SnJPMExlR2R0QXlfSkRqdjVfY3ViakJWSndNTGlQNlU1UXBrazcyOU1XUHNSV0J6M2JfNXE5MWFwZ1BDZ3M3LWlFS2xxLXF0Rnc1M1YwTXpEQmNfLXIxWXBjeVVlWk4xQnVFNHY5WUsxeTg?oc=5",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8772126/world-s-first-bionic-humanoid-robot-news-anchors-unveiled/",
 "s": "theglobeandmail.com",
 "id": "89ab2b6b653a80"
 },
 {
 "f": "markets.businessinsider.com",
-"u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWRrWE1Wd0dSVndoUEhuS3RUWlhHc0RFMmpQVEhUV2p6ZVhoQ0h2d1djVHdKbDRFalZSZXA0YXJwZ0NETEN1bjdseFRPUm1mVjUtejFxRlZVT2xXaEd5X2NOT0pJckxsMzFZOXIwSEtUTTE3THhVSGlqWkt6bDNtcmRwbTlLWjluVUgya2dRTmVZT0VsTWg4akRhOFpWaUVVNk9Qd3pyU2d3a0pZMFZkY2h1UlFtRkE?oc=5",
+"u": "https://markets.businessinsider.com/news/stocks/world-s-first-bionic-humanoid-robot-news-anchors-unveiled-1036745953",
 "s": "markets.businessinsider.com",
 "id": "0926d2d14720b3"
 }
@@ -6706,8 +7086,8 @@
 "cr": 3,
 "cv": "Yonhap",
 "mx": 1,
-"cur": 1,
-"rx": "SÃO PAULO, 11 de novembro de 2026 /AsiaNet=YONHAP/ --Os primeiros âncoras de notícias robóticos humanóides biônicos do mundo foram revelados em novembro. O lançamento marcou um passo para colocar em uso prático o modelo inovador de combinação de conteúdo de notícias confiável com IA incorporada. Chamadas de Xinyan e Xinyu, as âncoras robóticas foram desenvolvidas em conjunto pela Agência de Notícias Xinhua e pela UBTECH, uma empresa chinesa líder em robótica, com o renomado diretor chinês Zhang Yimou atuando como designer-chefe de suas identidades visuais.\nEles ajudarão jornalistas e editores na apresentação de notícias, entrega de conteúdo multilíngue e interação no local. A 7ª Cúpula Mundial da Mídia é co-organizada pela Agência de Notícias Xinhua e pelo Governo Popular do Município de Pequim, e organizada pelo Departamento de Relações Exteriores e Cooperação Internacional da Xinhua, pelo Centro de Novas Mídias e pela Xinhuanet."
+"rx": "SÃO PAULO, 11 de novembro de 2026 /AsiaNet=YONHAP/ --Os primeiros âncoras de notícias robóticos humanóides biônicos do mundo foram revelados em novembro. O lançamento marcou um passo para colocar em uso prático o modelo inovador de combinação de conteúdo de notícias confiável com IA incorporada. Chamadas de Xinyan e Xinyu, as âncoras robóticas foram desenvolvidas em conjunto pela Agência de Notícias Xinhua e pela UBTECH, uma empresa chinesa líder em robótica, com o renomado diretor chinês Zhang Yimou atuando como designer-chefe de suas identidades visuais.\nEles ajudarão jornalistas e editores na apresentação de notícias, entrega de conteúdo multilíngue e interação no local. A 7ª Cúpula Mundial da Mídia é co-organizada pela Agência de Notícias Xinhua e pelo Governo Popular do Município de Pequim, e organizada pelo Departamento de Relações Exteriores e Cooperação Internacional da Xinhua, pelo Centro de Novas Mídias e pela Xinhuanet.",
+"cur": 1
 },
 {
 "id": "3ea9f9750e5f4b",
@@ -6734,7 +7114,7 @@
 "o": [
 {
 "f": "Pandaily",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjJjVHQ1MnpkWFlEVTJkM0R1Sks1M1F5Z0I0YzJOdERsX0czQzNrOVdYMXBnRzdXM1A5aWE4bTNIMXlwSHk4YXlaMHlUS3RPbk5fSU5qc1h3QjUzdFc2MW5NYUVtM01TdU91QXBKSlV3S3ZnTjAxV3JQU2Z0T3lieDM1Yzk4QWR2Slg5YloyUVlrVTUt?oc=5",
+"u": "https://pandaily.com/ant-group-robbyant-lingbot-touch-open-source-tactile-foundation-model",
 "s": "pandaily.com",
 "id": "0f1f2e5b614302"
 }
@@ -6743,11 +7123,11 @@
 {
 "id": "0919f640526528",
 "t": "Ring da Amazon lança câmera voadora, robô de segurança autônomo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDFXTGdJc0lCRlRsVll4blVSMTlEQTBwWnBGOFJNdy1wZmw5ZkYxRE9FOVlKTVIwY2p0cWllbjV5TXNFSWZkcGhTcVZ6WGdBSmN1MFJ4VThva0JFT1NNTFhNUDU2emZiektCaFVMMGtieVVQTWZLdkVhVHo1SzlKQkswMTFISWpQOHZhSjgzSzVKT1RyTU9kb0R2UEczVjlvQ1lGV3p4aHJMTDhRZEE4?oc=5",
+"r": "10 de novembro: Amazon's Ring lançou na terça-feira um novo negócio de robótica com dois produtos de segurança autônomos, uma câmera interna voadora para residências e um robô de segurança itinerante projetado para empresas, à medida que a empresa se expande além de sua linha estabelecida de dispositivos de segurança…",
+"u": "https://www.channelnewsasia.com/business/amazons-ring-launches-flying-camera-autonomous-security-robot-6539856",
 "f": "CNA",
 "s": "channelnewsasia.com",
-"i": "",
+"i": "https://dam.mediacorp.sg/image/upload/s--hDCuKHIc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-10T141225Z_1_LYNXNPEMA91FO_RTROPTP_3_AMAZON-FRANCE.JPG?itok=fcVo8nQ0",
 "d": "2026-11-10T11:12-03:00",
 "c": [
 "inspecao"
@@ -6755,33 +7135,34 @@
 "l": 1,
 "to": "Amazon's Ring launches flying camera, autonomous security robot",
 "lg": "en",
-"p": 12.5,
+"p": 13.8,
 "o": [
 {
 "f": "Reuters",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
+"u": "https://www.reuters.com/technology/amazons-ring-launches-flying-camera-autonomous-security-robot-2026-11-10/",
 "s": "reuters.com",
 "id": "90686d41851aac"
 },
 {
 "f": "Impress Watch",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81YXNFdFRUQk1ZcDZrWEpsTkJjUXBQYkppNXhxWDFCODVBb1FCbkZROEg1Sm41SUZYS2ZrNGZUZUtqeDFHeXZsamJxcUhLUzc4N3dMVmg2U2p6cF9vMGV1SmpNZnM?oc=5",
+"u": "https://www.watch.impress.co.jp/docs/news/2155467.html",
 "s": "watch.impress.co.jp",
 "id": "b83613d3910460"
 }
 ],
 "cr": 3,
 "cv": "CNA (Singapura)",
-"mx": 0
+"mx": 1,
+"rx": "10 de novembro: Amazon's Ring lançou na terça-feira um novo negócio de robótica com dois produtos de segurança autônomos, uma câmera interna voadora para residências e um robô de segurança itinerante projetado para empresas, à medida que a empresa se expande além de sua linha estabelecida de dispositivos de segurança residencial. • Ambos os dispositivos - Ring Drone e Ring Rover - usam o sistema AI Pilot da Ring, que combina câmeras, modelos de visão, sensores no dispositivo e processamento em nuvem para mapear espaços, identificar possíveis pontos de patrulha e navegar em torno de obstáculos, disse a Amazon\nCNA Games Adivinhe a palavra Decifre a palavra, uma linha por vez Buzzword Crie palavras usando as letras fornecidas Mini Sudoku Pequeno quebra-cabeça, poderoso quebra-cabeças Mini palavras cruzadas Grade pequena, grande desafio Pesquisa de palavras Encontre o máximo de palavras que puder Mostre mais Mostre menos • A Amazon começará a vender a Ring Rover Cam em 16 de dezembro por US$ 999,99 nos EUA, e a Ring Drone Cam em 27 de janeiro por US$ 249,99"
 },
 {
 "id": "38461357fffa54",
 "t": "O novo robô de IA do Google ‘treinado para não prejudicar bebês’",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnJhQU1qT3hHcWdQc3RKWUsxQWtGSjhfZzF6NkRQd2NMMGJ5bXZwazk0R19xQXRSTlJ0Z003RW5fYlRsV2J0RC0zR2dTU29acFZFMS1fMVZDaHo4X3ZwYVMybDg0bHVBeGU2YjJwRmthMHFHc0JGWlF0dGk1QXVHNHpjejNuLWs5Ny10ZnRsSFJpWDJaSVY4eGN0a0pCLU92?oc=5",
+"r": "A IA do robô do Google DeepMind é tão avançada fisicamente que está sendo treinada para não prejudicar bebês e animais de estimação. No entanto, os engenheiros admitiram que houve uma “profunda escalada de risco” ao mover a IA de dentro de um computador para o mundo físico e disseram que os programas foram treinados…",
+"u": "https://www.telegraph.co.uk/news/2026/11/10/googles-new-ai-robot-needs-training-not-to-harm-babies/",
 "f": "The Telegraph",
 "s": "telegraph.co.uk",
-"i": "",
+"i": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/10/TELEMMGLPICT000511178441_17943235762862_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz0-Zkeq22DP0pP_ERpmv4gg.jpeg?impolicy=OG-Standard",
 "d": "2026-11-10T15:16-03:00",
 "c": [
 "geral"
@@ -6789,69 +7170,25 @@
 "l": 1,
 "to": "Google’s new AI robot ‘trained not to harm babies’",
 "lg": "en",
-"p": 12.5,
+"p": 13.8,
 "o": [
 {
 "f": "The Australian",
-"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3k0RDY3SUQ5NGFaUnFQTFByckRFTzJ0eXFlVWNOUEE0c3JETTdzRGVvVE9NdUxtX1dkaHZpNjlnLWxnSDAxU2NKM3lTbEdaYmhvcHlsOXh3QmdvTjBGbUJpNmtSNzNXdFc1STdRaUZYUlF5RnNiWFJNcFBxbE90UzJnNVp3RTdkUTFlUzlVbjRfMFhFS1BjZ3VFemhoV0NJX1h2Z1RJeFI0elE3dGtaMVpfR0JTbUpsUFNzcVRsMHNfcE5qUXFPMTh0akx6b2QtNGVMY2E4eW14UWh1?oc=5",
+"u": "https://www.theaustralian.com.au/business/googles-new-humanoid-robot-had-to-be-trained-to-not-harm-babies/video/f013b01d5b7512e717b29aa41c23fd29",
 "s": "theaustralian.com.au",
 "id": "5cb59a95ab8879"
 },
 {
 "f": "News24",
-"u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnJNand6Y0x6Q0M0X0E3LUFpbGsxN0hwVlFuVHlwQW4xYXBrc1E3YjRoRHZyYVZGdEtETk1UY3VNeUNiYzRUX2NzYjNNTEJlVHhaRmZBQVhWWTlMdUI4Njdta2ZsQXNJR1dPRWFSYV9PelllS3RRdDFURmFFV3pjeHF3WkJieVB5b2RjbXlDZ19xSnhQUXkwQjgwZXpOSElzUjR5NkxiR3ItRXhmbFlpUTBNWkpfT2J0Wm5WclcwbkZCU3J5eDMxdGNIcXgxR3I3aFRtRWk0b3VMN0ZtdjFLVndYeFZVVEl5SW5vUXpR0gHzAUFVX3lxTE9LaW9aVDhDbnItcGZlSm1YVVRmbFNlNWJ1Sl9YSWtyelMtdEt6T3RjOGZoaUw2LWpCZWZuQkFVdGNNQ1g2WS1BdmQtQWxhSV9HWkVJUlBBaDhpbVc4bXphTEtlRUZSV0hYVE5CaXpwaFpxUXd4U01aUTlYTWpzU01MT1dvZXFQM2hHMWkyN1k1MnRKN2huWU5YSFJNRGxaNjNLS0x5TFVSWW1LaVUxTUZXOWlmZnMxUXk3cGpxWUN0Nk95NEpIRkpPY3huRWs4NUN0SXNWVFhjbUJ5SWdiSjZNYXhrWG1qMGdzQmFaUEFVNVZ1TQ?oc=5",
+"u": "https://www.news24.com.au/business/tech-and-innovation/googles-new-humanoid-robot-had-to-be-trained-to-not-harm-babies/video/f013b01d5b7512e717b29aa41c23fd29",
 "s": "news24.com.au",
 "id": "ebea66f94fc563"
 }
 ],
 "cr": 3,
 "cv": "The Telegraph",
-"mx": 0
-},
-{
-"id": "8b1dc45a5c99e6",
-"t": "Oversonic Robotics acelera expansão internacional: novo robô humanóide cognitivo em ação em Munique e Lisboa",
-"r": "- Made-in-Italy cognitive and collaborative humanoid robotics present at electronica and Web Summit: RoBee R20 at work, just like in a factory - The two events strengthen the company’s international growth strategy ahead of its return to CES in Las Vegas, following its participation in 2026",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/oversonic-robotics-accelerates-international-expansion-new-cognitive-humanoid-robot-in-action-in-munich-and-lisbon/27357",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T09:29-03:00",
-"c": [
-"humanoides",
-"industriais"
-],
-"l": 1,
-"to": "Oversonic Robotics Accelerates International Expansion: New Cognitive Humanoid Robot in Action in Munich and Lisbon",
-"lg": "en",
-"esp": 1,
-"p": 12.4,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "- Robótica humanóide cognitiva e colaborativa Made in Italy presente na electronica e no Web Summit: RoBee R20 no trabalho, tal como numa fábrica - Os dois eventos reforçam a estratégia de crescimento internacional da empresa antes do seu regresso à CES em Las Vegas, após a sua participação em 2026 A empresa está presente com o seu modelo industrial RoBee R20 em dois grandes eventos tecnológicos europeus: electronica em Munique e Web Summit em Lisboa. Na electronica 2026 em Munique, o RoBee R20 será apresentado no estande da STMicroelectronics (Hall C3, Stand 101), operando continuamente durante todo o dia da exposição, replicando atividades e práticas de trabalho típicas de uma fábrica e demonstrando as capacidades da robótica humanóide cognitiva em ambientes de fabricação."
-},
-{
-"id": "b14fbca0f77492",
-"t": "GITEX World RobotiX 2026 traz estreias humanóides e Inteligência Artificial (IA) incorporada de última geração para Dubai",
-"r": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA ​​física, à medida que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/gitex-world-robotix-2026-brings-humanoid-debuts-and-next-gen-embodied-artificial-intelligence-ai-to-dubai/27358",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T09:31-03:00",
-"c": [
-"humanoides"
-],
-"l": 1,
-"to": "GITEX World RobotiX 2026 brings humanoid debuts and next-gen embodied Artificial Intelligence (AI) to Dubai",
-"lg": "en",
-"esp": 1,
-"p": 12.4,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+"mx": 1,
+"rx": "A IA do robô do Google DeepMind é tão avançada fisicamente que está sendo treinada para não prejudicar bebês e animais de estimação. No entanto, os engenheiros admitiram que houve uma “profunda escalada de risco” ao mover a IA de dentro de um computador para o mundo físico e disseram que os programas foram treinados para priorizar a segurança humana, incluindo estar atentos a bebés e animais de estimação para evitar causar-lhes danos.\nCaroline Parada, chefe de robótica da DeepMind, disse: \"À medida que os robôs se movem em ambientes cotidianos, a segurança física é fundamental. Pesquisadores da Robocurve, que conduz avaliações reais de IA física, descobriram anteriormente que os robôs poderiam ser induzidos a realizar ações perigosas, como esfaquear uma boneca com uma faca, colocar uma lata inflamável em um fogão ou misturar produtos químicos perigosos."
 },
 {
 "id": "a23273a3baec60",
@@ -6876,10 +7213,40 @@
 "rx": "A Boston Dynamics divulgou um vídeo experimental do Atlas, um robô humanóide equipado com rodas. Este experimento combina o controle existente baseado na física e"
 },
 {
+"id": "0e76f9631c43e6",
+"t": "Ring da Amazon revela drone e robô voadores para patrulhar residências e empresas",
+"r": "O Ring da Amazon está se aprofundando na vigilância com um drone interno para monitoramento residencial e um robô autônomo projetado para patrulhar empresas. A empresa revelou na terça-feira a Ring Drone Cam de US$ 250, uma câmera de segurança que pode voar de sala em sala, inclusive no andar de cima, bem como…",
+"u": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/108546941-1794261485075-Lifestyle_dronecam_hovering_hallway_RGB_1500x1500.jpg?v=1794317522&w=1920&h=1080",
+"d": "2026-11-10T10:30-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 1,
+"to": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+"lg": "en",
+"p": 12.3,
+"cr": 3,
+"cv": "CNBC",
+"o": [
+{
+"f": "조선일보",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTdTWUJNekdOMzU1ZzVPWXVqbzZUNlBEMHQ1S0dDdWEwSU16ZUhVanE5SGhYYmlHdFRRUVlUY1ZmN1VOMkNhVWtlN3U4dkdPZHNSVGhPR09oalp5aTBCSnVybWQ0dWdRaEhlMnNwTDFpR2EwenlVN3dldkpwUVdJbnk2UnZfZVA1?oc=5",
+"s": "chosun.com",
+"id": "89eeedeeacb620"
+}
+],
+"mx": 1,
+"rx": "O Ring da Amazon está se aprofundando na vigilância com um drone interno para monitoramento residencial e um robô autônomo projetado para patrulhar empresas. A empresa revelou na terça-feira a Ring Drone Cam de US$ 250, uma câmera de segurança que pode voar de sala em sala, inclusive no andar de cima, bem como capturar imagens durante o dia ou à noite. Em uma demonstração em Nova York na segunda-feira, o CEO da Ring, Jamie Siminoff, disse que o drone poderia ser usado como uma ferramenta de monitoramento residencial e como um “dissuasor” do crime devido às luzes LED embutidas no dispositivo.\nA Ring apresentou pela primeira vez seu drone, então chamado de Always Home Cam, em 2020. Siminoff disse em uma entrevista que o drone e o robô permitem aos usuários monitorar várias áreas de sua casa ou empresa com apenas um dispositivo. O Ring Drone Cam será lançado nos EUA em janeiro."
+},
+{
 "id": "3e13dbdf22cdbb",
 "t": "Amazon's Ring estreia robôs de segurança, incluindo um drone",
 "r": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. O…",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjNhR2FrNDZPcTV2dGN5SUNCTXQzX0pVNHVEVXhWZk1TdFhyRmRYakVpSEx3c29wZGhBMG9SMkdjVFlnZjRnSHloTjhveDJmUGZCQmRiOHBXRC1ibEF5aHQyNGZQVXd3MURzOTZFWFRjc1pLTVUyQUFxemRjNUtIRGR3WV9OclJ1bEVTaVRld21zN19aQUE?oc=5",
+"u": "https://www.nbcnews.com/tech/tech-news/amazons-ring-debuts-security-robots-drone-rcna608538",
 "f": "NBC News",
 "s": "nbcnews.com",
 "i": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
@@ -6929,7 +7296,7 @@
 "o": [
 {
 "f": "TechCrunch",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3YxVlRtRmxFcFlCZG1aZUpvUHdFM09FX2FWTkJfTWhGUVV2WlpnVWFtLXNfYTd4cXhEZlQ0ZjVhZm41LW9uY3lLbnFPZGxfOVFJY2VxdjQ2SXZNamRQcHhlTE9PdG9BZVhSTHpnOHRHSXREcVZHaUV0TUJTRUNYa0tlWld5Wms5cHZEWGRrVXJQYU1kb3NwX3c5aDBfZkdZRGVfektMcXMyTl9qVktmeTloXzlrWWRBa0ZHZWNCZW1LdV9xZWhORHFKdmYtaTQ?oc=5",
+"u": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
 "s": "techcrunch.com",
 "id": "76f6e17d40d87b"
 }
@@ -6960,77 +7327,49 @@
 "rx": "A Associação Japonesa de Robôs de IA (AIRoA·AI Robot Association) revelou o 'AIRoA-0', um modelo básico para aprendizagem de robôs. A AI Robot Association é uma organização japonesa sem fins lucrativos."
 },
 {
-"id": "4ba5e149b5badd",
-"t": "Robbyant lança LingBot-Touch para trazer percepção de toque de uso geral para robôs",
-"r": "Pre-trained on nearly 5,000 hours of real-world tactile data, the model covers three mainstream sensing modalities—magnetic tactile, visual tactile, and piezoresistive sensing—and translates their diverse signals into a unified tactile representation.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/27360",
+"id": "8b1dc45a5c99e6",
+"t": "Oversonic Robotics acelera expansão internacional: novo robô humanóide cognitivo em ação em Munique e Lisboa",
+"r": "- Made-in-Italy cognitive and collaborative humanoid robotics present at electronica and Web Summit: RoBee R20 at work, just like in a factory - The two events strengthen the company’s international growth strategy ahead of its return to CES in Las Vegas, following its participation in 2026",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/oversonic-robotics-accelerates-international-expansion-new-cognitive-humanoid-robot-in-action-in-munich-and-lisbon/27357",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
 "i": "",
-"d": "2026-11-10T10:09-03:00",
+"d": "2026-11-10T09:29-03:00",
 "c": [
-"geral"
+"humanoides",
+"industriais"
 ],
 "l": 1,
-"to": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+"to": "Oversonic Robotics Accelerates International Expansion: New Cognitive Humanoid Robot in Action in Munich and Lisbon",
 "lg": "en",
 "esp": 1,
-"p": 11.6,
+"p": 11.4,
 "mx": 9,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"rx": "Pré-treinado em quase 5.000 horas de dados táteis do mundo real, o modelo cobre três modalidades de detecção convencionais – tátil magnético, tátil visual e sensoriamento piezoresistivo – e traduz seus diversos sinais em uma representação tátil unificada. Robbyant, uma empresa de IA incorporada ao Ant Group, anunciou hoje o lançamento de código aberto do LingBot-Touch, um modelo de base tátil que dá aos robôs uma sensação crítica de falta, permitindo uma percepção de toque robusta. Aqui está o que os engenheiros seniores precisam agora Pré-treinado em quase 5.000 horas de dados táteis do mundo real, o modelo cobre três modalidades de detecção convencionais - tátil magnético, tátil visual e sensoriamento piezoresistivo - e traduz seus diversos sinais em uma representação tátil unificada."
+"rx": "- Robótica humanóide cognitiva e colaborativa Made in Italy presente na electronica e no Web Summit: RoBee R20 no trabalho, tal como numa fábrica - Os dois eventos reforçam a estratégia de crescimento internacional da empresa antes do seu regresso à CES em Las Vegas, após a sua participação em 2026 A empresa está presente com o seu modelo industrial RoBee R20 em dois grandes eventos tecnológicos europeus: electronica em Munique e Web Summit em Lisboa. Na electronica 2026 em Munique, o RoBee R20 será apresentado no estande da STMicroelectronics (Hall C3, Stand 101), operando continuamente durante todo o dia da exposição, replicando atividades e práticas de trabalho típicas de uma fábrica e demonstrando as capacidades da robótica humanóide cognitiva em ambientes de fabricação."
 },
 {
-"id": "021d5c39b8e6b2",
-"t": "Styri lança um painel offline gratuito para ver, enviar e parar robôs de diferentes fornecedores",
-"r": "O painel do operador de código aberto traz os robôs ROS 2 e VDA 5050 em uma tela, funciona em uma única caixa sem internet e é gratuito para até três robôs",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/styri-launches-a-free-offline-panel-to-see-send-and-stop-robots-from-different-vendors/27364",
+"id": "b14fbca0f77492",
+"t": "GITEX World RobotiX 2026 traz estreias humanóides e Inteligência Artificial (IA) incorporada de última geração para Dubai",
+"r": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA ​​física, à medida que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/gitex-world-robotix-2026-brings-humanoid-debuts-and-next-gen-embodied-artificial-intelligence-ai-to-dubai/27358",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
 "i": "",
-"d": "2026-11-10T13:05-03:00",
+"d": "2026-11-10T09:31-03:00",
 "c": [
-"ia"
+"humanoides"
 ],
 "l": 1,
-"to": "Styri launches a free, offline panel to see, send and stop robots from different vendors",
+"to": "GITEX World RobotiX 2026 brings humanoid debuts and next-gen embodied Artificial Intelligence (AI) to Dubai",
 "lg": "en",
 "esp": 1,
-"p": 11.6,
+"p": 11.4,
 "mx": 9,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"rx": "O painel do operador de código aberto traz os robôs ROS 2 e VDA 5050 em uma tela, funciona em uma única caixa sem internet e é gratuito para até três robôs MIAMI, 10 de novembro de 2026 — A Styri lançou hoje o Styri 2.0, um painel do operador de código aberto que permite que as pessoas que executam robôs em uma fábrica ou armazém vejam, enviem e parem robôs de diferentes fornecedores em uma tela, sem conexão com a nuvem. O Styri 2.0 fala tanto do ROS 2, a estrutura robótica de código aberto, quanto do VDA 5050, o padrão de interface para veículos guiados automaticamente que surgiu da fabricação automotiva alemã. Disponibilidade O Styri Core é gratuito e de código aberto sob a licença Apache 2.0, para até três robôs em um site, e começa com um único comando docker run. Seu painel de operação funciona com robôs ROS 2 e VDA 5050 e funciona inteiramente na rede do próprio cliente."
-},
-{
-"id": "0e76f9631c43e6",
-"t": "Ring da Amazon revela drone e robô voadores para patrulhar residências e empresas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
-"f": "CNBC",
-"s": "cnbc.com",
-"i": "",
-"d": "2026-11-10T10:30-03:00",
-"c": [
-"drones",
-"inspecao"
-],
-"l": 1,
-"to": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-"lg": "en",
-"p": 11.0,
-"cr": 3,
-"cv": "CNBC",
-"o": [
-{
-"f": "조선일보",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTdTWUJNekdOMzU1ZzVPWXVqbzZUNlBEMHQ1S0dDdWEwSU16ZUhVanE5SGhYYmlHdFRRUVlUY1ZmN1VOMkNhVWtlN3U4dkdPZHNSVGhPR09oalp5aTBCSnVybWQ0dWdRaEhlMnNwTDFpR2EwenlVN3dldkpwUVdJbnk2UnZfZVA1?oc=5",
-"s": "chosun.com",
-"id": "89eeedeeacb620"
-}
-],
-"mx": 0
+"rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
 },
 {
 "id": "19fc800c5cbfbf",
@@ -7138,6 +7477,50 @@
 "cv": "DroneLife",
 "mx": 1,
 "rx": "O serviço de três Supercenters Walmart chega a dezenas de milhares de residências em todo o Tennessee e Arkansas, à medida que as empresas continuam sua expansão nacional. Wing lançou entrega de drones com o Walmart em toda a região de Memphis. Esses pedidos chegam aos seus pátios em apenas 30 minutos, segundo Wing. Além disso, a Wing anunciou recentemente um investimento de até US$ 125 milhões na fabricação de drones nos EUA para apoiar sua expansão de entregas.\nOs clientes podem verificar a elegibilidade no aplicativo Walmart ou em wing.com/walmart. Os pedidos podem ser feitos pelo aplicativo Walmart, no Walmart.com ou diretamente pelo aplicativo Wing. Juntamente com o Walmart, agora oferece entregas por drones para mais de três milhões de clientes em Dallas-Fort Worth, Atlanta, Houston, Charlotte, Orlando e agora Memphis."
+},
+{
+"id": "4ba5e149b5badd",
+"t": "Robbyant lança LingBot-Touch para trazer percepção de toque de uso geral para robôs",
+"r": "Pre-trained on nearly 5,000 hours of real-world tactile data, the model covers three mainstream sensing modalities—magnetic tactile, visual tactile, and piezoresistive sensing—and translates their diverse signals into a unified tactile representation.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/27360",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T10:09-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+"lg": "en",
+"esp": 1,
+"p": 10.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Pré-treinado em quase 5.000 horas de dados táteis do mundo real, o modelo cobre três modalidades de detecção convencionais – tátil magnético, tátil visual e sensoriamento piezoresistivo – e traduz seus diversos sinais em uma representação tátil unificada. Robbyant, uma empresa de IA incorporada ao Ant Group, anunciou hoje o lançamento de código aberto do LingBot-Touch, um modelo de base tátil que dá aos robôs uma sensação crítica de falta, permitindo uma percepção de toque robusta. Aqui está o que os engenheiros seniores precisam agora Pré-treinado em quase 5.000 horas de dados táteis do mundo real, o modelo cobre três modalidades de detecção convencionais - tátil magnético, tátil visual e sensoriamento piezoresistivo - e traduz seus diversos sinais em uma representação tátil unificada."
+},
+{
+"id": "021d5c39b8e6b2",
+"t": "Styri lança um painel offline gratuito para ver, enviar e parar robôs de diferentes fornecedores",
+"r": "O painel do operador de código aberto traz os robôs ROS 2 e VDA 5050 em uma tela, funciona em uma única caixa sem internet e é gratuito para até três robôs",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/styri-launches-a-free-offline-panel-to-see-send-and-stop-robots-from-different-vendors/27364",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T13:05-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "Styri launches a free, offline panel to see, send and stop robots from different vendors",
+"lg": "en",
+"esp": 1,
+"p": 10.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "O painel do operador de código aberto traz os robôs ROS 2 e VDA 5050 em uma tela, funciona em uma única caixa sem internet e é gratuito para até três robôs MIAMI, 10 de novembro de 2026 — A Styri lançou hoje o Styri 2.0, um painel do operador de código aberto que permite que as pessoas que executam robôs em uma fábrica ou armazém vejam, enviem e parem robôs de diferentes fornecedores em uma tela, sem conexão com a nuvem. O Styri 2.0 fala tanto do ROS 2, a estrutura robótica de código aberto, quanto do VDA 5050, o padrão de interface para veículos guiados automaticamente que surgiu da fabricação automotiva alemã. Disponibilidade O Styri Core é gratuito e de código aberto sob a licença Apache 2.0, para até três robôs em um site, e começa com um único comando docker run. Seu painel de operação funciona com robôs ROS 2 e VDA 5050 e funciona inteiramente na rede do próprio cliente."
 },
 {
 "id": "ab68893e533122",
@@ -7606,38 +7989,6 @@
 "rx": "A colaboração expandida visa tornar mais fácil para os clientes conectarem diversos sensores, transformar dados em insights em tempo real e acelerar o desenvolvimento de soluções inteligentes nas áreas de saúde, aeroespacial e defesa, e robótica. A Intel Corporation e a Altera, o maior fornecedor de FPGA puro com um portfólio de espectro completo, anunciaram hoje uma colaboração para desenvolver uma solução de referência de ponte de sensor flexível e em tempo real para uma variedade de indústrias de IA física e de borda, incluindo aplicações de saúde, aeroespacial e defesa, e robótica. Ao combinar computação, conectividade e software Intel com FPGAs Altera, as empresas pretendem ajudar os fabricantes de equipamentos originais (OEMs) a lidar com a crescente complexidade de conexão, processamento e atuação em dados do mundo real em ambientes de borda cada vez mais ricos em sensores."
 },
 {
-"id": "d9a13bd9c24d8c",
-"t": "Path Robotics anuncia financiamento Série E de US$ 300 milhões com avaliação de US$ 2,45 bilhões para dimensionar IA física para manufatura",
-"r": "Investment led by Georgian fuels the company’s next phase of growth across new applications and industries",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/path-robotics-announces-300-million-series-e-financing-at-245-billion-valuation-to-scale-physical-ai-for-manufacturing/27363",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T10:14-03:00",
-"c": [
-"negocios",
-"ia",
-"industriais"
-],
-"l": 0,
-"to": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing",
-"lg": "en",
-"esp": 1,
-"p": 7.1,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"o": [
-{
-"f": "Robotics 24/7",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXFPNVByTzQ0cWFpSFNFZENoZkRBS3dmRW1yWHh3dFNwd0Y5SUNjc2RwX081OFBOcEVvZGNaX0l6VmpKRjEyZmp6YkJtbWE1WE9JMDZfay0tYWRjNXR0MFR3WHJJSk9xQ29FZmtZTUtXN242MVYtckpsTlRJQVFaNklCcGZVSzdqSjdGRWU0VUZBRmx3VWNWVi1NUG0tQUpCa2lpdg?oc=5",
-"s": "robotics247.com",
-"id": "e7f68b443ddf1d"
-}
-],
-"rx": "A Path Robotics, líder global em IA física para manufatura, anunciou hoje US$ 300 milhões em financiamento da Série E com uma avaliação pós-monetária de US$ 2,45 bilhões, liderada pela Georgian, uma empresa de capital de crescimento com foco em IA. A equipe construiu uma base sólida em soldagem e vemos um enorme potencial para a Path Robotics estender essa inteligência para novas aplicações e indústrias de fabricação.\" Escalando a IA física em indústrias críticas A Path Robotics experimentou um crescimento comercial significativo à medida que fabricantes de construção naval e defesa, equipamentos pesados ​​e infraestrutura de energia recorrem à IA física para superar restrições de produção e expandir a capacidade. Sobre a Path Robotics A Path Robotics constrói IA física para fabricação, começando com seu modelo de soldagem, Obsidian™."
-},
-{
 "id": "e5020b63d3ead7",
 "t": "MIPS dos EUA revela plataforma física de semicondutores de IA para controle de articulações humanóides",
 "r": "MIPS, uma empresa americana de tecnologia de semicondutores, revelou tecnologia aprimorada para 'Actus', uma plataforma física de semicondutores de IA que pode controlar com precisão as articulações de humanóides e robôs industriais. A MIPS, afiliada da Global Foundry (GF), anunciou no dia 9 que anunciou a plataforma de referência Actus, que integra o controle do motor do robô, comunicação em tempo real e funções de inferência de IA de ponta. Esta plataforma é como a unidade motriz conjunta que se estende do cotovelo aos dedos de um robô humanóide, controlando espaço, peso, potência. É voltada para ambientes onde a geração de calor é limitada. Actus foi projetado com base na arquitetura RISC-V, um conjunto de instruções aberto e MIP",
@@ -7857,6 +8208,38 @@
 "rx": "A localização de minas marítimas tem sido tradicionalmente tarefa de navios especializados em caça às minas, com tripulações de cerca de 80 marinheiros. Durante a guerra do Iraque em 2003, a Marinha dos EUA vasculhou o fundo do mar à procura de minas com um robô em forma de torpedo chamado Remus 100. O Pentágono afirmou que este robô, um Veículo Subaquático Extra Grande Não Tripulado (XLUUV) do empreendimento tecnológico de defesa autónomo dos EUA Anduril, era um dispositivo antigo com defeito e sem equipamento classificado a bordo.\nSteve Prest, membro associado do think tank de defesa RUSI, introduziu a caça às minas não tripuladas na Marinha Real e foi o primeiro oficial de robótica da frota, um título que adquiriu em 2014. \"Existem várias maneiras de procurar uma mina usando barcos-robôs ou submarinos-robôs, e embora você não possa provar o negativo, que não há minas lá, você pode reduzir o risco.\" “Navios não tripulados ou autônomos não são o sistema operacional."
 },
 {
+"id": "d9a13bd9c24d8c",
+"t": "Path Robotics anuncia financiamento Série E de US$ 300 milhões com avaliação de US$ 2,45 bilhões para dimensionar IA física para manufatura",
+"r": "Investment led by Georgian fuels the company’s next phase of growth across new applications and industries",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/path-robotics-announces-300-million-series-e-financing-at-245-billion-valuation-to-scale-physical-ai-for-manufacturing/27363",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T10:14-03:00",
+"c": [
+"negocios",
+"ia",
+"industriais"
+],
+"l": 0,
+"to": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing",
+"lg": "en",
+"esp": 1,
+"p": 6.1,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"o": [
+{
+"f": "Robotics 24/7",
+"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXFPNVByTzQ0cWFpSFNFZENoZkRBS3dmRW1yWHh3dFNwd0Y5SUNjc2RwX081OFBOcEVvZGNaX0l6VmpKRjEyZmp6YkJtbWE1WE9JMDZfay0tYWRjNXR0MFR3WHJJSk9xQ29FZmtZTUtXN242MVYtckpsTlRJQVFaNklCcGZVSzdqSjdGRWU0VUZBRmx3VWNWVi1NUG0tQUpCa2lpdg?oc=5",
+"s": "robotics247.com",
+"id": "e7f68b443ddf1d"
+}
+],
+"rx": "A Path Robotics, líder global em IA física para manufatura, anunciou hoje US$ 300 milhões em financiamento da Série E com uma avaliação pós-monetária de US$ 2,45 bilhões, liderada pela Georgian, uma empresa de capital de crescimento com foco em IA. A equipe construiu uma base sólida em soldagem e vemos um enorme potencial para a Path Robotics estender essa inteligência para novas aplicações e indústrias de fabricação.\" Escalando a IA física em indústrias críticas A Path Robotics experimentou um crescimento comercial significativo à medida que fabricantes de construção naval e defesa, equipamentos pesados ​​e infraestrutura de energia recorrem à IA física para superar restrições de produção e expandir a capacidade. Sobre a Path Robotics A Path Robotics constrói IA física para fabricação, começando com seu modelo de soldagem, Obsidian™."
+},
+{
 "id": "a14c7eeb1a0c0a",
 "t": "Robô humanóide enfrenta ultramaratona antártica… e falha",
 "r": "",
@@ -8045,29 +8428,6 @@
 "rx": "Os pesquisadores da UC Berkeley usam IA de agente para gerar, testar e refinar programas de controle de robôs, reduzindo dados de treinamento e necessidades de engenharia."
 },
 {
-"id": "77921b9f3a3f31",
-"t": "ASICS America recupera estoque perdido 60% mais rápido com drones de estoque Corvus One Warehouse",
-"r": "Voos noturnos autônomos aumentam em 6x a frequência de contagem em duas áreas de armazenamento do centro de distribuição de 855 mil metros quadrados da marca e liberam cerca de 200 horas de mão de obra por mês",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/asics-america-recovers-misplaced-inventory-60-faster-with-corvus-one-warehouse-inventory-drones/27359",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T09:56-03:00",
-"c": [
-"logistica",
-"drones"
-],
-"l": 0,
-"to": "ASICS America Recovers Misplaced Inventory 60% Faster with Corvus One Warehouse Inventory Drones",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A Corvus Robotics, líder na implantação de sistemas robóticos físicos de IA para operações de logística e armazenamento, anunciou hoje que a ASICS America Corporation está executando drones de inventário autônomo Corvus One® dentro de seu centro de distribuição em Byhalia, MS, onde os voos noturnos aumentaram a frequência de contagem em 6x em duas das áreas de armazenamento de maior risco do edifício, que agora são contadas mensalmente. A ASICS relata que recuperou o inventário perdido cerca de 60% mais rápido desde que o sistema entrou em operação e redirecionou cerca de 200 horas de trabalho mensal de contagem para pesquisa de inventário e resolução de exceções. Um drone de inventário autônomo Corvus One realiza uma missão de contagem cíclica no centro de distribuição da ASICS America em Byhalia, MS."
-},
-{
 "id": "971eb06b422af9",
 "t": "Axon investe US$ 1,2 bilhão na Skydio e se torna seu distribuidor de segurança pública nos EUA",
 "r": "O drone X10 possui câmeras visuais e radiométricas de alta resolução em pacotes de sensores modulares. | Fonte: Skydio Axon Enterprise Inc. disse na semana passada que investiu US$ 1,2 bilhão na Skydio Inc., fabricante de drones com sede em San Mateo, Califórnia. Com o investimento, a Axon ganha 20% de participação na Skydio, que está avaliada em…",
@@ -8108,7 +8468,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "718a3c7c8ebc60",
@@ -8203,28 +8563,6 @@
 "rx": "Brils (CEO Jin Jeon), especialista em plataforma de modularização de robôs, participou da ‘8ª Conferência Body Emotion’ da Hyundai Motor Company-Kia, realizada no Rolling Hills Hotel em Hwaseong-si, Gyeonggi-do, no dia 10, e apresentou ‘Physical AI Design’."
 },
 {
-"id": "d054c160efe343",
-"t": "Nem todo reparo de robô precisa de uma visita de caminhão. É hora de trazer de volta a bancada de reparos.",
-"r": "Por Steve Urban, fundador e COO, Robo Reliance",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/not-every-robot-repair-needs-a-truck-roll-its-time-to-bring-back-the-repair-bench/27367",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T15:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Not every robot repair needs a truck roll. It's time to bring back the repair bench.",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Você envia a unidade para uma bancada de reparos, alguém que tenha as ferramentas e o tempo a conserta adequadamente e ela volta testada. A bancada vence em alguns casos claros: o robô é pequeno e o local é remoto. Para robôs que podem ser enviados e pesam 150 libras ou menos, os proprietários agora podem solicitar uma autorização de reparo, enviar a unidade para nossa oficina de reparos nos EUA por uma taxa fixa de diagnóstico de US$ 99, aprovar um orçamento e devolvê-la para reparo e teste. Fabricantes de robôs, revendedores e operadores de frota podem usar a mesma bancada de seu depósito. Sobre o autor Steve Urban é fundador e COO da Robo Reliance (https://www.roboreliance.com), uma empresa sediada no Colorado que fornece serviços de campo em todo o país e reparos por correio para robôs comerciais, industriais e domésticos de todos os tipos."
-},
-{
 "id": "02da499ce656d3",
 "t": "Associação da Indústria de Robôs e IA da Coreia - Acordo comercial do Centro de Inovação de Economia Criativa de Gyeonggi assinado",
 "r": "A Associação da Indústria de IA e Robôs da Coreia (Presidente Oh Jun-ho) e o Centro de Inovação da Economia Criativa de Gyeonggi (CEO Kim Won-kyung) assinaram um acordo comercial (MoU) no Campo de Testes Robot Plus em Gangnam-gu, Seul, no dia 10, para fortalecer o crescimento e a competitividade global de start-ups promissoras nas indústrias de IA e robótica. Este acordo apoiará a atração de investimentos, comercialização e entrada em mercados estrangeiros para startups promissoras nas áreas de IA e robótica com base nas capacidades profissionais e redes industriais de ambas as organizações, e apoiará a indústria e foi promovido para expandir a base de cooperação entre start-ups. As duas organizações organizaram conjuntamente o evento de atração de investimentos “Global Scale-up Day” da Roboworld e operaram conjuntamente exposições no exterior.",
@@ -8265,29 +8603,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
-},
-{
-"id": "9b6ff76688d88b",
-"t": "Enovix recebe pedido de drone com 100.000 baterias",
-"r": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/enovix-receives-100000-battery-drone-order/27370",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-10T18:20-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Enovix Receives 100,000-Battery Drone Order",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"mx": 9,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além."
+"mx": 3
 },
 {
 "id": "93e11b3528fefb",
@@ -8395,7 +8711,7 @@
 "lg": "en",
 "esp": 1,
 "p": 5.4,
-"mx": 2,
+"mx": 3,
 "cr": 3,
 "cv": "Humanoid.guide",
 "rx": "Avatar é o protótipo humanóide com rodas da Honda R&D Co., Ltd. para trabalho físico remoto, combinando uma plataforma móvel com dois braços e mãos equipadas com cinco dedos cada. Com 155 cm de altura e pesando 101 kg, tem velocidade máxima listada de 3 km/h e especificação de resistência de 5 kg. Sua pontuação geral de habilidade Humanoid.Guide de 3 em 10 o coloca na faixa de desenvolvimento, com Navegação classificada como 1 em 5 e Manipulação classificada em 2 em 5.\nSeu significado mais amplo reside na combinação do julgamento humano remoto com feedback tátil e execução de movimento assistida por IA em uma plataforma física. A pontuação geral em desenvolvimento fornece um contexto útil: Avatar representa um esforço contínuo de engenharia em direção ao trabalho físico remoto, em vez de um humanóide maduro de uso geral."
@@ -8419,7 +8735,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1
+"mx": 2
 },
 {
 "id": "448a156ee19559",
@@ -8787,6 +9103,73 @@
 "cv": "DroneLife",
 "mx": 1,
 "rx": "O Escritório de Capital Estratégico (OSC) do Departamento de Guerra anunciou um compromisso de empréstimo condicional de até US$ 450 milhões para a Neros, um fabricante de pequenos drones militares com sede na Califórnia. O financiamento apoiaria a expansão da produção de drones e componentes críticos nos EUA, reduzindo a dependência de fornecedores estrangeiros. De acordo com o anúncio do Departamento de Guerra, o investimento ajudará a Neros a expandir a produção nacional de pequenos sistemas de aeronaves não tripuladas (sUAS), sistemas de controle de solo, motores, rádios, eletrônicos de voo, sensores e baterias.\nEm Setembro, a Neros anunciou uma encomenda avaliada em mais de 100 milhões de dólares para 14.000 drones e cargas explosivas através do Programa de Dominância de Drones do Pentágono. O anúncio reflete um esforço federal para fortalecer a capacidade doméstica de fabricação de drones, indo além da montagem de aeronaves até os componentes necessários para apoiar a produção em escala."
+},
+{
+"id": "77921b9f3a3f31",
+"t": "ASICS America recupera estoque perdido 60% mais rápido com drones de estoque Corvus One Warehouse",
+"r": "Voos noturnos autônomos aumentam em 6x a frequência de contagem em duas áreas de armazenamento do centro de distribuição de 855 mil metros quadrados da marca e liberam cerca de 200 horas de mão de obra por mês",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/asics-america-recovers-misplaced-inventory-60-faster-with-corvus-one-warehouse-inventory-drones/27359",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T09:56-03:00",
+"c": [
+"logistica",
+"drones"
+],
+"l": 0,
+"to": "ASICS America Recovers Misplaced Inventory 60% Faster with Corvus One Warehouse Inventory Drones",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A Corvus Robotics, líder na implantação de sistemas robóticos físicos de IA para operações de logística e armazenamento, anunciou hoje que a ASICS America Corporation está executando drones de inventário autônomo Corvus One® dentro de seu centro de distribuição em Byhalia, MS, onde os voos noturnos aumentaram a frequência de contagem em 6x em duas das áreas de armazenamento de maior risco do edifício, que agora são contadas mensalmente. A ASICS relata que recuperou o inventário perdido cerca de 60% mais rápido desde que o sistema entrou em operação e redirecionou cerca de 200 horas de trabalho mensal de contagem para pesquisa de inventário e resolução de exceções. Um drone de inventário autônomo Corvus One realiza uma missão de contagem cíclica no centro de distribuição da ASICS America em Byhalia, MS."
+},
+{
+"id": "d054c160efe343",
+"t": "Nem todo reparo de robô precisa de uma visita de caminhão. É hora de trazer de volta a bancada de reparos.",
+"r": "Por Steve Urban, fundador e COO, Robo Reliance",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/not-every-robot-repair-needs-a-truck-roll-its-time-to-bring-back-the-repair-bench/27367",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T15:52-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Not every robot repair needs a truck roll. It's time to bring back the repair bench.",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Você envia a unidade para uma bancada de reparos, alguém que tenha as ferramentas e o tempo a conserta adequadamente e ela volta testada. A bancada vence em alguns casos claros: o robô é pequeno e o local é remoto. Para robôs que podem ser enviados e pesam 150 libras ou menos, os proprietários agora podem solicitar uma autorização de reparo, enviar a unidade para nossa oficina de reparos nos EUA por uma taxa fixa de diagnóstico de US$ 99, aprovar um orçamento e devolvê-la para reparo e teste. Fabricantes de robôs, revendedores e operadores de frota podem usar a mesma bancada de seu depósito. Sobre o autor Steve Urban é fundador e COO da Robo Reliance (https://www.roboreliance.com), uma empresa sediada no Colorado que fornece serviços de campo em todo o país e reparos por correio para robôs comerciais, industriais e domésticos de todos os tipos."
+},
+{
+"id": "9b6ff76688d88b",
+"t": "Enovix recebe pedido de drone com 100.000 baterias",
+"r": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/10/enovix-receives-100000-battery-drone-order/27370",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-10T18:20-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Enovix Receives 100,000-Battery Drone Order",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"mx": 9,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além."
 },
 {
 "id": "45aa9d68d24185",
@@ -11426,6 +11809,26 @@
 "mx": 0
 },
 {
+"id": "dc4eaed7d1fbf0",
+"t": "PORT arrecada 14,5 milhões de euros para transformar a logística urbana de e-bikes em robôs autónomos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlObzVXWjlaYTF0VW52NDdBd1pEMTZiZUlWT21fWWw5OUplZGpEdVB0NHgzMW9tT2JNbm45OUM2bktsWF8yNFJHZjUyd0FpOWwybzRWMlE1ZXBCdU5JQUVfQ1d3Tkw5Z0tsT1A5UDVWZWYzeE9BM2dobmFUaDNLcTdQdnRNTFZNTUJmc2N0WmRyWkZsd1BHdjZrZWhJMm9oQnd4Qlo1X1U?oc=5",
+"f": "Tech.eu",
+"s": "tech.eu",
+"i": "",
+"d": "2026-11-10T04:33-03:00",
+"c": [
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "PORT raises €14.5M to take urban logistics from e-bikes to autonomous robots",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Tech.eu"
+},
+{
 "id": "d4742cf44b5836",
 "t": "Modelo de IA tátil de código aberto Robbyant do Ant Group para mãos robóticas",
 "r": "",
@@ -12217,6 +12620,40 @@
 "mx": 0
 },
 {
+"id": "7d39d2ce1f43a0",
+"t": "Tesla lança Robotaxi em San Antonio com uma cerca geográfica de 274 milhas quadradas no papel",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Sk05cXktRlZ4NWlsV1gydk43cWllcUVPYk4xUnhpUnRYYlhIZ0JUQlMwMC1EeVotR1VJRFFLOEp6cmtUbGdwM2pCNkxQczZwa045QTFpMVdxWlNOM0ZTUG9TczYwaGxkSUY4SFdTNkc3SnptdWM5LWZlWEF2NnM?oc=5",
+"f": "Electrek",
+"s": "electrek.co",
+"i": "",
+"d": "2026-11-09T11:36-03:00",
+"c": [
+"autonomos"
+],
+"l": 1,
+"to": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
+"lg": "en",
+"p": 12.5,
+"cr": 3,
+"cv": "Electrek",
+"o": [
+{
+"f": "Axios",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGo0M1Y5TGVHa0l4ZDFUMkh6b2t6X0Y2cTFvOGJ5WlhzdTF1SHNUbUJabThaR1ZVTDBBU1NyblVLdHpMdVdmbmdJamM3WERCMXpRb0UzUGlaYzFMOWVmNGNSeW1tdFpaMVBqTjA0QzhSaDdpWFhSMllsaXJodDVvallqS2loOGlGQlRoS0s2Wk1CMmdvTmZQR2g4N0M?oc=5",
+"s": "axios.com",
+"id": "8d2b4a1b9a2e23"
+},
+{
+"f": "Mashable SEA",
+"u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYW1UR3hrMjBhSmU2UXd6czl6YkFSNTIyUmp6ckY3OG5oWC01cVFFQkVBNFJZdTR0NTA5eDNEOWYzRjhHbnZ0eEVUWDh6bmhmbVdsazc3NHYyQW13TjR1TEdzSzk0c2pIRjlFeW8zMklZZ3FyckktTlBZUlhYcXh5ZGtWbUlYTnNYdm5yZURZdDBzdVpUQ0pB?oc=5",
+"s": "sea.mashable.com",
+"id": "8490734b6c8dd1"
+}
+],
+"mx": 0
+},
+{
 "id": "56d2eb4130dbd5",
 "t": "Nvidia revela novo modelo de IA de robótica humanóide",
 "r": "A NVIDIA revelou o ‘Groot (GR00T) 2’, um modelo de inteligência artificial (IA) que pode aumentar a capacidade de manipulação sofisticada de robôs humanóides, aprendendo com demonstrações de tarefas humanas. A NVIDIA anunciou o modelo de ação de mundo aberto (World Action Model) Groot 2 na 'CoRL (Conference on Robot Learning) 2026', uma conferência internacional sobre aprendizagem de robôs realizada em Austin, Texas, EUA, no dia 9 (horário local). Este modelo foi desenvolvido com base no ‘Cosmos’, o modelo da NVIDIA World Foundation para IA física, e aprende vários dados de pessoas e robôs.",
@@ -12283,34 +12720,6 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "Empresa de robótica de IA"
-},
-{
-"id": "7d39d2ce1f43a0",
-"t": "Tesla lança Robotaxi em San Antonio com uma cerca geográfica de 274 milhas quadradas no papel",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Sk05cXktRlZ4NWlsV1gydk43cWllcUVPYk4xUnhpUnRYYlhIZ0JUQlMwMC1EeVotR1VJRFFLOEp6cmtUbGdwM2pCNkxQczZwa045QTFpMVdxWlNOM0ZTUG9TczYwaGxkSUY4SFdTNkc3SnptdWM5LWZlWEF2NnM?oc=5",
-"f": "Electrek",
-"s": "electrek.co",
-"i": "",
-"d": "2026-11-09T11:36-03:00",
-"c": [
-"autonomos"
-],
-"l": 1,
-"to": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
-"lg": "en",
-"p": 11.0,
-"cr": 3,
-"cv": "Electrek",
-"o": [
-{
-"f": "Axios",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGo0M1Y5TGVHa0l4ZDFUMkh6b2t6X0Y2cTFvOGJ5WlhzdTF1SHNUbUJabThaR1ZVTDBBU1NyblVLdHpMdVdmbmdJamM3WERCMXpRb0UzUGlaYzFMOWVmNGNSeW1tdFpaMVBqTjA0QzhSaDdpWFhSMllsaXJodDVvallqS2loOGlGQlRoS0s2Wk1CMmdvTmZQR2g4N0M?oc=5",
-"s": "axios.com",
-"id": "8d2b4a1b9a2e23"
-}
-],
-"mx": 0
 },
 {
 "id": "de05a4609e7a4a",
@@ -12907,7 +13316,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "cf83aea47cbb01",
@@ -12950,7 +13359,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "89357cf9b4e962",
@@ -13020,6 +13429,28 @@
 "rx": "A empresa de IA física Autonomous A2G (CEO Ji-Hyung Han) está usando o nível de desenvolvimento próprio para o projeto de demonstração de ônibus autônomo que começa no dia 9 em Kinosaki Onsen, cidade de Toyooka, província de Hyogo, Japão."
 },
 {
+"id": "02b91687c663f3",
+"t": "Greenzie ultrapassa 255.000 milhas de corte autônomo, marcando um marco de autonomia comercial",
+"r": "Os cortadores comerciais movidos pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/09/greenzie-surpasses-255000-autonomous-mowing-miles-marking-commercial-autonomy-milestone/27354",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-09T14:36-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Greenzie surpasses 255,000 autonomous mowing miles, marking commercial autonomy milestone",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
+},
+{
 "id": "09a78d78a9ef17",
 "t": "US Wing investe 170 bilhões de won nos próximos dois anos para fabricar drones de próxima geração",
 "r": "Wing, uma subsidiária da American Alphabet, anunciou no dia 6 (horário local) que planeja gastar US$ 125 milhões (cerca de 169 bilhões de won) no Texas nos próximos dois anos para fabricar dezenas de milhares de veículos aéreos não tripulados de próxima geração (drones, UAVs) para serviços de entrega todos os anos. A Wing está desenvolvendo um sistema de entrega de drones em larga escala que é seguro e pode operar nos Estados Unidos, fortalecendo sua liderança na indústria de aviação dos EUA e, ao mesmo tempo, prestando serviços a milhões de pessoas em todo o país. ◇ Do laboratório à vida cotidiana Wing começou na fábrica lunar da Alphabet,",
@@ -13063,7 +13494,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "09d2f5cde55495",
@@ -13302,28 +13733,6 @@
 "cv": "DroneLife",
 "mx": 1,
 "rx": "A Skyways voará com sua aeronave autônoma V2 de uma instalação da Shell em Louisiana para uma plataforma offshore. Em 9 de novembro de 2026, a Administração Federal de Aviação disse ter emitido uma autorização para um drone voar além da linha de visão visual do operador a partir da costa dos EUA sobre o Golfo. Também descreveu a autorização como um marco para operações comerciais de drones de longo alcance em alto mar.\nA Skyways operará suas aeronaves autônomas V2 de decolagem e pouso vertical (VTOL) das instalações SPLC da Shell em Gibson, Louisiana, para uma plataforma da Shell no Golfo. “Esta autorização marca um passo importante em direção a essa visão, demonstrando o potencial da inovação e engenhosidade americana para transformar as operações offshore enquanto trabalhamos para estabelecer uma estrutura regulatória que possibilite essas capacidades com segurança e em escala.”"
-},
-{
-"id": "02b91687c663f3",
-"t": "Greenzie ultrapassa 255.000 milhas de corte autônomo, marcando um marco de autonomia comercial",
-"r": "Os cortadores comerciais movidos pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/09/greenzie-surpasses-255000-autonomous-mowing-miles-marking-commercial-autonomy-milestone/27354",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-09T14:36-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Greenzie surpasses 255,000 autonomous mowing miles, marking commercial autonomy milestone",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
 },
 {
 "id": "d5a45c450d23b1",
@@ -15909,7 +16318,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "b4854b1d6a40f9",
@@ -15952,7 +16361,7 @@
 "esp": 1,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "947b03f1a4c4e5",
@@ -16497,6 +16906,26 @@
 "cr": 3,
 "cv": "CNBC",
 "mx": 0
+},
+{
+"id": "a485af9fdd25a7",
+"t": "Kassow Robots, Joytek, Bosch Rexroth e Reply mostram o futuro da montagem automatizada de kits com cobots AMR",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRIS1pZU0NhcnpSRXdjQ2lwQ3RkamhEaFF4YkdlY2xDWTB2VHpKTWN1aGlkOHJjQU9MblBCNnJlamtuR2FpaDIxanFwZXFFVW1JUXl6NF9JRHZ0eGwtTDlTY19YalN6bUtiaUdkY0FQWFI3eVhMWFF0ZjhXQ3ZaMUZ3VFJ6X2d1WTF1dDdaUU41QXNoSmlfbFpZQWpBeW4zZUdLSjBHbWR5eEMxX2o4VnZSeDVzV2FuVUczWk5KdE9oamR1TjdOZzBvdEQ3U256eU9F?oc=5",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "",
+"d": "2026-11-08T10:00-03:00",
+"c": [
+"cobots",
+"logistica"
+],
+"l": 0,
+"to": "Kassow Robots, Joytek, Bosch Rexroth and Reply showcase the future of automated kitting with AMR cobots",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Robotics 24/7"
 },
 {
 "id": "5d021c8f709fcf",
@@ -17567,7 +17996,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "00836a718e2b5d",
@@ -18768,7 +19197,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -18778,9 +19207,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
@@ -18900,8 +19329,8 @@
 "cr": 3,
 "cv": "Robohub",
 "mx": 1,
-"cur": 1,
-"rx": "Claire conversou com Dexter Shepherd, da Universidade de Sussex, sobre o uso de inteligência artificial para ajudar os robôs a compreender e se adaptar ao seu ambiente. Dexter Shepherd é pesquisador de pós-doutorado na Universidade de Sussex, explorando aprendizado de máquina para detecção tátil bioinspirada e locomoção robótica. Seu trabalho combina sistemas de IA embarcados, modelos espaço-temporais e aprendizado por reforço para permitir que robôs classifiquem texturas, se orientem e adaptem seus movimentos. Além da sua investigação, Dexter lidera e coordena iniciativas de formação em IA em África, na produção de produtos eletrónicos e na aplicação de IA em dispositivos incorporados."
+"rx": "Claire conversou com Dexter Shepherd, da Universidade de Sussex, sobre o uso de inteligência artificial para ajudar os robôs a compreender e se adaptar ao seu ambiente. Dexter Shepherd é pesquisador de pós-doutorado na Universidade de Sussex, explorando aprendizado de máquina para detecção tátil bioinspirada e locomoção robótica. Seu trabalho combina sistemas de IA embarcados, modelos espaço-temporais e aprendizado por reforço para permitir que robôs classifiquem texturas, se orientem e adaptem seus movimentos. Além da sua investigação, Dexter lidera e coordena iniciativas de formação em IA em África, na produção de produtos eletrónicos e na aplicação de IA em dispositivos incorporados.",
+"cur": 1
 },
 {
 "id": "da419fb847aff5",
@@ -20319,7 +20748,7 @@
 ],
 "cr": 3,
 "cv": "The New York Times",
-"mx": 1
+"mx": 2
 },
 {
 "id": "249d04acd67f64",
@@ -20442,6 +20871,36 @@
 "mx": 0
 },
 {
+"id": "4bec4290b2f6a1",
+"t": "Pudu Robotics revela estratégia \"Um cérebro, múltiplas incorporações\" e apresenta portfólio completo em primeiro lugar na Europa",
+"r": "O líder global em robótica comercial apresentou seis linhas de produtos juntas pela primeira vez em seu European Partner Summit 2026, em Amsterdã.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/27348",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-05T09:53-03:00",
+"c": [
+"servico"
+],
+"l": 0,
+"to": "Pudu Robotics Unveils \"One Brain, Multiple Embodiments\" Strategy and Showcases Full Portfolio in European First",
+"lg": "en",
+"esp": 1,
+"p": 7.1,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"o": [
+{
+"f": "Robotics 24/7",
+"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2ppY1VBVUt5VlFOYUc4cG4zcG5xVnEwVGVQZ05hNFVJWmdzY242bzNRSTk2NTdleWVzUXktRWVsNHBmbE1vbmJjaEZ1UWlIR192V1FLRHhrblpGWXpfaE1DQ3VKTVpBUWRWQmJmX0hDUi1GelRqR1FnUWd5ckFlMGNUbmpjekdPUEgyaTdMNDhSWWg3V2NDcUx3SFZHdkdmcE5TY1hfMXRidG9GUmNyU2ZBbDBhLTZsUUQ1WHRsVVNNQQ?oc=5",
+"s": "robotics247.com",
+"id": "09580913297b5f"
+}
+],
+"rx": "O líder global em robótica comercial apresentou seis linhas de produtos juntas pela primeira vez em seu European Partner Summit 2026, em Amsterdã. A Pudu Robotics, líder global em robótica comercial, apresentou ontem a próxima fase da sua estratégia global em Amesterdão, na sua primeira Cimeira de Parceiros Europeus. No evento, que teve como tema \"IA em Ação: Aumentando o Impacto em Toda a Europa — Juntos\", a Pudu revelou pela primeira vez sua estratégia \"Um Cérebro, Múltiplas Incorporações\", juntamente com seu ecossistema completo de produtos, abrangendo seis linhas de produtos. A linha de tratamento de gramados domésticos inclui a série PUDU TOMO S, o primeiro produto de robótica de consumo da empresa, anunciado em 3 de novembro. Pudu desenvolve soluções robóticas em robótica comercial e doméstica, com um portfólio que abrange prestação de serviços, limpeza comercial, entrega industrial, IA geral incorporada, cuidado de terrenos comerciais e cuidado de gramados de consumo."
+},
+{
 "id": "d94f47b36633f7",
 "t": "Agility é a primeira empresa de robôs humanóides puros no mercado de ações. Você está comprando?",
 "r": "A Agility chega hoje à Nasdaq como a primeira empresa de robótica humanóide pura de capital aberto.",
@@ -20470,36 +20929,6 @@
 "cv": "TechCrunch",
 "mx": 1,
 "rx": "Quase um ano atrás, Brett Adcock, CEO da Figure AI, respondeu a algumas provocações gentis nas redes sociais da empresa rival de robótica Agility com uma previsão: “Você estará falido em <12 meses”. Em vez disso, a Agility está abrindo o capital por meio de uma fusão reversa que a tornará uma empresa de capital aberto e levantará US$ 465 milhões em novo capital de investidores de varejo e uma parcela de financiamento privado.\n“Você não vê muitos robôs dançando ou dando cambalhotas na Agility”, disse a CEO Peggy Johnson ao TechCrunch antes da estreia da empresa no mercado. A boa notícia é que a Agility tem US$ 300 milhões em contratos planejados de 30 clientes para sua nova geração de robôs, o Digit 5. Ela não quis compartilhar metas de produção para o Digit 5, mas a empresa disse que sua unidade de produção poderia produzir 10.000 robôs anualmente."
-},
-{
-"id": "4bec4290b2f6a1",
-"t": "Pudu Robotics revela estratégia \"Um cérebro, múltiplas incorporações\" e apresenta portfólio completo em primeiro lugar na Europa",
-"r": "O líder global em robótica comercial apresentou seis linhas de produtos juntas pela primeira vez em seu European Partner Summit 2026, em Amsterdã.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/27348",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-05T09:53-03:00",
-"c": [
-"servico"
-],
-"l": 0,
-"to": "Pudu Robotics Unveils \"One Brain, Multiple Embodiments\" Strategy and Showcases Full Portfolio in European First",
-"lg": "en",
-"esp": 1,
-"p": 6.1,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"o": [
-{
-"f": "Robotics 24/7",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2ppY1VBVUt5VlFOYUc4cG4zcG5xVnEwVGVQZ05hNFVJWmdzY242bzNRSTk2NTdleWVzUXktRWVsNHBmbE1vbmJjaEZ1UWlIR192V1FLRHhrblpGWXpfaE1DQ3VKTVpBUWRWQmJmX0hDUi1GelRqR1FnUWd5ckFlMGNUbmpjekdPUEgyaTdMNDhSWWg3V2NDcUx3SFZHdkdmcE5TY1hfMXRidG9GUmNyU2ZBbDBhLTZsUUQ1WHRsVVNNQQ?oc=5",
-"s": "robotics247.com",
-"id": "09580913297b5f"
-}
-],
-"rx": "O líder global em robótica comercial apresentou seis linhas de produtos juntas pela primeira vez em seu European Partner Summit 2026, em Amsterdã. A Pudu Robotics, líder global em robótica comercial, apresentou ontem a próxima fase da sua estratégia global em Amesterdão, na sua primeira Cimeira de Parceiros Europeus. No evento, que teve como tema \"IA em Ação: Aumentando o Impacto em Toda a Europa — Juntos\", a Pudu revelou pela primeira vez sua estratégia \"Um Cérebro, Múltiplas Incorporações\", juntamente com seu ecossistema completo de produtos, abrangendo seis linhas de produtos. A linha de tratamento de gramados domésticos inclui a série PUDU TOMO S, o primeiro produto de robótica de consumo da empresa, anunciado em 3 de novembro. Pudu desenvolve soluções robóticas em robótica comercial e doméstica, com um portfólio que abrange prestação de serviços, limpeza comercial, entrega industrial, IA geral incorporada, cuidado de terrenos comerciais e cuidado de gramados de consumo."
 },
 {
 "id": "18e6dceae92ba1",
@@ -20552,6 +20981,74 @@
 "rx": "Os robôs geralmente saem da fábrica com todos os sensores que já foram aparafusados. Os cientistas construíram agora um robô em forma de mariposa que usa produtos químicos em seu sangue artificial para fazer exatamente isso. O software pode mudar a forma como um robô usa seu hardware, mas não pode adicionar um sensor que não esteja lá. Construído por engenheiros da Universidade de Tartu, na Estônia, e do Instituto Italiano de Tecnologia (IIT), ele carrega produtos químicos em seu sangue artificial que penetram em seu corpo impresso em 3D quando a equipe incide luz ultravioleta sobre ele, transformando aquele pedaço de plástico em um sensor totalmente novo.\n\"Em 10 anos, espero que o sangue robótico artificial e os sistemas circulatórios sejam uma escolha óbvia para algumas aplicações, com vários sistemas de materiais como configuração de última geração.\""
 },
 {
+"id": "63d3d15fb886f8",
+"t": "A nova MPU RZ/T2N da Renesas integra controle de motor, Ethernet industrial e processamento de aplicações para robôs e equipamentos industriais",
+"r": "- Handles motor control for up to four axes, industrial Ethernet and Linux application processing on a single chip - Serves as both network controller and device supporting from PLCs to multi-axis servos and industrial robots - Reduces board area and system complexity compared with conventional multi-chip…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/renesas-new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment-/27347",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-05T09:37-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Renesas' New RZ/T2N MPU Integrates Motor Control, Industrial Ethernet and Application Processing for Robots and Industrial Equipment",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "- Controla o controle de motor para até quatro eixos, processamento de aplicações Ethernet industrial e Linux em um único chip - Serve como controlador de rede e suporte de dispositivo de PLCs a servos multieixos e robôs industriais - Reduz a área da placa e a complexidade do sistema em comparação com configurações convencionais de múltiplos chips, permitindo equipamentos menores e desenvolvimento mais rápido - Será demonstrado ao vivo na electronica 2026, de 10 a 13 de novembro em Munique, Alemanha (estande da Renesas: Hall C5, estande 479)."
+},
+{
+"id": "88873f03e4118a",
+"t": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 destacará IA física e fabricação orientada por IA com 402 expositores de 17 países",
+"r": "Rainbow Robotics, Neuromeka and Samhyun to exhibit Nov. 4–7 near Seoul; NVIDIA and Qualcomm to participate in conference",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/the-korea-industry-daily-robotworld-2026-to-spotlight-physical-ai-and-ai-driven-manufacturing-with-402-exhibitors-from-17-countries/27349",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-05T09:56-03:00",
+"c": [
+"ia",
+"industriais"
+],
+"l": 0,
+"to": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Rainbow Robotics, Neuromeka e Samhyun farão exposição em novembro. ROBOTWORLD 2026 reunirá 402 empresas de 17 países no Centro Internacional de Exposições da Coreia (KINTEX) em novembro. A exposição com 1.198 estandes explorará como a IA física e os sistemas de fabricação orientados por IA estão sendo desenvolvidos para aplicações industriais. Uma delegação canadense de 10 empresas de tecnologia participará da exposição e conferência, enquanto empresas da Índia e de Bangladesh exporão pela primeira vez na ROBOTWORLD. A International Robot Business Conference 2026 ampliará a discussão sobre aplicações industriais em 36 sessões em novembro. Sobre ROBOTWORLD ROBOTWORLD é uma exposição internacional de robótica que abrange robôs industriais e de serviço, componentes principais, software de IA e soluções de automação de fabricação, juntamente com uma conferência e programas de negócios."
+},
+{
+"id": "5f4e921895d8ec",
+"t": "Nippybot, startup de robótica de Middlesbrough, levanta financiamento anjo para acelerar a implantação no Reino Unido",
+"r": "A Nippybot, startup de robótica com sede em Middlesbrough, levantou uma rodada de financiamento anjo não revelada enquanto se prepara para expandir a implantação de seus robôs de entrega autônomos em todo o Reino Unido. Com sede em Tees Valley, a Nippybot está desenvolvendo robôs autônomos projetados para enfrentar…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/middlesbrough-robotics-startup-nippybot-raises-angel-funding-to-accelerate-uk-deployment/27350",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-05T10:04-03:00",
+"c": [
+"negocios",
+"entrega"
+],
+"l": 0,
+"to": "Middlesbrough Robotics Startup Nippybot Raises Angel Funding to Accelerate UK Deployment",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A Nippybot, startup de robótica com sede em Middlesbrough, levantou uma rodada de financiamento anjo não revelada enquanto se prepara para expandir a implantação de seus robôs de entrega autônomos em todo o Reino Unido. Com sede em Tees Valley, a Nippybot está desenvolvendo robôs autônomos projetados para enfrentar desafios práticos de logística de última milha, transportando alimentos, encomendas e outros bens em distâncias curtas. O novo investimento apoiará a produção de robôs Nippybot adicionais, o desenvolvimento adicional da tecnologia da empresa e a expansão das suas parcerias comerciais e implantações no mundo real. Samson Adewole, fundador e CEO da Nippybot, disse: “Iniciamos o Nippybot porque vimos uma oportunidade de construir robôs de entrega autônomos em torno de problemas operacionais reais, em vez de simplesmente construir tecnologia por fazer."
+},
+{
 "id": "b66f2045205c40",
 "t": "Chaminé ou esquilo? Limpando a memória confusa de um robô comparando imagens de diferentes ângulos",
 "r": "Em uma emergência, algum dia um ser humano poderá pedir a um assistente robótico que busque um desfibrilador montado na parede localizado no final do corredor. Mas se o robô rotulou incorretamente o desfibrilador como extintor de incêndio em sua memória armazenada, ele pode não saber onde encontrar o dispositivo salva-vidas.",
@@ -20570,7 +21067,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "5479bed7477be1",
@@ -20889,73 +21386,6 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "A operadora australiana de drones Sphere alcançou o status Gold no programa Basic Aviation Risk Standard (BARS) da Flight Safety Foundation."
-},
-{
-"id": "63d3d15fb886f8",
-"t": "A nova MPU RZ/T2N da Renesas integra controle de motor, Ethernet industrial e processamento de aplicações para robôs e equipamentos industriais",
-"r": "- Handles motor control for up to four axes, industrial Ethernet and Linux application processing on a single chip - Serves as both network controller and device supporting from PLCs to multi-axis servos and industrial robots - Reduces board area and system complexity compared with conventional multi-chip…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/renesas-new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment-/27347",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-05T09:37-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Renesas' New RZ/T2N MPU Integrates Motor Control, Industrial Ethernet and Application Processing for Robots and Industrial Equipment",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "- Controla o controle de motor para até quatro eixos, processamento de aplicações Ethernet industrial e Linux em um único chip - Serve como controlador de rede e suporte de dispositivo de PLCs a servos multieixos e robôs industriais - Reduz a área da placa e a complexidade do sistema em comparação com configurações convencionais de múltiplos chips, permitindo equipamentos menores e desenvolvimento mais rápido - Será demonstrado ao vivo na electronica 2026, de 10 a 13 de novembro em Munique, Alemanha (estande da Renesas: Hall C5, estande 479)."
-},
-{
-"id": "88873f03e4118a",
-"t": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 destacará IA física e fabricação orientada por IA com 402 expositores de 17 países",
-"r": "Rainbow Robotics, Neuromeka and Samhyun to exhibit Nov. 4–7 near Seoul; NVIDIA and Qualcomm to participate in conference",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/the-korea-industry-daily-robotworld-2026-to-spotlight-physical-ai-and-ai-driven-manufacturing-with-402-exhibitors-from-17-countries/27349",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-05T09:56-03:00",
-"c": [
-"ia",
-"industriais"
-],
-"l": 0,
-"to": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Rainbow Robotics, Neuromeka e Samhyun farão exposição em novembro. ROBOTWORLD 2026 reunirá 402 empresas de 17 países no Centro Internacional de Exposições da Coreia (KINTEX) em novembro. A exposição com 1.198 estandes explorará como a IA física e os sistemas de fabricação orientados por IA estão sendo desenvolvidos para aplicações industriais. Uma delegação canadense de 10 empresas de tecnologia participará da exposição e conferência, enquanto empresas da Índia e de Bangladesh exporão pela primeira vez na ROBOTWORLD. A International Robot Business Conference 2026 ampliará a discussão sobre aplicações industriais em 36 sessões em novembro. Sobre ROBOTWORLD ROBOTWORLD é uma exposição internacional de robótica que abrange robôs industriais e de serviço, componentes principais, software de IA e soluções de automação de fabricação, juntamente com uma conferência e programas de negócios."
-},
-{
-"id": "5f4e921895d8ec",
-"t": "Nippybot, startup de robótica de Middlesbrough, levanta financiamento anjo para acelerar a implantação no Reino Unido",
-"r": "A Nippybot, startup de robótica com sede em Middlesbrough, levantou uma rodada de financiamento anjo não revelada enquanto se prepara para expandir a implantação de seus robôs de entrega autônomos em todo o Reino Unido. Com sede em Tees Valley, a Nippybot está desenvolvendo robôs autônomos projetados para enfrentar…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/05/middlesbrough-robotics-startup-nippybot-raises-angel-funding-to-accelerate-uk-deployment/27350",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-05T10:04-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Middlesbrough Robotics Startup Nippybot Raises Angel Funding to Accelerate UK Deployment",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A Nippybot, startup de robótica com sede em Middlesbrough, levantou uma rodada de financiamento anjo não revelada enquanto se prepara para expandir a implantação de seus robôs de entrega autônomos em todo o Reino Unido. Com sede em Tees Valley, a Nippybot está desenvolvendo robôs autônomos projetados para enfrentar desafios práticos de logística de última milha, transportando alimentos, encomendas e outros bens em distâncias curtas. O novo investimento apoiará a produção de robôs Nippybot adicionais, o desenvolvimento adicional da tecnologia da empresa e a expansão das suas parcerias comerciais e implantações no mundo real. Samson Adewole, fundador e CEO da Nippybot, disse: “Iniciamos o Nippybot porque vimos uma oportunidade de construir robôs de entrega autônomos em torno de problemas operacionais reais, em vez de simplesmente construir tecnologia por fazer."
 },
 {
 "id": "828a308922ccbc",
@@ -22142,6 +22572,28 @@
 "rx": "Filhotes que carregam suas compras são uma coisa – mas e os caninos mecânicos que estão sendo comprados nos EUA pela ICE? Nesse caso, sugiro que você vá para São Francisco, onde uma startup chamada Dimensional paga às pessoas US$ 20 (£ 15) por hora para passear com cães-robôs de quatro patas. Isso não ocorre porque os cães precisam de exercício – é porque a empresa precisa dos dados de treinamento.\nHá alguns meses, foi relatado que o Departamento de Imigração e Alfândega dos EUA (ICE) planejava gastar até US$ 2 milhões (£ 1,5 milhão) em cães-robôs fabricados pela empresa Boston Dynamics. No mês passado, uma startup chamada Warhound foi lançada com o objetivo de criar cães geneticamente modificados, equipados com “aprimoramentos cibernéticos avançados, software e consciência situacional no campo de batalha”. Os detalhes sobre Warhound são escassos, mas tenho certeza de que provavelmente significa cães mutantes que matam pessoas."
 },
 {
+"id": "d5900e892c6cf9",
+"t": "Realbotix muda sua linha de robôs humanóides para Realbotix Série 1",
+"r": "A mudança de nome evita preocupações com marcas registradas e unifica a família de produtos robóticos sob a designação Realbotix Série 1, ao mesmo tempo em que continua a alavancar a marca Realbotix.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/27342",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T10:15-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Realbotix Rebrands its Humanoid Robot Line to Realbotix Series 1",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A mudança de nome evita preocupações com marcas registradas e unifica a família de produtos robóticos sob a designação Realbotix Série 1, ao mesmo tempo que continua a alavancar a marca Realbotix. (TSX-V: XBOT) (Frankfurt: 76M0.F) (OTC: XBOTF) (\"Realbotix\" ou a \"Empresa\"), fabricante de robôs humanóides e sistemas de IA, anuncia que mudou a marca de sua plataforma de robô humanóide carro-chefe recentemente lançada de Echo para Realbotix Série 1. \"Realbotix Série 1 reflete o forte reconhecimento de marca que construímos para a produção de robôs humanóides realistas\", disse Andrew Kiguel, CEO da Realbotix. Os robôs Realbotix Série 1 estão disponíveis exclusivamente no site do produto Realbotix em Realbotix.com. Cada robô Realbotix Série 1 apresenta a pele sintética ultrarrealista à base de silicone proprietária da Realbotix e expressões faciais avançadas para interação empática e realista."
+},
+{
 "id": "7c67e411e6b61f",
 "t": "O reflexo artificial sem eletrônicos reproduz o reflexo do joelho e permite a caminhada bípede",
 "r": "Quando um médico bate logo abaixo da rótula, a parte inferior da perna avança automaticamente. Este reflexo instintivo é um exemplo dos reflexos que desempenham um papel essencial no controle motor humano. Agora, pesquisadores da Universidade de Tohoku desenvolveram um módulo de reflexo para robôs musculoesqueléticos que funciona sem eletrônica…",
@@ -22160,7 +22612,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "daaf863c89052b",
@@ -22183,6 +22635,120 @@
 "cv": "Robohub",
 "mx": 1,
 "rx": "Na nossa série mensal, apresentamos uma seleção de histórias de robótica da sociedade, negócios, investigação e cultura, à medida que acompanhamos a jornada contínua do campo, desde máquinas industriais especializadas até um fenómeno social cada vez mais visível. Em cinco experiências utilizando um robô móvel real e realidade virtual, 92% dos participantes mostraram o mesmo preconceito: à mesma velocidade física, um robô que se aproximasse por trás parecia mais rápido do que outro que se aproximasse pela frente.\nResultado de uma colaboração entre o Instituto de Robótica e Inteligência de Máquinas de Munique (TUM MIRMI) da Universidade Técnica de Munique (TUM) e a NEURA Robotics, o TUM RoboGym verá inicialmente cerca de 100 robôs humanóides e de serviço aprenderem habilidades e processos específicos em 48 células de treinamento."
+},
+{
+"id": "63daf1aadf85d9",
+"t": "ESTUN Robotics e RoboDK anunciam parceria estratégica na DFactory Barcelona para simplificar e acelerar a adoção de robôs industriais na Europa",
+"r": "- The collaboration brings the technology of China’s largest industrial robot manufacturer together with a leading platform for robot simulation and offline programming. - The agreement, formalized at the headquarters of ESTUN Robotics Iberia in DFactory Barcelona, highlights the potential of the ecosystem promoted by…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe-/27338",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T09:30-03:00",
+"c": [
+"industriais",
+"negocios"
+],
+"l": 0,
+"to": "ESTUN Robotics and RoboDK announce strategic partnership at DFactory Barcelona to simplify and accelerate the adoption of industrial robots in Europe",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "- A colaboração reúne a tecnologia do maior fabricante de robôs industriais da China com uma plataforma líder para simulação de robôs e programação offline. - O acordo, formalizado na sede da ESTUN Robotics Iberia no DFactory Barcelona, ​​destaca o potencial do ecossistema promovido pelo Consorci de la Zona Franca de Barcelona para conectar empresas, gerar sinergias tecnológicas e fomentar novas oportunidades de colaboração com alcance internacional.\nESTUN Robotics e RoboDK formalizaram uma Parceria Estratégica para impulsionar a integração de suas tecnologias e facilitar o desenvolvimento, simulação e programação de aplicações robóticas industriais. Site: www.estun-europe.eu Sobre a RoboDK Fundada em 2015 por Albert Nubiola, a RoboDK é uma empresa de tecnologia especializada em simulação e programação offline de robôs industriais."
+},
+{
+"id": "6c2333e37d8627",
+"t": "A tecnologia automatizada de drones transforma ainda mais as operações de resgate em montanhas na Polônia",
+"r": "Como a equipe TOPR da Polônia está revolucionando os resgates em montanhas com docas DJI automatizadas",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/automated-drone-technology-further-transforms-polish-mountain-rescue-operations/27339",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T10:09-03:00",
+"c": [
+"drones",
+"resgate"
+],
+"l": 0,
+"to": "Automated Drone Technology Further Transforms Polish Mountain Rescue Operations",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Com os seus picos íngremes, vales profundos e condições de inverno rigorosas, as Montanhas Tatra apresentam imensos desafios para as operações de busca e salvamento. Alimentado pela tecnologia de drones automatizados de próxima geração da DJI Enterprise, o TOPR (Tatrzałskie Ochotnicze Pogotowie Ratunkowe), serviço voluntário de resgate em montanha da Polônia, está transformando ativamente sua resposta de emergência em regiões acidentadas. O conceito é inovador para resgates alpinos: lançar um drone de uma doca automatizada no telhado antes mesmo que a equipe de resgate terrestre tenha deixado a base. Tradicionalmente, uma implantação completa na montanha pode levar até duas horas apenas para reunir a equipe e chegar ao início da trilha a pé. Com gatilhos de voo automatizados e uma doca capaz de trocar baterias em apenas 25 segundos para operações contínuas, o TOPR está explorando o futuro definitivo do resgate em montanha."
+},
+{
+"id": "00a6856075db43",
+"t": "SYNCERE levanta $ 11 milhões de pré-semente para levar a robótica doméstica ao mercado de massa",
+"r": "a16z Speedrun lidera pré-seed de US$ 11 milhões na SYNCERE, criadora da TIME Best Invention LUME, para dimensionar sua implantação de robótica doméstica e plataforma de aprendizagem",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/syncere-raises-11m-pre-seed-to-bring-home-robotics-to-the-mass-market/27340",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T10:13-03:00",
+"c": [
+"negocios",
+"casa"
+],
+"l": 0,
+"to": "SYNCERE Raises $11M Pre-Seed to Bring Home Robotics to the Mass Market",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "a16z Speedrun lidera pré-semente de US$ 11 milhões na SYNCERE, criadora da TIME Best Invention LUME, para dimensionar sua implantação de robótica doméstica e plataforma de aprendizagem SYNCERE, a empresa que constrói a camada de implantação e inteligência para residências, anunciou hoje US$ 11 milhões em financiamento pré-semente liderado por a16z Speedrun, com participação de Draper Associates, Physical World, Sequel, SeaX Ventures e outros investidores. Fundada pelos roboticistas Dr. Angus Fung, a SYNCERE usará o financiamento para acelerar as entregas contínuas do LUME, dimensionar a capacidade de fabricação e expandir suas capacidades físicas de IA para novas aplicações comerciais. “A robótica doméstica tem um problema de implantação disfarçado de problema de dados”, disse o Dr. Aaron Tan, cofundador e CEO da SYNCERE."
+},
+{
+"id": "276e6474db3412",
+"t": "KNAPP estabelece centro de inovação em robótica e IA em Boston, MA",
+"r": "O novo negócio impulsiona o desenvolvimento de soluções robóticas baseadas em IA para automação de armazéns e processos de atendimento inteligentes",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/knapp-establishes-robotics-and-ai-innovation-hub-in-boston-ma/27341",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T10:14-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KNAPP Establishes Robotics and AI Innovation Hub in Boston, MA",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "O novo negócio impulsiona o desenvolvimento de soluções robóticas baseadas em IA para automação de armazéns e processos de atendimento inteligentes KNAPP, o parceiro tecnológico confiável para inovação na cadeia de valor, fundou a KNAPPRobotics.ai Inc. A nova localização da KNAPP nos EUA, na grande Boston, foi projetada para ser um centro de inovação em robótica e IA que concederá ao centro de robótica existente em Graz, na Áustria, acesso direto a um dos principais ecossistemas de pesquisa e tecnologia do mundo. Embora a localização em Graz, na Áustria, continue a ser o centro de desenvolvimento de robótica, conhecimento logístico e obtenção de prontidão industrial, a localização de Boston servirá como um centro internacional de inovação e tecnologia para aplicações industriais específicas."
+},
+{
+"id": "53e1d8a98b394c",
+"t": "ABB Robotics apresenta plano para educação física de IA no NVIDIA GTC Berlim",
+"r": "- Programa educacional co-desenvolvido para focar na preparação de talentos para IA física de nível industrial - Programa pioneiro para combinar teoria com aprendizagem prática, oferecendo certificação na conclusão - Novo documento técnico de apoio constata que 84% das empresas não redesenharam empregos em torno das capacidades de IA e identifica o…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/abb-robotics-sets-out-blueprint-for-physical-ai-education-at-nvidia-gtc-berlin/27343",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-04T15:28-03:00",
+"c": [
+"industriais",
+"ia"
+],
+"l": 0,
+"to": "ABB Robotics sets out blueprint for physical AI education at NVIDIA GTC Berlin",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "- Programa educacional co-desenvolvido para focar na preparação de talentos para IA física de nível industrial - Programa pioneiro para combinar teoria com aprendizado prático, oferecendo certificação após a conclusão - Novo documento técnico de apoio constata que 84% das empresas não redesenharam empregos em torno de recursos de IA e identifica os recursos e a abordagem necessários para preencher a lacuna - RobotStudio HyperReality é lançado para 60.000 usuários do RobotStudio em todo o mundo, fechando a lacuna do sim para o real com 99% de precisão para clientes industriais em qualquer escala, em um ampla gama de indústrias e aplicações.\nA ABB Robotics desenvolveu um programa educacional desenvolvido com tecnologias de IA da NVIDIA, focado em IA física, garantindo a preparação de talentos para o futuro da IA ​​na indústria."
 },
 {
 "id": "3665ca3c2f99d8",
@@ -22249,7 +22815,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "79557368c7514f",
@@ -22274,28 +22840,6 @@
 "rx": "Quando se trata de projetar robôs modernos, vários pesquisadores estão tentando resolver praticamente o mesmo problema: como fazer robôs que possam chegar a locais de difícil acesso para humanos. Eles criaram robôs que podem nadar debaixo d’água, rastejar pelos escombros e pousar em galhos de árvores como pássaros. Da mesma forma, o Hopcopter pode pular de um lugar para outro sem desperdiçar bateria, mas também pode permanecer continuamente no ar como um drone normal quando não há um local adequado para pousar.\nPara superar essas limitações, parceiros de pesquisa da Universidade de Toronto criaram uma nova almofada flexível para os pés que ajuda o robô a pousar em diferentes tipos de terreno. Em termos simples, o robô agora pode pousar de forma muito mais consistente ao se mover entre superfícies complexas, como gelo, areia e rochas."
 },
 {
-"id": "d5900e892c6cf9",
-"t": "Realbotix muda sua linha de robôs humanóides para Realbotix Série 1",
-"r": "A mudança de nome evita preocupações com marcas registradas e unifica a família de produtos robóticos sob a designação Realbotix Série 1, ao mesmo tempo em que continua a alavancar a marca Realbotix.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/27342",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T10:15-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Realbotix Rebrands its Humanoid Robot Line to Realbotix Series 1",
-"lg": "en",
-"esp": 1,
-"p": 5.4,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A mudança de nome evita preocupações com marcas registradas e unifica a família de produtos robóticos sob a designação Realbotix Série 1, ao mesmo tempo que continua a alavancar a marca Realbotix. (TSX-V: XBOT) (Frankfurt: 76M0.F) (OTC: XBOTF) (\"Realbotix\" ou a \"Empresa\"), fabricante de robôs humanóides e sistemas de IA, anuncia que mudou a marca de sua plataforma de robô humanóide carro-chefe recentemente lançada de Echo para Realbotix Série 1. \"Realbotix Série 1 reflete o forte reconhecimento de marca que construímos para a produção de robôs humanóides realistas\", disse Andrew Kiguel, CEO da Realbotix. Os robôs Realbotix Série 1 estão disponíveis exclusivamente no site do produto Realbotix em Realbotix.com. Cada robô Realbotix Série 1 apresenta a pele sintética ultrarrealista à base de silicone proprietária da Realbotix e expressões faciais avançadas para interação empática e realista."
-},
-{
 "id": "c0b3c4ff3d58dd",
 "t": "Equipes de resgate de montanha recorrem a drones DJI automatizados para economizar tempo",
 "r": "Imagine ficar preso em algum lugar nas montanhas Tatra, cobertas de neve, na Polônia. A ajuda pode levar horas para chegar até você, especialmente se você estiver em um vale remoto ou em uma trilha enterrada na neve. Mas e se um drone pudesse chegar lá antes mesmo de as equipes de resgate deixarem sua base? mais…",
@@ -22316,120 +22860,6 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "O serviço voluntário de resgate em montanha da Polônia, TOPR (Tatrzańskie Ochotnicze Pogotowie Ratunkowe), está trabalhando com a tecnologia automatizada de drones da DJI."
-},
-{
-"id": "63daf1aadf85d9",
-"t": "ESTUN Robotics e RoboDK anunciam parceria estratégica na DFactory Barcelona para simplificar e acelerar a adoção de robôs industriais na Europa",
-"r": "- The collaboration brings the technology of China’s largest industrial robot manufacturer together with a leading platform for robot simulation and offline programming. - The agreement, formalized at the headquarters of ESTUN Robotics Iberia in DFactory Barcelona, highlights the potential of the ecosystem promoted by…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe-/27338",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T09:30-03:00",
-"c": [
-"industriais",
-"negocios"
-],
-"l": 0,
-"to": "ESTUN Robotics and RoboDK announce strategic partnership at DFactory Barcelona to simplify and accelerate the adoption of industrial robots in Europe",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "- A colaboração reúne a tecnologia do maior fabricante de robôs industriais da China com uma plataforma líder para simulação de robôs e programação offline. - O acordo, formalizado na sede da ESTUN Robotics Iberia no DFactory Barcelona, ​​destaca o potencial do ecossistema promovido pelo Consorci de la Zona Franca de Barcelona para conectar empresas, gerar sinergias tecnológicas e fomentar novas oportunidades de colaboração com alcance internacional.\nESTUN Robotics e RoboDK formalizaram uma Parceria Estratégica para impulsionar a integração de suas tecnologias e facilitar o desenvolvimento, simulação e programação de aplicações robóticas industriais. Site: www.estun-europe.eu Sobre a RoboDK Fundada em 2015 por Albert Nubiola, a RoboDK é uma empresa de tecnologia especializada em simulação e programação offline de robôs industriais."
-},
-{
-"id": "6c2333e37d8627",
-"t": "A tecnologia automatizada de drones transforma ainda mais as operações de resgate em montanhas na Polônia",
-"r": "Como a equipe TOPR da Polônia está revolucionando os resgates em montanhas com docas DJI automatizadas",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/automated-drone-technology-further-transforms-polish-mountain-rescue-operations/27339",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T10:09-03:00",
-"c": [
-"drones",
-"resgate"
-],
-"l": 0,
-"to": "Automated Drone Technology Further Transforms Polish Mountain Rescue Operations",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Com os seus picos íngremes, vales profundos e condições de inverno rigorosas, as Montanhas Tatra apresentam imensos desafios para as operações de busca e salvamento. Alimentado pela tecnologia de drones automatizados de próxima geração da DJI Enterprise, o TOPR (Tatrzałskie Ochotnicze Pogotowie Ratunkowe), serviço voluntário de resgate em montanha da Polônia, está transformando ativamente sua resposta de emergência em regiões acidentadas. O conceito é inovador para resgates alpinos: lançar um drone de uma doca automatizada no telhado antes mesmo que a equipe de resgate terrestre tenha deixado a base. Tradicionalmente, uma implantação completa na montanha pode levar até duas horas apenas para reunir a equipe e chegar ao início da trilha a pé. Com gatilhos de voo automatizados e uma doca capaz de trocar baterias em apenas 25 segundos para operações contínuas, o TOPR está explorando o futuro definitivo do resgate em montanha."
-},
-{
-"id": "00a6856075db43",
-"t": "SYNCERE levanta $ 11 milhões de pré-semente para levar a robótica doméstica ao mercado de massa",
-"r": "a16z Speedrun lidera pré-seed de US$ 11 milhões na SYNCERE, criadora da TIME Best Invention LUME, para dimensionar sua implantação de robótica doméstica e plataforma de aprendizagem",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/syncere-raises-11m-pre-seed-to-bring-home-robotics-to-the-mass-market/27340",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T10:13-03:00",
-"c": [
-"negocios",
-"casa"
-],
-"l": 0,
-"to": "SYNCERE Raises $11M Pre-Seed to Bring Home Robotics to the Mass Market",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "a16z Speedrun lidera pré-semente de US$ 11 milhões na SYNCERE, criadora da TIME Best Invention LUME, para dimensionar sua implantação de robótica doméstica e plataforma de aprendizagem SYNCERE, a empresa que constrói a camada de implantação e inteligência para residências, anunciou hoje US$ 11 milhões em financiamento pré-semente liderado por a16z Speedrun, com participação de Draper Associates, Physical World, Sequel, SeaX Ventures e outros investidores. Fundada pelos roboticistas Dr. Angus Fung, a SYNCERE usará o financiamento para acelerar as entregas contínuas do LUME, dimensionar a capacidade de fabricação e expandir suas capacidades físicas de IA para novas aplicações comerciais. “A robótica doméstica tem um problema de implantação disfarçado de problema de dados”, disse o Dr. Aaron Tan, cofundador e CEO da SYNCERE."
-},
-{
-"id": "276e6474db3412",
-"t": "KNAPP estabelece centro de inovação em robótica e IA em Boston, MA",
-"r": "O novo negócio impulsiona o desenvolvimento de soluções robóticas baseadas em IA para automação de armazéns e processos de atendimento inteligentes",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/knapp-establishes-robotics-and-ai-innovation-hub-in-boston-ma/27341",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T10:14-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "KNAPP Establishes Robotics and AI Innovation Hub in Boston, MA",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "O novo negócio impulsiona o desenvolvimento de soluções robóticas baseadas em IA para automação de armazéns e processos de atendimento inteligentes KNAPP, o parceiro tecnológico confiável para inovação na cadeia de valor, fundou a KNAPPRobotics.ai Inc. A nova localização da KNAPP nos EUA, na grande Boston, foi projetada para ser um centro de inovação em robótica e IA que concederá ao centro de robótica existente em Graz, na Áustria, acesso direto a um dos principais ecossistemas de pesquisa e tecnologia do mundo. Embora a localização em Graz, na Áustria, continue a ser o centro de desenvolvimento de robótica, conhecimento logístico e obtenção de prontidão industrial, a localização de Boston servirá como um centro internacional de inovação e tecnologia para aplicações industriais específicas."
-},
-{
-"id": "53e1d8a98b394c",
-"t": "ABB Robotics apresenta plano para educação física de IA no NVIDIA GTC Berlim",
-"r": "- Programa educacional co-desenvolvido para focar na preparação de talentos para IA física de nível industrial - Programa pioneiro para combinar teoria com aprendizagem prática, oferecendo certificação na conclusão - Novo documento técnico de apoio constata que 84% das empresas não redesenharam empregos em torno das capacidades de IA e identifica o…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/04/abb-robotics-sets-out-blueprint-for-physical-ai-education-at-nvidia-gtc-berlin/27343",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-04T15:28-03:00",
-"c": [
-"industriais",
-"ia"
-],
-"l": 0,
-"to": "ABB Robotics sets out blueprint for physical AI education at NVIDIA GTC Berlin",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "- Programa educacional co-desenvolvido para focar na preparação de talentos para IA física de nível industrial - Programa pioneiro para combinar teoria com aprendizado prático, oferecendo certificação após a conclusão - Novo documento técnico de apoio constata que 84% das empresas não redesenharam empregos em torno de recursos de IA e identifica os recursos e a abordagem necessários para preencher a lacuna - RobotStudio HyperReality é lançado para 60.000 usuários do RobotStudio em todo o mundo, fechando a lacuna do sim para o real com 99% de precisão para clientes industriais em qualquer escala, em um ampla gama de indústrias e aplicações.\nA ABB Robotics desenvolveu um programa educacional desenvolvido com tecnologias de IA da NVIDIA, focado em IA física, garantindo a preparação de talentos para o futuro da IA ​​na indústria."
 },
 {
 "id": "6c35d4c936099f",
@@ -22491,10 +22921,32 @@
 "p": 3.8,
 "cr": 3,
 "cv": "The Economist",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-03": [
+{
+"id": "cb1cb9c5842263",
+"t": "edgeAI seleciona Electron E1 de computador eficiente para produtos de IA física de última geração",
+"r": "O Electron E1 permite que a edgeAI reduza significativamente o consumo de energia e os custos de BOM, ao mesmo tempo que executa modelos complexos de IA no dispositivo",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/edgeai-selects-efficient-computers-electron-e1-for-next-generation-physical-ai-products/27332",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-03T09:48-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "edgeAI Selects Efficient Computer's Electron E1 for Next-Generation Physical AI Products",
+"lg": "en",
+"esp": 1,
+"p": 11.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "O Electron E1 permite que a edgeAI reduza significativamente o consumo de energia e os custos de BOM, ao mesmo tempo em que executa modelos complexos de IA no dispositivo. A Efficient Computer, empresa que constrói os processadores com maior eficiência energética do mundo, anunciou hoje que a edgeAI selecionou o Electron E1 para desenvolver soluções de alto desempenho e eficiência energética para IA física e aplicações de infraestrutura crítica. Electron E1 também é muito mais eficiente do que CPUs de baixo consumo de energia, oferecendo uma melhoria de até 100X na eficiência energética. Ao remover o consumo de energia como um fator limitante, o Electron E1 abre a porta para a edgeAI fornecer novos recursos de IA e dimensionar suas soluções em uma ampla variedade de mercados. “Com nosso novo financiamento e a forte demanda de um número crescente de clientes, incluindo edgeAI, continuamos a aumentar a produção do Electron E1”, disse Brandon Lucia, CEO e cofundador da Efficient Computer."
+},
 {
 "id": "a6328b45a62e8b",
 "t": "Novo drone flexível pode resistir a colisões sem sacrificar velocidade ou agilidade",
@@ -22514,29 +22966,7 @@
 "p": 11.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
-},
-{
-"id": "cb1cb9c5842263",
-"t": "edgeAI seleciona Electron E1 de computador eficiente para produtos de IA física de última geração",
-"r": "O Electron E1 permite que a edgeAI reduza significativamente o consumo de energia e os custos de BOM, ao mesmo tempo que executa modelos complexos de IA no dispositivo",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/edgeai-selects-efficient-computers-electron-e1-for-next-generation-physical-ai-products/27332",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-03T09:48-03:00",
-"c": [
-"ia"
-],
-"l": 1,
-"to": "edgeAI Selects Efficient Computer's Electron E1 for Next-Generation Physical AI Products",
-"lg": "en",
-"esp": 1,
-"p": 10.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "O Electron E1 permite que a edgeAI reduza significativamente o consumo de energia e os custos de BOM, ao mesmo tempo em que executa modelos complexos de IA no dispositivo. A Efficient Computer, empresa que constrói os processadores com maior eficiência energética do mundo, anunciou hoje que a edgeAI selecionou o Electron E1 para desenvolver soluções de alto desempenho e eficiência energética para IA física e aplicações de infraestrutura crítica. Electron E1 também é muito mais eficiente do que CPUs de baixo consumo de energia, oferecendo uma melhoria de até 100X na eficiência energética. Ao remover o consumo de energia como um fator limitante, o Electron E1 abre a porta para a edgeAI fornecer novos recursos de IA e dimensionar suas soluções em uma ampla variedade de mercados. “Com nosso novo financiamento e a forte demanda de um número crescente de clientes, incluindo edgeAI, continuamos a aumentar a produção do Electron E1”, disse Brandon Lucia, CEO e cofundador da Efficient Computer."
+"mx": 2
 },
 {
 "id": "fcf7e6e0f7d8af",
@@ -22545,7 +22975,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/03/boston-dynamics-launches-next-generation-stretch-robot/27335",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-03T13:43-03:00",
 "c": [
 "logistica"
@@ -22554,11 +22984,79 @@
 "to": "Boston Dynamics Launches Next Generation Stretch Robot",
 "lg": "en",
 "esp": 1,
-"p": 10.6,
-"mx": 1,
+"p": 11.6,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Baseado em insights de implantações de primeira geração, o Stretch Gen 2 apresenta importantes atualizações estruturais e de hardware projetadas para maximizar o tempo de atividade e agilizar a manutenção em ambientes logísticos de alto volume. BOSTON - 3 de novembro de 2026 - A Boston Dynamics revelou o Stretch Gen 2, a próxima geração de seu robô autônomo de descarregamento de reboques móveis. “Nossos clientes contam com o Stretch para manter a carga em movimento, e cada hora que um robô fica ocioso é uma hora de trabalho que se acumula na doca”, disse Brian Donnelly, vice-presidente e gerente geral de robótica logística da Boston Dynamics. “Com a Geração 2, nos concentramos nas coisas que realmente deixavam os robôs off-line no mundo real. O Stretch Gen 2 foi reprojetado para reduzir a frequência das chamadas de serviço, mas quando a manutenção é necessária, ela é muito mais rápida."
+},
+{
+"id": "218bd0939a43cd",
+"t": "TI comemora 70 anos de inovação na Europa ao lado de clientes líderes para projetar sistemas de próxima geração",
+"r": "Empresas como ABB Robotics, Porsche, Schneider Electric e Husqvarna Group estão trabalhando com a TI para permitir avanços na forma como o mundo se move, vive e trabalha",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/ti-celebrates-70-years-of-innovation-in-europe-alongside-leading-customers-to-engineer-next-generation-systems/27331",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-03T09:46-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "TI celebrates 70 years of innovation in Europe alongside leading customers to engineer next-generation systems",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Empresas como a ABB Robotics, Porsche, Schneider Electric e Husqvarna Group estão a trabalhar com a TI para permitir avanços na forma como o mundo se move, vive e trabalha. Globalmente, a TI ajuda mais de 100.000 clientes, incluindo empresas líderes na Europa, a acelerar a inovação nos principais mercados, desde sistemas de automação industrial que aumentam a produtividade até veículos mais seguros e avançados. As tecnologias da TI fornecem os alicerces para sistemas que exigem resiliência e eficiência, desde sistemas de gestão de energia até automação industrial.\" Acelerando a inovação em sistemas inteligentes para exteriores com o Grupo Husqvarna À medida que os consumidores exigem maior conveniência e manutenção reduzida através de produtos para exteriores mais autónomos e conectados, os engenheiros devem acelerar a transição do conceito à implementação a velocidades sem precedentes."
+},
+{
+"id": "f720e1a1d281e0",
+"t": "Drone U traz educação continuada de engenharia profissional para treinamento de voo",
+"r": "A única escola de voo conhecida que oferece horas de desenvolvimento profissional reconhecidas pelo RCEP por meio do treinamento FAA Parte 107 está ajudando os engenheiros a dominar a “fita métrica do céu”.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/drone-u-brings-professional-engineering-continuing-education-to-flight-training/27333",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-03T09:51-03:00",
+"c": [
+"drones",
+"educacao"
+],
+"l": 0,
+"to": "Drone U Brings Professional Engineering Continuing Education to Flight Training",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A única escola de voo conhecida que oferece horas de desenvolvimento profissional reconhecidas pelo RCEP por meio do treinamento FAA Parte 107 está ajudando os engenheiros a dominar a “fita métrica do céu”. A Drone U, uma escola profissional de voo de drones com sede no Colorado, está unindo a educação em aviação e a engenharia profissional por meio de sua participação no Registered Continuing Education Program (RCEP). O programa permite que engenheiros profissionais licenciados ganhem 24 horas de desenvolvimento profissional (PDHs) por meio do treinamento FAA Parte 107, conectando os requisitos de educação continuada com o uso crescente de aeronaves não tripuladas na prática de engenharia. Integrando o conhecimento da aviação à educação em engenharia O programa de educação continuada do Drone U permite que os engenheiros concluam o treinamento FAA Parte 107 enquanto ganham 24 PDHs para requisitos de renovação de licença profissional, sujeitos à aceitação por seus respectivos conselhos estaduais de licenciamento."
+},
+{
+"id": "cbad8c0bb73962",
+"t": "Robôs que pensam antes de agir: por que robôs móveis autônomos estão tomando conta do armazém",
+"r": "De acordo com a Global Market Insights, o mercado de AMR valia cerca de 2,49 mil milhões de dólares em 2025. Espera-se que atinja cerca de 2,91 mil milhões de dólares em 2026 e perto de 9,97 mil milhões de dólares em 2035, uma taxa composta de crescimento anual de 14,7%. Por outras palavras, o mercado está em vias de quadruplicar no espaço de uma década.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/robots-that-think-before-they-roll-why-autonomous-mobile-robots-are-taking-over-the-warehouse-floor/27334",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-03T13:42-03:00",
+"c": [
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "Robots That Think Before They Roll: Why Autonomous Mobile Robots Are Taking Over the Warehouse Floor",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "De acordo com a Global Market Insights, o mercado de AMR valia cerca de 2,49 mil milhões de dólares em 2025. Espera-se que atinja cerca de 2,91 mil milhões de dólares em 2026 e perto de 9,97 mil milhões de dólares em 2035, uma taxa composta de crescimento anual de 14,7%. Por outras palavras, o mercado está em vias de quadruplicar no espaço de uma década. Prevê-se que cresça 17,7% anualmente e atinja cerca de 3,19 mil milhões de dólares até 2035. Os cuidados de saúde e os produtos farmacêuticos, um segmento mais pequeno, com cerca de 199 milhões de dólares em 2025, estão a expandir-se a cerca de 17,5% ao ano. Um panorama global A América do Norte liderou em 2025 com cerca de 40% da receita global, cerca de 996 milhões de dólares, e os Estados Unidos contribuíram com a maior parte disso. O seu mercado era modesto em 2025, com cerca de 87 milhões de dólares, mas prevê-se que cresça 19% anualmente até 2035."
 },
 {
 "id": "82fc3b2c9a1a59",
@@ -22580,7 +23078,32 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
+},
+{
+"id": "94e0fb72dce68c",
+"t": "KUKA apresentará robô industrial avançado e automação móvel na Smart Technology Expo 2026",
+"r": "SHELBY TOWNSHIP, Michigan, 3 de novembro de 2026 - Destacando suas mais recentes tecnologias de automação industrial e móvel, a KUKA Robotics apresentará um robô industrial KR AGILUS e um robô colaborativo LBR iisy, ambos equipados com o novo controlador KR C5 micro-2, junto com o robô móvel autônomo (AMR) KMP 250P na…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/kuka-to-feature-advanced-industrial-robot-and-mobile-automation-at-the-smart-technology-expo-2026/27336",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-03T15:09-03:00",
+"c": [
+"industriais",
+"competicoes",
+"logistica",
+"cobots"
+],
+"l": 0,
+"to": "KUKA to Feature Advanced Industrial Robot and Mobile Automation at the Smart Technology Expo 2026",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "SHELBY TOWNSHIP, Michigan, 3 de novembro de 2026 - Destacando suas mais recentes tecnologias de automação industrial e móvel, a KUKA Robotics apresentará um robô industrial KR AGILUS e um robô colaborativo LBR iisy, ambos equipados com o novo controlador KR C5 micro-2, junto com o robô móvel autônomo (AMR) KMP 250P na Smart Technology Expo 2026. A KUKA também apresentará a seleção guiada por visão 3D inteligente com o LBR iisy robô colaborativo e software Mech-Vision da Mech-Mind. Todas as soluções de automação da KUKA, incluindo aquelas mostradas durante a Smart Technology Expo 2026, são apoiadas pelo serviço especializado e suporte da empresa para treinamento, engenharia e simulação de sistemas completos, peças de reposição prontamente disponíveis, reforma de robôs e muito mais, todos facilmente acessíveis através do site my.KUKA.com."
 },
 {
 "id": "096c6a56b7f7f3",
@@ -22601,7 +23124,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "cba28961879395",
@@ -22642,98 +23165,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
-},
-{
-"id": "218bd0939a43cd",
-"t": "TI comemora 70 anos de inovação na Europa ao lado de clientes líderes para projetar sistemas de próxima geração",
-"r": "Empresas como ABB Robotics, Porsche, Schneider Electric e Husqvarna Group estão trabalhando com a TI para permitir avanços na forma como o mundo se move, vive e trabalha",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/ti-celebrates-70-years-of-innovation-in-europe-alongside-leading-customers-to-engineer-next-generation-systems/27331",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-03T09:46-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "TI celebrates 70 years of innovation in Europe alongside leading customers to engineer next-generation systems",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Empresas como a ABB Robotics, Porsche, Schneider Electric e Husqvarna Group estão a trabalhar com a TI para permitir avanços na forma como o mundo se move, vive e trabalha. Globalmente, a TI ajuda mais de 100.000 clientes, incluindo empresas líderes na Europa, a acelerar a inovação nos principais mercados, desde sistemas de automação industrial que aumentam a produtividade até veículos mais seguros e avançados. As tecnologias da TI fornecem os alicerces para sistemas que exigem resiliência e eficiência, desde sistemas de gestão de energia até automação industrial.\" Acelerando a inovação em sistemas inteligentes para exteriores com o Grupo Husqvarna À medida que os consumidores exigem maior conveniência e manutenção reduzida através de produtos para exteriores mais autónomos e conectados, os engenheiros devem acelerar a transição do conceito à implementação a velocidades sem precedentes."
-},
-{
-"id": "f720e1a1d281e0",
-"t": "Drone U traz educação continuada de engenharia profissional para treinamento de voo",
-"r": "A única escola de voo conhecida que oferece horas de desenvolvimento profissional reconhecidas pelo RCEP por meio do treinamento FAA Parte 107 está ajudando os engenheiros a dominar a “fita métrica do céu”.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/drone-u-brings-professional-engineering-continuing-education-to-flight-training/27333",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-03T09:51-03:00",
-"c": [
-"drones",
-"educacao"
-],
-"l": 0,
-"to": "Drone U Brings Professional Engineering Continuing Education to Flight Training",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A única escola de voo conhecida que oferece horas de desenvolvimento profissional reconhecidas pelo RCEP por meio do treinamento FAA Parte 107 está ajudando os engenheiros a dominar a “fita métrica do céu”. A Drone U, uma escola profissional de voo de drones com sede no Colorado, está unindo a educação em aviação e a engenharia profissional por meio de sua participação no Registered Continuing Education Program (RCEP). O programa permite que engenheiros profissionais licenciados ganhem 24 horas de desenvolvimento profissional (PDHs) por meio do treinamento FAA Parte 107, conectando os requisitos de educação continuada com o uso crescente de aeronaves não tripuladas na prática de engenharia. Integrando o conhecimento da aviação à educação em engenharia O programa de educação continuada do Drone U permite que os engenheiros concluam o treinamento FAA Parte 107 enquanto ganham 24 PDHs para requisitos de renovação de licença profissional, sujeitos à aceitação por seus respectivos conselhos estaduais de licenciamento."
-},
-{
-"id": "cbad8c0bb73962",
-"t": "Robôs que pensam antes de agir: por que robôs móveis autônomos estão tomando conta do armazém",
-"r": "De acordo com a Global Market Insights, o mercado de AMR valia cerca de 2,49 mil milhões de dólares em 2025. Espera-se que atinja cerca de 2,91 mil milhões de dólares em 2026 e perto de 9,97 mil milhões de dólares em 2035, uma taxa composta de crescimento anual de 14,7%. Por outras palavras, o mercado está em vias de quadruplicar no espaço de uma década.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/robots-that-think-before-they-roll-why-autonomous-mobile-robots-are-taking-over-the-warehouse-floor/27334",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-03T13:42-03:00",
-"c": [
-"logistica",
-"negocios"
-],
-"l": 0,
-"to": "Robots That Think Before They Roll: Why Autonomous Mobile Robots Are Taking Over the Warehouse Floor",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "De acordo com a Global Market Insights, o mercado de AMR valia cerca de 2,49 mil milhões de dólares em 2025. Espera-se que atinja cerca de 2,91 mil milhões de dólares em 2026 e perto de 9,97 mil milhões de dólares em 2035, uma taxa composta de crescimento anual de 14,7%. Por outras palavras, o mercado está em vias de quadruplicar no espaço de uma década. Prevê-se que cresça 17,7% anualmente e atinja cerca de 3,19 mil milhões de dólares até 2035. Os cuidados de saúde e os produtos farmacêuticos, um segmento mais pequeno, com cerca de 199 milhões de dólares em 2025, estão a expandir-se a cerca de 17,5% ao ano. Um panorama global A América do Norte liderou em 2025 com cerca de 40% da receita global, cerca de 996 milhões de dólares, e os Estados Unidos contribuíram com a maior parte disso. O seu mercado era modesto em 2025, com cerca de 87 milhões de dólares, mas prevê-se que cresça 19% anualmente até 2035."
-},
-{
-"id": "94e0fb72dce68c",
-"t": "KUKA apresentará robô industrial avançado e automação móvel na Smart Technology Expo 2026",
-"r": "SHELBY TOWNSHIP, Michigan, 3 de novembro de 2026 - Destacando suas mais recentes tecnologias de automação industrial e móvel, a KUKA Robotics apresentará um robô industrial KR AGILUS e um robô colaborativo LBR iisy, ambos equipados com o novo controlador KR C5 micro-2, junto com o robô móvel autônomo (AMR) KMP 250P na…",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/03/kuka-to-feature-advanced-industrial-robot-and-mobile-automation-at-the-smart-technology-expo-2026/27336",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-03T15:09-03:00",
-"c": [
-"industriais",
-"competicoes"
-],
-"l": 0,
-"to": "KUKA to Feature Advanced Industrial Robot and Mobile Automation at the Smart Technology Expo 2026",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "SHELBY TOWNSHIP, Michigan, 3 de novembro de 2026 - Destacando suas mais recentes tecnologias de automação industrial e móvel, a KUKA Robotics apresentará um robô industrial KR AGILUS e um robô colaborativo LBR iisy, ambos equipados com o novo controlador KR C5 micro-2, junto com o robô móvel autônomo (AMR) KMP 250P na Smart Technology Expo 2026. A KUKA também apresentará a seleção guiada por visão 3D inteligente com o LBR iisy robô colaborativo e software Mech-Vision da Mech-Mind. Todas as soluções de automação da KUKA, incluindo aquelas mostradas durante a Smart Technology Expo 2026, são apoiadas pelo serviço especializado e suporte da empresa para treinamento, engenharia e simulação de sistemas completos, peças de reposição prontamente disponíveis, reforma de robôs e muito mais, todos facilmente acessíveis através do site my.KUKA.com."
+"mx": 2
 }
 ],
 "2026-11-02": [
@@ -22756,7 +23188,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "c261f828a32cfd",
@@ -22777,7 +23209,73 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
+},
+{
+"id": "aa9d9e9460f552",
+"t": "Siemens lança nova solução de drive ELV para AGVs e robótica móvel",
+"r": "- Solução integrada de acionamento de tensão extrabaixa (ELV) para aplicações de 24 V e 48 V - Esforço de integração reduzido para sistemas móveis - Integração perfeita no TIA Portal e no sistema modular Simove",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/siemens-launches-new-elv-drive-solution-for-agvs-and-mobile-robotics-/27327",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-02T09:31-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Siemens launches new ELV drive solution for AGVs and mobile robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "- Solução integrada de acionamento de tensão extra baixa (ELV) para aplicações de 24 V e 48 V - Esforço de integração reduzido para sistemas móveis - Integração perfeita no TIA Portal e no sistema modular Simove A Siemens está expandindo seu portfólio de acionamentos para aplicações de tensão extra baixa (ELV) com a introdução do novo conversor Sinamics E210 e dos novos servomotores Simotics E-1EE1. Sinamics E210: Conversor ELV compacto para aplicações móveis O novo Sinamics E210 foi projetado especificamente para aplicações alimentadas por bateria de 24 V e 48 V. Uma solução integrada da Siemens para os sistemas intralogísticos móveis do futuro Com o conversor Sinamics E210 e os motores Simotics E-1EE1, a Siemens fornece uma solução de acionamento nova e integrada para as crescentes exigências das aplicações intralogísticas móveis."
+},
+{
+"id": "b185cf1844f71f",
+"t": "A ROBÓTICA PRODUTIVA AJUDA AS LOJAS DE EMPREGO A NAVEGAR EM TRABALHOS DE ALTO VOLUME E TAREFAS ESTÁTICAS COM OB7",
+"r": "Productive Robotics’ 7-axis teach-by-touch collaborative robots and Blaze robotic welding systems can take on a range of tasks from CNC machine tending, finishing and surface preparation, material handling and assembly and MIG and laser welding.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/productive-robotics-helps-job-shops-navigate-high-volume-jobs-and-static-tasks-with-ob7/27328",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-02T09:32-03:00",
+"c": [
+"cobots"
+],
+"l": 0,
+"to": "PRODUCTIVE ROBOTICS HELPS JOB SHOPS NAVIGATE HIGH-VOLUME JOBS AND STATIC TASKS WITH OB7",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "Os robôs colaborativos de ensino por toque de 7 eixos da Productive Robotics e os sistemas de soldagem robótica Blaze podem assumir uma variedade de tarefas, desde atendimento de máquinas CNC, acabamento e preparação de superfície, manuseio e montagem de materiais e soldagem MIG e a laser. Os robôs colaborativos de ensino por toque de 7 eixos da Productive Robotics e os sistemas de soldagem robótica Blaze podem assumir uma variedade de tarefas, desde atendimento de máquinas CNC, acabamento e preparação de superfície, manuseio e montagem de materiais e soldagem MIG e a laser. “Gerentes e operadores não precisam de nenhum conhecimento ou experiência com IA física, robôs ou cobots para implantar OB7-AI ou Blaze em suas oficinas”. A Productive Robotics LLC projeta e fabrica robôs colaborativos, sistemas robóticos de soldagem MIG e a laser, células de solda prontas para uso, células de rebarbação e um acessório de trilho linear de 8º eixo que permite que um único cobot lide com tarefas de até 7,2 metros de comprimento."
+},
+{
+"id": "14785a2a10d0c4",
+"t": "Ceva e Mobilint avançam IA física com SoC REGULUS Edge AI",
+"r": "A primeira implantação de produção da família NeuPro NPU da Ceva combina NeuPro-Nano com SensPro AI DSP para fornecer recursos avançados de detecção e inferência para dispositivos físicos de IA",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/ceva-and-mobilint-advance-physical-ai-with-regulus-edge-ai-soc/27329",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-02T09:57-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Ceva and Mobilint Advance Physical AI with REGULUS Edge AI SoC",
+"lg": "ro",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A primeira implantação de produção da família NeuPro NPU da Ceva combina NeuPro-Nano com SensPro AI DSP para fornecer recursos avançados de detecção e inferência para dispositivos físicos de IA"
 },
 {
 "id": "e9001755ff0c68",
@@ -22802,6 +23300,28 @@
 "rx": "Com colegas, a nossa equipa da Universidade de Bristol construiu um modelo físico utilizando motores eléctricos comuns para tentar simular como os músculos podem desempenhar as suas tarefas. Minúsculos motores de miosina agarram, puxam e liberam repetidamente os cabos de actina, ajudando as fibras musculares a se contraírem. Quando você segura uma xícara de chá, milhares desses motores precisam trabalhar juntos para produzir uma força constante.\nPara testar se poderíamos traduzir essas ideias para um sistema físico real, construímos um dispositivo de mesa: uma linha de motores elétricos simples interagindo através de uma estrutura mecânica compartilhada. Os músculos não são o único lugar onde a natureza resolveu o problema de coordenação de muitos pequenos motores. Você novamente tem drivers (motores que geram força) incorporados em uma estrutura de acoplamento (uma estrutura mecânica que transmite força e feedback)."
 },
 {
+"id": "f32895e9514bca",
+"t": "Novo padrão de interoperabilidade ISO ajuda robôs móveis de diferentes fornecedores a trabalharem juntos",
+"r": "A3 anuncia publicação da ISO 21423, estabelecendo requisitos de comunicação para robôs, gestores de frota e outros sistemas em ambientes industriais compartilhados",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/new-iso-interoperability-standard-helps-mobile-robots-from-different-vendors-work-together/27330",
+"f": "RoboticsTomorrow.com News",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-02T14:33-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "New ISO Interoperability Standard Helps Mobile Robots from Different Vendors Work Together",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"mx": 2,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"rx": "A3 anuncia publicação da ISO 21423, estabelecendo requisitos de comunicação para robôs, gerentes de frota e outros sistemas em ambientes industriais compartilhados ANN ARBOR, Michigan - 2 de novembro de 2026 - A Association for Advancing Automation (A3) anunciou hoje a publicação da ISO 21423:2026, um novo padrão internacional para comunicação e interoperabilidade entre robôs móveis industriais (IMRs), independentemente do fornecedor ou modelo. A ISO 21423 fornece um conjunto comum de requisitos de comunicação para robôs móveis de diferentes fornecedores que operam na mesma instalação industrial. A ISO 21423 representa o primeiro padrão de robô não relacionado à segurança que a A3 ajudou a produzir e destaca a liderança contínua da A3 nos esforços de padronização da robótica. A ISO 21423:2026 está disponível para compra na loja online A3 por US$ 373."
+},
+{
 "id": "74adc29bb14383",
 "t": "Drone Antigravity A1 obtém controles vestíveis para filmagens 360º com as mãos livres",
 "r": "E se você pudesse praticar mountain bike, fazer caminhadas ou simplesmente passar um dia ao ar livre com os amigos e ter um drone filmando toda a experiência sem que ninguém precisasse operá-lo? Melhor ainda, e se você pudesse decidir como ficará cada cena após o término da aventura? mais…",
@@ -22821,94 +23341,6 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "O pacote Follow Me do drone Antigravity A1 apresenta dois controladores vestíveis extremamente interessantes: o Watch Remote e o Ring Remote."
-},
-{
-"id": "aa9d9e9460f552",
-"t": "Siemens lança nova solução de drive ELV para AGVs e robótica móvel",
-"r": "- Solução integrada de acionamento de tensão extrabaixa (ELV) para aplicações de 24 V e 48 V - Esforço de integração reduzido para sistemas móveis - Integração perfeita no TIA Portal e no sistema modular Simove",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/siemens-launches-new-elv-drive-solution-for-agvs-and-mobile-robotics-/27327",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-02T09:31-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Siemens launches new ELV drive solution for AGVs and mobile robotics",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "- Solução integrada de acionamento de tensão extra baixa (ELV) para aplicações de 24 V e 48 V - Esforço de integração reduzido para sistemas móveis - Integração perfeita no TIA Portal e no sistema modular Simove A Siemens está expandindo seu portfólio de acionamentos para aplicações de tensão extra baixa (ELV) com a introdução do novo conversor Sinamics E210 e dos novos servomotores Simotics E-1EE1. Sinamics E210: Conversor ELV compacto para aplicações móveis O novo Sinamics E210 foi projetado especificamente para aplicações alimentadas por bateria de 24 V e 48 V. Uma solução integrada da Siemens para os sistemas intralogísticos móveis do futuro Com o conversor Sinamics E210 e os motores Simotics E-1EE1, a Siemens fornece uma solução de acionamento nova e integrada para as crescentes exigências das aplicações intralogísticas móveis."
-},
-{
-"id": "b185cf1844f71f",
-"t": "A ROBÓTICA PRODUTIVA AJUDA AS LOJAS DE EMPREGO A NAVEGAR EM TRABALHOS DE ALTO VOLUME E TAREFAS ESTÁTICAS COM OB7",
-"r": "Productive Robotics’ 7-axis teach-by-touch collaborative robots and Blaze robotic welding systems can take on a range of tasks from CNC machine tending, finishing and surface preparation, material handling and assembly and MIG and laser welding.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/productive-robotics-helps-job-shops-navigate-high-volume-jobs-and-static-tasks-with-ob7/27328",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-02T09:32-03:00",
-"c": [
-"cobots"
-],
-"l": 0,
-"to": "PRODUCTIVE ROBOTICS HELPS JOB SHOPS NAVIGATE HIGH-VOLUME JOBS AND STATIC TASKS WITH OB7",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "Os robôs colaborativos de ensino por toque de 7 eixos da Productive Robotics e os sistemas de soldagem robótica Blaze podem assumir uma variedade de tarefas, desde atendimento de máquinas CNC, acabamento e preparação de superfície, manuseio e montagem de materiais e soldagem MIG e a laser. Os robôs colaborativos de ensino por toque de 7 eixos da Productive Robotics e os sistemas de soldagem robótica Blaze podem assumir uma variedade de tarefas, desde atendimento de máquinas CNC, acabamento e preparação de superfície, manuseio e montagem de materiais e soldagem MIG e a laser. “Gerentes e operadores não precisam de nenhum conhecimento ou experiência com IA física, robôs ou cobots para implantar OB7-AI ou Blaze em suas oficinas”. A Productive Robotics LLC projeta e fabrica robôs colaborativos, sistemas robóticos de soldagem MIG e a laser, células de solda prontas para uso, células de rebarbação e um acessório de trilho linear de 8º eixo que permite que um único cobot lide com tarefas de até 7,2 metros de comprimento."
-},
-{
-"id": "14785a2a10d0c4",
-"t": "Ceva e Mobilint avançam IA física com SoC REGULUS Edge AI",
-"r": "A primeira implantação de produção da família NeuPro NPU da Ceva combina NeuPro-Nano com SensPro AI DSP para fornecer recursos avançados de detecção e inferência para dispositivos físicos de IA",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/ceva-and-mobilint-advance-physical-ai-with-regulus-edge-ai-soc/27329",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-02T09:57-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "Ceva and Mobilint Advance Physical AI with REGULUS Edge AI SoC",
-"lg": "ro",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A primeira implantação de produção da família NeuPro NPU da Ceva combina NeuPro-Nano com SensPro AI DSP para fornecer recursos avançados de detecção e inferência para dispositivos físicos de IA"
-},
-{
-"id": "f32895e9514bca",
-"t": "Novo padrão de interoperabilidade ISO ajuda robôs móveis de diferentes fornecedores a trabalharem juntos",
-"r": "A3 anuncia publicação da ISO 21423, estabelecendo requisitos de comunicação para robôs, gestores de frota e outros sistemas em ambientes industriais compartilhados",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/02/new-iso-interoperability-standard-helps-mobile-robots-from-different-vendors-work-together/27330",
-"f": "RoboticsTomorrow.com News",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-02T14:33-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "New ISO Interoperability Standard Helps Mobile Robots from Different Vendors Work Together",
-"lg": "en",
-"esp": 1,
-"p": 4.6,
-"mx": 1,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"rx": "A3 anuncia publicação da ISO 21423, estabelecendo requisitos de comunicação para robôs, gerentes de frota e outros sistemas em ambientes industriais compartilhados ANN ARBOR, Michigan - 2 de novembro de 2026 - A Association for Advancing Automation (A3) anunciou hoje a publicação da ISO 21423:2026, um novo padrão internacional para comunicação e interoperabilidade entre robôs móveis industriais (IMRs), independentemente do fornecedor ou modelo. A ISO 21423 fornece um conjunto comum de requisitos de comunicação para robôs móveis de diferentes fornecedores que operam na mesma instalação industrial. A ISO 21423 representa o primeiro padrão de robô não relacionado à segurança que a A3 ajudou a produzir e destaca a liderança contínua da A3 nos esforços de padronização da robótica. A ISO 21423:2026 está disponível para compra na loja online A3 por US$ 373."
 },
 {
 "id": "b1d1b8b0266c2b",
@@ -23004,7 +23436,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/01/productive-robotics-adds-physical-ai-to-mill-tending-7-axis-cobot-/27326",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-01T10:25-03:00",
 "c": [
 "cobots",
@@ -23014,8 +23446,8 @@
 "to": "PRODUCTIVE ROBOTICS ADDS PHYSICAL AI TO MILL TENDING 7-AXIS COBOT",
 "lg": "en",
 "esp": 1,
-"p": 4.6,
-"mx": 1,
+"p": 5.6,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "OB7-AI pode ser facilmente movido de uma máquina para outra. Ele verifica automaticamente o ambiente da máquina, aprendendo a localização das portas, tornos e mandris de fixação, botões de início/parada de ciclo, ejetores de peças e sensores de fuso/mandril. Ele verifica automaticamente o ambiente da máquina, aprendendo a localização das portas, tornos e mandris de fixação, botões de início/parada de ciclo, ejetores de peças e sensores de fuso/mandril. \"Ao automatizar o ciclo repetitivo de atendimento de máquinas, os operadores podem se concentrar em tarefas de alto valor e geradoras de receita.\" A Productive Robotics LLC projeta e fabrica robôs colaborativos, sistemas robóticos de soldagem MIG e a laser, células de solda prontas para uso, células de rebarbação e um acessório de trilho linear de 8º eixo que permite que um único cobot lide com tarefas de até 7,2 metros de comprimento."
