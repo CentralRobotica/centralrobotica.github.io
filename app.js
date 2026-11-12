@@ -43,7 +43,7 @@
     { id: "negocios", nome: "Negócios" },
     { id: "catalogo", nome: "Catálogo de robôs", especial: true },
     { id: "fabricantes", nome: "Fabricantes", especial: true },
-    { id: "sites", nome: "Sites especializados", especial: true },
+    { id: "sites", nome: "Sites do mundo", especial: true },
     { id: "curiosidades", nome: "+1000 Curiosidades", especial: true },
     { id: "universidades", nome: "Universidades", especial: true },
     { id: "historia", nome: "História da robótica", especial: true },
@@ -174,6 +174,8 @@
     "businessinsider.com": [2, "Business Insider"], "fortune.com": [2, "Fortune"], "forbes.com": [2, "Forbes"], "cnet.com": [2, "CNET"],
     "nationalgeographic.com": [2, "National Geographic"],
   };
+  // a lista oficial vem da tabela única do robô (dados/fontes.js); a de cima é só reserva
+  if (window.CR_FONTES_OK) { for (const k in MAIORES) delete MAIORES[k]; Object.assign(MAIORES, window.CR_FONTES_OK); }
   const MAIORES_NOMES = Object.fromEntries(Object.values(MAIORES).map((v) => [v[1].toLowerCase(), v]));
   Object.assign(MAIORES_NOMES, { "bloomberg.com": [3, "Bloomberg"], "bbc news": [3, "BBC"], "ap news": [3, "Associated Press"], "wsj": [3, "The Wall Street Journal"] });
   function credDe(dom, nome) {
@@ -686,28 +688,43 @@
   }
 
   function htmlSites(base) {
+    // fontes: a tabela única do robô (todas as regiões); descrições extras vêm do catálogo
     const doDominio = (dom, d) => !!d && (d === dom || d.endsWith("." + dom));
-    const sites = (CAT.sites || []).filter((s) => s.pais !== "Brasil").map((s) => {
-      const ns = base.todas.filter((it) => doDominio(s.dom, (it.s || "").toLowerCase()) || (it.o || []).some((o) => doDominio(s.dom, (o.s || "").toLowerCase())));
-      return { ...s, noticias: ns };
-    }).filter((s) => passaBusca(`${s.nome} ${s.pais} ${s.foco} ${s.desc} ${s.idioma}`));
-    const grupos = [["Especializados em robótica, ciência e tecnologia", sites.filter((s) => s.grupo === "especializado")],
-      ["Grandes veículos de reconhecimento mundial", sites.filter((s) => s.grupo !== "especializado")]];
-    let h = cabecalhoEspecial("Sites especializados", `A Central Robótica publica somente notícias de sites especializados em robótica e dos grandes veículos de reconhecimento mundial, como Reuters, Bloomberg e Financial Times. Sites genéricos e de pouco reconhecimento não entram.`);
-    for (const [nome, lista] of grupos) {
-      if (!lista.length) continue;
-      lista.sort((a, b) => b.noticias.length - a.noticias.length);
-      h += `<h2 class="titulo-secao">${nome} <small>${lista.length} sites</small></h2><div class="sites">`;
-      for (const s of lista) {
-        h += `<article class="site">
-          <div class="fab__capa capa">${foto(["site:" + s.nome, "cat:geral"], s.nome)}</div>
-          <div class="fab__cab"><div><h3>${esc(s.nome)}</h3><span class="fab__pais">${esc(s.pais)} · em ${esc(s.idioma)}</span></div><span class="chip">${esc(s.foco)}</span></div>
-          <p>${esc(s.desc)}</p>
-          <div class="fab__noticias"><span class="fonte__rot">Últimas notícias reunidas</span>${s.noticias.length ? `<ul class="mini">${s.noticias.slice(0, 3).map(miniNoticia).join("")}</ul>` : '<p class="sem-noticias">Aguardando as próximas coletas.</p>'}</div>
-          <div class="robo__rodape"><a class="fab__site" href="${esc(s.url)}" target="_blank" rel="noopener">Visitar o site ↗</a><span class="sem-noticias">${s.noticias.length} notícias no arquivo</span></div>
-        </article>`;
+    const extra = Object.fromEntries((CAT.sites || []).map((s) => [s.dom, s]));
+    const GRUPOS = { especializado: "Especializados em robótica, drones e ciência", tecnologia: "Grandes sites de tecnologia", imprensa: "Grandes veículos de reconhecimento mundial" };
+    const DESC = { especializado: "Site especializado em robótica, automação, drones ou ciência.", tecnologia: "Um dos grandes sites de tecnologia da região.", imprensa: "Veículo de imprensa de grande reconhecimento e credibilidade." };
+    const vistos = new Set();
+    const sites = Object.entries(MAIORES).filter(([dom, v]) => v.length >= 5 && !dom.endsWith(".br")).map(([dom, v]) => {
+      const [nivelS, nome, grupo, regiao, pais] = v;
+      const ex = extra[dom] || {};
+      const ns = base.todas.filter((it) => doDominio(dom, (it.s || "").toLowerCase()) || (it.o || []).some((o) => doDominio(dom, (o.s || "").toLowerCase())));
+      return { dom, nome, grupo, regiao, pais, nivel: nivelS, desc: ex.desc || DESC[grupo], url: ex.url || "https://" + dom, foco: ex.foco || GRUPOS[grupo].split(" ")[0], noticias: ns };
+    }).filter((s) => { if (vistos.has(s.nome)) return false; vistos.add(s.nome); return true; })
+      .filter((s) => passaBusca(`${s.nome} ${s.pais} ${s.regiao} ${s.desc} ${s.dom}`));
+    const REGIOES = ["Mundo", "Américas", "Europa", "Ásia e Oriente Médio", "Oceania", "África"];
+    const reg = REGIOES.includes(estado.f) ? estado.f : "";
+    let h = cabecalhoEspecial("Sites do mundo", `A Central Robótica publica somente notícias de ${sites.length} fontes aprovadas: sites especializados em robótica, grandes sites de tecnologia e grandes veículos de reconhecimento mundial de todas as regiões. Sites genéricos, de pouco reconhecimento e brasileiros não entram.`);
+    h += filtros([["", "Todas as regiões", sites.length], ...REGIOES.map((r) => [r, r === "Mundo" ? "Agências globais" : r, sites.filter((s) => s.regiao === r).length])], reg);
+    for (const r of REGIOES) {
+      if (reg && r !== reg) continue;
+      const daRegiao = sites.filter((s) => s.regiao === r);
+      if (!daRegiao.length) continue;
+      h += `<h2 class="linha__era sites__regiao">${r === "Mundo" ? "Agências e veículos globais" : r} <small>${daRegiao.length} fontes</small></h2>`;
+      for (const g of ["especializado", "tecnologia", "imprensa"]) {
+        const lista = daRegiao.filter((s) => s.grupo === g).sort((a, b) => b.noticias.length - a.noticias.length || a.nome.localeCompare(b.nome));
+        if (!lista.length) continue;
+        h += `<h3 class="titulo-secao">${GRUPOS[g]} <small>${lista.length}</small></h3><div class="sites">`;
+        for (const s of lista) {
+          h += `<article class="site">
+            <div class="fab__capa capa">${foto(["site:" + s.nome, "cat:geral"], s.dom)}</div>
+            <div class="fab__cab"><div><h3>${esc(s.nome)}</h3><span class="fab__pais">${esc(s.pais)} · ${esc(s.dom)}</span></div><span class="chip">${esc(g === "imprensa" ? "Imprensa" : g === "tecnologia" ? "Tecnologia" : "Especializado")}</span></div>
+            <p>${esc(s.desc)}</p>
+            <div class="fab__noticias"><span class="fonte__rot">Últimas notícias reunidas</span>${s.noticias.length ? `<ul class="mini">${s.noticias.slice(0, 2).map(miniNoticia).join("")}</ul>` : '<p class="sem-noticias">Aguardando as próximas coletas.</p>'}</div>
+            <div class="robo__rodape"><a class="fab__site" href="${esc(s.url)}" target="_blank" rel="noopener">Visitar o site ↗</a><span class="sem-noticias">${s.noticias.length} notícias no arquivo</span></div>
+          </article>`;
+        }
+        h += "</div>";
       }
-      h += "</div>";
     }
     return h;
   }

@@ -47,6 +47,10 @@ REGIOES = {
     "en": "hl=en-US&gl=US&ceid=US:en",
     "en-gb": "hl=en-GB&gl=GB&ceid=GB:en",
     "en-in": "hl=en-IN&gl=IN&ceid=IN:en",
+    "en-au": "hl=en-AU&gl=AU&ceid=AU:en",
+    "en-ca": "hl=en-CA&gl=CA&ceid=CA:en",
+    "en-sg": "hl=en-SG&gl=SG&ceid=SG:en",
+    "en-za": "hl=en-ZA&gl=ZA&ceid=ZA:en",
     "es": "hl=es-419&gl=MX&ceid=MX:es-419",
     "es-es": "hl=es&gl=ES&ceid=ES:es",
     "fr": "hl=fr&gl=FR&ceid=FR:fr",
@@ -81,6 +85,46 @@ FONTES = [
     gnews('robot OR robotics OR humanoid (site:fortune.com OR site:businessinsider.com OR site:axios.com OR site:time.com OR site:npr.org OR site:latimes.com)', "en"),
     gnews('"robot dog" OR quadruped OR drone OR robotaxi OR "surgical robot" (site:reuters.com OR site:bloomberg.com OR site:theverge.com OR site:techcrunch.com OR site:wired.com OR site:cnbc.com)', "en"),
     gnews('robot OR robotique OR Roboter OR robot humanoide (site:lemonde.fr OR site:spiegel.de OR site:elpais.com OR site:dw.com OR site:france24.com)', "en"),
+    # ---------------- Grandes veículos por região (buscas restritas a esses sites) ----------------
+    # Américas
+    gnews('robot OR robotics OR humanoid OR drone (site:usatoday.com OR site:nbcnews.com OR site:abcnews.go.com OR site:cbsnews.com OR site:politico.com OR site:apnews.com)', "en"),
+    gnews('robot OR robotics OR humanoid OR drone (site:cbc.ca OR site:theglobeandmail.com OR site:thestar.com OR site:ctvnews.ca)', "en-ca"),
+    gnews('robot OR robótica OR humanoide OR dron (site:eluniversal.com.mx OR site:milenio.com OR site:elfinanciero.com.mx OR site:clarin.com OR site:lanacion.com.ar OR site:infobae.com OR site:latercera.com OR site:eltiempo.com)', "es"),
+    # Europa
+    gnews('robot OR robotics OR humanoid OR drone (site:thetimes.co.uk OR site:telegraph.co.uk OR site:independent.co.uk OR site:news.sky.com OR site:euronews.com OR site:politico.eu)', "en-gb"),
+    gnews('robot OR robotique OR humanoïde OR drone (site:lemonde.fr OR site:lefigaro.fr OR site:lesechos.fr OR site:france24.com OR site:liberation.fr)', "fr"),
+    gnews('Roboter OR Robotik OR humanoid OR Drohne (site:spiegel.de OR site:zeit.de OR site:faz.net OR site:sueddeutsche.de OR site:handelsblatt.com OR site:dw.com)', "de"),
+    gnews('robot OR robótica OR humanoide OR dron (site:elpais.com OR site:elmundo.es OR site:lavanguardia.com OR site:abc.es)', "es-es"),
+    gnews('robot OR robotica OR umanoide OR drone (site:corriere.it OR site:repubblica.it OR site:ansa.it OR site:ilsole24ore.com)', "it"),
+    gnews('robot OR robotics OR humanoid (site:nzz.ch OR site:swissinfo.ch OR site:nos.nl OR site:euronews.com)', "en"),
+    # Ásia e Oriente Médio
+    gnews('robot OR robotics OR humanoid OR drone (site:japantimes.co.jp OR site:nhk.or.jp OR site:kyodonews.net OR site:koreaherald.com OR site:koreajoongangdaily.joins.com OR site:yna.co.kr)', "en"),
+    gnews('robot OR robotics OR humanoid OR drone (site:straitstimes.com OR site:channelnewsasia.com OR site:scmp.com OR site:caixinglobal.com OR site:taipeitimes.com OR site:focustaiwan.tw)', "en-sg"),
+    gnews('robot OR robotics OR humanoid OR drone (site:timesofindia.indiatimes.com OR site:thehindu.com OR site:hindustantimes.com OR site:economictimes.indiatimes.com OR site:ndtv.com)', "en-in"),
+    gnews('ロボット OR ヒューマノイド OR ドローン (site:nikkei.com OR site:asahi.com OR site:yomiuri.co.jp OR site:mainichi.jp OR site:nhk.or.jp)', "ja"),
+    gnews('로봇 OR 휴머노이드 OR 드론 (site:yna.co.kr OR site:chosun.com OR site:joongang.co.kr OR site:donga.com OR site:hankyung.com)', "ko"),
+    gnews('機器人 OR 人形機器人 OR 無人機 (site:cna.com.tw OR site:udn.com OR site:ltn.com.tw OR site:caixin.com)', "zh-tw"),
+    gnews('robot OR robotics OR humanoid OR drone (site:aljazeera.com OR site:thenationalnews.com OR site:arabnews.com OR site:gulfnews.com OR site:timesofisrael.com OR site:haaretz.com)', "en"),
+    # Oceania
+    gnews('robot OR robotics OR humanoid OR drone (site:abc.net.au OR site:smh.com.au OR site:theaustralian.com.au OR site:nzherald.co.nz OR site:rnz.co.nz OR site:stuff.co.nz)', "en-au"),
+    # África
+    gnews('robot OR robotics OR humanoid OR drone (site:news24.com OR site:businesslive.co.za OR site:mg.co.za OR site:nation.africa OR site:ahram.org.eg)', "en-za"),
+    # ---------------- Sites especializados e de tecnologia por região (buscas restritas) ----------------
+    gnews('robot OR robotics OR humanoid OR drone (site:gizmodo.com OR site:mashable.com OR site:tomshardware.com OR site:digitaltrends.com OR site:venturebeat.com OR site:fastcompany.com)', "en"),
+    gnews('robot OR robotics OR humanoid OR drone (site:robotics247.com OR site:automate.org OR site:automationworld.com OR site:dronexl.co OR site:popularmechanics.com OR site:electrek.co)', "en"),
+    gnews('robot OR robotics OR humanoid OR drone (site:betakit.com OR site:mobilesyrup.com OR site:assemblymag.com OR site:techrepublic.com)', "en-ca"),
+    gnews('robot OR robótica OR humanoide OR dron (site:xataka.com.mx OR site:fayerwayer.com OR site:xataka.com OR site:hipertextual.com)', "es"),
+    gnews('robot OR robotics OR humanoid OR drone (site:theregister.com OR site:techradar.com OR site:sifted.eu OR site:tech.eu OR site:theengineer.co.uk OR site:eandt.theiet.org)', "en-gb"),
+    gnews('Roboter OR Robotik OR humanoid OR Drohne (site:heise.de OR site:golem.de OR site:t3n.de OR site:robotik-produktion.de)', "de"),
+    gnews('robot OR robotique OR humanoïde OR drone (site:01net.com OR site:numerama.com OR site:lesnumeriques.com OR site:usinenouvelle.com OR site:futura-sciences.com)', "fr"),
+    gnews('robot OR robotica OR umanoide OR drone (site:wired.it OR site:tweakers.net)', "it"),
+    gnews('ロボット OR ヒューマノイド OR ドローン (site:itmedia.co.jp OR site:watch.impress.co.jp OR site:ascii.jp OR site:robotstart.info)', "ja"),
+    gnews('로봇 OR 휴머노이드 OR 드론 (site:zdnet.co.kr OR site:etnews.com OR site:thelec.net OR site:irobotnews.com)', "ko"),
+    gnews('机器人 OR 人形机器人 OR 无人机 (site:36kr.com OR site:ithome.com OR site:leiphone.com OR site:jiqizhixin.com OR site:ofweek.com OR site:gg-robot.com)', "zh"),
+    gnews('robot OR robotics OR humanoid OR drone (site:technode.com OR site:pandaily.com OR site:digitimes.com OR site:techinasia.com OR site:kr-asia.com OR site:e27.co)', "en-sg"),
+    gnews('robot OR robotics OR humanoid OR drone (site:analyticsindiamag.com OR site:inc42.com OR site:yourstory.com OR site:gadgets360.com)', "en-in"),
+    gnews('robot OR robotics OR humanoid OR drone (site:calcalistech.com OR site:wamda.com OR site:itnews.com.au OR site:startupdaily.net OR site:createdigital.org.au OR site:sciencealert.com)', "en-au"),
+    gnews('robot OR robotics OR humanoid OR drone (site:techcabal.com OR site:techpoint.africa OR site:techcentral.co.za OR site:mybroadband.co.za OR site:disrupt-africa.com)', "en-za"),
     # ---------------- Busca geral em inglês (só entram os veículos aprovados) ----------------
     gnews('humanoid robot', "en"),
     gnews('"robot dog" OR "quadruped robot"', "en"),
@@ -748,6 +792,36 @@ CREDIBILIDADE = {
     "mobilerobotguide.com": (3, "Mobile Robot Guide"), "humanoid.guide": (3, "Humanoid.guide"),
     "irobotnews.com": (3, "Robot Newspaper (Coreia)"), "dronedj.com": (3, "DroneDJ"), "dronelife.com": (3, "DroneLife"),
     "suasnews.com": (3, "sUAS News"), "spectrum.ieee.org": (3, "IEEE Spectrum"), "phys.org": (3, "Phys.org"),
+    # grandes veículos por região — Américas
+    "usatoday.com": (3, "USA Today"), "nbcnews.com": (3, "NBC News"), "abcnews.go.com": (3, "ABC News"), "cbsnews.com": (3, "CBS News"),
+    "politico.com": (3, "Politico"), "cbc.ca": (3, "CBC"), "theglobeandmail.com": (3, "The Globe and Mail"), "thestar.com": (3, "Toronto Star"),
+    "ctvnews.ca": (3, "CTV News"), "eluniversal.com.mx": (3, "El Universal"), "milenio.com": (3, "Milenio"), "elfinanciero.com.mx": (3, "El Financiero"),
+    "clarin.com": (3, "Clarín"), "lanacion.com.ar": (3, "La Nación"), "infobae.com": (3, "Infobae"), "latercera.com": (3, "La Tercera"),
+    "eltiempo.com": (3, "El Tiempo"),
+    # Europa
+    "thetimes.co.uk": (3, "The Times"), "telegraph.co.uk": (3, "The Telegraph"), "independent.co.uk": (3, "The Independent"),
+    "news.sky.com": (3, "Sky News"), "euronews.com": (3, "Euronews"), "politico.eu": (3, "Politico Europe"), "lefigaro.fr": (3, "Le Figaro"),
+    "lesechos.fr": (3, "Les Echos"), "liberation.fr": (3, "Libération"), "zeit.de": (3, "Die Zeit"), "faz.net": (3, "FAZ"),
+    "sueddeutsche.de": (3, "Süddeutsche Zeitung"), "handelsblatt.com": (3, "Handelsblatt"), "elmundo.es": (3, "El Mundo"),
+    "lavanguardia.com": (3, "La Vanguardia"), "abc.es": (3, "ABC (Espanha)"), "corriere.it": (3, "Corriere della Sera"),
+    "repubblica.it": (3, "La Repubblica"), "ansa.it": (3, "ANSA"), "ilsole24ore.com": (3, "Il Sole 24 Ore"), "nzz.ch": (3, "NZZ"),
+    "swissinfo.ch": (3, "Swissinfo"), "nos.nl": (3, "NOS"),
+    # Ásia e Oriente Médio
+    "japantimes.co.jp": (3, "The Japan Times"), "nhk.or.jp": (3, "NHK"), "asahi.com": (3, "Asahi Shimbun"), "yomiuri.co.jp": (3, "Yomiuri Shimbun"),
+    "mainichi.jp": (3, "Mainichi"), "koreaherald.com": (3, "The Korea Herald"), "koreajoongangdaily.joins.com": (3, "Korea JoongAng Daily"),
+    "joongang.co.kr": (3, "JoongAng Ilbo"), "chosun.com": (3, "Chosun Ilbo"), "donga.com": (3, "Dong-A Ilbo"), "hankyung.com": (3, "Korea Economic Daily"),
+    "caixinglobal.com": (3, "Caixin"), "caixin.com": (3, "Caixin"), "taipeitimes.com": (3, "Taipei Times"), "focustaiwan.tw": (3, "Focus Taiwan (CNA)"),
+    "cna.com.tw": (3, "CNA Taiwan"), "udn.com": (3, "United Daily News"), "ltn.com.tw": (3, "Liberty Times"),
+    "timesofindia.indiatimes.com": (3, "The Times of India"), "economictimes.indiatimes.com": (3, "The Economic Times"),
+    "thehindu.com": (3, "The Hindu"), "hindustantimes.com": (3, "Hindustan Times"), "ndtv.com": (3, "NDTV"),
+    "straitstimes.com": (3, "The Straits Times"), "channelnewsasia.com": (3, "CNA (Singapura)"), "thenationalnews.com": (3, "The National"),
+    "arabnews.com": (3, "Arab News"), "gulfnews.com": (3, "Gulf News"), "timesofisrael.com": (3, "The Times of Israel"), "haaretz.com": (3, "Haaretz"),
+    # Oceania
+    "abc.net.au": (3, "ABC News (Austrália)"), "smh.com.au": (3, "The Sydney Morning Herald"), "theaustralian.com.au": (3, "The Australian"),
+    "nzherald.co.nz": (3, "NZ Herald"), "rnz.co.nz": (3, "RNZ"), "stuff.co.nz": (3, "Stuff"),
+    # África
+    "news24.com": (3, "News24"), "businesslive.co.za": (3, "BusinessDay"), "mg.co.za": (3, "Mail & Guardian"), "nation.africa": (3, "Nation Africa"),
+    "ahram.org.eg": (3, "Ahram Online"),
     # grandes veículos de tecnologia e ciência
     "technologyreview.com": (2, "MIT Technology Review"), "spectrum.ieee.org": (2, "IEEE Spectrum"),
     "wired.com": (2, "WIRED"), "theverge.com": (2, "The Verge"), "techcrunch.com": (2, "TechCrunch"),
@@ -757,6 +831,9 @@ CREDIBILIDADE = {
     "cnet.com": (2, "CNET"), 
     "nationalgeographic.com": (2, "National Geographic"),
 }
+# a lista oficial vem da tabela única (coletor/fontes_aprovadas.py)
+from fontes_aprovadas import APROVADAS, NIVEL  # noqa: E402
+CREDIBILIDADE = {d: (NIVEL[g], n) for d, n, g, r, pais in APROVADAS}
 _NOMES_CRED = {v[1].lower(): v for v in CREDIBILIDADE.values()}
 _NOMES_CRED.update({"bloomberg.com": (3, "Bloomberg"), "the wall street journal": (3, "The Wall Street Journal"),
                     "wsj": (3, "The Wall Street Journal"), "bbc news": (3, "BBC"),
@@ -835,7 +912,15 @@ def salvar_mes(chave, dados):
         f.write('window.CR_DADOS=window.CR_DADOS||{};CR_DADOS["' + chave + '"]=' + js + ";\n")
 
 
+def gravar_fontes_aprovadas():
+    """dados/fontes.js: a mesma lista fechada usada pelo robô, para o site filtrar igual."""
+    lista = {d: [NIVEL[g], n, g, r, pais] for d, n, g, r, pais in APROVADAS}
+    with open(os.path.join(RAIZ, "dados", "fontes.js"), "w", encoding="utf-8") as f:
+        f.write("window.CR_FONTES_OK=" + json.dumps(lista, ensure_ascii=False) + ";" + chr(10))
+
+
 def gerar_indice(fontes_vistas):
+    gravar_fontes_aprovadas()
     meses, total = {}, 0
     if os.path.isdir(PASTA_JSON):
         for nome in sorted(os.listdir(PASTA_JSON)):
