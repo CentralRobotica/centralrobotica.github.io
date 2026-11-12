@@ -57,10 +57,6 @@ FONTES = [
     {"nome": "EPFL", "inst": "EPFL", "pais": "Suíça", "tipo": "universidade", "url": "https://actu.epfl.ch/feeds/rss/mediacom/en/", "filtrar": True},
     {"nome": "Institute of Science Tokyo", "inst": "Science Tokyo", "pais": "Japão", "tipo": "universidade", "url": "https://www.titech.ac.jp/english/news/rss.xml", "filtrar": True},
     {"nome": "National University of Singapore", "inst": "NUS", "pais": "Singapura", "tipo": "universidade", "url": "https://news.nus.edu.sg/feed/", "filtrar": True},
-    {"nome": "Jornal da USP", "inst": "USP", "pais": "Brasil", "tipo": "universidade", "url": "https://jornal.usp.br/feed/", "filtrar": True, "lingua": "pt"},
-    {"nome": "Revista Pesquisa FAPESP", "inst": "FAPESP", "pais": "Brasil", "tipo": "pesquisa", "url": "https://revistapesquisa.fapesp.br/?s=robo&feed=rss2&paged={n}", "paginas": 12, "filtrar": True, "lingua": "pt"},
-    # ---------------- Periódicos científicos ----------------
-    {"nome": "Frontiers in Robotics and AI", "inst": "Frontiers", "pais": "Suíça", "tipo": "periodico", "url": "https://www.frontiersin.org/journals/robotics-and-ai/rss"},
     # ---------------- Revistas ----------------
     {"nome": "Live Science", "pais": "EUA", "tipo": "revista", "url": "https://www.livescience.com/feeds/tag/robots"},
     {"nome": "New Scientist", "pais": "Reino Unido", "tipo": "revista", "url": "https://www.newscientist.com/subject/robotics/feed/"},
@@ -70,14 +66,13 @@ FONTES = [
     {"nome": "Smithsonian Magazine", "pais": "EUA", "tipo": "revista", "url": "https://www.smithsonianmag.com/rss/science-nature/", "filtrar": True},
     {"nome": "Popular Mechanics", "pais": "EUA", "tipo": "revista", "url": "https://www.popularmechanics.com/rss/all.xml/", "filtrar": True},
     {"nome": "The Conversation", "pais": "Internacional", "tipo": "revista", "url": "https://theconversation.com/global/topics/robots-388/articles.atom", "filtrar": True},
-    {"nome": "Big Think", "pais": "EUA", "tipo": "revista", "url": "https://bigthink.com/feed/", "filtrar": True},
-    # ---------------- Sites ----------------
+    # ---------------- Sites especializados ----------------
     {"nome": "Robohub", "pais": "Internacional", "tipo": "site", "url": "https://robohub.org/feed/?paged={n}", "paginas": 16},
     {"nome": "New Atlas", "pais": "Austrália", "tipo": "site", "url": "https://newatlas.com/robotics/index.rss?page={n}", "paginas": 10},
     {"nome": "ScienceAlert", "pais": "Austrália", "tipo": "site", "url": "https://www.sciencealert.com/feed?s=robot&paged={n}", "paginas": 10, "filtrar": True},
     {"nome": "Phys.org", "pais": "Reino Unido", "tipo": "site", "url": "https://phys.org/rss-feed/technology-news/robotics/"},
+    {"nome": "Frontiers in Robotics and AI", "inst": "Frontiers", "pais": "Suíça", "tipo": "periodico", "url": "https://www.frontiersin.org/journals/robotics-and-ai/rss"},
     {"nome": "BBC", "pais": "Reino Unido", "tipo": "site", "url": "https://www.bbc.co.uk/news/science_and_environment/rss.xml", "filtrar": True},
-    {"nome": "Mundo Conectado", "pais": "Brasil", "tipo": "site", "url": "https://www.mundoconectado.com.br/feed/?s=robo&paged={n}", "paginas": 10, "filtrar": True, "lingua": "pt"},
 ]
 
 ARXIV = {"nome": "arXiv — Robótica (cs.RO)", "url": "https://rss.arxiv.org/rss/cs.RO"}
@@ -197,6 +192,12 @@ def main():
     print(f"Biblioteca — coleta em {A.AGORA:%d/%m/%Y %H:%M}")
     itens = carregar(ARQ_ITENS, [])
     estado = carregar(ARQ_ESTADO, {})
+    # só fontes da lista (universidades de renome e grandes revistas) — nada do Brasil
+    permitidas = {f["nome"] for f in FONTES}
+    antes = len(itens)
+    itens = [x for x in itens if x.get("f") in permitidas and x.get("pais") != "Brasil"]
+    if antes != len(itens):
+        print(f"Removidas {antes - len(itens)} matérias de fontes fora da lista")
     por_id = {x["id"]: x for x in itens}
     titulos = {re.sub(r"\W+", "", x.get("to", x["t"]).lower())[:80] for x in itens}
 

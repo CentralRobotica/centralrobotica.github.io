@@ -149,13 +149,63 @@
     for (const m of Object.keys(INDICE.meses)) for (const d of Object.keys(INDICE.meses[m])) if (INDICE.meses[m][d] > 0) dias.push(d);
     return dias.sort();
   }
+  // ---------------- lista fechada: SÓ os maiores veículos do mundo (nada do Brasil, nada de sites menores)
+  // 3 = agências, jornais e TVs de referência mundial · 2 = maiores veículos de ciência e tecnologia
+  const MAIORES = {
+    // sites especializados em robótica, ciência e tecnologia (todos, independente do tamanho)
+    "therobotreport.com": [3, "The Robot Report"], "humanoidsdaily.com": [3, "Humanoids Daily"], "interestingengineering.com": [3, "Interesting Engineering"],
+    "newatlas.com": [3, "New Atlas"], "robohub.org": [3, "Robohub"], "techxplore.com": [3, "Tech Xplore"], "sciencedaily.com": [3, "ScienceDaily"],
+    "livescience.com": [3, "Live Science"], "roboticsandautomationnews.com": [3, "Robotics & Automation News"], "roboticsbusinessreview.com": [3, "Robotics Business Review"],
+    "roboticstomorrow.com": [3, "Robotics Tomorrow"], "mobilerobotguide.com": [3, "Mobile Robot Guide"], "humanoid.guide": [3, "Humanoid.guide"],
+    "irobotnews.com": [3, "Robot Newspaper (Coreia)"], "dronedj.com": [3, "DroneDJ"], "dronelife.com": [3, "DroneLife"], "suasnews.com": [3, "sUAS News"],
+    "phys.org": [3, "Phys.org"],
+    // grandes veículos de reconhecimento mundial
+    "reuters.com": [3, "Reuters"], "apnews.com": [3, "Associated Press"], "afp.com": [3, "AFP"], "bloomberg.com": [3, "Bloomberg"],
+    "ft.com": [3, "Financial Times"], "wsj.com": [3, "The Wall Street Journal"], "nytimes.com": [3, "The New York Times"],
+    "washingtonpost.com": [3, "The Washington Post"], "theguardian.com": [3, "The Guardian"], "bbc.com": [3, "BBC"], "bbc.co.uk": [3, "BBC"],
+    "economist.com": [3, "The Economist"], "cnn.com": [3, "CNN"], "cnbc.com": [3, "CNBC"], "nikkei.com": [3, "Nikkei Asia"],
+    "scmp.com": [3, "South China Morning Post"], "nature.com": [3, "Nature"], "science.org": [3, "Science"], "npr.org": [3, "NPR"],
+    "dw.com": [3, "DW"], "france24.com": [3, "France 24"], "aljazeera.com": [3, "Al Jazeera"], "lemonde.fr": [3, "Le Monde"],
+    "spiegel.de": [3, "Der Spiegel"], "elpais.com": [3, "El País"], "time.com": [3, "TIME"], "axios.com": [3, "Axios"],
+    "latimes.com": [3, "Los Angeles Times"], "theatlantic.com": [3, "The Atlantic"], "yna.co.kr": [3, "Yonhap"], "kyodonews.net": [3, "Kyodo News"],
+    "technologyreview.com": [2, "MIT Technology Review"], "spectrum.ieee.org": [3, "IEEE Spectrum"], "wired.com": [2, "WIRED"],
+    "theverge.com": [2, "The Verge"], "techcrunch.com": [2, "TechCrunch"], "arstechnica.com": [2, "Ars Technica"], "engadget.com": [2, "Engadget"],
+    "zdnet.com": [2, "ZDNET"], "newscientist.com": [2, "New Scientist"], "scientificamerican.com": [2, "Scientific American"],
+    "businessinsider.com": [2, "Business Insider"], "fortune.com": [2, "Fortune"], "forbes.com": [2, "Forbes"], "cnet.com": [2, "CNET"],
+    "nationalgeographic.com": [2, "National Geographic"],
+  };
+  const MAIORES_NOMES = Object.fromEntries(Object.values(MAIORES).map((v) => [v[1].toLowerCase(), v]));
+  Object.assign(MAIORES_NOMES, { "bloomberg.com": [3, "Bloomberg"], "bbc news": [3, "BBC"], "ap news": [3, "Associated Press"], "wsj": [3, "The Wall Street Journal"] });
+  function credDe(dom, nome) {
+    const d = (dom || "").toLowerCase();
+    if (d.endsWith(".br")) return [0, ""];
+    for (const k in MAIORES) if (d === k || d.endsWith("." + k)) return MAIORES[k];
+    return MAIORES_NOMES[(nome || "").trim().toLowerCase()] || [0, ""];
+  }
+  // aprova a notícia se ela saiu num dos maiores veículos; esse veículo vira o link principal
+  function aprovar(it) {
+    if (it._ok !== undefined) return it._ok;
+    let [n, nome] = credDe(it.s, it.f);
+    const outras = (it.o || []).filter((o) => credDe(o.s, o.f)[0] >= 2);
+    if (n < 2 && outras.length) {
+      const melhor = outras.sort((a, b) => credDe(b.s, b.f)[0] - credDe(a.s, a.f)[0])[0];
+      outras.splice(outras.indexOf(melhor), 1);
+      [it.u, it.f, it.s] = [melhor.u, melhor.f, melhor.s];
+      [n, nome] = credDe(it.s, it.f);
+    }
+    it.o = outras;
+    it._cred = [n, nome];
+    return (it._ok = n >= 2);
+  }
+  const nivel = (it) => (it._cred || credDe(it.s, it.f))[0];
+
   async function itensDoPeriodo(i, f) {
     await Promise.all(mesesEntre(i, f).map(carregarMes));
     const out = [];
     for (const m of mesesEntre(i, f)) {
       const dados = window.CR_DADOS[m] || {};
-      // notícias ainda não traduzidas (nt) só aparecem depois de traduzidas
-      for (const dia in dados) if (dia >= i && dia <= f) for (const it of dados[dia]) { if (it.nt) continue; it.dia = dia; out.push(it); }
+      // só notícias já traduzidas e publicadas pelos maiores veículos do mundo
+      for (const dia in dados) if (dia >= i && dia <= f) for (const it of dados[dia]) { if (it.nt || !aprovar(it)) continue; it.dia = dia; out.push(it); }
     }
     return out;
   }
@@ -343,13 +393,14 @@
     // seleção dos destaques: relevância + bônus para quem tem imagem
     // lançamentos de robôs SEMPRE vêm primeiro; depois relevância (+ bônus para quem tem imagem)
     const nota = (it) => it.p + (it.i ? 1.2 : 0);
-    const ranking = [...itens].sort((a, b) => (b.l || 0) - (a.l || 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || nota(b) - nota(a) || b.d.localeCompare(a.d));
+    // ordem: lançamentos > especializados e grandes veículos (nível) > foto própria > relevância
+    const ranking = [...itens].sort((a, b) => (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || nota(b) - nota(a) || b.d.localeCompare(a.d));
     const nDest = itens.length >= 8 ? 5 : Math.min(itens.length, 1);
     const topo = ranking.slice(0, nDest);
     const nCards = itens.length >= 14 ? 6 : itens.length >= 11 ? 3 : 0;
     const cards = ranking.slice(nDest, nDest + nCards);
     const usados = new Set([...topo, ...cards].map((x) => x.id));
-    const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (b.l || 0) - (a.l || 0) || b.p - a.p || b.d.localeCompare(a.d));
+    const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || b.p - a.p || b.d.localeCompare(a.d));
 
     const nomeCat = estado.c === "inicio" ? "Destaques" : NOME_CAT[estado.c];
     const titPeriodo = estado.p === "hoje" && i === hojeBR() ? "de hoje" : multiDia ? "do período" : "do dia";
@@ -478,7 +529,7 @@
     await Promise.all(Object.keys(INDICE.meses).map(carregarMes));
     if (TODAS) return TODAS;
     const out = [];
-    for (const m in window.CR_DADOS) for (const dia in window.CR_DADOS[m]) for (const it of window.CR_DADOS[m][dia]) { if (it.nt) continue; it.dia = dia; out.push(it); }
+    for (const m in window.CR_DADOS) for (const dia in window.CR_DADOS[m]) for (const it of window.CR_DADOS[m][dia]) { if (it.nt || !aprovar(it)) continue; it.dia = dia; out.push(it); }
     out.sort((a, b) => b.d.localeCompare(a.d));
     return (TODAS = out);
   }
@@ -635,12 +686,14 @@
   }
 
   function htmlSites(base) {
-    const sites = (CAT.sites || []).map((s) => {
-      const ns = base.todas.filter((it) => it.f === s.fonte || (it.o || []).some((o) => o.f === s.fonte));
+    const doDominio = (dom, d) => !!d && (d === dom || d.endsWith("." + dom));
+    const sites = (CAT.sites || []).filter((s) => s.pais !== "Brasil").map((s) => {
+      const ns = base.todas.filter((it) => doDominio(s.dom, (it.s || "").toLowerCase()) || (it.o || []).some((o) => doDominio(s.dom, (o.s || "").toLowerCase())));
       return { ...s, noticias: ns };
     }).filter((s) => passaBusca(`${s.nome} ${s.pais} ${s.foco} ${s.desc} ${s.idioma}`));
-    const grupos = [["Internacionais", sites.filter((s) => s.pais !== "Brasil")], ["Brasileiros", sites.filter((s) => s.pais === "Brasil")]];
-    let h = cabecalhoEspecial("Sites especializados", `Os principais sites de notícias de robótica do mundo. A Central Robótica acompanha todos eles — e também centenas de outros veículos via Google Notícias em 12 idiomas.`);
+    const grupos = [["Especializados em robótica, ciência e tecnologia", sites.filter((s) => s.grupo === "especializado")],
+      ["Grandes veículos de reconhecimento mundial", sites.filter((s) => s.grupo !== "especializado")]];
+    let h = cabecalhoEspecial("Sites especializados", `A Central Robótica publica somente notícias de sites especializados em robótica e dos grandes veículos de reconhecimento mundial, como Reuters, Bloomberg e Financial Times. Sites genéricos e de pouco reconhecimento não entram.`);
     for (const [nome, lista] of grupos) {
       if (!lista.length) continue;
       lista.sort((a, b) => b.noticias.length - a.noticias.length);
@@ -681,7 +734,7 @@
     if (sorteada) h += `<div class="sorteio"><span class="cur-dia__rot">🎲 Curiosidade sorteada para você</span><div class="cards">${htmlMateria(sorteada)}</div></div>`;
 
     // biblioteca: matérias de revistas, sites e universidades + curiosidades do noticiário
-    const lib = bib().itens.map(paraMateria);
+    const lib = bibOk().map(paraMateria);
     const doNoticiario = base.todas.filter((x) => x.cur && !x.doc).map((x) => ({ ...x, origem: "noticiario", dia: x.dia }));
     const ids = new Set(lib.map((x) => x.u));
     let materias = lib.concat(doNoticiario.filter((x) => !ids.has(x.u)));
@@ -734,6 +787,9 @@
   }
   const carregarBiblioteca = () => carregarScript("dados/biblioteca/biblioteca.js", () => window.CR_BIBLIOTECA);
   const bib = () => window.CR_BIBLIOTECA || { meta: { total: 0, arxiv: {} }, itens: [] };
+  // biblioteca: nada do Brasil e nada de sites genéricos
+  const BIB_FORA = new Set(["Big Think", "Jornal da USP", "Revista Pesquisa FAPESP", "Mundo Conectado"]);
+  const bibOk = () => bib().itens.filter((x) => x.pais !== "Brasil" && !BIB_FORA.has(x.f));
   const NOME_TIPO = { revista: "Revista", site: "Site", universidade: "Universidade", pesquisa: "Pesquisa", periodico: "Periódico científico", noticiario: "Noticiário" };
   function paraMateria(x) {
     const origem = x.tipo === "pesquisa" || x.tipo === "periodico" ? "universidade" : x.tipo;
@@ -749,7 +805,7 @@
   }
 
   function htmlUniversidades(base, mesArx, mesesArx) {
-    const todos = bib().itens.map(paraMateria).filter((x) => ["universidade", "pesquisa", "periodico"].includes(x.tipo))
+    const todos = bibOk().map(paraMateria).filter((x) => ["universidade", "pesquisa", "periodico"].includes(x.tipo))
       .filter((x) => passaBusca(`${x.t} ${x.r} ${x.f} ${x.inst || ""} ${x.pais}`));
     const insts = {};
     for (const x of todos) { const k = x.inst || x.f; insts[k] = insts[k] || { n: 0, pais: x.pais }; insts[k].n++; }
@@ -901,7 +957,7 @@
       const filtroG = e.target.closest("[data-g]");
       if (filtroG) { irPara({ g: filtroG.dataset.g, pagina: 1 }); return; }
       if (e.target.closest("[data-sorte]")) {
-        const itens = bib().itens;
+        const itens = bibOk();
         if (itens.length) { sorteada = paraMateria(itens[Math.floor(Math.random() * itens.length)]); render(); setTimeout(() => document.querySelector(".sorteio")?.scrollIntoView({ behavior: "smooth", block: "center" }), 80); }
         return;
       }

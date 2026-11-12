@@ -71,22 +71,17 @@ def gnews(q, regiao="pt"):
 # especial=True -> fonte especializada em robótica (ganha peso na relevância)
 # lingua="pt"   -> já vem em português; qualquer outro valor -> traduzir
 FONTES = [
-    # ---------------- Brasil ----------------
-    gnews('robô OR robótica OR robôs'),
-    gnews('robô humanoide OR robôs humanoides'),
-    gnews('"cão robô" OR "cachorro robô" OR "robô quadrúpede" OR "cão-robô"'),
-    gnews('"robô industrial" OR "braço robótico" OR cobot OR "robôs industriais"'),
-    gnews('"novo robô" OR "lança robô" OR "apresenta robô"'),
-    gnews('"robô aspirador" OR "robô doméstico" OR "robô de entrega"'),
-    gnews('"cirurgia robótica" OR "robô cirúrgico" OR exoesqueleto'),
-    gnews('"carro autônomo" OR robotáxi OR "veículo autônomo"'),
-    gnews('drone lançamento OR "novo drone"'),
-    # ---------------- Curiosidades, história e documentários ----------------
-    gnews('curiosidades robôs OR "você sabia" robôs OR "como funciona" robô'),
-    gnews('documentário robôs OR documentário robótica OR "história da robótica"'),
-    gnews('"robot documentary" OR "robotics documentary" OR "history of robots"', "en"),
-    gnews('"how robots" work OR "world\'s first robot" OR "robot museum"', "en"),
-    # ---------------- EUA / mundo em inglês ----------------
+    # Só veículos com credibilidade e reconhecimento mundial. Nada do Brasil.
+    # ---------------- Grandes veículos de referência mundial (via Google Notícias, restrito aos sites) ----------------
+    gnews('robot OR robotics OR humanoid (site:reuters.com OR site:apnews.com OR site:bloomberg.com OR site:ft.com OR site:wsj.com)', "en"),
+    gnews('robot OR robotics OR humanoid (site:nytimes.com OR site:washingtonpost.com OR site:theguardian.com OR site:bbc.com OR site:cnn.com OR site:cnbc.com)', "en"),
+    gnews('robot OR robotics OR humanoid (site:economist.com OR site:nature.com OR site:science.org OR site:technologyreview.com OR site:wired.com OR site:theverge.com)', "en"),
+    gnews('robot OR robotics OR humanoid (site:scmp.com OR site:asia.nikkei.com OR site:dw.com OR site:aljazeera.com OR site:france24.com OR site:afp.com)', "en"),
+    gnews('robot OR robotics OR humanoid (site:techcrunch.com OR site:spectrum.ieee.org OR site:arstechnica.com OR site:engadget.com OR site:newscientist.com OR site:forbes.com)', "en"),
+    gnews('robot OR robotics OR humanoid (site:fortune.com OR site:businessinsider.com OR site:axios.com OR site:time.com OR site:npr.org OR site:latimes.com)', "en"),
+    gnews('"robot dog" OR quadruped OR drone OR robotaxi OR "surgical robot" (site:reuters.com OR site:bloomberg.com OR site:theverge.com OR site:techcrunch.com OR site:wired.com OR site:cnbc.com)', "en"),
+    gnews('robot OR robotique OR Roboter OR robot humanoide (site:lemonde.fr OR site:spiegel.de OR site:elpais.com OR site:dw.com OR site:france24.com)', "en"),
+    # ---------------- Busca geral em inglês (só entram os veículos aprovados) ----------------
     gnews('humanoid robot', "en"),
     gnews('"robot dog" OR "quadruped robot"', "en"),
     gnews('unveils robot OR launches robot OR "new robot"', "en"),
@@ -94,55 +89,44 @@ FONTES = [
     gnews('"surgical robot" OR exoskeleton', "en"),
     gnews('robotaxi OR "autonomous vehicle"', "en"),
     gnews('robotics startup funding', "en"),
+    gnews('"robot documentary" OR "history of robots" OR "how robots work"', "en"),
     gnews('humanoid robot OR robotics', "en-gb"),
-    gnews('humanoid robot OR robotics', "en-in"),
-    # ---------------- América Latina e Espanha ----------------
-    gnews('robot humanoide OR robótica OR "perro robot"', "es"),
-    gnews('robot humanoide OR robótica', "es-es"),
-    # ---------------- Europa ----------------
-    gnews('robot humanoïde OR robotique OR "chien robot"', "fr"),
-    gnews('humanoider Roboter OR Robotik OR Roboterhund', "de"),
-    gnews('robot umanoide OR robotica', "it"),
-    # ---------------- Ásia ----------------
-    gnews('人形机器人 OR 机器狗 OR 机器人 发布', "zh"),
-    gnews('人形機器人 OR 機器狗 OR 機器人', "zh-tw"),
-    gnews('ヒューマノイド OR ロボット 発表 OR 四足歩行ロボット', "ja"),
-    gnews('휴머노이드 OR 로봇 출시 OR 로봇개', "ko"),
-    # ---------------- Principais sites de robótica do mundo ----------------
+    # ---------------- Sites especializados em robótica (ficam todos, independente do tamanho) ----------------
+    {"url": "https://www.therobotreport.com/feed/", "especial": True, "nome": "The Robot Report"},
     {"url": "https://www.humanoidsdaily.com/feed.xml", "especial": True, "nome": "Humanoids Daily"},
     {"url": "https://interestingengineering.com/news-sitemap.xml", "tipo": "sitemap", "secao": "/ai-robotics/",
      "especial": True, "filtrar": True, "nome": "Interesting Engineering"},
-    {"url": "https://www.therobotreport.com/feed/", "especial": True},
-    {"url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "especial": True, "nome": "IEEE Spectrum"},
-    {"url": "https://techcrunch.com/category/robotics/feed/", "especial": True, "nome": "TechCrunch"},
-    {"url": "https://robohub.org/feed/", "especial": True},
+    {"url": "https://newatlas.com/robotics/index.rss", "especial": True, "nome": "New Atlas"},
+    {"url": "https://robohub.org/feed/", "especial": True, "nome": "Robohub"},
     {"url": "https://techxplore.com/rss-feed/robotics-news/", "especial": True, "nome": "Tech Xplore"},
+    {"url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml", "especial": True, "nome": "ScienceDaily"},
+    {"url": "https://www.livescience.com/feeds/tag/robots", "especial": True, "nome": "Live Science"},
     {"url": "https://roboticsandautomationnews.com/feed/", "especial": True, "nome": "Robotics & Automation News"},
     {"url": "https://www.roboticsbusinessreview.com/feed/", "especial": True, "nome": "Robotics Business Review"},
     {"url": "https://www.roboticstomorrow.com/rss/news.xml", "especial": True, "nome": "Robotics Tomorrow"},
     {"url": "https://www.mobilerobotguide.com/feed/", "especial": True, "nome": "Mobile Robot Guide"},
     {"url": "https://humanoid.guide/feed/", "especial": True, "nome": "Humanoid.guide"},
-    {"url": "https://www.zdnet.com/topic/robotics/rss.xml", "especial": True, "nome": "ZDNET"},
-    {"url": "https://newatlas.com/robotics/index.rss", "especial": True, "nome": "New Atlas"},
-    {"url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml", "especial": True, "nome": "ScienceDaily"},
     {"url": "https://www.irobotnews.com/rss/allArticle.xml", "especial": True, "nome": "Robot Newspaper (Coreia)"},
-    # ---------------- Grandes portais de tecnologia (filtrados) ----------------
+    {"url": "https://dronedj.com/feed/", "especial": True, "nome": "DroneDJ"},
+    {"url": "https://dronelife.com/feed/", "especial": True, "nome": "DroneLife"},
+    {"url": "https://www.suasnews.com/feed/", "especial": True, "nome": "sUAS News"},
+    # ---------------- Grandes veículos de ciência e tecnologia ----------------
+    {"url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "especial": True, "nome": "IEEE Spectrum"},
+    {"url": "https://techcrunch.com/category/robotics/feed/", "especial": True, "nome": "TechCrunch"},
+    {"url": "https://www.zdnet.com/topic/robotics/rss.xml", "especial": True, "nome": "ZDNET"},
+    {"url": "https://www.newscientist.com/subject/robotics/feed/", "especial": True, "nome": "New Scientist"},
+    # ---------------- Grandes veículos (feeds diretos, filtrados por robótica) ----------------
+    {"url": "https://www.theguardian.com/technology/robots/rss", "especial": True, "nome": "The Guardian"},
+    {"url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "filtrar": True, "nome": "BBC News"},
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "filtrar": True, "nome": "The New York Times"},
+    {"url": "https://www.ft.com/technology?format=rss", "filtrar": True, "nome": "Financial Times"},
+    {"url": "https://www.economist.com/science-and-technology/rss.xml", "filtrar": True, "nome": "The Economist"},
+    {"url": "https://www.cnbc.com/id/19854910/device/rss/rss.html", "filtrar": True, "nome": "CNBC"},
+    {"url": "https://www.technologyreview.com/feed/", "filtrar": True, "nome": "MIT Technology Review"},
+    {"url": "https://feeds.arstechnica.com/arstechnica/index", "filtrar": True, "nome": "Ars Technica"},
     {"url": "https://www.theverge.com/rss/index.xml", "filtrar": True, "nome": "The Verge"},
     {"url": "https://www.engadget.com/rss.xml", "filtrar": True, "nome": "Engadget"},
     {"url": "https://www.scmp.com/rss/36/feed", "filtrar": True, "nome": "South China Morning Post"},
-    {"url": "https://pandaily.com/feed/", "filtrar": True, "nome": "Pandaily (China)"},
-    {"url": "https://technode.com/feed/", "filtrar": True, "nome": "TechNode (China)"},
-    {"url": "https://cnevpost.com/feed/", "filtrar": True, "nome": "CnEVPost (China)"},
-    # ---------------- Drones ----------------
-    {"url": "https://dronedj.com/feed/", "nome": "DroneDJ"},
-    {"url": "https://dronelife.com/feed/", "nome": "DroneLife"},
-    {"url": "https://www.suasnews.com/feed/", "nome": "sUAS News"},
-    # ---------------- Sites brasileiros de tecnologia (filtrados) ----------------
-    {"url": "https://olhardigital.com.br/feed/", "filtrar": True, "lingua": "pt"},
-    {"url": "https://tecnoblog.net/feed/", "filtrar": True, "lingua": "pt"},
-    {"url": "https://canaltech.com.br/rss/", "filtrar": True, "lingua": "pt"},
-    {"url": "https://rss.tecmundo.com.br/feed", "filtrar": True, "lingua": "pt"},
-    {"url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml", "filtrar": True, "lingua": "pt"},
 ]
 
 # --------------------------------------------------------------------------- #
@@ -739,10 +723,83 @@ def classificar(texto_titulo, texto_resumo):
     return ordem[:3] or ["geral"]
 
 
+# --------------------------------------------------------------------------- #
+# CREDIBILIDADE DAS FONTES (3 = referência mundial, 2 = grande veículo internacional de tecnologia/ciência)
+# Só veículos com reconhecimento mundial. Sites brasileiros nunca entram nos destaques.
+# --------------------------------------------------------------------------- #
+CREDIBILIDADE = {
+    # agências, jornais e TVs de referência mundial
+    "reuters.com": (3, "Reuters"), "apnews.com": (3, "Associated Press"), "afp.com": (3, "AFP"),
+    "bloomberg.com": (3, "Bloomberg"), "ft.com": (3, "Financial Times"), "wsj.com": (3, "The Wall Street Journal"),
+    "nytimes.com": (3, "The New York Times"), "washingtonpost.com": (3, "The Washington Post"),
+    "theguardian.com": (3, "The Guardian"), "bbc.com": (3, "BBC"), "bbc.co.uk": (3, "BBC"),
+    "economist.com": (3, "The Economist"), "cnn.com": (3, "CNN"), "cnbc.com": (3, "CNBC"),
+    "nikkei.com": (3, "Nikkei Asia"), "scmp.com": (3, "South China Morning Post"), "nature.com": (3, "Nature"),
+    "science.org": (3, "Science"), "npr.org": (3, "NPR"), "dw.com": (3, "DW"), "france24.com": (3, "France 24"),
+    "aljazeera.com": (3, "Al Jazeera"), "lemonde.fr": (3, "Le Monde"), "spiegel.de": (3, "Der Spiegel"),
+    "elpais.com": (3, "El País"), "time.com": (3, "TIME"), "axios.com": (3, "Axios"), "latimes.com": (3, "Los Angeles Times"),
+    "theatlantic.com": (3, "The Atlantic"), "yna.co.kr": (3, "Yonhap"), "kyodonews.net": (3, "Kyodo News"),
+    # sites especializados em robótica, ciência e tecnologia (todos, independente do tamanho)
+    "therobotreport.com": (3, "The Robot Report"), "humanoidsdaily.com": (3, "Humanoids Daily"),
+    "interestingengineering.com": (3, "Interesting Engineering"), "newatlas.com": (3, "New Atlas"),
+    "robohub.org": (3, "Robohub"), "techxplore.com": (3, "Tech Xplore"), "sciencedaily.com": (3, "ScienceDaily"),
+    "livescience.com": (3, "Live Science"), "roboticsandautomationnews.com": (3, "Robotics & Automation News"),
+    "roboticsbusinessreview.com": (3, "Robotics Business Review"), "roboticstomorrow.com": (3, "Robotics Tomorrow"),
+    "mobilerobotguide.com": (3, "Mobile Robot Guide"), "humanoid.guide": (3, "Humanoid.guide"),
+    "irobotnews.com": (3, "Robot Newspaper (Coreia)"), "dronedj.com": (3, "DroneDJ"), "dronelife.com": (3, "DroneLife"),
+    "suasnews.com": (3, "sUAS News"), "spectrum.ieee.org": (3, "IEEE Spectrum"), "phys.org": (3, "Phys.org"),
+    # grandes veículos de tecnologia e ciência
+    "technologyreview.com": (2, "MIT Technology Review"), "spectrum.ieee.org": (2, "IEEE Spectrum"),
+    "wired.com": (2, "WIRED"), "theverge.com": (2, "The Verge"), "techcrunch.com": (2, "TechCrunch"),
+    "arstechnica.com": (2, "Ars Technica"), "engadget.com": (2, "Engadget"), "zdnet.com": (2, "ZDNET"),
+    "newscientist.com": (2, "New Scientist"), "scientificamerican.com": (2, "Scientific American"),
+    "businessinsider.com": (2, "Business Insider"), "fortune.com": (2, "Fortune"), "forbes.com": (2, "Forbes"),
+    "cnet.com": (2, "CNET"), 
+    "nationalgeographic.com": (2, "National Geographic"),
+}
+_NOMES_CRED = {v[1].lower(): v for v in CREDIBILIDADE.values()}
+_NOMES_CRED.update({"bloomberg.com": (3, "Bloomberg"), "the wall street journal": (3, "The Wall Street Journal"),
+                    "wsj": (3, "The Wall Street Journal"), "bbc news": (3, "BBC"),
+                    "ap news": (3, "Associated Press"), "the new york times": (3, "The New York Times")})
+
+
+def credibilidade(dominio_, nome=""):
+    d = (dominio_ or "").lower()
+    if d.endswith(".br"):
+        return (0, "")  # nada do Brasil
+    for chave, v in CREDIBILIDADE.items():
+        if d == chave or d.endswith("." + chave):
+            return v
+    return _NOMES_CRED.get((nome or "").strip().lower(), (0, ""))
+
+
+def aplicar_credibilidade(x):
+    """Marca o nível de credibilidade da notícia e, se a mesma notícia saiu num veículo mais
+    confiável, passa esse veículo a ser o link principal."""
+    melhor_nivel, melhor_nome = credibilidade(x.get("s"), x.get("f"))
+    melhor_o = None
+    for o in x.get("o", []):
+        n, nome = credibilidade(o.get("s"), o.get("f"))
+        if n > melhor_nivel:
+            melhor_nivel, melhor_nome, melhor_o = n, nome, o
+    if melhor_o is not None:
+        x["o"].remove(melhor_o)
+        x["o"].insert(0, {"f": x["f"], "u": x["u"], "s": x.get("s", ""), "id": x["id"]})
+        x["f"], x["u"], x["s"] = melhor_o["f"], melhor_o["u"], melhor_o.get("s", "")
+        if melhor_o.get("id"):
+            x.setdefault("xid", []).append(melhor_o["id"])
+    if melhor_nivel:
+        x["cr"], x["cv"] = melhor_nivel, melhor_nome
+    else:
+        x.pop("cr", None)
+        x.pop("cv", None)
+
+
 def relevancia(item):
     p = 1.0
     if item.get("l"):
         p += 6  # lançamentos de robôs têm prioridade máxima
+    p += {3: 2.5, 2: 1.2}.get(item.get("cr", 0), 0)  # veículos de credibilidade mundial
     p += 1.5 * len(item.get("o", []))
     if item.get("i"):
         p += 1
@@ -851,6 +908,7 @@ def main():
         for dia, lst in meses[chave].items():
             for x in lst:
                 vistos_url.add(x["id"])
+                vistos_url.update(x.get("xid", []))
                 for o in x.get("o", []):
                     vistos_url.add(o.get("id") or hashlib.sha1(normalizar_url(o["u"]).encode()).hexdigest()[:14])
                 tit_por_dia.setdefault(dia, []).append((tokens(x["t"]), tokens(x.get("to", "")), x))
@@ -950,6 +1008,34 @@ def main():
         tit_por_dia.setdefault(dia, []).append((tk, tko, novo))
         adicionados += 1
 
+    # carrega TODO o arquivo para aplicar as regras (inclusive a lista fechada de veículos)
+    if os.path.isdir(PASTA_JSON):
+        for nome in os.listdir(PASTA_JSON):
+            if nome.endswith(".json"):
+                mes(nome[:-5])
+
+    # só sites especializados e os maiores veículos do mundo: genéricos e brasileiros saem (inclusive do arquivo antigo)
+    removidas = 0
+    for dados in meses.values():
+        for dia in list(dados):
+            ficam = []
+            for x in dados[dia]:
+                x["o"] = [o for o in x.get("o", []) if credibilidade(o.get("s"), o.get("f"))[0] >= 2 or credibilidade(x.get("s"), x.get("f"))[0] < 2]
+                aplicar_credibilidade(x)
+                x["o"] = [o for o in x.get("o", []) if credibilidade(o.get("s"), o.get("f"))[0] >= 2]
+                if not x["o"]:
+                    x.pop("o")
+                if x.get("cr", 0) >= 2:
+                    ficam.append(x)
+                else:
+                    removidas += 1
+            if ficam:
+                dados[dia] = ficam
+            else:
+                del dados[dia]
+    if removidas:
+        print(f"Removidas {removidas} notícias de sites genéricos, pouco reconhecidos ou brasileiros")
+
     # reclassifica todo o histórico carregado (regras novas valem para o passado)
     for dados in meses.values():
         for lst in dados.values():
@@ -964,6 +1050,7 @@ def main():
                 if DOCUMENTARIO.search(tt):
                     x["doc"] = 1
                     x["cur"] = 1
+                aplicar_credibilidade(x)
                 x["p"] = relevancia(x)
 
     todos = [x for dados in meses.values() for lst in dados.values() for x in lst]
