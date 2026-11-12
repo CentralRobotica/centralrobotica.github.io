@@ -19,7 +19,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "“Robótica e automação” é uma combinação ouvida com frequência por aqui. A robótica é um subdomínio da automação? Sabine Hauert: Freqüentemente usamos a frase “robótica e automação”, inclusive no nome do IEEE RAS. A robótica torna-se relevante quando a automação necessita de presença física. Sabine Hauert: Isso nos dá um ponto de partida útil com a automação como processo e a robótica como sua presença física.\nIsso muda os exemplos que os educadores podem usar e talvez o que as crianças intuitivamente entendem como robótica, automação ou IA. Cada novo projeto parece exigir todas as palavras relevantes – robótica, automação e agora, às vezes, IA física."
 }
 ],
 "2026-09-28": [
@@ -42,7 +43,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Essa é uma das razões pelas quais os roboticistas passaram anos construindo máquinas que nadam como peixes, dobrando seus corpos em vez de girar uma hélice. Eles revelaram o ScaFi (para Scalable Fish), um robô modelado em peixes como o bacalhau e a cavala. Também oferece aos pesquisadores uma plataforma para estudar como o desempenho da natação muda com a escala, uma questão que é difícil de estudar sistematicamente em animais ou em robôs feitos sob medida.\nEm colaboração com o Laboratório de Diagnóstico de Fluxo Instável da EPFL, liderado por Karen Mulleners, os pesquisadores descobriram que o menor robô produzia padrões de turbilhão de água semelhantes aos deixados por peixes reais e, em todos os três tamanhos, o movimento de natação se alinhava de perto, uma vez ajustado ao tamanho do corpo. ScaFi: projeto de peixe robótico paramétrico, escalável e compatível com comprimento para operação em vários nichos ambientais. Robô npj (2026)."
 },
 {
 "id": "cc449d663807bc",
@@ -63,7 +65,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Nesta edição da nossa série Um Dia na Vida de um Roboticista, conhecemos Charlie Kemp, cofundador e diretor de tecnologia da Hello Robot, que desenvolve manipuladores móveis para ajudar as pessoas em suas casas e locais de trabalho. Seu interesse pela robótica começou com os grandes desafios da inteligência artificial, e seu trabalho o levou de robôs humanóides no MIT a robôs auxiliares para idosos e pessoas com deficiência.\nKeith, Henry e Jane Evans e centenas de pessoas que trabalharam com robôs da Hello Robot e do meu laboratório acadêmico mudaram minha perspectiva sobre a robótica e a vida em geral. E a pesquisa que meu laboratório conduziu como parte do Robots for Humanity continua a influenciar o trabalho da Hello Robot em um robô doméstico auxiliar."
 }
 ],
 "2026-09-27": [
@@ -86,7 +89,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Robôs – isto é, mecanismos autoguiados interagindo ou mudando seus ambientes – existem na imaginação popular como seres metálicos grandes e em blocos como R2D2 ou TARS da Interstellar. Mas o campo da robótica suave oferece uma vasta gama de membros robóticos, sensores e tipos de corpo que expandem enormemente nossa compreensão sobre quais formas um robô pode manifestar e quais tarefas ele pode executar.\nEntre no robô não eletrônico de aro dobrado que parece um brinco e age como um sprite em um videogame, saltando para sempre alimentado por luz infravermelha. Se o V em uma extremidade da lágrima for muito largo – um ângulo de 120 graus – o robô simplesmente rasteja para frente. Se você reduzir o ângulo para 90 graus, ele salta para frente. E se você reduzir ainda mais o ângulo para 50 graus, o robô salta verticalmente."
 }
 ]
 }

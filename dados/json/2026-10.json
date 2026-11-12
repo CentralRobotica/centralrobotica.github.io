@@ -19,7 +19,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O maior ponto de discussão sobre o DJI Dock 4 não é necessariamente o drone que ele abriga. É o que acontece quando aquele drone chega em casa."
 },
 {
 "id": "cdee227d1e4f52",
@@ -39,7 +40,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "Esta decisão faz parte de um esforço mais amplo da FCC para fortalecer a posição da América na indústria global de drones."
 }
 ],
 "2026-10-30": [
@@ -63,7 +65,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Sua seleção semanal de vídeos incríveis de robôs"
 },
 {
 "id": "4093e094ffa327",
@@ -84,7 +87,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Claire conversou com Zlatka Stoeva da DZP Technologies sobre eletrônicos impressos flexíveis, extensíveis e macios para robôs hábeis. Zlatka Stoeva é fundadora e diretora administrativa da DZP Technologies, uma empresa com sede em Cambridge especializada em materiais avançados e novas formas de eletrônica. A formação de Zlatka é em química de materiais e ela desenvolveu materiais eletrônicos inovadores que estabeleceram as bases para o atual portfólio da empresa de eletrônicos flexíveis, extensíveis e macios. A DZP Technologies se aventurou na robótica durante um projeto financiado pela ARIA, focado em componentes eletrônicos impressos para robôs hábeis."
 },
 {
 "id": "abfc2d464ed106",
@@ -105,7 +109,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "45fd290d29a06f",
@@ -126,7 +130,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2cc9a057b610d2",
@@ -147,7 +151,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "41c2227ec580f6",
@@ -167,7 +171,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "A SPH Engineering deseja facilitar seus grandes levantamentos LiDAR com UgCS 6.3, a atualização mais recente de seu software de planejamento de voo de drones."
 },
 {
 "id": "f475c067e9727a",
@@ -187,7 +192,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O senador dos EUA Rick Scott está resistindo às tentativas da DJI e da Autel Robotics de desafiar sua colocação na lista coberta da FCC."
 },
 {
 "id": "62373f3f48e14e",
@@ -208,7 +214,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "No TechCrunch Founder Summit 2026, que acontecerá em 4 de novembro na SoWa Power Station em Boston, a rede desenvolvida pelo Braindate foi projetada para tornar essas conversas mais fáceis de encontrar, sejam elas em reuniões individuais ou em pequenos grupos no local. A única maneira de fazer essas conexões revolucionárias é no Founder Summit. O Founder Summit Networking Lounge oferece aos participantes a oportunidade de agendar Braindates individuais ou em pequenos grupos ao longo do dia.\nO Founder Summit é construído em torno de perguntas que os fundadores já estão fazendo: Como saber quando você está pronto para escalar? O Founder Summit é intencionalmente menor e mais prático do que uma conferência massiva. TechCrunch Founder Summit 2026 acontecerá em 4 de novembro na SoWa Power Station em Boston. Obtenha seu passe do Founder Summit e resgate seu segundo ingresso grátis."
 }
 ],
 "2026-10-29": [
@@ -219,7 +226,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/10/29/6-dof-maglev-systems-for-advanced-packaging-introduced-at-semicon-west-2026-new-from-pi-/27321",
 "f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-10-29T10:31-03:00",
 "c": [
 "inspecao"
@@ -231,7 +238,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"mx": 0
+"mx": 9
 },
 {
 "id": "b6d910ad7cf2c1",
@@ -250,9 +257,10 @@
 "lg": "en",
 "esp": 1,
 "p": 5.4,
-"mx": 0,
+"mx": 1,
 "cr": 3,
-"cv": "Robotics Tomorrow"
+"cv": "Robotics Tomorrow",
+"rx": "AGIBOT revela sua plataforma de hardware integrada AHA3, modelo GO-3 Preview e WITA-Omni, lança formalmente G2 Max e Link-U OS 1.0 e destaca implementações no mundo real A AGIBOT apresentou hoje o Worken, uma estrutura proposta para medir o trabalho produtivo realizado por robôs em ambientes do mundo real, no AGIBOT Innovation Day 2026 em Xangai. A empresa estreou o GO-3 Preview, seu modelo de base de IA incorporada de próxima geração, apresentou seu modelo de interação omnimodal WITA-Omni e lançou o robô industrial G2 Max e o Link-U OS 1.0. Juntos, AHA3, AGILE, GO-3 Preview e WITA-Omni refletem o progresso da AGIBOT em arquitetura de hardware integrada, inteligência de locomoção, execução de tarefas e interação humano-robô. AGIBOT lança G2 Max e destaca implantações no mundo real A AGIBOT lançou o G2 Max, um robô industrial de serviço pesado projetado para aplicações de manufatura e logística."
 },
 {
 "id": "7b870dd7b313c6",
@@ -273,7 +281,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "A mais recente atualização de engenharia da Zipline usa modelagem de som em tempo real para ajudar seus drones de entrega autônomos a voar de forma mais silenciosa."
 },
 {
 "id": "c5de748a53bd7e",
@@ -294,7 +303,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O software Percepto Axion traz análise de inspeção baseada em IA para frotas de drones, sensores e registros de inspeção existentes."
 },
 {
 "id": "90f17187580f72",
@@ -313,9 +323,10 @@
 "lg": "en",
 "esp": 1,
 "p": 4.6,
-"mx": 0,
+"mx": 1,
 "cr": 3,
-"cv": "Robotics Tomorrow"
+"cv": "Robotics Tomorrow",
+"rx": "Marcando quatro décadas de conhecimento técnico, parcerias confiáveis ​​e uma cultura que prioriza as pessoas nas indústrias de mecatrônica e robótica do Canadá. VAUGHAN, ONTÁRIO, 1º de novembro de 2026 - Electromate Inc., um distribuidor canadense líder de controle de movimento de precisão, soluções mecatrônicas e robóticas, comemora orgulhosamente seu 40º aniversário, marcando quatro décadas ajudando engenheiros e fabricantes canadenses a resolver desafios complexos de automação. Quatro Décadas de Parcerias Confiáveis ​​O sucesso da Electromate foi construído em relacionamentos duradouros com clientes, fornecedores e funcionários. Através de parcerias com fabricantes líderes globais, a Electromate fornece soluções avançadas de automação, experiência em engenharia de aplicação e suporte técnico para ajudar os clientes a projetar e construir máquinas confiáveis ​​e de alto desempenho e sistemas complexos de automação e robótica."
 },
 {
 "id": "a14b0cce81bb63",
@@ -336,9 +347,10 @@
 "lg": "en",
 "esp": 1,
 "p": 4.6,
-"mx": 0,
+"mx": 1,
 "cr": 3,
-"cv": "Robotics Tomorrow"
+"cv": "Robotics Tomorrow",
+"rx": "AMT – A Association For Manufacturing Technology e McCormick Place anunciam um acordo estendido para programas de 2032 e 2034, juntamente com um investimento de US$ 101.000 na educação STEM das Escolas Públicas de Chicago. Chicago (29 de outubro de 2026) — AMT - The Association For Manufacturing Technology, produtora do IMTS - The International Manufacturing Technology Show, e McCormick Place anunciaram hoje uma extensão de sua parceria de longa data, garantindo Chicago como sede do principal evento da AMT, IMTS, até 2034. Em parceria com a Haas Automation e a Gene Haas Foundation, a IMTS está contribuindo com US$ 101.000 para as Escolas Públicas de Chicago (CPS) para apoiar a educação STEM programas que apresentam aos alunos tecnologias avançadas de fabricação e oportunidades de carreira."
 },
 {
 "id": "8238768b37f504",
@@ -357,9 +369,10 @@
 "lg": "en",
 "esp": 1,
 "p": 4.6,
-"mx": 0,
+"mx": 1,
 "cr": 3,
-"cv": "Robotics Tomorrow"
+"cv": "Robotics Tomorrow",
+"rx": "Para algumas aplicações, investir em uma máquina CNC resulta no pagamento de recursos desnecessários. Fives High Precision Machines (Fives HPM) oferece uma abordagem diferente e mais eficaz com o Liné Machines RoboTDM, uma solução de usinagem robótica de alta precisão que traz fresamento, corte e perfuração diretos para peças grandes. A usinagem de componentes grandes requer uma grande máquina-ferramenta CNC, certo? Para aplicações onde tolerâncias até aproximadamente 0,1 mm são aceitáveis, o Liné Machines RoboTDM oferece uma alternativa altamente atrativa. Em última análise, ao atingir um nível de precisão suficiente para uma variedade de aplicações de peças grandes, o RoboTDM oferece aos fabricantes outra opção entre a robótica convencional e o custo de grandes máquinas-ferramentas CNC."
 }
 ],
 "2026-10-28": [
@@ -382,7 +395,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "O robô da equipe NimbRo em ação durante a competição RoboCup@Home no RoboCup 2026. Raphael Memmesheimer competiu com sucesso na liga RoboCup@Home vencendo a competição RoboCup@Home cinco vezes. Ele e seus colegas ganharam o prêmio de melhor artigo no RoboCup 2026 por seu trabalho “Efficient Image Annotation via Semi-Supervised Object Segmentation with Label Propagation”. Conversamos com o Raphael para saber mais sobre essa pesquisa, sua história com a RoboCup e os desafios da competição @Home.\nSempre volto às competições de robôs porque este é um dos raros lugares onde você pode avaliar robôs em um ambiente real e ter uma competição real. Nosso artigo basicamente nos ajuda a gerar esses dados de forma muito eficiente, para que os robôs possam aprender mais rapidamente modelos para os objetos envolvidos nesta competição."
 },
 {
 "id": "067c9dcc2a61f5",
@@ -403,7 +417,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "19950921145ba7",
@@ -424,7 +438,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "f9847c46651283",
@@ -445,7 +459,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "ca340d318d264b",
@@ -465,7 +479,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O lançamento do Flip faz parte de um lote mais amplo de atualizações de firmware da DJI que inclui vários drones populares de consumo."
 },
 {
 "id": "47a32af3414239",
@@ -485,7 +500,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "Com a versão 1.7.0 do Modify, a DJI está adicionando mais maneiras de trabalhar diretamente com modelos de malha 3D, juntamente com melhorias na visualização de nuvens de pontos e inspeção de terreno."
 }
 ],
 "2026-10-27": [
@@ -507,7 +523,8 @@
 "p": 10.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O EVO Lite Enterprise não é simplesmente um drone de câmera de consumo com um rótulo diferente. Autel oferece duas versões e ambas recebem uma nova atualização de firmware."
 },
 {
 "id": "1698e31ea5a4be",
@@ -529,7 +546,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "VicOne é uma empresa de segurança cibernética de IA física que protege veículos e robôs contra ameaças cibernéticas que podem alterar o comportamento e comprometer a segurança. Um robô pode seguir suas regras de segurança e ainda agir com base nas informações manipuladas. Veja o que isso significa para a segurança dos robôs e como as equipes podem fortalecer seus testes e evidências."
 },
 {
 "id": "f4409b756f65ca",
@@ -550,7 +568,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Pesquisadores da Universidade Nacional de Cingapura (NUS) desenvolveram uma pele eletrônica ultrafina e flexível que se ilumina quando tocada, revelando exatamente onde a pressão está sendo aplicada e a quantidade, como uma espécie de pele com tela. Ele funciona convertendo a pressão física diretamente em padrões visíveis de luz, permitindo que os usuários vejam a forma e a distribuição do contato quase instantaneamente, sem a necessidade de um display separado ou processamento complexo de sinais.\nPrimeiro, em vez de depender de sistemas separados de detecção de pressão e de exibição visual, os pesquisadores combinaram ambas as funções dentro da própria pele eletrônica, usando uma estrutura contínua sensível à pressão que produz luz diretamente em resposta à pressão."
 },
 {
 "id": "e3d20134e95520",
@@ -572,7 +591,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 }
 ],
 "2026-10-26": [
@@ -595,7 +614,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
-"mx": 0
+"mx": 1,
+"rx": "Um modelo de inteligência artificial chamado REDMOD pode identificar alterações extremamente sutis no tecido pancreático que podem sinalizar câncer muito antes de a doença se tornar visível aos médicos ou à tecnologia de imagem convencional. De acordo com uma pesquisa publicada online na revista Gut, o sistema pode detectar sinais precoces de adenocarcinoma ductal pancreático, o tipo mais comum de câncer de pâncreas.\nOs investigadores acreditam que esta tecnologia pode ajudar a transformar a deteção do cancro do pâncreas, identificando a doença numa fase muito mais precoce (fase 0), quando o tratamento tem maior probabilidade de sucesso. O REDMOD identificou com sucesso assinaturas de imagem sutis associadas ao câncer de pâncreas, em média 475 dias antes dos pacientes receberem seus diagnósticos clínicos."
 },
 {
 "id": "6dbfd111d82bc5",
@@ -616,7 +636,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Mais de cinco milhões de robôs industriais estão agora operando em fábricas em todo o mundo, de acordo com o recém-lançado relatório World Robotics 2026 da Federação Internacional de Robótica. As fábricas instalaram mais de 600.000 robôs industriais durante 2025, um aumento de 11% em relação ao ano anterior. Suas fábricas instalaram 354 mil robôs, representando 59% do total global.\nA Índia instalou quase 10.500 robôs, um aumento de 15%. Um estudo publicado no International Journal of Human-Computer Interaction examinou se as percepções de justiça podem reduzir o conflito entre pessoas e robôs de segurança. Os resultados provêm de pesquisas controladas sobre interação humano-robô, portanto não devem ser tratados como evidências de robôs exercendo autoridade em ambientes de policiamento operacional."
 },
 {
 "id": "964f79ef596d2e",
@@ -637,7 +658,8 @@
 "p": 5.1,
 "cr": 2,
 "cv": "New Scientist",
-"mx": 0
+"mx": 1,
+"rx": "Células vivas foram usadas para criar um computador biológico que pode controlar os movimentos de um cão robótico. Os seus criadores afirmam que a utilização de células para replicar as redes neurais digitais de modelos de IA como o ChatGPT – que são modelados em cérebros biológicos – poderia criar computadores mais eficientes e adaptáveis. A start-up Cortical Labs criou e comercializou um computador biológico chamado CL1, que pode ser treinado para navegar em direção a um alvo em um ambiente 2D simulado.\nA Cortical Labs já utilizou células vivas para realizar cálculos: em 2021, mostrou que sua tecnologia poderia jogar o jogo de computador Pong. Brett Kagan, do Cortical Labs, diz que as células usadas nos computadores CL1 são criadas a partir de células-tronco geradas a partir de sangue doado por pessoas que deram seu consentimento."
 },
 {
 "id": "7d08e45e15653a",
@@ -657,7 +679,8 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneDJ",
-"mx": 0
+"mx": 1,
+"rx": "O novo firmware do drone DJI Avata 360 adiciona voo de waypoint para rotas planejadas, controles de zoom para FocusTrack e suporte para o controlador RC Pro 2."
 }
 ],
 "2026-10-25": [
@@ -682,7 +705,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Para determinados fins, os investigadores transformam insectos reais em ciborgues – o que levanta algumas preocupações éticas – por isso, por vezes, constroem robôs inspirados em besouros a partir do zero. Uma equipe do Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST) está trabalhando em um novo robô chamado BeetleBot, e sua aparência nem é a coisa mais interessante sobre ele. Para projetar o BeetleBot, os pesquisadores se inspiraram em um besouro real chamado Mecynorrhina torquata – um dos maiores insetos do mundo, nativo do Congo, Camarões e Uganda.\nEmbora apenas esses músculos precisem ser aquecidos, e não todo o robô, tal mecanismo ainda requer bastante energia para gerar esse calor. O robô envia informações visuais da câmera para o humano em tempo real, o humano responde com um determinado gesto, o robô segue o comando e envia feedback imediato."
 }
 ],
 "2026-10-24": [
@@ -705,7 +729,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "e6d4ea57d9aa11",
@@ -726,7 +750,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Explorar o mundo subaquático requer robôs que possam se mover tão naturalmente quanto os peixes e, idealmente, se misturar tanto quanto possível. Há alguns anos, a mesma equipe projetou um robô aquático inspirado em uma arraia manta. Mas o novo robô pode manobrar em três dimensões usando alguns membros elásticos e apenas dois atuadores. Seu design faz parte do trabalho, permitindo que o robô se mova em três modos diferentes.\nO robô estrela de penas usa um princípio semelhante. À medida que as asas se recuperam, o robô pode descer. Os pesquisadores esperam que o robô possa abrir novas possibilidades para a exploração subaquática e que possa ser usado para diversas aplicações: desde carregar câmeras e levantar objetos até trabalhar ao lado de outros robôs aquáticos."
 }
 ],
 "2026-10-23": [
@@ -751,7 +776,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Sua seleção semanal de vídeos incríveis de robôs"
 },
 {
 "id": "31295dfc3e917a",
@@ -772,7 +798,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
-"mx": 0
+"mx": 1,
+"rx": "Quando a luz atinge uma pequena imperfeição dentro de um material como o diamante ou o carboneto de silício, ela pode transferir energia para os elétrons e empurrá-los para um estado excitado. Essas imperfeições, conhecidas como defeitos de spin, podem se tornar blocos de construção valiosos para futuras tecnologias quânticas, incluindo sensores quânticos. \"Este processo de conversão interna não é relevante apenas para defeitos de spin - também está relacionado a processos de interesse para tecnologias de energia, \"disse Giulia Galli, Professora de Estrutura Eletrônica e Simulações da Família Liew na UChicago PME e no Departamento de Química e autor sênior do estudo.\nEntretanto, os cientistas estão a expandir a sua abordagem para investigar defeitos de spin no silício, bem como em materiais utilizados em tecnologias energéticas onde a conversão interna influencia a forma como a energia é transferida ou perdida."
 },
 {
 "id": "d9f200af0b9db9",
@@ -794,7 +821,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
-"mx": 0
+"mx": 1,
+"rx": "Pesquisadores do MIT demonstraram que uma única camada de células musculares vivas cuidadosamente projetada pode gerar força suficiente para impulsionar um minúsculo robô para frente. Os engenheiros desenvolveram um robô nadador extremamente fino que usa tecido muscular vivo para mover suas nadadeiras. Ao direcionar a luz para qualquer uma das nadadeiras, os pesquisadores podem desencadear contrações musculares que fazem a nadadeira bater e empurrar o robô através da água.\nO dispositivo representa a primeira demonstração de um robô bidimensional muito fino que pode se mover de um lugar para outro usando tecido muscular vivo. Pulsos repetidos de luz estimularam a contração das células, fortalecendo o tecido muscular antes de ser incorporado ao robô nadador. Com a estrutura do gel otimizada e as células musculares fortalecidas, os pesquisadores montaram seu aparelho de natação."
 },
 {
 "id": "2ca1fedc75e81c",
@@ -815,7 +843,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Claire conversou com Jan Petrš da École Polytechnique Fédérale de Lausanne (EPFL) e da Déploya Robotics sobre novos projetos de robôs para construção e arquitetura. Jan Petrš é roboticista, arquiteto e empresário que trabalha na interseção entre robótica e construção. Atualmente é cofundador da Déploya Robotics, uma spin-off da EPFL que desenvolve sistemas robóticos implantáveis ​​para instalação automatizada de fachadas. Anteriormente, foi pesquisador de pós-doutorado no Laboratório de Sistemas Inteligentes da EPFL, onde se concentrou em robótica de tensegridade. A sua investigação de doutoramento na Universidade Técnica Checa concentrou-se no desenvolvimento de um sistema robótico que combina robótica reconfigurável e suave para aplicações arquitetónicas e de construção."
 },
 {
 "id": "8a0fa786e4609c",
@@ -836,7 +865,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 }
 ],
 "2026-10-22": [
@@ -860,7 +889,8 @@
 "p": 10.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "O ex-líder científico da OpenAI, Kevin Weil, lançou a Warp Sciences, uma nova startup de IA focada na automatização do trabalho de laboratório para descoberta de medicamentos. A empresa, que treina robôs para fabricar e testar compostos promissores identificados por pesquisadores, arrecadou US$ 215 milhões com uma avaliação de US$ 865 milhões, segundo Weil, que anunciou a inicialização e o financiamento do X. A rodada foi liderada pela Lightspeed, com a participação de IVP, Mayfield, Lux Capital, Premji Invest e Menlo Ventures.\nCom a Warp Sciences, Weil espera reestruturar esse trabalho e isolar todo o processo de desenvolvimento de medicamentos dos riscos geopolíticos da cadeia de abastecimento. Usando câmeras e luvas com sensores, os químicos humanos da startup treinarão robôs para realizar diversas tarefas de laboratório. Ao automatizar o trabalho de laboratório úmido, a Warp Sciences pretende acelerar a descoberta de medicamentos usando robôs que possam operar 24 horas por dia."
 },
 {
 "id": "21b52c943dc916",
@@ -881,7 +911,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "The Guardian",
-"mx": 0
+"mx": 1,
+"rx": "O diretor transformou o aclamado romance de Kazuo Ishiguro sobre uma adolescente doente e seu amigo robô problemático em um filme instigante. O que a dupla acha que esta história diz sobre tecnologia, amor e tristeza? E os jovens influenciadores adoram Klara and the Sun – a adaptação de Waititi do aclamado romance de Kazuo Ishiguro – enquanto a maioria dos críticos mais velhos discorda veemente e violentamente. Em parte, é sobre isso que o filme trata.\nVocê faz o filme porque ama o livro. Klara e o Sol é uma história de amor, mas também trata de isolamento: a distância entre as pessoas; os limites da compreensão. É o meu filme do ano.”"
 },
 {
 "id": "d4ad264bd770c5",
@@ -903,7 +934,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 }
 ],
 "2026-10-21": [
@@ -926,7 +957,7 @@
 "p": 12.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2c9536723835ab",
@@ -947,7 +978,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "The Guardian",
-"mx": 0
+"mx": 1,
+"rx": "Musk diz que “há muito mérito” em uma possível fusão que exigiria a aprovação de 50% de todos os acionistas da Tesla, mas se recusou a entrar em detalhes. Os investidores estavam prestando muita atenção à divulgação dos lucros do terceiro trimestre da Tesla na tarde de quarta-feira, depois que o presidente-executivo Elon Musk apresentou a ideia de fundir a empresa automobilística com sua empresa de foguetes e IA, a SpaceX.\n“Com relação a uma potencial fusão com a SpaceX, acho que disse tudo o que deveria ser dito ontem”, disse Musk, o CEO de ambas as empresas, na teleconferência de resultados da Tesla. Numa teleconferência com investidores da SpaceX na terça-feira, Musk disse que seria uma “boa ideia” combinar as duas empresas e que “há muito mérito” que viria com isso. Na semana passada, Musk revelou o carro esportivo elétrico da empresa, o Roadster 2, que, segundo ele, usa tecnologia da SpaceX para “basicamente voar como um foguete”."
 },
 {
 "id": "bfb51e6eac2f70",
@@ -968,8 +1000,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
+"mx": 1,
 "cur": 1,
-"mx": 0
+"rx": "O medicamento, retatrutida, pertence a uma nova geração de medicamentos GLP-1 desenvolvidos para ajudar a regular o apetite e o peso corporal. Pesquisadores da Universidade da Pensilvânia analisaram quase 150 mil postagens e comentários do Reddit de aproximadamente 40 mil usuários para investigar essas contas. Os utilizadores do Reddit representam uma população muito diferente dos participantes dos ensaios clínicos, e as suas contas não conseguem estabelecer se o medicamento causou os sintomas que descreveram.\n“Não podemos dizer que a retatrutida esteja causando esses sintomas, ou mesmo que os usuários do Reddit estejam realmente tomando retatrutida genuína, uma vez que a droga não está disponível legalmente e as formulações do mercado paralelo variam”, diz Lyle Ungar, professor do CIS e coautor do estudo. Mas entre os usuários do Reddit que relataram tomar retatrutida não aprovada, o padrão parecia diferente."
 },
 {
 "id": "c4ee3f30eef45f",
@@ -990,7 +1023,8 @@
 "p": 5.1,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "A Tesla iniciou a produção de seu robô humanóide Optimus em sua fábrica em Fremont, Califórnia, em um espaço de fabricação antes dedicado à fabricação de veículos elétricos, anunciou a empresa na quarta-feira. O CEO da Tesla, Elon Musk, disse em uma teleconferência que considera esta “produção inicial” e que a rampa será lenta e “um tanto acidentada porque é um produto radicalmente novo”. Mesmo assim, ele afirmou que a Tesla será capaz de fabricar 20.000 deles por semana até o final de 2027.\nAs receitas da Tesla permaneceram estáveis e as suas despesas dispararam à medida que pressionou o acelerador nos seus robôs Optimus, IA e condução autónoma. A Tesla viu um declínio anual de 16% na receita de seu negócio de armazenamento de energia solar e de energia, para US$ 2,8 bilhões, culpa que atribuiu a reembolsos de clientes relacionados a tarifas."
 }
 ],
 "2026-10-20": [
@@ -1013,7 +1047,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "São solicitadas indicações para o Prêmio de Pesquisa de Agentes Autônomos ACM SIGAI 2027. Este prêmio é concedido pela excelência em pesquisas na área de agentes autônomos. Pretende-se reconhecer investigadores em agentes autónomos cujo trabalho atual seja uma influência importante na área. O prêmio é um prêmio oficial da ACM, financiado por uma doação criada pela ACM SIGAI a partir dos rendimentos de conferências anteriores de Agentes Autônomos. O ganhador do prêmio receberá um prêmio monetário e um certificado, e será convidado a apresentar uma palestra plenária na conferência AAMAS 2027.\nAs indicações devem ser feitas preenchendo este formulário do Google e devem consistir em uma breve declaração (<1 página) que enfatize não apenas as contribuições de pesquisa que o indivíduo fez que merecem o prêmio, mas também como o trabalho atual do indivíduo é uma influência importante na área."
 },
 {
 "id": "535b2e4e9386d7",
@@ -1034,7 +1069,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "15705003f60bff",
@@ -1056,7 +1091,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "Isso pode estar prestes a mudar, graças a uma arquitetura de manipulação construída pela Eka Robotics, que engloba uma pinça sensível à força e um novo tipo de modelo de aprendizagem profunda. Em uma era de demonstrações robóticas sem fim, as capacidades do Eka estão chocando os construtores de robôs veteranos. O robô Eka “foi capaz de se adaptar a um grande número de objetos diferentes sem retreinamento”, disse Hauser, acrescentando que também tinha um aspecto de “humanidade, uma humanidade assustadora que tentaria repetidamente se falhasse na primeira vez”.\nOutro roboticista, que pediu anonimato por causa de seu trabalho em um laboratório de fronteira, disse ao TechCrunch que ver o robô de Eka em ação foi uma experiência emocional, comparável a quando os robôs alcançaram pela primeira vez uma locomoção confiável com pernas, cinco a 10 anos atrás."
 },
 {
 "id": "2d379e8ffc916c",
@@ -1078,7 +1114,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "É o momento que todos estão esperando – o momento ChatGPT para a robótica, explicou Amulya Vishwanath ao TechCrunch’s Equity. Ela é fundadora e sócia-gerente da Techable Ventures, uma empresa de capital de risco focada em IA física, que começou depois de passar quase sete anos como comerciante de produtos na Nvidia. “Muitas empresas e especialistas têm falado sobre o momento ChatGPT para a robótica”, disse ela, acrescentando que neste momento a indústria está mais na “era LEGO”.\n“Há muitos softwares básicos e blocos de construção para a robótica que estão sendo repensados ​​neste momento, e isso é muito importante para que a inovação cresça”, continuou ela. Este é um dos “fossos” de sua empresa, disse ela, ajudando a conectar os fundadores aos principais talentos para que possam permanecer competitivos agora, já que muitos talentos estão indo para grandes empresas como Anthropic e Nvidia."
 }
 ],
 "2026-10-19": [
@@ -1101,7 +1138,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "O autor e cofundador da Agility Robotics, Jonathan Hurst, ao lado de seu novo robô humanóide Digit 5. Agility Robotics, a empresa que fundei em meu laboratório de robótica na Oregon State University em 2015, acaba de lançar o Digit 5. O dígito 5 é o objetivo que a Agility vem trabalhando há mais de uma década. O Dígito 1, que adicionou um torso e braços às pernas de Cassie, foi nosso primeiro robô de manipulação móvel e mais um passo no caminho em direção a um produto que poderia realizar um trabalho útil para clientes comerciais.\nO Dígito 5 será o primeiro passo real da Agility em direção a um robô de uso geral. Pesando mais de 120 kg, o Digit 5 ​​é um enorme robô. Com o Digit 5, a Agility construiu um robô que será útil em nosso mundo."
 },
 {
 "id": "df1cd74f8c1816",
@@ -1123,7 +1161,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Mas, como descobriram os engenheiros do MIT, mesmo uma única camada de células musculares pode passar pela água se for projetada corretamente. Em seu novo trabalho, a equipe do Raman Lab teve como objetivo maximizar os movimentos musculares para produzir mais força – o suficiente, digamos, para alimentar um robô nadador. Eles carimbaram um disco de gel com um padrão de sulcos concêntricos e radiais e depositaram células musculares vivas na superfície do gel.\nEm seu novo trabalho, a equipe teve como objetivo maximizar os movimentos musculares para produzir mais força – o suficiente, por exemplo, para alimentar um robô nadador. A equipe também variou a espessura do gel e descobriu que um filme de GelMa com meio milímetro de espessura oferecia um bom suporte para uma única camada de células musculares. Com as células bombeadas e o gel otimizado, a equipe projetou um robô fino de duas aletas, composto pelo gel, estampado em ambos os lados com ranhuras de fundo quadrado e revestido com células musculares."
 },
 {
 "id": "1d528d3cc018e3",
@@ -1144,7 +1183,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 0
+"mx": 1
 },
 {
 "id": "448617650f8a8e",
@@ -1166,7 +1205,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "“Imagine se algo assim acontecesse no mundo físico”, disse Howie Sun, CEO e cofundador da Laplace Intelligence, ao TechCrunch. “Os agentes de IA estão migrando dos computadores para o mundo real e não queremos realmente que a IA física falhe no mundo real.” Laplace é uma das 20 startups competindo no Startup Battlefield 200, a competição de startups que acontece no TechCrunch Disrupt em São Francisco esta semana, de 13 a 15 de outubro.\n“Percebi que queria construir isso e transformá-lo em uma pesquisa puramente acadêmica em um produto que fosse útil no mundo real”, disse Sun. O objetivo é garantir que qualquer IA física – seja um robô, um veículo autônomo ou uma solução de cidade inteligente – esteja segura na simulação antes de ser implantada no mundo real."
 }
 ],
 "2026-10-17": [
@@ -1189,8 +1229,9 @@
 "p": 11.6,
 "cr": 3,
 "cv": "New Atlas",
+"mx": 1,
 "cur": 1,
-"mx": 0
+"rx": "Na realidade, descreve uma nova plataforma robótica que os cientistas criaram para uma implantação rápida e a longo prazo para monitorizar águas remotas. Pesquisadores da Universidade de Tecnologia e Design de Cingapura (SUTD) desenvolveram o que chamam de ALBATROS, abreviação de Airborne Lander with Buoyant AuToROtating Sailing Sensor; uma plataforma robótica conceitual inspirada na natureza que pode ser implantada a partir de uma aeronave sobre águas remotas, pousar na água, endireitar-se e navegar de forma autônoma usando energia eólica.\n“Com o ALBATROS, queríamos usar o melhor dos dois mundos: a velocidade da implantação aérea para alcançar rapidamente águas remotas e a resistência da navegação para permanecer lá para monitoramento de longa duração.” Num cenário prático, uma aeronave transporta a plataforma ALBATROS através de águas abertas e a posiciona sobre uma área designada."
 },
 {
 "id": "ccc78e744f5c1e",
@@ -1211,7 +1252,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "The Guardian",
-"mx": 0
+"mx": 1,
+"rx": "Sempre que uma nova tecnologia for criada, ela será, sem exceção, imediatamente usada para assediar meninas e mulheres. Agora deixe-me apresentar a minha regra 35: sempre que uma nova tecnologia for criada, ela será, sem exceção, imediatamente usada para assediar meninas e mulheres. Como qualquer um poderia ter previsto, colocar uma pequena câmera e um microfone em óculos inteligentes levaria imediatamente as pessoas a usá-los para gravar e assediar mulheres. Na verdade, na palestra do Meta Connect 2026, Mark Zuckerberg não sentiu necessidade de pedir desculpas às mulheres cujas vidas foram afetadas pela sua tecnologia.\nE, claro, existem os geradores de imagens de IA, que têm sido usados ​​para criar pornografia falsa de mulheres e meninas. De acordo com um relatório de 2023, “a pornografia deepfake representou 98% de todos os vídeos deepfake online e 99% retratava mulheres”."
 }
 ],
 "2026-10-16": [
@@ -1235,7 +1277,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Sua seleção semanal de vídeos incríveis de robôs"
 },
 {
 "id": "b75d62d644deac",
@@ -1256,7 +1299,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Claire conversou com Rika Antonova, da Universidade de Cambridge, sobre o uso de inteligência artificial para desenvolver hardware e algoritmos robóticos complementares. Rika Antonova é professora associada da Universidade de Cambridge. Seus interesses de pesquisa incluem co-design, descoberta automatizada de algoritmos, aprendizagem por reforço com eficiência de dados, exploração, aprendizagem ativa e robótica. Depois de concluir um mestrado de pesquisa no Instituto de Robótica da Universidade Carnegie Mellon e um doutorado no KTH Royal Institute of Technology, Rika recebeu uma bolsa de inovação em computação na Universidade de Stanford. Antes disso, ela era engenheira de software sênior no Google."
 },
 {
 "id": "0a59a8c9363b8e",
@@ -1277,7 +1321,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Lembra-se daquele jogo de “lápis dançantes” que os alunos brincavam, em que passavam dois lápis por um pequeno elástico, torciam-nos repetidamente e depois os soltavam para fazer os lápis pularem enquanto o elástico se desenrolava? Pesquisadores da Escola de Engenharia Samueli da UCLA e da Universidade de Michigan construíram um robô parecido com um sapo que se move usando hastes flexíveis que se alternam repetidamente entre as formas. Pequenos motores carregam as hastes com energia, que elas liberam em rajadas repentinas para impulsionar a máquina. O robô pode pular na grama e na areia, subir pequenos degraus e, com nadadeiras presas, até nadar.\nAgora, os engenheiros já usam molas para contornar este problema: um motor carrega gradualmente a mola, armazenando a energia cinética do motor como energia potencial que pode então ser libertada rapidamente para lançar o robô."
 },
 {
 "id": "84c2c565c396ae",
@@ -1298,7 +1343,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "Amulya Vishwanath, que passou sete anos liderando o marketing de produtos para as plataformas robóticas da NVIDIA, diz que a robótica está atualmente em sua “era Lego”, com os blocos de construção básicos como atuadores, mãos robóticas, software e padrões de segurança ainda sendo reconstruídos. Esta visão vai contra aqueles que acreditam que a robótica, alimentada por um modelo de base geral, está prestes a ter o seu “momento ChatGPT” – aquele dia em que o chatbot surpreendentemente capaz foi lançado no final de 2022. (O CEO da General Intuition, Pim de Witte, disse à Equity no início deste ano que um único modelo de base geral tornaria redundante grande parte do trabalho robótico especializado de hoje, e seria esse momento.)\nNeste episódio do podcast Equity do TechCrunch, Dominic-Madori Davis conversou com Vishwanath para discutir onde ela está assinando os primeiros cheques como fundadora e sócia-gerente da Techable VC."
 },
 {
 "id": "1db14d807722c8",
@@ -1320,7 +1366,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "Amulya Vishwanath, que passou sete anos liderando o marketing de produtos para as plataformas robóticas da NVIDIA, diz que a robótica está atualmente em sua “era Lego”, com os blocos de construção básicos como atuadores, mãos robóticas, software e padrões de segurança ainda sendo reconstruídos. Esta visão vai contra aqueles que acreditam que a robótica, alimentada por um modelo de base geral, está prestes a ter o seu “momento ChatGPT” – aquele dia em que o chatbot surpreendentemente capaz foi lançado no final de 2022. (O CEO da General Intuition, Pim de Witte, disse à Equity no início deste ano que um único modelo de base geral tornaria redundante grande parte do trabalho robótico especializado de hoje, e seria esse momento.)\nNeste episódio do podcast Equity do TechCrunch, Dominic-Madori Davis conversou com Vishwanath para discutir onde ela está assinando os primeiros cheques como fundadora e sócia-gerente da Techable VC."
 }
 ],
 "2026-10-15": [
@@ -1343,7 +1390,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "The Guardian",
-"mx": 0
+"mx": 1,
+"rx": "O diretor de Hunt for the Wilderpeople e Jojo Rabbit transforma a fábula de IA de Kazuo Ishiguro em um conto cansativo e cansativo de amor e tristeza. É uma fatia de capricho sentimental, futurismo e não sátira, adaptado por Waititi do romance de Kazuo Ishiguro, que acaba não dizendo nada substancial ou significativo (ou engraçado) sobre inteligência artificial, amor ou tristeza. Klara and the Sun é uma ficção científica centrada na suavidade, exigindo simultaneamente que riamos de seu humor (sem graça) e enxugamos uma lágrima por sua pungência.\nUma dessas AF é a adolescente Klara, interpretada por Jenna Ortega como uma inocente estúpida, fofa e extremamente adorável: um robô dos sonhos duende maníaco - só que legal - que é movido a energia solar e que, portanto, em seu adorável jeito infantil de robô, adora o sol como um deus."
 }
 ],
 "2026-10-14": [
@@ -1366,7 +1414,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Esta ideia simples de que os carros se ajudam mutuamente, descrevendo o que vêem em linguagem natural, motiva o UNCAP, o nosso novo quadro para a condução autónoma cooperativa. A UNCAP ensina aos veículos autónomos com quem devem falar e até que ponto devem confiar no que ouvem. Essas mensagens descrevem veículos próximos, movimento e confiança, que o UNCAP combina antes de tomar uma decisão de direção.\nAvaliamos o UNCAP no popular simulador de direção CARLA usando o benchmark OPV2V, que é um benchmark amplamente utilizado por pesquisadores de direção autônoma. UNCAP: Planejamento neurosimbólico guiado pela incerteza usando comunicação de linguagem natural para veículos autônomos cooperativos, Neel P. Bhatt, Po-han Li, Kushagra Gupta, Rohan Siva, Daniel Milan, Alexander T. Hogue, Sandeep P. Chinchali, David Fridovich-Keil, Zhangyang Wang, Ufuk Topcu."
 },
 {
 "id": "2e447a71d8fc2e",
@@ -1388,7 +1437,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "O primeiro dia do TechCrunch Disrupt 2026 pode ter terminado, mas ainda há muito mais programação do Disrupt no Moscone West de São Francisco nos dias 14 e 15 de outubro. Faltando apenas dois dias para o fim do evento, estamos oferecendo um desconto correspondente: ganhe dois dias inteiros de Disrupt com 50% de desconto em todos os tipos de ingressos, o que torna muito mais fácil assistir a alguns de nossos palestrantes e programação mais cativantes.\nPor exemplo, no Disrupt Stage, ainda temos palestrantes estelares como o ator de primeira linha Mark Wahlberg, o CEO da Replit Amjad Masad, todos os cinco parceiros da Benchmark em uma rara aparição conjunta, Panos Panay da Amazon, o CEO e COO da Bluesky Toni Schneider e Rose Wang… a lista continua. Além disso, a competição de campo do Startup Battlefield 200 ainda está forte no Disrupt Stage."
 }
 ],
 "2026-10-13": [
@@ -1411,8 +1461,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "IEEE Spectrum",
+"mx": 1,
 "cur": 1,
-"mx": 0
+"rx": "Uma das câmeras de navegação do Perseverance capturou esta foto em 11 de outubro de 2026, o dia em que uma viagem de 299,6 pés ultrapassou o recorde de 28,06 milhas do Opportunity em Marte."
 },
 {
 "id": "106143bfb96d49",
@@ -1433,8 +1484,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
+"mx": 1,
 "cur": 1,
-"mx": 0
+"rx": "Mesmo quando a inteligência artificial se comporta exatamente como um ser humano, as pessoas relutam em considerá-la consciente, de acordo com um novo estudo da Universidade Ludwig Maximilian de Munique (LMU). Mas será que comportar-se como um humano realmente convence as pessoas de que uma máquina tem consciência? Uma nova pesquisa da LMU sugere que as pessoas fazem uma distinção clara entre exibir um comportamento inteligente e possuir uma mente consciente, mesmo quando os humanos e a IA agem precisamente da mesma maneira.\nAs pessoas atribuem consistentemente menos consciência à IA do que os humanos - mesmo quando o seu comportamento é idêntico.\" Os investigadores acreditam que a diferença entre consciência e consciência oferece uma visão importante sobre como as pessoas entendem a inteligência artificial."
 },
 {
 "id": "3bfcfa2b67d196",
@@ -1455,7 +1507,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "Agora o executivo está voltando sua atenção para o mais recente projeto do CEO da Rivian, RJ Scaringe: Mind Robotics. Field foi contratado como presidente da Mind Robotics, um empreendimento industrial de IA e robótica criado no ano passado por Scaringe e apoiado por Rivian. Scaringe ainda estará envolvido com a Mind Robotics, mas os aspectos do dia a dia do negócio, incluindo produto, engenharia e operações, serão tratados por Field.\nA participação de Rivian na Mind Robotics foi diluída desde que recebeu apoio adicional; Rivian detém 32,1% de participação na Mind Robotics em junho de 2026, de acordo com registros regulatórios. Assim como acontece com Field e Mind Robotics, Scaringe está envolvido como presidente da Also, mas contratou alguém para administrar o dia-a-dia: Chris Yu, ex-diretor de produto da Specialized."
 },
 {
 "id": "f267b0c17dba1c",
@@ -1476,7 +1529,8 @@
 "p": 4.3,
 "cr": 2,
 "cv": "TechCrunch",
-"mx": 0
+"mx": 1,
+"rx": "O objetivo é permitir que os fabricantes automatizem tarefas complexas e delicadas que tradicionalmente exigem trabalho humano. A Industrial Next foi fundada em 2021 por Lukas Pankau e Allen Pan, que já trabalharam na Tesla. Pankau observa que os robôs industriais tradicionais são normalmente programados para executar tarefas altamente específicas e repetíveis. Eles realizam tarefas que os fabricantes tentaram e não conseguiram automatizar durante anos, como passar um cabo flexível delicado e encaixar uma pequena tampa de conector no lugar. (Ele não tinha liberdade de divulgar o cliente.) Ele também descreveu uma estação de “remoção de filme”, onde seus robôs alimentados por IA retiram a película protetora dos módulos e botões da câmera na velocidade humana ou acima dela com 100% de precisão, mesmo quando movidos para um novo modelo de telefone e linha de produção que eles nunca viram."
 }
 ],
 "2026-10-12": [
@@ -1502,7 +1556,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Nos recentes Jogos Mundiais de Robôs Humanóides de 2026, em Pequim, os robôs correram, lutaram boxe, jogaram futebol e realizaram tarefas inspiradas em fábricas, restaurantes e situações de emergência. Mas se quisermos realmente saber se os robôs humanóides estão prontos para a vida quotidiana, um desafio muito menos glamoroso poderá dizer-nos mais: lavar a roupa. Será que um robô consegue tirar uma camiseta amassada de um cesto de roupa suja, descobrir em que direção ela fica, dobrá-la com cuidado e recuperá-la quando a manga escorregar de sua mão?\nNenhum sistema robótico consegue ainda lidar de forma confiável com todo o processo de lavanderia, desde carregar um cesto até a máquina de lavar e separar as roupas para diferentes programas, até retirá-las, pendurá-las para secar, dobrá-las e passá-las. A lavanderia é um problema muito diferente."
 },
 {
 "id": "8d2dd139afe497",
@@ -1523,7 +1578,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Aquele velho telefone acumulando poeira em uma gaveta poderia ter uma segunda vida muito mais divertida do que ser um peso de papel. Pesquisadores da UCLA criaram o PhoneBot, um pequeno humanóide que coloca seu smartphone para funcionar como o cérebro de um robô ambulante. Em uma pré-impressão publicada no arXiv, a equipe descreve um robô bípede que usa um smartphone como torso, olhos e cérebro.\nNo robô real, a equipe demonstrou caminhar, seguir uma pessoa com a câmera e levantar-se deitada de bruços. Caminhada e visão funcionam no próprio telefone. Os pesquisadores testaram o PhoneBot em quatro telefones Android: um Honor 9 de 2017 e três modelos pré-pagos comprados por cerca de US$ 50 a US$ 80. Ainda assim, o artigo não estabelece que o PhoneBot funcionará com todos os telefones Android."
 }
 ],
 "2026-10-11": [
@@ -1546,7 +1602,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Se você já projetou um robô de corpo mole, isso vai contra o propósito se você simplesmente colocar um motor rígido dentro dele. É por isso que os cientistas suíços criaram um motor que tem a forma de uma fibra fina e flexível. Variando em diâmetro de 1 a 3 milímetros, cada FiberMotor é na verdade composto por duas fibras de polímero ocas concêntricas – uma mais larga na parte externa, com uma mais estreita aninhada dentro dela. Um fio de cobre fino é enrolado firmemente em torno de cada uma das fibras, servindo como eletrodo em cada fibra.\n“Nosso FiberMotor é o primeiro motor deslizante em formato de fibra”, diz Herbert Shea, chefe do Laboratório de Transdutores Suaves da EPFL. “Ele produz força suficiente para acionar dispositivos para aplicações robóticas suaves, permanecendo silencioso, flexível e bidirecional.”"
 },
 {
 "id": "ccf8f2c90df556",
@@ -1567,7 +1624,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Recentemente, cobrimos seu robô inspirado em peixes, então explorar corpos d'água parece estar resolvido. Uma bomba na seção intermediária move esses 300 gramas (10,6 onças) de água entre a cabeça e a cauda, ​​mudando o centro de massa do robô dependendo de onde ele precisa ir. Quando o WorMa precisa escalar uma superfície inclinada, a água se desloca em direção à sua cabeceira. A massa de água move-se para a cauda, ​​deslocando o peso do robô para trás e ajudando-o a nadar cerca de 26% mais rápido do que poderia de outra forma. E quando precisa sair da água e voltar para a costa, a água se move novamente em direção à cabeça, dando à frente do robô tração suficiente para puxar-se para uma superfície inclinada.\nUma vez que a cabeça e a articulação do “pescoço” estejam ancoradas na borda do degrau, a água se desloca novamente para a cabeça, para que o robô possa puxar a cauda para frente e o ciclo se repete."
 }
 ],
 "2026-10-10": [
@@ -1590,7 +1648,8 @@
 "p": 11.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Já vimos robôs que podem nadar como peixes, aderir às paredes como lagartixas e agarrar objetos como elefantes. Agora, engenheiros da Universidade de Washington estão construindo um novo tipo de robô inspirado… na pulga. Os pesquisadores chamaram seu novo projeto de DirectHop, o que revela a ideia principal: é um robô saltitante. A maioria dos robôs saltadores existentes usa um mecanismo de carregamento por mola, que tem um problema de “tudo ou nada”: eles são projetados para liberar uma quantidade fixa de energia, tornando muito difícil ajustar a altura e a distância de cada salto.\nDirectHop é capaz de pular mais alto do que uma escada padrão, o que é bastante impressionante para um robô do seu tamanho. A parte interessante é que o robô não salta empurrando com as pernas como fazem os insetos ou sapos."
 }
 ],
 "2026-10-09": [
@@ -1614,7 +1673,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Live Science",
-"mx": 0
+"mx": 1,
+"rx": "Um robô de quatro patas completou uma maratona completa com uma única carga de bateria, percorrendo 42,2 quilômetros em um percurso montanhoso em uma estrada pública na Coreia do Sul, há dois anos. O robô parecido com um cachorro, chamado RAIBO2, terminou a 22ª Maratona Anual de Caqui Seco de Sangju em pouco mais de 4 horas e 19 minutos. Os desenvolvedores do bot dizem que é o primeiro robô quadrúpede a completar uma prova oficial de maratona sem parar para recarregar.\nO RAIBO2 já havia percorrido uma rota guiada por GPS de 26,7 milhas (43 km) através de um campo de atletismo plano, que derrubou em 4 horas e 40 minutos com uma carga. No entanto, uma tentativa anterior de maratona em terreno irregular contra outros competidores teve que ser abortada perto da marca de 37 km depois que a bateria do robô acabou."
 },
 {
 "id": "96aa397c58482d",
@@ -1636,7 +1696,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Mesmo que seja IA, uma piscina de bolinhas torna o descomissionamento divertido para o robô – ou apenas para quem está assistindo?"
 },
 {
 "id": "a3814cfc4afef9",
@@ -1657,7 +1718,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Claire conversou com Kushant Patel, do Laboratório Nacional de Brookhaven, sobre robôs que trabalham em instalações científicas, como aceleradores de partículas. Kushant Patel desenvolve software que ajuda robôs e instrumentos a perceber, mapear e se mover pelo mundo físico. Depois de concluir um mestrado em Engenharia Mecatrônica na Universidade de Waterloo, ele passou dois anos na Universidade da Califórnia, Berkeley, ensinando robôs quadrúpedes para mapear e inspecionar materiais nucleares, e um ano na Universidade da Califórnia, Davis, construindo interfaces cérebro-computador de circuito fechado. No Laboratório Nacional de Brookhaven, ele está desenvolvendo sistemas de controle para linhas de luz síncrotron avançadas."
 },
 {
 "id": "8e3487fd93ea8b",
@@ -1700,7 +1762,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Com um pouco de modificação e treinamento, uma mão robótica pronta para uso pode ser um robô móvel completo."
 }
 ],
 "2026-10-07": [
@@ -1723,7 +1786,8 @@
 "p": 11.6,
 "cr": 3,
 "cv": "Live Science",
-"mx": 0
+"mx": 1,
+"rx": "Acesso ilimitado aos nossos recursos exclusivos, análises de especialistas e entrevistas detalhadas, tudo sem anúncios. Em 18 de agosto na revista Science Advances, os pesquisadores investigaram como a torção de hastes elásticas dobradas poderia produzir um \"movimento de estalo\" que permitia a um pequeno robô pular ou nadar. “A oportunidade mais ampla é permitir que a mecânica do robô faça parte do trabalho que, de outra forma, exigiria motores maiores ou um controle mais complicado”, disse Xiaonan (Sean) Huang, professor assistente de robótica na Universidade de Michigan e co-primeiro autor do estudo, disse em um comunicado.\n“No futuro, este princípio poderá ser útil para robôs que devem navegar em terrenos desordenados, superar obstáculos, reorientar-se rapidamente ou operar tanto em terra como na água.” Quando uma haste flexível se dobra e suas extremidades são giradas, ela pode eventualmente chegar a um ponto em que muda de forma para liberar a tensão acumulada, disseram os roboticistas."
 },
 {
 "id": "259ac77af9d3d5",
@@ -1744,7 +1808,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Os sistemas de captura de movimento de laboratório registram movimentos precisos, mas geralmente cobrem apenas um conjunto restrito de ações. Este white paper examina o HiPHI, um conjunto de dados de movimento humano de corpo inteiro de 617,5 horas capturado com captura óptica de movimento com precisão submilimétrica. O artigo também apresenta um conjunto de benchmark para medir a diversidade de movimento e aterramento de interação, e relata resultados de políticas treinadas no conjunto de dados e implantadas em um robô humanóide físico Unitree G1.\nTópicos do mesmo nível 3 + mesmo patrocinador [1], 2. Tópicos do mesmo nível 2 + mesmo patrocinador [1], 3. Qualquer tópico + mesmo patrocinador [1], 2. Mesmas tags + mesmo patrocinador [1], 3."
 },
 {
 "id": "d82d439fcb604b",
@@ -1765,7 +1830,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "No mês passado, fui a York construir um robô. Voltei com um robô, uma pequena sensação de conquista em forma de troféu e, de alguma forma, alguns novos amigos. De 25 a 27 de agosto, participei do UK RAS STEPS MicroMaze Robot Hackathon no Institute for Safe Autonomy da Universidade de York. A tarefa parecia simples: construir um pequeno robô autônomo e depois fazê-lo sobreviver a labirintos cada vez mais difíceis.\nAo longo de três dias, Emily, Joolz e eu passamos de uma caixa de peças e um chassi cortado a laser para um robô que poderia realmente percorrer um labirinto. Há algo bastante apropriado em pedir a uma sala cheia de técnicos que faça um pequeno robô autônomo se comportar sozinho. Um enorme obrigado a (sempre espirituoso e brincalhão) Rob Woolley por organizar o hackathon, e ao Institute for Safe Autonomy, Universidade de York e à equipe RAS STEPS do Reino Unido por criar essas oportunidades para Profissionais Técnicos de Pesquisa."
 },
 {
 "id": "607703e10baa49",
@@ -1787,7 +1853,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Os pesquisadores desenvolveram uma membrana fina como papel que permite que microrobôs rastejantes coletem eletricidade diretamente do solo abaixo deles, livrando-se de baterias pesadas a bordo, transformando superfícies de metal e silício em uma fonte de energia ativa. Minúsculos microrrobôs poderiam escapar através dos escombros para localizar sobreviventes do terremoto ou inspecionar as fendas mais estreitas dos reatores nucleares, mas o seu maior obstáculo continua a ser notavelmente mundano: a energia.\nPesquisadores da Universidade Fudan, na China, contornaram totalmente o armazenamento a bordo, transformando o solo abaixo da máquina em uma fonte de alimentação. Em um estudo publicado na National Science Review, a equipe demonstrou uma membrana macia e fina como papel presa à almofada dos pés de um robô que gera eletricidade instantaneamente enquanto pisa em superfícies ativas como alumínio, zinco ou silício."
 }
 ],
 "2026-10-06": [
@@ -1810,7 +1877,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "A Agilink, uma subsidiária da gigante chinesa de robótica AgiBot, pediu a Fu Xianghong, um mestre do bordado tradicional de Suzhou, que treinasse seu OmniHand 3 Ultra. A mão sintética aprendeu a dividir fios de seda, enfiar a linha na agulha, esticar o tecido na moldura e costurar, seguindo um ofício com mais de 2.500 anos de história. Uma etapa fundamental no bordado Suzhou é dividir o fio de seda principal em fios individuais (16, de acordo com o vídeo abaixo).\nA Agilink não disse exatamente qual modelo aparece no vídeo, mas parece idêntico ao OmniHand 3 Ultra-M. Essa versão tem aproximadamente o tamanho de uma mão humana e pesa 630 g (1,4 lb). A Boston Dynamics seguiu outro caminho com a mão recém-revelada para seu robô Atlas, que possui apenas quatro dígitos."
 }
 ],
 "2026-10-05": [
@@ -1833,7 +1901,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Dar aos companheiros robôs rostos e vozes semelhantes aos de animais ou de anime poderia maximizar seu apelo emocional aos usuários, de acordo com uma nova pesquisa que poderia ajudar a orientar o crescente campo da robótica social. “No entanto, o design estético dos robôs sociais zoomórficos até agora tem sido em grande parte o resultado de suposições fundamentadas, com muito pouca investigação disponível sobre o que os torna atractivos para os utilizadores.\nNesta pesquisa, a equipe começou criando um ‘mood board’ com imagens atraentes de animais e robôs retiradas da vida real e da cultura popular para ajudá-los a projetar uma série de protótipos de rostos para robôs virtuais. “Esperamos que nossas descobertas ajudem a informar o design das futuras gerações de tecnologia de robôs sociais zoomórficos, mas também possam estender a vida útil dos dispositivos existentes, permitindo que os usuários sobreponham novos rostos, vozes e funcionalidades usando realidade aumentada.”"
 }
 ],
 "2026-10-02": [
@@ -1857,7 +1926,8 @@
 "p": 6.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Sua seleção semanal de incríveis vídeos de robôs inclui um braço modular automontável para recuperação de desastres e uso de drones após as enchentes no Nepal"
 },
 {
 "id": "0f4b22002f9ab0",
@@ -1878,7 +1948,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub",
-"mx": 0
+"mx": 1,
+"rx": "Claire conversou com Michelle Lu, da Vsim Technology, sobre o uso de simulação e inteligência artificial para ensinar novas habilidades aos robôs. Michelle Lu é cofundadora e CEO da Vsim Technology. Anteriormente, ela foi diretora de tecnologia de simulação na NVIDIA, onde ela e seu cofundador criaram a primeira estrutura de aprendizagem por reforço (RL) acelerada por GPU de ponta a ponta do mundo, Isaac Gym, que estabeleceu o modelo de como a RL moderna baseada em simulação acelerada por GPU é executada na robótica. Em 2022, Michelle e seu cofundador deixaram a NVIDIA para criar o Vsim, com o objetivo de resolver as limitações que atormentam a IA robótica baseada em simulação: eficiência, escalabilidade e a lacuna entre o simulador e o real."
 },
 {
 "id": "a9b90ed9dd59c4",
@@ -1900,7 +1971,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas",
-"mx": 0
+"mx": 1,
+"rx": "Um robô do MIT alimentado por uma única camada de células musculares vivas nadou através de um labirinto aquático, seguindo uma luz na mão de um pesquisador. É lento, minúsculo e está longe de estar pronto para o mar aberto, mas seu design fino pode apontar para máquinas de natação mais macias e baratas. O robô tem aproximadamente o tamanho de um chiclete, com células musculares presas a um gel flexível.\nNo projeto anterior da equipe, o gel de fibrina muito macio tendia a enrugar à medida que as células musculares eram puxadas contra ele. Seus pesquisadores dizem que o projeto pode precisar de menos células do que os blocos musculares mais grossos usados ​​em outros robôs biohíbridos. “Atualmente, os robôs biohíbridos do nosso grupo e de outros são construídos a partir de pedaços volumosos e 3D de músculo esquelético cultivado em laboratório que requerem milhões de células para serem fabricados”, diz Raman."
 }
 ],
 "2026-10-01": [
@@ -1923,7 +1995,8 @@
 "p": 12.4,
 "cr": 3,
 "cv": "IEEE Spectrum",
-"mx": 0
+"mx": 1,
+"rx": "Três dedos e um polegar com 13 graus de liberdade é o que a Boston Dynamics diz que sua mão precisa – para fazer quase tudo."
 },
 {
 "id": "948beaea7c564d",
@@ -1944,7 +2017,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
-"mx": 0
+"mx": 1,
+"rx": "Pesquisadores da Universidade da Califórnia, em Los Angeles (UCLA), criaram um novo processador óptico-neural que usa luz para ajudar a identificar vídeos deepfake com rapidez e precisão. Ao contrário dos sistemas convencionais que normalmente examinam vídeos um após o outro usando hardware digital, a tecnologia UCLA pode analisar 15 ou mais fluxos de vídeo ao mesmo tempo. Isto permite que muitos vídeos sejam avaliados simultaneamente durante uma única passagem óptica, em vez de exigir que cada um se mova separadamente através de um pipeline de processamento digital convencional.\nEm experimentos utilizando luz visível, o processador examinou 15 vídeos Celeb-DF simultaneamente durante cada passagem óptica. Os pesquisadores também levaram o sistema ainda mais longe, aumentando sua capacidade para 18 vídeos em uma única passagem óptica."
 }
 ]
 }
