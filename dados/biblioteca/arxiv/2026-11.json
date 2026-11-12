@@ -656,9 +656,8 @@
 "ro": "A representation that accurately predicts a deformable object's response is not necessarily the one most useful for choosing manipulation actions. We study this distinction between predictive utility and decision utility in planar single-grasp shape control of Deformable Linear Objects (DLOs). As a common decision backbone, we introduce Geometry-Pointer-Flow (GPF), a geometry-grounded policy that separates…",
 "au": "Chengxiao Dong, Alessio Caporali, Hongyu Lan, Gianluca Palli",
 "d": "2026-11-11T02:00-03:00",
-"t": "From Prediction to Action: Learning Physical Context for Deformable Linear Object Manipulation",
-"r": "A representation that accurately predicts a deformable object's response is not necessarily the one most useful for choosing manipulation actions. We study this distinction between predictive utility and decision utility in planar single-grasp shape control of Deformable Linear Objects (DLOs). As a common decision backbone, we introduce Geometry-Pointer-Flow (GPF), a geometry-grounded policy that separates…",
-"nt": 1,
+"t": "Da previsão à ação: aprendendo o contexto físico para manipulação de objetos lineares deformáveis",
+"r": "Uma representação que preveja com precisão a resposta de um objeto deformável não é necessariamente a mais útil para a escolha de ações de manipulação. Estudamos esta distinção entre utilidade preditiva e utilidade de decisão no controle de forma planar de compreensão única de Objetos Lineares Deformáveis ​​(DLOs). Como base de decisão comum, apresentamos Geometry-Pointer-Flow (GPF), uma política baseada em geometria que separa…",
 "c": [
 "ia"
 ]
@@ -670,9 +669,8 @@
 "ro": "Generative driving planners can represent diverse ego futures, but a downstream scorer can choose only among sampled candidates; it cannot recover an absent maneuver. We present ForeseeDrive, which turns future scene evolution into a deployable interface for shaping candidate generation. Rather than reconstructing dense future states or scoring a fixed menu, ForeseeDrive derives query-indexed tokens from logged…",
 "au": "Shaokai Wu, Xunchu Zhou, Pinzhi Wang, Bo Dong, Yuting Hu, Yanbiao Ji, Qiuchang Li, Xiao Cui, Qi Kong, Hongtao Lu, Yue Ding",
 "d": "2026-11-11T02:00-03:00",
-"t": "ForeseeDrive: Future-Token Conditioning for Anticipatory Generative Driving",
-"r": "Generative driving planners can represent diverse ego futures, but a downstream scorer can choose only among sampled candidates; it cannot recover an absent maneuver. We present ForeseeDrive, which turns future scene evolution into a deployable interface for shaping candidate generation. Rather than reconstructing dense future states or scoring a fixed menu, ForeseeDrive derives query-indexed tokens from logged…",
-"nt": 1,
+"t": "ForeseeDrive: Condicionamento de Token Futuro para Condução Gerativa Antecipada",
+"r": "Os planejadores de condução generativa podem representar diversos futuros de ego, mas um avaliador posterior só pode escolher entre candidatos amostrados; não pode recuperar uma manobra ausente. Apresentamos o ForeseeDrive, que transforma a evolução futura do cenário em uma interface implantável para moldar a geração de candidatos. Em vez de reconstruir estados futuros densos ou pontuar um menu fixo, o ForeseeDrive deriva tokens indexados por consulta de registros…",
 "c": [
 "geral"
 ]
@@ -684,9 +682,8 @@
 "ro": "Small, holonomic Autonomous Underwater Vehicles (AUVs) enable close-range inspection of underwater structures from arbitrary viewpoints, requiring accurate position and attitude tracking under state and input constraints. Model Predictive Contouring Control (MPCC) naturally handles these requirements, but relies on an accurate dynamics model, which is difficult to obtain underwater. In this paper, we present a…",
 "au": "David D\\\"orner, Giancarlo Troni, Ignacio Torroba, Ivan Stenius",
 "d": "2026-11-11T02:00-03:00",
-"t": "Gaussian Process-Augmented Model Predictive Contouring Control for 6-DoF Trajectory Tracking with a Holonomic AUV",
-"r": "Small, holonomic Autonomous Underwater Vehicles (AUVs) enable close-range inspection of underwater structures from arbitrary viewpoints, requiring accurate position and attitude tracking under state and input constraints. Model Predictive Contouring Control (MPCC) naturally handles these requirements, but relies on an accurate dynamics model, which is difficult to obtain underwater. In this paper, we present a…",
-"nt": 1,
+"t": "Controle de contorno preditivo de modelo aumentado por processo gaussiano para rastreamento de trajetória 6-DoF com um AUV holonômico",
+"r": "Veículos subaquáticos autônomos (AUVs) pequenos e holonômicos permitem a inspeção de perto de estruturas subaquáticas a partir de pontos de vista arbitrários, exigindo posicionamento preciso e rastreamento de atitude sob restrições de estado e de entrada. O Model Predictive Contouring Control (MPCC) atende naturalmente a esses requisitos, mas depende de um modelo dinâmico preciso, que é difícil de obter debaixo d'água. Neste artigo apresentamos um…",
 "c": [
 "geral"
 ]
@@ -698,9 +695,8 @@
 "ro": "Despite the widespread adoption of autonomous vehicle technologies, reliable navigation within cluttered environments remains arduous due to the necessity of interaction-aware strategies; example scenarios include: narrow passages with multiple agents, lane changing in dense traffic, and crossing unsignalized intersections. These scenarios often require highly proactive strategies, simultaneously demanding…",
 "au": "Avinash Singh, Manish Saroya, Fatemeh Cheraghi Pouria, Faizan Tariq, Jovin D'sa, David Isele, Yosuke Sakamoto, Sangjae Bae",
 "d": "2026-11-11T02:00-03:00",
-"t": "SIGMO: Sigmoid Gated Interaction-Aware Motion Planning",
-"r": "Despite the widespread adoption of autonomous vehicle technologies, reliable navigation within cluttered environments remains arduous due to the necessity of interaction-aware strategies; example scenarios include: narrow passages with multiple agents, lane changing in dense traffic, and crossing unsignalized intersections. These scenarios often require highly proactive strategies, simultaneously demanding…",
-"nt": 1,
+"t": "SIGMO: planejamento de movimento com reconhecimento de interação Sigmoid Gated",
+"r": "Apesar da adopção generalizada de tecnologias de veículos autónomos, a navegação fiável em ambientes desordenados continua a ser árdua devido à necessidade de estratégias conscientes da interacção; Exemplos de cenários incluem: passagens estreitas com múltiplos agentes, mudança de faixa em trânsito denso e cruzamento de cruzamentos não sinalizados. Estes cenários exigem muitas vezes estratégias altamente proativas, exigindo simultaneamente…",
 "c": [
 "autonomos"
 ]
@@ -712,9 +708,8 @@
 "ro": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100 tasks, built on our 1st-place 2025 solution, which is based on $\\pi_{0.5}$. On the 50 tasks shared with 2025, its Q…",
 "au": "Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney, Vitaly Kleban, Mirko Kiefer, Anjana Yodaiken",
 "d": "2026-11-11T02:00-03:00",
-"t": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
-"r": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100 tasks, built on our 1st-place 2025 solution, which is based on $\\pi_{0.5}$. On the 50 tasks shared with 2025, its Q…",
-"nt": 1,
+"t": "Uma política para 100 tarefas domésticas: nossa solução para o desafio COMPORTAMENTO de 2026",
+"r": "Descrevemos nossa solução para o Desafio BEHAVIOR 2026: 100 tarefas domésticas de longo horizonte no simulador OmniGibson. Ficamos em 9º lugar na tabela de classificação final, a única equipe independente entre os 10 primeiros. O núcleo da solução é um modelo único de visão-linguagem-ação (VLA), um ponto de verificação para todas as 100 tarefas, construído em nossa solução de 1º lugar em 2025, que é baseada em $\\pi_{0,5}$. Nas 50 tarefas compartilhadas com 2025, seu Q…",
 "c": [
 "ia"
 ]
@@ -726,9 +721,8 @@
 "ro": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the construction order and correctness depends on the evolving assembly rather than a fixed next step. We present TanCRAFT, a four-stage real-time predictive assistance system that tracks the scene state, reasons about the…",
 "au": "Sassan Mokhtar, Lars Doorenbos, Marius Bock, Sina Mokhtar, Katharina Beckh, Dominik Bach, Juergen Gall",
 "d": "2026-11-11T02:00-03:00",
-"t": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
-"r": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the construction order and correctness depends on the evolving assembly rather than a fixed next step. We present TanCRAFT, a four-stage real-time predictive assistance system that tracks the scene state, reasons about the…",
-"nt": 1,
+"t": "TanCRAFT: Feedback antecipado fundamentado no contexto para tarefas de montagem",
+"r": "Prevenir erros humanos em tarefas de montagem física requer sistemas de assistência que possam intervir antes que erros sejam cometidos. Isto é especialmente desafiador em ambientes onde os usuários são livres para escolher a ordem de construção e a correção depende da evolução da montagem, e não de uma próxima etapa fixa. Apresentamos o TanCRAFT, um sistema de assistência preditiva em tempo real de quatro estágios que rastreia o estado da cena, razões sobre o…",
 "c": [
 "geral"
 ]
@@ -740,9 +734,8 @@
 "ro": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each frame with its time step. Because time passes even when nothing happens, such a memory may not tell waiting from working. We show that it does not. On the counting tasks of RoboMME, we make the robot briefly pause or…",
 "au": "Chubin Zhang, Bo An",
 "d": "2026-11-11T02:00-03:00",
-"t": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-"r": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each frame with its time step. Because time passes even when nothing happens, such a memory may not tell waiting from working. We show that it does not. On the counting tasks of RoboMME, we make the robot briefly pause or…",
-"nt": 1,
+"t": "A memória do seu robô é apenas um relógio? Atalhos temporais em políticas VLA com memória aumentada",
+"r": "As políticas de visão-linguagem-ação (VLA) com memória aumentada destinam-se a lembrar o que aconteceu. Muitos deles, no entanto, preenchem a memória com base no tempo: eles amostram quadros uniformemente ao longo do episódio e marcam cada quadro com seu intervalo de tempo. Como o tempo passa mesmo quando nada acontece, essa memória pode não diferenciar a espera do trabalho. Mostramos que não. Nas tarefas de contagem do RoboMME, fazemos o robô pausar brevemente ou…",
 "c": [
 "ia"
 ]

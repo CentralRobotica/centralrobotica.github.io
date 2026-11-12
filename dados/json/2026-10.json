@@ -180,23 +180,6 @@
 ],
 "2026-10-29": [
 {
-"id": "7b870dd7b313c6",
-"t": "O ruído de entrega de drones está se tornando um problema. Zipline tem uma nova resposta",
-"r": "A próxima grande melhoria na entrega de drones pode não ser entregas mais rápidas ou tempos de voo mais longos. Pode ser garantir que seus vizinhos mal percebam o drone trazendo seu pacote. mais…",
-"u": "https://dronedj.com/2026/10/28/delivery-drone-noise-zipline-software/",
-"f": "DroneDJ",
-"s": "dronedj.com",
-"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/06/Zipline-drone-delivery-wonder-texas.jpg?quality=82&strip=all&w=1200",
-"d": "2026-10-29T03:31-03:00",
-"c": [
-"drones"
-],
-"l": 1,
-"to": "Drone delivery noise is becoming a problem. Zipline has a new answer",
-"lg": "en",
-"p": 8.3
-},
-{
 "id": "b6d910ad7cf2c1",
 "t": "AGIBOT apresenta Worken para medir o trabalho produtivo do robô no AGIBOT Innovation Day 2026",
 "r": "AGIBOT revela sua plataforma de hardware integrada AHA3, modelo GO-3 Preview e WITA-Omni, lança formalmente G2 Max e Link-U OS 1.0 e destaca implantações no mundo real",
@@ -229,6 +212,23 @@
 ],
 "l": 0,
 "to": "Unitree’s first post-IPO report shows quarterly revenue growth of nearly 70%",
+"lg": "en",
+"p": 2.3
+},
+{
+"id": "7b870dd7b313c6",
+"t": "O ruído de entrega de drones está se tornando um problema. Zipline tem uma nova resposta",
+"r": "A próxima grande melhoria na entrega de drones pode não ser entregas mais rápidas ou tempos de voo mais longos. Pode ser garantir que seus vizinhos mal percebam o drone trazendo seu pacote. mais…",
+"u": "https://dronedj.com/2026/10/28/delivery-drone-noise-zipline-software/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/06/Zipline-drone-delivery-wonder-texas.jpg?quality=82&strip=all&w=1200",
+"d": "2026-10-29T03:31-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone delivery noise is becoming a problem. Zipline has a new answer",
 "lg": "en",
 "p": 2.3
 },
@@ -435,6 +435,23 @@
 ],
 "2026-10-27": [
 {
+"id": "6016a3f712c28a",
+"t": "Drones Autel EVO Lite 640T e 6K recebem uma nova atualização",
+"r": "Autel Robotics tem uma nova atualização de firmware para sua série EVO Lite Enterprise, dando aos profissionais outro motivo para conferir uma linha de drones compactos projetados para trabalhos que vão muito além da fotografia aérea. mais…",
+"u": "https://dronedj.com/2026/10/26/evo-lite-firmware-autel-enterprise/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/autel-new-firmware-evo-lite-enterprise-640t-6k-drone.jpg?quality=82&strip=all&w=1200",
+"d": "2026-10-27T03:50-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "Autel EVO Lite 640T and 6K drones get a new update",
+"lg": "en",
+"p": 8.3
+},
+{
 "id": "1698e31ea5a4be",
 "t": "As funções de segurança do seu robô já funcionam. E se a entrada mentir?",
 "r": "Este artigo foi trazido a você por VicOne. Um robô móvel diminui a velocidade para alguém em um corredor. Um braço colaborativo facilita seu movimento conforme um trabalhador se aproxima. Um humanóide faz uma pausa para deixar uma pessoa passar. Cada resposta depende de informações sobre o robô ou seu entorno: uma leitura de distância, uma estimativa de posição ou uma parada…",
@@ -522,23 +539,6 @@
 "to": "Desktop robot startup CyboPal secures investment from TCL and Shenzhen Capital Group",
 "lg": "en",
 "p": 2.3
-},
-{
-"id": "6016a3f712c28a",
-"t": "Drones Autel EVO Lite 640T e 6K recebem uma nova atualização",
-"r": "Autel Robotics tem uma nova atualização de firmware para sua série EVO Lite Enterprise, dando aos profissionais outro motivo para conferir uma linha de drones compactos projetados para trabalhos que vão muito além da fotografia aérea. mais…",
-"u": "https://dronedj.com/2026/10/26/evo-lite-firmware-autel-enterprise/",
-"f": "DroneDJ",
-"s": "dronedj.com",
-"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/autel-new-firmware-evo-lite-enterprise-640t-6k-drone.jpg?quality=82&strip=all&w=1200",
-"d": "2026-10-27T03:50-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Autel EVO Lite 640T and 6K drones get a new update",
-"lg": "en",
-"p": 2.3
 }
 ],
 "2026-10-26": [
@@ -556,6 +556,23 @@
 ],
 "l": 1,
 "to": "Unitree’s newly launched H2-X Robot loses a leg in public demonstration",
+"lg": "en",
+"p": 9.1
+},
+{
+"id": "8d15f5af1b079a",
+"t": "Amap do Alibaba revela modelo humanóide que aprende tarefas de corpo inteiro a partir de movimentos humanos",
+"r": "O Amap e o Alibaba Token Hub do Alibaba introduziram o λ0, um modelo básico projetado para ensinar movimentos e manipulação coordenados a robôs humanóides usando demonstrações humanas. O sistema aprende a partir de vídeo em primeira pessoa sincronizado com os movimentos do corpo e das mãos, permitindo que os robôs combinem caminhada, ajustes de postura…",
+"u": "https://technode.com/2026/10/26/alibabas-amap-unveils-humanoid-model-that-learns-whole-body-tasks-from-human-movements/",
+"f": "TechNode (China)",
+"s": "technode.com",
+"i": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261026-cn-371643.jpg?fit=1024%2C576&ssl=1",
+"d": "2026-10-26T09:22-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "Alibaba’s Amap unveils humanoid model that learns whole-body tasks from human movements",
 "lg": "en",
 "p": 9.1
 },
@@ -610,23 +627,6 @@
 ],
 "l": 0,
 "to": "Affordable humanoid robot maker Noetix reportedly files for Hong Kong IPO",
-"lg": "en",
-"p": 3.1
-},
-{
-"id": "8d15f5af1b079a",
-"t": "Amap do Alibaba revela modelo humanóide que aprende tarefas de corpo inteiro a partir de movimentos humanos",
-"r": "O Amap e o Alibaba Token Hub do Alibaba introduziram o λ0, um modelo básico projetado para ensinar movimentos e manipulação coordenados a robôs humanóides usando demonstrações humanas. O sistema aprende a partir de vídeo em primeira pessoa sincronizado com os movimentos do corpo e das mãos, permitindo que os robôs combinem caminhada, ajustes de postura…",
-"u": "https://technode.com/2026/10/26/alibabas-amap-unveils-humanoid-model-that-learns-whole-body-tasks-from-human-movements/",
-"f": "TechNode (China)",
-"s": "technode.com",
-"i": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261026-cn-371643.jpg?fit=1024%2C576&ssl=1",
-"d": "2026-10-26T09:22-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Alibaba’s Amap unveils humanoid model that learns whole-body tasks from human movements",
 "lg": "en",
 "p": 3.1
 },
@@ -959,7 +959,7 @@
 "i": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371523.png?fit=1024%2C435&ssl=1",
 "d": "2026-10-20T04:35-03:00",
 "c": [
-"ia"
+"geral"
 ],
 "l": 1,
 "to": "SenseTime co-founder’s ACE Robotics releases model for robot spatial perception",
@@ -1398,7 +1398,8 @@
 "i": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-371143.jpg?fit=1024%2C576&ssl=1",
 "d": "2026-10-13T04:32-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"casa"
 ],
 "l": 0,
 "to": "XPENG plans humanoid robot deliveries in 2027 and European rollout later that year",
@@ -1489,7 +1490,8 @@
 "i": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-371142.png?fit=1024%2C436&ssl=1",
 "d": "2026-10-13T04:32-03:00",
 "c": [
-"negocios"
+"negocios",
+"casa"
 ],
 "l": 0,
 "to": "Home-robot startup Ola Dimensions raises hundreds of millions of RMB in fourth funding round",
