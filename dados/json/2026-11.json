@@ -205,6 +205,35 @@
 "rx": "A empresa de robótica Agile Robots, com sede em Munique, levantou um novo capital de US$ 500 milhões (450 milhões) em uma nova rodada de financiamento. No total, o capital total levantado desde a fundação da empresa ascende agora a cerca de dois mil milhões de dólares. Na indústria, Agile Robots é considerado um peso-pesado líder mundial em inteligência artificial física – ou seja, sistemas de aprendizagem que conectam diretamente software e mecânica.\nAo mesmo tempo, a Agile Robots está a reforçar as suas capacidades de produção nacional. A Agile Robots foi fundada em 2018 como um spin-off do Centro Aeroespacial Alemão (DLR) em Oberpfaffenhofen. A Agile Robots emprega agora mais de 3.500 pessoas em mais de 25 locais em todo o mundo, incluindo mais de 2.000 desenvolvedores."
 },
 {
+"id": "a91d5b118dcbd8",
+"t": "Cachorro-robô leva cachorro de verdade para passear em São Francisco, Califórnia",
+"r": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
+"u": "https://www.straitstimes.com/videos/6408268909112",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"d": "2026-11-12T01:16-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Robot dog walks real dog in San Francisco, California",
+"lg": "en",
+"p": 7.1,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
+"o": [
+{
+"f": "USA Today",
+"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazM3a0JBMm9PMmxKdm94aURjZGdISmJIbjZfVmNPUkd4Qmd5WjgwM3ZobGRIX0dwdUxfQXRRc3l4aEVKeWdheWJRX00zSVVVU0Y2c28wcHN3NTZxbXZoV1ZrbzBsNWhPMW5kUEdiT0tRSDJrcUZiRUY5WXFvcU1lblV3Yl95ZHlCRTNwRlc5OGVTd3phemxncXZBcGpSWnAxclFobVFCYVRVZDVRejBxa1FTSTZEOG9IRmRVaEFWdmpCSGM?oc=5",
+"s": "usatoday.com",
+"id": "cece769b76c0db"
+}
+]
+},
+{
 "id": "beb8ba58d1ebfd",
 "t": "INDROTEK posiciona sua divisão de robótica na vanguarda das crescentes oportunidades industriais de defesa e tecnologia de uso duplo do Canadá",
 "r": "",
@@ -407,27 +436,6 @@
 "id": "9a9831845fd23b"
 }
 ]
-},
-{
-"id": "a91d5b118dcbd8",
-"t": "Cachorro-robô leva cachorro de verdade para passear em São Francisco, Califórnia",
-"r": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
-"u": "https://www.straitstimes.com/videos/6408268909112",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
-"d": "2026-11-12T01:16-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 0,
-"to": "Robot dog walks real dog in San Francisco, California",
-"lg": "en",
-"p": 5.6,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 1,
-"rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com."
 },
 {
 "id": "81951f28bad06a",
@@ -906,6 +914,29 @@
 "rx": "O Ministério do Comércio, Indústria e Energia (Ministro Kim Jeong-gwan, doravante denominado Ministério do Comércio, Indústria e Energia) realizou uma conferência no Four Seasons Hotel em Seul no dia 12, com a participação de cerca de 150 funcionários da indústria, acadêmicos e de pesquisa, incluindo empresas de demanda, empresas sem fábrica, fundições e empresas de propriedade intelectual de semicondutores."
 },
 {
+"id": "4ef49f0a7e81e3",
+"t": "Minúsculo drone autônomo caça rachaduras em pontes, traça sua própria rota e salva dados no cartão SD",
+"r": "Um minúsculo drone inteligente pode navegar por cavidades de pontes escuras e detectar rachaduras que os inspetores humanos podem não perceber.",
+"u": "https://interestingengineering.com/ai-robotics/tiny-autonomous-drone-cracks-bridges",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/%D0%971.jpg",
+"d": "2026-11-12T14:53-03:00",
+"c": [
+"drones",
+"microrrobos"
+],
+"l": 0,
+"to": "Tiny autonomous drone hunts bridge cracks, plots own route, saves data on SD card",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "Um minúsculo drone inteligente pode navegar por cavidades de pontes escuras e detectar rachaduras que os inspetores humanos podem não perceber."
+},
+{
 "id": "02ce174dc798d8",
 "t": "Gestos manuais e cinto vibratório permitem o controle do drone sem feedback visual nos primeiros testes",
 "r": "Operar um drone manualmente exige que os pilotos observem uma tela enquanto coordenam os controles. Isso divide a atenção entre a aeronave e seu entorno. Os pesquisadores estão explorando maneiras de tornar a operação dos drones mais intuitiva e menos dependente do monitoramento visual contínuo. Uma interface vestível desenvolvida em Jeonbuk…",
@@ -924,7 +955,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "6c0f0ed0c0149b",
@@ -966,7 +997,7 @@
 "p": 5.4,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "Pelican Unify 1.0 é um modelo de base de IA incorporado do Centro de Inovação de Robôs Humanóides de Pequim, também conhecido como X Humanoid. Lançado em 14 de maio de 2026, ele pertence à camada de software da robótica, e não à categoria de hardware humanóide físico. Seu fabricante está sediado na China e o modelo faz parte do portfólio mais amplo de robótica do centro. Pelican Unify 1.0 tem uma pontuação cerebral guia humanóide de 5 em 10, colocando-o na faixa de desenvolvimento desse sistema de classificação. Sua identidade como modelo base é central para a compreensão do produto, distinguindo o modelo em si das máquinas, da infraestrutura computacional e do trabalho de integração associado a um sistema robótico completo.\nDe forma mais ampla, o lançamento adiciona um modelo de base de software nomeado ao portfólio do Centro de Inovação de Robôs Humanóides de Pequim."
 },
 {
@@ -1590,6 +1621,70 @@
 "cv": "Mainichi"
 },
 {
+"id": "8fbacd96cb13d5",
+"t": "Notícias: Agile ONE SN: Humanóide compacto construído em NVIDIA Isaac GR00T",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUtBYVdraHdSY1ZpRlU4SFYzU2FveGJ1QzF0anFqdXIxZjMzNm9pN0lXbjdVVHZGUGl5b3lmdUIzbTZ1STJScm5xRlctb2llS3NBTVV6SXROWlR2QkRjTW5kckt4bmw2alJuQXVwUkZqeVlJQ05fMDBnOUFfNjNNblMtel9lWTFiVHk5bzd5dHdaS25sM05sVWdqRnUyajVuNTdiQVpsNktNZExScGVXTzJ0cXpTbnJPX3RET3hSbVF4OFRPY2wzZGJZQQ?oc=5",
+"f": "A3 Association for Advancing Automation",
+"s": "automate.org",
+"i": "",
+"d": "2026-11-12T15:22-03:00",
+"c": [
+"ia",
+"humanoides"
+],
+"l": 0,
+"to": "News: Agile ONE SN: Compact Humanoid Built on NVIDIA Isaac GR00T",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "A3 — Association for Advancing Automation"
+},
+{
+"id": "88664511babf45",
+"t": "Roku está abandonando seus produtos domésticos inteligentes para focar novamente no streaming",
+"r": "Roku está encerrando seu negócio de casa inteligente após sua venda para a Fox. O que isso significa para seus dispositivos?",
+"u": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+"f": "ZDNET",
+"s": "zdnet.com",
+"i": "https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg",
+"d": "2026-11-12T15:43-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roku is dumping its smart home products to refocus on streaming",
+"lg": "en",
+"esp": 1,
+"p": 4.3,
+"cr": 2,
+"cv": "ZDNET",
+"mx": 1,
+"rx": "“Estamos aprimorando nosso foco na missão principal do Roku: ser a melhor plataforma de streaming”, disse um porta-voz do Roku a Roettgers por e-mail. “Como parte disso, planejamos reduzir as vendas de hardware doméstico inteligente e fornecer suporte e serviços contínuos para produtos Roku Smart Home.” Além disso: Preocupado com a compra do Roku pela Fox? Roku, conhecido principalmente por seus dispositivos de streaming e TV que rivalizam com concorrentes como a linha Fire da Amazon, expandiu-se para o espaço doméstico inteligente em 2022 com uma série de câmeras de segurança doméstica, plugues inteligentes e luzes acessíveis, desenvolvidos com hardware de marca branca do Waze.\nRoettgers disse que a razão para isso foi observada publicamente nas divulgações financeiras de Roku, incluindo o 10-Q da semana passada, onde a marca enfatizou claramente que os equipamentos domésticos inteligentes não contribuem para as horas ou receitas de streaming de Roku."
+},
+{
+"id": "a82b5b90172ade",
+"t": "Um robô montou uma estrutura no espaço pela primeira vez",
+"r": "A fabricação autônoma em órbita será fundamental para qualquer economia espacial futura, e os pesquisadores deram o primeiro passo com um robô construindo uma antena de rádio sem a ajuda de um astronauta",
+"u": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=robotics&utm_medium=RSS&utm_source=NSNS",
+"f": "New Scientist",
+"s": "newscientist.com",
+"i": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg",
+"d": "2026-11-12T16:00-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "A robot has assembled a structure in space for the first time",
+"lg": "en",
+"esp": 1,
+"p": 4.3,
+"cr": 2,
+"cv": "New Scientist",
+"mx": 1,
+"rx": "Um robô construiu uma estrutura no espaço sem a ajuda de astronautas. A conquista inédita é um passo em direção à fabricação e montagem autônoma em órbita de estruturas como estações espaciais e centros de dados, o que será crucial se quisermos desenvolver uma economia orbital. Sergio Pellegrino, do Instituto de Tecnologia da Califórnia, e sua equipe desenvolveram seu robô como parte de uma iniciativa da Agência de Projetos de Pesquisa Avançada de Defesa dos EUA (DARPA) para explorar novas maneiras de construir no espaço.\nDesde o seu lançamento em março na Base da Força Espacial de Vandenberg, na Califórnia, o robô trabalha na construção de uma antena de rádio, de 1,4 metros de diâmetro, a partir de um conjunto de tubos, juntas e redes refletivas. Tirar a construção espacial das mãos humanas poderia acelerar enormemente o desenvolvimento dos negócios e da ciência em órbita, e montar uma antena de rádio no espaço é apenas o começo."
+},
+{
 "id": "2157f7546d46d7",
 "t": "O ecossistema Lingguang está se expandindo novamente! Seis novos conectores, incluindo WeChat ClawBot, QQ Robot e Luckin Coffee, foram adicionados",
 "r": "Em 12 de novembro, o ecossistema aberto do Lingguang se expandiu novamente, adicionando suporte para seis conectores principais, incluindo WeChat ClawBot, QQ Robot, Luckin Coffee, Youdao Cloud Notes, Tick List e Tencent News. O conector amplia as capacidades do Lingguang. Esta expansão permite que os serviços da…",
@@ -1844,6 +1939,25 @@
 "cv": "Corriere della Sera",
 "mx": 0,
 "cur": 1
+},
+{
+"id": "5981f7520deb42",
+"t": "Nos templos hindus da Índia, robôs substituem elefantes vivos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMC1GSzBqaTREVHVBTzJoekZxN0dSeHZjcDMzZE1lTWFZbWtPYnJFOThJSTNPZGFfanFJT3E3ejB4eWR1MkV0Rkx4eE9pYXQ1R1YxT1pfNFl1SGduc0V0RjBscmM0WTk4cFdaVzRGU0I2WUhTczBMMHktbnZpc0Z4QkZrZWFPR2JwNTQ2NTdpUQ?oc=5",
+"f": "DW.com",
+"s": "dw.com",
+"i": "",
+"d": "2026-11-12T04:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "In India's Hindu temples, robots replace live elephants",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DW"
 },
 {
 "id": "82e6fb115199e5",
@@ -2700,6 +2814,25 @@
 "cv": "Corriere della Sera"
 },
 {
+"id": "d338e381370898",
+"t": "Drone Pak encontrado perto da fronteira em Jammu",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUVBQkd4ODZVWXRRMmROLVhVSHEtT0ZRd013SDI5dzVoenYyTVF3YTVfRWI1bzNuOVQ5dXpObGxqQXA4ZE96RW81VVYtdWxLdE9CblZsMGFsazc3U1d0OEJQMjJITDA1TkstOUw3S3VnSnotLS1FSHY3aUNjNHlvdG9WR2h5V09TOW83ZnpIaWZkcVI3dkhpQXFWdmxnZlp2Wm5NaTBtONIBrAFBVV95cUxQMkNQUEgweVJnSXZ3dzVIWExwWkh1M1lDWW5hb1JnZTBlQ3lWeU5ONmhTSVRPQ2stYjJrU1lQa3ZaM3BsWi1RS0pCcHhVd1FaYnJUVnJUSXRNQ1lrbDEwOGFySVhTeHE4eldFbmlTNVBTN2FlZEVsQ3Q4STdyUndySFl0V1BHTlBmMUE3R1g1ai0xcTA1dmNDeG5MbFVWZmUxYU5fRXRHejE2NVJn?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-12T15:57-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Pak drone found near border in Jammu",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
+},
+{
 "id": "535d1b0267dfaa",
 "t": "SoftBank lidera um investimento de US$ 500 milhões em robôs ágeis para aumentar a produção em escala de robôs humanóides",
 "r": "A IT House informou em 12 de novembro que o fabricante alemão de robôs Agile Robots SE concluiu uma nova rodada de financiamento, com uma avaliação de US$ 8,5 bilhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 56,829 bilhões de yuans). Esta rodada de financiamento foi liderada pelo Grupo SoftBank…",
@@ -2720,6 +2853,25 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "A IT House informou em 12 de novembro que o fabricante alemão de robôs Agile Robots SE concluiu uma nova rodada de financiamento, com uma avaliação de US$ 8,5 bilhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 56,829 bilhões de yuans). Esta rodada de financiamento foi liderada pelo Grupo SoftBank, proporcionando novo apoio financeiro para a start-up expandir a produção de robôs de inteligência artificial.\nA Agile Robots, com sede em Munique, disse em um comunicado que a atual rodada de financiamento da empresa é de US$ 500 milhões (a taxa de câmbio atual é de aproximadamente 3,343 bilhões de yuans), e seu financiamento cumulativo atingiu aproximadamente US$ 2 bilhões (a taxa de câmbio atual é de aproximadamente 13,372 bilhões de yuans)."
+},
+{
+"id": "ea787c5d2b143e",
+"t": "Centro de Inovação de Robôs Humanóides de Fujian",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTIzb0NfYXdJM1h5SVd2THJLVUp6cFZQN1VQWlhaOG9oS2Q4d1R5Z2pZbWFFaU5TOEhmNHE2cGFVNVJ2NnhzSDlBMTA5TXE4WVZYTDVOaldkcmJ6eUU1VjVGWjRiV3pkOHNPbFcyaFhINjg5VjMxSkpiR2licDhlTnBB?oc=5",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-12T01:16-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Fujian Humanoid Robot Innovation Center (福建人形机器人创新中心)",
+"lg": "zh",
+"p": 3.0,
+"cr": 2,
+"cv": "Tech in Asia"
 },
 {
 "id": "286be3bb083b3b",
@@ -8287,8 +8439,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/nasa-utm-research-drone-flight.webp",
 "d": "2026-11-10T23:33-03:00",
 "c": [
-"drones",
-"negocios"
+"negocios",
+"drones"
 ],
 "l": 1,
 "to": "FAA Touts 2.2 Million UTM Drone Flights at AUVSI. Part 108 Still Waits",
@@ -8362,8 +8514,29 @@
 "p": 10.6,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "A LG está preparada para revelar um rosto humanóide “3D” de oito polegadas no evento CES 2027 de janeiro em Las Vegas. A gigante coreana de eletrônicos de consumo chama o Light Field Display (LFD) de \"a primeira solução de exibição 3D do mundo projetada especificamente para rostos humanóides\". O componente é um dos homenageados da CES 2027 do próximo ano. “Indo além das limitações dos designs de rostos de robôs fisicamente fixos, sua tecnologia óptica 3D cria visuais realistas que permitem uma expressão mais natural e uma interação emocional entre humanos e humanóides”, escreve LG. “Sem exigir qualquer modificação física no robô, esta tela pode apresentar uma ampla gama de expressões faciais em 3D, avatares virtuais e outras interfaces de usuário”.\nNenhuma palavra sobre se a empresa encontrou algum fabricante de robótica para implementar a tecnologia ou se planeja integrá-la a um sistema humanoide proprietário."
+},
+{
+"id": "01548b720b07d9",
+"t": "[Foto] O encontro entre robôs e música… Apresentando uma performance futurista",
+"r": "A Galaxy Corporation realizou o evento 'POLYMATH' para comemorar o Dia Mundial da Ciência no Galaxy Robot Park em Gangdong-gu, Seul, no dia 10. No evento, robôs humanóides realizam performances de robôs mostrando vários movimentos ao som da música. Repórter Park Ji-ho jihopress@etnews.com",
+"u": "https://www.etnews.com/20261110000384",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.0a4a2851450741e69fa66f9c6d03af53_P1.jpg",
+"d": "2026-11-10T03:29-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "[포토] 로봇과 음악의 만남…미래형 퍼포먼스 선보여",
+"lg": "ko",
+"p": 10.3,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "A Galaxy Corporation realizou o evento 'POLYMATH' para comemorar o Dia Mundial da Ciência no Galaxy Robot Park em Gangdong-gu, Seul, no dia 10. No evento, robôs humanóides realizam performances de robôs mostrando vários movimentos ao som da música. Repórter Park Ji-ho jihopress@etnews.com"
 },
 {
 "id": "ab68893e533122",
@@ -8399,8 +8572,8 @@
 "i": "https://japan.cnet.com/storage/2026/11/11/e15f06fddb4d2bd3d71b0e47260da6ab/%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F.jpg",
 "d": "2026-11-10T12:55-03:00",
 "c": [
-"humanoides",
-"ia"
+"ia",
+"humanoides"
 ],
 "l": 1,
 "to": "Google 發表 Gemini Robotics 2.5！驅動 Apollo 2 人形機器人，走進賓士產線「分揀成功率 96%」",
@@ -8430,7 +8603,7 @@
 "p": 10.3,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
 },
 {
 "id": "2db769c5554b2f",
@@ -8450,29 +8623,8 @@
 "p": 9.8,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2,
+"mx": 3,
 "rx": "Em 10 de novembro de 2026, a empresa de robôs de consumo Miaodong Technology anunciou que seu primeiro robô de rastreamento multiterreno do mundo, Beni, está oficialmente à venda: o conjunto padrão custa 4.999 yuans e o conjunto de exploração custa 5.799 yuans. Os usuários domésticos podem comprá-lo através do JD.com e ele será enviado imediatamente.\nHá um mês, Beni estabeleceu um recorde para o maior valor de crowdfunding na história dos robôs de consumo na plataforma Kickstarter, arrecadando mais de US$ 5 milhões e 7.926 apoiadores em todo o mundo. Para a Miaodong Technology, fundada há menos de dois anos, o lançamento do Beni não é apenas o lançamento do seu primeiro produto para usuários globais, mas também a integração de tecnologia robótica de ponta e engenharia de imagem profissional para explorar o primeiro cenário de implementação de inteligência incorporada no mercado consumidor."
-},
-{
-"id": "01548b720b07d9",
-"t": "[Foto] O encontro entre robôs e música… Apresentando uma performance futurista",
-"r": "A Galaxy Corporation realizou o evento 'POLYMATH' para comemorar o Dia Mundial da Ciência no Galaxy Robot Park em Gangdong-gu, Seul, no dia 10. No evento, robôs humanóides realizam performances de robôs mostrando vários movimentos ao som da música. Repórter Park Ji-ho jihopress@etnews.com",
-"u": "https://www.etnews.com/20261110000384",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.0a4a2851450741e69fa66f9c6d03af53_P1.jpg",
-"d": "2026-11-10T03:29-03:00",
-"c": [
-"geral"
-],
-"l": 1,
-"to": "[포토] 로봇과 음악의 만남…미래형 퍼포먼스 선보여",
-"lg": "ko",
-"p": 9.5,
-"cr": 2,
-"cv": "ETNews",
-"mx": 1,
-"rx": "A Galaxy Corporation realizou o evento 'POLYMATH' para comemorar o Dia Mundial da Ciência no Galaxy Robot Park em Gangdong-gu, Seul, no dia 10. No evento, robôs humanóides realizam performances de robôs mostrando vários movimentos ao som da música. Repórter Park Ji-ho jihopress@etnews.com"
 },
 {
 "id": "a52474b84e5c89",
@@ -8518,7 +8670,7 @@
 ],
 "cr": 3,
 "cv": "Axios",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b6dc06006846ec",
@@ -8530,7 +8682,9 @@
 "i": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Screenshot-2026-11-10-at-9.39.59-PM.jpg?resize=1200%2C630&ssl=1",
 "d": "2026-11-10T13:27-03:00",
 "c": [
-"espaco"
+"espaco",
+"drones",
+"inspecao"
 ],
 "l": 1,
 "to": "Amazon wants to put a flying security camera in your home, and it has a new rover robot, too.",
@@ -8559,7 +8713,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "CBS News",
-"mx": 2
+"mx": 3
 },
 {
 "id": "32c3748ce3866b",
@@ -8579,7 +8733,7 @@
 "p": 9.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 11 de novembro que o Centro de Inovação de Robôs Humanóides de Chengdu lançou hoje o robô humanóide Gongga de quinta geração, alegando ter \"a tecnologia de núcleo cerebral de robô humanóide mais avançada do mundo\". Como uma obra-prima da tecnologia cerebral inteligente incorporada do Centro de Inovação de Robôs Humanóides de Chengdu, o Gongga de quinta geração está equipado com um sistema de inteligência incorporada integrado e autodesenvolvido que completou iterações sistemáticas em módulos principais, como percepção de cena, memória espaço-temporal, planejamento de raciocínio causal e modelos de mundo de ação. Ele afirma “representar o mais alto nível de tecnologia cerebral de robô humanóide no primeiro escalão do mundo atual”.\nO cérebro incorporado da Quinta Geração Gongga abriu um elo técnico completo de \"percepção estruturada - memória espaço-temporal - planejamento causal - dedução de ação - feedback de execução\" para alcançar colaboração ponta a ponta de cognição ambiental, atualização de memória, planejamento de tarefas e execução de operações."
 },
 {
@@ -8592,7 +8746,7 @@
 "i": "",
 "d": "2026-11-10T05:25-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 1,
 "to": "Anthropic、英伟达同日上新，机器人真的要“长脑子”了？",
@@ -8600,7 +8754,7 @@
 "p": 8.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -8621,7 +8775,7 @@
 "p": 8.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 10 de novembro que o Google lançou o Gemini Robotics 2.5, o modelo de robô de ação de linguagem visual (VLA) mais poderoso até o momento, que melhora muito a amplitude de habilidades e a velocidade de aprendizado que os robôs podem aprender. Este modelo aumenta a destreza, confiabilidade e segurança dos robôs, ajudando-os a sair do laboratório e entrar em ambientes reais mais não estruturados para ajudar os humanos a completar mais tipos de tarefas.\nConfiabilidade: Em uma prova de conceito real em uma linha de produção da Mercedes-Benz, o modelo ajudou o robô humanóide Apollo 2 da Apptronik a selecionar e embalar peças automotivas com uma taxa de sucesso de 96%, assumindo tarefas monótonas e permitindo que os técnicos se concentrassem em tarefas complexas de montagem."
 },
 {
@@ -8642,7 +8796,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3e82f533c97c6b",
@@ -10048,6 +10202,26 @@
 "cr": 3,
 "cv": "Business Insider",
 "mx": 0
+},
+{
+"id": "58328fa9c96c1d",
+"t": "Robô humanóide bípede ganha pela primeira vez o maior prêmio de inovação da CES, Galaxy Xingzai",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByci1mUDlSVGk1bVJfcUVyZzJOWDd6WWV3RnpBNGw5SU0yN24tYXptc1pnZU44LXIwZmVFb2E5eHB2NXZCbGxUNms3N2JGTHdfRjVzZlptS0lVaGliZTdfdkp2c3JEa1MtUXE2Ukx5dDNjS2pVWmZJ?oc=5",
+"f": "雷峰网",
+"s": "leiphone.com",
+"i": "",
+"d": "2026-11-10T08:26-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "双足人形机器人首夺CES最高创新奖，银河星仔",
+"lg": "zh",
+"p": 4.3,
+"cr": 3,
+"cv": "Leiphone (雷锋网)"
 },
 {
 "id": "3862d2d75e122d",
@@ -12395,6 +12569,25 @@
 "mx": 0
 },
 {
+"id": "6f4c5a1fe71577",
+"t": "[Foto] Show de Magia do Robô",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZHF0UEplYmQyLVBYUjRwNURwSFFhMk9zMVoxZlB3VDBDS0pCQnFBamZyUUxVQi1MbFE0UmxhV0UzOEtSUlBuVXB3WVM3UQ?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-10T03:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[포토] 로봇 마술쇼",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
 "id": "c3b9bb54cea981",
 "t": "Esfregão de ponto fixo com spray de água quente de 50 ℃: Robô de varredura e esfregão Xiaomi Mijia 7 Max 4999 → 3.602 yuans após suplemento nacional",
 "r": "",
@@ -13432,6 +13625,112 @@
 "rx": "Empresa de robótica de IA"
 },
 {
+"id": "f1509e53e69dab",
+"t": "Web Summit 2026 em Lisboa destaca presença recorde na China e estreia de oradores robotizados",
+"r": "Ao longo dos quatro dias do evento, robôs humanóides chineses farão discursos em palco e interagirão com o público em stands da marca montados na FIL e na Arena MEO.",
+"u": "https://www.euronews.com/2026/11/09/web-summit-2026-in-lisbon-highlights-record-china-presence-and-robot-speakers-debut",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "https://images.euronews.com/articles/stories/09/98/50/54/1200x675_cmsv2_2b4f373a-2de9-500e-ae41-e9a9faa4780a-9985054.jpg",
+"d": "2026-11-09T06:47-03:00",
+"c": [
+"competicoes"
+],
+"l": 1,
+"to": "Web Summit 2026 in Lisbon highlights record China presence and robot speakers debut",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Euronews",
+"mx": 1,
+"cur": 1,
+"rx": "Ao longo dos quatro dias do evento, robôs humanóides chineses farão discursos em palco e interagirão com o público em stands da marca montados na FIL e na Arena MEO."
+},
+{
+"id": "2b3600d4b0b02d",
+"t": "Novo robô de fábrica com rodas trabalha ao lado de humanos sem gaiolas de segurança",
+"r": "A startup suíça Empowered AI apresenta o AIR, um robô móvel de dois braços projetado para automatizar tarefas de fábrica junto com trabalhadores humanos.",
+"u": "https://interestingengineering.com/ai-robotics/wheeled-humanoid-robot-for-factory-tasks",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-10.jpg",
+"d": "2026-11-09T07:13-03:00",
+"c": [
+"industriais"
+],
+"l": 1,
+"to": "New wheeled factory robot works alongside humans without safety cages",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "A startup suíça Empowered AI apresenta o AIR, um robô móvel de dois braços projetado para automatizar tarefas de fábrica junto com trabalhadores humanos."
+},
+{
+"id": "8f7a5a2c272a8b",
+"t": "Nature Will lança modelo de IA de 50 bilhões de parâmetros para mãos robóticas hábeis",
+"r": "Nature Will, um laboratório físico de IA dedicado à construção de AGI física, anunciou o lançamento do Natura-1, um modelo de base física geral de 50 bilhões de parâmetros para controle manual hábil e instrução de disparo zero em aplicações de robótica avançada. Pré-treinado em mais de 1 milhão de horas de dados…",
+"u": "https://roboticsandautomationnews.com/2026/11/09/nature-will-launches-50-billion-parameter-ai-model-for-dexterous-robot-hands/106855/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/nature-will-1.png",
+"d": "2026-11-09T16:39-03:00",
+"c": [
+"negocios"
+],
+"l": 1,
+"to": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "Nature Will, um laboratório físico de IA dedicado à construção de AGI física, anunciou o lançamento do Natura-1, um modelo de base física geral de 50 bilhões de parâmetros para controle manual hábil e instrução de disparo zero em aplicações de robótica avançada. Pré-treinado em mais de 1 milhão de horas de dados humanos egocêntricos, o Natura-1 combina o seguimento de instruções com a capacidade de manipular as condições variáveis ​​da tarefa e ações sustentadas ao longo de interações prolongadas, trazendo a versatilidade da mão ao alcance de um modelo que conecta a intenção humana à ação física.\n“O Natura-1 é um modelo de mistura de especialistas de 50 bilhões de parâmetros com manipulação hábil, execução em longo horizonte e seguimento de instruções de disparo zero, tornando-o verdadeiramente capaz de transformar a experiência humana em ação intencional.”"
+},
+{
+"id": "cdcf4cf8337587",
+"t": "Anthropic revela a capacidade de controle do robô de Claude Fable 5.2 no SNS oficial. A avaliação da simulação do robô de braço duplo supera outros modelos. 1ª foto/imagem",
+"r": "“NV…” realizado no The Prince Park Tower Tokyo em 10 de novembro de 2026.",
+"u": "https://robotstart.info/article/img/2026/11/10/382613/109134.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109134.jpg",
+"d": "2026-11-09T23:50-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "Claude Fable 5.2のロボット制御能力をAnthropicが公式SNSで公開 双腕ロボットのシミュレーション評価で他のモデルを上回る 1枚目の写真・画像",
+"lg": "ja",
+"p": 10.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "“NV…” realizado no The Prince Park Tower Tokyo em 10 de novembro de 2026."
+},
+{
+"id": "9ee99c970c2071",
+"t": "Topstar revela Star, um humanóide bípede industrial em tamanho real e máquina S400 para peças de robô",
+"r": "A Topstar mostrou o Star, um bípede de 172 cm e 72 kg com carga útil de braço duplo de 10 kg para manuseio de fábrica, além da máquina S400 de cinco eixos para peças humanóides.",
+"u": "https://pandaily.com/topstar-star-industrial-biped-humanoid-s400-five-axis-machine",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/topstar_4b97578ffa.png",
+"d": "2026-11-09T03:57-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "Topstar Unveils Star, a Full-Size Industrial Biped Humanoid, and S400 Machine for Robot Parts",
+"lg": "en",
+"p": 10.3,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "A Topstar mostrou o Star, um bípede de 172 cm e 72 kg com carga útil de braço duplo de 10 kg para manuseio de fábrica, além da máquina S400 de cinco eixos para peças humanóides."
+},
+{
 "id": "dcdef7dbee7b1d",
 "t": "Yunshen lançou um novo robô quadrúpede para atingir grande carga de 50 kg e operações complexas em terreno",
 "r": "",
@@ -13449,54 +13748,77 @@
 "p": 10.3,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 1
+"mx": 2
 },
 {
-"id": "f1509e53e69dab",
-"t": "Web Summit 2026 em Lisboa destaca presença recorde na China e estreia de oradores robotizados",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGNTTHhXUFl2Ym9TX3NheEdkSzhOeVhsR0dMSGZNazFhUGUzLU9CR2J6QmVadXd3cFl6OV9BQzNhRGVBVXpIMEt6cDlydzNld2Z0T0hWSGZlc1hQaEZ0cjdMZ0U0X00yZDh6UVR6WDZ4b203MnJtaHVBLTlVRDJLMmFkNnQzajBwQ0NwU0VENnpLZWhEa2Y4TUFIYWktdGFTcHZNRHJTVFFVMUd3cUp3R3BEWGQwd0Q0OUlN?oc=5",
-"f": "Euronews.com",
-"s": "euronews.com",
-"i": "",
-"d": "2026-11-09T06:47-03:00",
+"id": "35464eee4e7e87",
+"t": "Universidade Chosun apresenta educação sobre convergência de IA e robôs na '2026 Mokpo Future Career Expo'",
+"r": "A Universidade Chosun (presidente Kim Chun-seong) anunciou no dia 9 que a 'Equipe Professor Cho Young-joo AX' liderada pelo Professor Cho Young-joo do Departamento de IA / SW do IT Convergence College participou da '2026 Mokpo Future Career Expo' realizada na Mokpo Central High School no dia 5 e operou um programa de…",
+"u": "https://www.etnews.com/20261109000275",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.c37e959f98aa4db1a15c904919dd9036_P1.jpg",
+"d": "2026-11-09T02:16-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"ia"
 ],
 "l": 1,
-"to": "Web Summit 2026 in Lisbon highlights record China presence and robot speakers debut",
-"lg": "en",
+"to": "조선대, '2026 목포 미래진로박람회'서 AI·로봇 융합교육 선보여",
+"lg": "ko",
 "p": 9.5,
-"cr": 3,
-"cv": "Euronews",
-"mx": 0,
-"cur": 1
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "A Universidade Chosun (presidente Kim Chun-seong) anunciou no dia 9 que a 'Equipe Professor Cho Young-joo AX' liderada pelo Professor Cho Young-joo do Departamento de IA / SW do IT Convergence College participou da '2026 Mokpo Future Career Expo' realizada na Mokpo Central High School no dia 5 e operou um programa de experiência de convergência de robôs de IA. Esta exposição é um evento de exploração de carreira futura organizado pelo Mokpo Office of Education em Gwangju, Jeollanam-do, e foi projetada para permitir que os alunos experimentem vários setores futuros e o mundo do trabalho. No evento, foram operados 56 estandes de experiência em diversas áreas, incluindo inteligência artificial (IA), robôs, semicondutores, mobilidade futura e fabricação inteligente. A equipe AX do professor Cho Young-joo disse: ‘IA e robôs que movem o futuro! Em particular, Shinjo Park e Jiwoong Jang, estudantes com especialização em engenharia da computação no Departamento de IA e SW da Universidade Chosun, participaram como instrutores assistentes e apoiaram a produção de robôs, a prática de codificação e a condução da operação da missão. O professor Cho Young-joo disse: “O núcleo da educação em IA/SW não é apenas aprender tecnologia, mas permitir que os alunos tenham a experiência de pensar, criar e resolver problemas por conta própria”, e acrescentou: “Espero que esta exposição sirva como uma oportunidade para os alunos desfrutarem da produção e codificação de robôs e desenvolverem interesse e confiança em IA e futuras tecnologias de mobilidade”. Enquanto isso, a equipe AX do professor Cho Young-joo planeja continuar a operar a educação experimental futura baseada em IA, robôs e codificação em cooperação com escritórios locais de educação, escolas e instituições educacionais públicas."
 },
 {
-"id": "2b3600d4b0b02d",
-"t": "Novo robô de fábrica com rodas trabalha ao lado de humanos sem gaiolas de segurança",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHJDcjZvYkxUZkd2MlQwTmwtaFI3UTFHckxRTDhGZXp2SWRVNVR3ckMwdzJYY1JQanB6cVY0SnBlX1B6YlRlWkdWNFNhVFVmQzJoQ0Z5ai0xVU5OczFkVWVSQUw1RnNCQXVlLTBFUklaYXlnSXNyNGtRQ2lIbUg0ZW16UmItd0I0cmc1WmQyN0k?oc=5",
-"f": "Interesting Engineering",
-"s": "interestingengineering.com",
-"i": "",
-"d": "2026-11-09T07:13-03:00",
+"id": "bb557677014fb0",
+"t": "BYD lança braço robótico de carregamento flash nos Emirados Árabes Unidos que se conecta sem o driver",
+"r": "A BYD mostrou um braço robótico nos Emirados Árabes Unidos que abre a porta, conecta e desconecta carros com carregamento flash sozinho, em um local de armazenamento e energia solar avaliado em 1.000 kW.",
+"u": "https://pandaily.com/byd-flash-charging-robotic-arm-uae-automatic-plug-in",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/byd_63931cf3c4.png",
+"d": "2026-11-09T05:05-03:00",
 "c": [
 "industriais"
 ],
 "l": 1,
-"to": "New wheeled factory robot works alongside humans without safety cages",
+"to": "BYD Debuts Flash-Charging Robotic Arm in the UAE That Plugs In Without the Driver",
 "lg": "en",
 "p": 9.5,
-"cr": 3,
-"cv": "Interesting Engineering",
-"mx": 0
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "A BYD mostrou um braço robótico nos Emirados Árabes Unidos que abre a porta, conecta e desconecta carros com carregamento flash sozinho, em um local de armazenamento e energia solar avaliado em 1.000 kW."
+},
+{
+"id": "0b02ab11e96982",
+"t": "Treinamento virtual do robô KT apresentado no data show NVIDIA AI",
+"r": "N.Right, uma empresa de infraestrutura física de dados de IA, está expandindo seu negócio de dados de simulação de robôs personalizados com base na cooperação tecnológica com a NVIDIA. Este é um projeto que apoia o teste do trabalho de robôs através da implementação dos equipamentos e ambiente de trabalho de cada…",
+"u": "https://zdnet.co.kr/view/?no=20261109171556",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/09/c1d4259235d901fcee20fb32fec15b8d.jpg",
+"d": "2026-11-09T05:15-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "엔비디아 AI 데이서 선보인 KT 로봇 가상훈련",
+"lg": "ko",
+"p": 9.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "N.Right, uma empresa de infraestrutura física de dados de IA, está expandindo seu negócio de dados de simulação de robôs personalizados com base na cooperação tecnológica com a NVIDIA. Este é um projeto que apoia o teste do trabalho de robôs através da implementação dos equipamentos e ambiente de trabalho de cada empresa num espaço virtual. A N.Light anunciou que está produzindo e fornecendo ativos flexíveis de simulação corporal, como cabos, para a KT como parte do negócio ‘SimReady Asset On Demand’. Ele pode ser usado para configurar e verificar cenários de trabalho no ‘Isaac Sim’, o ambiente de simulação de robôs da NVIDIA. Com base na sua experiência na produção de ativos específicos do setor, a N.Light também está buscando fornecer seus próprios ativos para a ‘NVIDIA SimReady Central’. Planejamos introduzir tecnologia de fabricação de materiais flexíveis, como equipamentos e cabos industriais complexos, no ecossistema global de desenvolvedores de IA física e expandir o fornecimento de dados de simulação necessários em locais industriais.\nPark Jin-young, CEO da N.Light, disse: \"Para que a IA física se espalhe para locais industriais, são essenciais dados de simulação que incorporem com precisão equipamentos e ambientes de trabalho reais. A N.Light conecta sua própria tecnologia CAD e IA com o ecossistema físico de IA da NVIDIA e, com base na experiência acumulada em locais industriais como KT, cresceremos e nos tornaremos uma empresa global de infraestrutura de dados físicos de IA\"."
 },
 {
 "id": "acd3526ac233df",
 "t": "Imagens recentes do GJ-11 dão uma ideia do compartimento de armas do drone de próxima geração da China",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDJ6Q01jb1RvR0pCN1hYYmRSUUtMQUlEdlQzUWRsM1hSdTh2QVpaU0REZTF4a1pHcE4xb3BvLVBSU2FVWFBNdmNXbE0zQnpxRFZRUlVadU9qTnhfNlUwdEpmazV1R2RNS2ZDc0FGeXRNWGpTM1Y0OHpXMEw2T0ZUUmpzbGFlNW16OGNoY2NZd2tnZEdTdFRRWkVzZXNMNi01eDZwN2hXTXZPV1B6dTJXUUNVOElPXzNjbVVFU0pwTFLSAcABQVVfeXFMUEo5TGpZUzU5RzlSUFl3bUF3MTZUVVFwTml4MmJtLWR3cDE2TG9vdFFhdDdjWE85RXNhdnBvM1lBWGtWdjYtYk84SzNNMFJXYzBwV2NaRzkyajB6OHRUa2VQWUhvaW02bGlFalVCcTF3TjNFTWZCcUdoeHVzazEteDZmdUpFM0xnLVlQSmtjMEt2RVB6OVdPS3dYc1ZKaE83eXhpRl9mQXhxdFh1RzhCZ2tURWcwbDRkT0dwTVNrWHlS?oc=5",
+"u": "https://www.scmp.com/news/china/military/article/3373839/fresh-gj-11-footage-gives-glimpse-weapon-bay-chinas-next-gen-drone",
 "f": "South China Morning Post",
 "s": "scmp.com",
 "i": "",
@@ -13511,67 +13833,28 @@
 "p": 9.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 0
+"mx": 1
 },
 {
-"id": "8f7a5a2c272a8b",
-"t": "Nature Will lança modelo de IA de 50 bilhões de parâmetros para mãos robóticas hábeis",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmNqRGE3ZUtDcEV2d3N4M2FrMGlQU2JsZ3llX2xoTmtTdUhrTEt1U2xlaUlmbEtJMzlvMm1SRnRIZlJrYldLcXVRb2trUEtEbTVWanA2c3MwUllvNHdmR3ZkMmZWQ3RaZnBMWGkzMmRlMmRvUnV2bGhyUXZLTUU3STYwUmJqQ0JoTnVGblRRVU83T3V3VGM5WHFOeGV6SGc4bE0wUGdlbFdTVDhqeS1mZGRDb0MzN21FR25LSElsQlpwMElGY2NXRWE5Umx2UQ?oc=5",
-"f": "Robotics & Automation News",
-"s": "roboticsandautomationnews.com",
-"i": "",
-"d": "2026-11-09T16:39-03:00",
-"c": [
-"negocios"
-],
-"l": 1,
-"to": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
-"lg": "en",
-"p": 9.5,
-"cr": 3,
-"cv": "Robotics & Automation News",
-"mx": 0
-},
-{
-"id": "cdcf4cf8337587",
-"t": "Anthropic revela a capacidade de controle do robô de Claude Fable 5.2 no SNS oficial. A avaliação da simulação do robô de braço duplo supera outros modelos. 1ª foto/imagem",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YaUNaalJaMW5KSjJva1pBSVZCbGZaU2tPUmNkb2U1cGlWYTFNRGxYbkp3bGI5T0VoU0pqck1UOVFZeEYyTlNkU3NJTHpTZWRKcWlNSkpzZjJlZFNkUTBEX3RrT3kwV2dGRUJ5UkpBNkZOdWs?oc=5",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-09T23:50-03:00",
+"id": "1de7b79d42e17b",
+"t": "Brills apresentou o 'Robô de controle de segurança de IA física' no evento Hyundai Motor Company-Kia",
+"r": "Brils, uma empresa de plataforma de módulo de robô, anunciou no dia 10 que revelou tecnologia de robô de controle de segurança e prevenção de crime baseada em inteligência artificial física (IA) em um evento organizado pela Hyundai Motor Company e Kia Motors. Brills participou da '8ª Conferência Body Emotion'…",
+"u": "https://zdnet.co.kr/view/?no=20261110111458",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/10/b7eca67832495dca7f75a5ae89f3b8a6.jpg",
+"d": "2026-11-09T23:23-03:00",
 "c": [
 "ia"
 ],
 "l": 1,
-"to": "Claude Fable 5.2のロボット制御能力をAnthropicが公式SNSで公開 双腕ロボットのシミュレーション評価で他のモデルを上回る 1枚目の写真・画像",
-"lg": "ja",
+"to": "브릴스, 현대차·기아 행사서 '피지컬 AI 안전관제 로봇' 선봬",
+"lg": "ko",
 "p": 9.5,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 0
-},
-{
-"id": "9ee99c970c2071",
-"t": "Topstar revela Star, um humanóide bípede industrial em tamanho real e máquina S400 para peças de robô",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVBHS0NQcjlBbVJtWFlLRlBucGtfQ2J2NndSQWNsVERGQm02OFdTQmhOVFFBUktlVHR4UTAwNHVMbnREcUpGZE5oNzg2U3VtNWhKWTZpdTVaT2htVHIyM2dmWjlDX29rbVBrWC0ta1FXZmtNaUJneURLVFlGdUswdHQ2SUtVTTdzdkE?oc=5",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "",
-"d": "2026-11-09T03:57-03:00",
-"c": [
-"humanoides"
-],
-"l": 1,
-"to": "Topstar Unveils Star, a Full-Size Industrial Biped Humanoid, and S400 Machine for Robot Parts",
-"lg": "en",
-"p": 9.0,
 "cr": 2,
-"cv": "Pandaily",
-"mx": 0
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Brils, uma empresa de plataforma de módulo de robô, anunciou no dia 10 que revelou tecnologia de robô de controle de segurança e prevenção de crime baseada em inteligência artificial física (IA) em um evento organizado pela Hyundai Motor Company e Kia Motors. Brills participou da '8ª Conferência Body Emotion' realizada no Rolling Hills Hotel em Hwaseong-si, Gyeonggi-do neste dia e demonstrou a operação de um robô quadrúpede com rodas e pernas e um robô humanóide. Este evento foi preparado pela Hyundai Motor Company e Kia Motors para melhorar a qualidade emocional e trocar tecnologias futuras. Briles está desenvolvendo um sistema no qual um robô de quatro patas que combina rodas e pernas para superar patrulhas de etapas, e um robô humanóide capaz de trabalhar com ambos os braços fornece primeira resposta remota. Para reduzir os limites de atraso na comunicação, também foi incorporada tecnologia de IA no dispositivo que identifica pessoas e situações anormais em tempo real dentro do próprio robô. O objetivo é garantir a segurança dos trabalhadores, detectando imediatamente invasões, incêndios e quedas de trabalhadores.\nO CEO Jun Jin Briles disse: “É significativo apresentar a tecnologia física de IA em uma reunião de fabricantes de automóveis e parceiros” e acrescentou: “Expandiremos robôs quadrúpedes e tecnologia de controle de segurança baseada em humanóides para toda a indústria manufatureira, incluindo automóveis”."
 },
 {
 "id": "6373d0c4e0f6d3",
@@ -13609,86 +13892,6 @@
 ],
 "esp": 1,
 "rx": "Vaccatio (CEO Ji Hyun-jun), uma startup de IA de operação hoteleira, ganhou o ‘CES 2027 Robotics Innovation Award’ organizado pela Consumer Technology Association (CTA)."
-},
-{
-"id": "35464eee4e7e87",
-"t": "Universidade Chosun apresenta educação sobre convergência de IA e robôs na '2026 Mokpo Future Career Expo'",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsNWhtTnFaNjB2cVY2eWJrc181a2MyQjYxLXZDSGZ1Skc5NTBfcEtRalJGRjJGUXhKcS1zM1V4cC1POVJIT3dsSUFUSGlIQQ?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T02:16-03:00",
-"c": [
-"competicoes",
-"ia"
-],
-"l": 1,
-"to": "조선대, '2026 목포 미래진로박람회'서 AI·로봇 융합교육 선보여",
-"lg": "ko",
-"p": 8.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "bb557677014fb0",
-"t": "BYD lança braço robótico de carregamento flash nos Emirados Árabes Unidos que se conecta sem o driver",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Dc04wcGoxb1JaQ1JXN2xOUHVDMHhUMWNwQTNmbnIwYmt5eXNzTmZGcFVlUVFSVDkzR1ctdHVUeDhWN0tIX0tsSUxqTklWV2Rqa1FIVFo1dUU0RU1sb3JZZ3l2Tlp4cUdtcHg5QlhoTzJYSjZhNjFQdk0yZHVMUQ?oc=5",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "",
-"d": "2026-11-09T05:05-03:00",
-"c": [
-"industriais"
-],
-"l": 1,
-"to": "BYD Debuts Flash-Charging Robotic Arm in the UAE That Plugs In Without the Driver",
-"lg": "en",
-"p": 8.2,
-"cr": 2,
-"cv": "Pandaily",
-"mx": 0
-},
-{
-"id": "0b02ab11e96982",
-"t": "Treinamento virtual do robô KT apresentado no data show NVIDIA AI",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YNFRKWm1WNHZueGlCVmtINXE0TUtBUVhiR1dCbFFMOWlmZGpBa25KNHZpX0NBbEpHOVRHYkttMjJRcVlmSzJDVXEtZTl0Z0JvOGFoNXVB?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-09T05:15-03:00",
-"c": [
-"geral"
-],
-"l": 1,
-"to": "엔비디아 AI 데이서 선보인 KT 로봇 가상훈련",
-"lg": "ko",
-"p": 8.2,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
-},
-{
-"id": "1de7b79d42e17b",
-"t": "Brills apresentou o 'Robô de controle de segurança de IA física' no evento Hyundai Motor Company-Kia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibGR4OHpySDhvdHRVcXBTXzdNeWtXc3JHd2J1RDNRbFdnbjdscERvalU3UHgwcVdxa0JWSjZjSU85dWVOQU0wOW5kZjZwUjVsVDZibkFn?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-09T23:23-03:00",
-"c": [
-"ia"
-],
-"l": 1,
-"to": "브릴스, 현대차·기아 행사서 '피지컬 AI 안전관제 로봇' 선봬",
-"lg": "ko",
-"p": 8.2,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
 },
 {
 "id": "733675fa94be4e",
@@ -16983,10 +17186,34 @@
 ],
 "2026-11-08": [
 {
+"id": "e34b153bd63360",
+"t": "Star Plus Legend lança robô quadrúpede em meio a aumento de compartilhamento",
+"r": "Star Plus Legend Holdings, uma empresa de tecnologia de consumo e robótica, lançou um robô quadrúpede de consumo com fortes atributos de propriedade intelectual na China International Import Expo em novembro. O produto foi desenvolvido em conjunto com um terceiro independente e está em produção em massa, expandindo os…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8730733/star-plus-legend-launches-quadruped-robot-amid-share-surge/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=989",
+"d": "2026-11-08T07:37-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 1,
+"to": "Star Plus Legend Launches Quadruped Robot Amid Share Surge",
+"lg": "en",
+"p": 11.6,
+"xid": [
+"58b90a5251fcc9"
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "Star Plus Legend Holdings, uma empresa de tecnologia de consumo e robótica, lançou um robô quadrúpede de consumo com fortes atributos de propriedade intelectual na China International Import Expo em novembro. O produto foi desenvolvido em conjunto com um terceiro independente e está em produção em massa, expandindo os esforços de comercialização de produtos do Grupo. A empresa disse que o lançamento foi conduzido no curso normal de seus negócios, após observar aumentos incomuns no preço de suas ações e no volume de negócios.\nA Star Plus Legend Holdings Limited opera em tecnologia de consumo e robótica, oferecendo robôs quadrúpedes de consumo com fortes atributos de propriedade intelectual, desenvolvidos com terceiros independentes e focados na comercialização de produtos."
+},
+{
 "id": "60eae541c1ac39",
 "t": "Topstar revelou o robô humanóide Star e assinou acordos de cooperação com várias partes",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yMW1rVWJhRzJGcWxCOFFEM1g3XzJaNnkxbS1ITVkwVnNhb05DWW4xV1poSERmdUFYeHNpSE5uSDVxYmRWMnlOTkpOWHVoRFVCaXk2c3cxa3ZaSXJxTExjWlZNTmlfdWtBWmZNQ2luaWVuakFw?oc=5",
+"r": "Em 7 de novembro, no TOPS DAY 2026 Topstar Global Open Day, a Topstar lançou o robô humanóide bípede industrial em tamanho real Star, bem como múltiplas soluções para processamento de peças de robôs humanóides e fabricação de componentes de precisão de servidores de IA. No local, a Topstar também assinou acordos de…",
+"u": "https://www.leiphone.com/category/mandigital/7lNivNLNjqYMphaH.html",
 "f": "雷峰网",
 "s": "leiphone.com",
 "i": "",
@@ -16997,39 +17224,17 @@
 "l": 1,
 "to": "拓斯达亮出人形机器人 Star，并与多方签约合作协议",
 "lg": "zh",
-"p": 10.3,
+"p": 10.6,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 0
-},
-{
-"id": "e34b153bd63360",
-"t": "Star Plus Legend lança robô quadrúpede em meio a aumento de compartilhamento",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHFyZzc2ZGhFTS1TOTFGTFowQVVWanlnVzFlR05sMnRtMFF1SXRHMUtRU0s1cno3MXMxcE1MaFJZYXkyNjY5azRfMW1SeW5Kc0E2di1DX3Bsb2hMUXRSWEs2YjFrUVF3NlkyVy1DaUxOTmo3OElLTnJvT0dTZ2lfTXN3N2UwN2NKYld0TXRwNkVkUlpvQzZoVm9UWUlvcHFGY0ZZR2JCWUdQQ19xYnNKemIxTEtJWWdFSjVkRksyYXNaYWpZd2k0RHZad3ZhZ05fRUNaTFdn?oc=5",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-08T07:37-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 1,
-"to": "Star Plus Legend Launches Quadruped Robot Amid Share Surge",
-"lg": "en",
-"p": 10.3,
-"xid": [
-"58b90a5251fcc9"
-],
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 0
+"mx": 1,
+"rx": "Em 7 de novembro, no TOPS DAY 2026 Topstar Global Open Day, a Topstar lançou o robô humanóide bípede industrial em tamanho real Star, bem como múltiplas soluções para processamento de peças de robôs humanóides e fabricação de componentes de precisão de servidores de IA. No local, a Topstar também assinou acordos de compra de robôs humanóides e máquinas-ferramentas CNC de ligação de cinco eixos com clientes, e alcançou múltiplas cooperações com universidades e empresas de tecnologia.\nNo local, Leifeng.com (conta pública: Leifeng.com) viu que Dongguan Kaihang Technology Co., Ltd. e Topstar assinaram um acordo de compra de robôs humanóides. No mesmo dia, Zhejiang Leiwang Technology Co., Ltd. também assinou um contrato de compra de máquinas-ferramenta CNC de ligação de cinco eixos com a Evermi. As duas partes cooperarão no processamento preciso de peças de robôs humanóides."
 },
 {
 "id": "da3a069f07447e",
 "t": "“Entendemos que houve uma mudança de paradigma”: Naval Group, Anduril e Boeing lançam a batalha de drones subaquáticos gigantes",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQWXFhcEJLZlJyMWZSckN0R2ZjZmZzZzQ0cklnbWVCTmx5Yk1BMUUyZF8td3lGeGpKUDZ2alRNUFFONDEzSTJYQnBWcjAxSFVjb3JHaVRnWFJjVGlrMG1ES2dkZTdieGVvWExXTmp6OEJ4Z0NPSTE1d2hSQmcxSU1hY0dhODVMbFQ1N1FNT0lBM1dTNk1ZYnA0bm96Q1RKTEdBMTBlOER1azg0TzlJS0hOOHd4ZUxwRU92ODNVYk9EWnRWZUxmZ09Od3dDSURIZHpmeHJNYmdYQl84aWtvZTlEWl93RzU0d2hoNXhPekdRUjh3bS1sbWNaak5DemZSUUFKZDI5YUdIX2tfNXp5YTctcnJmTFBFUXU3ZUtiSWEzVlVnRDZsOFdZVQ?oc=5",
+"u": "https://www.lesechos.fr/industrie-services/air-defense/nous-avons-compris-quil-y-avait-un-changement-de-paradigme-naval-group-anduril-et-boeing-lancent-la-bataille-des-drones-sous-marins-geants-2261732",
 "f": "Les Echos",
 "s": "lesechos.fr",
 "i": "",
@@ -17045,13 +17250,13 @@
 "p": 9.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 0
+"mx": 1
 },
 {
 "id": "91a7a5243f4fbe",
 "t": "Topstar lançou o robô humanóide Star no Global Open Day, e \"Xiaotuo\" assinou um contrato com a Kaihang Technology, uma empresa da cadeia da indústria de energia de computação.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vSGh2SnJYRmVoVndubXJKcDJRaFEzTGN2TUU1VVdlM3ViYVFoMVBsODFKNHh3TE9lQ1BjZTVwWHVvYVJEakpvZzVhRkVNR05iMk1nRERGSjg?oc=5",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://36kr.com/newsflashes/4061927134745730",
 "f": "36Kr",
 "s": "36kr.com",
 "i": "",
@@ -17063,9 +17268,11 @@
 "l": 1,
 "to": "拓斯达全球开放日发布人形机器人Star，“小拓”签约算力产业链企业凯航科技",
 "lg": "zh",
-"p": 9.0,
+"p": 9.3,
 "cr": 2,
-"cv": "36Kr"
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "e7d4c3c1023178",
@@ -18428,6 +18635,25 @@
 "mx": 0
 },
 {
+"id": "a795ef8146c949",
+"t": "[KB Unicorn Club, transformando tecnologia em negócios ③] Halowa lê as condições do espaço e conecta equipamentos e robôs",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxY1dYcDVlNEo3LUhVdUJDcS0xNWd4UTJjazVLS2J0XzFmUmpkX0VYNzlLZzFHdnZ4WmEyMDB6UTNXcmtUdEQyV2hsbUlqQQ?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-08T20:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[KB유니콘클럽, 기술을 사업으로③]할로와, 공간 상태 읽고 설비·로봇 대응 연결",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
 "id": "83854e61a74bda",
 "t": "Tomas Salvo usa impressão 3D e um turbojato para quebrar recorde de drone de 465 mph",
 "r": "",
@@ -18553,11 +18779,11 @@
 {
 "id": "e7894c8732a324",
 "t": "DEEP Robotics lança X50 quadrúpede com carga útil reivindicada de 50 quilogramas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0xzVlBwcmJtS3hqYmJibzIyOFQ5VWcyV0x4ZXVBTkxQVU05YTJFVnV4RXBLMTBvaUROUFVPOHJxSkc0NlBnVHFxT0o3QzduWHZTRDF3RHBpc2tOMWNEVUNMdzFoRk5kaktFUTFRM294Z3lSWHhhRFNsdWdLX3YzREFackpDVVJUY1Zrb3Q4UEJpTFlEaVZiZm00cXI?oc=5",
+"r": "A DEEP Robotics afirma que o X50 pode transportar 50 kg a 3 m/s por mais de dois quilômetros, visando inspeção industrial, transporte de equipamentos e resposta a emergências.",
+"u": "https://pandaily.com/deep-robotics-x50-heavy-duty-quadruped-50kg-payload-inspection-firefighting",
 "f": "Pandaily",
 "s": "pandaily.com",
-"i": "",
+"i": "https://cms-image.pandaily.com/1/robot_058ae551da.png",
 "d": "2026-11-07T04:09-03:00",
 "c": [
 "quadrupedes"
@@ -18565,10 +18791,11 @@
 "l": 1,
 "to": "DEEP Robotics Launches X50 Quadruped With a Claimed 50-Kilogram Working Payload",
 "lg": "en",
-"p": 9.0,
+"p": 10.3,
 "cr": 2,
 "cv": "Pandaily",
-"mx": 0
+"mx": 1,
+"rx": "A DEEP Robotics afirma que o X50 pode transportar 50 kg a 3 m/s por mais de dois quilômetros, visando inspeção industrial, transporte de equipamentos e resposta a emergências."
 },
 {
 "id": "a1ec5c66854cd6",
@@ -20013,11 +20240,11 @@
 {
 "id": "9c40e64c640edb",
 "t": "Âncoras de robôs humanóides biônicos 'primeiras do mundo' reveladas pela mídia estatal chinesa",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhjWmJrT1Y0ZGtqeVVxVG50X3FCT2l6TTI5Z2R3c2ZPazhMOXRhUDdXOWhnSS1LQTgyWmhNUXlwcmpkNUpjT3F0Xzg3UjZwcjdfeG53VEtqMEtwajlJV0xuTFJPc2p2TUdQcHRyT05mb01INmhkSUZOMzFWTGpVY2prZ3A0MkNJc2dFdjB3QkxqczdrSXFkTjQ0QQ?oc=5",
+"r": "O meio de comunicação estatal chinês Xinhua revelou os primeiros robôs humanóides biônicos do mundo em um fórum em Pequim na quinta-feira.",
+"u": "https://interestingengineering.com/ai-robotics/chinese-media-world-first-bionic-humanoid-anchor",
 "f": "Interesting Engineering",
 "s": "interestingengineering.com",
-"i": "",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/World-first-bionic-humanoid-anhors-of-Chinese-state-media-at-a-Beijing-forum-1.jpg",
 "d": "2026-11-06T12:07-03:00",
 "c": [
 "humanoides"
@@ -20025,19 +20252,20 @@
 "l": 1,
 "to": "​‘World-first’ bionic humanoid robot anchors unveiled by Chinese state media",
 "lg": "en",
-"p": 10.3,
+"p": 11.6,
 "cr": 3,
 "cv": "Interesting Engineering",
-"mx": 0
+"mx": 1,
+"rx": "O meio de comunicação estatal chinês Xinhua revelou os primeiros robôs humanóides biônicos do mundo em um fórum em Pequim na quinta-feira."
 },
 {
 "id": "4418b2df300744",
 "t": "Robotible lança software humanóide de ‘transplante de habilidades’ no início do próximo ano",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ocG9Jd3hUMGk2MktjVC1mU0lJQ05ReG5acl9ZWjVFVXpCR3Uwb3p5V3F0c3BfdTJJdXppaW43aG5Hcl9DNGVVXzBMSzl5UzY0bDJfbGVn?oc=5",
+"r": "Robotible, uma empresa física de inteligência artificial (IA), está começando a vender software de ‘redirecionamento de habilidades’ que transplanta a tecnologia de movimento de robôs humanóides para diferentes hardwares. O plano é atingir o mercado físico de IA com uma solução integrada que controle e treine vários…",
+"u": "https://zdnet.co.kr/view/?no=20261106211924",
 "f": "지디넷코리아",
 "s": "zdnet.co.kr",
-"i": "",
+"i": "https://image.zdnet.co.kr/2026/11/06/b1f1a1b02720b9d773ca9d9cd831c468.jpg",
 "d": "2026-11-06T21:29-03:00",
 "c": [
 "humanoides"
@@ -20045,10 +20273,11 @@
 "l": 1,
 "to": "로보터블, 내년 초 휴머노이드 '스킬 이식' 소프트웨어 출시",
 "lg": "ko",
-"p": 9.0,
+"p": 10.3,
 "cr": 2,
 "cv": "ZDNet Korea",
-"mx": 0
+"mx": 1,
+"rx": "Robotible, uma empresa física de inteligência artificial (IA), está começando a vender software de ‘redirecionamento de habilidades’ que transplanta a tecnologia de movimento de robôs humanóides para diferentes hardwares. O plano é atingir o mercado físico de IA com uma solução integrada que controle e treine vários robôs com um software, sem estar vinculado a um fabricante específico de robôs. O CEO da Robotible, Choi In-hyeon, se encontrou com um repórter no '2026 Robo World' realizado na KINTEX em Goyang-si, Gyeonggi-do, no dia 5 e disse: \"Lançaremos software de retargeting de habilidades no início do próximo ano.\" IsoMotion é um software que permite que habilidades desenvolvidas em um humanóide sejam utilizadas em outros humanóides. Como trabalhamos com vários robôs, há uma demanda para utilizar as habilidades aprendidas em outros robôs. O CEO Choi disse: “Eu o desenvolvi porque queria aplicar uma única habilidade a vários robôs enquanto usava vários hardwares humanóides” e acrescentou: “A resposta dos professores do laboratório universitário que viram a demonstração de isomotion no local do Robo World foi especialmente boa”.\nA seguir, eles mostraram como essa habilidade foi transferida com sucesso para outro robô por meio do isomotion."
 },
 {
 "id": "d3518bca05b97d",
@@ -21493,6 +21722,35 @@
 ],
 "2026-11-05": [
 {
+"id": "76ec006dd2e520",
+"t": "Clair College revela o nome do robô humanóide",
+"r": "Clair College nomeou oficialmente seu robô humanóide. Bob Bellacicco da CTV Windsor dá uma olhada.",
+"u": "https://www.ctvnews.ca/windsor/video/2026/11/05/st-clair-college-unveils-humanoid-robots-name/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-05-2026%2Ft_909f833fb1874458b11aeeefda2456ab_name_WIN110526_BELLACICCO_1818.jpg?smart=true&auth=a9203193e642547436d5ccf925eec6982c15d1c4608317552df42097d977a5e5&width=1200&height=630",
+"d": "2026-11-05T20:29-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "St. Clair College unveils humanoid robot’s name",
+"lg": "en",
+"p": 13.1,
+"o": [
+{
+"f": "CBC",
+"u": "https://www.cbc.ca/player/play/video/9.7411354",
+"s": "cbc.ca",
+"id": "a45ce3035fbca3"
+}
+],
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "Clair College nomeou oficialmente seu robô humanóide. Bob Bellacicco da CTV Windsor dá uma olhada."
+},
+{
 "id": "e017e0e5b6c6d2",
 "t": "Serve Robotics lança novos negócios para se tornar a AWS para robôs",
 "r": "A Serve Robotics anunciou, juntamente com seus lucros do terceiro trimestre, que lançará uma nova linha de negócios chamada Physical AI Services para oferecer aos clientes sua conectividade e ferramentas de dados.",
@@ -21514,7 +21772,7 @@
 "o": [
 {
 "f": "TechCrunch",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
+"u": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
 "s": "techcrunch.com",
 "id": "ea9d48d66ae55c"
 }
@@ -21523,32 +21781,46 @@
 "rx": "A Serve Robotics, fabricante de robôs autônomos de entrega nas calçadas, está expandindo além de suas operações de entrega autônoma em uma tentativa de se tornar fornecedora de tecnologia para outras empresas que constroem robôs. Especificamente, a Serve Robotics oferecerá aos clientes suas ferramentas de conectividade e dados. Ela também está trabalhando com a T-Mobile para aproximar o poder da computação de IA dos robôs, anunciou a Serve junto com seus lucros do terceiro trimestre na quinta-feira.\n“Estamos resolvendo o problema dos robôs em espaços humanos”, disse o CEO e cofundador da Serve Robotics, Ali Kashani, ao TechCrunch. A Serve Robotics já fabrica dois tipos de robôs, o lindo robô de entrega na calçada com olhos arregalados e outro projetado para hospitais, adquirido por meio da aquisição da Diligent Robotics."
 },
 {
-"id": "76ec006dd2e520",
-"t": "Clair College revela o nome do robô humanóide",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkNQam5WSTNjQWhwRW4zRzZrS3NCWWZDRjR3YnFwcEs0WTZ3eC1Yd2I3dHhacUtxM1FxMnJpTDRmTnliZ1ZDdlFMWWJ5RjZuWWdqUlpxZjF5ZG5QZ1BnM0lFZ2RyN25FWUNMT0xoMjZQcFMzSmxLeE0yZDE1V0t0bTJUNE1rSnBXSThtVndlVlVIQ2plZU5NU3dn?oc=5",
-"f": "CTV News",
-"s": "ctvnews.ca",
-"i": "",
-"d": "2026-11-05T20:29-03:00",
+"id": "dc66423a678a4a",
+"t": "DJI apresenta o novo drone Matrice 5T para intervenções emergenciais",
+"r": "DJI anunciou o lançamento do Matrice 5T, o novo drone empresarial compacto destinado a operações aéreas em condições complexas. O aparelho tem classificação IP55 contra poeira e chuva, garante autonomia de voo de até 59 minutos e funciona em faixa de temperatura entre -20 °C e 50 °C. E pela primeira vez há…",
+"u": "https://www.ansa.it/canale_tecnologia/notizie/novita_recensioni/2026/11/05/dji-presenta-il-nuovo-drone-matrice-5t-per-interventi-di-emergenza_f2ca3885-b4b5-43cd-8f8b-adf3d4883e20.html",
+"f": "ANSA",
+"s": "ansa.it",
+"i": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/c3ef2e0107d0057c20a81eb43324ea17.jpg",
+"d": "2026-11-05T09:16-03:00",
 "c": [
-"humanoides"
+"drones"
 ],
 "l": 1,
-"to": "St. Clair College unveils humanoid robot’s name",
-"lg": "en",
-"p": 11.8,
-"o": [
-{
-"f": "CBC",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcDNkWXlFR3l5OWg0TmVoSEJTZjZ6b1l1eWR4U3pQcWJfR3ZSbW05U3ZPSXVOTTZ1TUc1UUZiOWM0aEVHRThZcVdDV0h2RFZqSnRFZTcyWGtYZw?oc=5",
-"s": "cbc.ca",
-"id": "a45ce3035fbca3"
-}
-],
+"to": "Dji presenta il nuovo drone Matrice 5T per interventi di emergenza",
+"lg": "it",
+"p": 10.8,
 "cr": 3,
-"cv": "CTV News",
-"mx": 0
+"cv": "ANSA",
+"mx": 1,
+"rx": "DJI anunciou o lançamento do Matrice 5T, o novo drone empresarial compacto destinado a operações aéreas em condições complexas. O aparelho tem classificação IP55 contra poeira e chuva, garante autonomia de voo de até 59 minutos e funciona em faixa de temperatura entre -20 °C e 50 °C. E pela primeira vez há processamento baseado em inteligência artificial a bordo, capaz de analisar simultaneamente fluxos de vídeo térmicos e visíveis para identificar mais de vinte tipos de alvos, incluindo veículos e barcos. A integração com o software DJI FlightHub 2 e o aplicativo DJI Pilot 2 permite a identificação do alvo por meio de prompts de texto e imagem, bem como a geração autônoma de rotas de patrulha com ações predefinidas, como pairar ou aquisição de alvo."
+},
+{
+"id": "42e94628378539",
+"t": "Já se passou quase um ano desde que a FCC proibiu a maioria dos novos drones de consumo: classificamos os que ainda estão à venda",
+"r": "Além das câmeras, o drone vem com um motor potente e uma bateria de longa duração que permite voar em condições de vento e ainda voltar para casa com imagens nítidas e estáveis. E é muito difícil deixar passar um drone desta qualidade por um preço tão baixo. Assim como o DJI Neo, o HoverAir X1 é um drone com câmera…",
+"u": "https://www.popularmechanics.com/technology/gear/a74248262/drones-still-on-sale-2026/",
+"f": "Popular Mechanics",
+"s": "popularmechanics.com",
+"i": "https://hips.hearstapps.com/hmg-prod/images/79f5cbd3-6721-49b7-9a63-ae83866f0ede.png?crop=0.497xw:0.56xh;0.043xw,0.196xh&resize=1200:*",
+"d": "2026-11-05T16:52-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "It’s Almost a Year Since the FCC Banned Most New Consumer Drones: We Rank the Ones Still on Sale",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Popular Mechanics",
+"mx": 1,
+"rx": "Além das câmeras, o drone vem com um motor potente e uma bateria de longa duração que permite voar em condições de vento e ainda voltar para casa com imagens nítidas e estáveis. E é muito difícil deixar passar um drone desta qualidade por um preço tão baixo. Assim como o DJI Neo, o HoverAir X1 é um drone com câmera pequena durável e bastante acessível, o que o torna uma ótima opção para iniciantes.\nO drone tem uma câmera 4K incrivelmente nítida, mais de 30 minutos de vôo e uma velocidade máxima impressionante de quase 36 mph. O HS360E não é tão impressionante quanto o Mini da DJI ou o HoverAir X1 no papel, mas você ainda terá um drone de câmera 4K com alguns recursos premium a um preço muito razoável. Notavelmente, este drone não possui câmera."
 },
 {
 "id": "83b24b66bcd50e",
@@ -21601,7 +21873,7 @@
 "id": "249d04acd67f64",
 "t": "Antenas 5G como radar anti-drone: Ericsson apresenta Isac System para combinar detecção e comunicação móvel",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVTRSMmhXam1ydjgzMUpxQmVMOGt0V3B5enNSa2E2MmhyYW5CUmVfdWNRS0R3MmF1TUJoUWwyVkEwOU1SUjQ2bkYwX2Y2RkhfMzZGa3FFS3ZfckNLLU95RTdOaVFUMzg3NFNteGFGbGVhenZHYmEzR3dZQzlNanozUnI0dGRqbzh4QW5UbkRUdXh1QTRkc3ZvZUFjQnpucllUbUx1TDNMUWQ4cXBPNkozTnJ0SWcyOE1VVXJXdHBuMGoxdGRSNHNqeGs0ZTMzemZnVjdGR01nSGNUbUpBWjhqSkRDNlFaSnpnQnhSS1NBcWdPaGNKREVXVHRUZE9sWUVMREtGWW1ocFUwSDJvMUxXaTlwTlVVVTVpWXUzRi1sajBfS1FKXzI2U0loUnZsZUVqTFpsWVlQN3ZaU0VXTU1LeUl4SDNWdk5ZWGp5azF2MEw?oc=5",
+"u": "https://www.usinenouvelle.com/industrie-technologie/numerique/technos-telecoms/des-antennes-5g-en-guise-de-radar-anti-drones-ericsson-devoile-isac-system-pour-marier-detection-et-communication-mobile.MOO6GFWSLRCUBITGQA7MY7BBZA.html",
 "f": "L'Usine Nouvelle",
 "s": "usinenouvelle.com",
 "i": "",
@@ -21615,53 +21887,13 @@
 "p": 9.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 0
-},
-{
-"id": "dc66423a678a4a",
-"t": "DJI apresenta o novo drone Matrice 5T para intervenções emergenciais",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTmoyMmxmdEFwdUtHWnMzYmtxYjJSOF9zRVdMaHJkc3FIc1VLQVFKakVEOUFhY1ZXWWJxN2w5Z3BMVDR6aVlvckZrcHcyaFVjTmJ4X211VWZiQnNTUHlsMmtXWm9ic1Q2SWpiQ2ozb2lwa1BQU2NpQlVvcWY1QkExMUE4cWVIYzZHdHpqZ2Y5REFKSHU2TFpHOXItUzZ2Y1UxbWpOMUZOTXpBNFIwOGNVM0pnRkc0X280N25DelJ6aDNBcFBHdjBJb3pPQ0VVdVpyTEg1LXZ3VTV0QlYzenVWa0NvWTZYN3hWcVd3SG8wbFhkRDdfSnNCdVRFajBqV1VUMVdiSTF0SVZXdmJaUmJNS9IBlgJBVV95cUxON25GVUxMbTZmaGtsTEZOLVBObWtFV2UwR2Y1bjhuWUY2MDdPdllrWjlMLTMzNkppQUNhLWxQRVNMaUVfNHZTMmhqQTRDZ3NlNHRYQ0VHUDFnSVV0TDFlQm83Y0FMeWNJWVdPT3FnbW1NdG80ekk4Y211SlBnbXRELVdiUUxUUmZuLWRQNTNiMDBQT0ZfYk82MkV2MzZDT3hsU01RdGFFMTBFNWNmdmRPRnNMTTd4QXlJVVFza3ZLYzEzdXZKeDl5VHFwTU1Nd25tSXplaEpkSXhka2phcm5Ld1EwaTFmMW1QdmhhSUZpZWJkMUN0S1F1enZfNzY4a1JuRm12U2Q1bWFvZUR2UTVGdm5pZWc3dw?oc=5",
-"f": "ANSA",
-"s": "ansa.it",
-"i": "",
-"d": "2026-11-05T09:16-03:00",
-"c": [
-"drones"
-],
-"l": 1,
-"to": "Dji presenta il nuovo drone Matrice 5T per interventi di emergenza",
-"lg": "it",
-"p": 9.5,
-"cr": 3,
-"cv": "ANSA",
-"mx": 0
-},
-{
-"id": "42e94628378539",
-"t": "Já se passou quase um ano desde que a FCC proibiu a maioria dos novos drones de consumo: classificamos os que ainda estão à venda",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGhQT0Z2NWxHa1hVSGZsQTUzb2FsdEV6NTN0ei1pTGt1SV82UU1fVnliN2s1WlVMVjdnalpTRDFFOEZ0TFVwOTZxY1JCUzN5RUJ5ZW1reGUxY0FsRGRXcDJjQ0dhcXp0YVBXOTlFVE1wc01xQTRGMVAzeFdPb0VGMnlPS2IzX1FLaGNzRXln?oc=5",
-"f": "Popular Mechanics",
-"s": "popularmechanics.com",
-"i": "",
-"d": "2026-11-05T16:52-03:00",
-"c": [
-"drones"
-],
-"l": 1,
-"to": "It’s Almost a Year Since the FCC Banned Most New Consumer Drones: We Rank the Ones Still on Sale",
-"lg": "en",
-"p": 9.5,
-"cr": 3,
-"cv": "Popular Mechanics",
-"mx": 0
+"mx": 1
 },
 {
 "id": "36673caff09df9",
 "t": "AceiiLab apresenta robô de tênis inteligente A1 para levar ralis em movimento para o treino solo",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1MySTd1NGd5U0ZXZVhqMnd1LU5hQWJMdkYtTTB6VG05UC1KZ3EyanpxUmsyWlZtbzViUWFWLWZyWFczdnFSMGY0N2NyWWlPTC1sOXlWNm5wSTBKejhvSWpJaVJkNVRXMXRzM3YtSU1xalVrNUxtdDhaU2xQTlNWRUhtMGV6cGZyd1RKOFZ6UkVVZmpDTHBQVjIwQWZWREtuUjgyVGlPODVLcmlRZGxaVjVnTGFld0FPdzZWVE01WEtPREZscUhmYlBOVnpYY05xazBR?oc=5",
+"u": "https://www.usatoday.com/press-release/story/56045/aceiilab-introduces-a1-smart-ai-tennis-robot-to-bring-moving-rallies-to-solo-practice/",
 "f": "USA Today",
 "s": "usatoday.com",
 "i": "",
@@ -21674,7 +21906,8 @@
 "lg": "en",
 "p": 9.5,
 "cr": 3,
-"cv": "USA Today"
+"cv": "USA Today",
+"mx": 1
 },
 {
 "id": "adae26a875a152",
@@ -22363,6 +22596,26 @@
 "cr": 3,
 "cv": "Il Sole 24 Ore",
 "mx": 0
+},
+{
+"id": "574315b2ec8479",
+"t": "“CES 2026” é sobre robôs humanóides e IA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORUoybFEwTGpIZHJ0aVlxeUlXTHVUV1BmZTM0b0o5MU5KYWtaci1OZXc5dEdCRWVXeXZ6cHl1cG4zX2xWeEFLMjlfRU1lckxELTRKSG95SWMwTUQxZGZuWFZoaGgwSDFEZWpYc2Jremw4YUJQRGgxMnN2UlRJODJzdlhseWg4VjRsMDRmbFRiVEFSSlBOOFVEMXE5a3haa0VFYjc2Q1FmRjlJUXNQTnhRS2NGbnBPTVZ4QlA3TzdMNl9wanJpUzdFalc1SDVYYnhZMkFjZWFKd3NDWG5HUGlkZWRQSDJsa1ZfRDVua1R4YzRkeF84SDk4TmszMUpQLV9ZVXc?oc=5",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "",
+"d": "2026-11-05T23:12-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "人型ロボット・AIに湧く「CES 2026」",
+"lg": "ja",
+"p": 4.3,
+"cr": 3,
+"cv": "Nikkei Asia"
 },
 {
 "id": "b2fd7296e59709",
