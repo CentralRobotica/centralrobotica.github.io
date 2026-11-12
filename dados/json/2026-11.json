@@ -257,7 +257,7 @@
 ],
 "cr": 3,
 "cv": "Toronto Star",
-"mx": -2
+"mx": -3
 },
 {
 "id": "a91d5b118dcbd8",
@@ -318,7 +318,7 @@
 }
 ],
 "esp": 1,
-"mx": 1
+"mx": 2
 },
 {
 "id": "8369a1c308a9a2",
@@ -347,7 +347,7 @@
 "id": "645d5dfcfb6a4c"
 }
 ],
-"mx": -1
+"mx": -2
 },
 {
 "id": "2ad9222b0f6979",
@@ -541,7 +541,7 @@
 ],
 "cr": 3,
 "cv": "United Daily News",
-"mx": -1
+"mx": -2
 },
 {
 "id": "9c580fed800821",
@@ -569,7 +569,7 @@
 ],
 "cr": 3,
 "cv": "United Daily News",
-"mx": -1
+"mx": -2
 },
 {
 "id": "30a9e9a269ff05",
@@ -598,7 +598,7 @@
 "id": "9a9831845fd23b"
 }
 ],
-"mx": 1
+"mx": 2
 },
 {
 "id": "81951f28bad06a",
@@ -1165,6 +1165,28 @@
 "mx": 0
 },
 {
+"id": "a6871958ae01de",
+"t": "DJI M300 Crash Prompts Mandatory Arm-Lock Checks for UK Police Drone Teams",
+"r": "AAIB November 2026 Bulletin AccidentAircraft Type and Registration: DJI M300No & Type of Engines: Four",
+"u": "https://www.suasnews.com/2026/11/dji-m300-crash-prompts-mandatory-arm-lock-checks-for-uk-police-drone-teams/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2025/11/kent-police-training-1.webp?fit=1200%2C1000&ssl=1",
+"d": "2026-11-12T16:40-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "DJI M300 Crash Prompts Mandatory Arm-Lock Checks for UK Police Drone Teams",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 0
+},
+{
 "id": "59a14ed03c9239",
 "t": "Symbotic CTO James Kuffner sees strong prospects for warehouse automation",
 "r": "Symbotic has integrated palletizing, storage, loading, and other systems. Credit: Eugene Demaitre In June 2026, Symbotic Inc. named Dr. James Kuffner as its chief technology officer, succeeding George Dramalis. Kuffner has more than 30 years of experience in engineering research and executive management, and he joined…",
@@ -1332,6 +1354,25 @@
 "mx": 0
 },
 {
+"id": "9026da65621afb",
+"t": "AGIBOT presenta en la Web Summita a Luka, su robot humanoide de tamaño completo",
+"r": "",
+"u": "https://www.milenio.com/internacional/agibot-presenta-en-la-web-summit-a-luka-su-robot-humanoide",
+"f": "MILENIO",
+"s": "milenio.com",
+"i": "https://cdn.milenio.com/uploads/media/2026/11/12/luka-robot-humanoide-agibot-foto.jpeg",
+"d": "2026-11-12T12:36-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"p": 5.3,
+"cr": 3,
+"cv": "Milenio",
+"mx": 1
+},
+{
 "id": "8fbacd96cb13d5",
 "t": "Notícias: Agile ONE SN: Humanóide compacto construído em NVIDIA Isaac GR00T",
 "r": "",
@@ -1350,6 +1391,28 @@
 "p": 5.3,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
+"mx": 0
+},
+{
+"id": "fc82c12cfd6542",
+"t": "GXO and Apptronik Expand Partnership to Scale Humanoid Deployment",
+"r": "",
+"u": "https://markets.businessinsider.com/news/stocks/gxo-and-apptronik-expand-partnership-to-scale-humanoid-deployment-1036755306",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/media/e96262b2-6464-4f84-910b-b57e53f2aacc/small/gxo-logo-220x193mm-jpg.jpg",
+"d": "2026-11-12T17:47-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "GXO and Apptronik Expand Partnership to Scale Humanoid Deployment",
+"lg": "?",
+"nt": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Business Insider",
 "mx": 0
 },
 {
@@ -1378,7 +1441,7 @@
 "id": "7d4953d34ddf57"
 }
 ],
-"mx": 1
+"mx": 2
 },
 {
 "id": "086f5582d0abf0",
@@ -1642,6 +1705,34 @@
 "rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
 },
 {
+"id": "d1b58351605805",
+"t": "SoftBank lidera rodada de US$ 500 milhões para robôs ágeis",
+"r": "",
+"u": "https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots",
+"f": "Sifted",
+"s": "sifted.eu",
+"i": "https://content.sifted.eu/wp-content/uploads/2026/06/02153500/Screenshot-2026-06-02-at-15.34.48-1024x677.png",
+"d": "2026-11-12T06:43-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "SoftBank leads $500m round for Agile Robots",
+"lg": "en",
+"p": 4.7,
+"cr": 2,
+"cv": "Sifted",
+"mx": 0,
+"o": [
+{
+"f": "Tech.eu",
+"u": "https://tech.eu/2026/11/12/softbank-leads-500m-funding-round-in-agile-robots/",
+"s": "tech.eu",
+"id": "0434fc30f18283"
+}
+]
+},
+{
 "id": "7100fc61525097",
 "t": "Da linha de montagem à sala de testes: Align resolve desafio complexo de transporte",
 "r": "O fabricante precisava de uma solução de transporte discreta e altamente manobrável, capaz de mover conjuntos de motores pesando até 50.000 libras e medindo de 10 a 14 pés de altura. Pontes rolantes estão disponíveis em toda a instalação, e a folga da porta da sala de teste é de aproximadamente 14 pés de altura. Antes de usar o…",
@@ -1686,6 +1777,478 @@
 "rx": "Os investidores qualificados devem entrar em contato com seu representante ROTH para marcar reuniões individuais com a administração. (NASDAQ: PDYN), uma empresa de tecnologia com sede nos EUA que fornece software de autonomia inteligente e componentes de missão crítica para os setores de defesa e manufatura avançada, anunciou hoje que Trevor Thatcher, CFO, e Kristi Martindale, CCO, participarão de reuniões individuais com investidores institucionais na 15ª Conferência Anual de Tecnologia ROTH na quarta-feira, 18 de novembro de 2026, em Nova York, NY. Sobre a Palladyne AI A Palladyne AI é uma empresa de tecnologia com sede nos EUA que fornece software de autonomia inteligente e componentes de missão crítica para os setores de defesa e manufatura avançada. Para obter mais informações, inclusive sobre GuideTech e Palladyne Aerospace and Defense, visite www.palladyneai.com."
 },
 {
+"id": "6493ce776fae31",
+"t": "A Universidade de Ciência e Tecnologia Yuda compete na competição TIRT Robot 2026 e ganha vários prêmios",
+"r": "",
+"u": "https://www.cna.com.tw/postwrite/chi/449791",
+"f": "中央社 CNA",
+"s": "cna.com.tw",
+"i": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261112/00449789.202611121242446782M.jpg",
+"d": "2026-11-12T00:58-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "育達科技大學征戰2026 TIRT機器人大賽 勇奪多項大獎",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "CNA Taiwan",
+"mx": 0
+},
+{
+"id": "92d9cfb9817c53",
+"t": "Un drone intercettato nella regione di Riad, detriti a 30 km da la Mecca",
+"r": "",
+"u": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/12/un-drone-intercettato-nella-regione-di-riad-detriti-a-30-km-da-la-mecca_96e52fde-9cd6-4d6b-877d-b4e8e3d179f0.html",
+"f": "ANSA",
+"s": "ansa.it",
+"i": "https://www.ansa.it",
+"d": "2026-11-12T03:34-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Un drone intercettato nella regione di Riad, detriti a 30 km da la Mecca",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "ANSA",
+"mx": 0
+},
+{
+"id": "2b141596d12a63",
+"t": "Arabie saoudite : un drone intercepté dans la région de Riyad, chute de débris près de La Mecque",
+"r": "",
+"u": "https://www.lefigaro.fr/international/arabie-saoudite-un-drone-intercepte-dans-la-region-de-riyad-chute-de-debris-pres-de-la-mecque-20261112",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/12/1dc778ede336c52835313f16ece5e2222eab13d00c9c676158a42392a9957d0d.jpg",
+"d": "2026-11-12T03:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Arabie saoudite : un drone intercepté dans la région de Riyad, chute de débris près de La Mecque",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
+"id": "3769f8fe0e1a6b",
+"t": "LG CNS colabora com estudiosos de robótica em ‘IA Física’… Discussão de tarefas de aplicação em campo",
+"r": "",
+"u": "https://www.donga.com/news/It/article/all/20261112/135014917/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135014903.2.jpg",
+"d": "2026-11-12T03:59-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "LG CNS, 로봇 석학들과 ‘피지컬 AI’ 머리 맞댔다…현장 적용 과제 논의",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "a036469b48f633",
+"t": "Ping pong, recorde mundial para dois robôs: 142 trocas sem controle humano",
+"r": "",
+"u": "https://video.corriere.it/video-virali/ping-pong-record-mondiale-per-due-robot-142-scambi-senza-controllo-umano/17291d07-a4dc-4865-81b9-7f18f062dxlk",
+"f": "Corriere della Sera",
+"s": "video.corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/12/6af565053ffd2.jpeg",
+"d": "2026-11-12T04:13-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Ping pong, record mondiale per due robot: 142 scambi senza controllo umano",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 0,
+"cur": 1
+},
+{
+"id": "5981f7520deb42",
+"t": "Nos templos hindus da Índia, robôs substituem elefantes vivos",
+"r": "",
+"u": "https://www.dw.com/en/in-indias-hindu-temples-robots-replace-live-elephants/g-77991859",
+"f": "DW.com",
+"s": "dw.com",
+"i": "https://www.dw.com/en/in-indias-hindu-temples-robots-replace-live-elephants/image/jpeg",
+"d": "2026-11-12T04:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "In India's Hindu temples, robots replace live elephants",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "DW",
+"mx": 0
+},
+{
+"id": "82e6fb115199e5",
+"t": "A competição entre as mãos robóticas Yushu Robot e FANUC. Xie Jinhe compara o preço das ações: Quem tem confiança?",
+"r": "",
+"u": "https://udn.com/news/story/6839/9874540",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511418.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600",
+"d": "2026-11-12T04:29-03:00",
+"c": [
+"industriais",
+"competicoes",
+"negocios"
+],
+"l": 0,
+"to": "宇樹機器人和發那科機器手的競賽 謝金河比股價：誰有底氣？",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "485f6b3a4d08d3",
+"t": "Dar gorjeta a um robô?",
+"r": "",
+"u": "https://www.chosun.com/kid/kid_nie/2026/11/12/32NSL7J54VC2RKSU5MF4VXELKQ/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/OHH4YQU435BONBV7TZI5Y7WYXA.JPG?auth=487edbe28416da15d1bd5640efb581c9b3ca47dcd24a405743cdeeee81fd15a8&width=1200&height=630&smart=true",
+"d": "2026-11-12T04:41-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "로봇에 팁을 주라고?",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
+},
+{
+"id": "7bc16782d3b866",
+"t": "NXP lança nova plataforma integrada de robótica",
+"r": "",
+"u": "https://money.udn.com/money/story/5640/9872804",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511512.jpg&M=1&s=Y&x=0&y=0&sw=720&sh=405&sl=W&fw=1050&exp=3600",
+"d": "2026-11-12T04:43-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "恩智浦推出全新整合式機器人平台",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "671c1d5295abd0",
+"t": "[Weekly_Physical AI] Empresas que trabalham para melhorar a precisão do comportamento dos robôs",
+"r": "",
+"u": "https://it.donga.com/109908/",
+"f": "IT동아",
+"s": "it.donga.com",
+"i": "https://it.donga.com/media/__sized__/images/2026/11/12/9a5ebd0b7bd2408c-thumbnail-1920x1080-70.jpg",
+"d": "2026-11-12T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[위클리_피지컬AI] 로봇의 행동 정확도 개선에 나선 기업들 외",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "e073106d676620",
+"t": "Exclusivo: SE3, uma startup alemã que desenvolve ‘inteligência espacial’ para drones militares, recebe US$ 30 milhões em financiamento da Série A",
+"r": "",
+"u": "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/",
+"f": "Fortune",
+"s": "fortune.com",
+"i": "https://fortune.com/img-assets/wp-content/uploads/2026/11/SE3-in-the-field.png?resize=1200,600",
+"d": "2026-11-12T05:00-03:00",
+"c": [
+"negocios",
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Fortune",
+"mx": 0
+},
+{
+"id": "52c7e656d72304",
+"t": "Roborock reduz o preço de seus aspiradores robôs Saros 20 e Saros 10R: é um ótimo negócio na Black Friday",
+"r": "",
+"u": "https://www.lefigaro.fr/bons-plans/maison/roborock-baisse-le-prix-de-ses-aspirateurs-robots-saros-20-et-saros-10r-c-est-le-bon-plan-du-black-friday-20261112",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/09/cc526306be1eabcfbc3c95ca40346aa511df0a19881f9807c265eda31d8d6cc9.jpg",
+"d": "2026-11-12T05:05-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roborock baisse le prix de ses aspirateurs robots Saros 20 et Saros 10R : c’est le bon plan du Black Friday",
+"lg": "fr",
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
+"id": "6e3d60c8d2f285",
+"t": "Cuidado: O que a IA e a robótica poderiam fazer para combater o aumento dos custos",
+"r": "",
+"u": "https://www.handelsblatt.com/politik/deutschland/pflege-was-ki-und-robotik-gegen-steigende-kosten-ausrichten-koennten/100268426.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "https://images.handelsblatt.com/MtvRGumSSDbb/cover/4000/2250/0/0/208/207/0.5/0.5/pflegekraft-im-altersheim.jpg",
+"d": "2026-11-12T05:29-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Pflege: Was KI und Robotik gegen steigende Kosten ausrichten könnten",
+"lg": "de",
+"p": 4.5,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 0
+},
+{
+"id": "302495177c9f75",
+"t": "O experimento britânico de drones com porta-aviões pode ser a chave para o próximo salto naval da Índia",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/defence/international/britains-aircraft-carrier-drone-experiment-could-hold-the-key-to-indias-next-naval-leap/articleshow/135758482.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135758520,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-12T05:38-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Britain's aircraft carrier drone experiment could hold the key to India's next naval leap",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "8096200640bfa6",
+"t": "Receitas por aparelho: forno, airfryer, micro-ondas e robô",
+"r": "",
+"u": "https://www.lavanguardia.com/comer/recetas/por-aparato/",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/05/29/5ed11fb61d750.jpeg",
+"d": "2026-11-12T05:48-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Recetas por aparato: horno, airfryer, microondas y robot",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 0
+},
+{
+"id": "62fb80596e4898",
+"t": "Receitas com Thermomix e outros robôs de cozinha",
+"r": "",
+"u": "https://www.lavanguardia.com/comer/recetas/por-aparato/robot-de-cocina/",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/11/10/5faa7a576ed10.r_d.1402-535-0.jpeg",
+"d": "2026-11-12T05:48-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Recetas con Thermomix y otros robots de cocina",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 0
+},
+{
+"id": "a5559cb4e2a8ce",
+"t": "Marinheiros robóticos enfrentam as tempestades de inverno da Antártica",
+"r": "",
+"u": "https://mg.co.za/the-green-guardian/2026-11-12-robotic-sailors-take-on-antarctica-s-winter-storms/",
+"f": "Mail & Guardian",
+"s": "mg.co.za",
+"i": "https://images.newsteam.io/image/400/GbSdY1y2zdQBVnnzHK3rSbG8QuJUp1azVtfwi6zBC5aXPezmtQDQZpGtwEqjMPwPzndLgCivSR9PRgXcNErnHEb36bFrNbTHk1vLv7138ZX9UQapj9xW2AL7NjnvjQiqePGmsXUP2fwoph42Tazq4",
+"d": "2026-11-12T06:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robotic sailors take on Antarctica’s winter storms",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Mail & Guardian",
+"mx": 0
+},
+{
+"id": "aa1991a1554c48",
+"t": "Black Friday Ecovacs: até 800€ de desconto nestes 5 robots que farão a limpeza por si!",
+"r": "",
+"u": "https://www.futura-sciences.com/conso/bons-plans/guides-entretien-sols-black-friday-ecovacs-jusqua-800-remise-ces-5-robots-vont-faire-menage-votre-place-11770/",
+"f": "Futura, le média qui explore le monde",
+"s": "futura-sciences.com",
+"i": "https://cdn8.futura-sciences.com/a1280/images/futura-1280x800.jpg",
+"d": "2026-11-12T06:37-03:00",
+"c": [
+"casa",
+"competicoes"
+],
+"l": 0,
+"to": "Black Friday Ecovacs : jusqu'à 800 € de remise sur ces 5 robots qui vont faire le ménage à votre place !",
+"lg": "fr",
+"p": 4.5,
+"cr": 3,
+"cv": "Futura Sciences",
+"mx": 0
+},
+{
+"id": "2c75c46a234c17",
+"t": "Ultrarrápido, solar e operado por robôs: BYD inaugura estação de recarga de carros elétricos mais avançada do mundo",
+"r": "",
+"u": "https://motor.elpais.com/coches-electricos/ultrarrapida-solar-y-operada-por-robots-byd-inaugura-la-estacion-de-recarga-de-coches-electricos-mas-avanzada-del-mundo/amp/",
+"f": "Motor EL PAÍS",
+"s": "motor.elpais.com",
+"i": "https://motor.elpais.com/wp-content/uploads/2026/11/12/Estacion-recarga-BYD-1200x675.jpg",
+"d": "2026-11-12T06:44-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Ultrarrápida, solar y operada por robots: BYD inaugura la estación de recarga de coches eléctricos más avanzada del mundo",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "El País",
+"mx": 0
+},
+{
+"id": "d819e075a1740e",
+"t": "Eles monitoram tubarões com drones e descobrem que ouvem muito melhor do que pensávamos",
+"r": "",
+"u": "https://amp.elmundo.es/como/2026/11/12/6af58e4fe4d4d8e15d8b4595.html",
+"f": "El Mundo",
+"s": "amp.elmundo.es",
+"i": "https://e01-phantom-elmundo.uecdn.es/79f5e5960fc88276013cc9e2b0062b09/resize/1200/f/webp/assets/multimedia/imagenes/2026/11/12/17944763634738.jpg",
+"d": "2026-11-12T07:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Vigilan con drones a tiburones y descubren que oyen mucho mejor de lo que pensábamos",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "El Mundo",
+"mx": 0
+},
+{
+"id": "b4944f46c58601",
+"t": "Defesa: um escudo anti-drone nas estações Carabinieri",
+"r": "",
+"u": "https://en.ilsole24ore.com/art/drone-defence-shield-at-carabinieri-stations-AJ55auDC",
+"f": "Il Sole 24 ORE",
+"s": "en.ilsole24ore.com",
+"i": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/13/Immagini/Ritagli/AdobeStock_420752209-U78605326726IyN-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+"d": "2026-11-12T07:00-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Defence: an anti-drone shield at Carabinieri stations",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 0
+},
+{
+"id": "da3b4e63e173e8",
+"t": "Meet the founder betting Washington can help him take on China's robot makers",
+"r": "",
+"u": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "https://i.insider.com/6af38c88a96052a81c349b1b?width=1200&format=jpeg",
+"d": "2026-11-12T07:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Meet the founder betting Washington can help him take on China's robot makers",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "2ffef84c04bb08",
+"t": "機器人新戰國3／機器人打開家庭服務兆元商機 三大革命翻轉生活",
+"r": "",
+"u": "https://money.udn.com/money/story/124921/9874102?from=edn_subcatelist_cate",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35510751.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=855&sl=W&fw=1050&exp=3600",
+"d": "2026-11-12T07:09-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "機器人新戰國3／機器人打開家庭服務兆元商機 三大革命翻轉生活",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
 "id": "3e678d74f22935",
 "t": "SoftBank apoia robôs ágeis em impulso humanóide de US$ 500 milhões",
 "r": "",
@@ -1724,13 +2287,13 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "b279b6cff281e4",
 "t": "GXO Doubles Down On Humanoids With Plan For Up To 1,000 Apptronik Robots",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW01STRBOHJNWjdIdDhmWlVLSEtWbm1vRjRNa1VPNW93REhQNk15QVN6YnhwWWYwblZlTnNCVHIxUzJoeUlKMmlBMDhJNy1fWTZYc0FqUnFDTDRzdUFtRWxDT2RyXzZUbWpzSnMyTHlwLTRfWUhzTTRMS2Q3Rk1SVXc2RDlsblBTYXo0Q3BZWVVJYjAxeHJJVjMxTkRhbEo3UjNEc0U5SnI3QURCdzhvdWVxV0RocnVxbmdYeUJDVkNkVjA?oc=5",
+"u": "https://www.forbes.com/sites/johnkoetsier/2026/11/12/gxo-doubles-down-on-humanoids-with-plan-for-up-to-1000-apptronik-robots/",
 "f": "Forbes",
 "s": "forbes.com",
 "i": "",
@@ -1744,7 +2307,8 @@
 "nt": 1,
 "p": 4.3,
 "cr": 3,
-"cv": "Forbes"
+"cv": "Forbes",
+"mx": 1
 },
 {
 "id": "10dcaf0088a3e7",
@@ -1764,26 +2328,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
-},
-{
-"id": "9026da65621afb",
-"t": "AGIBOT presenta en la Web Summita a Luka, su robot humanoide de tamaño completo",
-"r": "",
-"u": "https://www.milenio.com/internacional/agibot-presenta-en-la-web-summit-a-luka-su-robot-humanoide",
-"f": "MILENIO",
-"s": "milenio.com",
-"i": "",
-"d": "2026-11-12T12:36-03:00",
-"c": [
-"humanoides",
-"competicoes"
-],
-"l": 0,
-"p": 4.3,
-"cr": 3,
-"cv": "Milenio",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3f038898912d9c",
@@ -1804,7 +2349,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "1484fb1b54baa1",
@@ -1824,7 +2369,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "88664511babf45",
@@ -1852,7 +2397,7 @@
 "id": "b436ad6cf1dffd",
 "t": "Robot dog spotted taking real dog on a stroll in San Francisco",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHBsUFhvc0xhYlFKNUV2aUt3dmZ1djJCYkwxWWZQUE1MMmZuOF9tS2xSeDlmdVdRZTF2Rl9fcGlQY1k3R3R5UnNtSzB6clRhWGhlNFlQU0dXVWJyTFhKeDBGUGoxSkttUWNGSWZsbUlYM21yX0hjUU1tUk5SMlVfZHcyb0RxZFdzdlYzdG5Zd1FCaDQ0MUVqVEZIZl80d0plQmY1cFREUktkVXJrZ0dpUF9kWDl0bGViTTllcGdBWnY0NWMxWkZYbkkxdFJQc1pXcXNUa0F3?oc=5",
+"u": "https://www.usatoday.com/story/news/state/california/2026/11/12/robot-dog-spotted-taking-real-dog-on-a-stroll-in-san-francisco/92743564007/",
 "f": "USA Today",
 "s": "usatoday.com",
 "i": "",
@@ -1866,7 +2411,8 @@
 "nt": 1,
 "p": 4.3,
 "cr": 3,
-"cv": "USA Today"
+"cv": "USA Today",
+"mx": 1
 },
 {
 "id": "a82b5b90172ade",
@@ -1894,7 +2440,7 @@
 "id": "d6449de0563e9f",
 "t": "Industry Insights: Agility Co-Founder Jonathan Hurst on the Company's Humanoid Future",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTU0VnNrc3BRcUkwSU90OGtCa2kxRE1fOU5mOHo0WVZlNXRmQ1FtRmg5M3JTOU9TVnFxTkNQNHdSbm1GakJxbkltUXl2c1F1NzRRM0dSY1FFOHFLblVtR1drZDQtcmswUGJzb2k0UHdaZlZjd0NjNlp2S1J1QnlyYjNzaF82bExmQlE?oc=5",
+"u": "https://www.automate.org/robotics/industry-insights/agility-robotics-100-year-plan",
 "f": "A3 Association for Advancing Automation",
 "s": "automate.org",
 "i": "",
@@ -1908,7 +2454,8 @@
 "nt": 1,
 "p": 4.3,
 "cr": 3,
-"cv": "A3 — Association for Advancing Automation"
+"cv": "A3 — Association for Advancing Automation",
+"mx": 0
 },
 {
 "id": "2157f7546d46d7",
@@ -1976,34 +2523,6 @@
 "rx": "Parece algo saído de um episódio de A Família Addams, a mão robótica desenvolvida no Instituto Federal de Tecnologia de Zurique para operar em espaços de outra forma inacessíveis: pode andar na ponta dos dedos, levantar-se após uma queda e até digitar num teclado, mantendo o equilíbrio graças aos outros dedos. Pesquisadores do Soft Robotics Lab, liderados por Amirhossein Kazemi Pour, imaginaram um futuro em que os robôs serão capazes de separar as mãos e enviá-las para operar em espaços estreitos para inspecioná-las, operar comandos e mover objetos.\nOlhando para o futuro, os investigadores pretendem melhorar a mão robótica, equipando-a com um sistema de visão integrado e tornando-a capaz de realizar tarefas mais complexas."
 },
 {
-"id": "d1b58351605805",
-"t": "SoftBank lidera rodada de US$ 500 milhões para robôs ágeis",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jTi05bGFuTTJ0NElpbGNWVTk5Ynhvakx5bXotelFjb3ZKdnhlYTQxZDYwX0dGcnI0bGczeWJWaDZ5bDNVVzlwa0dXdUE2WElPN1N4WnFORHFIWkFYZHJRYjVzLXNnLXBLM2FkeEUxbm84WFJSU1V3aA?oc=5",
-"f": "Sifted",
-"s": "sifted.eu",
-"i": "",
-"d": "2026-11-12T06:43-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "SoftBank leads $500m round for Agile Robots",
-"lg": "en",
-"p": 3.7,
-"cr": 2,
-"cv": "Sifted",
-"mx": 0,
-"o": [
-{
-"f": "Tech.eu",
-"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWlnY0x3VWwyWkE0ckZOTlJqVWVUWUFxeVpFRnBHVzFHR19DUnoyaWdRcDRJTkxHdEJ5aHdPVVNWS1hSdWFjRzd5R3lnX0dZdTh1U3ZrTm9wOXRZaVdCcjAzMkVjVzdUZlIzVWdhMnN6NGxzZkw0ZXktdFpSalVuXzkwZw?oc=5",
-"s": "tech.eu",
-"id": "0434fc30f18283"
-}
-]
-},
-{
 "id": "66145a372b429f",
 "t": "Comunicado de imprensa: A maior exposição especializada do Japão para manutenção predial, edifícios e gerenciamento de instalações A vanguarda de \"robôs\", \"DX\" e \"edifícios inteligentes\" para desafiar a escassez de mão de obra se reunirá para realizar a \"Building Men Human Fair & Clean EXPO 2026\" (PR TIMES)",
 "r": "",
@@ -2022,26 +2541,6 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
-},
-{
-"id": "6493ce776fae31",
-"t": "A Universidade de Ciência e Tecnologia Yuda compete na competição TIRT Robot 2026 e ganha vários prêmios",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6MkpIVk9MbmszOEFJcFdqVHJKdGZ6a3U0cWEwcUplbnpFV3dDX1RfSzBmNTF5UU1WQUlBY3JJSWt6QW5QcVV5NS0tTGk0ODNLVHJheTR3?oc=5",
-"f": "中央社 CNA",
-"s": "cna.com.tw",
-"i": "",
-"d": "2026-11-12T00:58-03:00",
-"c": [
-"competicoes",
-"ia"
-],
-"l": 0,
-"to": "育達科技大學征戰2026 TIRT機器人大賽 勇奪多項大獎",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "CNA Taiwan"
 },
 {
 "id": "e4f542e23bd257",
@@ -2127,171 +2626,10 @@
 "mx": 3
 },
 {
-"id": "92d9cfb9817c53",
-"t": "Un drone intercettato nella regione di Riad, detriti a 30 km da la Mecca",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSDNnNnk5OEN6dUc1bWFVUUQ4djJ5ZWNvcnpWUUlnQzlyVWZlT0J5STYzdHcyaTNqSlA0T2RzTm4yazFYQUlsRDZJaXNYbDVjSlBQREFjdTd1S3h1QUJueG1nWDd4VllQMk95UUowaTdyb1pzUGRBSzhxckdCbUlkLXl5a0N5RFVNcXl2aDFaaGdIT1REM0ZhcDFwZEFQdDlyYkRnMzE4anQ5UFlXbnpsWjJrNXBkUjJlM2dxa1Z6cjl2STdQR3FBRTZ1cElyN0xoRzRqdjlzakVfTWFCaWdDY294Y2wzSEh5UXdyS0RYM3JLZkJ3VVZjYXF3QnNrampWMDJnTWlma9IBjAJBVV95cUxOR1AzM2NKb3o4OVdkYmJrMjAxTjd0WGhfcV83QjhUWDcyUGtTWFBGQ1MzOHFBMjkzU0FsX3llR3VITDRFQ1JMVGRoZkxEMmtHX2NRY2hkZXVILU5sN3ZqdDI2UWduU1dHVlU0Yk9ZVllNa3NBVVZpN05Dem5hMllHN0VSdzBZZ2pJS21GVkwyQ0V2dmc1anBwVlpickE2YTdOcms0YjRkNXo2SlFoa042bjJ0a05EdUgtU1VxVFlQMFhDVjdmbHJiSHFwcjNlU3RlYmJxTTUybDYzT2F6MjFHOGxXNm9hQzlYZkhSOWFqT09xNjVMT0ZMZjk4VF9NZC1tUFRWTVU4RVg0c05I?oc=5",
-"f": "ANSA",
-"s": "ansa.it",
-"i": "",
-"d": "2026-11-12T03:34-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Un drone intercettato nella regione di Riad, detriti a 30 km da la Mecca",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "ANSA"
-},
-{
-"id": "2b141596d12a63",
-"t": "Arabie saoudite : un drone intercepté dans la région de Riyad, chute de débris près de La Mecque",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVBSclFac1FCNWxoUmxuOG5JWUdTVTJrRTd6eXhZd096Z09VdW52MTU0TjJhWUJ6ZEJCdWdzRWo0UnRGV1hNUl9WV2pFd0F3dnAxQS1DZFVVTUlBSHhUZHZZeHRrYzRUQzVLZFJDQ3hwZ2MtNUdnbU5XM0xBSGFmZjJONGQ3WE5xd3BYRVpGR1laYjJrWEVjb1VSTENvNDJmNDN0bWRYVkVDLWtwWWlPS1V3Wm91MG56QkQ5NXZZbnE5LUltNHFVZjZSb085bGswYjlKWUZoNA?oc=5",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "",
-"d": "2026-11-12T03:47-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Arabie saoudite : un drone intercepté dans la région de Riyad, chute de débris près de La Mecque",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "Le Figaro"
-},
-{
-"id": "3769f8fe0e1a6b",
-"t": "LG CNS colabora com estudiosos de robótica em ‘IA Física’… Discussão de tarefas de aplicação em campo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRRUZNR0tRVnN1M1FYSzVJdl9iRUx1NEdrbTNNbUFuOUVETm9Uc09WUUJvUHByci1rTllINWNaVHpTbF9BcUg4QXA2Yk5HT252SVdWVUNJZFdBazBhNVdRMDRYaVBHaHJILWhXZTFMQdIBZkFVX3lxTFAwcG1RVE85OWs0MTExeEZPaGYyVG1kSklnZHpBNVJJZHd3azVPR0hzenNWLXNqc094c0Z2N0R0Qi1CeE1CYXpoay1sTVpIWHk2NE1IdjREenhrTW9Tc3NhZ0d5elhRZw?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-12T03:59-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "LG CNS, 로봇 석학들과 ‘피지컬 AI’ 머리 맞댔다…현장 적용 과제 논의",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo"
-},
-{
-"id": "a036469b48f633",
-"t": "Ping pong, recorde mundial para dois robôs: 142 trocas sem controle humano",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQVVMaWxuTjVQeXlES1dlZjhGRlJKdU9TbEllX2VYbDMzSDkzN1dicTZFWHlCN2M5UUFLWlM4enBkU2FTZHFSQUo2aTh6bkd1b180aWUtX0hzWVBIVDJRQlpIcEpnekF1aFBsaG9aUlJWUV9vdDZSNFFJcHFFTS1EMHF4RWx2RXp4Mi1wS3JsdmYzak85b2FFVXJDUWVmSHc1TWxuZThMZmJQbzNjM1h0MmxJdDdJd2NNQ3NIY1o2QmhzbUx0X09mbTdHWUgxTG90WHVXOUJWMEtTOURYY29tTFpR?oc=5",
-"f": "Corriere della Sera",
-"s": "video.corriere.it",
-"i": "",
-"d": "2026-11-12T04:13-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Ping pong, record mondiale per due robot: 142 scambi senza controllo umano",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera",
-"mx": 0,
-"cur": 1
-},
-{
-"id": "5981f7520deb42",
-"t": "Nos templos hindus da Índia, robôs substituem elefantes vivos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMC1GSzBqaTREVHVBTzJoekZxN0dSeHZjcDMzZE1lTWFZbWtPYnJFOThJSTNPZGFfanFJT3E3ejB4eWR1MkV0Rkx4eE9pYXQ1R1YxT1pfNFl1SGduc0V0RjBscmM0WTk4cFdaVzRGU0I2WUhTczBMMHktbnZpc0Z4QkZrZWFPR2JwNTQ2NTdpUQ?oc=5",
-"f": "DW.com",
-"s": "dw.com",
-"i": "",
-"d": "2026-11-12T04:17-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "In India's Hindu temples, robots replace live elephants",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DW"
-},
-{
-"id": "82e6fb115199e5",
-"t": "A competição entre as mãos robóticas Yushu Robot e FANUC. Xie Jinhe compara o preço das ações: Quem tem confiança?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUnlUbEh6cDJGVzJmbUNoejA4SXU0dGhtWDhZMGlzUWw0SnVYQVJjckdsVEtvR0JocmJuX1c5UFMzTFp3dEVXQjVMRDlnTl850gFWQVVfeXFMTkxqSEJKRGVzOEJQbGhxWE9Qc0R6d3lVNWJ2aXc2NFVKcHMwT25IQjVFTzhuR2VVN1AwVTlGRDVURWZUaEFBU1dVbGR6OFF4Q0ZVeWpGSUE?oc=5",
-"f": "UDN",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-12T04:29-03:00",
-"c": [
-"industriais",
-"competicoes",
-"negocios"
-],
-"l": 0,
-"to": "宇樹機器人和發那科機器手的競賽 謝金河比股價：誰有底氣？",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "485f6b3a4d08d3",
-"t": "Dar gorjeta a um robô?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wWm9saHpBWjdxSVRjVzhYOHFobWN4cWI1TjBKaXFhSGFWTHZDQU9iMlE1LXFWQXdPclE3RWtYTnZFekRnZUxTYjQ0OUoxM1VEcDJkNHh4SHpCa2xJSnRUNlJ4akZTUE5rTkRCMUw2WXVHTVJFWXlhUlh1RUFGQQ?oc=5",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-12T04:41-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "로봇에 팁을 주라고?",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 0
-},
-{
-"id": "7bc16782d3b866",
-"t": "NXP lança nova plataforma integrada de robótica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVk1La0VfdU5hcEhJbUVXQmI0RXMyRnhQX1dHeGE2ZmE1bnlpRWp1VnBnTXBuNnZhQWYzeXdGX19Qd1BBRVI3SmFLTDBna3ZtcWJoRG03bzFjUdIBX0FVX3lxTE9Xc05MY05jRU5TM09hOHhGcEZSZXpNZGwzYkJTT21kN1J0dy1hdGEyZTgyY1pfRFpRRFlaV2NxdEh3RWlUY1lSMnpJUG9ET043TGZwOXdVODZDUmFrQXNJ?oc=5",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-12T04:43-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "恩智浦推出全新整合式機器人平台",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
 "id": "4fc66cff10f499",
 "t": "Saudi coalition says intercepted drone in Riyadh region - Region - World",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHREM0pvcGtJZVB4V1pRQjF2andsRFJuUURRMDNScWk3a3ZJRjN6SFQ1YTdaamVEa1ZVdEZ5SVM5SkE0ckxlUEljYW5ScmoxMGwzLTB5RTFhVXZUOTN4dHVSMUIzZW5ScVFQVVRTSWtXR0tMcUVHa2VSV3ZWU1dvU0tlTXpJWE11cEtFcnRmZGZuYVRhUVJHM0VzR0dOWDNiM2pMRGdOX2FRblczUjBSbVVMTThfOGd2UjAyaw?oc=5",
+"u": "https://english.ahram.org.eg/NewsContent/2/8/582320/World/Region/Saudi-coalition-says-intercepted-drone-in-Riyadh-r.aspx",
 "f": "Ahram Online",
 "s": "english.ahram.org.eg",
 "i": "",
@@ -2305,94 +2643,14 @@
 "nt": 1,
 "p": 3.5,
 "cr": 3,
-"cv": "Ahram Online"
-},
-{
-"id": "671c1d5295abd0",
-"t": "[Weekly_Physical AI] Empresas que trabalham para melhorar a precisão do comportamento dos robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IQ0l5NHl1Rk5rUFlfaXo3R2ZnTVVJSFZMM2RoOVhlQlJzYzhuSTR0SnF3SktxWDExRkpJM1FQb1NLQQ?oc=5",
-"f": "IT동아",
-"s": "it.donga.com",
-"i": "",
-"d": "2026-11-12T05:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "[위클리_피지컬AI] 로봇의 행동 정확도 개선에 나선 기업들 외",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0
-},
-{
-"id": "e073106d676620",
-"t": "Exclusivo: SE3, uma startup alemã que desenvolve ‘inteligência espacial’ para drones militares, recebe US$ 30 milhões em financiamento da Série A",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmdrRTI4bHcwQzZST29FQjdhbDJSMTB4QUtOcC01Rk0zYTNscTJVMlhQbDcyV3NqMVlsN3BwTmZQZzlQRlZ2UUZPWFVPbTc1WVExZ2wySkltd1BDZU1XMFowZW5kYkdkam5Zem1EM29IS2xRQ2pvRkI2ZG53VWFZUWpRWTRuVERoQ0RWZjh1MTc0SUJBYnU2eWZDLUxGTTVoRGUzcTFOLVJyZEZaZk9MZFBMS0RTRG5pcnZaMUE0WGFqNEhRUndsdC1pQ3d6QjU5MlVhcWhMZGRHd002N3d6dTR3?oc=5",
-"f": "Fortune",
-"s": "fortune.com",
-"i": "",
-"d": "2026-11-12T05:00-03:00",
-"c": [
-"negocios",
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Fortune"
-},
-{
-"id": "52c7e656d72304",
-"t": "Roborock reduz o preço de seus aspiradores robôs Saros 20 e Saros 10R: é um ótimo negócio na Black Friday",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd2NZUUcxUjVyUE42dzhISWxSZThLM281dk51Q3hvSDdnc1pkbzJraFJvRm53Y3g1cEZKN0Q0OWVNQms0NmZuajItYXQ3ZDJfUmVxdWxFeUFxbWFDazBLV2J4cGhnanA5YXVtT1R6VDJwdHFxWmJpT3pSRXhmS3FSZnFwUGhaVkpfTldKejhwMXU3UnUwa3ZJck9CTk93bllVTmtVWnVwVkFJc19IMmIwbmVGVVplcFVBWmVVWDBtRDRfSFJ1OVJZNnFOMDVjTGtJVFpEb3BDTTVJYWxTR2Y1Z25VdVZQdURPMW44RQ?oc=5",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "",
-"d": "2026-11-12T05:05-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Roborock baisse le prix de ses aspirateurs robots Saros 20 et Saros 10R : c’est le bon plan du Black Friday",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Le Figaro",
-"mx": 0
-},
-{
-"id": "6e3d60c8d2f285",
-"t": "Cuidado: O que a IA e a robótica poderiam fazer para combater o aumento dos custos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmZDVEpMa1FrY2lET0ItVVEyUmZlaHRPeDlDcDM3ZGhRclk4ZVd0THVxYlNOSlJvS0pBZ3JqZW1NS1c0c19aMjhkb2V1aEEwRERjeVY0bEdDamJsd0UwZ1loWVRuVTZjaTlTOHlDWThDLTJiWW9QbjRENVN3RzZkUW5WR1l1ODM0bWljTC10emdlQk45VVlwb2JjTGZJZkVCbHE5ZEMzRkZwYzA5ckVsWmFKdkduTVlzOHZHemczMzFSSEM3My0yQnFiTWk?oc=5",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-12T05:29-03:00",
-"c": [
-"defesa"
-],
-"l": 0,
-"to": "Pflege: Was KI und Robotik gegen steigende Kosten ausrichten könnten",
-"lg": "de",
-"p": 3.5,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 0
+"cv": "Ahram Online",
+"mx": 1
 },
 {
 "id": "61d4e1831923e7",
 "t": "Startup de drones Uforce avaliada em US$ 6 bilhões com apoio do Fundo de Riqueza do Reino Unido",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWcxWHRFMXZidDVNRnl6YWlaeTQyb3J6NElySkNuNTR4cThvRy1TVEJRcFEwRVlic2d5SHBLVXYzWUpBZlZ0NnU1SkN1RXlBTUJ0UTFSZHpTYzN3cFJNUXJwMTc2bi1PSnZ2MFRZTU1PQktoRklrMWREZ2taLWZsSDR4RDFSTzBLamMtQVVoX1g4Wk04NnhTdE9jSkEzNjRKRXBjRHFKOEhSX2oteHdvclhLMTFwdEpjZHFF?oc=5",
+"u": "https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing",
 "f": "Bloomberg.com",
 "s": "bloomberg.com",
 "i": "",
@@ -2406,73 +2664,14 @@
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "Bloomberg"
-},
-{
-"id": "302495177c9f75",
-"t": "O experimento britânico de drones com porta-aviões pode ser a chave para o próximo salto naval da Índia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTllZYkU3eGdVZnphc19WdlUzUzZsc3FyZmhrVzRLNEFzTUFBWEZxRU5xTEJFZnRoY3JGcklnbHJYa2RFSjVwYkpja3BDUW00NWhjbXdXSWlIRE13bU9GU3duQjh6QWExVHRLWHNHTFBVX1dCRWtLNk5HSjRKTFpGX1I2d1I1UmNnV2RTOFFCc1RtLVYtRWtNY2M3dlFocUlzWkJ1RkFVNjFrUWVWQzNELUhsQ3NBVm5MTmZxSnhsUlpyR3RIdXNfVjNyNmE2MUxsMnlpZkY0VFk4TDVxTHVmczU1V2pjRFFSa2hUQTU3OTVsak1pNjF1QUJWeVA3X1cw0gGGAkFVX3lxTE9wUm1oakJ3eVhBdS0xSFI2QWNtc0drVXVSS2ZjbW5HWUFXRnlqMGtuR1JibmZZWHJ2WTA3S1Z4ckU2YWMyNGNVMXU2bzdFWlJHZVVCWVNTbkxpTk5HMHY4VVRTbC00QW1RbXBrR3RYXzEtanVYbFJ5Zy1adnpiWnpGSzhUc2gwTk9ZRWlfT2RxYVo2dVdCOV9JRXgyRzVTQW5LNFV6REROQ0VxM0t1VHhPZXNPbnlIY0VoY0k5RjNQYXFkbHBNdkFhRkR3RGR1Vk41ajUxVXA0NmhWYmxiSWRrcWlTYmRSNDVUZTV5QThIWEhfNlotQWhMSkdDa05RUWNLUkx0Snc?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-12T05:38-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Britain's aircraft carrier drone experiment could hold the key to India's next naval leap",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 0
-},
-{
-"id": "8096200640bfa6",
-"t": "Receitas por aparelho: forno, airfryer, micro-ondas e robô",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15TzVVWTN4TWpWZV9QNmxDSG1yUzRPWWpqMVROeGhHbFVId1NXMHBXSnA1N19LVURzZEY3NlZGRFZNREZLcGNTeGNsdy1YbW1rcklqYjlnRkg5d1ZCUGVSVWdlV3dCZw?oc=5",
-"f": "La Vanguardia",
-"s": "lavanguardia.com",
-"i": "",
-"d": "2026-11-12T05:48-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Recetas por aparato: horno, airfryer, microondas y robot",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "La Vanguardia",
-"mx": 0
-},
-{
-"id": "62fb80596e4898",
-"t": "Receitas com Thermomix e outros robôs de cozinha",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zNjlZRzFUck9LVzkxdEY0bjZsaTFqRUh3SkJlQXNOZTY0dEQzTmpkTGlSdnNtdkdxT2lCZTI2c29vUXpwZkxVblV4S1J0bDRyeHFWbjE0b2x0MldZRjF1LU1wUUVtanRoMzllT0lsSTJnZENUNmdZVE9Fbw?oc=5",
-"f": "La Vanguardia",
-"s": "lavanguardia.com",
-"i": "",
-"d": "2026-11-12T05:48-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Recetas con Thermomix y otros robots de cocina",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "La Vanguardia",
-"mx": 0
+"cv": "Bloomberg",
+"mx": 1
 },
 {
 "id": "a3709921a0d4e3",
 "t": "Startup de IA paga a humanos US$ 45 por hora para cuidar de robôs no turno da noite",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXpNXzN5VUJUcF9ZMkJTSUtWUUZYdVJJd1JPZUhtM1d6amlLSmtfS2J2cE0tSnFOYjc3WlZXanRtVFdKWjVoQk5pYzlhaTUwUU5lS1Y0d3p4MXd3N0swTzh6aXVDdF9RNnZfSDFibUNWN1pGSXBsQk1XRFQtWUM2azNHamhtU05fa1hUSWtwTXZhNEFmbjhkZktzMG42UW5DVVU2MTJrcGdHc1JGWnpBcWxzdDVsV19DUjhCVHh30gHGAUFVX3lxTE9ROFY3Xzh5SWkxeTM4MldnQy1DTnQ3WTloMi04Ml9RSUoza3VJSHptUzBXdjczY2MzUUJkSVpKU2hSWUw5VUFfV09CTExPN3NaZ0x3TVVQNmNocGp4M1JPUlBQXzVvTWpKZlJPN1lSZlhzbUFqYnlzUmpaM3FYdUx2RUl4a3RWNklqMHBoc0pNZVZpTFJtdmN1MWZoNVhBUXVxcnNqekItSEh5RTY2TFRVWWtYNTVhR012d1JBRnB5Q3Nqa2VlQQ?oc=5",
+"u": "https://www.ndtv.com/artificial-intelligence/ai-startup-pays-humans-45-an-hour-to-babysit-robots-on-night-shifts-12316522",
 "f": "NDTV",
 "s": "ndtv.com",
 "i": "",
@@ -2486,130 +2685,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 0
+"mx": 1
 },
 {
-"id": "a5559cb4e2a8ce",
-"t": "Marinheiros robóticos enfrentam as tempestades de inverno da Antártica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUR4ZjE2SnE4eDB1RmRhMjV5QTdBdFdTWDZJQzBEMWc5cWZWR1RaRmpCLUpyZEhyRjlxZUpvM05vT3ZYVFRRRmJzS3lNT3dIV1Z6aHpHaWhpcVRScXBnekt3TDdVc0xtanZKY2dpQUpkZnVCWk5zaXZ2LUhvcUtSN1dUcnVBeXk1NHZrVTZpdmNlR2lwTXJHTkZBTFN3S1U?oc=5",
-"f": "Mail & Guardian",
-"s": "mg.co.za",
-"i": "",
-"d": "2026-11-12T06:31-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Robotic sailors take on Antarctica’s winter storms",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Mail & Guardian"
-},
-{
-"id": "aa1991a1554c48",
-"t": "Black Friday Ecovacs: até 800€ de desconto nestes 5 robots que farão a limpeza por si!",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSWE3NGlSQXVCSzJLMzhCbkJDcVBCaHZVU0lSbk5zbFhtcldJLTRIY3VyMzVwOU85YzFuUXptUW1SZWsxYjNiLThTLXVrbFFlWEtKMlhTbVkwSjZHLWVjNFl6dTltanQ1bzBXQ19Sdl9fRkp4RmlOM0xqSHBPZXdzZXFScmlBWXFoRWZ1VDVKVjcta1daNWFvYVZFRzYwSGFoSWMzQkxzX1JjcS1EalFpRWszZzN5WGRyNXU0c2Z3Nm9ocGxBRzhzTW8zd0FQX2tuZVIzWF9xQ0Y5Mlc3M2ZoVzNMei1weTBtY2NidWtneUo?oc=5",
-"f": "Futura, le média qui explore le monde",
-"s": "futura-sciences.com",
-"i": "",
-"d": "2026-11-12T06:37-03:00",
-"c": [
-"casa",
-"competicoes"
-],
-"l": 0,
-"to": "Black Friday Ecovacs : jusqu'à 800 € de remise sur ces 5 robots qui vont faire le ménage à votre place !",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Futura Sciences"
-},
-{
-"id": "2c75c46a234c17",
-"t": "Ultrarrápido, solar e operado por robôs: BYD inaugura estação de recarga de carros elétricos mais avançada do mundo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcDlnQnRMVVl1YlF0bk1QTi1DUGUzblNzNzR2TGszc29EcVdkb01yY2FmQW9XR2tTVkZaaG9fQUl1d2p2d2NjcjdJcjN2UWFzWmZRd2s2ZXpuaVBBSUpkbEd0SEhhUFc5RkM4R3pyVWMzUUEtcHRKakRwNmlCOXBDTzBSRmJwQ1h2VVk3d0tqTnF1bmZndHA1RnRpZjljMUc1clI1X0xRSUREY2RPYnVLTjlDdFZURWR3VUlKaHFXNGl5Wkd6RjByOE1iWjNHUnAySHJ3QV9KaFlZaFRkcW5FNXNFQWNJZHZOem5kZURDYTQ4RG80TldVMWZ2UdIB-wFBVV95cUxNcDlnQnRMVVl1YlF0bk1QTi1DUGUzblNzNzR2TGszc29EcVdkb01yY2FmQW9XR2tTVkZaaG9fQUl1d2p2d2NjcjdJcjN2UWFzWmZRd2s2ZXpuaVBBSUpkbEd0SEhhUFc5RkM4R3pyVWMzUUEtcHRKakRwNmlCOXBDTzBSRmJwQ1h2VVk3d0tqTnF1bmZndHA1RnRpZjljMUc1clI1X0xRSUREY2RPYnVLTjlDdFZURWR3VUlKaHFXNGl5Wkd6RjByOE1iWjNHUnAySHJ3QV9KaFlZaFRkcW5FNXNFQWNJZHZOem5kZURDYTQ4RG80TldVMWZ2UQ?oc=5",
-"f": "Motor EL PAÍS",
-"s": "motor.elpais.com",
-"i": "",
-"d": "2026-11-12T06:44-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Ultrarrápida, solar y operada por robots: BYD inaugura la estación de recarga de coches eléctricos más avanzada del mundo",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "El País"
-},
-{
-"id": "d819e075a1740e",
-"t": "Eles monitoram tubarões com drones e descobrem que ouvem muito melhor do que pensávamos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1paE4yMjczSkYwcHY2T3dmUTdBWTFWZ3BUVjFOa1NaUTBHTnR2VTJkVk1VaDhLODdvQ1VyeXZyamwyRlJwWkhaRHVaUklQRnozT1oyaWhmWXlmN3pfcW4tR3pzUWkzY2s0YW9lODd5UmZRQ2Q5dlFF0gF3QVVfeXFMTWloTjIyNzNKRjBwdjZPd2ZRN0FZMVZncFRWMU5rU1pRMEdOdHZVMmRWTVVoOEs4N29DVXJ5dnJqbDJGUnBaSFpEdVpSSVBGejNPWjJpaGZZeWY3el9xbi1HenNRaTNjazRhb2U4N3lSZlFDZDl2UUU?oc=5",
-"f": "El Mundo",
-"s": "amp.elmundo.es",
-"i": "",
-"d": "2026-11-12T07:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Vigilan con drones a tiburones y descubren que oyen mucho mejor de lo que pensábamos",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "El Mundo"
-},
-{
-"id": "b4944f46c58601",
-"t": "Defesa: um escudo anti-drone nas estações Carabinieri",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUQ3NlZ3eS1Rb2tnanpkbExlWHpRelFObUU5NmpvT2M4SWI5ZUFKWU52U0xQbDh0MlFZem45S2p2dHFJVHMzVzlRZzhJYVhDYUNMRndKeWNUbXRZM3F3cTJ1VmRpLTI5aGVyaDNuQmtNd3NVNjN3YWlkQmItX1pYb1QyZmdFX3R0OFUzeA?oc=5",
-"f": "Il Sole 24 ORE",
-"s": "en.ilsole24ore.com",
-"i": "",
-"d": "2026-11-12T07:00-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "Defence: an anti-drone shield at Carabinieri stations",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Il Sole 24 Ore"
-},
-{
-"id": "da3b4e63e173e8",
-"t": "Meet the founder betting Washington can help him take on China's robot makers",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1A2eE5YSkdBb216NnVjcF9MWnQ5ZHQxSTNiNmpHYlZqRU9tWkI1d0VqZWtlMVpwc1ByOVhyS2EtTEFZNzU2SHN1WVV0dWRVeFlFeFJrOEJSQjh4SHNXa2p5N012NnVCLW4yZUtOdWNOdHhrQXZpNHBQdHk1a21xb21aRjhrbm5DUkRyVkxwbTBzcmFVVlJMZ3RwaXNuTms0MUU0WQ?oc=5",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "",
-"d": "2026-11-12T07:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Meet the founder betting Washington can help him take on China's robot makers",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider"
-},
-{
-"id": "2ffef84c04bb08",
+"id": "271215087d1a17",
 "t": "機器人新戰國3／機器人打開家庭服務兆元商機 三大革命翻轉生活",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mNHpTZ2JiSW1zcmFTbmdVQmF6am9qby1wLUx3NmFmRV80eUJnZnNvdGU4MlBzV1o2QmRCUmdRTzBNMmxHR1ozalVaX1F2SVFjRkVJXzJJOWZoOWNnWVllbFZqSlNpN0Y3ZlJVUk1jMnpXLU1GZ2lFZXBDRXY0aGPSAWJBVV95cUxOQ2tYU3hKd0ZQMm0xaTl3OWU0QWdJTWFxMWJTN2pBcTM2azNTWnpWbWNuV1RhY0N2aEV3VXh0M1dCNkxOTmpEeWRlVTYyd3Ixa25wT3k1akpPYThyczhmVEVMQQ?oc=5",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Da1hTeEp3RlAybTFpOXc5ZTRBZ0lNYXExYlM3akFxMzZrM1NaelZtY25XVGFjQ3ZoRXdVeHQzV0I2TE5OakR5ZGVVNjJ3cjFrbnBPeTVqSk9hOHJzOGZURUxB0gFiQVVfeXFMTkNrWFN4SndGUDJtMWk5dzllNEFnSU1hcTFiUzdqQXEzNmszU1p6Vm1jbldUYWNDdmhFd1V4dDNXQjZMTk5qRHlkZVU2MndyMWtucE95NWpKT2E4cnM4ZlRFTEE?oc=5",
 "f": "經濟日報",
 "s": "money.udn.com",
 "i": "",
@@ -2664,6 +2746,27 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Engineer"
+},
+{
+"id": "a130a4bd225e24",
+"t": "Video. Drones deliver food to chimpanzees stranded by flooding",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnJTMWdNOTBJcnUtS0NYOUZXb3dZSmlETF9IZ2Q4R2tucXk4Zl9sdWhmZHd6ME5ZWVJHRXlfNGhqcDFhUXdEUE54N3YwV0czc3Jqb2dLcTc4TTkxUDBFbHEza1A0SEVieWw3YnRZWVVYVVJwUWIyZTlURDJTd20zRGg2dHRVOVhpTk9MSmJ1eTRRZ3VJLVVndVBQbHp4QQ?oc=5",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "",
+"d": "2026-11-12T07:35-03:00",
+"c": [
+"drones",
+"resgate"
+],
+"l": 0,
+"to": "Video. Drones deliver food to chimpanzees stranded by flooding",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Euronews"
 },
 {
 "id": "83e15da49d095b",
@@ -3215,6 +3318,26 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Dong-A Ilbo"
+},
+{
+"id": "79789c09994bb4",
+"t": "Agile Robots rückt in die erste Reihe der globalen Robotik (Meldung) | SZ Dossier",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkkxQVZXRUpZNXNKSDNYR0xFVEhnWTZZMXlXbkNuOE9zMVJETHlTc1ZadzJDVkJ5MEt4YTJaMnFWQkR0NE95eFZzN2hvQjYwVWx5anl3QUFVckNNQXFKbmwxMDhRRHFHa1hDRC1XZXN0UWwzT1FIcm1ULTlVaTd6bFJyOVBaZGcxc0pDR1R6RFdjTTNzcWI3b2s3NUtBbHl5NWxobjJvQ245eW9FTHZ4ZzFQMWg?oc=5",
+"f": "SZ.de",
+"s": "sueddeutsche.de",
+"i": "",
+"d": "2026-11-12T18:05-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Agile Robots rückt in die erste Reihe der globalen Robotik (Meldung) | SZ Dossier",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Süddeutsche Zeitung"
 },
 {
 "id": "535d1b0267dfaa",
@@ -5256,7 +5379,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1
+"mx": 2
 },
 {
 "id": "63f05bbb828e65",
@@ -11224,6 +11347,27 @@
 "mx": 0
 },
 {
+"id": "fc81dc0ea6bd3b",
+"t": "Google prueba robot humanoide en fábricas de Mercedes-Benz y publica una prueba para evitar que lo engañen",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaEMwTHRlb2RCOWZETDZVR01rWWt6SkZvdzZyWV83V2NLNXV3ajhseTh6bE9kTHFGOS01X0RjeUdnbE44SVZ5Ny1tNjgxUkVGS3g5NXhFQmlLLTQ3c2xwRDBzeTBEZTBoVHhLQmlGbWR4QjFnb1RrTEpncmZoZUU5WWxZaDZXaWQwdEg5cm1qenVXQmpWbHFSLWRsby04bU1iT3M0TDRxYjhnRVM2RlBQU3VDaTRxTUU5YzUyOGRndnR2NTlrRFVYanRHRXpiMXFOVjY1RGh4eFVLOHBBM1ZsYm1n0gH8AUFVX3lxTE1ObEJtQ0RJZXY5UWJMMnY4dUx2cUl2U1E2eFMyaHN0NDZ3RnhtUFliQVpMSjNiMWEtdDg1cDZWU2R3TjNobUMydnhiZEptcVJzSUZwWjBGeUhNYTAtbERzeldVTXEyZDQ4Mml5Vm54dWFINnA0OUhvU3RpNnZxU0pwb0tBWDBvTzRUSnplUUFHaFBSQTRqdjJJZUFwUUllQzV1c0xaMWdvNjU1bEZuSDFIY0I1Z09MUDZKbFB6YXZhVjk3SkI0am5naV9VdXVwRVc2c3EtODNYVDBBN0RzMnVORjgwWTlqQU93U2hwSXRxQWF4WjFUbWc0c2xWRw?oc=5",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "",
+"d": "2026-11-10T22:09-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Google prueba robot humanoide en fábricas de Mercedes-Benz y publica una prueba para evitar que lo engañen",
+"lg": "?",
+"nt": 1,
+"p": 4.3,
+"cr": 3,
+"cv": "Infobae"
+},
+{
 "id": "f70bec3f8595db",
 "t": "Ai+humanóide+professor | Etiqueta | educação",
 "r": "",
@@ -14728,7 +14872,50 @@
 "p": 10.3,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2
+"mx": 3
+},
+{
+"id": "6373d0c4e0f6d3",
+"t": "O robô de IA de estimação da ZentiqueX, ‘MungAI’, ganha o prêmio de inovação CES 2027",
+"r": "Vaccatio (CEO Ji Hyun-jun), uma startup de IA de operação hoteleira, anunciou no dia 10 que recebeu o ‘CES Innovation Awards 2027 in Robotics’ organizado pela Consumer Technology Association (CTA). O produto vencedor é ‘Vacatio Robot OS: a primeira camada de coordenação multirobôs do mundo para hotéis’, que coordena robôs de serviço de vários fabricantes para trabalharem juntos em um hotel. O Prémio de Inovação CES é atribuído ao CTA pela sua tecnologia e design antes da abertura da CES, a maior exposição mundial de eletrodomésticos de TI.",
+"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wXzE2RWVJYjNhVUc5SkdtOGZZYmZMWWtvSlZCNWJYd3cyNE5hbTNoMDE5UllGRndDU3o1cTVOa1JTWFhMYTREQUtsSkFxUjdaaFZmRU1zU1ZsSG43YTVndzRIb3lDeHBpbVVQQWVGVHozOGJaamfSAWZBVV95cUxPcmI1RV9YUFEyNzlNU1NFaUJUbFZGRnNJT2pfWEpycFoyNUlMZTdTY09XRVA2QzVnbm1Dc0hBbkNhcEI4aWtnbnNTZm5LeERqUlE1MVROMmQydWxuaERLNmFtZTBtRGc?oc=5",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49497_105570_350.png",
+"d": "2026-11-09T20:00-03:00",
+"c": [
+"competicoes",
+"servico"
+],
+"l": 0,
+"to": "젠티크엑스 반려동물 AI 로봇 ‘MungAI’, CES 2027 혁신상 수상",
+"lg": "ko",
+"p": 10.1,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"o": [
+{
+"f": "연합뉴스",
+"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hbTF2ZzJoZFVJOWtQa1ZzVzdmc0dESVJwZXB6cmttWUg1eTk1UldXRDRwUmhNYWxQNlBsa3JXR0t3TzQ2ZU93YndULVVTT0E0ZFVJZmxHRVM5ZGFWTExwZdIBYEFVX3lxTE9hbTF2ZzJoZFVJOWtQa1ZzVzdmc0dESVJwZXB6cmttWUg1eTk1UldXRDRwUmhNYWxQNlBsa3JXR0t3TzQ2ZU93YndULVVTT0E0ZFVJZmxHRVM5ZGFWTExwZQ?oc=5",
+"s": "yna.co.kr",
+"id": "5f4cd4ac82169e"
+},
+{
+"f": "Robot Newspaper (Coreia)",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49497",
+"s": "irobotnews.com",
+"id": "fb388a33e1ed7a"
+},
+{
+"f": "전자신문",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GaG5uM25lWU92R0FZbDVoX3FHM1U2Qk9qMzd6MUlzSk5rQm0tdlktZm5ocGp1d0d0QWVCMi1JUjVJLUdiSDRiYlc5VTdzdw?oc=5",
+"s": "etnews.com",
+"id": "55fca1b2960c88"
+}
+],
+"esp": 1,
+"rx": "Vaccatio (CEO Ji Hyun-jun), uma startup de IA de operação hoteleira, ganhou o ‘CES 2027 Robotics Innovation Award’ organizado pela Consumer Technology Association (CTA)."
 },
 {
 "id": "35464eee4e7e87",
@@ -14814,7 +15001,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "1de7b79d42e17b",
@@ -14837,43 +15024,6 @@
 "cv": "ZDNet Korea",
 "mx": 1,
 "rx": "Brils, uma empresa de plataforma de módulo de robô, anunciou no dia 10 que revelou tecnologia de robô de controle de segurança e prevenção de crime baseada em inteligência artificial física (IA) em um evento organizado pela Hyundai Motor Company e Kia Motors. Brills participou da '8ª Conferência Body Emotion' realizada no Rolling Hills Hotel em Hwaseong-si, Gyeonggi-do neste dia e demonstrou a operação de um robô quadrúpede com rodas e pernas e um robô humanóide. Este evento foi preparado pela Hyundai Motor Company e Kia Motors para melhorar a qualidade emocional e trocar tecnologias futuras. Briles está desenvolvendo um sistema no qual um robô de quatro patas que combina rodas e pernas para superar patrulhas de etapas, e um robô humanóide capaz de trabalhar com ambos os braços fornece primeira resposta remota. Para reduzir os limites de atraso na comunicação, também foi incorporada tecnologia de IA no dispositivo que identifica pessoas e situações anormais em tempo real dentro do próprio robô. O objetivo é garantir a segurança dos trabalhadores, detectando imediatamente invasões, incêndios e quedas de trabalhadores.\nO CEO Jun Jin Briles disse: “É significativo apresentar a tecnologia física de IA em uma reunião de fabricantes de automóveis e parceiros” e acrescentou: “Expandiremos robôs quadrúpedes e tecnologia de controle de segurança baseada em humanóides para toda a indústria manufatureira, incluindo automóveis”."
-},
-{
-"id": "6373d0c4e0f6d3",
-"t": "O robô de IA de estimação da ZentiqueX, ‘MungAI’, ganha o prêmio de inovação CES 2027",
-"r": "Vaccatio (CEO Ji Hyun-jun), uma startup de IA de operação hoteleira, anunciou no dia 10 que recebeu o ‘CES Innovation Awards 2027 in Robotics’ organizado pela Consumer Technology Association (CTA). O produto vencedor é ‘Vacatio Robot OS: a primeira camada de coordenação multirobôs do mundo para hotéis’, que coordena robôs de serviço de vários fabricantes para trabalharem juntos em um hotel. O Prémio de Inovação CES é atribuído ao CTA pela sua tecnologia e design antes da abertura da CES, a maior exposição mundial de eletrodomésticos de TI.",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wXzE2RWVJYjNhVUc5SkdtOGZZYmZMWWtvSlZCNWJYd3cyNE5hbTNoMDE5UllGRndDU3o1cTVOa1JTWFhMYTREQUtsSkFxUjdaaFZmRU1zU1ZsSG43YTVndzRIb3lDeHBpbVVQQWVGVHozOGJaamfSAWZBVV95cUxPcmI1RV9YUFEyNzlNU1NFaUJUbFZGRnNJT2pfWEpycFoyNUlMZTdTY09XRVA2QzVnbm1Dc0hBbkNhcEI4aWtnbnNTZm5LeERqUlE1MVROMmQydWxuaERLNmFtZTBtRGc?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "https://cdn.irobotnews.com/news/photo/202611/49497_105570_350.png",
-"d": "2026-11-09T20:00-03:00",
-"c": [
-"competicoes",
-"servico"
-],
-"l": 0,
-"to": "젠티크엑스 반려동물 AI 로봇 ‘MungAI’, CES 2027 혁신상 수상",
-"lg": "ko",
-"p": 8.6,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 1,
-"o": [
-{
-"f": "연합뉴스",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hbTF2ZzJoZFVJOWtQa1ZzVzdmc0dESVJwZXB6cmttWUg1eTk1UldXRDRwUmhNYWxQNlBsa3JXR0t3TzQ2ZU93YndULVVTT0E0ZFVJZmxHRVM5ZGFWTExwZdIBYEFVX3lxTE9hbTF2ZzJoZFVJOWtQa1ZzVzdmc0dESVJwZXB6cmttWUg1eTk1UldXRDRwUmhNYWxQNlBsa3JXR0t3TzQ2ZU93YndULVVTT0E0ZFVJZmxHRVM5ZGFWTExwZQ?oc=5",
-"s": "yna.co.kr",
-"id": "5f4cd4ac82169e"
-},
-{
-"f": "Robot Newspaper (Coreia)",
-"u": "https://www.irobotnews.com/news/articleView.html?idxno=49497",
-"s": "irobotnews.com",
-"id": "fb388a33e1ed7a"
-}
-],
-"esp": 1,
-"rx": "Vaccatio (CEO Ji Hyun-jun), uma startup de IA de operação hoteleira, ganhou o ‘CES 2027 Robotics Innovation Award’ organizado pela Consumer Technology Association (CTA)."
 },
 {
 "id": "733675fa94be4e",
@@ -15850,6 +16000,26 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Nikkei Asia"
+},
+{
+"id": "bb4a89639b58c7",
+"t": "フィジカルAI活用ロボットの自社製品開発をロボットバンクが本格始動 第一弾は産業向け四足歩行ロボット",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiWEhBVTNIZTM5R2tpUExDai13SnhQcGhxNldrdlJkcUdtNHprcm94MEtPNlJzNU9IcjhwT1NfajFNRlNKYVF6cnNyeDJXMHB4dG9WSUNiSTVxTlRwdjl5NFpicGw?oc=5",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "",
+"d": "2026-11-09T00:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "フィジカルAI活用ロボットの自社製品開発をロボットバンクが本格始動 第一弾は産業向け四足歩行ロボット",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Robotstart"
 },
 {
 "id": "8514c7885b3b7f",
@@ -18284,6 +18454,26 @@
 "cr": 2,
 "cv": "DigiTimes",
 "mx": 0
+},
+{
+"id": "a75693313b24e2",
+"t": "7STARLAKE, South Korea's Raion Robotics, builds Taiwan AI platform",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDkxVENWR2piMkJxZC1ydXFQUmdoRHgxWnVpeVkzVGxqRDhPUlp4cVlSVklfaGJQdzMxNjM5bGVRZm4yeDR6MmV3NXhCSlRMRVdybHphRUJtYnBqa1JsZzdkNF9UUktYZ0hJVVVzU1lWQ05MSURrd0gtZTdFOGs0OFV5REoyY3NOMmdKWm9n?oc=5",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "",
+"d": "2026-11-09T22:22-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "7STARLAKE, South Korea's Raion Robotics, builds Taiwan AI platform",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "DigiTimes"
 }
 ],
 "2026-11-08": [
@@ -18329,7 +18519,7 @@
 "p": 10.6,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2,
+"mx": 3,
 "rx": "Em 7 de novembro, no TOPS DAY 2026 Topstar Global Open Day, a Topstar lançou o robô humanóide bípede industrial em tamanho real Star, bem como múltiplas soluções para processamento de peças de robôs humanóides e fabricação de componentes de precisão de servidores de IA. No local, a Topstar também assinou acordos de compra de robôs humanóides e máquinas-ferramentas CNC de ligação de cinco eixos com clientes, e alcançou múltiplas cooperações com universidades e empresas de tecnologia.\nNo local, Leifeng.com (conta pública: Leifeng.com) viu que Dongguan Kaihang Technology Co., Ltd. e Topstar assinaram um acordo de compra de robôs humanóides. No mesmo dia, Zhejiang Leiwang Technology Co., Ltd. também assinou um contrato de compra de máquinas-ferramenta CNC de ligação de cinco eixos com a Evermi. As duas partes cooperarão no processamento preciso de peças de robôs humanóides."
 },
 {
@@ -18352,7 +18542,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 2
+"mx": 3
 },
 {
 "id": "91a7a5243f4fbe",
@@ -18374,7 +18564,7 @@
 "p": 9.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21190,6 +21380,26 @@
 "mx": 0
 },
 {
+"id": "c57177589b388c",
+"t": "Grab rival Tada joins Singapore's self-driving minibus project",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWp5U1JtUERuOUlnbjFhRlJJaWxRdDVCV2dDNFVjYTZOWkxKWW8xal9vRG05TGhrX1Fhd0N3aXhqbGZOS2ItV25OdWlveXFpal82R0NPMHJvaVVnSkliZTUycEV6ZGdpa3hSa1dCRVVPNHBNM3puQUt5WUFWT2czVzR0VmkyZUxzVDA4Sl9CM2dPOFJaaUQxTTd3dEltM19HbTE1bzVPMGdRUFU4dzZn?oc=5",
+"f": "Nikkei Asia",
+"s": "asia.nikkei.com",
+"i": "",
+"d": "2026-11-07T22:04-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Grab rival Tada joins Singapore's self-driving minibus project",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Nikkei Asia"
+},
+{
 "id": "a4d3d06be19560",
 "t": "Robôs construídos no Paquistão dão um gostinho do futuro aos clientes de Karachi",
 "r": "",
@@ -21792,6 +22002,26 @@
 "cr": 3,
 "cv": "Il Sole 24 Ore",
 "mx": 0
+},
+{
+"id": "b7fcf12665a264",
+"t": "Figure AI: Deep Dive Into Company’s Humanoid Robot Strategy",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVdFUmJjSTFHVzNRVnJKMlNOV1dDSUJkUl8xejVnN1hCYUk5SkpUUjNYN0N6VlJzU3ZLU1ZGLWRpNnRJeUJkWUk0NFV5TnczTnF4bHBJREJMNFN4c3UtdkxCUUtYN1ctNWtQemI4MXFSanlMZTFBVW5RYk9kZnRhZl9pMVNJMXlBREtUaVNHMVdsLURZaGZQMzA1eWllYTdCbFA4MmZvM0ZGYlVia3lQeVJmejVQZy1wR1A2VEltMEk?oc=5",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-06T20:39-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Figure AI: Deep Dive Into Company’s Humanoid Robot Strategy",
+"lg": "?",
+"nt": 1,
+"p": 4.3,
+"cr": 3,
+"cv": "Forbes"
 },
 {
 "id": "d01d1d741c4ae0",
@@ -23237,7 +23467,7 @@
 "p": 10.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 1
+"mx": 2
 },
 {
 "id": "adae26a875a152",
@@ -23278,7 +23508,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "USA Today",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9b3a6d9e698e7d",
