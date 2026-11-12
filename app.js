@@ -395,14 +395,18 @@
     const grupos = [];
     for (const it of [...itens].sort((a, b) => a.d.localeCompare(b.d))) {
       const t0 = Date.parse(it.d);
-      const g = grupos.find((g) => Math.abs(t0 - g.t0) <= 3 * 864e5 && g.itens.some((x) => mesmaHistoria(it, x)));
+      let g = null;
+      // os grupos estão em ordem de data: basta olhar os dos últimos 3 dias
+      for (let k = grupos.length - 1; k >= 0 && t0 - grupos[k].t0 <= 3 * 864e5; k--) {
+        if (grupos[k].itens.some((x) => mesmaHistoria(it, x))) { g = grupos[k]; break; }
+      }
       if (g) g.itens.push(it); else grupos.push({ t0, itens: [it] });
     }
     // segunda passada: junta grupos da mesma história que ficaram separados
     for (let i = 0; i < grupos.length; i++) {
       for (let j = i + 1; j < grupos.length; j++) {
         const a = grupos[i], b = grupos[j];
-        if (Math.abs(a.t0 - b.t0) > 4 * 864e5) continue;
+        if (b.t0 - a.t0 > 4 * 864e5) break;
         let liga = 0;
         for (const x of a.itens) for (const y of b.itens) if (mesmaHistoria(x, y)) liga++;
         // precisa de mais de uma ligação quando os dois grupos já são grandes
@@ -423,22 +427,23 @@
   }
 
   // ------------------------------------------------------------------ ranking das mais citadas
-  const RANKING = { "24h": ["Últimas 24 horas", 1], semana: ["Última semana", 7], mes: ["Último mês", 30] };
+  const RANKING = { "24h": ["Últimas 24 horas", 1], semana: ["Última semana", 7], mes: ["Último mês", 30], ano: ["Último ano", 365] };
   let rankAtual = "24h";
-  let rankCache = null;
+  const rankCache = { chave: "", listas: {} };
+  // calcula só o período pedido (o do ano carrega o arquivo inteiro, então fica para quando for aberto)
   async function dadosRanking() {
-    if (rankCache && rankCache.chave === INDICE.atualizado) return rankCache;
-    const todos = await itensDoPeriodo(somaDias(hojeBR(), -33), hojeBR());
-    const agora = Date.now();
-    const listas = {};
-    for (const k in RANKING) {
-      const lim = RANKING[k][1] * 864e5;
+    if (rankCache.chave !== INDICE.atualizado) { rankCache.chave = INDICE.atualizado; rankCache.listas = {}; }
+    const k = rankAtual;
+    if (!rankCache.listas[k]) {
+      const dias = RANKING[k][1];
+      const todos = await itensDoPeriodo(somaDias(hojeBR(), -(dias + 1)), hojeBR());
+      const agora = Date.now(), lim = dias * 864e5;
       const janela = todos.filter((it) => agora - Date.parse(it.d) <= lim);
-      listas[k] = agruparNoticias(janela)
+      rankCache.listas[k] = agruparNoticias(janela)
         .sort((a, b) => b.n - a.n || (b.it.l || 0) - (a.it.l || 0) || nivel(b.it) - nivel(a.it) || b.it.p - a.it.p || b.ultima.localeCompare(a.ultima))
         .slice(0, 15);
     }
-    return (rankCache = { chave: INDICE.atualizado, listas });
+    return rankCache;
   }
   function htmlRanking(listas, completo) {
     const lista = listas[rankAtual] || [];
@@ -852,7 +857,7 @@
     if (estado.c === "ranking") {
       const r = await dadosRanking();
       if (id !== ultimoRender) return;
-      el.innerHTML = cabecalhoEspecial("Ranking das mais citadas", "As notícias de robótica publicadas pelo maior número de sites do mundo — nas últimas 24 horas, na última semana e no último mês. A contagem junta a mesma história publicada por sites de países e idiomas diferentes e se atualiza sozinha a cada coleta.") + htmlRanking(r.listas, true);
+      el.innerHTML = cabecalhoEspecial("Ranking das mais citadas", "As notícias de robótica publicadas pelo maior número de sites do mundo — nas últimas 24 horas, na última semana, no último mês e no último ano. A contagem junta a mesma história publicada por sites de países e idiomas diferentes e se atualiza sozinha a cada coleta.") + htmlRanking(r.listas, true);
     }
     else if (estado.c === "catalogo") el.innerHTML = htmlCatalogo(base);
     else if (estado.c === "fabricantes") el.innerHTML = htmlFabricantes(base);
