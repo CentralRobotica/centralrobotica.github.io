@@ -25,6 +25,7 @@
     sites: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>',
     curiosidades: '<path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.2 1 2V16h5v-.1c0-.8.4-1.5 1-2A6 6 0 0012 3z"/>',
     historia: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+    ranking: '<path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 01-10 0z"/><path d="M7 6H4a3 3 0 003 4M17 6h3a3 3 0 01-3 4"/>',
     universidades: '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/>',
     cobots: '<path d="M4 20h7M7 20v-5l4-5 5-2"/><circle cx="11" cy="10" r="1.5"/><circle cx="18" cy="5" r="2"/><path d="M18 7v4M16 13h4"/>',
     logistica: '<rect x="3" y="9" width="9" height="8"/><path d="M12 13h4l3 3v1h-7M7 9V6h4v3"/><circle cx="7" cy="19" r="1.5"/><circle cx="16" cy="19" r="1.5"/>',
@@ -72,6 +73,7 @@
     { id: "competicoes", nome: "Competições e Eventos" },
     { id: "ia", nome: "IA e Pesquisa" },
     { id: "negocios", nome: "Negócios" },
+    { id: "ranking", nome: "Ranking", especial: true },
     { id: "catalogo", nome: "Catálogo de robôs", especial: true },
     { id: "fabricantes", nome: "Fabricantes", especial: true },
     { id: "sites", nome: "Sites do mundo", especial: true },
@@ -373,6 +375,105 @@
       <h4>${link(it, it.t)}</h4>${fonte(it, true)}</div></li>`;
   }
 
+  // ------------------------------------------------------------------ mesma notícia em vários sites
+  // Os títulos já estão todos em português: dá para reconhecer a mesma história publicada por
+  // sites de países diferentes (3 palavras importantes em comum, até 3 dias de distância).
+  const PARADAS_RANK = new Set(semAcento(`a o as os um uma uns umas de da do das dos em no na nos nas por para com sem sob sobre entre ate e ou que se seu sua seus suas como mais menos muito ja nao ao aos pelo pela pelos pelas este esta isso essa esse novo nova novos novas primeiro primeira diz afirma segundo apos contra durante ser foi sao tem vai pode podem sera ano anos dia hoje agora ainda mas tambem
+    robo robos robotica robotico roboticos humanoide humanoides empresa empresas mundo tecnologia inteligencia artificial 2025 2026 milhoes bilhoes dolares noticias the and for with from news`).split(/\s+/));
+  function tokensTitulo(it) {
+    if (!it._tk) it._tk = new Set((semAcento(it.t).match(/[a-z0-9]+/g) || []).filter((w) => w.length > 2 && !PARADAS_RANK.has(w)).map((w) => w.slice(0, 6)));
+    return it._tk;
+  }
+  function mesmaHistoria(a, b) {
+    const ta = tokensTitulo(a), tb = tokensTitulo(b);
+    let c = 0;
+    for (const w of ta) if (tb.has(w)) c++;
+    return c >= 3 && c / (ta.size + tb.size - c) >= 0.25;
+  }
+  const domDe = (f) => (f.s || f.f || "").replace(/^www\./, "").toLowerCase();
+  function agruparNoticias(itens) {
+    const grupos = [];
+    for (const it of [...itens].sort((a, b) => a.d.localeCompare(b.d))) {
+      const t0 = Date.parse(it.d);
+      const g = grupos.find((g) => Math.abs(t0 - g.t0) <= 3 * 864e5 && g.itens.some((x) => mesmaHistoria(it, x)));
+      if (g) g.itens.push(it); else grupos.push({ t0, itens: [it] });
+    }
+    // segunda passada: junta grupos da mesma história que ficaram separados
+    for (let i = 0; i < grupos.length; i++) {
+      for (let j = i + 1; j < grupos.length; j++) {
+        const a = grupos[i], b = grupos[j];
+        if (Math.abs(a.t0 - b.t0) > 4 * 864e5) continue;
+        let liga = 0;
+        for (const x of a.itens) for (const y of b.itens) if (mesmaHistoria(x, y)) liga++;
+        // precisa de mais de uma ligação quando os dois grupos já são grandes
+        if (liga && liga >= Math.min(2, Math.min(a.itens.length, b.itens.length))) { a.itens.push(...b.itens); grupos.splice(j, 1); j = i; }
+      }
+    }
+    for (const g of grupos) {
+      const fontes = new Map();
+      for (const it of g.itens) for (const f of [{ f: it.f, u: it.u, s: it.s }, ...(it.o || [])]) if (f.u && !fontes.has(domDe(f))) fontes.set(domDe(f), f);
+      g.fontes = [...fontes.values()];
+      g.n = g.fontes.length;
+      // a notícia que representa o grupo: a mais confiável, com resumo e foto
+      g.it = [...g.itens].sort((a, b) => nivel(b) - nivel(a) || (b.rx ? 1 : 0) - (a.rx ? 1 : 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || b.p - a.p)[0];
+      g.ultima = g.itens.reduce((m, x) => (x.d > m ? x.d : m), "");
+      for (const it of g.itens) it._grupo = g;
+    }
+    return grupos;
+  }
+
+  // ------------------------------------------------------------------ ranking das mais citadas
+  const RANKING = { "24h": ["Últimas 24 horas", 1], semana: ["Última semana", 7], mes: ["Último mês", 30] };
+  let rankAtual = "24h";
+  let rankCache = null;
+  async function dadosRanking() {
+    if (rankCache && rankCache.chave === INDICE.atualizado) return rankCache;
+    const todos = await itensDoPeriodo(somaDias(hojeBR(), -33), hojeBR());
+    const agora = Date.now();
+    const listas = {};
+    for (const k in RANKING) {
+      const lim = RANKING[k][1] * 864e5;
+      const janela = todos.filter((it) => agora - Date.parse(it.d) <= lim);
+      listas[k] = agruparNoticias(janela)
+        .sort((a, b) => b.n - a.n || (b.it.l || 0) - (a.it.l || 0) || nivel(b.it) - nivel(a.it) || b.it.p - a.it.p || b.ultima.localeCompare(a.ultima))
+        .slice(0, 15);
+    }
+    return (rankCache = { chave: INDICE.atualizado, listas });
+  }
+  function htmlRanking(listas, completo) {
+    const lista = listas[rankAtual] || [];
+    const abas = Object.entries(RANKING).map(([k, [nome]]) => `<button data-rank="${k}" class="${k === rankAtual ? "ativo" : ""}">${nome}</button>`).join("");
+    const linhas = lista.map((g, i) => {
+      const it = g.it;
+      const outros = g.fontes.filter((f) => domDe(f) !== domDe(it)).slice(0, 4).map((f) => esc(f.f)).join(" · ");
+      return `<li class="ranking__item${i < 3 ? " ranking__item--top" : ""}">
+        <span class="ranking__pos">${String(i + 1).padStart(2, "0")}</span>
+        <a class="ranking__foto" href="${hrefNoticia(it)}" tabindex="-1" aria-hidden="true">${imagem(it)}</a>
+        <div class="ranking__corpo">
+          <a class="ranking__titulo" href="${hrefNoticia(it)}">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a>
+          <small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${outros ? ` · também em ${outros}` : ""}</small>
+        </div>
+        <span class="ranking__n" title="Sites que publicaram esta notícia"><b>${g.n}</b>${g.n > 1 ? "sites" : "site"}</span>
+      </li>`;
+    }).join("");
+    return `<div class="ranking${completo ? " ranking--completo" : ""}" data-ranking>
+      <div class="ranking__topo">
+        <h2 class="titulo-secao titulo-secao--tipo"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES.ranking}</svg>Ranking: as 15 mais citadas <small>quantos sites do mundo publicaram a mesma notícia</small></h2>
+        <div class="ranking__abas">${abas}</div>
+      </div>
+      ${lista.length ? `<ol class="ranking__lista">${linhas}</ol>` : `<p class="painel__dica">Ainda não há notícias neste período.</p>`}
+      ${completo ? "" : `<a class="ranking__ver" href="#c=ranking">Ver o ranking completo ▶</a>`}
+    </div>`;
+  }
+  async function renderRankingInicio(id) {
+    const el = $("#ranking");
+    if (!el) return;
+    if (estado.c !== "inicio" || estado.q) { el.innerHTML = ""; return; }
+    const r = await dadosRanking();
+    if (id !== ultimoRender) return;
+    el.innerHTML = htmlRanking(r.listas, false);
+  }
+
   // ------------------------------------------------------------------ página da notícia
   const TIPO_FONTE = { especializado: "Site especializado", imprensa: "Grande veículo internacional", tecnologia: "Site de tecnologia" };
   function infoFonte(dom, nome) {
@@ -410,7 +511,12 @@
       : `<p class="noticia__aguarde">O robô da Central Robótica ainda está preparando o resumo em português desta notícia. Enquanto isso, você pode ler a matéria completa no site original, logo abaixo.</p>`;
     const original = it.lg && it.lg !== "pt" && it.to
       ? `<p class="noticia__original"><span>Título original (${esc(IDIOMAS[it.lg] || "idioma original")})</span>${esc(it.to)}</p>` : "";
-    const outras = (it.o || []).filter((o) => o.u && o.u !== it.u);
+    const perto = await itensDoPeriodo(somaDias(it.dia, -3), [somaDias(it.dia, 3), hojeBR()].sort()[0]);
+    if (id !== ultimoRender) return;
+    if (!perto.includes(it)) perto.push(it);
+    agruparNoticias(perto);
+    const grupoFontes = (it._grupo && it._grupo.fontes) || [{ f: it.f, u: it.u, s: it.s }, ...(it.o || [])];
+    const outras = grupoFontes.filter((o) => o.u && o.u !== it.u && domDe(o) !== domDe(it));
     const nSites = 1 + outras.length;
     const linhaFonte = (o) => {
       const tipo = infoFonte(o.s, o.f);
@@ -511,6 +617,7 @@
     const dest = $("#destaques"), mais = $("#mais-destaques"), outras = $("#outras"), vazio = $("#vazio");
     if (!itens.length) {
       dest.innerHTML = mais.innerHTML = outras.innerHTML = "";
+      if ($("#ranking")) $("#ranking").innerHTML = "";
       vazio.hidden = false;
       vazio.innerHTML = estado.q
         ? `<b>Nada encontrado</b>Nenhuma notícia com “${esc(estado.q)}” neste período e categoria.`
@@ -547,6 +654,7 @@
       <div class="destaques__grade">${htmlPrincipal(topo[0], multiDia)}${topo.length > 1 ? `<div class="secundarios">${topo.slice(1).map((x) => htmlSec(x, multiDia)).join("")}</div>` : ""}</div>`;
     if (topo.length === 1) dest.querySelector(".destaques__grade").style.gridTemplateColumns = "1fr";
 
+    renderRankingInicio(id);
     mais.innerHTML = cards.length ? `<h2 class="titulo-secao">Mais destaques</h2><div class="cards">${cards.map((x) => htmlCard(x, multiDia)).join("")}</div>` : "";
 
     const pagina = resto.slice(0, POR_PAGINA * estado.pagina);
@@ -582,8 +690,8 @@
     $("#contagem").innerHTML = lista.map((c) => `<li data-cat="${c.id}"><div class="contagem__linha"><span class="contagem__nome">${esc(NOME_CAT[c.id])}</span><b>${c.n}</b></div><div class="contagem__barra"><i style="width:${(c.n / max) * 100}%"></i></div></li>`).join("");
 
     // mais citadas
-    const cit = base.filter((x) => x.o && x.o.length).sort((a, b) => b.o.length - a.o.length || b.p - a.p).slice(0, 6);
-    $("#citadas").innerHTML = cit.length ? cit.map((x) => `<li>${miniFoto(x)}<div>${link(x, x.t)}<small>${x.o.length + 1} sites · ${esc(x.f)}</small></div></li>`).join("") : `<li style="display:block;color:var(--texto-3)">—</li>`;
+    const cit = agruparNoticias(base).filter((g) => g.n > 1).sort((a, b) => b.n - a.n || b.it.p - a.it.p).slice(0, 6);
+    $("#citadas").innerHTML = cit.length ? cit.map((g) => `<li>${miniFoto(g.it)}<div>${link(g.it, g.it.t)}<small>${g.n} sites · ${esc(g.it.f)}</small></div></li>`).join("") : `<li style="display:block;color:var(--texto-3)">—</li>`;
   }
 
   function renderTicker(todos) {
@@ -741,7 +849,12 @@
     if (!el.innerHTML) el.innerHTML = `<div class="vazio"><b>Carregando…</b></div>`;
     const base = await baseCatalogo();
     if (id !== ultimoRender) return;
-    if (estado.c === "catalogo") el.innerHTML = htmlCatalogo(base);
+    if (estado.c === "ranking") {
+      const r = await dadosRanking();
+      if (id !== ultimoRender) return;
+      el.innerHTML = cabecalhoEspecial("Ranking das mais citadas", "As notícias de robótica publicadas pelo maior número de sites do mundo — nas últimas 24 horas, na última semana e no último mês. A contagem junta a mesma história publicada por sites de países e idiomas diferentes e se atualiza sozinha a cada coleta.") + htmlRanking(r.listas, true);
+    }
+    else if (estado.c === "catalogo") el.innerHTML = htmlCatalogo(base);
     else if (estado.c === "fabricantes") el.innerHTML = htmlFabricantes(base);
     else if (estado.c === "curiosidades") { await carregarBiblioteca(); if (id !== ultimoRender) return; el.innerHTML = htmlCuriosidades(base); }
     else if (estado.c === "universidades") {
@@ -1077,7 +1190,7 @@
   function montar() {
     const BM = window.CR_BIB_META || {};
     const contEsp = {
-      catalogo: CAT.robos.length, fabricantes: CAT.fabricantes.length, sites: (CAT.sites || []).length, historia: CONT.historia.length,
+      ranking: 15, catalogo: CAT.robos.length, fabricantes: CAT.fabricantes.length, sites: (CAT.sites || []).length, historia: CONT.historia.length,
       curiosidades: (BM.total || 0).toLocaleString("pt-BR"), universidades: ((BM.universidades || 0) + (BM.arxiv || 0)).toLocaleString("pt-BR"),
     };
     $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
@@ -1111,7 +1224,14 @@
     let t;
     $("#busca").addEventListener("input", (e) => { clearTimeout(t); t = setTimeout(() => irPara({ q: e.target.value.trim(), pagina: 1 }), 250); });
 
-    document.body.addEventListener("click", (e) => {
+    document.body.addEventListener("click", async (e) => {
+      const rk = e.target.closest("[data-rank]");
+      if (rk) {
+        rankAtual = rk.dataset.rank;
+        const r = await dadosRanking();
+        document.querySelectorAll("[data-ranking]").forEach((el) => { el.outerHTML = htmlRanking(r.listas, el.classList.contains("ranking--completo")); });
+        return;
+      }
       const filtro = e.target.closest("[data-f]");
       if (filtro) { irPara({ f: filtro.dataset.f, pagina: 1 }); return; }
       const filtroG = e.target.closest("[data-g]");

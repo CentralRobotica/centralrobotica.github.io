@@ -422,6 +422,13 @@ GUERRA = re.compile(
     re.I,
 )
 
+# ataques e mortes com drones (guerra): fora do escopo do site, mesmo na aba Defesa
+ATAQUE = re.compile(
+    r"ataques? (?:de|com) drones?|drones? (?:attack|strike)s?|drone strikes?|interceptad|abatid|shot down|"
+    r"mort[oa]s? em ataque|killed in .{0,25}attack|deixa \d+ (?:soldados )?mortos|mata \d+",
+    re.I,
+)
+
 ESPECIAL_CATS = {"humanoides": 0.8, "quadrupedes": 0.8}
 FISICAS = {"humanoides", "quadrupedes", "industriais", "drones", "casa", "medicina", "autonomos", "espaco",
            "cobots", "logistica", "entrega", "servico", "companhia", "exoesqueletos", "agricolas", "construcao",
@@ -1287,7 +1294,7 @@ def main():
         if EXCLUIR.search(txt_t):
             continue
         cats = classificar(txt_t, txt_r)
-        if cats[0] == "drones" and GUERRA.search(txt_t + " " + txt_r):
+        if (cats[0] == "drones" and GUERRA.search(txt_t + " " + txt_r)) or ATAQUE.search(txt_t):
             continue  # notícia de guerra com drones: fora do escopo
         if cats == ["geral"] and not BASE_ROBOTICA.search(txt_t):
             continue
