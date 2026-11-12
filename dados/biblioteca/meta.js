@@ -1,1 +1,1 @@
-window.CR_BIB_META={"atualizado": "2026-11-11T23:06-03:00", "total": 99, "universidades": 13, "arxiv": 0};
+window.CR_BIB_META={"atualizado": "2026-11-12T00:05-03:00", "total": 559, "universidades": 161, "arxiv": 50};

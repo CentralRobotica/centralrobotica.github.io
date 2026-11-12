@@ -16,7 +16,7 @@
 "fim": false
 },
 "UC Berkeley": {
-"proxima": 10,
+"proxima": 13,
 "fim": false
 },
 "Berkeley AI Research (BAIR)": {
@@ -24,7 +24,7 @@
 "fim": false
 },
 "University of Washington": {
-"proxima": 10,
+"proxima": 13,
 "fim": false
 },
 "Caltech": {
@@ -68,7 +68,7 @@
 "fim": false
 },
 "Popular Science": {
-"proxima": 10,
+"proxima": 13,
 "fim": false
 },
 "MIT Technology Review": {
@@ -96,12 +96,12 @@
 "fim": false
 },
 "Robohub": {
-"proxima": 2,
+"proxima": 10,
 "fim": false
 },
 "New Atlas": {
-"proxima": 10,
-"fim": false
+"proxima": 11,
+"fim": true
 },
 "ScienceAlert": {
 "proxima": 4,
@@ -116,7 +116,7 @@
 "fim": false
 },
 "Mundo Conectado": {
-"proxima": 10,
-"fim": false
+"proxima": 11,
+"fim": true
 }
 }
