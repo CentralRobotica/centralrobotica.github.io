@@ -1,0 +1,879 @@
+/* ==========================================================================
+   CENTRAL ROBÓTICA — lógica da página
+   Lê dados/indice.js (CR_INDICE) e carrega sob demanda dados/meses/AAAA-MM.js
+   ========================================================================== */
+(function () {
+  "use strict";
+
+  // ------------------------------------------------------------------ ícones
+  const ICONES = {
+    inicio: '<path d="M12 3l2.6 5.6 6 .7-4.5 4.1 1.2 6L12 16.4 6.7 19.4l1.2-6L3.4 9.3l6-.7z"/>',
+    lancamentos: '<path d="M5 19c0-3 1-5 3-6M14 4c3 0 6 3 6 6-2 4-6 7-9 8l-5-5c1-3 4-7 8-9z"/><circle cx="14.5" cy="9.5" r="1.6"/><path d="M8 16l-3 3"/>',
+    humanoides: '<circle cx="12" cy="4.5" r="2.3"/><rect x="8" y="8" width="8" height="7" rx="1.5"/><path d="M8 10l-3 4M16 10l3 4M10 15v6M14 15v6"/>',
+    quadrupedes: '<rect x="5" y="9" width="11" height="5" rx="1.5"/><path d="M16 10h3l2-3M6 14v6M9 14v6M13 14v6M16 14v6M5 10l-2-2"/><circle cx="19.5" cy="9" r=".6"/>',
+    industriais: '<path d="M4 21h8M8 21v-4l4-6 6-3"/><circle cx="12" cy="11" r="1.6"/><circle cx="8" cy="17" r="1.6"/><path d="M18 8l2-2M18 8l1 3"/>',
+    drones: '<rect x="9" y="10" width="6" height="4" rx="1"/><path d="M9 11L5 7M15 11l4-4M9 13l-4 4M15 13l4 4"/><path d="M2 7h6M16 7h6M2 17h6M16 17h6"/>',
+    casa: '<path d="M3 11l9-7 9 7M5 9.5V20h14V9.5"/><circle cx="12" cy="15" r="3"/><circle cx="12" cy="15" r=".6"/>',
+    medicina: '<path d="M12 21s-8-4.6-8-11a4.5 4.5 0 018-2.8A4.5 4.5 0 0120 10c0 6.4-8 11-8 11z"/><path d="M12 9v6M9 12h6"/>',
+    autonomos: '<path d="M5 16l1.5-5A2 2 0 018.4 9.5h7.2a2 2 0 011.9 1.5L19 16"/><rect x="3" y="16" width="18" height="4" rx="1"/><circle cx="7.5" cy="18" r=".6"/><circle cx="16.5" cy="18" r=".6"/><path d="M9 6a5 5 0 016 0M7 3.8a8 8 0 0110 0"/>',
+    espaco: '<circle cx="12" cy="12" r="5"/><ellipse cx="12" cy="12" rx="10" ry="3.5" transform="rotate(-20 12 12)"/>',
+    ia: '<rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/>',
+    negocios: '<path d="M3 20h18M6 16v-4M10 16V8M14 16v-6M18 16V5"/>',
+    geral: '<rect x="5" y="7" width="14" height="11" rx="3"/><circle cx="9.5" cy="12.5" r="1.3"/><circle cx="14.5" cy="12.5" r="1.3"/><path d="M12 7V4"/>',
+    catalogo: '<rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>',
+    fabricantes: '<path d="M3 21V10l5 3V10l5 3V6l8 4v11z"/><path d="M7 17h2M12 17h2M17 17h1"/>',
+    sites: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>',
+    curiosidades: '<path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.2 1 2V16h5v-.1c0-.8.4-1.5 1-2A6 6 0 0012 3z"/>',
+    historia: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+    universidades: '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/>',
+  };
+
+  const CATEGORIAS = [
+    { id: "inicio", nome: "Destaques" },
+    { id: "lancamentos", nome: "Lançamentos" },
+    { id: "humanoides", nome: "Humanoides" },
+    { id: "quadrupedes", nome: "Cães-robô" },
+    { id: "industriais", nome: "Industriais" },
+    { id: "drones", nome: "Drones" },
+    { id: "casa", nome: "Casa e Serviço" },
+    { id: "medicina", nome: "Medicina" },
+    { id: "autonomos", nome: "Veículos Autônomos" },
+    { id: "espaco", nome: "Espaço e Oceano" },
+    { id: "ia", nome: "IA e Pesquisa" },
+    { id: "negocios", nome: "Negócios" },
+    { id: "catalogo", nome: "Catálogo de robôs", especial: true },
+    { id: "fabricantes", nome: "Fabricantes", especial: true },
+    { id: "sites", nome: "Sites especializados", especial: true },
+    { id: "curiosidades", nome: "+1000 Curiosidades", especial: true },
+    { id: "universidades", nome: "Universidades", especial: true },
+    { id: "historia", nome: "História da robótica", especial: true },
+  ];
+  const ESPECIAIS = new Set(CATEGORIAS.filter((c) => c.especial).map((c) => c.id));
+  const TIPOS = ["humanoides", "quadrupedes", "industriais", "drones", "casa", "medicina", "autonomos", "espaco"];
+  const NOME_CAT = Object.fromEntries(CATEGORIAS.map((c) => [c.id, c.nome]));
+  NOME_CAT.geral = "Robótica";
+  NOME_CAT.quadrupedes = "Cães-robô e Quadrúpedes";
+
+  const IDIOMAS = {
+    en: "inglês", es: "espanhol", fr: "francês", de: "alemão", it: "italiano", zh: "chinês",
+    ja: "japonês", ko: "coreano", ru: "russo", nl: "holandês", pl: "polonês", tr: "turco",
+    ar: "árabe", hi: "híndi", sv: "sueco", uk: "ucraniano", cs: "tcheco", ro: "romeno",
+  };
+  const MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
+  const SEMANA = ["domingo", "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado"];
+  const POR_PAGINA = 40;
+
+  const INDICE = window.CR_INDICE || { meses: {}, fontes: {}, total: 0 };
+  window.CR_DADOS = window.CR_DADOS || {};
+  const $ = (s) => document.querySelector(s);
+
+  // ------------------------------------------------------------------ datas
+  function hojeBR() {
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Paulo", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  }
+  const paraData = (s) => { const [a, m, d] = s.split("-").map(Number); return new Date(Date.UTC(a, m - 1, d)); };
+  const deData = (dt) => dt.toISOString().slice(0, 10);
+  const somaDias = (s, n) => { const d = paraData(s); d.setUTCDate(d.getUTCDate() + n); return deData(d); };
+  function somaMeses(s, n) {
+    const d = paraData(s); const dia = d.getUTCDate(); d.setUTCDate(1); d.setUTCMonth(d.getUTCMonth() + n);
+    const ult = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).getUTCDate();
+    d.setUTCDate(Math.min(dia, ult)); return deData(d);
+  }
+  function inicioSemana(s) { const d = paraData(s); const w = (d.getUTCDay() + 6) % 7; return somaDias(s, -w); }
+  function fmtDiaLongo(s) { const d = paraData(s); return `${SEMANA[d.getUTCDay()]}, ${d.getUTCDate()} de ${MESES[d.getUTCMonth()]} de ${d.getUTCFullYear()}`; }
+  function fmtDiaCurto(s) { const [a, m, d] = s.split("-"); return `${d}/${m}/${a}`; }
+  function fmtHora(iso) { return iso.slice(11, 16); }
+
+  function intervalo(p, d) {
+    if (p === "semana") { const i = inicioSemana(d); return [i, somaDias(i, 6)]; }
+    if (p === "mes") { const i = d.slice(0, 8) + "01"; return [i, somaDias(somaMeses(i, 1), -1)]; }
+    if (p === "ano") return [d.slice(0, 4) + "-01-01", d.slice(0, 4) + "-12-31"];
+    return [d, d];
+  }
+  function rotulo(p, d) {
+    const [i, f] = intervalo(p, d);
+    if (p === "semana") return `Semana ${fmtDiaCurto(i).slice(0, 5)} – ${fmtDiaCurto(f)}`;
+    if (p === "mes") return `${MESES[+d.slice(5, 7) - 1]} de ${d.slice(0, 4)}`;
+    if (p === "ano") return `Ano de ${d.slice(0, 4)}`;
+    return fmtDiaLongo(d);
+  }
+
+  // ------------------------------------------------------------------ estado
+  const estado = { c: "inicio", p: "hoje", d: hojeBR(), q: "", pagina: 1, f: "", g: "" };
+  function lerHash() {
+    const h = new URLSearchParams(location.hash.slice(1));
+    estado.c = NOME_CAT[h.get("c")] ? h.get("c") : "inicio";
+    estado.p = ["hoje", "dia", "semana", "mes", "ano"].includes(h.get("p")) ? h.get("p") : "hoje";
+    estado.d = /^\d{4}-\d{2}-\d{2}$/.test(h.get("d") || "") ? h.get("d") : hojeBR();
+    if (estado.p === "hoje") estado.d = hojeBR();
+    estado.q = h.get("q") || "";
+    estado.f = h.get("f") || "";
+    estado.g = h.get("g") || "";
+    estado.pagina = 1;
+  }
+  function irPara(mud) {
+    Object.assign(estado, mud);
+    const h = new URLSearchParams();
+    if (estado.c !== "inicio") h.set("c", estado.c);
+    if (estado.p !== "hoje") { h.set("p", estado.p); h.set("d", estado.d); }
+    if (estado.q) h.set("q", estado.q);
+    if (estado.f && ESPECIAIS.has(estado.c)) h.set("f", estado.f);
+    if (estado.g && ESPECIAIS.has(estado.c)) h.set("g", estado.g);
+    const novo = "#" + h.toString();
+    if (location.hash !== novo && !(novo === "#" && !location.hash)) history.pushState(null, "", novo || "#");
+    render();
+  }
+
+  // ------------------------------------------------------------------ dados
+  const carregando = {};
+  function carregarMes(chave) {
+    if (window.CR_DADOS[chave]) return Promise.resolve();
+    if (!INDICE.meses[chave]) return Promise.resolve();
+    if (!carregando[chave]) {
+      carregando[chave] = new Promise((ok) => {
+        const s = document.createElement("script");
+        s.src = `dados/meses/${chave}.js?v=${encodeURIComponent(INDICE.atualizado || "")}`;
+        s.onload = s.onerror = () => ok();
+        document.head.appendChild(s);
+      });
+    }
+    return carregando[chave];
+  }
+  function mesesEntre(i, f) {
+    const r = []; let k = i.slice(0, 7);
+    while (k <= f.slice(0, 7)) { r.push(k); const [a, m] = k.split("-").map(Number); k = m === 12 ? `${a + 1}-01` : `${a}-${String(m + 1).padStart(2, "0")}`; }
+    return r;
+  }
+  function diasDisponiveis() {
+    const dias = [];
+    for (const m of Object.keys(INDICE.meses)) for (const d of Object.keys(INDICE.meses[m])) if (INDICE.meses[m][d] > 0) dias.push(d);
+    return dias.sort();
+  }
+  async function itensDoPeriodo(i, f) {
+    await Promise.all(mesesEntre(i, f).map(carregarMes));
+    const out = [];
+    for (const m of mesesEntre(i, f)) {
+      const dados = window.CR_DADOS[m] || {};
+      // notícias ainda não traduzidas (nt) só aparecem depois de traduzidas
+      for (const dia in dados) if (dia >= i && dia <= f) for (const it of dados[dia]) { if (it.nt) continue; it.dia = dia; out.push(it); }
+    }
+    return out;
+  }
+  const semAcento = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  function passaCategoria(it, c) {
+    if (c === "inicio") return true;
+    if (c === "lancamentos") return !!it.l;
+    return (it.c || []).includes(c);
+  }
+
+  // ------------------------------------------------------------------ html
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+  function placeholder(cat) {
+    const ic = ICONES[cat] || ICONES.geral;
+    return `<svg class="ph" viewBox="0 0 320 180" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a0605"/><stop offset=".6" stop-color="#0b0b0d"/><stop offset="1" stop-color="#050506"/></linearGradient>
+      <pattern id="p" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#e10600" stroke-opacity=".09"/></pattern></defs>
+      <rect width="320" height="180" fill="url(#g)"/><rect width="320" height="180" fill="url(#p)"/>
+      <circle cx="160" cy="84" r="46" fill="none" stroke="#e10600" stroke-opacity=".25"/>
+      <g transform="translate(130 54) scale(2.5)" fill="none" stroke="#ff2a1f" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">${ic}</g>
+      <text x="160" y="160" text-anchor="middle" fill="#7d7d88" font-family="Orbitron, sans-serif" font-size="9" letter-spacing="3">${esc((NOME_CAT[cat] || "ROBÓTICA").toUpperCase())}</text></svg>`;
+  }
+  function imagem(it) {
+    const cat = (it.c || ["geral"])[0];
+    return it.i ? `<img src="${esc(it.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" onerror="CR_falhaImagem(this)">` : placeholder(cat);
+  }
+  const capa = (it) => `<div class="capa">${imagem(it)}</div>`;
+  window.CR_falhaImagem = (img) => { const div = img.parentNode; if (div) div.innerHTML = placeholder(img.dataset.cat); };
+
+  function chips(it, max = 2) {
+    let h = "";
+    if (it.l) h += `<span class="chip chip--lanc" data-cat="lancamentos">Lançamento</span>`;
+    for (const c of (it.c || []).slice(0, max)) if (c !== "geral") h += `<span class="chip" data-cat="${c}">${esc(NOME_CAT[c] || c)}</span>`;
+    return `<div class="chips">${h}</div>`;
+  }
+  function meta(it, comDia) {
+    const partes = [];
+    partes.push(`<span>${comDia ? fmtDiaCurto(it.dia) + " · " : ""}${fmtHora(it.d)}</span>`);
+    if (it.lg && it.lg !== "pt") partes.push(`<span class="trad" title="${esc(it.to || "")}">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>`);
+    return `<div class="meta">${partes.join("")}</div>`;
+  }
+  function fonte(it, curto) {
+    const dom = it.s ? `<span class="fonte__dom">${esc(it.s)}</span>` : "";
+    let h = `<div class="fonte"><div class="fonte__linha"><span class="fonte__rot">Fonte</span>
+      <a class="fonte__site" href="${esc(it.u)}" target="_blank" rel="noopener">${esc(it.f)}</a>${dom}
+      <a class="fonte__ler" href="${esc(it.u)}" target="_blank" rel="noopener">Ler no site original ↗</a></div>`;
+    if (it.o && it.o.length) {
+      const lim = curto ? 3 : 8;
+      const links = it.o.slice(0, lim).map((o) => `<a href="${esc(o.u)}" target="_blank" rel="noopener" title="${esc(o.s || "")}">${esc(o.f)}</a>`).join(" ");
+      const resto = it.o.length > lim ? ` <span>+${it.o.length - lim}</span>` : "";
+      h += `<div class="fonte__tambem"><span class="fonte__rot">Também em</span> ${links}${resto}</div>`;
+    }
+    return h + "</div>";
+  }
+  const link = (it, txt) => `<a href="${esc(it.u)}" target="_blank" rel="noopener" title="${esc(it.to || "")}">${esc(txt)}</a>`;
+
+  function htmlPrincipal(it, comDia) {
+    return `<article class="principal">
+      <span class="principal__rot">Destaque principal</span>
+      ${capa(it)}
+      <div class="principal__corpo">${chips(it, 3)}<h2>${link(it, it.t)}</h2>${it.r ? `<p>${esc(it.r)}</p>` : ""}${meta(it, comDia)}${fonte(it)}</div>
+    </article>`;
+  }
+  function htmlSec(it, comDia) {
+    return `<article class="sec">${capa(it)}<div class="sec__corpo">${chips(it, 1)}<h3>${link(it, it.t)}</h3>${meta(it, comDia)}${fonte(it, true)}</div></article>`;
+  }
+  function htmlCard(it, comDia) {
+    return `<article class="card"><div class="capa">${imagem(it)}${chips(it, 2)}</div>
+      <div class="card__corpo"><h3>${link(it, it.t)}</h3>${it.r ? `<p>${esc(it.r)}</p>` : ""}${meta(it, comDia)}${fonte(it, true)}</div></article>`;
+  }
+  function htmlMenor(it) {
+    return `<li class="menor">${capa(it)}<div class="menor__corpo"><div class="menor__topo">${chips(it, 1)}${meta(it, false)}</div>
+      <h4>${link(it, it.t)}</h4>${fonte(it, true)}</div></li>`;
+  }
+
+  // ------------------------------------------------------------------ render
+  let ultimoRender = 0;
+  async function render() {
+    const id = ++ultimoRender;
+    marcarControles();
+    const especial = ESPECIAIS.has(estado.c);
+    document.body.classList.toggle("modo-especial", especial);
+    $("#especial").hidden = !especial;
+    if (especial) {
+      for (const s of ["#destaques", "#mais-destaques", "#outras"]) $(s).innerHTML = "";
+      $("#aviso").hidden = $("#vazio").hidden = true;
+      await renderEspecial(id);
+      return;
+    }
+    $("#especial").innerHTML = "";
+    let [i, f] = intervalo(estado.p, estado.d);
+    let todos = await itensDoPeriodo(i, f);
+    if (id !== ultimoRender) return;
+
+    const aviso = $("#aviso");
+    aviso.hidden = true;
+    if (estado.p === "hoje" && !todos.length) {
+      const anteriores = diasDisponiveis().filter((d) => d < estado.d);
+      if (anteriores.length) {
+        const ult = anteriores[anteriores.length - 1];
+        todos = await itensDoPeriodo(ult, ult);
+        if (id !== ultimoRender) return;
+        aviso.hidden = false;
+        aviso.innerHTML = `Ainda não há notícias reunidas hoje. Exibindo o dia mais recente: <b>${fmtDiaLongo(ult)}</b>.`;
+        i = f = ult;
+      }
+    }
+
+    // busca
+    let base = todos;
+    if (estado.q) {
+      const termos = semAcento(estado.q).split(/\s+/).filter(Boolean);
+      base = todos.filter((it) => { const t = semAcento(`${it.t} ${it.r} ${it.f} ${it.to || ""} ${it.s || ""}`); return termos.every((x) => t.includes(x)); });
+    }
+    contarAbas(base);
+    const itens = base.filter((it) => passaCategoria(it, estado.c));
+    const multiDia = i !== f;
+
+    renderLateral(base, itens);
+    renderTicker(todos);
+
+    const dest = $("#destaques"), mais = $("#mais-destaques"), outras = $("#outras"), vazio = $("#vazio");
+    if (!itens.length) {
+      dest.innerHTML = mais.innerHTML = outras.innerHTML = "";
+      vazio.hidden = false;
+      vazio.innerHTML = estado.q
+        ? `<b>Nada encontrado</b>Nenhuma notícia com “${esc(estado.q)}” neste período e categoria.`
+        : `<b>Sem notícias neste período</b>Tente outro dia, outra categoria ou consulte o arquivo ao lado.`;
+      return;
+    }
+    vazio.hidden = true;
+
+    // seleção dos destaques: relevância + bônus para quem tem imagem
+    // lançamentos de robôs SEMPRE vêm primeiro; depois relevância (+ bônus para quem tem imagem)
+    const nota = (it) => it.p + (it.i ? 1.2 : 0);
+    const ranking = [...itens].sort((a, b) => (b.l || 0) - (a.l || 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || nota(b) - nota(a) || b.d.localeCompare(a.d));
+    const nDest = itens.length >= 8 ? 5 : Math.min(itens.length, 1);
+    const topo = ranking.slice(0, nDest);
+    const nCards = itens.length >= 14 ? 6 : itens.length >= 11 ? 3 : 0;
+    const cards = ranking.slice(nDest, nDest + nCards);
+    const usados = new Set([...topo, ...cards].map((x) => x.id));
+    const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (b.l || 0) - (a.l || 0) || b.p - a.p || b.d.localeCompare(a.d));
+
+    const nomeCat = estado.c === "inicio" ? "Destaques" : NOME_CAT[estado.c];
+    const titPeriodo = estado.p === "hoje" && i === hojeBR() ? "de hoje" : multiDia ? "do período" : "do dia";
+
+    // resumo do ano: blocos por mês
+    let blocoAno = "";
+    if (estado.p === "ano") {
+      const porMes = {};
+      for (const it of itens) porMes[it.dia.slice(0, 7)] = (porMes[it.dia.slice(0, 7)] || 0) + 1;
+      blocoAno = `<h2 class="titulo-secao">Mês a mês <small>${itens.length} notícias no ano</small></h2><div class="meses-ano">` +
+        Object.keys(porMes).sort().map((m) => `<button class="mes-ano" data-mes="${m}"><b>${MESES[+m.slice(5) - 1]}</b><span>${porMes[m]}</span><small>notícias</small></button>`).join("") + "</div>";
+    }
+
+    dest.innerHTML = `${blocoAno}<h2 class="titulo-secao">${esc(nomeCat)} ${titPeriodo} <small>${itens.length} notícia${itens.length > 1 ? "s" : ""}</small></h2>
+      <div class="destaques__grade">${htmlPrincipal(topo[0], multiDia)}${topo.length > 1 ? `<div class="secundarios">${topo.slice(1).map((x) => htmlSec(x, multiDia)).join("")}</div>` : ""}</div>`;
+    if (topo.length === 1) dest.querySelector(".destaques__grade").style.gridTemplateColumns = "1fr";
+
+    mais.innerHTML = cards.length ? `<h2 class="titulo-secao">Mais destaques</h2><div class="cards">${cards.map((x) => htmlCard(x, multiDia)).join("")}</div>` : "";
+
+    const pagina = resto.slice(0, POR_PAGINA * estado.pagina);
+    let h = resto.length ? `<h2 class="titulo-secao">Outras notícias <small>${resto.length}</small></h2>` : "";
+    let diaAtual = null, aberto = false;
+    for (const it of pagina) {
+      if (it.dia !== diaAtual) {
+        if (aberto) h += "</ul></div>";
+        diaAtual = it.dia;
+        const n = resto.filter((x) => x.dia === it.dia).length;
+        h += `<div class="dia-grupo"><div class="dia-grupo__titulo">${fmtDiaLongo(it.dia)}<span>${n} notícia${n > 1 ? "s" : ""}</span></div><ul class="lista">`;
+        aberto = true;
+      }
+      h += htmlMenor(it);
+    }
+    if (aberto) h += "</ul></div>";
+    if (resto.length > pagina.length) h += `<button class="mais" id="carregar-mais">Carregar mais notícias (${resto.length - pagina.length})</button>`;
+    outras.innerHTML = h;
+  }
+
+  function contarAbas(base) {
+    for (const c of CATEGORIAS) {
+      if (c.especial) continue;
+      const el = document.querySelector(`.aba[data-c="${c.id}"] .aba__n`);
+      if (el) el.textContent = base.filter((it) => passaCategoria(it, c.id)).length;
+    }
+  }
+
+  function renderLateral(base) {
+    // contagem por categoria
+    const lista = CATEGORIAS.filter((c) => c.id !== "inicio" && !c.especial).map((c) => ({ ...c, n: base.filter((it) => passaCategoria(it, c.id)).length })).sort((a, b) => b.n - a.n);
+    const max = Math.max(1, ...lista.map((c) => c.n));
+    $("#contagem").innerHTML = lista.map((c) => `<li data-cat="${c.id}"><div class="contagem__linha"><span class="contagem__nome">${esc(NOME_CAT[c.id])}</span><b>${c.n}</b></div><div class="contagem__barra"><i style="width:${(c.n / max) * 100}%"></i></div></li>`).join("");
+
+    // mais citadas
+    const cit = base.filter((x) => x.o && x.o.length).sort((a, b) => b.o.length - a.o.length || b.p - a.p).slice(0, 6);
+    $("#citadas").innerHTML = cit.length ? cit.map((x) => `<li><div>${link(x, x.t)}<small>${x.o.length + 1} sites · ${esc(x.f)}</small></div></li>`).join("") : `<li style="display:block;color:var(--texto-3)">—</li>`;
+  }
+
+  function renderTicker(todos) {
+    let lanc = todos.filter((x) => x.l).sort((a, b) => b.p - a.p).slice(0, 14);
+    const t = $("#ticker");
+    if (lanc.length < 3) { t.hidden = true; return; }
+    t.hidden = false;
+    const html = lanc.map((x) => link(x, x.t)).join("");
+    $("#ticker-faixa").innerHTML = html + html;
+  }
+
+  function renderArquivo() {
+    const anos = {};
+    for (const m of Object.keys(INDICE.meses).sort().reverse()) {
+      const a = m.slice(0, 4);
+      (anos[a] = anos[a] || []).push(m);
+    }
+    const hoje = hojeBR();
+    let h = "";
+    Object.keys(anos).sort().reverse().forEach((a, ia) => {
+      const totalAno = anos[a].reduce((s, m) => s + Object.values(INDICE.meses[m]).reduce((x, y) => x + y, 0), 0);
+      h += `<details ${ia === 0 ? "open" : ""}><summary><span>${a}</span><small>${totalAno}</small></summary>
+        <div class="acoes"><button data-ir="ano" data-d="${a}-01-01">Ver o ano</button></div>`;
+      anos[a].forEach((m, im) => {
+        const dias = INDICE.meses[m];
+        const totalMes = Object.values(dias).reduce((x, y) => x + y, 0);
+        h += `<details ${ia === 0 && im === 0 ? "open" : ""}><summary><span>${MESES[+m.slice(5) - 1]}</span><small>${totalMes}</small></summary>
+          <div class="acoes"><button data-ir="mes" data-d="${m}-01">Ver o mês</button></div><div class="dias">` +
+          Object.keys(dias).sort().reverse().map((d) => `<button data-ir="dia" data-d="${d}" class="${d === hoje ? "" : ""}" title="${fmtDiaLongo(d)}">${d.slice(8)}<small>${dias[d]}</small></button>`).join("") +
+          "</div></details>";
+      });
+      h += "</details>";
+    });
+    $("#arquivo").innerHTML = h || `<p class="painel__dica">O histórico aparecerá aqui após a primeira coleta.</p>`;
+  }
+
+  function marcarControles() {
+    document.querySelectorAll(".aba").forEach((b) => b.classList.toggle("ativa", b.dataset.c === estado.c));
+    document.querySelectorAll(".atalho").forEach((a) => a.classList.toggle("ativo", a.getAttribute("href") === "#c=" + estado.c));
+    document.querySelectorAll("#periodos button").forEach((b) => b.classList.toggle("ativo", b.dataset.p === estado.p));
+    $("#rotulo-periodo").textContent = rotulo(estado.p, estado.d);
+    $("#seletor-data").value = estado.d;
+    $("#seletor-data").max = hojeBR();
+    const [, f] = intervalo(estado.p, estado.d);
+    $("#proximo").disabled = f >= hojeBR();
+    const dias = diasDisponiveis();
+    const [i] = intervalo(estado.p, estado.d);
+    $("#anterior").disabled = !dias.length || i <= dias[0];
+    if ($("#busca").value !== estado.q) $("#busca").value = estado.q;
+    document.querySelectorAll(".dias button").forEach((b) => b.classList.toggle("atual", (estado.p === "dia" || estado.p === "hoje") && b.dataset.d === estado.d));
+    document.title = (estado.c === "inicio" ? "" : NOME_CAT[estado.c] + " — ") + "Central Robótica";
+  }
+
+  // ------------------------------------------------------------------ guias especiais
+  const CAT = window.CR_CATALOGO || { robos: [], fabricantes: [], sites: [] };
+  const REGIAO = (pais) => {
+    if (/EUA/.test(pais)) return "EUA";
+    if (/China|Hong Kong/.test(pais)) return "China";
+    if (/Japão/.test(pais)) return "Japão";
+    if (/Coreia/.test(pais)) return "Coreia do Sul";
+    if (/Brasil/.test(pais)) return "Brasil";
+    if (/Suíça|Alemanha|Dinamarca|Reino Unido|França|Suécia|Polônia|Noruega|Irlanda|Estônia|Itália|Espanha|Holanda/.test(pais)) return "Europa";
+    return "Outros";
+  };
+  const STATUS_CLS = { "À venda": "st-venda", "Pré-venda": "st-pre", "Em operação": "st-oper", "Pilotos e testes": "st-teste", "Protótipo": "st-proto", "Em desenvolvimento": "st-proto", "Aposentado": "st-apos" };
+  const ANO_ATUAL = +hojeBR().slice(0, 4);
+
+  let TODAS = null;
+  async function todasNoticias() {
+    await Promise.all(Object.keys(INDICE.meses).map(carregarMes));
+    if (TODAS) return TODAS;
+    const out = [];
+    for (const m in window.CR_DADOS) for (const dia in window.CR_DADOS[m]) for (const it of window.CR_DADOS[m][dia]) { if (it.nt) continue; it.dia = dia; out.push(it); }
+    out.sort((a, b) => b.d.localeCompare(a.d));
+    return (TODAS = out);
+  }
+  function rxTermos(termos) {
+    const alts = termos.filter(Boolean).map((s) => s.trim().replace(/[.*+?^${}()[\]\\]/g, "\\$&"));
+    return new RegExp("(?<![\\p{L}\\p{N}])(?:" + alts.join("|") + ")(?![\\p{L}\\p{N}])", "u");
+  }
+  const termosRobo = (r) => (r.busca || r.nome).split("|");
+  function termosFab(f) {
+    const pular = new Set(["DEEP", "Ghost", "Standard", "Serve", "Clone", "Universal", "Engineered", "Rainbow", "Kepler", "Agility", "Sanctuary", "Booster", "Mobile"]);
+    const out = [];
+    for (let p of f.nome.split(/[()\/]/)) {
+      p = p.trim(); if (!p) continue;
+      out.push(p);
+      const r = p.replace(/\s+(Robotics|Technologies|Electronics|MedTech|Innovation|Space|Surgical|Dynamics)$/, "").trim();
+      if (r !== p && !pular.has(r) && (r.length >= 4 || /^[A-Z0-9]{2,}$/.test(r))) out.push(r);
+    }
+    return out;
+  }
+  const casa = (rx, it) => rx.test(it.t) || (it.to && rx.test(it.to));
+  let BASE_CAT = null;
+  async function baseCatalogo() {
+    const todas = await todasNoticias();
+    if (BASE_CAT && BASE_CAT.n === todas.length) return BASE_CAT;
+    const fab = Object.fromEntries(CAT.fabricantes.map((f) => [f.id, { ...f, robos: [] }]));
+    const robos = CAT.robos.map((r) => {
+      const rx = rxTermos(termosRobo(r));
+      const ns = todas.filter((it) => casa(rx, it));
+      const rob = { ...r, fabr: fab[r.fab] || { nome: r.fab, pais: "" }, noticias: ns, img: (ns.find((x) => x.i) || {}).i || "" };
+      if (fab[r.fab]) fab[r.fab].robos.push(rob);
+      return rob;
+    });
+    for (const f of Object.values(fab)) {
+      const rx = rxTermos(termosFab(f).concat(...f.robos.map(termosRobo)));
+      f.noticias = todas.filter((it) => casa(rx, it));
+      f.tipos = [...new Set(f.robos.map((r) => r.tipo))];
+    }
+    return (BASE_CAT = { n: todas.length, robos, fab, todas });
+  }
+  const passaBusca = (txt) => {
+    if (!estado.q) return true;
+    const t = semAcento(txt);
+    return semAcento(estado.q).split(/\s+/).filter(Boolean).every((x) => t.includes(x));
+  };
+  const linkNoticias = (q, n) => `<a class="btn-noticias" href="#p=ano&d=${hojeBR()}&q=${encodeURIComponent(q)}">${n} notícia${n === 1 ? "" : "s"} →</a>`;
+  function miniNoticia(it) {
+    return `<li><a href="${esc(it.u)}" target="_blank" rel="noopener">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a><small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${it.s ? " (" + esc(it.s) + ")" : ""}</small></li>`;
+  }
+  function filtros(opcoes, atual, chave = "f") {
+    return `<div class="filtros">${opcoes.map(([v, nome, n]) => `<button class="filtro ${v === atual ? "ativo" : ""}" data-${chave}="${esc(v)}">${esc(nome)}${n != null ? ` <span>${n}</span>` : ""}</button>`).join("")}</div>`;
+  }
+  function cabecalhoEspecial(titulo, sub) {
+    return `<div class="esp-cab"><h1>${esc(titulo)}</h1><p>${sub}</p>${estado.q ? `<p class="esp-busca">Filtrando por “${esc(estado.q)}” <button data-limpar-busca>limpar</button></p>` : ""}</div>`;
+  }
+
+  async function renderEspecial(id) {
+    const el = $("#especial");
+    if (!el.innerHTML) el.innerHTML = `<div class="vazio"><b>Carregando…</b></div>`;
+    const base = await baseCatalogo();
+    if (id !== ultimoRender) return;
+    if (estado.c === "catalogo") el.innerHTML = htmlCatalogo(base);
+    else if (estado.c === "fabricantes") el.innerHTML = htmlFabricantes(base);
+    else if (estado.c === "curiosidades") { await carregarBiblioteca(); if (id !== ultimoRender) return; el.innerHTML = htmlCuriosidades(base); }
+    else if (estado.c === "universidades") {
+      await carregarBiblioteca();
+      const meses = Object.keys(bib().meta.arxiv || {}).sort().reverse();
+      const mesArx = /^\d{4}-\d{2}$/.test(estado.g) ? estado.g : meses[0];
+      if (mesArx) await carregarScript(`dados/biblioteca/arxiv/${mesArx}.js`, () => (window.CR_ARXIV || {})[mesArx]);
+      if (id !== ultimoRender) return;
+      el.innerHTML = htmlUniversidades(base, mesArx, meses);
+    }
+    else if (estado.c === "historia") el.innerHTML = htmlHistoria(base);
+    else el.innerHTML = htmlSites(base);
+    // faixa de lançamentos e contadores das abas também nas guias especiais
+    renderTicker(base.todas.filter((x) => x.dia >= somaDias(hojeBR(), -3)));
+    const dias = diasDisponiveis();
+    const ultimo = dias[dias.length - 1];
+    contarAbas(base.todas.filter((x) => x.dia === ultimo));
+  }
+
+  function htmlCatalogo(base) {
+    const tipo = TIPOS.includes(estado.f) ? estado.f : "";
+    const visiveis = base.robos.filter((r) => passaBusca(`${r.nome} ${r.fabr.nome} ${r.desc} ${r.fabr.pais} ${r.status}`));
+    const contTipo = (t) => visiveis.filter((r) => r.tipo === t).length;
+    let h = cabecalhoEspecial("Catálogo de robôs", `${CAT.robos.length} robôs de ${CAT.fabricantes.length} fabricantes, separados por tipo. Cada robô mostra as notícias reunidas pela Central Robótica.`);
+    h += filtros([["", "Todos", visiveis.length], ...TIPOS.map((t) => [t, NOME_CAT[t], contTipo(t)])], tipo);
+
+    // lançamentos recentes no noticiário (prioridade)
+    const limite = somaDias(hojeBR(), -14);
+    const lanc = base.todas.filter((x) => x.l && x.dia >= limite && (!tipo || (x.c || []).includes(tipo))).sort((a, b) => (b.i ? 1 : 0) - (a.i ? 1 : 0) || b.p - a.p).slice(0, 6);
+    if (lanc.length) {
+      h += `<h2 class="titulo-secao">Lançamentos recentes no noticiário <small>últimos 14 dias</small></h2><div class="cards cards--lanc">${lanc.map((x) => htmlCard(x, true)).join("")}</div>`;
+    }
+
+    for (const t of TIPOS) {
+      if (tipo && t !== tipo) continue;
+      let lista = visiveis.filter((r) => r.tipo === t);
+      if (!lista.length) continue;
+      lista.sort((a, b) => (b.status === "Aposentado" ? -1 : 0) - (a.status === "Aposentado" ? -1 : 0) || b.ano - a.ano || b.noticias.length - a.noticias.length);
+      h += `<h2 class="titulo-secao titulo-secao--tipo"><svg viewBox="0 0 24 24">${ICONES[t]}</svg>${esc(NOME_CAT[t])} <small>${lista.length} robô${lista.length > 1 ? "s" : ""}</small></h2><div class="robos">`;
+      for (const r of lista) {
+        const novo = r.ano >= ANO_ATUAL - 1 && r.status !== "Aposentado";
+        const lancN = r.noticias.find((x) => x.l && x.dia >= somaDias(hojeBR(), -30));
+        h += `<article class="robo">
+          <div class="robo__capa">${r.img ? `<img src="${esc(r.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${t}" onerror="CR_falhaImagem(this)">` : placeholder(t)}
+            <div class="robo__selos">${lancN ? '<span class="chip chip--lanc">Lançamento recente</span>' : ""}${novo ? '<span class="chip">Novo</span>' : ""}</div></div>
+          <div class="robo__corpo">
+            <div class="robo__topo"><span class="status ${STATUS_CLS[r.status] || ""}">${esc(r.status)}</span><span class="robo__ano">${r.ano}</span></div>
+            <h3>${esc(r.nome)}</h3>
+            <a class="robo__fab" href="#c=fabricantes&q=${encodeURIComponent(r.fabr.nome)}">${esc(r.fabr.nome)} · ${esc(r.fabr.pais)}</a>
+            <p>${esc(r.desc)}</p>
+            ${r.noticias[0] ? `<div class="robo__ult"><span class="fonte__rot">Última notícia</span> <a href="${esc(r.noticias[0].u)}" target="_blank" rel="noopener">${esc(r.noticias[0].t)}</a> <small>${fmtDiaCurto(r.noticias[0].dia)} · ${esc(r.noticias[0].f)}</small></div>` : ""}
+            <div class="robo__rodape">${r.noticias.length ? linkNoticias(termosRobo(r)[0], r.noticias.length) : '<span class="sem-noticias">Sem notícias no arquivo ainda</span>'}</div>
+          </div></article>`;
+      }
+      h += "</div>";
+    }
+    if (!visiveis.length) h += `<div class="vazio"><b>Nenhum robô encontrado</b>Tente outro termo de busca.</div>`;
+    return h;
+  }
+
+  function htmlFabricantes(base) {
+    const regioes = ["EUA", "China", "Japão", "Coreia do Sul", "Europa", "Outros"];
+    const reg = regioes.includes(estado.f) ? estado.f : "";
+    const todos = Object.values(base.fab).filter((f) => passaBusca(`${f.nome} ${f.pais} ${f.sede} ${f.desc} ${f.robos.map((r) => r.nome).join(" ")}`));
+    const lista = todos.filter((f) => !reg || REGIAO(f.pais) === reg).sort((a, b) => b.noticias.length - a.noticias.length || b.robos.length - a.robos.length || a.nome.localeCompare(b.nome));
+    let h = cabecalhoEspecial("Fabricantes de robôs", `As principais fabricantes de robôs do mundo e seus robôs — ordenadas pelo volume de notícias no arquivo da Central Robótica.`);
+    h += filtros([["", "Todas", todos.length], ...regioes.map((r) => [r, r, todos.filter((f) => REGIAO(f.pais) === r).length])], reg);
+    h += `<div class="fabs">`;
+    for (const f of lista) {
+      const lanc = f.noticias.filter((x) => x.l).slice(0, 1);
+      const ult = [...lanc, ...f.noticias.filter((x) => !lanc.includes(x))].slice(0, 3);
+      h += `<article class="fab">
+        <div class="fab__cab"><div><h3>${esc(f.nome)}</h3><span class="fab__pais">${esc(f.pais)} · ${esc(f.sede)} · desde ${f.fund}</span></div>
+          <a class="fab__site" href="https://${esc(f.site)}" target="_blank" rel="noopener">${esc(f.site)} ↗</a></div>
+        <p>${esc(f.desc)}</p>
+        <div class="fab__tipos">${f.tipos.map((t) => `<span class="chip" data-f-tipo="${t}"><svg viewBox="0 0 24 24">${ICONES[t]}</svg>${esc(NOME_CAT[t])}</span>`).join("")}</div>
+        <div class="fab__robos"><span class="fonte__rot">Robôs (${f.robos.length})</span>${f.robos.sort((a, b) => b.ano - a.ano).map((r) => `<a href="#c=catalogo&q=${encodeURIComponent(r.nome)}" class="robo-chip ${r.status === "Aposentado" ? "apos" : ""}" title="${esc(r.status)} · ${r.ano}">${esc(r.nome)} <small>${r.ano}</small></a>`).join("")}</div>
+        <div class="fab__noticias"><span class="fonte__rot">Últimas notícias</span>${ult.length ? `<ul class="mini">${ult.map(miniNoticia).join("")}</ul>` : '<p class="sem-noticias">Sem notícias no arquivo ainda.</p>'}</div>
+        <div class="robo__rodape">${f.noticias.length ? linkNoticias(termosFab(f).slice(-1)[0], f.noticias.length) : ""}</div>
+      </article>`;
+    }
+    h += "</div>";
+    if (!lista.length) h += `<div class="vazio"><b>Nenhum fabricante encontrado</b></div>`;
+    return h;
+  }
+
+  function htmlSites(base) {
+    const sites = (CAT.sites || []).map((s) => {
+      const ns = base.todas.filter((it) => it.f === s.fonte || (it.o || []).some((o) => o.f === s.fonte));
+      return { ...s, noticias: ns };
+    }).filter((s) => passaBusca(`${s.nome} ${s.pais} ${s.foco} ${s.desc} ${s.idioma}`));
+    const grupos = [["Internacionais", sites.filter((s) => s.pais !== "Brasil")], ["Brasileiros", sites.filter((s) => s.pais === "Brasil")]];
+    let h = cabecalhoEspecial("Sites especializados", `Os principais sites de notícias de robótica do mundo. A Central Robótica acompanha todos eles — e também centenas de outros veículos via Google Notícias em 12 idiomas.`);
+    for (const [nome, lista] of grupos) {
+      if (!lista.length) continue;
+      lista.sort((a, b) => b.noticias.length - a.noticias.length);
+      h += `<h2 class="titulo-secao">${nome} <small>${lista.length} sites</small></h2><div class="sites">`;
+      for (const s of lista) {
+        h += `<article class="site">
+          <div class="fab__cab"><div><h3>${esc(s.nome)}</h3><span class="fab__pais">${esc(s.pais)} · em ${esc(s.idioma)}</span></div><span class="chip">${esc(s.foco)}</span></div>
+          <p>${esc(s.desc)}</p>
+          <div class="fab__noticias"><span class="fonte__rot">Últimas notícias reunidas</span>${s.noticias.length ? `<ul class="mini">${s.noticias.slice(0, 3).map(miniNoticia).join("")}</ul>` : '<p class="sem-noticias">Aguardando as próximas coletas.</p>'}</div>
+          <div class="robo__rodape"><a class="fab__site" href="${esc(s.url)}" target="_blank" rel="noopener">Visitar o site ↗</a><span class="sem-noticias">${s.noticias.length} notícias no arquivo</span></div>
+        </article>`;
+      }
+      h += "</div>";
+    }
+    return h;
+  }
+
+  // ------------------------------------------------------------------ Curiosidades
+  const CONT = window.CR_CONTEUDO || { fatos: [], documentarios: [], historia: [] };
+  let sorteada = null;
+  function diaDoAno() { const d = paraData(hojeBR()); return Math.floor((d - Date.UTC(d.getUTCFullYear(), 0, 0)) / 864e5); }
+
+  function htmlCuriosidades(base) {
+    const fatos = CONT.fatos.filter((f) => passaBusca(f.titulo + " " + f.texto));
+    const n = diaDoAno();
+    let vocesabia = "";
+    const total = bib().meta.total + base.todas.filter((x) => x.cur).length;
+    let h = cabecalhoEspecial("+1000 Curiosidades", `${total.toLocaleString("pt-BR")} matérias e curiosidades sobre robôs e robótica, reunidas de revistas, sites e universidades do mundo todo e traduzidas para o português. Novas matérias chegam sozinhas a cada coleta.`);
+    if (fatos.length) {
+      const dodia = fatos[n % fatos.length];
+      h += `<div class="cur-dia"><span class="cur-dia__rot">Curiosidade do dia</span><h2>${esc(dodia.titulo)}</h2><p>${esc(dodia.texto)}</p></div>`;
+      const outros = fatos.filter((f) => f !== dodia);
+      const ini = n % Math.max(1, outros.length);
+      const giro = outros.slice(ini).concat(outros.slice(0, ini));
+      vocesabia = `<h2 class="titulo-secao">Você sabia? <small>curiosidades rápidas · mudam de ordem todo dia</small></h2><div class="fatos">${giro.map((f, i) => `<article class="fato"><span class="fato__n">${String(i + 1).padStart(2, "0")}</span><h3>${esc(f.titulo)}</h3><p>${esc(f.texto)}</p></article>`).join("")}</div>`;
+    }
+    if (sorteada) h += `<div class="sorteio"><span class="cur-dia__rot">🎲 Curiosidade sorteada para você</span><div class="cards">${htmlMateria(sorteada)}</div></div>`;
+
+    // biblioteca: matérias de revistas, sites e universidades + curiosidades do noticiário
+    const lib = bib().itens.map(paraMateria);
+    const doNoticiario = base.todas.filter((x) => x.cur && !x.doc).map((x) => ({ ...x, origem: "noticiario", dia: x.dia }));
+    const ids = new Set(lib.map((x) => x.u));
+    let materias = lib.concat(doNoticiario.filter((x) => !ids.has(x.u)));
+    const origens = [["", "Todas"], ["revista", "Revistas"], ["site", "Sites"], ["universidade", "Universidades e pesquisa"], ["noticiario", "Do noticiário"]];
+    const origem = origens.some(([v]) => v === estado.f) ? estado.f : "";
+    const tema = TIPOS.concat(["ia", "negocios"]).includes(estado.g) ? estado.g : "";
+    materias = materias.filter((x) => passaBusca(`${x.t} ${x.r} ${x.f} ${x.pais || ""} ${x.inst || ""}`));
+    const contOrig = (v) => materias.filter((x) => !v || x.origem === v).length;
+    const porOrigem = materias.filter((x) => !origem || x.origem === origem);
+    const contTema = (t) => porOrigem.filter((x) => (x.c || []).includes(t)).length;
+    const lista = porOrigem.filter((x) => !tema || (x.c || []).includes(tema)).sort((a, b) => b.d.localeCompare(a.d));
+    const paises = new Set(materias.map((x) => x.pais).filter(Boolean));
+    h += `<h2 class="titulo-secao" id="biblioteca">Biblioteca de curiosidades <small>${materias.length.toLocaleString("pt-BR")} matérias · ${paises.size} países · atualizado automaticamente</small></h2>`;
+    h += filtros(origens.map(([v, n]) => [v, n, contOrig(v)]), origem);
+    h += `<div class="filtros filtros--tema">${[["", "Todos os temas"], ...TIPOS.concat(["ia", "negocios"]).map((t) => [t, NOME_CAT[t]])].map(([v, n]) => `<button class="filtro ${v === tema ? "ativo" : ""}" data-g="${v}">${esc(n)} ${v ? `<span>${contTema(v)}</span>` : ""}</button>`).join("")}
+      <button class="filtro filtro--sorte" data-sorte>🎲 Surpreenda-me</button></div>`;
+    if (lista.length) {
+      const pag = lista.slice(0, 24 * estado.pagina);
+      h += `<div class="cards cards--bib">${pag.map(htmlMateria).join("")}</div>`;
+      if (lista.length > pag.length) h += `<button class="mais" id="carregar-mais">Carregar mais curiosidades (${(lista.length - pag.length).toLocaleString("pt-BR")})</button>`;
+    } else h += `<p class="sem-noticias">Nenhuma matéria com esses filtros.</p>`;
+
+    // documentários
+    const docsNot = base.todas.filter((x) => x.doc).slice(0, 6);
+    const docs = CONT.documentarios.filter((d) => passaBusca(`${d.titulo} ${d.desc} ${d.tema} ${d.direcao}`));
+    h += `<h2 class="titulo-secao">Documentários <small>para assistir</small></h2>`;
+    if (docsNot.length) h += `<p class="painel__dica">Documentários no noticiário (atualizado automaticamente):</p><div class="cards">${docsNot.map((x) => htmlCard(x, true)).join("")}</div><p class="painel__dica" style="margin-top:22px">Clássicos e destaques sobre robôs e inteligência artificial:</p>`;
+    h += `<div class="docs">${docs.sort((a, b) => b.ano - a.ano).map((d) => {
+      const q = encodeURIComponent(`${d.titulo} ${d.ano}`);
+      return `<article class="doc"><div class="doc__topo"><span class="doc__ano">${d.ano}</span><span class="chip">${esc(d.tema)}</span></div>
+        <h3>${esc(d.titulo)}</h3><span class="fab__pais">${esc(d.origem)} · ${esc(d.direcao)}</span><p>${esc(d.desc)}</p>
+        <div class="robo__rodape"><a class="btn-noticias" href="https://www.youtube.com/results?search_query=${q}+trailer" target="_blank" rel="noopener">▶ Trailer</a><a class="fab__site" href="https://www.justwatch.com/br/busca?q=${encodeURIComponent(d.titulo)}" target="_blank" rel="noopener">Onde assistir ↗</a></div></article>`;
+    }).join("")}</div>`;
+    return h + vocesabia;
+  }
+
+  // ------------------------------------------------------------------ Biblioteca (curiosidades e universidades)
+  const carregados = {};
+  function carregarScript(src, pronto) {
+    if (pronto()) return Promise.resolve();
+    if (!carregados[src]) {
+      carregados[src] = new Promise((ok) => {
+        const s = document.createElement("script");
+        s.src = `${src}?v=${encodeURIComponent(INDICE.atualizado || "")}`;
+        s.onload = s.onerror = () => ok();
+        document.head.appendChild(s);
+      });
+    }
+    return carregados[src];
+  }
+  const carregarBiblioteca = () => carregarScript("dados/biblioteca/biblioteca.js", () => window.CR_BIBLIOTECA);
+  const bib = () => window.CR_BIBLIOTECA || { meta: { total: 0, arxiv: {} }, itens: [] };
+  const NOME_TIPO = { revista: "Revista", site: "Site", universidade: "Universidade", pesquisa: "Pesquisa", periodico: "Periódico científico", noticiario: "Noticiário" };
+  function paraMateria(x) {
+    const origem = x.tipo === "pesquisa" || x.tipo === "periodico" ? "universidade" : x.tipo;
+    let s = ""; try { s = new URL(x.u).hostname.replace(/^www\./, ""); } catch (e) { /* */ }
+    return { ...x, origem, dia: x.d.slice(0, 10), s };
+  }
+  function htmlMateria(x) {
+    const rotulo = x.origem === "noticiario" ? "Noticiário" : `${NOME_TIPO[x.tipo] || ""}${x.inst ? " · " + x.inst : ""}`;
+    return `<article class="card card--mat"><div class="capa">${imagem(x)}<div class="chips"><span class="chip chip--origem">${esc(rotulo)}</span>${x.pais ? `<span class="chip">${esc(x.pais)}</span>` : ""}</div></div>
+      <div class="card__corpo"><h3>${link(x, x.t)}</h3>${x.r ? `<p>${esc(x.r)}</p>` : ""}
+      <div class="meta"><span>${fmtDiaCurto(x.dia)}</span>${x.lg && x.lg !== "pt" ? `<span class="trad" title="${esc(x.to || "")}">Traduzido do ${esc(IDIOMAS[x.lg] || "idioma original")}</span>` : ""}</div>
+      ${fonte(x, true)}</div></article>`;
+  }
+
+  function htmlUniversidades(base, mesArx, mesesArx) {
+    const todos = bib().itens.map(paraMateria).filter((x) => ["universidade", "pesquisa", "periodico"].includes(x.tipo))
+      .filter((x) => passaBusca(`${x.t} ${x.r} ${x.f} ${x.inst || ""} ${x.pais}`));
+    const insts = {};
+    for (const x of todos) { const k = x.inst || x.f; insts[k] = insts[k] || { n: 0, pais: x.pais }; insts[k].n++; }
+    const inst = insts[estado.f] ? estado.f : "";
+    const lista = todos.filter((x) => !inst || (x.inst || x.f) === inst).sort((a, b) => b.d.localeCompare(a.d));
+    const paises = new Set(todos.map((x) => x.pais));
+    let h = cabecalhoEspecial("Universidades", `Pesquisas em robótica publicadas por universidades e centros de pesquisa do mundo todo (${Object.keys(insts).length} instituições em ${paises.size} países) e os artigos científicos novos de robótica do arXiv — tudo traduzido para o português e atualizado automaticamente.`);
+    h += filtros([["", "Todas", todos.length], ...Object.entries(insts).sort((a, b) => b[1].n - a[1].n).map(([k, v]) => [k, `${k} · ${v.pais}`, v.n])], inst);
+    h += `<h2 class="titulo-secao">Pesquisa nas universidades <small>${lista.length} matérias</small></h2>`;
+    if (lista.length) {
+      const pag = lista.slice(0, 18 * estado.pagina);
+      h += `<div class="cards cards--bib">${pag.map(htmlMateria).join("")}</div>`;
+      if (lista.length > pag.length) h += `<button class="mais" id="carregar-mais">Carregar mais (${lista.length - pag.length})</button>`;
+    } else h += `<p class="sem-noticias">As matérias das universidades aparecem aqui após a próxima coleta.</p>`;
+
+    // arXiv
+    const arts = ((window.CR_ARXIV || {})[mesArx] || []).filter((a) => passaBusca(`${a.t} ${a.r} ${a.au}`));
+    h += `<h2 class="titulo-secao" id="artigos">Artigos científicos — arXiv (robótica) <small>${arts.length} artigos em ${mesArx ? MESES[+mesArx.slice(5) - 1] + " de " + mesArx.slice(0, 4) : "—"}</small></h2>
+      <p class="painel__dica">Artigos de pesquisadores de universidades do mundo todo, publicados na categoria cs.RO do arXiv. Título e resumo traduzidos automaticamente.</p>`;
+    if (mesesArx.length > 1) h += `<div class="filtros">${mesesArx.map((m) => `<button class="filtro ${m === mesArx ? "ativo" : ""}" data-g="${m}">${MESES[+m.slice(5) - 1]} ${m.slice(0, 4)}</button>`).join("")}</div>`;
+    const lim = estado.f === "arxiv-todos" ? arts.length : 30;
+    h += `<ul class="artigos">${arts.slice(0, lim).map((a) => `<li class="artigo">
+        <div class="artigo__topo"><span class="chip chip--origem">arXiv · cs.RO</span><span class="meta">${fmtDiaCurto(a.d.slice(0, 10))}</span>${(a.c || []).filter((c) => c !== "geral").slice(0, 2).map((c) => `<span class="chip">${esc(NOME_CAT[c] || c)}</span>`).join("")}</div>
+        <h3><a href="${esc(a.u)}" target="_blank" rel="noopener" title="${esc(a.to)}">${esc(a.t)}</a></h3>
+        <p class="artigo__autores">${esc(a.au || "")}</p><p>${esc(a.r)}</p>
+        <div class="fonte"><div class="fonte__linha"><span class="fonte__rot">Fonte</span><a class="fonte__site" href="${esc(a.u)}" target="_blank" rel="noopener">arXiv.org</a><span class="fonte__dom">${esc(a.to)}</span>
+        <a class="fonte__ler" href="${esc(a.u.replace("/abs/", "/pdf/"))}" target="_blank" rel="noopener">Ler o artigo (PDF) ↗</a></div></div></li>`).join("")}</ul>`;
+    if (arts.length > lim) h += `<button class="mais" data-f="arxiv-todos">Ver todos os ${arts.length} artigos do mês</button>`;
+    return h;
+  }
+
+  // ------------------------------------------------------------------ História
+  function htmlHistoria(base) {
+    const itens = CONT.historia.filter((e) => passaBusca(`${e.ano} ${e.titulo} ${e.texto} ${e.era}`));
+    let h = cabecalhoEspecial("História da robótica", `Dos autômatos da Grécia Antiga aos humanoides com inteligência artificial. Os marcos recentes no fim da linha do tempo são gerados automaticamente a partir das notícias — a história continua sendo escrita todos os dias. <a href="#marcos-recentes" class="link-vermelho">Ir para os marcos recentes ↓</a>`);
+    const eras = [...new Set(itens.map((e) => e.era))];
+    h += `<div class="linha">`;
+    for (const era of eras) {
+      h += `<h2 class="linha__era">${esc(era)}</h2>`;
+      for (const e of itens.filter((x) => x.era === era)) {
+        h += `<article class="marco"><span class="marco__ano">${esc(e.ano)}</span><div class="marco__corpo"><h3>${esc(e.titulo)}</h3><p>${esc(e.texto)}</p></div></article>`;
+      }
+    }
+    // marcos automáticos: os lançamentos mais importantes de cada mês do arquivo
+    const porMes = {};
+    for (const x of base.todas) if (x.l) (porMes[x.dia.slice(0, 7)] = porMes[x.dia.slice(0, 7)] || []).push(x);
+    const meses = Object.keys(porMes).sort();
+    h += `<h2 class="linha__era" id="marcos-recentes">Marcos recentes <small>atualizado automaticamente</small></h2>`;
+    for (const m of meses) {
+      const top = porMes[m].sort((a, b) => (b.o || []).length - (a.o || []).length || b.p - a.p).slice(0, 3);
+      if (!passaBusca(top.map((x) => x.t).join(" "))) continue;
+      h += `<article class="marco marco--auto"><span class="marco__ano">${MESES[+m.slice(5) - 1].slice(0, 3)} ${m.slice(0, 4)}</span><div class="marco__corpo"><h3>Principais lançamentos do mês</h3><ul class="mini">${top.map(miniNoticia).join("")}</ul>
+        <a class="btn-noticias" href="#c=lancamentos&p=mes&d=${m}-01">Todos os lançamentos de ${MESES[+m.slice(5) - 1]} →</a></div></article>`;
+    }
+    if (!meses.length) h += `<p class="sem-noticias">Os marcos recentes aparecem aqui conforme as notícias são coletadas.</p>`;
+    h += `</div>`;
+    return h;
+  }
+
+  // ------------------------------------------------------------------ status e auto-atualização
+  function renderStatus() {
+    const st = window.CR_STATUS;
+    const el = $("#status");
+    if (!el) return;
+    if (!st) { el.innerHTML = `<li>Aguardando a primeira execução do robô.</li>`; return; }
+    const fim = st.fim || st.inicio;
+    const prox = new Date(new Date(fim).getTime() + 60 * 60 * 1000);
+    const hm = (d) => new Intl.DateTimeFormat("pt-BR", { timeZone: "America/Sao_Paulo", hour: "2-digit", minute: "2-digit" }).format(d);
+    const pct = st.imagens && st.imagens[1] ? Math.round((st.imagens[0] / st.imagens[1]) * 100) : null;
+    el.innerHTML = [
+      ["Última coleta", `${fmtDiaCurto(fim.slice(0, 10))} às ${fim.slice(11, 16)}`],
+      ["Próxima coleta", `por volta das ${hm(prox)}`],
+      ["Fontes lidas", `${st.fontes_ok} de ${st.fontes_total}`],
+      ["Notícias novas", `${st.novas} na última coleta`],
+      pct != null ? ["Com imagem", `${pct}% (cresce a cada coleta)`] : null,
+    ].filter(Boolean).map(([a, b]) => `<li><span>${a}</span><b>${b}</b></li>`).join("");
+  }
+  function vigiarAtualizacoes() {
+    let diaAtual = hojeBR();
+    // virou o dia: atualiza a página "Hoje" sozinha
+    setInterval(() => {
+      if (hojeBR() !== diaAtual) {
+        diaAtual = hojeBR();
+        $("#data-hoje").textContent = fmtDiaLongo(diaAtual);
+        if (estado.p === "hoje") { estado.d = diaAtual; render(); }
+      }
+    }, 60 * 1000);
+    // chegaram notícias novas? (confere o índice a cada 5 minutos)
+    setInterval(() => {
+      const antes = (window.CR_INDICE || {}).atualizado;
+      const s = document.createElement("script");
+      s.src = `dados/indice.js?t=${Date.now()}`;
+      s.onload = () => {
+        s.remove();
+        const depois = (window.CR_INDICE || {}).atualizado;
+        if (depois && depois !== INDICE.atualizado) {
+          $("#novidades").hidden = false;
+          // se a página estiver parada (sem interação) há 10 min, recarrega sozinha
+          if (Date.now() - ultimaInteracao > 10 * 60 * 1000) location.reload();
+        }
+      };
+      s.onerror = () => s.remove();
+      document.head.appendChild(s);
+    }, 5 * 60 * 1000);
+  }
+  let ultimaInteracao = Date.now();
+  ["click", "keydown", "scroll", "mousemove", "touchstart"].forEach((ev) => window.addEventListener(ev, () => (ultimaInteracao = Date.now()), { passive: true }));
+
+  // ------------------------------------------------------------------ eventos
+  function montar() {
+    const BM = window.CR_BIB_META || {};
+    const contEsp = {
+      catalogo: CAT.robos.length, fabricantes: CAT.fabricantes.length, sites: (CAT.sites || []).length, historia: CONT.historia.length,
+      curiosidades: (BM.total || 0).toLocaleString("pt-BR"), universidades: ((BM.universidades || 0) + (BM.arxiv || 0)).toLocaleString("pt-BR"),
+    };
+    $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
+    $("#abas").addEventListener("click", (e) => { const b = e.target.closest(".aba"); if (b) irPara({ c: b.dataset.c, f: "", pagina: 1 }); });
+    $("#recarregar").addEventListener("click", () => location.reload());
+
+    $("#periodos").addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      const p = b.dataset.p;
+      irPara({ p, d: p === "hoje" ? hojeBR() : estado.d, pagina: 1 });
+    });
+    const passo = (n) => {
+      const p = estado.p === "hoje" ? "dia" : estado.p;
+      let d = estado.d;
+      if (p === "dia") d = somaDias(d, n);
+      else if (p === "semana") d = somaDias(d, 7 * n);
+      else if (p === "mes") d = somaMeses(d, n);
+      else d = somaMeses(d, 12 * n);
+      if (d > hojeBR()) d = hojeBR();
+      irPara({ p: p === "dia" && d === hojeBR() ? "hoje" : p, d, pagina: 1 });
+    };
+    $("#anterior").addEventListener("click", () => passo(-1));
+    $("#proximo").addEventListener("click", () => passo(1));
+    $("#seletor-data").addEventListener("change", (e) => {
+      const d = e.target.value; if (!d) return;
+      irPara({ p: estado.p === "hoje" ? (d === hojeBR() ? "hoje" : "dia") : estado.p, d, pagina: 1 });
+    });
+
+    let t;
+    $("#busca").addEventListener("input", (e) => { clearTimeout(t); t = setTimeout(() => irPara({ q: e.target.value.trim(), pagina: 1 }), 250); });
+
+    document.body.addEventListener("click", (e) => {
+      const filtro = e.target.closest("[data-f]");
+      if (filtro) { irPara({ f: filtro.dataset.f, pagina: 1 }); return; }
+      const filtroG = e.target.closest("[data-g]");
+      if (filtroG) { irPara({ g: filtroG.dataset.g, pagina: 1 }); return; }
+      if (e.target.closest("[data-sorte]")) {
+        const itens = bib().itens;
+        if (itens.length) { sorteada = paraMateria(itens[Math.floor(Math.random() * itens.length)]); render(); setTimeout(() => document.querySelector(".sorteio")?.scrollIntoView({ behavior: "smooth", block: "center" }), 80); }
+        return;
+      }
+      const ftipo = e.target.closest("[data-f-tipo]");
+      if (ftipo) { irPara({ c: "catalogo", f: ftipo.dataset.fTipo, q: "" }); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+      if (e.target.closest("[data-limpar-busca]")) { irPara({ q: "" }); return; }
+      const chip = e.target.closest(".chip[data-cat], .contagem li[data-cat]");
+      if (chip) { e.preventDefault(); irPara({ c: chip.dataset.cat, pagina: 1 }); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+      const ir = e.target.closest("[data-ir]");
+      if (ir) { irPara({ p: ir.dataset.d === hojeBR() && ir.dataset.ir === "dia" ? "hoje" : ir.dataset.ir, d: ir.dataset.d, pagina: 1 }); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+      const mes = e.target.closest("[data-mes]");
+      if (mes) { irPara({ p: "mes", d: mes.dataset.mes + "-01", pagina: 1 }); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+      if (e.target.id === "carregar-mais") { estado.pagina++; render(); }
+    });
+    $(".logo").addEventListener("click", (e) => { e.preventDefault(); irPara({ c: "inicio", p: "hoje", d: hojeBR(), q: "", pagina: 1 }); });
+    window.addEventListener("popstate", () => { lerHash(); render(); });
+    window.addEventListener("hashchange", () => { lerHash(); render(); });
+
+    // cabeçalho
+    $("#data-hoje").textContent = fmtDiaLongo(hojeBR());
+    if (INDICE.atualizado) {
+      const a = INDICE.atualizado;
+      $("#atualizado").textContent = `Atualizado em ${fmtDiaCurto(a.slice(0, 10))} às ${a.slice(11, 16)}`;
+    } else $("#atualizado").textContent = "Aguardando a primeira coleta";
+    $("#total-historico").textContent = INDICE.total ? `${INDICE.total.toLocaleString("pt-BR")} notícias no arquivo` : "";
+
+    // fontes no rodapé
+    const fontes = Object.entries(INDICE.fontes || {}).sort((a, b) => a[0].localeCompare(b[0], "pt"));
+    $("#fontes").innerHTML = fontes.map(([nome, dom]) => `<a href="https://${esc(dom)}" target="_blank" rel="noopener" title="${esc(dom)}">${esc(nome)}</a>`).join("") || "—";
+
+    renderArquivo();
+    renderStatus();
+    vigiarAtualizacoes();
+  }
+
+  montar();
+  lerHash();
+  render();
+})();

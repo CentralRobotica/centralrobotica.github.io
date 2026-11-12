@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Central Robótica — as principais notícias de robótica do mundo</title>
+<meta name="description" content="Central Robótica reúne diariamente as principais notícias de robótica do mundo: humanoides, cães-robô, robôs industriais, drones, lançamentos e muito mais, em português.">
+<meta name="theme-color" content="#0a0a0b">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a0a0b'/%3E%3Crect x='14' y='18' width='36' height='28' rx='6' fill='none' stroke='%23e10600' stroke-width='4'/%3E%3Ccircle cx='25' cy='32' r='4' fill='%23e10600'/%3E%3Ccircle cx='39' cy='32' r='4' fill='%23e10600'/%3E%3Cpath d='M32 18V9' stroke='%23e10600' stroke-width='4'/%3E%3Ccircle cx='32' cy='8' r='3' fill='%23e10600'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css?v=7">
+<link rel="stylesheet" href="estilo-guias.css?v=7">
+</head>
+<body>
+
+<div class="faixa-topo">
+  <div class="container faixa-topo__in">
+    <span id="data-hoje">—</span>
+    <span class="faixa-topo__sep">//</span>
+    <span id="atualizado">Carregando…</span>
+    <span class="faixa-topo__sep">//</span>
+    <span id="total-historico"></span>
+  </div>
+</div>
+
+<header class="cabecalho">
+  <div class="container cabecalho__in">
+    <a class="logo" href="#" aria-label="Central Robótica — início">
+      <svg class="logo__icone" viewBox="0 0 64 64" aria-hidden="true">
+        <path d="M32 6v8" /><circle cx="32" cy="5" r="3" class="cheio" />
+        <rect x="12" y="16" width="40" height="30" rx="7" />
+        <circle cx="24" cy="31" r="4.5" class="cheio" /><circle cx="40" cy="31" r="4.5" class="cheio" />
+        <path d="M6 26v12M58 26v12M22 52h20M26 46v6M38 46v6" />
+      </svg>
+      <span class="logo__texto"><b>CENTRAL</b><i>ROBÓTICA</i></span>
+    </a>
+    <p class="cabecalho__lema">As principais notícias de robótica do mundo, todos os dias, em português.</p>
+    <label class="busca">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg>
+      <input id="busca" type="search" placeholder="Buscar notícias, robôs, fabricantes…" autocomplete="off">
+    </label>
+  </div>
+  <div class="container atalhos">
+    <a href="#c=catalogo" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>Catálogo de robôs</a>
+    <a href="#c=fabricantes" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 21V10l5 3V10l5 3V6l8 4v11z"/><path d="M7 17h2M12 17h2M17 17h1"/></svg>Fabricantes</a>
+    <a href="#c=sites" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg>Sites especializados</a>
+    <a href="#c=curiosidades" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.2 1 2V16h5v-.1c0-.8.4-1.5 1-2A6 6 0 0012 3z"/></svg>+1000 Curiosidades</a>
+    <a href="#c=universidades" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/></svg>Universidades</a>
+    <a href="#c=historia" class="atalho"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>História da robótica</a>
+  </div>
+  <div class="ticker" id="ticker" hidden>
+    <span class="ticker__rotulo">Lançamentos</span>
+    <div class="ticker__trilho"><div class="ticker__faixa" id="ticker-faixa"></div></div>
+  </div>
+</header>
+
+<nav class="abas" aria-label="Categorias de robôs">
+  <div class="container abas__in" id="abas"></div>
+</nav>
+
+<div class="periodo">
+  <div class="container periodo__in">
+    <div class="periodo__botoes" id="periodos" role="tablist" aria-label="Período">
+      <button data-p="hoje">Hoje</button>
+      <button data-p="dia">Dia</button>
+      <button data-p="semana">Semana</button>
+      <button data-p="mes">Mês</button>
+      <button data-p="ano">Ano</button>
+    </div>
+    <div class="periodo__nav">
+      <button class="seta" id="anterior" aria-label="Período anterior">◀</button>
+      <strong id="rotulo-periodo">—</strong>
+      <button class="seta" id="proximo" aria-label="Próximo período">▶</button>
+      <input type="date" id="seletor-data" aria-label="Escolher data">
+    </div>
+  </div>
+</div>
+
+<div id="novidades" class="novidades" hidden>
+  <div class="container novidades__in">
+    <span>Chegaram notícias novas na Central Robótica.</span>
+    <button id="recarregar">Atualizar agora</button>
+  </div>
+</div>
+
+<main class="container layout">
+  <div class="conteudo">
+    <section id="especial" class="especial" hidden></section>
+    <div id="aviso" class="aviso" hidden></div>
+    <section id="destaques" class="destaques"></section>
+    <section id="mais-destaques" class="mais-destaques"></section>
+    <section id="outras" class="outras"></section>
+    <div id="vazio" class="vazio" hidden></div>
+  </div>
+
+  <aside class="lateral">
+    <div class="painel">
+      <h3 class="painel__titulo">Neste período</h3>
+      <ul class="contagem" id="contagem"></ul>
+    </div>
+    <div class="painel">
+      <h3 class="painel__titulo">Arquivo</h3>
+      <p class="painel__dica">Histórico completo por ano, mês e dia.</p>
+      <div id="arquivo" class="arquivo"></div>
+    </div>
+    <div class="painel">
+      <h3 class="painel__titulo">Mais citadas</h3>
+      <p class="painel__dica">Notícias publicadas por mais sites no período.</p>
+      <ol class="citadas" id="citadas"></ol>
+    </div>
+    <div class="painel">
+      <h3 class="painel__titulo">Robô de atualização</h3>
+      <p class="painel__dica">O site se atualiza sozinho com as notícias de robótica do mundo todo.</p>
+      <ul class="status" id="status"></ul>
+    </div>
+  </aside>
+</main>
+
+<footer class="rodape">
+  <div class="container">
+    <div class="rodape__topo">
+      <span class="logo__texto logo__texto--pq"><b>CENTRAL</b><i>ROBÓTICA</i></span>
+      <p>A Central Robótica reúne automaticamente notícias de robótica publicadas por veículos do mundo todo.
+        Títulos e resumos de fontes estrangeiras são traduzidos automaticamente para o português.
+        Cada notícia leva para o site original — todo o conteúdo pertence aos respectivos veículos.</p>
+    </div>
+    <h4>Fontes já reunidas</h4>
+    <div class="rodape__fontes" id="fontes"></div>
+  </div>
+</footer>
+
+<script src="dados/indice.js"></script>
+<script src="dados/status.js" onerror="void 0"></script>
+<script src="dados/catalogo.js?v=7"></script>
+<script src="dados/conteudo.js?v=7"></script>
+<script src="dados/biblioteca/meta.js" onerror="void 0"></script>
+<script src="app.js?v=7"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+coleta_log.txt
+biblioteca_log.txt
+dados/.coletando.lock
