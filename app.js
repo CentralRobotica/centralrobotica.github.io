@@ -529,6 +529,18 @@
   // botões que levam a um dia fixo no passado (quantos dias antes de hoje)
   const DIAS_ATRAS = { ontem: 1, anteontem: 2 };
 
+  // Botão "Atualizar": força o navegador a baixar de novo a página e os dados
+  // (sem usar a cópia guardada) e recarrega mantendo a aba/período abertos.
+  async function atualizarSite() {
+    const b = $("#atualizar");
+    if (b) { b.disabled = true; b.classList.add("girando"); b.querySelector("span").textContent = "Atualizando…"; }
+    const arquivos = [location.pathname, "dados/indice.js", "dados/status.js", "dados/imagens.js", "dados/biblioteca/meta.js"];
+    if (location.protocol.startsWith("http")) {
+      await Promise.all(arquivos.map((u) => fetch(u, { cache: "reload" }).catch(() => null)));
+    }
+    location.reload();
+  }
+
   function marcarControles() {
     document.querySelectorAll(".aba").forEach((b) => b.classList.toggle("ativa", b.dataset.c === estado.c));
     document.querySelectorAll(".atalho").forEach((a) => a.classList.toggle("ativo", a.getAttribute("href") === "#c=" + estado.c));
@@ -976,7 +988,8 @@
     };
     $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
     $("#abas").addEventListener("click", (e) => { const b = e.target.closest(".aba"); if (b) irPara({ c: b.dataset.c, f: "", pagina: 1 }); });
-    $("#recarregar").addEventListener("click", () => location.reload());
+    $("#recarregar").addEventListener("click", atualizarSite);
+    $("#atualizar").addEventListener("click", atualizarSite);
 
     $("#periodos").addEventListener("click", (e) => {
       const b = e.target.closest("button"); if (!b) return;

@@ -78,7 +78,9 @@ def publicar(log):
     if not git("remote").stdout.strip():
         log("git: sem 'remote' configurado — publicação ignorada.")
         return
-    git("pull", "--rebase", "--autostash")
+    if tem_conflito():
+        log("git: arquivos de dados com marcas de conflito — publicação cancelada.")
+        return
     git("add", "dados")
     if git("diff", "--cached", "--quiet").returncode == 0:
         log("git: nada novo para publicar.")
@@ -86,8 +88,41 @@ def publicar(log):
     msg = f"Notícias atualizadas em {agora():%d/%m/%Y %H:%M}"
     r = git("commit", "-m", msg)
     log("git commit: " + (r.stdout or r.stderr).strip().splitlines()[0] if (r.stdout or r.stderr) else "git commit")
-    r = git("push")
-    log("git push: " + ("ok" if r.returncode == 0 else r.stderr.strip()[-300:]))
+    # Se o GitHub recebeu outra atualização durante a coleta, junta as duas.
+    # Em conflito vale a versão desta coleta (-X theirs = o commit sendo reaplicado),
+    # e nunca se publica um arquivo com marcas <<<<<<< / >>>>>>>.
+    for tentativa in range(3):
+        r = git("pull", "--rebase", "-X", "theirs")
+        if r.returncode != 0:
+            git("rebase", "--abort")
+            log("git pull falhou — publicação adiada: " + r.stderr.strip()[-300:])
+            return
+        if tem_conflito():
+            log("git: conflito nos dados depois do pull — publicação cancelada.")
+            return
+        r = git("push")
+        if r.returncode == 0:
+            log("git push: ok")
+            return
+        log(f"git push recusado (tentativa {tentativa + 1}): " + r.stderr.strip()[-200:])
+    log("git push: desisti nesta rodada; a próxima publica.")
+
+
+def tem_conflito():
+    """True se algum arquivo de dados tiver marcas de conflito do git."""
+    marcas = ("<<<<<<< ", ">>>>>>> ")
+    for pasta, _, arquivos in os.walk(os.path.join(RAIZ, "dados")):
+        for nome in arquivos:
+            if not nome.endswith((".js", ".json")):
+                continue
+            try:
+                with open(os.path.join(pasta, nome), encoding="utf-8", errors="ignore") as f:
+                    for linha in f:
+                        if linha.startswith(marcas):
+                            return True
+            except OSError:
+                pass
+    return False
 
 
 def main():

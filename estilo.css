@@ -58,6 +58,13 @@ img { display: block; max-width: 100%; }
 .logo__texto i { font-style: normal; font-size: 19px; letter-spacing: .5em; color: var(--vermelho); margin-top: 5px; text-shadow: 0 0 18px rgba(225, 6, 0, .5); }
 .logo__texto--pq b { font-size: 20px; } .logo__texto--pq i { font-size: 12.5px; }
 .cabecalho__lema { margin: 0; color: var(--texto-3); font-size: 11px; text-transform: uppercase; letter-spacing: .14em; max-width: 380px; border-left: 2px solid var(--vermelho); padding-left: 14px; }
+.cabecalho__acoes { display: flex; align-items: center; gap: 10px; }
+.atualizar { display: flex; align-items: center; gap: 8px; height: 42px; padding: 0 16px; background: var(--vermelho); color: #fff; border: 0; clip-path: var(--corte); font-size: 10.5px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; cursor: pointer; white-space: nowrap; transition: filter .2s; }
+.atualizar:hover { filter: brightness(1.15); }
+.atualizar svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; flex: none; }
+.atualizar.girando svg { animation: girar .8s linear infinite; }
+.atualizar:disabled { cursor: default; filter: brightness(.85); }
+@keyframes girar { to { transform: rotate(360deg); } }
 .busca { display: flex; align-items: center; gap: 8px; background: var(--painel); border: 1px solid var(--linha); padding: 0 12px; height: 42px; min-width: 280px; clip-path: var(--corte); transition: border-color .2s; }
 .busca:focus-within { border-color: var(--vermelho); }
 .busca svg { width: 17px; height: 17px; fill: none; stroke: var(--vermelho); stroke-width: 2.2; flex: none; }
@@ -247,7 +254,7 @@ img { display: block; max-width: 100%; }
   .lateral { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
   .cabecalho__lema { display: none; }
   .cabecalho__in { grid-template-columns: auto 1fr; }
-  .busca { justify-self: end; }
+  .cabecalho__acoes { justify-self: end; }
 }
 @media (max-width: 860px) {
   .destaques__grade { grid-template-columns: 1fr; }
@@ -257,7 +264,8 @@ img { display: block; max-width: 100%; }
 @media (max-width: 600px) {
   body { font-size: 12.5px; }
   .cabecalho__in { grid-template-columns: 1fr; gap: 14px; padding: 16px 0; }
-  .busca { min-width: 0; width: 100%; }
+  .busca { min-width: 0; width: 100%; flex: 1; }
+  .atualizar { padding: 0 12px; }
   .logo__texto b { font-size: 24px; } .logo__texto i { font-size: 15px; }
   .cards { grid-template-columns: 1fr; }
   .sec { grid-template-columns: 100px 1fr; }
