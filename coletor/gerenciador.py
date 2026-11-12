@@ -105,8 +105,8 @@ def main():
     log("=== Início da coleta automática ===")
     codigo = 0
     try:
-        # 1) notícias  2) biblioteca (curiosidades, universidades e artigos científicos)
-        for etapa in ("atualizar", "biblioteca"):
+        # 1) notícias  2) biblioteca (curiosidades, universidades, artigos)  3) banco de fotos
+        for etapa in ("atualizar", "biblioteca", "imagens"):
             buffer = io.StringIO()
             try:
                 modulo = __import__(etapa)

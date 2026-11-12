@@ -178,12 +178,64 @@
       <g transform="translate(130 54) scale(2.5)" fill="none" stroke="#ff2a1f" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">${ic}</g>
       <text x="160" y="160" text-anchor="middle" fill="#7d7d88" font-family="Orbitron, sans-serif" font-size="9" letter-spacing="3">${esc((NOME_CAT[cat] || "ROBÓTICA").toUpperCase())}</text></svg>`;
   }
+  // ---------------- fotos: própria da matéria > ilustrativa (licença livre, com crédito) ----------------
+  const POOL = () => window.CR_IMAGENS || {};
+  function hashStr(s) { let h = 7; for (const ch of String(s)) h = (h * 31 + ch.charCodeAt(0)) | 0; return Math.abs(h); }
+  function escolherFoto(chaves, semente) {
+    const P = POOL();
+    for (const k of chaves) { const l = P[k]; if (l && l.length) return l[hashStr(semente + k) % l.length]; }
+    return null;
+  }
+  let MATCH = null;
+  function matchers() {
+    if (MATCH) return MATCH;
+    MATCH = [];
+    for (const r of CAT.robos) MATCH.push({ k: "robo:" + r.nome, rx: rxTermos(termosRobo(r)) });
+    for (const f of CAT.fabricantes) MATCH.push({ k: "fabq:" + f.id, rx: rxTermos(termosFab(f)) });
+    return MATCH;
+  }
+  const _chaves = {};
+  function chavesDe(it) {
+    const id = it.id || it.u;
+    if (_chaves[id]) return _chaves[id];
+    const t = `${it.t || ""} ${it.to || ""}`;
+    const ks = [];
+    for (const m of matchers()) if (m.rx.test(t)) { ks.push(m.k); if (ks.length >= 2) break; }
+    for (const c of it.c || []) ks.push("cat:" + c);
+    ks.push("cat:geral");
+    return (_chaves[id] = ks);
+  }
+  function htmlFoto(f, ilustrativa = true) {
+    const oficial = /site/.test(f.l || "");
+    const rot = oficial ? `Imagem: ${f.a}` : `Imagem ilustrativa · ${f.a} · ${f.l}`;
+    return `<img src="${esc(f.u)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-o="${esc(f.o || "")}" onerror="CR_falhaFoto(this)">` +
+      (ilustrativa ? `<a class="credito" href="${esc(f.p)}" target="_blank" rel="noopener" title="${esc(rot)}">${esc(oficial ? "Imagem do site oficial" : "Imagem ilustrativa")}</a>` : "");
+  }
+  // foto para qualquer card: chaves = assuntos em ordem de preferência
+  function foto(chaves, semente, cat) {
+    const f = escolherFoto(chaves, semente);
+    return f ? htmlFoto(f) : placeholder(cat || "geral");
+  }
   function imagem(it) {
     const cat = (it.c || ["geral"])[0];
-    return it.i ? `<img src="${esc(it.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" onerror="CR_falhaImagem(this)">` : placeholder(cat);
+    const f = escolherFoto(chavesDe(it), it.id || it.u);
+    const alt = f ? encodeURIComponent(JSON.stringify(f)) : "";
+    if (it.i) return `<img src="${esc(it.i)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" data-alt="${alt}" onerror="CR_falhaImagem(this)">`;
+    return f ? htmlFoto(f) : placeholder(cat);
   }
   const capa = (it) => `<div class="capa">${imagem(it)}</div>`;
-  window.CR_falhaImagem = (img) => { const div = img.parentNode; if (div) div.innerHTML = placeholder(img.dataset.cat); };
+  // a foto da matéria não carregou: usa a ilustrativa (e, em último caso, a arte da categoria)
+  window.CR_falhaImagem = (img) => {
+    const f = img.dataset.alt ? JSON.parse(decodeURIComponent(img.dataset.alt)) : null;
+    img.outerHTML = f ? htmlFoto(f) : placeholder(img.dataset.cat);
+  };
+  window.CR_falhaFoto = (img) => {
+    if (img.dataset.o && img.src !== img.dataset.o) { img.src = img.dataset.o; img.dataset.o = ""; return; }
+    const cred = img.nextElementSibling;
+    if (cred && cred.classList.contains("credito")) cred.remove();
+    img.outerHTML = placeholder("geral");
+  };
+  const miniFoto = (it) => `<span class="mini__foto">${imagem(it)}</span>`;
 
   function chips(it, max = 2) {
     let h = "";
@@ -351,7 +403,7 @@
 
     // mais citadas
     const cit = base.filter((x) => x.o && x.o.length).sort((a, b) => b.o.length - a.o.length || b.p - a.p).slice(0, 6);
-    $("#citadas").innerHTML = cit.length ? cit.map((x) => `<li><div>${link(x, x.t)}<small>${x.o.length + 1} sites · ${esc(x.f)}</small></div></li>`).join("") : `<li style="display:block;color:var(--texto-3)">—</li>`;
+    $("#citadas").innerHTML = cit.length ? cit.map((x) => `<li>${miniFoto(x)}<div>${link(x, x.t)}<small>${x.o.length + 1} sites · ${esc(x.f)}</small></div></li>`).join("") : `<li style="display:block;color:var(--texto-3)">—</li>`;
   }
 
   function renderTicker(todos) {
@@ -391,7 +443,9 @@
   function marcarControles() {
     document.querySelectorAll(".aba").forEach((b) => b.classList.toggle("ativa", b.dataset.c === estado.c));
     document.querySelectorAll(".atalho").forEach((a) => a.classList.toggle("ativo", a.getAttribute("href") === "#c=" + estado.c));
-    document.querySelectorAll("#periodos button").forEach((b) => b.classList.toggle("ativo", b.dataset.p === estado.p));
+    const ontem = somaDias(hojeBR(), -1);
+    document.querySelectorAll("#periodos button").forEach((b) => b.classList.toggle("ativo",
+      b.dataset.p === "ontem" ? estado.p === "dia" && estado.d === ontem : b.dataset.p === estado.p));
     $("#rotulo-periodo").textContent = rotulo(estado.p, estado.d);
     $("#seletor-data").value = estado.d;
     $("#seletor-data").max = hojeBR();
@@ -471,7 +525,14 @@
   };
   const linkNoticias = (q, n) => `<a class="btn-noticias" href="#p=ano&d=${hojeBR()}&q=${encodeURIComponent(q)}">${n} notícia${n === 1 ? "" : "s"} →</a>`;
   function miniNoticia(it) {
-    return `<li><a href="${esc(it.u)}" target="_blank" rel="noopener">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a><small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${it.s ? " (" + esc(it.s) + ")" : ""}</small></li>`;
+    return `<li class="mini__item">${miniFoto(it)}<div><a href="${esc(it.u)}" target="_blank" rel="noopener">${it.l ? '<b class="mini-lanc">Lançamento</b> ' : ""}${esc(it.t)}</a><small>${fmtDiaCurto(it.dia)} · ${esc(it.f)}${it.s ? " (" + esc(it.s) + ")" : ""}</small></div></li>`;
+  }
+  // imagem com reserva: tenta a foto principal; se falhar, usa a ilustrativa dos assuntos
+  function imgComReserva(src, chaves, semente, cat) {
+    const f = escolherFoto(chaves, semente);
+    if (!src) return f ? htmlFoto(f) : placeholder(cat);
+    const alt = f ? encodeURIComponent(JSON.stringify(f)) : "";
+    return `<img src="${esc(src)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${esc(cat)}" data-alt="${alt}" onerror="CR_falhaImagem(this)">`;
   }
   function filtros(opcoes, atual, chave = "f") {
     return `<div class="filtros">${opcoes.map(([v, nome, n]) => `<button class="filtro ${v === atual ? "ativo" : ""}" data-${chave}="${esc(v)}">${esc(nome)}${n != null ? ` <span>${n}</span>` : ""}</button>`).join("")}</div>`;
@@ -529,7 +590,7 @@
         const novo = r.ano >= ANO_ATUAL - 1 && r.status !== "Aposentado";
         const lancN = r.noticias.find((x) => x.l && x.dia >= somaDias(hojeBR(), -30));
         h += `<article class="robo">
-          <div class="robo__capa">${r.img ? `<img src="${esc(r.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cat="${t}" onerror="CR_falhaImagem(this)">` : placeholder(t)}
+          <div class="robo__capa">${imgComReserva(r.img, ["robo:" + r.nome, "fabq:" + r.fab, "cat:" + t], r.nome, t)}
             <div class="robo__selos">${lancN ? '<span class="chip chip--lanc">Lançamento recente</span>' : ""}${novo ? '<span class="chip">Novo</span>' : ""}</div></div>
           <div class="robo__corpo">
             <div class="robo__topo"><span class="status ${STATUS_CLS[r.status] || ""}">${esc(r.status)}</span><span class="robo__ano">${r.ano}</span></div>
@@ -558,6 +619,7 @@
       const lanc = f.noticias.filter((x) => x.l).slice(0, 1);
       const ult = [...lanc, ...f.noticias.filter((x) => !lanc.includes(x))].slice(0, 3);
       h += `<article class="fab">
+        <div class="fab__capa capa">${foto(["fab:" + f.id, "fabq:" + f.id, ...f.tipos.map((t) => "cat:" + t), "cat:geral"], f.id, f.tipos[0])}</div>
         <div class="fab__cab"><div><h3>${esc(f.nome)}</h3><span class="fab__pais">${esc(f.pais)} · ${esc(f.sede)} · desde ${f.fund}</span></div>
           <a class="fab__site" href="https://${esc(f.site)}" target="_blank" rel="noopener">${esc(f.site)} ↗</a></div>
         <p>${esc(f.desc)}</p>
@@ -585,6 +647,7 @@
       h += `<h2 class="titulo-secao">${nome} <small>${lista.length} sites</small></h2><div class="sites">`;
       for (const s of lista) {
         h += `<article class="site">
+          <div class="fab__capa capa">${foto(["site:" + s.nome, "cat:geral"], s.nome)}</div>
           <div class="fab__cab"><div><h3>${esc(s.nome)}</h3><span class="fab__pais">${esc(s.pais)} · em ${esc(s.idioma)}</span></div><span class="chip">${esc(s.foco)}</span></div>
           <p>${esc(s.desc)}</p>
           <div class="fab__noticias"><span class="fonte__rot">Últimas notícias reunidas</span>${s.noticias.length ? `<ul class="mini">${s.noticias.slice(0, 3).map(miniNoticia).join("")}</ul>` : '<p class="sem-noticias">Aguardando as próximas coletas.</p>'}</div>
@@ -609,11 +672,11 @@
     let h = cabecalhoEspecial("+1000 Curiosidades", `${total.toLocaleString("pt-BR")} matérias e curiosidades sobre robôs e robótica, reunidas de revistas, sites e universidades do mundo todo e traduzidas para o português. Novas matérias chegam sozinhas a cada coleta.`);
     if (fatos.length) {
       const dodia = fatos[n % fatos.length];
-      h += `<div class="cur-dia"><span class="cur-dia__rot">Curiosidade do dia</span><h2>${esc(dodia.titulo)}</h2><p>${esc(dodia.texto)}</p></div>`;
+      h += `<div class="cur-dia"><div class="cur-dia__foto capa">${foto(["fato:" + dodia.titulo, "cat:geral"], dodia.titulo)}</div><div><span class="cur-dia__rot">Curiosidade do dia</span><h2>${esc(dodia.titulo)}</h2><p>${esc(dodia.texto)}</p></div></div>`;
       const outros = fatos.filter((f) => f !== dodia);
       const ini = n % Math.max(1, outros.length);
       const giro = outros.slice(ini).concat(outros.slice(0, ini));
-      vocesabia = `<h2 class="titulo-secao">Você sabia? <small>curiosidades rápidas · mudam de ordem todo dia</small></h2><div class="fatos">${giro.map((f, i) => `<article class="fato"><span class="fato__n">${String(i + 1).padStart(2, "0")}</span><h3>${esc(f.titulo)}</h3><p>${esc(f.texto)}</p></article>`).join("")}</div>`;
+      vocesabia = `<h2 class="titulo-secao">Você sabia? <small>curiosidades rápidas · mudam de ordem todo dia</small></h2><div class="fatos">${giro.map((f, i) => `<article class="fato"><div class="fab__capa capa">${foto(["fato:" + f.titulo, "cat:geral"], f.titulo)}</div><span class="fato__n">${String(i + 1).padStart(2, "0")}</span><h3>${esc(f.titulo)}</h3><p>${esc(f.texto)}</p></article>`).join("")}</div>`;
     }
     if (sorteada) h += `<div class="sorteio"><span class="cur-dia__rot">🎲 Curiosidade sorteada para você</span><div class="cards">${htmlMateria(sorteada)}</div></div>`;
 
@@ -648,7 +711,7 @@
     if (docsNot.length) h += `<p class="painel__dica">Documentários no noticiário (atualizado automaticamente):</p><div class="cards">${docsNot.map((x) => htmlCard(x, true)).join("")}</div><p class="painel__dica" style="margin-top:22px">Clássicos e destaques sobre robôs e inteligência artificial:</p>`;
     h += `<div class="docs">${docs.sort((a, b) => b.ano - a.ano).map((d) => {
       const q = encodeURIComponent(`${d.titulo} ${d.ano}`);
-      return `<article class="doc"><div class="doc__topo"><span class="doc__ano">${d.ano}</span><span class="chip">${esc(d.tema)}</span></div>
+      return `<article class="doc"><div class="fab__capa capa">${foto(["doc:" + d.titulo, "cat:geral"], d.titulo)}</div><div class="doc__topo"><span class="doc__ano">${d.ano}</span><span class="chip">${esc(d.tema)}</span></div>
         <h3>${esc(d.titulo)}</h3><span class="fab__pais">${esc(d.origem)} · ${esc(d.direcao)}</span><p>${esc(d.desc)}</p>
         <div class="robo__rodape"><a class="btn-noticias" href="https://www.youtube.com/results?search_query=${q}+trailer" target="_blank" rel="noopener">▶ Trailer</a><a class="fab__site" href="https://www.justwatch.com/br/busca?q=${encodeURIComponent(d.titulo)}" target="_blank" rel="noopener">Onde assistir ↗</a></div></article>`;
     }).join("")}</div>`;
@@ -708,12 +771,12 @@
       <p class="painel__dica">Artigos de pesquisadores de universidades do mundo todo, publicados na categoria cs.RO do arXiv. Título e resumo traduzidos automaticamente.</p>`;
     if (mesesArx.length > 1) h += `<div class="filtros">${mesesArx.map((m) => `<button class="filtro ${m === mesArx ? "ativo" : ""}" data-g="${m}">${MESES[+m.slice(5) - 1]} ${m.slice(0, 4)}</button>`).join("")}</div>`;
     const lim = estado.f === "arxiv-todos" ? arts.length : 30;
-    h += `<ul class="artigos">${arts.slice(0, lim).map((a) => `<li class="artigo">
+    h += `<ul class="artigos">${arts.slice(0, lim).map((a) => `<li class="artigo"><div class="artigo__foto capa">${imagem(a)}</div><div class="artigo__corpo">
         <div class="artigo__topo"><span class="chip chip--origem">arXiv · cs.RO</span><span class="meta">${fmtDiaCurto(a.d.slice(0, 10))}</span>${(a.c || []).filter((c) => c !== "geral").slice(0, 2).map((c) => `<span class="chip">${esc(NOME_CAT[c] || c)}</span>`).join("")}</div>
         <h3><a href="${esc(a.u)}" target="_blank" rel="noopener" title="${esc(a.to)}">${esc(a.t)}</a></h3>
         <p class="artigo__autores">${esc(a.au || "")}</p><p>${esc(a.r)}</p>
         <div class="fonte"><div class="fonte__linha"><span class="fonte__rot">Fonte</span><a class="fonte__site" href="${esc(a.u)}" target="_blank" rel="noopener">arXiv.org</a><span class="fonte__dom">${esc(a.to)}</span>
-        <a class="fonte__ler" href="${esc(a.u.replace("/abs/", "/pdf/"))}" target="_blank" rel="noopener">Ler o artigo (PDF) ↗</a></div></div></li>`).join("")}</ul>`;
+        <a class="fonte__ler" href="${esc(a.u.replace("/abs/", "/pdf/"))}" target="_blank" rel="noopener">Ler o artigo (PDF) ↗</a></div></div></div></li>`).join("")}</ul>`;
     if (arts.length > lim) h += `<button class="mais" data-f="arxiv-todos">Ver todos os ${arts.length} artigos do mês</button>`;
     return h;
   }
@@ -727,7 +790,7 @@
     for (const era of eras) {
       h += `<h2 class="linha__era">${esc(era)}</h2>`;
       for (const e of itens.filter((x) => x.era === era)) {
-        h += `<article class="marco"><span class="marco__ano">${esc(e.ano)}</span><div class="marco__corpo"><h3>${esc(e.titulo)}</h3><p>${esc(e.texto)}</p></div></article>`;
+        h += `<article class="marco"><span class="marco__ano">${esc(e.ano)}</span><div class="marco__corpo marco__corpo--foto"><div class="marco__foto capa">${foto(["hist:" + e.titulo, "cat:geral"], e.titulo)}</div><div><h3>${esc(e.titulo)}</h3><p>${esc(e.texto)}</p></div></div></article>`;
       }
     }
     // marcos automáticos: os lançamentos mais importantes de cada mês do arquivo
@@ -738,7 +801,7 @@
     for (const m of meses) {
       const top = porMes[m].sort((a, b) => (b.o || []).length - (a.o || []).length || b.p - a.p).slice(0, 3);
       if (!passaBusca(top.map((x) => x.t).join(" "))) continue;
-      h += `<article class="marco marco--auto"><span class="marco__ano">${MESES[+m.slice(5) - 1].slice(0, 3)} ${m.slice(0, 4)}</span><div class="marco__corpo"><h3>Principais lançamentos do mês</h3><ul class="mini">${top.map(miniNoticia).join("")}</ul>
+      h += `<article class="marco marco--auto"><span class="marco__ano">${MESES[+m.slice(5) - 1].slice(0, 3)} ${m.slice(0, 4)}</span><div class="marco__corpo"><div class="marco__destaque capa">${imagem(top.find((x) => x.i) || top[0])}</div><h3>Principais lançamentos do mês</h3><ul class="mini">${top.map(miniNoticia).join("")}</ul>
         <a class="btn-noticias" href="#c=lancamentos&p=mes&d=${m}-01">Todos os lançamentos de ${MESES[+m.slice(5) - 1]} →</a></div></article>`;
     }
     if (!meses.length) h += `<p class="sem-noticias">Os marcos recentes aparecem aqui conforme as notícias são coletadas.</p>`;
@@ -809,6 +872,7 @@
     $("#periodos").addEventListener("click", (e) => {
       const b = e.target.closest("button"); if (!b) return;
       const p = b.dataset.p;
+      if (p === "ontem") { irPara({ p: "dia", d: somaDias(hojeBR(), -1), pagina: 1 }); return; }
       irPara({ p, d: p === "hoje" ? hojeBR() : estado.d, pagina: 1 });
     });
     const passo = (n) => {

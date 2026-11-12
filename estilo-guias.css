@@ -46,6 +46,33 @@
 .artigo .artigo__autores { color: var(--texto-3); font-size: 10.5px; font-style: italic; }
 .artigo .fonte__dom { max-width: 520px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
+/* ---------- fotos em todos os cards ---------- */
+.capa { position: relative; }
+.capa img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.credito { position: absolute; right: 6px; top: 6px; z-index: 3; font-size: 8px; letter-spacing: .1em; text-transform: uppercase; background: rgba(0, 0, 0, .72); color: var(--texto-2); padding: 2px 6px; border: 1px solid var(--linha); }
+.credito:hover { color: #fff; border-color: var(--vermelho); }
+.sec .credito, .menor .credito, .mini__foto .credito, .citadas .credito, .artigo__foto .credito { display: none; }
+.fab__capa { aspect-ratio: 16 / 9; margin: -18px -18px 4px; overflow: hidden; background: var(--preto); border-bottom: 1px solid var(--linha); }
+.fato .fab__capa { margin: -18px -18px 12px; }
+.mini__item { display: grid; grid-template-columns: 64px 1fr; gap: 10px; align-items: start; border-left: 0 !important; padding-left: 0 !important; }
+.mini__foto { display: block; position: relative; width: 64px; height: 44px; overflow: hidden; border: 1px solid var(--linha); background: var(--preto); }
+.mini__foto img, .mini__foto svg { width: 100%; height: 100%; object-fit: cover; display: block; }
+.citadas li { grid-template-columns: 28px 64px 1fr !important; }
+.cur-dia { display: grid; grid-template-columns: 300px 1fr; gap: 24px; align-items: center; }
+.cur-dia__foto { aspect-ratio: 16 / 10; overflow: hidden; border: 1px solid var(--vermelho-escuro); }
+.marco__corpo--foto { display: grid; grid-template-columns: 150px 1fr; gap: 16px; align-items: start; }
+.marco__foto { aspect-ratio: 4 / 3; overflow: hidden; border: 1px solid var(--linha); background: var(--preto); }
+.marco__destaque { aspect-ratio: 21 / 9; max-width: 560px; overflow: hidden; border: 1px solid var(--linha); margin-bottom: 10px; }
+.artigo { flex-direction: row !important; gap: 16px !important; }
+.artigo__foto { flex: none; width: 150px; aspect-ratio: 4 / 3; overflow: hidden; border: 1px solid var(--linha); background: var(--preto); }
+.artigo__corpo { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+@media (max-width: 600px) {
+  .cur-dia { grid-template-columns: 1fr; }
+  .marco__corpo--foto { grid-template-columns: 1fr; }
+  .artigo { flex-direction: column !important; }
+  .artigo__foto { width: 100%; aspect-ratio: 16 / 9; }
+}
+
 /* ---------- história ---------- */
 .link-vermelho { color: var(--vermelho-vivo); font-weight: 700; }
 .linha { position: relative; margin-left: 10px; padding-left: 34px; border-left: 2px solid var(--vermelho-escuro); }
