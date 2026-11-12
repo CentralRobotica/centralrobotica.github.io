@@ -526,12 +526,15 @@
     $("#arquivo").innerHTML = h || `<p class="painel__dica">O histórico aparecerá aqui após a primeira coleta.</p>`;
   }
 
+  // botões que levam a um dia fixo no passado (quantos dias antes de hoje)
+  const DIAS_ATRAS = { ontem: 1, anteontem: 2 };
+
   function marcarControles() {
     document.querySelectorAll(".aba").forEach((b) => b.classList.toggle("ativa", b.dataset.c === estado.c));
     document.querySelectorAll(".atalho").forEach((a) => a.classList.toggle("ativo", a.getAttribute("href") === "#c=" + estado.c));
-    const ontem = somaDias(hojeBR(), -1);
     document.querySelectorAll("#periodos button").forEach((b) => b.classList.toggle("ativo",
-      b.dataset.p === "ontem" ? estado.p === "dia" && estado.d === ontem : b.dataset.p === estado.p));
+      DIAS_ATRAS[b.dataset.p] ? estado.p === "dia" && estado.d === somaDias(hojeBR(), -DIAS_ATRAS[b.dataset.p])
+        : b.dataset.p === estado.p));
     $("#rotulo-periodo").textContent = rotulo(estado.p, estado.d);
     $("#seletor-data").value = estado.d;
     $("#seletor-data").max = hojeBR();
@@ -978,7 +981,7 @@
     $("#periodos").addEventListener("click", (e) => {
       const b = e.target.closest("button"); if (!b) return;
       const p = b.dataset.p;
-      if (p === "ontem") { irPara({ p: "dia", d: somaDias(hojeBR(), -1), pagina: 1 }); return; }
+      if (DIAS_ATRAS[p]) { irPara({ p: "dia", d: somaDias(hojeBR(), -DIAS_ATRAS[p]), pagina: 1 }); return; }
       irPara({ p, d: p === "hoje" ? hojeBR() : estado.d, pagina: 1 });
     });
     const passo = (n) => {
