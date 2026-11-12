@@ -764,7 +764,7 @@
   // botões que levam a um dia fixo no passado (quantos dias antes de hoje)
   const DIAS_ATRAS = { ontem: 1, anteontem: 2 };
 
-  // Botão "Atualizar": força o navegador a baixar de novo a página e os dados
+  // Aviso "Atualizar agora": força o navegador a baixar de novo a página e os dados
   // (sem usar a cópia guardada) e recarrega mantendo a aba/período abertos.
   async function atualizarSite() {
     const b = $("#atualizar");
@@ -1229,7 +1229,6 @@
     $("#abas").innerHTML = CATEGORIAS.map((c, i) => `${c.especial && c.id !== "ranking" && !CATEGORIAS[i - 1].especial ? '<span class="abas__sep"></span>' : ""}<button class="aba ${c.id === "ranking" ? "aba--ranking" : c.especial ? "aba--esp" : ""}" data-c="${c.id}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONES[c.id]}</svg>${esc(c.nome)}<span class="aba__n">${c.especial ? contEsp[c.id] : 0}</span></button>`).join("");
     $("#abas").addEventListener("click", (e) => { const b = e.target.closest(".aba"); if (b) irPara({ c: b.dataset.c, f: "", pagina: 1 }); });
     $("#recarregar").addEventListener("click", atualizarSite);
-    $("#atualizar").addEventListener("click", atualizarSite);
 
     $("#periodos").addEventListener("click", (e) => {
       const b = e.target.closest("button"); if (!b) return;
