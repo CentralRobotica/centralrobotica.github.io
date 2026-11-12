@@ -11835,5 +11835,989 @@
 "fabq:eelume": {
 "q": "Eelume robot",
 "fotos": []
+},
+"fabq:pudu": {
+"q": "Pudu Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/ce891e7f-f226-4bbd-aca0-538b95f79a00/thumb/",
+"o": "https://live.staticflickr.com/65535/52647607339_b7bd6e5751_b.jpg",
+"a": "Like_the_Grand_Canyon",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/22508531@N08/52647607339"
+},
+{
+"u": "https://api.openverse.org/v1/images/189b2a3c-5832-4dff-94f2-31e371350b3e/thumb/",
+"o": "https://live.staticflickr.com/65535/52647343336_c5f08ab612_b.jpg",
+"a": "Like_the_Grand_Canyon",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/22508531@N08/52647343336"
+},
+{
+"u": "https://api.openverse.org/v1/images/7080c416-f666-426c-bd63-3bbe1cdf2089/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/6/62/Robot_de_serveis_Pudu_2022.jpg",
+"a": "Marc Auledas-Noguera",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=118449708"
+},
+{
+"u": "https://api.openverse.org/v1/images/e5e613df-2bb4-4035-aaa5-ffc7fbdd1d06/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cleaning_robot_PUDU_01.jpg",
+"a": "Grummelbacke",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=186681041"
+},
+{
+"u": "https://api.openverse.org/v1/images/382fdc64-d961-49b7-94d9-dfd7496f10f8/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cleaning_robot_PUDU_02.jpg",
+"a": "Grummelbacke",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=186681042"
+}
+]
+},
+"fabq:keenon": {
+"q": "Keenon Robotics robot",
+"fotos": []
+},
+"fabq:baidu": {
+"q": "Baidu Apollo robot",
+"fotos": []
+},
+"fabq:cnsa": {
+"q": "CNSA robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/8b9a5b00-bbd0-4b6f-9897-29b859546686/thumb/",
+"o": "https://live.staticflickr.com/65535/51856140172_56d730676c_b.jpg",
+"a": "Andrea Luck",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/192271236@N03/51856140172"
+},
+{
+"u": "https://api.openverse.org/v1/images/7ba2d320-37d5-479e-b499-8fa9c11b2a40/thumb/",
+"o": "https://live.staticflickr.com/65535/51856149772_b9ee5a20ac_b.jpg",
+"a": "Andrea Luck",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/192271236@N03/51856149772"
+},
+{
+"u": "https://api.openverse.org/v1/images/39c7f2c4-ea78-4f94-97f3-58f8c8e540d3/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Portrait_-_5_Earth%27s_Robots_on_the_surface_of_Mars_-_Hope_Mission_Orbit_88_%2851856149772%29.png",
+"a": "Andrea Luck",
+"l": "CC BY 2.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=144818056"
+},
+{
+"u": "https://api.openverse.org/v1/images/56644acf-f122-4499-b751-d612d0e4dc57/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mars_-_Jezero_Crater%2C_Utopia_Planitia_and_Gale_Crater_-_Hope_Mission_Orbit_88_%2851856140172%29.png",
+"a": "Andrea Luck",
+"l": "CC BY 2.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=144818048"
+}
+]
+},
+"fabq:honda": {
+"q": "Honda robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/b3e72513-ee62-4c3c-a79f-d7f16f136c68/thumb/",
+"o": "https://live.staticflickr.com/2110/2132232687_0a7b25731f_b.jpg",
+"a": "Jedi.RC",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/94116319@N00/2132232687"
+},
+{
+"u": "https://api.openverse.org/v1/images/6fc6acd8-c758-404b-b60a-dd0d56db9b0c/thumb/",
+"o": "https://live.staticflickr.com/222/483475990_9240dccb82_b.jpg",
+"a": "jurvetson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44124348109@N01/483475990"
+},
+{
+"u": "https://api.openverse.org/v1/images/670d2916-8253-44c2-bfde-52b12765cee8/thumb/",
+"o": "https://live.staticflickr.com/3503/3194359397_1034e7478b_b.jpg",
+"a": "jurvetson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44124348109@N01/3194359397"
+},
+{
+"u": "https://api.openverse.org/v1/images/37d38b54-b546-4cf4-899b-eb60069f8495/thumb/",
+"o": "https://live.staticflickr.com/65535/52472361061_84dfe1fda2_b.jpg",
+"a": "Dick Thomas Johnson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/31029865@N06/52472361061"
+},
+{
+"u": "https://api.openverse.org/v1/images/25b22757-ec19-4681-8d98-fb9b193b42e3/thumb/",
+"o": "https://live.staticflickr.com/65535/52472360701_51526486f4_b.jpg",
+"a": "Dick Thomas Johnson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/31029865@N06/52472360701"
+},
+{
+"u": "https://api.openverse.org/v1/images/ea28f18d-cc96-4736-ad62-9eb43db014b6/thumb/",
+"o": "https://live.staticflickr.com/65535/52472636149_eec49f91bc_b.jpg",
+"a": "Dick Thomas Johnson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/31029865@N06/52472636149"
+},
+{
+"u": "https://api.openverse.org/v1/images/642159b5-e0e6-4fa2-be17-e570dfad0719/thumb/",
+"o": "https://live.staticflickr.com/65535/52472819365_ea7db27873_b.jpg",
+"a": "Dick Thomas Johnson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/31029865@N06/52472819365"
+},
+{
+"u": "https://api.openverse.org/v1/images/3ffbd217-772b-4996-a8de-73348bddcf3c/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/3/39/ASIMO_4.28.11.jpg",
+"a": "Vanillase",
+"l": "CC BY-SA 3.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=17300475"
+}
+]
+},
+"fabq:sony": {
+"q": "Sony robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/8e005d9c-66d1-4fcf-bcb9-030167d8f6de/thumb/",
+"o": "https://live.staticflickr.com/148/370028340_cbd3c34381_b.jpg",
+"a": "Shanghai Daddy",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/24029786@N00/370028340"
+},
+{
+"u": "https://api.openverse.org/v1/images/683db144-0ac6-4921-9651-f5bb08526d9d/thumb/",
+"o": "https://live.staticflickr.com/181/370027899_78e8549912_b.jpg",
+"a": "Shanghai Daddy",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/24029786@N00/370027899"
+},
+{
+"u": "https://api.openverse.org/v1/images/1572f006-8fc4-41cb-b6a1-cd5d7b4b62f1/thumb/",
+"o": "https://live.staticflickr.com/1336/1379129238_6810422e5e_b.jpg",
+"a": "ON1TZUKA",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/12714317@N03/1379129238"
+},
+{
+"u": "https://api.openverse.org/v1/images/b69f1b46-b1d5-4be6-8b99-2f771613901d/thumb/",
+"o": "https://live.staticflickr.com/48/132298576_fa30fa435c_b.jpg",
+"a": "Cybertaco_00",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/88484265@N00/132298576"
+},
+{
+"u": "https://api.openverse.org/v1/images/5d44e829-db22-419f-afff-1df9f0cc5078/thumb/",
+"o": "https://live.staticflickr.com/1393/1360586975_e004aacad4_b.jpg",
+"a": "Scott's View of the World",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/8048713@N03/1360586975"
+},
+{
+"u": "https://api.openverse.org/v1/images/8d7db7de-bee3-46b2-bfe8-8a3711b91c9c/thumb/",
+"o": "https://live.staticflickr.com/227/489257240_10e554de46_b.jpg",
+"a": "jurvetson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44124348109@N01/489257240"
+},
+{
+"u": "https://api.openverse.org/v1/images/d20e4a4b-6fb7-4648-8794-23a395b5b443/thumb/",
+"o": "https://live.staticflickr.com/4367/36700868036_401779d6cb_b.jpg",
+"a": "Trey Ratcliff",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/95572727@N00/36700868036"
+},
+{
+"u": "https://api.openverse.org/v1/images/8ff25650-f8fa-432f-a165-8d951f9383f3/thumb/",
+"o": "https://live.staticflickr.com/2164/2627550713_1d80b0a7d6_b.jpg",
+"a": "AndyWilson",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/9534990@N03/2627550713"
+}
+]
+},
+"fabq:kawasaki": {
+"q": "Kawasaki Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/af8f16f7-2833-4843-9313-3c2be6004b60/thumb/",
+"o": "https://live.staticflickr.com/4135/4885880724_fddbefcd8a_m.jpg",
+"a": "explainthatstuff",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/30278465@N08/4885880724"
+},
+{
+"u": "https://api.openverse.org/v1/images/8b49c08c-7366-408a-9565-33d5a268ed8d/thumb/",
+"o": "https://live.staticflickr.com/4082/4885277523_dbe5bac683_m.jpg",
+"a": "explainthatstuff",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/30278465@N08/4885277523"
+},
+{
+"u": "https://api.openverse.org/v1/images/2b6d32e8-4321-4182-ba24-e5dbeed4b878/thumb/",
+"o": "https://live.staticflickr.com/4115/4885881058_d05a1945d5_m.jpg",
+"a": "explainthatstuff",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/30278465@N08/4885881058"
+},
+{
+"u": "https://api.openverse.org/v1/images/e998ec01-772b-43cf-8b73-e2ba85abcd74/thumb/",
+"o": "https://live.staticflickr.com/65535/52304372992_ee39125fa2_b.jpg",
+"a": "patrick.verstappen",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/56393389@N05/52304372992"
+},
+{
+"u": "https://api.openverse.org/v1/images/401d34d6-e3b7-45b9-bee4-7fcce667b230/thumb/",
+"o": "https://live.staticflickr.com/5030/5599403579_f1997362d3_b.jpg",
+"a": "Kevin Krejci",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/48889057888@N01/5599403579"
+},
+{
+"u": "https://api.openverse.org/v1/images/8fe5466e-5375-4881-8ded-10b46facd71d/thumb/",
+"o": "https://live.staticflickr.com/65535/47923640448_9331d13a3c_b.jpg",
+"a": "stede64",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/57810730@N03/47923640448"
+},
+{
+"u": "https://api.openverse.org/v1/images/c412eadd-c086-4aee-86a7-804d975170bd/thumb/",
+"o": "https://live.staticflickr.com/65535/47923737196_7c6907b81f_b.jpg",
+"a": "stede64",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/57810730@N03/47923737196"
+},
+{
+"u": "https://api.openverse.org/v1/images/fb96c8e2-5f76-43ae-ba06-1fb33adeeb28/thumb/",
+"o": "https://live.staticflickr.com/2455/3571490832_c404335391_b.jpg",
+"a": "19.Ramses",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/24497041@N03/3571490832"
+}
+]
+},
+"fabq:cyberdyne": {
+"q": "Cyberdyne robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/0f040eb9-e31e-4697-8ceb-01cf8442c86d/thumb/",
+"o": "https://live.staticflickr.com/31/63461632_1a9482834a_b.jpg",
+"a": "jurvetson",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44124348109@N01/63461632"
+},
+{
+"u": "https://api.openverse.org/v1/images/3081db45-4529-4f18-8321-b4c7ee02968b/thumb/",
+"o": "https://live.staticflickr.com/4010/4317735571_863e664167_b.jpg",
+"a": "Wonderlane",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/71401718@N00/4317735571"
+},
+{
+"u": "https://api.openverse.org/v1/images/04ca56bd-0ab2-4746-99c5-de230ab2f4cc/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hybrid_Assistive_Limb.jpg",
+"a": "en:Steve Jurvetson",
+"l": "CC BY 2.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=906569"
+},
+{
+"u": "https://api.openverse.org/v1/images/7a5473a5-1773-47ba-930d-26abe0706b6d/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cyberdyne_Inc_Building_day_photo01.jpg",
+"a": "Nesnad",
+"l": "CC BY-SA 3.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=7566530"
+},
+{
+"u": "https://api.openverse.org/v1/images/df0a484a-bddd-4ce5-9187-8a6bb127acc9/thumb/",
+"o": "https://live.staticflickr.com/167/406221117_370dc83c84_b.jpg",
+"a": "kingdesmond1337",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/7148984@N02/406221117"
+},
+{
+"u": "https://api.openverse.org/v1/images/5d89222a-143e-4e75-be1c-224f8e009b9c/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Cyberdyne_Inc_Building_day_photo02.jpg",
+"a": "Nesnad",
+"l": "CC BY-SA 3.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=7566537"
+},
+{
+"u": "https://api.openverse.org/v1/images/39679a1e-af33-4807-93ad-0a69a5c17b85/thumb/",
+"o": "https://live.staticflickr.com/4041/4655038360_3a1f9da31c_b.jpg",
+"a": "woofiegrrl",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/54717162@N00/4655038360"
+},
+{
+"u": "https://api.openverse.org/v1/images/85535545-b162-48d2-8325-0ab67d94d908/thumb/",
+"o": "https://live.staticflickr.com/1846/42999433670_667958203f_b.jpg",
+"a": "timtak",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/64015205@N00/42999433670"
+}
+]
+},
+"fabq:samsung": {
+"q": "Samsung robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/fd63a031-13dc-48ea-8839-97746935583d/thumb/",
+"o": "https://live.staticflickr.com/7158/6764172401_0eab81e0d3_b.jpg",
+"a": "Doug Kline",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/26728047@N05/6764172401"
+},
+{
+"u": "https://api.openverse.org/v1/images/2c67cfeb-36a6-4acc-ae09-1e516a74dd34/thumb/",
+"o": "https://live.staticflickr.com/7655/17179073601_cafcb14d64_b.jpg",
+"a": "infomatique",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/80824546@N00/17179073601"
+},
+{
+"u": "https://api.openverse.org/v1/images/fd168475-031d-494c-bef2-0be192d46501/thumb/",
+"o": "https://live.staticflickr.com/7710/16557248294_22f88c25e3_b.jpg",
+"a": "infomatique",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/80824546@N00/16557248294"
+},
+{
+"u": "https://api.openverse.org/v1/images/ad15e9fd-106a-4be2-bcab-c3bf9c55061b/thumb/",
+"o": "https://live.staticflickr.com/7598/16991922128_775927eed0_b.jpg",
+"a": "infomatique",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/80824546@N00/16991922128"
+},
+{
+"u": "https://api.openverse.org/v1/images/592e4485-cbfa-4589-bd08-3081520099b7/thumb/",
+"o": "https://live.staticflickr.com/7719/17179076141_25801826ae_b.jpg",
+"a": "infomatique",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/80824546@N00/17179076141"
+},
+{
+"u": "https://api.openverse.org/v1/images/84cf169a-e00a-45e6-9fc5-b6cec08e3936/thumb/",
+"o": "https://live.staticflickr.com/1396/5148358314_9b7bb50f33_b.jpg",
+"a": "chrischesher",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/76564685@N00/5148358314"
+},
+{
+"u": "https://api.openverse.org/v1/images/22d2aa1a-50e4-479e-b61a-3ef49fe5da4a/thumb/",
+"o": "https://live.staticflickr.com/5264/5618398857_6ca3ebbddb.jpg",
+"a": "지호 | Ji-Ho | 志浩",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/97892377@N00/5618398857"
+},
+{
+"u": "https://api.openverse.org/v1/images/41590985-2540-4ddc-a356-3c122b9e1ce0/thumb/",
+"o": "https://live.staticflickr.com/65535/51923166104_916ec8edf3_b.jpg",
+"a": "robpegoraro",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/45975345@N00/51923166104"
+}
+]
+},
+"fabq:lg": {
+"q": "LG Electronics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/4e76dd25-7bbb-4986-82d8-9b6bc87bf492/thumb/",
+"o": "https://live.staticflickr.com/2920/13969262253_cb992ccac0.jpg",
+"a": "emrank",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/15622795@N05/13969262253"
+}
+]
+},
+"fabq:doosan": {
+"q": "Doosan Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/efe1ace5-99d2-4077-a2fb-0871a590212e/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/2/27/Qb8ImQq75f1upnn17eBQtCNTMawAnFzvjonLUTKiQG07kJk2xehujPhEW3u24ZcjfT0Q1Ml3_SC6SdkEem1QNmycpVYCUiDxeTkxK852TDvsVx3hN3_f9umXkvDbx0Tr4iwQpRhHzwztI4cFs-tSEw.webp",
+"a": "doosanrobotics",
+"l": "CC0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=185357765"
+}
+]
+},
+"fabq:rainbow": {
+"q": "Rainbow Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/d7638603-0601-4235-a53d-7dea9bb87107/thumb/",
+"o": "https://live.staticflickr.com/4067/4476522709_05236c135c_b.jpg",
+"a": "pasukaru76",
+"l": "CC0",
+"p": "https://www.flickr.com/photos/38451115@N04/4476522709"
+},
+{
+"u": "https://api.openverse.org/v1/images/4a8a8023-0a40-45f2-8717-c298c0cfb929/thumb/",
+"o": "https://live.staticflickr.com/220/509812109_604791519f_b.jpg",
+"a": "jared",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/35468148654@N01/509812109"
+},
+{
+"u": "https://api.openverse.org/v1/images/7734425f-66d5-43f1-82a3-9b0ee1226de0/thumb/",
+"o": "https://live.staticflickr.com/2824/32287735554_552a9ebfc6.jpg",
+"a": "the art of liquid painting",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/133112321@N05/32287735554"
+},
+{
+"u": "https://api.openverse.org/v1/images/3663cf58-524a-4b6f-bd2d-80396d19a8b2/thumb/",
+"o": "https://live.staticflickr.com/5340/17487118758_895857e54c_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17487118758"
+},
+{
+"u": "https://api.openverse.org/v1/images/1cfd13cb-4355-4082-9db3-8ff3a10e37a6/thumb/",
+"o": "https://live.staticflickr.com/7667/17056949023_2c9ee96267_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17056949023"
+},
+{
+"u": "https://api.openverse.org/v1/images/ed4b3be2-c062-4986-bed5-87ca2684f2e6/thumb/",
+"o": "https://live.staticflickr.com/8776/17486797938_9fdd584572_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17486797938"
+},
+{
+"u": "https://api.openverse.org/v1/images/b15b2aad-85eb-447b-b927-738b17e8d2f5/thumb/",
+"o": "https://live.staticflickr.com/8810/17674806501_7063edb55a_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17674806501"
+},
+{
+"u": "https://api.openverse.org/v1/images/359aeab9-c0b2-4771-b4ba-8d87dd673c52/thumb/",
+"o": "https://live.staticflickr.com/5460/17488647209_cf935cf9bd_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17488647209"
+}
+]
+},
+"fabq:abb": {
+"q": "ABB Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/f44833b0-7b66-4c27-b037-0ed8b166bec1/thumb/",
+"o": "https://live.staticflickr.com/212/445073590_d5df219f98.jpg",
+"a": "avramc",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/28695713@N00/445073590"
+},
+{
+"u": "https://api.openverse.org/v1/images/6414df10-26d0-4633-8116-dc22194d9a04/thumb/",
+"o": "https://live.staticflickr.com/8680/16357372500_7c88ce3faa_b.jpg",
+"a": "madeline.gannon",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/53730604@N06/16357372500"
+},
+{
+"u": "https://api.openverse.org/v1/images/0cc68b4c-aa6f-4f21-a9a8-44934c841bd1/thumb/",
+"o": "https://live.staticflickr.com/3071/2883817695_14b07a4931_b.jpg",
+"a": "trevor.patt",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/15416816@N05/2883817695"
+},
+{
+"u": "https://api.openverse.org/v1/images/fabb730e-a432-4241-b5c9-f29eb991ae81/thumb/",
+"o": "https://live.staticflickr.com/3433/3716985479_cefcd8e5cf_b.jpg",
+"a": "trevor.patt",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/15416816@N05/3716985479"
+},
+{
+"u": "https://api.openverse.org/v1/images/27323343-b208-4bf6-8ac3-097935b89698/thumb/",
+"o": "https://live.staticflickr.com/2569/3680963788_66d29ae7a6_b.jpg",
+"a": "trevor.patt",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/15416816@N05/3680963788"
+},
+{
+"u": "https://api.openverse.org/v1/images/c1989650-0dd5-4065-916d-1c54a129a8b6/thumb/",
+"o": "https://live.staticflickr.com/8650/15980955151_173b0cdd6a.jpg",
+"a": "Kitmondo.com",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/129143611@N03/15980955151"
+},
+{
+"u": "https://api.openverse.org/v1/images/7fbab6ed-afc5-4c96-a23f-d9211dfbc1b3/thumb/",
+"o": "https://live.staticflickr.com/8632/15795663220_594cdc6029.jpg",
+"a": "Kitmondo.com",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/129143611@N03/15795663220"
+},
+{
+"u": "https://api.openverse.org/v1/images/da916ca4-4bf8-423c-94fe-be8c0dca4bd9/thumb/",
+"o": "https://live.staticflickr.com/2435/3828537297_7f8f075ac4_b.jpg",
+"a": "trevor.patt",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/15416816@N05/3828537297"
+}
+]
+},
+"fabq:ur": {
+"q": "Universal Robots robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/79548774-f706-4265-91aa-632a53c5941a/thumb/",
+"o": "https://live.staticflickr.com/7125/7746576504_e346e60085_b.jpg",
+"a": "University of Salford",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/32104790@N02/7746576504"
+},
+{
+"u": "https://api.openverse.org/v1/images/356f391b-60d1-442d-af9e-804b8f98f158/thumb/",
+"o": "https://live.staticflickr.com/8301/7746578538_5b45d24f80_b.jpg",
+"a": "University of Salford",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/32104790@N02/7746578538"
+},
+{
+"u": "https://api.openverse.org/v1/images/39c70216-660b-4741-bc6d-460bdc8ae29a/thumb/",
+"o": "https://live.staticflickr.com/2883/33996867506_5a7ecd6565_b.jpg",
+"a": "NASAKennedy",
+"l": "CC BY-NC-ND 2.0",
+"p": "https://www.flickr.com/photos/108488366@N07/33996867506"
+},
+{
+"u": "https://api.openverse.org/v1/images/c80a4e87-fdd9-4eee-ba32-7e4268c7ac5e/thumb/",
+"o": "https://live.staticflickr.com/7770/17368497641_a13aff407f_b.jpg",
+"a": "Chris Protopapas",
+"l": "Domínio público",
+"p": "https://www.flickr.com/photos/7448869@N03/17368497641"
+},
+{
+"u": "https://api.openverse.org/v1/images/fa9ca761-8a4f-4f7c-b786-0d6ddb25241c/thumb/",
+"o": "https://live.staticflickr.com/7315/11432595805_d60d77a727_b.jpg",
+"a": "University of Salford",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/32104790@N02/11432595805"
+},
+{
+"u": "https://api.openverse.org/v1/images/371004d9-88ce-4962-a644-51f303e2f328/thumb/",
+"o": "https://live.staticflickr.com/2871/11432597045_2bf38b50a4_b.jpg",
+"a": "University of Salford",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/32104790@N02/11432597045"
+},
+{
+"u": "https://api.openverse.org/v1/images/82435874-0316-4c1a-8a72-dc5e68d81ebf/thumb/",
+"o": "https://live.staticflickr.com/905/40801695915_1a54bbda35_b.jpg",
+"a": "NASAKennedy",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/108488366@N07/40801695915"
+},
+{
+"u": "https://api.openverse.org/v1/images/4d901792-0f80-4037-b5fd-4cb4bcf9714e/thumb/",
+"o": "https://live.staticflickr.com/2926/14436495825_bef4402f8d_b.jpg",
+"a": "NASA's Marshall Space Flight Center",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/28634332@N05/14436495825"
+}
+]
+},
+"fabq:neura": {
+"q": "NEURA Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/1ae483cf-2bcf-41f2-84f6-dceada0b4952/thumb/",
+"o": "https://live.staticflickr.com/65535/54134865618_14b03918a6_b.jpg",
+"a": "Web Summit",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/74711243@N06/54134865618"
+},
+{
+"u": "https://api.openverse.org/v1/images/50fcb2d7-5f31-443d-b9a1-6328a107099d/thumb/",
+"o": "https://live.staticflickr.com/65535/54134917209_c8ca6986df_b.jpg",
+"a": "Web Summit",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/74711243@N06/54134917209"
+},
+{
+"u": "https://api.openverse.org/v1/images/025bb1bd-5e90-4b05-923d-9f14fa1d277e/thumb/",
+"o": "https://live.staticflickr.com/4337/36506471270_a0c52f32d8_b.jpg",
+"a": "Stratageme.com",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/13815526@N02/36506471270"
+}
+]
+},
+"fabq:anybotics": {
+"q": "ANYbotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/1c10f8ee-a3f0-41dc-a8e1-e28c4caeda15/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Anybots_robot_monty.jpg",
+"a": "Jeff Keyzer",
+"l": "CC BY-SA 2.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=14625034"
+},
+{
+"u": "https://api.openverse.org/v1/images/b36d8534-d7b6-4e3a-b430-876532a6c96a/thumb/",
+"o": "https://live.staticflickr.com/2432/4101303661_4db0ba57be_b.jpg",
+"a": "david.orban",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44124368329@N01/4101303661"
+},
+{
+"u": "https://api.openverse.org/v1/images/3f309eb9-de53-4700-afe6-ebfaf2b4158a/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/4/43/ANYbotics_robot_dog_ANYmal.jpg",
+"a": "ANYbotics",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=114496800"
+},
+{
+"u": "https://api.openverse.org/v1/images/cb808ff5-35b9-4b93-b53f-8b83c4fe47d7/thumb/",
+"o": "https://live.staticflickr.com/4108/5170720638_f8fbf22a07.jpg",
+"a": "Robert Scoble",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/35034363287@N01/5170720638"
+},
+{
+"u": "https://api.openverse.org/v1/images/126bcafa-9f82-4fb5-a29a-5908707e3031/thumb/",
+"o": "https://live.staticflickr.com/3364/3192911405_168f540112_b.jpg",
+"a": "ntoper",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/44966359@N00/3192911405"
+},
+{
+"u": "https://api.openverse.org/v1/images/aeb0ceb4-2c32-4e7c-8d62-a223b6e06443/thumb/",
+"o": "https://live.staticflickr.com/177/467682005_b176f3abdf.jpg",
+"a": "vlauria",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/17979617@N00/467682005"
+},
+{
+"u": "https://api.openverse.org/v1/images/c8c1d1e9-a24e-45e0-a273-85680372a427/thumb/",
+"o": "https://live.staticflickr.com/8500/8381834341_682d700415_b.jpg",
+"a": "artgoeshere",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/53606983@N00/8381834341"
+},
+{
+"u": "https://api.openverse.org/v1/images/11fe2fb1-fb04-418d-82a6-0f8ced34414c/thumb/",
+"o": "https://live.staticflickr.com/4148/4997452853_5c6b52e886_b.jpg",
+"a": "John Pozadzides",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/97705426@N00/4997452853"
+}
+]
+},
+"fabq:engineeredarts": {
+"q": "Engineered Arts robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/00b0006f-33fb-43a4-903c-c996e340cda9/thumb/",
+"o": "https://live.staticflickr.com/3211/2593426999_bd1d88fdbe_b.jpg",
+"a": "crabchick",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/62327186@N00/2593426999"
+},
+{
+"u": "https://api.openverse.org/v1/images/da05534b-0558-4756-b341-8a34906df277/thumb/",
+"o": "https://live.staticflickr.com/3424/3200278405_e90f38a2a0_b.jpg",
+"a": "Wonderlane",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/71401718@N00/3200278405"
+},
+{
+"u": "https://api.openverse.org/v1/images/b4d04277-d444-40b3-9aa5-6278620884bc/thumb/",
+"o": "https://live.staticflickr.com/3448/3198159563_a2051509d5_b.jpg",
+"a": "Wonderlane",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/71401718@N00/3198159563"
+},
+{
+"u": "https://api.openverse.org/v1/images/80ff31c7-4ff8-4bad-b2db-12a223e8d73d/thumb/",
+"o": "https://live.staticflickr.com/8432/7599153892_881e237cf7_b.jpg",
+"a": "NASA's Marshall Space Flight Center",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/28634332@N05/7599153892"
+},
+{
+"u": "https://api.openverse.org/v1/images/b98aba43-cb2d-43a8-a6f1-13935284a55f/thumb/",
+"o": "https://live.staticflickr.com/937/42769089475_6a78e494c0_b.jpg",
+"a": "NASA's Marshall Space Flight Center",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/28634332@N05/42769089475"
+},
+{
+"u": "https://api.openverse.org/v1/images/b15b2aad-85eb-447b-b927-738b17e8d2f5/thumb/",
+"o": "https://live.staticflickr.com/8810/17674806501_7063edb55a_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17674806501"
+},
+{
+"u": "https://api.openverse.org/v1/images/359aeab9-c0b2-4771-b4ba-8d87dd673c52/thumb/",
+"o": "https://live.staticflickr.com/5460/17488647209_cf935cf9bd_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17488647209"
+},
+{
+"u": "https://api.openverse.org/v1/images/3663cf58-524a-4b6f-bd2d-80396d19a8b2/thumb/",
+"o": "https://live.staticflickr.com/5340/17487118758_895857e54c_b.jpg",
+"a": "nalends",
+"l": "CC BY-ND 2.0",
+"p": "https://www.flickr.com/photos/130475615@N06/17487118758"
+}
+]
+},
+"fabq:cmr": {
+"q": "CMR Surgical robot",
+"fotos": []
+},
+"fabq:parrot": {
+"q": "Parrot robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/dc6a39d8-3b8e-4613-a10d-473792b6ba1d/thumb/",
+"o": "https://live.staticflickr.com/3362/3519678477_60744aa5b9_b.jpg",
+"a": "Kaptain Kobold",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/95492938@N00/3519678477"
+},
+{
+"u": "https://api.openverse.org/v1/images/f1c896b2-b7a5-4ed1-a1bd-96a5e067a826/thumb/",
+"o": "https://live.staticflickr.com/3065/2995508867_e74b6604cf_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/2995508867"
+},
+{
+"u": "https://api.openverse.org/v1/images/03ed2e3f-08f2-47ba-99ce-c277c48febf2/thumb/",
+"o": "https://live.staticflickr.com/3252/3131724417_3f456d8ba3_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/3131724417"
+},
+{
+"u": "https://api.openverse.org/v1/images/b29485e2-094b-4970-8928-cac5ec36ac17/thumb/",
+"o": "https://live.staticflickr.com/3240/2831538379_d7ae2518a3_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/2831538379"
+},
+{
+"u": "https://api.openverse.org/v1/images/9d87b5bd-b4e5-4af4-acee-f5b1e13ba5fa/thumb/",
+"o": "https://live.staticflickr.com/2389/2743509114_674289c44f_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/2743509114"
+},
+{
+"u": "https://api.openverse.org/v1/images/5cfc2d59-b264-4209-960b-5c8b081174aa/thumb/",
+"o": "https://live.staticflickr.com/3380/3262769940_a46d6cccda_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/3262769940"
+},
+{
+"u": "https://api.openverse.org/v1/images/80d32b40-80bf-4841-a920-60377fb744f2/thumb/",
+"o": "https://live.staticflickr.com/3115/2693256296_324148a6d8_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/2693256296"
+},
+{
+"u": "https://api.openverse.org/v1/images/e3392d71-abee-48ff-8c75-b5f95675f14a/thumb/",
+"o": "https://live.staticflickr.com/2156/2383624155_6241a27022_b.jpg",
+"a": "Dunechaser",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/12426416@N00/2383624155"
+}
+]
+},
+"fabq:husqvarna": {
+"q": "Husqvarna robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/2ea99e42-c369-49f5-8675-5aa7452c1d85/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Husqvarna_Automower_308_with_track_marks_in_lawn.jpg",
+"a": "W.carter",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=51433413"
+},
+{
+"u": "https://api.openverse.org/v1/images/3907c2a5-4f3f-4d83-b84e-ba5dfa19c025/thumb/",
+"o": "https://live.staticflickr.com/5537/13977449513_c9bf29acc6_b.jpg",
+"a": "Patrick Strandberg",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/61392182@N00/13977449513"
+},
+{
+"u": "https://api.openverse.org/v1/images/927d7a82-ee86-443d-9f22-8bee402b617e/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/5/54/Husqvarna_CEORA_professional_robotic_lawn_mower_at_Brastad_Arena_4.jpg",
+"a": "W.carter",
+"l": "CC BY-SA 4.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=132718504"
+},
+{
+"u": "https://api.openverse.org/v1/images/374977a7-a5cf-4c89-8d90-3cd9528c3ec4/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Husqvarna_Automower_230ACX.jpg",
+"a": "Tibor Antalóczy",
+"l": "CC BY-SA 3.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=17239187"
+},
+{
+"u": "https://api.openverse.org/v1/images/894232bc-c00e-4582-b269-3a0dd65c0e2f/thumb/",
+"o": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gr%C3%A4sklippningsrobot.JPG",
+"a": "Bengt Oberger",
+"l": "CC BY-SA 3.0",
+"p": "https://commons.wikimedia.org/w/index.php?curid=19671853"
+},
+{
+"u": "https://api.openverse.org/v1/images/134b0359-47e4-4c0e-949d-a37c2f02577b/thumb/",
+"o": "https://live.staticflickr.com/65535/52283843007_248eec28e2_b.jpg",
+"a": "MIKI Yoshihito. (#mikiyoshihito)",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/7940758@N07/52283843007"
+},
+{
+"u": "https://api.openverse.org/v1/images/c610b64b-4bf9-4c72-9bc8-b6a08dd2b303/thumb/",
+"o": "https://live.staticflickr.com/65535/52285314195_d000377c26_b.jpg",
+"a": "MIKI Yoshihito. (#mikiyoshihito)",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/7940758@N07/52285314195"
+},
+{
+"u": "https://api.openverse.org/v1/images/0aa0ed48-33ec-4621-bb66-8bcd517ef08a/thumb/",
+"o": "https://live.staticflickr.com/5726/31394933235_eb2dc33eba.jpg",
+"a": "Green Energy Futures",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/63483222@N03/31394933235"
+}
+]
+},
+"fabq:clone": {
+"q": "Clone Robotics robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/44986fb9-a4f5-464c-82f8-697ab998695d/thumb/",
+"o": "https://live.staticflickr.com/2404/5762594634_29157bb434.jpg",
+"a": "Masked Builder",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/47285408@N04/5762594634"
+},
+{
+"u": "https://api.openverse.org/v1/images/f90207f9-4425-43e4-b055-ea0621c24d01/thumb/",
+"o": "https://live.staticflickr.com/5761/22759582720_c145cd42cd_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/22759582720"
+},
+{
+"u": "https://api.openverse.org/v1/images/c4a16fb7-1406-41a1-8a65-aeefa62337b5/thumb/",
+"o": "https://live.staticflickr.com/751/20819783631_72c6934a98_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/20819783631"
+},
+{
+"u": "https://api.openverse.org/v1/images/e068a57e-ac68-4257-b0a6-acb4cc80cf19/thumb/",
+"o": "https://live.staticflickr.com/5666/22922343446_38f988d233_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/22922343446"
+},
+{
+"u": "https://api.openverse.org/v1/images/83bc0823-88f5-4a14-b68f-50b4598faa9e/thumb/",
+"o": "https://live.staticflickr.com/5793/22530033258_c7a0314b8e_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/22530033258"
+},
+{
+"u": "https://api.openverse.org/v1/images/872b1a43-032e-4d43-9867-848867d98fc9/thumb/",
+"o": "https://live.staticflickr.com/5741/22529290988_1f1393c2c9_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/22529290988"
+},
+{
+"u": "https://api.openverse.org/v1/images/ebc22f66-5020-474b-8ffe-1ef4c86d8210/thumb/",
+"o": "https://live.staticflickr.com/5766/22529231957_500d601927_b.jpg",
+"a": "dluders",
+"l": "CC BY-SA 2.0",
+"p": "https://www.flickr.com/photos/42988571@N08/22529231957"
+},
+{
+"u": "https://api.openverse.org/v1/images/5ab50694-304f-4922-bd94-e1ea5c384e12/thumb/",
+"o": "https://live.staticflickr.com/5316/5892680028_a5f484b88d.jpg",
+"a": "Masked Builder",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/47285408@N04/5892680028"
+}
+]
+},
+"fabq:sanctuary": {
+"q": "Sanctuary AI robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/f2ad47b6-143d-4170-989f-7ea5b1f19013/thumb/",
+"o": "https://live.staticflickr.com/1746/41715610225_35b4958563_b.jpg",
+"a": "Abode of Chaos",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/40936370@N00/41715610225"
+},
+{
+"u": "https://api.openverse.org/v1/images/d75ca352-3e1a-4959-a1c4-39f578d53f03/thumb/",
+"o": "https://live.staticflickr.com/1727/40808173410_4325319365_b.jpg",
+"a": "Abode of Chaos",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/40936370@N00/40808173410"
+},
+{
+"u": "https://api.openverse.org/v1/images/965d78b6-0aa2-4fa9-b353-ccb119718b1d/thumb/",
+"o": "https://live.staticflickr.com/65535/48371246291_bccef9bc93_b.jpg",
+"a": "Abode of Chaos",
+"l": "CC BY 2.0",
+"p": "https://www.flickr.com/photos/40936370@N00/48371246291"
+},
+{
+"u": "https://api.openverse.org/v1/images/7d140f10-215a-460d-93e1-953efd3e62eb/thumb/",
+"o": "https://live.staticflickr.com/65535/53668322978_52215a0202_b.jpg",
+"a": "Duncan Rawlinson - Duncan.co",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/44124400268@N01/53668322978"
+},
+{
+"u": "https://api.openverse.org/v1/images/6b0238ee-c237-472b-98ee-c5ffe1bc0064/thumb/",
+"o": "https://live.staticflickr.com/65535/53516789358_abf00c224d_b.jpg",
+"a": "紅色死神",
+"l": "CC BY-NC-SA 2.0",
+"p": "https://www.flickr.com/photos/8873441@N06/53516789358"
+}
+]
+},
+"fabq:mda": {
+"q": "MDA Space robot",
+"fotos": [
+{
+"u": "https://api.openverse.org/v1/images/45c90638-332b-4f08-8ebf-df38b3bd4704/thumb/",
+"o": "https://live.staticflickr.com/7473/15893200301_54337057d2_b.jpg",
+"a": "www78",
+"l": "CC BY-NC 2.0",
+"p": "https://www.flickr.com/photos/40243520@N02/15893200301"
+}
+]
+},
+"fabq:mentee": {
+"q": "Mentee Robotics robot",
+"fotos": []
 }
 }

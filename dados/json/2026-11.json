@@ -18,7 +18,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Gadgets 360",
-"gx": 2
+"gx": 3
 },
 {
 "id": "e2d3e84c6a838b",
@@ -122,6 +122,34 @@
 ],
 "cr": 3,
 "cv": "ANSA"
+},
+{
+"id": "535d1b0267dfaa",
+"t": "SoftBank lidera um investimento de US$ 500 milhões em robôs ágeis para aumentar a produção em escala de robôs humanóides",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZekdGaVRfbEdXYTR1c1NFQ0JLUFZwOGt5VkNVdVB5YW5yUlp0cC1GbW9HSkptdzRudExKcG9tdkx5OUtIOG9kUTVSakE?oc=5",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-12T03:40-03:00",
+"c": [
+"negocios",
+"humanoides"
+],
+"l": 0,
+"to": "软银领投 Agile Robots 公司 5 亿美元融资，加码人形机器人规模化生产",
+"lg": "zh",
+"p": 4.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"o": [
+{
+"f": "36Kr",
+"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1bzk4eTJaUmhyZlBkdHdrWUdPLVVvaXJ1eVNTZWh5eE5zV283b1B3TnVMVGV5b21PQ1lBSHVQSzdEdkVuNl9Pb1pTbkJBRlREdzFLMnFuMXo?oc=5",
+"s": "36kr.com",
+"id": "740584237b8e92"
+}
+]
 },
 {
 "id": "a91d5b118dcbd8",
@@ -474,6 +502,25 @@
 "cv": "ANSA"
 },
 {
+"id": "ae608db3ba093f",
+"t": "O CEO da Ring chama o drone de segurança interna de uma ‘grande dissuasão’",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWlSTFZQUWVZTmhEYXh0dXJUY0t4YlNuZ0ZuMGRIQVF2eF95OEIwekprTDdZTUNmVkNVWVFfS2QzSzI4b2tabU9XamRTRXlqcVZGZHNCNDVtck4tSkwxU2V3NkRVZm1ETGdpVFYxUVNlSnFCMWR6LVhmMFBiUWJqT1BHa1p5LTFYSWQyU2ExVGdkMWEwYzhuUUVjQXViUTJORzJaZlRXcFo?oc=5",
+"f": "NBC News",
+"s": "nbcnews.com",
+"i": "",
+"d": "2026-11-12T03:01-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ring CEO calls indoor security drone a ‘great deterrence’",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "NBC News"
+},
+{
 "id": "97c6ba86922448",
 "t": "Google ensina robôs domésticos a manter crianças e animais de estimação seguros: ‘eles podem detectar perigos’",
 "r": "",
@@ -615,24 +662,194 @@
 "cv": "United Daily News"
 },
 {
-"id": "535d1b0267dfaa",
-"t": "SoftBank lidera um investimento de US$ 500 milhões em robôs ágeis para aumentar a produção em escala de robôs humanóides",
+"id": "485f6b3a4d08d3",
+"t": "Dar gorjeta a um robô?",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZekdGaVRfbEdXYTR1c1NFQ0JLUFZwOGt5VkNVdVB5YW5yUlp0cC1GbW9HSkptdzRudExKcG9tdkx5OUtIOG9kUTVSakE?oc=5",
-"f": "IT之家",
-"s": "ithome.com",
+"u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wWm9saHpBWjdxSVRjVzhYOHFobWN4cWI1TjBKaXFhSGFWTHZDQU9iMlE1LXFWQXdPclE3RWtYTnZFekRnZUxTYjQ0OUoxM1VEcDJkNHh4SHpCa2xJSnRUNlJ4akZTUE5rTkRCMUw2WXVHTVJFWXlhUlh1RUFGQQ?oc=5",
+"f": "조선일보",
+"s": "chosun.com",
 "i": "",
-"d": "2026-11-12T03:40-03:00",
+"d": "2026-11-12T04:41-03:00",
 "c": [
-"negocios",
+"geral"
+],
+"l": 0,
+"to": "로봇에 팁을 주라고?",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Chosun Ilbo"
+},
+{
+"id": "7bc16782d3b866",
+"t": "NXP lança nova plataforma integrada de robótica",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVk1La0VfdU5hcEhJbUVXQmI0RXMyRnhQX1dHeGE2ZmE1bnlpRWp1VnBnTXBuNnZhQWYzeXdGX19Qd1BBRVI3SmFLTDBna3ZtcWJoRG03bzFjUdIBX0FVX3lxTE9Xc05MY05jRU5TM09hOHhGcEZSZXpNZGwzYkJTT21kN1J0dy1hdGEyZTgyY1pfRFpRRFlaV2NxdEh3RWlUY1lSMnpJUG9ET043TGZwOXdVODZDUmFrQXNJ?oc=5",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-12T04:43-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "恩智浦推出全新整合式機器人平台",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "United Daily News"
+},
+{
+"id": "4fc66cff10f499",
+"t": "Coalizão saudita diz que drone foi interceptado na região de Riad - Região - Mundo",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHREM0pvcGtJZVB4V1pRQjF2andsRFJuUURRMDNScWk3a3ZJRjN6SFQ1YTdaamVEa1ZVdEZ5SVM5SkE0ckxlUEljYW5ScmoxMGwzLTB5RTFhVXZUOTN4dHVSMUIzZW5ScVFQVVRTSWtXR0tMcUVHa2VSV3ZWU1dvU0tlTXpJWE11cEtFcnRmZGZuYVRhUVJHM0VzR0dOWDNiM2pMRGdOX2FRblczUjBSbVVMTThfOGd2UjAyaw?oc=5",
+"f": "Ahram Online",
+"s": "english.ahram.org.eg",
+"i": "",
+"d": "2026-11-12T04:56-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Saudi coalition says intercepted drone in Riyadh region - Region - World",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Ahram Online"
+},
+{
+"id": "52c7e656d72304",
+"t": "Roborock reduz o preço de seus aspiradores robôs Saros 20 e Saros 10R: é um ótimo negócio na Black Friday",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd2NZUUcxUjVyUE42dzhISWxSZThLM281dk51Q3hvSDdnc1pkbzJraFJvRm53Y3g1cEZKN0Q0OWVNQms0NmZuajItYXQ3ZDJfUmVxdWxFeUFxbWFDazBLV2J4cGhnanA5YXVtT1R6VDJwdHFxWmJpT3pSRXhmS3FSZnFwUGhaVkpfTldKejhwMXU3UnUwa3ZJck9CTk93bllVTmtVWnVwVkFJc19IMmIwbmVGVVplcFVBWmVVWDBtRDRfSFJ1OVJZNnFOMDVjTGtJVFpEb3BDTTVJYWxTR2Y1Z25VdVZQdURPMW44RQ?oc=5",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "",
+"d": "2026-11-12T05:05-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roborock baisse le prix de ses aspirateurs robots Saros 20 et Saros 10R : c’est le bon plan du Black Friday",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "Le Figaro"
+},
+{
+"id": "6e3d60c8d2f285",
+"t": "Cuidado: O que a IA e a robótica poderiam fazer para combater o aumento dos custos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmZDVEpMa1FrY2lET0ItVVEyUmZlaHRPeDlDcDM3ZGhRclk4ZVd0THVxYlNOSlJvS0pBZ3JqZW1NS1c0c19aMjhkb2V1aEEwRERjeVY0bEdDamJsd0UwZ1loWVRuVTZjaTlTOHlDWThDLTJiWW9QbjRENVN3RzZkUW5WR1l1ODM0bWljTC10emdlQk45VVlwb2JjTGZJZkVCbHE5ZEMzRkZwYzA5ckVsWmFKdkduTVlzOHZHemczMzFSSEM3My0yQnFiTWk?oc=5",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-12T05:29-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Pflege: Was KI und Robotik gegen steigende Kosten ausrichten könnten",
+"lg": "de",
+"p": 3.5,
+"cr": 3,
+"cv": "Handelsblatt"
+},
+{
+"id": "302495177c9f75",
+"t": "O experimento britânico de drones com porta-aviões pode ser a chave para o próximo salto naval da Índia",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTllZYkU3eGdVZnphc19WdlUzUzZsc3FyZmhrVzRLNEFzTUFBWEZxRU5xTEJFZnRoY3JGcklnbHJYa2RFSjVwYkpja3BDUW00NWhjbXdXSWlIRE13bU9GU3duQjh6QWExVHRLWHNHTFBVX1dCRWtLNk5HSjRKTFpGX1I2d1I1UmNnV2RTOFFCc1RtLVYtRWtNY2M3dlFocUlzWkJ1RkFVNjFrUWVWQzNELUhsQ3NBVm5MTmZxSnhsUlpyR3RIdXNfVjNyNmE2MUxsMnlpZkY0VFk4TDVxTHVmczU1V2pjRFFSa2hUQTU3OTVsak1pNjF1QUJWeVA3X1cw0gGGAkFVX3lxTE9wUm1oakJ3eVhBdS0xSFI2QWNtc0drVXVSS2ZjbW5HWUFXRnlqMGtuR1JibmZZWHJ2WTA3S1Z4ckU2YWMyNGNVMXU2bzdFWlJHZVVCWVNTbkxpTk5HMHY4VVRTbC00QW1RbXBrR3RYXzEtanVYbFJ5Zy1adnpiWnpGSzhUc2gwTk9ZRWlfT2RxYVo2dVdCOV9JRXgyRzVTQW5LNFV6REROQ0VxM0t1VHhPZXNPbnlIY0VoY0k5RjNQYXFkbHBNdkFhRkR3RGR1Vk41ajUxVXA0NmhWYmxiSWRrcWlTYmRSNDVUZTV5QThIWEhfNlotQWhMSkdDa05RUWNLUkx0Snc?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-12T05:38-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Britain's aircraft carrier drone experiment could hold the key to India's next naval leap",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
+},
+{
+"id": "8096200640bfa6",
+"t": "Receitas por aparelho: forno, airfryer, micro-ondas e robô",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15TzVVWTN4TWpWZV9QNmxDSG1yUzRPWWpqMVROeGhHbFVId1NXMHBXSnA1N19LVURzZEY3NlZGRFZNREZLcGNTeGNsdy1YbW1rcklqYjlnRkg5d1ZCUGVSVWdlV3dCZw?oc=5",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "",
+"d": "2026-11-12T05:48-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Recetas por aparato: horno, airfryer, microondas y robot",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "La Vanguardia"
+},
+{
+"id": "62fb80596e4898",
+"t": "Receitas com Thermomix e outros robôs de cozinha",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zNjlZRzFUck9LVzkxdEY0bjZsaTFqRUh3SkJlQXNOZTY0dEQzTmpkTGlSdnNtdkdxT2lCZTI2c29vUXpwZkxVblV4S1J0bDRyeHFWbjE0b2x0MldZRjF1LU1wUUVtanRoMzllT0lsSTJnZENUNmdZVE9Fbw?oc=5",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "",
+"d": "2026-11-12T05:48-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Recetas con Thermomix y otros robots de cocina",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "La Vanguardia"
+},
+{
+"id": "a3709921a0d4e3",
+"t": "Startup de IA paga a humanos US$ 45 por hora para cuidar de robôs no turno da noite",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXpNXzN5VUJUcF9ZMkJTSUtWUUZYdVJJd1JPZUhtM1d6amlLSmtfS2J2cE0tSnFOYjc3WlZXanRtVFdKWjVoQk5pYzlhaTUwUU5lS1Y0d3p4MXd3N0swTzh6aXVDdF9RNnZfSDFibUNWN1pGSXBsQk1XRFQtWUM2azNHamhtU05fa1hUSWtwTXZhNEFmbjhkZktzMG42UW5DVVU2MTJrcGdHc1JGWnpBcWxzdDVsV19DUjhCVHh30gHGAUFVX3lxTE9ROFY3Xzh5SWkxeTM4MldnQy1DTnQ3WTloMi04Ml9RSUoza3VJSHptUzBXdjczY2MzUUJkSVpKU2hSWUw5VUFfV09CTExPN3NaZ0x3TVVQNmNocGp4M1JPUlBQXzVvTWpKZlJPN1lSZlhzbUFqYnlzUmpaM3FYdUx2RUl4a3RWNklqMHBoc0pNZVZpTFJtdmN1MWZoNVhBUXVxcnNqekItSEh5RTY2TFRVWWtYNTVhR012d1JBRnB5Q3Nqa2VlQQ?oc=5",
+"f": "NDTV",
+"s": "ndtv.com",
+"i": "",
+"d": "2026-11-12T05:54-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "AI Startup Pays Humans $45 An Hour To Babysit Robots On Night Shifts",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "NDTV"
+},
+{
+"id": "286be3bb083b3b",
+"t": "\"Robô assistente humanóide\" preenche a escassez de mão de obra em locais de cuidados de enfermagem, com tecnologia de ponta para monitorar usuários remotamente",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQ3kxNjVWaTJVV2tpQ0poY0k0M0ZjTFVaU0dlR2x0RDVWZDVDUmJCUXlNNEV6ZkV6M3VlY1Z1VUkyU2RRb3F6eVhCOGs4UXpCUkowYzRUalZzTV9zTTdHSUxaMWtCVTZkbEE?oc=5",
+"f": "ITmedia",
+"s": "itmedia.co.jp",
+"i": "",
+"d": "2026-11-12T05:30-03:00",
+"c": [
 "humanoides"
 ],
 "l": 0,
-"to": "软银领投 Agile Robots 公司 5 亿美元融资，加码人形机器人规模化生产",
-"lg": "zh",
+"to": "介護現場の人手不足を補う「ヒト型助手ロボット」 遠隔で利用者見守る最新テクノロジーも",
+"lg": "ja",
 "p": 3.0,
 "cr": 2,
-"cv": "IT之家 (IThome)"
+"cv": "ITmedia"
 },
 {
 "id": "1b6f75851fd22e",
@@ -842,6 +1059,82 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ETNews"
+},
+{
+"id": "28dfd21a7a8b39",
+"t": "O Provedor de Justiça Intercalar e a cidade de Daegu cooperam na inovação regulamentar para empresas locais... Promover a melhoria das regulamentações para novas indústrias, como IA e robôs",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZaWl6UERtT05qZmh0aFR0cmR4MGFDR1NyTDI2T3kzVE85NjE0cDlqMUlRa3dIOW5pbGQzZGhNa3ZDYzVJUzN3eW5QNUh2UQ?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-12T04:37-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "중기 옴부즈만·대구시, 지역기업 규제혁신 협력…AI·로봇 등 신산업 규제 개선 추진",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
+"id": "723ea7d277248f",
+"t": "Durante a Black Friday 2026, este aspirador robô Mova de 5 estrelas custa 469€",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdmYlFDSDRQLXRyQi1jeVQ1ZW5oQ205N1VmQkt2QnlPOURpcnVZbEQ4UFB4MWpVSndCTEoxXzJTa01ZQ25jNFFjbDZSbXlDay1tdEFkaS1qSW5UUkMyN1Y2dVZFeGVtTHU1NHVZQzRoQkwzQTNVOUI5VXZ6djJVbjh3cWMxNE5sejdDRFE2Mlh0cW1hVVBBUEJZb29hdkItUTVBNWlYbVpnZGNuM1c3ODA2djRBMFVnX1BVMDN0ZU9tRzJzTktBQ01HcVdtS0E?oc=5",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-12T05:13-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Pendant le Black Friday 2026, cet aspirateur robot Mova 5 étoiles passe à 469 €",
+"lg": "fr",
+"p": 2.2,
+"cr": 2,
+"cv": "Les Numériques"
+},
+{
+"id": "593aaffb705890",
+"t": "Ring Robotics: drone com câmera monitora apartamentos de forma autônoma durante o vôo",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUNhSUNkQXA1MVdpRFZ6SHhRaFhUTGpGaVVlODJWVW1lQ25qVU8zMEQwa3VzZHo5NjE4UjlUY21YM0pPZ0xaekk1UVNqekJHb1d2Z1JYMmxxdWNHajZUTUVudkVONUtqR3hnQW1ubmxZZjJEa3pOUFNNOG1sSm1MeUJTV1hBdlp5eFBUQ0pCNjRMd1hiWW9qTjBUZE5qY294M21PWWNYOA?oc=5",
+"f": "heise online",
+"s": "heise.de",
+"i": "",
+"d": "2026-11-12T05:37-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ring Robotics: Kamera-Drohne überwacht Wohnungen autonom im Flug",
+"lg": "de",
+"p": 2.2,
+"cr": 2,
+"cv": "heise online"
+},
+{
+"id": "ed2ed46ff308fd",
+"t": "A bolha do robô desinflou no antigo mercado de ações",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5NERjZ0FXX1lWREpkWkVyVUx2NTNyb0ZLcU9sRFhSam5UTWVkS0RNdFY5enRhUHhBdFF0MkFJbjZkQWFXZlBpdDJnVHhDd1dx?oc=5",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-12T06:15-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "机器人泡沫在老股市场漏了气",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr"
 }
 ],
 "2026-11-11": [
@@ -861,7 +1154,7 @@
 "to": "'2026 로보월드 특집호' 지면보기",
 "lg": "ko",
 "esp": 1,
-"p": 15.8,
+"p": 17.3,
 "mx": 3,
 "cr": 3,
 "cv": "Robot Newspaper",
@@ -907,6 +1200,12 @@
 "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZlNHX1l0SGkyZUR2azdLNXVZem5fbWlRcXgtOFFYV2ZGNzZwMXFYYndwMTd6b3FpMXNCNWJYRVgza0VUOGkwZHF4OERfaHBoWFdaeG9vX1Z4dw?oc=5",
 "s": "money.udn.com",
 "id": "3c19661a61da99"
+},
+{
+"f": "UDN",
+"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTWZKNXBUZVRlVll1VTZXSzQyU3dRRjB1MHZxaEtWcHZaaWRXeUpXN25Sd3hxU3F4OG5OeVdUUVYxMnV2WnNRMVBSeHRvTk1V0gFWQVVfeXFMTm1KX3hBMHg5SW5tbTNmRzEwQ3lhanEzVUN0R1NkaDZRcUp5V0VWNmJjOXhKMGpvU0pwT2NvQWFOS3lINGlKbFR6aWkzRUJoQnVxRzZaZlE?oc=5",
+"s": "udn.com",
+"id": "9c580fed800821"
 }
 ]
 },
@@ -1097,7 +1396,7 @@
 "p": 10.3,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"gx": 2
+"gx": 3
 },
 {
 "id": "75efaa37d99acb",
@@ -1120,7 +1419,7 @@
 ],
 "cr": 3,
 "cv": "Business Insider",
-"gx": 2
+"gx": 3
 },
 {
 "id": "9cfe4e82e752da",
@@ -1141,7 +1440,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"gx": 2
+"gx": 3
 },
 {
 "id": "85d1a23f7adee4",
@@ -1209,7 +1508,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "Corriere della Sera",
-"gx": 2
+"gx": 3
 },
 {
 "id": "1fc9eda07eb208",
@@ -1229,7 +1528,7 @@
 "p": 9.0,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"gx": 2
+"gx": 3
 },
 {
 "id": "b08df89588f70e",
@@ -1283,7 +1582,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Gadgets 360",
-"gx": 2
+"gx": 3
 },
 {
 "id": "75c8847df82c5d",
@@ -1303,7 +1602,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"gx": 2
+"gx": 3
 },
 {
 "id": "7094a762c768b3",
@@ -1323,7 +1622,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "ZDNet Korea",
-"gx": 2
+"gx": 3
 },
 {
 "id": "60d2cec98ad580",
@@ -1343,7 +1642,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Les Numériques",
-"gx": 2
+"gx": 3
 },
 {
 "id": "e68e600d87e5f2",
@@ -1364,7 +1663,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "TechRepublic",
-"gx": 2
+"gx": 3
 },
 {
 "id": "bf2d7d722c9758",
@@ -1384,7 +1683,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "Impress Watch",
-"gx": 2
+"gx": 3
 },
 {
 "id": "d6e9aa021631ee",
@@ -3717,6 +4016,25 @@
 "cv": "A3 — Association for Advancing Automation"
 },
 {
+"id": "11bac114671b99",
+"t": "Drones implantados para rastrear movimento de crocodilos em Jajpur",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdWtDS2U4WVhfeGhMcGxHdDZ4U0k1QmI2WWZJS1pVdnFZY3ZaWVBxVFlxVGRLTjJlM1hjRTlQSmRVMU05V1FyQXdxcjhlOVNDRUR2a0tvLVJpZDZoLXhqWUNnYUZvakhHREZNdnRMekJlNzAxRkFDVmdneWQ2UE1memtvdGVuTjFWMkZqdDhVODhDZFlSaFJrMUdmSXYwcGdya2x4MzdfZGhUbl9QNDBwME1IRHZSN05iY01tNm9Zemg0WExLQU9KeTY0M1bSAdIBQVVfeXFMTU9BWEZtV1dUcUdqNHZtZkYyekxCNWcxeDN3WURuWWFMSm50dXVfNjRWamo4NVNORU5Hdk5xVmxsZndDbWZEeUp6TERMb0J2VVFENkRNX1VkUFdneDlJcDN5OWhUVERwNVFBbzdzeTJqa0dleFF3U08ySjVFRjFqUG41QndYa3RLOEFRVWRJTTRtMEZrdzAxMUJtOFNRbk9ELVV2RHY0bEJweTl1Z0ZyOW5PcWstQTZfYWIwcTRzNTAyd285alNEbFdWU0o5cm5GSVVB?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-11T15:16-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drones deployed to track crocodile movement in Jajpur",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
+},
+{
 "id": "0b3a79f2751a0f",
 "t": "Projeto de lei Robotaxi parece morto ao chegar ao comitê do Conselho de D.C.",
 "r": "",
@@ -4449,6 +4767,25 @@
 "cv": "TechCrunch"
 },
 {
+"id": "50c91e274210ac",
+"t": "Uma empresa \"penny stock\" com HKD 0,66 quer gastar 70 milhões para comprar robôs da Ubisoft?",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoM21mZlVzUF9CYWxPbG1FOVBWRnpwZlRGZjV0R3JYdUxSTGFjb3RtMElFeTdmLVRYaVRQRV91U3BFWFh0RENPa0JFNFA5Zw?oc=5",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-11T13:16-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "0.66港元的“仙股”公司，要砸七千万买优必选机器人？",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr"
+},
+{
 "id": "54a7f8c73f5f6e",
 "t": "Para sistemas solares ou espelhos telescópicos: robôs constroem estruturas no espaço de forma autônoma",
 "r": "",
@@ -4756,7 +5093,7 @@
 ],
 "cr": 3,
 "cv": "Yonhap",
-"gx": 2,
+"gx": 3,
 "cur": 1
 },
 {
@@ -4820,7 +5157,7 @@
 ],
 "cr": 3,
 "cv": "CNA (Singapura)",
-"gx": 2
+"gx": 3
 },
 {
 "id": "38461357fffa54",
@@ -4854,7 +5191,7 @@
 ],
 "cr": 3,
 "cv": "The Telegraph",
-"gx": 2
+"gx": 3
 },
 {
 "id": "a23273a3baec60",
@@ -4903,7 +5240,7 @@
 ],
 "cr": 3,
 "cv": "NBC News",
-"gx": 2
+"gx": 3
 },
 {
 "id": "661f340c132f6a",
@@ -5168,6 +5505,26 @@
 "cv": "ZDNET"
 },
 {
+"id": "934cf7c05688b5",
+"t": "Insights da indústria: LG anuncia um display humanóide na CES",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTd5VUFaQkZLbVpObm1HWVpva1ZLVHpNOGZ3RnpXWXIzUkxXSUM4TFhMQ3NlX0NYSXRBOThReXVFMDFuU3hBNC13WE41V01KOUNQOWhyc2ZzQnVqVjFOM0NJem1LdmlOVmVnVlRtMU9qMXNaOS1SSGhBX1MwOXFqUFJsTEthUUVRVHRJR2YyOTdkRGlENkhzN3VnYmdZdw?oc=5",
+"f": "A3 Association for Advancing Automation",
+"s": "automate.org",
+"i": "",
+"d": "2026-11-10T17:19-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 1,
+"to": "Industry Insights: LG Announcing a Humanoid Display at CES",
+"lg": "en",
+"p": 10.3,
+"cr": 3,
+"cv": "A3 — Association for Advancing Automation"
+},
+{
 "id": "123781d80fdd18",
 "t": "Comunicado à imprensa: LexxPluss revela o humanóide industrial real “LexxMoMa R1” pela primeira vez em uma exposição de demonstração na Aichi Sky Expo em Nagoya a partir de 25 de novembro (PR TIMES)",
 "r": "",
@@ -5267,6 +5624,29 @@
 "cr": 3,
 "cv": "Chosun Ilbo",
 "gx": 1
+},
+{
+"id": "491870206040db",
+"t": "Ring revela drone de segurança residencial e robô de patrulha comercial",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnlNTlZhaUI5aVFFb1FkeVN1eFJ5OF9aclR6UHhRZU1ZSmU0UmlfWVU3RHZ1Vjg2bzU2Qml5NmRsSHhpbjVqa3MtcUZVMjE2bHJVVmZFbGk4TUNselhGUXdhMmxDUlZGSjNVUFZYM1J3TTBuSmFldl85N0dlcDN4akM2eF9DQWFIYzdjekRhWDZaWVhz?oc=5",
+"f": "NBC News",
+"s": "nbcnews.com",
+"i": "",
+"d": "2026-11-10T10:43-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 1,
+"to": "Ring unveils home security drone and business patrol robot",
+"lg": "en",
+"p": 9.5,
+"xid": [
+"dd3873f5ca322f"
+],
+"cr": 3,
+"cv": "NBC News"
 },
 {
 "id": "5216fd5a623b50",
@@ -7687,6 +8067,26 @@
 "cv": "Futura Sciences"
 },
 {
+"id": "e84d4720ccafc1",
+"t": "Quanto trabalho os robôs realmente entregam? O pensamento por trás do trabalho",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0JTY2N1RU9CYXJMWFJ5WldyYVNLN2FhQVN3RzlESVpqV2NYNVdwTWZpbGhqZ1lsUFB6ZGh5YnV5a1VMU0RyeHl3Q1JMSm1oUmNFZHNrOWxWeFpXZEJkcWs1Nk9POWhQa1pmaVZZNzR0eXgxUE0tc05yR3ZfakthY1BrRXhvUXk5cE5uUG1ZbF9oYVFUeHhXeGxPT3dSYmxvYTB6S21vc3hEOUFsUVN4S3ZjWkVDdHVwX2J6QjdpYw?oc=5",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "",
+"d": "2026-11-10T11:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "How Much Work Do Robots Really Deliver? The Thinking Behind Worken",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"cur": 1
+},
+{
 "id": "21b89c17efb7b4",
 "t": "Insights do setor: Hasbro AI Studio faz parceria com Boston Dynamics Spinout para robôs licenciados",
 "r": "",
@@ -9376,6 +9776,25 @@
 "cv": "Les Numériques"
 },
 {
+"id": "0fc37f33d7eb7f",
+"t": "Top 5: Anker, Samsung, Roborock... as melhores ofertas de 10/11/2026",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0pJc1R1LUdwdDlwcXdZeHY0aWlsSFI2cEtENmU1cTJsODJWckNQTmZQUkx3YWw0OEQwSmtZeUZ6dGsxbFBKTHZGUnlHS0xJcGw5N1FOVDVuMTRXUXJGVHVIWlNCZmdRM2M0RndlalpKZUFKN19uUnBpdHhCbXNqU2t1dmpvZjMxUGwwakszQy1JaThrR0ROR1FZbGduNjdYV2I2bGY2RkcwbEU2RU5RTnNDcS1CSDhKNVpKQw?oc=5",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-10T12:45-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Top 5 : Anker, Samsung, Roborock... les meilleurs bons plans du 10/11/2026",
+"lg": "fr",
+"p": 2.2,
+"cr": 2,
+"cv": "Les Numériques"
+},
+{
 "id": "842e442b5447c4",
 "t": "Roborock não quer mais que você limpe: ofertas da Black Friday em até 56%",
 "r": "",
@@ -9624,7 +10043,7 @@
 "l": 0,
 "to": "2026桃園國際新創機器人節圓滿閉幕陸空無人載具接軌產業- 商情",
 "lg": "en",
-"p": 16.1,
+"p": 17.6,
 "esp": 1,
 "cr": 3,
 "cv": "Robot Newspaper",
@@ -9670,6 +10089,12 @@
 "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXNzYnI4ZjlCYktmMDFFWU82WEs4TF9JU0ZwbVJDS1cyd0ZTekRrc1l5MGhDbFE1RHgtMlRxUkdlbi1lM2R4Y0pVaEg4Q0NGZHBWVklNTEVzb1dQQWFZZmQ2b3hpelA3Z1ZoMkFUbUZHM2NoLTNVMXRDeEhTWW5tU3Q3Tk5iWkdTbS1WeFN5VW9kZEVrQ2ZGeVlHOWx3Uk5LYl9GS29iVlRGSkRIZ25jclFPMzJ6ZUptQ0M5LUcwbw?oc=5",
 "s": "xtech.nikkei.com",
 "id": "0f46d7e5658df3"
+},
+{
+"f": "IT동아",
+"u": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02bkx0NWFvQmwtSEdwNnJJRHdjdGF5WWNWYVl5cFZXelBIQnJnbWJiZzhEZFBzWkJzUHpjZnhaLWd3UQ?oc=5",
+"s": "it.donga.com",
+"id": "8c6e8b0a5dc869"
 }
 ]
 },
@@ -10776,6 +11201,25 @@
 "cv": "Nikkei Asia"
 },
 {
+"id": "fab9a33ebfbf6e",
+"t": "[Nikkei Robotics] Compra on-line de peças para humanóides Fictiv, uma subsidiária da Misumi, oferece suporte para tudo, desde protótipos até produção em massa",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qREI1LU5vRG14ZGx0Q0dmVDRVUVRmaW9uOVljeEVGak1sUnU2MnRvVG0xT0NfcS10UkxOT3N4TEtHbjJSQnhiUmwyRUpyTGgyaGRVeHRXVVM2Xzd3blBqXzdjUjBXN0Zf?oc=5",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "",
+"d": "2026-11-09T17:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "《日経Robotics》ヒューマノイド向け部品をオンライン調達 ミスミ傘下のFictiv、試作から量産まで対応",
+"lg": "ja",
+"p": 4.3,
+"cr": 3,
+"cv": "Nikkei Asia"
+},
+{
 "id": "42173ac92ca3ca",
 "t": "Induções no Toy Hall of Fame + Cachorro-robô à espreita + Código de bloqueio decifrado",
 "r": "",
@@ -11654,6 +12098,25 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Robotics & Automation News"
+},
+{
+"id": "b866def585a744",
+"t": "Tomada rápida: Robôs vs. Humanos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDU2N2oxY0ZFWTM4YzJxMl8zejEtR0ZueU9FRlZNeG5oNlpDRTZUNzdpZmFmLUpfUUpiSWRpbmxrajJOTHFkbW90N2NzLW44aHdvOFlxUllzNUJlR044bTVIWUV2U09UdDhzUzM5Z0FKSUhrVjU4RDNNaFpXTG1Hc1pwSmI?oc=5",
+"f": "Automation World",
+"s": "automationworld.com",
+"i": "",
+"d": "2026-11-09T14:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Quick Take: Robots v. Humans",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Automation World"
 },
 {
 "id": "c72ed616d3552b",
@@ -15265,6 +15728,25 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Globe and Mail"
+},
+{
+"id": "c9370a5524a567",
+"t": "Preocupações dos eleitores de Yuma, dia da eleição em San Luis e robótica de Somerton: Arizona Edition",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmRkQjJpTWpaN0dOb3BHSmJzcFpBbERUMWZlS3BaSFpGVXlYOFpoeklBMjVhU1pSdW0xU01UUDVvMkotYV9JZ0dNdnU5VzBsTTdyS3Ezd1JOQ2ZHQ1JWRzdwWnVtdnBfQ0pJUndQQ09IS0JmSG1XRUE3Y0VKcWlNd1RVRVEtTVlBVXJfblZ3YUYtSDRBa2FBSnVicmJ0YldOUXB0TDhjZHVhRzNWalZ5WHNLZkxURmJTM19WR2I1T1BNMENHSjRyd08wTzlDd19aUURtX1VTOGFGYTgt?oc=5",
+"f": "NPR",
+"s": "npr.org",
+"i": "",
+"d": "2026-11-07T20:06-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Yuma voter concerns, Election Day in San Luis and Somerton robotics : Arizona Edition",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "NPR"
 },
 {
 "id": "16879b4aac88c9",
@@ -18995,7 +19477,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "The Economist",
-"mx": 2
+"mx": 3
 }
 ],
 "2026-11-03": [
