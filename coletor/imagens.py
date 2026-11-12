@@ -48,6 +48,21 @@ CATEGORIAS = {
     "cat:ia": "artificial intelligence robot",
     "cat:negocios": "robotics factory automation",
     "cat:geral": "robot",
+    "cat:cobots": "collaborative robot",
+    "cat:logistica": "warehouse robot",
+    "cat:entrega": "delivery robot",
+    "cat:servico": "restaurant robot",
+    "cat:companhia": "social robot",
+    "cat:exoesqueletos": "exoskeleton",
+    "cat:agricolas": "agricultural robot",
+    "cat:construcao": "construction robot",
+    "cat:inspecao": "inspection robot",
+    "cat:defesa": "military robot",
+    "cat:resgate": "rescue robot",
+    "cat:subaquaticos": "underwater robot",
+    "cat:microrrobos": "soft robot",
+    "cat:educacao": "educational robot",
+    "cat:competicoes": "robot competition",
 }
 
 HISTORIA = {

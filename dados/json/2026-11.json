@@ -18,7 +18,7 @@
 "esp": 1,
 "p": 12.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "afae8972c353dd",
@@ -38,7 +38,7 @@
 "esp": 1,
 "p": 11.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "7b4626b60015ee",
@@ -50,7 +50,8 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/serve-robotics-doordash-australia-1.jpg",
 "d": "2026-11-11T19:17-03:00",
 "c": [
-"casa"
+"entrega",
+"servico"
 ],
 "l": 1,
 "to": "Serve Robotics expands beyond US with DoorDash robot delivery launch in Australia",
@@ -110,7 +111,7 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/cainao-cemat-asia-2.jpg",
 "d": "2026-11-11T21:33-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 1,
 "to": "Cainiao introduces upgraded climbing robot with four-side retrieval and denser storage",
@@ -130,7 +131,8 @@
 "i": "https://dronelife.com/wp-content/uploads/2026/11/download-1-1-e1794413200422.jpeg",
 "d": "2026-11-11T13:07-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 1,
 "to": "Ring Launches Ring Robotics With Indoor Ring Drone Cam",
@@ -168,7 +170,7 @@
 "i": "https://www.therobotreport.com/wp-content/uploads/2026/11/serve-map-copy.jpg",
 "d": "2026-11-11T10:43-03:00",
 "c": [
-"casa"
+"entrega"
 ],
 "l": 0,
 "to": "Serve Robotics opens robot delivery network for others to build on",
@@ -224,7 +226,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "a4c43d75e99b8f",
@@ -237,7 +239,8 @@
 "d": "2026-11-11T10:11-03:00",
 "c": [
 "humanoides",
-"industriais"
+"industriais",
+"logistica"
 ],
 "l": 0,
 "to": "독일, 1만 3000㎡ 규모 휴머노이드 로봇 실증센터 구축 추진",
@@ -245,7 +248,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "fd36258784cd9d",
@@ -257,7 +260,8 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49527_105592_1757.jpg",
 "d": "2026-11-11T10:19-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"competicoes"
 ],
 "l": 0,
 "to": "일본 ‘제 1회 휴머노이드 로봇 엑스포’, 11일 개막...13일까지 사흘간 열려",
@@ -265,7 +269,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "1b3461adb94e70",
@@ -286,7 +290,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "101f708ccfb3ca",
@@ -307,7 +311,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "a36648563787a1",
@@ -328,7 +332,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "df89ef03fd9303",
@@ -340,7 +344,7 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/inspired-by-elephant-t.jpg",
 "d": "2026-11-11T07:00-03:00",
 "c": [
-"ia"
+"microrrobos"
 ],
 "l": 0,
 "to": "Inspired by elephant trunks, shape-shifting robots bend, grab and team up",
@@ -360,7 +364,7 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49516_105587_4445.jpg",
 "d": "2026-11-11T07:03-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "피지컬 AI 시대 이끌 로봇 인재, 대구에 모인다",
@@ -368,7 +372,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "4780fdf95517ea",
@@ -410,7 +414,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "b807ff77de5270",
@@ -442,7 +446,9 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49530_105598_3134.jpg",
 "d": "2026-11-11T11:04-03:00",
 "c": [
-"negocios"
+"negocios",
+"competicoes",
+"inspecao"
 ],
 "l": 0,
 "to": "도구로보틱스, 대만 글로벌 스타트업 경진대회 ‘TiBOOST’ 3위 수상",
@@ -450,7 +456,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "f3603d33978eb1",
@@ -462,7 +468,8 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-form-of-memory-h.jpg",
 "d": "2026-11-11T12:40-03:00",
 "c": [
-"industriais"
+"industriais",
+"casa"
 ],
 "l": 0,
 "to": "Robots gain 'muscle memory' for planning their next moves in milliseconds",
@@ -510,7 +517,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "91440b6e3d74bc",
@@ -522,7 +529,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/massrobotics-featured.jpg",
 "d": "2026-11-11T16:38-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "How AMR interoperability went from a MassRobotics working group to a global standard",
@@ -542,7 +549,7 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Horkos-machine-meltio.png",
 "d": "2026-11-11T17:34-03:00",
 "c": [
-"geral"
+"inspecao"
 ],
 "l": 0,
 "to": "Horkos integrates Meltio metal 3D printing technology into new hybrid machining system",
@@ -582,7 +589,9 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Bureau-Veritas-Nolvis-1.jpg",
 "d": "2026-11-11T17:54-03:00",
 "c": [
-"drones"
+"inspecao",
+"drones",
+"subaquaticos"
 ],
 "l": 0,
 "to": "Bureau Veritas adopts Nolvis X1 drones for safer ship and offshore inspections",
@@ -623,7 +632,8 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/zipline-sound-dissipation.png",
 "d": "2026-11-11T18:57-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 0,
 "to": "Zipline makes drone deliveries quieter with real-time acoustic flight optimization",
@@ -663,7 +673,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/MD-Trey-and-HD-Trey-1200x0-1-1024x683.jpg",
 "d": "2026-11-11T19:13-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "TREY forklift from Gideon autonomously loads and unloads trailers",
@@ -683,7 +693,7 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/niqo-weeder-2.jpeg",
 "d": "2026-11-11T20:03-03:00",
 "c": [
-"ia"
+"agricolas"
 ],
 "l": 0,
 "to": "Niqo Robotics unveils 50-foot AI weeder for large specialty crop farms",
@@ -753,7 +763,7 @@
 "p": 5.3,
 "mx": 3,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "386e723df86328",
@@ -765,7 +775,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/skyways-shell-drone-offshore-gulf.jpg?quality=82&strip=all&w=1350",
 "d": "2026-11-11T04:03-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 0,
 "to": "Skyways wins first-of-its-kind FAA approval for long-range offshore drone flights",
@@ -803,7 +814,9 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/Drone-delivery-UK-airspace-shared.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-11T05:01-03:00",
 "c": [
-"drones"
+"drones",
+"resgate",
+"entrega"
 ],
 "l": 0,
 "to": "UK shared airspace project brings delivery and emergency drones together",
@@ -822,7 +835,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/amazon-prime-air-drone-delivery-uk-sail-4.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-11T05:07-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 0,
 "to": "Amazon secures landmark drone delivery approval in the UK",
@@ -879,6 +893,7 @@
 "i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/MOB-Dusk-Drone-Mesh-Overwatch-1024x576-1.jpg?fit=1024%2C576&ssl=1",
 "d": "2026-11-11T07:41-03:00",
 "c": [
+"inspecao",
 "negocios",
 "drones"
 ],
@@ -918,7 +933,8 @@
 "i": "https://dronelife.com/wp-content/uploads/2026/11/Brecourt-Solutions-Indoor-Drone-as-First-Responder-iDFR™-e1794414341628.jpeg",
 "d": "2026-11-11T13:26-03:00",
 "c": [
-"drones"
+"drones",
+"educacao"
 ],
 "l": 0,
 "to": "Can a Drone Stop an Active Shooter? Brecourt Solutions Thinks So",
@@ -937,7 +953,7 @@
 "i": "",
 "d": "2026-11-11T10:39-03:00",
 "c": [
-"casa"
+"servico"
 ],
 "l": 0,
 "to": "Made in India Robots, Built for the World: Kody Robots Carries Indian Robotics Innovation to NRF 2027",
@@ -958,7 +974,8 @@
 "i": "",
 "d": "2026-11-11T11:09-03:00",
 "c": [
-"negocios"
+"negocios",
+"defesa"
 ],
 "l": 0,
 "to": "Tronix3D Investss $4 Million to Expand its Pittsburgh Operations, Creating 47 New Jobs",
@@ -979,7 +996,8 @@
 "i": "",
 "d": "2026-11-11T13:00-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"defesa"
 ],
 "l": 0,
 "to": "Humanoid robot start-up backed by Eric Trump in talks with Israel’s military",
@@ -1019,7 +1037,8 @@
 "d": "2026-11-11T18:43-03:00",
 "c": [
 "quadrupedes",
-"casa"
+"inspecao",
+"entrega"
 ],
 "l": 0,
 "to": "ANYbotics begins deliveries of explosion-proof quadruped robot to industrial customers",
@@ -1047,6 +1066,25 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Robotics & Automation News"
+},
+{
+"id": "e6e83bffa53e86",
+"t": "Intel: Robótica é um foco estratégico chave no futuro",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-11T08:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Intel: Robotics Is A Key Strategic Focus Going Forward",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Forbes"
 },
 {
 "id": "0b3a79f2751a0f",
@@ -1085,25 +1123,6 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Robotics & Automation News"
-},
-{
-"id": "e6e83bffa53e86",
-"t": "Intel: Robótica é um foco estratégico chave no futuro",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
-"f": "Forbes",
-"s": "forbes.com",
-"i": "",
-"d": "2026-11-11T08:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Intel: Robotics Is A Key Strategic Focus Going Forward",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Forbes"
 }
 ],
 "2026-11-10": [
@@ -1125,7 +1144,7 @@
 "esp": 1,
 "p": 12.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "3ea9f9750e5f4b",
@@ -1146,7 +1165,7 @@
 "esp": 1,
 "p": 12.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "fe2b0864a0ea9b",
@@ -1166,7 +1185,7 @@
 "esp": 1,
 "p": 11.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "8b1dc45a5c99e6",
@@ -1221,7 +1240,8 @@
 "i": "https://dronelife.com/wp-content/uploads/2026/11/image-e1794321815420.jpeg",
 "d": "2026-11-10T11:44-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 1,
 "to": "Wing and Walmart Launch Drone Delivery in Memphis",
@@ -1282,7 +1302,9 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200",
 "d": "2026-11-10T10:30-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao",
+"logistica"
 ],
 "l": 1,
 "to": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
@@ -1303,6 +1325,7 @@
 "d": "2026-11-10T10:30-03:00",
 "c": [
 "drones",
+"inspecao",
 "espaco"
 ],
 "l": 1,
@@ -1323,7 +1346,8 @@
 "i": "",
 "d": "2026-11-10T10:30-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 1,
 "to": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
@@ -1342,7 +1366,7 @@
 "i": "",
 "d": "2026-11-10T14:12-03:00",
 "c": [
-"geral"
+"defesa"
 ],
 "l": 1,
 "to": "Photos: Renault unveils electric military robot vehicle with 249-mile range",
@@ -1381,7 +1405,9 @@
 "i": "https://www.therobotreport.com/wp-content/uploads/2026/11/Intel_Altera.jpg",
 "d": "2026-11-10T10:12-03:00",
 "c": [
-"ia"
+"ia",
+"medicina",
+"defesa"
 ],
 "l": 0,
 "to": "Intel and Altera Simplify Sensor Integration for Edge and Physical AI",
@@ -1418,7 +1444,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "6db421d8aa85fc",
@@ -1431,6 +1457,7 @@
 "d": "2026-11-10T09:01-03:00",
 "c": [
 "humanoides",
+"inspecao",
 "industriais"
 ],
 "l": 0,
@@ -1501,7 +1528,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "56d6e67ea4d59b",
@@ -1534,7 +1561,7 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49514_105584_4211.png",
 "d": "2026-11-10T20:43-03:00",
 "c": [
-"industriais",
+"logistica",
 "humanoides"
 ],
 "l": 0,
@@ -1543,7 +1570,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "0f7da6f7f4f009",
@@ -1602,7 +1629,10 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49491_105559_616.jpg",
 "d": "2026-11-10T06:34-03:00",
 "c": [
-"ia"
+"ia",
+"cobots",
+"defesa",
+"educacao"
 ],
 "l": 0,
 "to": "대경대학교와 영현로보틱스, 피지컬 AI·바이오 공동 기술개발 협약 체결",
@@ -1610,7 +1640,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "efefb7d6188d99",
@@ -1630,7 +1660,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "fb388a33e1ed7a",
@@ -1642,7 +1672,8 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49497_105570_350.png",
 "d": "2026-11-10T08:36-03:00",
 "c": [
-"casa"
+"competicoes",
+"servico"
 ],
 "l": 0,
 "to": "바카티오, CES 2027 로보틱스 부문 혁신상 수상",
@@ -1650,7 +1681,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "9e5605d7b06075",
@@ -1670,7 +1701,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "cc04cf8b917446",
@@ -1682,7 +1713,8 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49503_105574_5342.jpg",
 "d": "2026-11-10T08:54-03:00",
 "c": [
-"industriais"
+"logistica",
+"cobots"
 ],
 "l": 0,
 "to": "伊 조이텍·덴마크 카소 로봇 등, AMR코봇 기반 자동키팅시스템 개발",
@@ -1690,7 +1722,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "08972765c548d2",
@@ -1782,7 +1814,8 @@
 "i": "https://www.therobotreport.com/wp-content/uploads/2026/11/pexels-freek-wolsink-508219-34207359-copy.jpg",
 "d": "2026-11-10T13:13-03:00",
 "c": [
-"industriais"
+"industriais",
+"logistica"
 ],
 "l": 0,
 "to": "Why predictive maintenance matters more as factories add robots",
@@ -1822,7 +1855,10 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49504_105578_5832.jpg",
 "d": "2026-11-10T15:48-03:00",
 "c": [
-"casa"
+"competicoes",
+"industriais",
+"servico",
+"companhia"
 ],
 "l": 0,
 "to": "브릴스, 현대차·기아 ‘바디감성 컨퍼런스’서 피지컬 AI 안전관제·방범 로봇 시연",
@@ -1830,7 +1866,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "02da499ce656d3",
@@ -1850,7 +1886,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "93e11b3528fefb",
@@ -1871,7 +1907,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "ebb571f10bf82d",
@@ -1883,7 +1919,7 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49512_105583_2237.png",
 "d": "2026-11-10T20:23-03:00",
 "c": [
-"negocios"
+"educacao"
 ],
 "l": 0,
 "to": "ISO AI경영시스템 국제심사원 마에스트로 1급 자격 과정 최초 개설",
@@ -1891,7 +1927,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "d1b1d3a0940a84",
@@ -1911,7 +1947,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "97a9be94e61c8f",
@@ -1965,6 +2001,7 @@
 "d": "2026-11-10T04:52-03:00",
 "c": [
 "negocios",
+"defesa",
 "drones"
 ],
 "l": 0,
@@ -2003,8 +2040,9 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/05/Matternet-drone-delivery-Amprius-battery.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-10T07:36-03:00",
 "c": [
+"medicina",
 "drones",
-"medicina"
+"entrega"
 ],
 "l": 0,
 "to": "Matternet and Swisslog Healthcare team up to bring drone delivery to hospitals",
@@ -2061,7 +2099,9 @@
 "i": "https://dronelife.com/wp-content/uploads/2026/11/manna-air-delivery-web-e1794321668475.jpg",
 "d": "2026-11-10T11:41-03:00",
 "c": [
-"drones"
+"resgate",
+"drones",
+"entrega"
 ],
 "l": 0,
 "to": "ANRA, Wing, Manna and Lancashire Fire Demonstrate Shared Airspace Operations in UK",
@@ -2121,6 +2161,7 @@
 "c": [
 "negocios",
 "drones",
+"defesa",
 "industriais"
 ],
 "l": 0,
@@ -2140,7 +2181,7 @@
 "i": "",
 "d": "2026-11-10T09:56-03:00",
 "c": [
-"industriais",
+"logistica",
 "drones"
 ],
 "l": 0,
@@ -2218,6 +2259,26 @@
 "cv": "Robotics Tomorrow"
 },
 {
+"id": "16d22e859a48ef",
+"t": "Robot Trash Talk no Web Summit enquanto Agibot disses Tesla, Figure, Unitree",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmFaZE4zejJobWhvWjNtRlk4cFA4d1draThINm1rWndvMEhmYnRaY3JSRThyMFdVMzFqVk1ZTzFRR09VRDJHdmJuSXc3ZE1sbDNWQkg3SFdabWp6aVVRMFNxY3JPcjkwc2FESDBDX0lJSERzcUFpZ3pEcW1lWXNPWlFwcVpMLWIyOFEyRGp6djZ0U2ZzMDFYdExGdTROS3AxSzJhMXFDZTJlb01lNzF4RWVyTVotMHFSTWpvZGNxbw?oc=5",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-10T05:29-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Robot Trash Talk At Web Summit As Agibot Disses Tesla, Figure, Unitree",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "Forbes"
+},
+{
 "id": "a14c7eeb1a0c0a",
 "t": "Robô humanóide enfrenta ultramaratona antártica… e falha",
 "r": "",
@@ -2227,7 +2288,8 @@
 "i": "",
 "d": "2026-11-10T07:30-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"competicoes"
 ],
 "l": 0,
 "to": "Humanoid robot takes on Antarctic ultra-marathon… and fails",
@@ -2235,6 +2297,25 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Al Jazeera"
+},
+{
+"id": "c554b12979d7bf",
+"t": "A empresa de robótica Figure AI está contratando um humano para cuidar de robôs humanóides durante a noite",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "",
+"d": "2026-11-10T07:52-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "Business Insider"
 },
 {
 "id": "6cab91b0fc6f54",
@@ -2314,6 +2395,25 @@
 "cv": "Interesting Engineering"
 },
 {
+"id": "f2bf07357b6d23",
+"t": "Procura-se: um humano disposto a cuidar de robôs no turno da noite",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY25teVN2VFR4SlQ3c2NCWnFURF9WSmJxZ2hoUktIVnhvSlFkSXZ3dUJZcGFuVVFKeUlWRG9NSXAwLVRPOEFNZERXR3N6QmpjbmhBOW1EaEFUTG9IdkhVTHdRU1p0aVdVSzRxQXJWd1YwQW5pRF93TThTNkpMQmpsSEVUZzdlVUU1LXA2NDEwSVlYeS11aHdBd2traXNHOE5DSTRiUEhqSHZLYWJ4RjM5bnp5ZHA?oc=5",
+"f": "Business Insider Africa",
+"s": "africa.businessinsider.com",
+"i": "",
+"d": "2026-11-10T07:52-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Wanted: A human willing to babysit robots on the graveyard shift",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Business Insider"
+},
+{
 "id": "72aea345939370",
 "t": "GenRobot AI levanta US$ 100 milhões para expandir a infraestrutura de dados de treinamento de robôs",
 "r": "",
@@ -2331,6 +2431,25 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Robotics & Automation News"
+},
+{
+"id": "279873050c69c9",
+"t": "Tesla diz “FSD privado apenas para Robotaxi”. Uma falha legal pode dizer por quê",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVF0d0hkMTdhRzRPcFk0Zm4zeUpKVlRXeXFweXlqalN4bTQza2Z5c0Z3SGU4eE44NmItd3loNmQ4UEVGcEJsbEVmQ193OGRUY1J4bHdTNmx1bXJZX2xlNzlCWjlJblp4WUI5R3haNUgxWEVTemtLRzNGOHJya2pMcGVGZWxHQTRhNktjSEh5dmRkblhXbU5aRWF2QnRnZGtSSFQ0TUV6ZEIzZG9PdDFNTEo3cFd4MFp0bGxsU0x3?oc=5",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-10T10:30-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla Says “Private FSD Only For Robotaxi.” A Legal Flaw May Say Why",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Forbes"
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -2391,44 +2510,6 @@
 "cv": "Axios"
 },
 {
-"id": "16d22e859a48ef",
-"t": "Robot Trash Talk no Web Summit enquanto Agibot disses Tesla, Figure, Unitree",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmFaZE4zejJobWhvWjNtRlk4cFA4d1draThINm1rWndvMEhmYnRaY3JSRThyMFdVMzFqVk1ZTzFRR09VRDJHdmJuSXc3ZE1sbDNWQkg3SFdabWp6aVVRMFNxY3JPcjkwc2FESDBDX0lJSERzcUFpZ3pEcW1lWXNPWlFwcVpMLWIyOFEyRGp6djZ0U2ZzMDFYdExGdTROS3AxSzJhMXFDZTJlb01lNzF4RWVyTVotMHFSTWpvZGNxbw?oc=5",
-"f": "Forbes",
-"s": "forbes.com",
-"i": "",
-"d": "2026-11-10T05:29-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Robot Trash Talk At Web Summit As Agibot Disses Tesla, Figure, Unitree",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "Forbes"
-},
-{
-"id": "c554b12979d7bf",
-"t": "A empresa de robótica Figure AI está contratando um humano para cuidar de robôs humanóides durante a noite",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "",
-"d": "2026-11-10T07:52-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "Business Insider"
-},
-{
 "id": "bb04829ffc1940",
 "t": "DeepMind lança Gemini Robotics 2.5 e também lança benchmark aberto “ASIMOV-Jailbreak” para verificar a segurança do robô",
 "r": "",
@@ -2446,44 +2527,6 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Ars Technica"
-},
-{
-"id": "f2bf07357b6d23",
-"t": "Procura-se: um humano disposto a cuidar de robôs no turno da noite",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY25teVN2VFR4SlQ3c2NCWnFURF9WSmJxZ2hoUktIVnhvSlFkSXZ3dUJZcGFuVVFKeUlWRG9NSXAwLVRPOEFNZERXR3N6QmpjbmhBOW1EaEFUTG9IdkhVTHdRU1p0aVdVSzRxQXJWd1YwQW5pRF93TThTNkpMQmpsSEVUZzdlVUU1LXA2NDEwSVlYeS11aHdBd2traXNHOE5DSTRiUEhqSHZLYWJ4RjM5bnp5ZHA?oc=5",
-"f": "Business Insider Africa",
-"s": "africa.businessinsider.com",
-"i": "",
-"d": "2026-11-10T07:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Wanted: A human willing to babysit robots on the graveyard shift",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Business Insider"
-},
-{
-"id": "279873050c69c9",
-"t": "Tesla diz “FSD privado apenas para Robotaxi”. Uma falha legal pode dizer por quê",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVF0d0hkMTdhRzRPcFk0Zm4zeUpKVlRXeXFweXlqalN4bTQza2Z5c0Z3SGU4eE44NmItd3loNmQ4UEVGcEJsbEVmQ193OGRUY1J4bHdTNmx1bXJZX2xlNzlCWjlJblp4WUI5R3haNUgxWEVTemtLRzNGOHJya2pMcGVGZWxHQTRhNktjSEh5dmRkblhXbU5aRWF2QnRnZGtSSFQ0TUV6ZEIzZG9PdDFNTEo3cFd4MFp0bGxsU0x3?oc=5",
-"f": "Forbes",
-"s": "forbes.com",
-"i": "",
-"d": "2026-11-10T10:30-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Tesla Says “Private FSD Only For Robotaxi.” A Legal Flaw May Say Why",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Forbes"
 }
 ],
 "2026-11-09": [
@@ -2506,7 +2549,7 @@
 "p": 12.4,
 "esp": 1,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "98c870f8933f56",
@@ -2527,7 +2570,7 @@
 "esp": 1,
 "p": 12.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "7f4bf7006bc208",
@@ -2547,7 +2590,7 @@
 "esp": 1,
 "p": 11.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "2b3600d4b0b02d",
@@ -2626,7 +2669,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "c0f2244893587a",
@@ -2646,7 +2689,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "0c5a36cdf4a4a1",
@@ -2688,7 +2731,7 @@
 "esp": 1,
 "p": 6.4,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "377aecb4082007",
@@ -2700,7 +2743,7 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49490_105557_10.png",
 "d": "2026-11-09T07:00-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "2026桃園國際新創機器人節圓滿閉幕陸空無人載具接軌產業- 商情",
@@ -2708,7 +2751,7 @@
 "p": 5.6,
 "esp": 1,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "663b2846914f1b",
@@ -2720,7 +2763,8 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/advanced-coating-can-a.jpg",
 "d": "2026-11-09T10:00-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Advanced coating can alter a drone's radar signature",
@@ -2729,6 +2773,26 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore"
+},
+{
+"id": "cf83aea47cbb01",
+"t": "A Agentic Robotics pode resolver o problema de escalonamento de dados da robótica?",
+"r": "As empresas de robótica estão investindo pesadamente na crença de que os dados resolverão os problemas mais difíceis da robótica. Assim que os sistemas de IA tiverem ingerido dados suficientes de demonstrações humanas, pensa-se que os robôs serão capazes de realizar a grande maioria das tarefas manuais que os humanos realizam agora. Existe até robótica…",
+"u": "https://spectrum.ieee.org/agentic-robotics",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=980",
+"d": "2026-11-09T11:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "IEEE Spectrum"
 },
 {
 "id": "a4b2b6d5b12609",
@@ -2760,7 +2824,7 @@
 "i": "https://www.therobotreport.com/wp-content/uploads/2026/11/WiFi-connectivity-01.jpg",
 "d": "2026-11-09T12:40-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
@@ -2780,7 +2844,7 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49467_105538_3020.png",
 "d": "2026-11-09T14:17-03:00",
 "c": [
-"industriais",
+"cobots",
 "negocios"
 ],
 "l": 0,
@@ -2789,7 +2853,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "7af1e9f534e21f",
@@ -2809,7 +2873,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "09a78d78a9ef17",
@@ -2823,7 +2887,8 @@
 "c": [
 "drones",
 "negocios",
-"industriais"
+"industriais",
+"espaco"
 ],
 "l": 0,
 "to": "美 윙, 향후 2년간 1700억원 투자해 차세대 드론 제조",
@@ -2831,7 +2896,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "7a0b73d62a7ffd",
@@ -2864,7 +2929,9 @@
 "d": "2026-11-09T14:54-03:00",
 "c": [
 "ia",
-"industriais"
+"industriais",
+"logistica",
+"inspecao"
 ],
 "l": 0,
 "to": "獨 세레악트-오토그룹, 반품 처리에 엔비디아 기반 피지컬AI ‘세레악트’ 도입",
@@ -2872,7 +2939,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "1dd15fca38864c",
@@ -2884,7 +2951,9 @@
 "i": "https://cdn.irobotnews.com/news/photo/202611/49481_105551_3853.jpg",
 "d": "2026-11-09T15:39-03:00",
 "c": [
-"drones"
+"drones",
+"competicoes",
+"educacao"
 ],
 "l": 0,
 "to": "성북청소년센터, 11월 15일 ‘제6회 서울시청소년드론축구대회’ 개최",
@@ -2892,7 +2961,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "db3bc7c2f026ca",
@@ -2904,7 +2973,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/221103_packsize_crutchfield_va-0031-1-1024x683.jpg",
 "d": "2026-11-09T17:02-03:00",
 "c": [
-"industriais",
+"logistica",
 "negocios"
 ],
 "l": 0,
@@ -2933,7 +3002,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "0587f53697f26f",
@@ -2954,7 +3023,7 @@
 "esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robot Newspaper (Coreia)"
+"cv": "Robot Newspaper"
 },
 {
 "id": "4098c7fd6f27db",
@@ -3013,7 +3082,8 @@
 "i": "https://dronelife.com/wp-content/uploads/2026/11/2025-12-26_V2-over-ocean-port-750x450-1-e1794254118927.jpg",
 "d": "2026-11-09T17:31-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 0,
 "to": "FAA Grants First Authorization for BVLOS Drone Operations Over Gulf",
@@ -3044,24 +3114,23 @@
 "cv": "Robotics Tomorrow"
 },
 {
-"id": "cf83aea47cbb01",
-"t": "A Agentic Robotics pode resolver o problema de escalonamento de dados da robótica?",
-"r": "As empresas de robótica estão investindo pesadamente na crença de que os dados resolverão os problemas mais difíceis da robótica. Assim que os sistemas de IA tiverem ingerido dados suficientes de demonstrações humanas, pensa-se que os robôs serão capazes de realizar a grande maioria das tarefas manuais que os humanos realizam agora. Existe até robótica…",
-"u": "https://spectrum.ieee.org/agentic-robotics",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=980",
-"d": "2026-11-09T11:00-03:00",
+"id": "0eff75c182e7a7",
+"t": "Fazendo robôs humanóides com rodas",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2I5Y1ZxcGVZa2hRU1pCOWdiRExkVEhvRDFYd0JnUG50cjYzbkNfZGdYMXFkam1MMXFVNWV4UUNhaHdOc1NnQUx0SEROV0xpc0hoa3A1RERVMllvV3RxMXNGNTZXWWRleVQzelVGWWNDUTRCaktXR2xacFpWNEU1aXJKbzdSZU5ERmNPTzJiOA?oc=5",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-09T12:09-03:00",
 "c": [
-"geral"
+"humanoides"
 ],
 "l": 0,
-"to": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+"to": "Making Humanoid Robots With Wheels",
 "lg": "en",
-"esp": 1,
 "p": 4.3,
-"cr": 2,
-"cv": "IEEE Spectrum"
+"cr": 3,
+"cv": "Forbes"
 },
 {
 "id": "4566205b4e2fc5",
@@ -3073,7 +3142,8 @@
 "i": "",
 "d": "2026-11-09T15:13-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"competicoes"
 ],
 "l": 0,
 "to": "Man vs. machine in Antarctica: Humanoid robot races with elite runners",
@@ -3157,25 +3227,6 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Bloomberg"
-},
-{
-"id": "0eff75c182e7a7",
-"t": "Fazendo robôs humanóides com rodas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2I5Y1ZxcGVZa2hRU1pCOWdiRExkVEhvRDFYd0JnUG50cjYzbkNfZGdYMXFkam1MMXFVNWV4UUNhaHdOc1NnQUx0SEROV0xpc0hoa3A1RERVMllvV3RxMXNGNTZXWWRleVQzelVGWWNDUTRCaktXR2xacFpWNEU1aXJKbzdSZU5ERmNPTzJiOA?oc=5",
-"f": "Forbes",
-"s": "forbes.com",
-"i": "",
-"d": "2026-11-09T12:09-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Making Humanoid Robots With Wheels",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "Forbes"
 }
 ],
 "2026-11-08": [
@@ -3189,7 +3240,8 @@
 "i": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/72b2d711-aefc-4900-900d-c775d4409ea9_7be83cd5.jpg?itok=SHx9SKtn&v=1794036142",
 "d": "2026-11-08T06:00-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"servico"
 ],
 "l": 0,
 "to": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
@@ -3228,7 +3280,7 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/robia-a-humanoid-robot.jpg",
 "d": "2026-11-08T12:44-03:00",
 "c": [
-"casa"
+"servico"
 ],
 "l": 0,
 "to": "Pakistan’s robot waitresses serve up a taste of future in Karachi",
@@ -3237,6 +3289,25 @@
 "esp": 1,
 "cr": 3,
 "cv": "Tech Xplore"
+},
+{
+"id": "c25692f654e7d8",
+"t": "Peggy Johnson levou robôs humanóides para Wall Street. Agora ela precisa torná-los lucrativos.",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2R3TjRSOVVRR21VQ1FRQWxvN2pPdjRidUQ4ZFZ4Q3QxNDV5SXN2c25RcUxRX2ZuVk96VWdYMEtSM21pa25VRXVXQVlmdGJWSVBOTTJzcE52T2tVRnE0ZWpNdDZ3cjR5X243Qmp3ekpUdHBHREpudnYxR3VKS2swNzRXYWFMak50amN2RTg0c25sOFBhZWhpUzZiT2NUQQ?oc=5",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "",
+"d": "2026-11-08T07:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "Business Insider"
 },
 {
 "id": "4714a240107c90",
@@ -3248,7 +3319,7 @@
 "i": "",
 "d": "2026-11-08T04:45-03:00",
 "c": [
-"casa"
+"servico"
 ],
 "l": 0,
 "to": "Au Pakistan, des robots-serveurs dans un restaurant offrent un avant-goût de l'avenir",
@@ -3275,25 +3346,6 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CNBC"
-},
-{
-"id": "c25692f654e7d8",
-"t": "Peggy Johnson levou robôs humanóides para Wall Street. Agora ela precisa torná-los lucrativos.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2R3TjRSOVVRR21VQ1FRQWxvN2pPdjRidUQ4ZFZ4Q3QxNDV5SXN2c25RcUxRX2ZuVk96VWdYMEtSM21pa25VRXVXQVlmdGJWSVBOTTJzcE52T2tVRnE0ZWpNdDZ3cjR5X243Qmp3ekpUdHBHREpudnYxR3VKS2swNzRXYWFMak50amN2RTg0c25sOFBhZWhpUzZiT2NUQQ?oc=5",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "",
-"d": "2026-11-08T07:00-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "Business Insider"
 }
 ],
 "2026-11-07": [
@@ -3347,7 +3399,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/drone-roof-damage-inspection-SkyeBrowse.jpg?quality=82&strip=all&w=1286",
 "d": "2026-11-07T04:00-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 0,
 "to": "SkyeBrowse turns one drone flight into a complete roof inspection",
@@ -3458,6 +3511,28 @@
 "cv": "Interesting Engineering"
 },
 {
+"id": "d3518bca05b97d",
+"t": "Sexta-feira de vídeo: Robô doméstico movido a cabo em escala de sala arruma",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN, TEXAS Humanoids 2026: 6–9…",
+"u": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=980",
+"d": "2026-11-06T14:00-03:00",
+"c": [
+"casa",
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "053691cfef3f99",
 "t": "Os armazéns ficaram espertos, mas o pátio lá fora não",
 "r": "Um sistema operacional de pátio poderia coletar dados de sensores para tornar a parte externa do armazém tão eficiente quanto a parte interna com automação. Fonte: YMX Logistics Se você entrar em um armazém grande e moderno na América do Norte, verá tecnologia em todos os lugares, desde robôs móveis e transportadores até armazenamento automatizado e muito mais. Todos…",
@@ -3467,7 +3542,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/Yard-Fleet-copy.jpg",
 "d": "2026-11-06T10:30-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "Warehouses got smart, but the yard outside did not",
@@ -3487,7 +3562,8 @@
 "i": "https://robohub.org/wp-content/uploads/2026/11/Dexter-Shepherd-425x319.jpg",
 "d": "2026-11-06T10:39-03:00",
 "c": [
-"ia"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "Robot Talk Episode 169 – Robot sensing inspired by nature, with Dexter Shepherd",
@@ -3529,7 +3605,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/stretch-gen2-render-featured-1024x665.jpg",
 "d": "2026-11-06T18:32-03:00",
 "c": [
-"negocios"
+"logistica"
 ],
 "l": 0,
 "to": "Boston Dynamics designs Stretch Gen 2 to maximize uptime",
@@ -3549,7 +3625,7 @@
 "i": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
 "d": "2026-11-06T18:34-03:00",
 "c": [
-"negocios"
+"logistica"
 ],
 "l": 0,
 "to": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
@@ -3580,27 +3656,6 @@
 "cv": "The Robot Report"
 },
 {
-"id": "d3518bca05b97d",
-"t": "Sexta-feira de vídeo: Robô doméstico movido a cabo em escala de sala arruma",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN, TEXAS Humanoids 2026: 6–9…",
-"u": "https://spectrum.ieee.org/video-friday-home-cable-robot",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=980",
-"d": "2026-11-06T14:00-03:00",
-"c": [
-"casa",
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
-},
-{
 "id": "1f3694f5e3c917",
 "t": "Physicl arrecada US$ 10 milhões para tornar o mundo digital real o suficiente para robôs",
 "r": "A Physicl está tentando resolver a lacuna entre o simulador e o real com um pipeline originalmente construído para comercializar produtos on-line.",
@@ -3610,7 +3665,8 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
 "d": "2026-11-06T10:00-03:00",
 "c": [
-"negocios"
+"negocios",
+"inspecao"
 ],
 "l": 0,
 "to": "Physicl raises $10M to make the digital world real enough for robots",
@@ -3689,7 +3745,7 @@
 "i": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
 "d": "2026-11-05T18:15-03:00",
 "c": [
-"ia"
+"entrega"
 ],
 "l": 1,
 "to": "Serve Robotics launches new business to become the AWS for robots",
@@ -3757,7 +3813,8 @@
 "i": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/b246212f-6c8b-4f0c-b3d1-9f8a01c5040b_477a852d.jpg?itok=KSa7xc--&v=1793874188",
 "d": "2026-11-05T21:31-03:00",
 "c": [
-"negocios"
+"negocios",
+"competicoes"
 ],
 "l": 0,
 "to": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
@@ -3803,7 +3860,7 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/clearing-up-a-robots-f.jpg",
 "d": "2026-11-05T11:00-03:00",
 "c": [
-"geral"
+"resgate"
 ],
 "l": 0,
 "to": "Chimney or squirrel? Clearing up a robot's fuzzy memory by comparing images from different angles",
@@ -3823,7 +3880,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/Ambi-Robotics_Series-B-featured.jpg",
 "d": "2026-11-05T13:45-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "Ambi Robotics customers expect an increase in peak season throughput",
@@ -3843,7 +3900,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/Kardex-AutoStore-AutomatedWarehouse-1-copy.jpg",
 "d": "2026-11-05T17:34-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "Which warehouse layout is right for your business?",
@@ -3863,7 +3920,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/AirData-drone-pilot-institute-certificate.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-05T04:20-03:00",
 "c": [
-"drones"
+"drones",
+"competicoes"
 ],
 "l": 0,
 "to": "AirData can now automatically track drone pilot certifications and skills",
@@ -3922,7 +3980,7 @@
 "i": "",
 "d": "2026-11-05T09:53-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "Pudu Robotics Unveils \"One Brain, Multiple Embodiments\" Strategy and Showcases Full Portfolio in European First",
@@ -4096,6 +4154,26 @@
 "cv": "Robohub"
 },
 {
+"id": "3665ca3c2f99d8",
+"t": "As portas de drones são o próximo vizinho tecnológico irritante?",
+"r": "Rick e Marcia LeCompte adoravam observar os falcões Cooper que frequentavam uma árvore de chiclete em seu quintal em Baton Rouge, Louisiana. Marcia LeCompte está convencida de que os pássaros foram espantados pelos mesmos robôs voadores que incomodam o casal desde o início de setembro. O barulho tinha…",
+"u": "https://spectrum.ieee.org/drone-delivery-noise",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/a-worker-walking-amid-several-delivery-drones-on-a-launchpad-in-a-chinese-city.jpg?id=68592213&width=980",
+"d": "2026-11-04T15:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Are Drone Ports the Next Annoying Tech Neighbor?",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "1f3dda43da6cda",
 "t": "KNAPP lança laboratório de robótica voltado para aplicações logísticas",
 "r": "Da esquerda para a direita: VP Thomas Zilk, CEO Wolfgang Toferer e COO Christopher Reiss. | Fonte: KNAPP A KNAPP lançou esta semana a KNAPPRobotics.ai Inc., que desenvolverá robôs inteligentes para o setor de logística. A empresa administrará um novo laboratório de robótica em Somerville, Massachusetts. Wolfgang Toferer liderará KNAPPRobotics.ai…",
@@ -4105,7 +4183,7 @@
 "i": "https://www.automatedwarehouseonline.com/wp-content/uploads/2026/11/KNAPP-Management-Team-VP-Thomas-Zilk-CEO-Wolfgang-Toferer-COO-Christopher-Reiss-featured.jpg",
 "d": "2026-11-04T17:45-03:00",
 "c": [
-"industriais",
+"logistica",
 "ia"
 ],
 "l": 0,
@@ -4126,7 +4204,8 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-exoskeleton.jpg",
 "d": "2026-11-04T19:20-03:00",
 "c": [
-"medicina"
+"exoesqueletos",
+"subaquaticos"
 ],
 "l": 0,
 "to": "Underwater exoskeletons could help divers use less air and move more efficiently",
@@ -4146,7 +4225,7 @@
 "i": "https://assets.newatlas.com/dims4/default/4babe8e/2147483647/strip/true/crop/1310x873+0+0/resize/1310x873!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F77%2Fb2%2F83fdf180445aa8c1210047983576%2Fhopcopter-6-1500x1000.jpeg",
 "d": "2026-11-04T19:28-03:00",
 "c": [
-"ia"
+"resgate"
 ],
 "l": 0,
 "to": "Hopping, flying robot gets an all-terrain upgrade",
@@ -4187,7 +4266,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/dji-matrice-5td-drone-poland-mountain-rescue.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-04T04:34-03:00",
 "c": [
-"drones"
+"drones",
+"resgate"
 ],
 "l": 0,
 "to": "Mountain rescuers turn to automated DJI drones to save time",
@@ -4228,7 +4308,8 @@
 "i": "",
 "d": "2026-11-04T10:09-03:00",
 "c": [
-"drones"
+"drones",
+"resgate"
 ],
 "l": 0,
 "to": "Automated Drone Technology Further Transforms Polish Mountain Rescue Operations",
@@ -4305,26 +4386,6 @@
 "cv": "Robotics Tomorrow"
 },
 {
-"id": "3665ca3c2f99d8",
-"t": "As portas de drones são o próximo vizinho tecnológico irritante?",
-"r": "Rick e Marcia LeCompte adoravam observar os falcões Cooper que frequentavam uma árvore de chiclete em seu quintal em Baton Rouge, Louisiana. Marcia LeCompte está convencida de que os pássaros foram espantados pelos mesmos robôs voadores que incomodam o casal desde o início de setembro. O barulho tinha…",
-"u": "https://spectrum.ieee.org/drone-delivery-noise",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/a-worker-walking-amid-several-delivery-drones-on-a-launchpad-in-a-chinese-city.jpg?id=68592213&width=980",
-"d": "2026-11-04T15:47-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Are Drone Ports the Next Annoying Tech Neighbor?",
-"lg": "en",
-"esp": 1,
-"p": 4.3,
-"cr": 2,
-"cv": "IEEE Spectrum"
-},
-{
 "id": "b93ebfd1ecf861",
 "t": "Agility Robotics está tornando robôs humanóides públicos pela primeira vez em Wall Street",
 "r": "",
@@ -4339,8 +4400,8 @@
 "l": 0,
 "to": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
 "lg": "en",
-"p": 3.0,
-"cr": 2,
+"p": 4.3,
+"cr": 3,
 "cv": "Business Insider"
 }
 ],
@@ -4396,7 +4457,7 @@
 "i": "",
 "d": "2026-11-03T13:43-03:00",
 "c": [
-"geral"
+"logistica"
 ],
 "l": 1,
 "to": "Boston Dynamics Launches Next Generation Stretch Robot",
@@ -4517,7 +4578,8 @@
 "i": "",
 "d": "2026-11-03T09:51-03:00",
 "c": [
-"drones"
+"drones",
+"educacao"
 ],
 "l": 0,
 "to": "Drone U Brings Professional Engineering Continuing Education to Flight Training",
@@ -4538,7 +4600,7 @@
 "i": "",
 "d": "2026-11-03T13:42-03:00",
 "c": [
-"industriais",
+"logistica",
 "negocios"
 ],
 "l": 0,
@@ -4560,7 +4622,8 @@
 "i": "",
 "d": "2026-11-03T15:09-03:00",
 "c": [
-"industriais"
+"industriais",
+"competicoes"
 ],
 "l": 0,
 "to": "KUKA to Feature Advanced Industrial Robot and Mobile Automation at the Smart Technology Expo 2026",
@@ -4603,7 +4666,7 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/laden-with-eggs-robots-1.jpg",
 "d": "2026-11-02T07:00-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Laden with eggs, robots race up sacred Chinese mountain",
@@ -4662,7 +4725,7 @@
 "i": "",
 "d": "2026-11-02T09:31-03:00",
 "c": [
-"industriais"
+"logistica"
 ],
 "l": 0,
 "to": "Siemens launches new ELV drive solution for AGVs and mobile robotics",
@@ -4683,7 +4746,7 @@
 "i": "",
 "d": "2026-11-02T09:32-03:00",
 "c": [
-"industriais"
+"cobots"
 ],
 "l": 0,
 "to": "PRODUCTIVE ROBOTICS HELPS JOB SHOPS NAVIGATE HIGH-VOLUME JOBS AND STATIC TASKS WITH OB7",
@@ -4725,7 +4788,7 @@
 "i": "",
 "d": "2026-11-02T14:33-03:00",
 "c": [
-"geral"
+"logistica"
 ],
 "l": 0,
 "to": "New ISO Interoperability Standard Helps Mobile Robots from Different Vendors Work Together",
@@ -4768,7 +4831,7 @@
 "i": "",
 "d": "2026-11-01T10:25-03:00",
 "c": [
-"industriais",
+"cobots",
 "ia"
 ],
 "l": 0,

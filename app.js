@@ -26,19 +26,50 @@
     curiosidades: '<path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.2 1 2V16h5v-.1c0-.8.4-1.5 1-2A6 6 0 0012 3z"/>',
     historia: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
     universidades: '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/>',
+    cobots: '<path d="M4 20h7M7 20v-5l4-5 5-2"/><circle cx="11" cy="10" r="1.5"/><circle cx="18" cy="5" r="2"/><path d="M18 7v4M16 13h4"/>',
+    logistica: '<rect x="3" y="9" width="9" height="8"/><path d="M12 13h4l3 3v1h-7M7 9V6h4v3"/><circle cx="7" cy="19" r="1.5"/><circle cx="16" cy="19" r="1.5"/>',
+    entrega: '<rect x="5" y="6" width="14" height="10" rx="2"/><path d="M9 6V4h6v2M12 9v4"/><circle cx="8" cy="19" r="1.5"/><circle cx="16" cy="19" r="1.5"/>',
+    servico: '<path d="M4 16h16M6 16a6 6 0 0112 0M12 8V6M3 19h18"/>',
+    companhia: '<rect x="6" y="8" width="12" height="9" rx="3"/><path d="M12 8V5"/><path d="M12 15s-2.5-1.5-2.5-3a1.3 1.3 0 012.5-.5 1.3 1.3 0 012.5.5c0 1.5-2.5 3-2.5 3z"/>',
+    exoesqueletos: '<circle cx="12" cy="4" r="2"/><path d="M12 6v6l-3 4v5M12 12l3 4v5M8 9h8M8 14h2M14 14h2"/>',
+    agricolas: '<path d="M12 20V10M12 14c-3 0-5-2-5-5 3 0 5 2 5 5zM12 12c0-3 2-5 5-5 0 3-2 5-5 5z"/><path d="M4 20h16"/>',
+    construcao: '<path d="M5 21V4h2v17M7 5h12l-3 3M15 5v6M13 11h4v3h-4zM3 21h8"/>',
+    inspecao: '<circle cx="10" cy="10" r="6"/><path d="M15 15l5 5M10 7v3l2 2"/>',
+    defesa: '<path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/>',
+    resgate: '<path d="M7 18h10M8 18v-5a4 4 0 018 0v5M12 5V3M5 8L3.5 6.5M19 8l1.5-1.5M5 21h14"/>',
+    subaquaticos: '<path d="M3 17c2 0 2-1.5 4.5-1.5S10 17 12 17s2.5-1.5 4.5-1.5S19 17 21 17"/><path d="M6 10c2-3 7-3 9 0-2 3-7 3-9 0zM15 10l3-2v4z"/>',
+    microrrobos: '<ellipse cx="12" cy="13" rx="4" ry="5"/><path d="M12 8V5M9 6L7 4M15 6l2-2M8 12H4M20 12h-4M8 16l-3 2M16 16l3 2"/>',
+    educacao: '<path d="M4 5h7a2 2 0 012 2v12a2 2 0 00-2-2H4zM20 5h-7a2 2 0 00-2 2M20 5v12h-7"/>',
+    competicoes: '<path d="M8 4h8v5a4 4 0 01-8 0zM8 6H5a3 3 0 003 4M16 6h3a3 3 0 01-3 4M12 13v4M8 20h8M10 17h4"/>',
   };
 
+  // categorias de robôs (classificação da IFR — industriais e de serviço — e do noticiário mundial)
   const CATEGORIAS = [
     { id: "inicio", nome: "Destaques" },
     { id: "lancamentos", nome: "Lançamentos" },
     { id: "humanoides", nome: "Humanoides" },
     { id: "quadrupedes", nome: "Cães-robô" },
     { id: "industriais", nome: "Industriais" },
+    { id: "cobots", nome: "Cobots" },
+    { id: "logistica", nome: "Logística e Armazéns" },
     { id: "drones", nome: "Drones" },
-    { id: "casa", nome: "Casa e Serviço" },
-    { id: "medicina", nome: "Medicina" },
     { id: "autonomos", nome: "Veículos Autônomos" },
-    { id: "espaco", nome: "Espaço e Oceano" },
+    { id: "entrega", nome: "Entrega" },
+    { id: "casa", nome: "Casa" },
+    { id: "servico", nome: "Serviço" },
+    { id: "companhia", nome: "Companhia e Sociais" },
+    { id: "medicina", nome: "Medicina" },
+    { id: "exoesqueletos", nome: "Exoesqueletos e Próteses" },
+    { id: "agricolas", nome: "Agrícolas" },
+    { id: "construcao", nome: "Construção" },
+    { id: "inspecao", nome: "Inspeção e Segurança" },
+    { id: "defesa", nome: "Defesa" },
+    { id: "resgate", nome: "Resgate e Emergência" },
+    { id: "espaco", nome: "Espaço" },
+    { id: "subaquaticos", nome: "Subaquáticos" },
+    { id: "microrrobos", nome: "Microrrobôs e Soft Robots" },
+    { id: "educacao", nome: "Educação" },
+    { id: "competicoes", nome: "Competições e Eventos" },
     { id: "ia", nome: "IA e Pesquisa" },
     { id: "negocios", nome: "Negócios" },
     { id: "catalogo", nome: "Catálogo de robôs", especial: true },
@@ -49,7 +80,9 @@
     { id: "historia", nome: "História da robótica", especial: true },
   ];
   const ESPECIAIS = new Set(CATEGORIAS.filter((c) => c.especial).map((c) => c.id));
-  const TIPOS = ["humanoides", "quadrupedes", "industriais", "drones", "casa", "medicina", "autonomos", "espaco"];
+  const TIPOS = ["humanoides", "quadrupedes", "industriais", "cobots", "logistica", "drones", "autonomos", "entrega", "casa", "servico",
+    "companhia", "medicina", "exoesqueletos", "agricolas", "construcao", "inspecao", "defesa", "resgate", "espaco", "subaquaticos",
+    "microrrobos", "educacao"];
   const NOME_CAT = Object.fromEntries(CATEGORIAS.map((c) => [c.id, c.nome]));
   NOME_CAT.geral = "Robótica";
   NOME_CAT.quadrupedes = "Cães-robô e Quadrúpedes";
@@ -624,7 +657,7 @@
     const visiveis = base.robos.filter((r) => passaBusca(`${r.nome} ${r.fabr.nome} ${r.desc} ${r.fabr.pais} ${r.status}`));
     const contTipo = (t) => visiveis.filter((r) => r.tipo === t).length;
     let h = cabecalhoEspecial("Catálogo de robôs", `${CAT.robos.length} robôs de ${CAT.fabricantes.length} fabricantes, separados por tipo. Cada robô mostra as notícias reunidas pela Central Robótica.`);
-    h += filtros([["", "Todos", visiveis.length], ...TIPOS.map((t) => [t, NOME_CAT[t], contTipo(t)])], tipo);
+    h += filtros([["", "Todos", visiveis.length], ...TIPOS.filter((t) => contTipo(t) > 0).map((t) => [t, NOME_CAT[t], contTipo(t)])], tipo);
 
     // lançamentos recentes no noticiário (prioridade)
     const limite = somaDias(hojeBR(), -14);
@@ -757,7 +790,7 @@
     let materias = lib.concat(doNoticiario.filter((x) => !ids.has(x.u)));
     const origens = [["", "Todas"], ["revista", "Revistas"], ["site", "Sites"], ["universidade", "Universidades e pesquisa"], ["noticiario", "Do noticiário"]];
     const origem = origens.some(([v]) => v === estado.f) ? estado.f : "";
-    const tema = TIPOS.concat(["ia", "negocios"]).includes(estado.g) ? estado.g : "";
+    const tema = TIPOS.concat(["ia", "negocios", "competicoes"]).includes(estado.g) ? estado.g : "";
     materias = materias.filter((x) => passaBusca(`${x.t} ${x.r} ${x.f} ${x.pais || ""} ${x.inst || ""}`));
     const contOrig = (v) => materias.filter((x) => !v || x.origem === v).length;
     const porOrigem = materias.filter((x) => !origem || x.origem === origem);
@@ -766,7 +799,7 @@
     const paises = new Set(materias.map((x) => x.pais).filter(Boolean));
     h += `<h2 class="titulo-secao" id="biblioteca">Biblioteca de curiosidades <small>${materias.length.toLocaleString("pt-BR")} matérias · ${paises.size} países · atualizado automaticamente</small></h2>`;
     h += filtros(origens.map(([v, n]) => [v, n, contOrig(v)]), origem);
-    h += `<div class="filtros filtros--tema">${[["", "Todos os temas"], ...TIPOS.concat(["ia", "negocios"]).map((t) => [t, NOME_CAT[t]])].map(([v, n]) => `<button class="filtro ${v === tema ? "ativo" : ""}" data-g="${v}">${esc(n)} ${v ? `<span>${contTema(v)}</span>` : ""}</button>`).join("")}
+    h += `<div class="filtros filtros--tema">${[["", "Todos os temas"], ...TIPOS.concat(["ia", "negocios", "competicoes"]).filter((t) => contTema(t) > 0).map((t) => [t, NOME_CAT[t]])].map(([v, n]) => `<button class="filtro ${v === tema ? "ativo" : ""}" data-g="${v}">${esc(n)} ${v ? `<span>${contTema(v)}</span>` : ""}</button>`).join("")}
       <button class="filtro filtro--sorte" data-sorte>🎲 Surpreenda-me</button></div>`;
     if (lista.length) {
       const pag = lista.slice(0, 24 * estado.pagina);

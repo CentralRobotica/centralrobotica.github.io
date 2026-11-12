@@ -196,12 +196,11 @@ CATEGORIAS = {
         r"机器狗", r"機器狗", r"四足", r"로봇개", r"사족",
     ],
     "industriais": [
-        r"industrial robot", r"robôs? industria", r"cobots?\b", r"collaborative robot", r"robô colaborativo",
-        r"robotic arm", r"braços? robótico", r"braço mecânico", r"manufactur", r"fábrica", r"factory",
-        r"warehouse", r"armazém", r"centro de distribuição", r"logística", r"logistics", r"palletiz",
-        r"fanuc", r"abb robotics", r"kuka", r"yaskawa", r"universal robots", r"amrs?\b", r"agvs?\b",
-        r"automação industrial", r"industrial automation", r"pick(?:ing)? robot", r"welding robot",
-        r"robôs? de solda", r"chão de fábrica", r"indústria 4\.0", r"工业机器人", r"産業用ロボット",
+        r"industrial robot", r"robôs? industria", r"robotic arm", r"braços? robótico", r"braço mecânico",
+        r"manufactur", r"fábrica", r"factory", r"linha de montagem", r"assembly line", r"fanuc", r"abb robotics",
+        r"kuka", r"yaskawa", r"kawasaki robotics", r"automação industrial", r"industrial automation",
+        r"welding robot", r"robôs? de solda", r"chão de fábrica", r"indústria 4\.0", r"industry 4\.0",
+        r"montadora", r"automaker", r"工业机器人", r"産業用ロボット", r"Industrieroboter",
     ],
     "drones": [
         r"drones?\b", r"vants?\b", r"uavs?\b", r"quadric[oó]ptero", r"quadcopter", r"\bdji\b",
@@ -209,20 +208,17 @@ CATEGORIAS = {
     ],
     "casa": [
         r"robot vacuum", r"robotic vacuum", r"aspirador robô", r"robôs? aspirador", r"roomba", r"irobot",
-        r"roborock", r"ecovacs", r"dreame", r"robot (?:lawn ?)?mower", r"cortador de grama robô",
-        r"home robot", r"household robot", r"robôs? doméstico", r"robô para casa", r"delivery robot",
-        r"robôs? de entrega", r"robôs? entregador", r"service robot", r"robôs? de serviço", r"garçom robô",
-        r"robô garçom", r"companion robot", r"robô de companhia", r"pet robot", r"robô de estimação",
-        r"kitchen robot", r"robô de cozinha", r"robot chef", r"educational robot", r"robôs? educaciona",
-        r"brinquedo robô", r"robot toy", r"lavar louça", r"laundry robot", r"dobrar roupa", r"扫地机器人",
-        r"entregas? (?:de|por|com) robôs?", r"varejo", r"retail", r"loja de conveniência", r"convenience store",
-        r"restaurante", r"restaurant", r"hotel", r"aeroporto", r"airport", r"robôs? de limpeza", r"cleaning robot",
+        r"roborock", r"ecovacs", r"dreame", r"robot (?:lawn ?)?mower", r"cortador de grama", r"lawn mower",
+        r"home robot", r"household robot", r"robôs? doméstico", r"robô para casa", r"tarefas domésticas",
+        r"household chores", r"house ?work", r"lavar louça", r"dishwash", r"laundry", r"dobrar roupa",
+        r"pool clean", r"limpador de piscina", r"window clean", r"limpa-vidros", r"smart home", r"casa inteligente",
+        r"扫地机器人", r"掃除ロボット",
     ],
     "medicina": [
         r"surgical robot", r"robotic surgery", r"robot-assisted surg", r"cirurgias? robótica",
-        r"robôs? cirúrgico", r"da vinci", r"intuitive surgical", r"exoskeleton", r"exoesqueleto",
-        r"prosthe", r"prótese", r"rehabilitation robot", r"reabilitação", r"medical robot", r"robôs? médico",
-        r"hospital", r"microrrobô", r"microrobot", r"nanorobô", r"nanorobot", r"cirurgião", r"surgeon",
+        r"robôs? cirúrgico", r"da vinci", r"intuitive surgical", r"medical robot", r"robôs? médico",
+        r"hospital", r"cirurgião", r"surgeon", r"surgery", r"cirurgia", r"patient", r"paciente",
+        r"healthcare", r"saúde", r"pharmacy", r"farmácia", r"diagnos", r"medtronic", r"stryker",
     ],
     "autonomos": [
         r"robotaxi", r"robotáxi", r"robo-?taxi", r"self-driving", r"driverless", r"autonomous vehicle",
@@ -231,10 +227,102 @@ CATEGORIAS = {
         r"full self-driving", r"pony\.ai", r"baidu apollo", r"aurora innovation", r"sem motorista", r"自动驾驶",
     ],
     "espaco": [
-        r"space robot", r"robôs? espacia", r"rover", r"\bnasa\b", r"mars\b", r"marte\b", r"lunar",
-        r"moon\b", r"estação espacial", r"space station", r"underwater robot",
-        r"robôs? subaquático", r"submarino robô", r"robotic fish", r"peixe robô", r"ocean robot",
-        r"deep sea", r"satélite", r"satellite", r"asteroid",
+        r"space robot", r"robôs? espacia", r"rover", r"\bnasa\b", r"esa\b", r"mars\b", r"marte\b", r"lunar",
+        r"moon\b", r"\blua\b", r"estação espacial", r"space station", r"\biss\b", r"satélite", r"satellite",
+        r"asteroid", r"órbita", r"orbit", r"spacecraft", r"nave espacial", r"astronaut", r"astronauta", r"jaxa",
+    ],
+    "cobots": [
+        r"cobots?\b", r"collaborative robot", r"robôs? colaborativo", r"universal robots", r"fanuc crx",
+        r"doosan robotics", r"techman robot", r"franka", r"neura robotics", r"standard bots", r"work alongside humans",
+        r"trabalhar ao lado", r"human-robot collaboration", r"colaboração humano-robô",
+    ],
+    "logistica": [
+        r"warehouse", r"armazém", r"armazens", r"centro de distribuição", r"distribution center", r"fulfil?lment",
+        r"logístic", r"logistics", r"intralogist", r"palletiz", r"paletiz", r"amrs?\b", r"agvs?\b",
+        r"autonomous mobile robot", r"robôs? móve(?:l|is)", r"picking", r"order picking", r"sorting robot",
+        r"amazon robotics", r"proteus", r"locus robotics", r"symbotic", r"ocado", r"geek\+", r"geekplus",
+        r"forklift", r"empilhadeira", r"truck unloading", r"descarreg", r"supply chain", r"cadeia de suprimentos",
+        r"parcel", r"encomendas", r"stretch robot",
+    ],
+    "entrega": [
+        r"delivery robot", r"robôs? de entrega", r"robôs? entregador", r"last[- ]mile", r"última milha",
+        r"starship technologies", r"serve robotics", r"kiwibot", r"\bnuro\b", r"coco robotics", r"sidewalk robot",
+        r"drone delivery", r"delivery drone", r"entrega por drone", r"drones? de entrega", r"zipline", r"wing aviation",
+        r"food delivery", r"entrega de comida", r"doordash", r"uber eats", r"meituan", r"entregas? (?:de|por|com) robôs?",
+    ],
+    "servico": [
+        r"service robots?", r"robôs? de serviço", r"waiter robot", r"garçom robô", r"robô garçom", r"serving robot",
+        r"restaurant", r"restaurante", r"hotel", r"aeroporto", r"airport", r"varejo", r"retail", r"supermarket",
+        r"supermercado", r"convenience store", r"loja de conveniência", r"cleaning robot", r"robôs? de limpeza",
+        r"receptionist", r"recepcionista", r"pudu", r"keenon", r"bear robotics", r"bellabot", r"barista",
+        r"robot chef", r"robotic kitchen", r"cozinha robótica", r"hospitality", r"hotelaria", r"shopping mall",
+    ],
+    "companhia": [
+        r"companion robot", r"robô de companhia", r"social robot", r"robôs? socia", r"elderly", r"idosos?",
+        r"terceira idade", r"elder care", r"cuidado de idosos", r"loneliness", r"solidão", r"emotional", r"emoç",
+        r"pet robot", r"robô de estimação", r"aibo", r"caregiver", r"cuidador", r"therapy robot", r"terapia",
+        r"autism", r"autismo", r"\bparo\b", r"empath", r"empatia", r"friendship", r"amizade",
+    ],
+    "exoesqueletos": [
+        r"exoskeleton", r"exoesqueleto", r"exosuit", r"prosthe", r"prótese", r"bionic (?:arm|leg|hand)",
+        r"braço biônico", r"perna biônica", r"mão biônica", r"rehabilitation", r"reabilitação", r"wearable robot",
+        r"robô vestível", r"paraplegi", r"paraplég", r"spinal cord", r"medula", r"ekso", r"rewalk", r"cyberdyne",
+        r"amputee", r"amputad",
+    ],
+    "agricolas": [
+        r"agricultur", r"agrícola", r"agronegócio", r"\bfarm", r"fazenda", r"harvest", r"colheita", r"tractor",
+        r"trator", r"\bcrops?\b", r"lavoura", r"plantação", r"weeding", r"capina", r"pulveriz", r"crop spraying",
+        r"dairy", r"ordenha", r"milking", r"orchard", r"pomar", r"greenhouse", r"estufa", r"john deere",
+        r"carbon robotics", r"monarch tractor", r"agras", r"livestock", r"pecuária", r"vineyard", r"vinhedo",
+        r"agtech", r"agritech",
+    ],
+    "construcao": [
+        r"construction", r"construção civil", r"canteiro de obras", r"building site", r"bricklay", r"alvenaria",
+        r"tijolos?", r"3d[- ]print(?:ed|ing)? (?:house|home|building)", r"impressão 3d de (?:casas?|prédios?)",
+        r"excavator", r"escavadeira", r"demolition", r"demolição", r"concrete", r"concreto", r"built robotics",
+        r"dusty robotics", r"canvas construction", r"hilti", r"construction site", r"obras? civis?",
+    ],
+    "inspecao": [
+        r"inspection", r"inspeção", r"inspect", r"patrol", r"patrulha", r"security robot", r"robôs? de segurança",
+        r"surveillance", r"vigilância", r"power plant", r"usina", r"pipeline", r"oleoduto", r"gasoduto",
+        r"oil and gas", r"petróleo e gás", r"substation", r"subestação", r"tunnel", r"túnel", r"nuclear",
+        r"anybotics", r"anymal", r"knightscope", r"maintenance robot", r"robôs? de manutenção", r"offshore",
+    ],
+    "defesa": [
+        r"military", r"militar", r"defen[cs]e", r"defesa", r"army", r"exército", r"soldier", r"soldado",
+        r"battlefield", r"campo de batalha", r"pentagon", r"pentágono", r"darpa", r"unmanned ground vehicle",
+        r"\bugvs?\b", r"weapon", r"armamento", r"combat", r"combate", r"ghost robotics", r"anduril",
+        r"loitering munition", r"navy", r"marinha", r"air force", r"força aérea", r"warfare",
+    ],
+    "resgate": [
+        r"rescue", r"resgate", r"disaster", r"desastre", r"firefight", r"bombeiro", r"incêndio", r"wildfire",
+        r"earthquake", r"terremoto", r"search and rescue", r"busca e salvamento", r"emergency", r"emergência",
+        r"flood", r"enchente", r"inundação", r"lifeguard", r"salva-vidas", r"hazmat", r"first responder",
+        r"socorrista", r"collapsed building", r"escombros",
+    ],
+    "subaquaticos": [
+        r"underwater", r"subaquático", r"submarin", r"\bocean", r"oceano", r"marine", r"marinho", r"\brov\b",
+        r"\bauvs?\b", r"seabed", r"fundo do mar", r"deep sea", r"mar profundo", r"autonomous (?:boat|ship|vessel)",
+        r"barcos? autônomo", r"navios? autônomo", r"robotic fish", r"peixe robô", r"saildrone", r"coral reef",
+        r"recife de coral", r"shipwreck", r"naufrágio",
+    ],
+    "microrrobos": [
+        r"microrobot", r"micro-robot", r"microrrobô", r"nanorobot", r"nanorrobô", r"nanorobô", r"soft robot",
+        r"robôs? macio", r"robô mole", r"swarm", r"enxame", r"bioinspired", r"bio-inspired", r"bioinspirad",
+        r"insect robot", r"robô inseto", r"tiny robot", r"minúsculo", r"microscópic", r"origami robot",
+        r"jellyfish robot", r"shape-shifting", r"artificial muscle", r"músculo artificial",
+    ],
+    "educacao": [
+        r"educational robot", r"robôs? educaciona", r"school", r"escola", r"students?", r"alunos?", r"estudantes",
+        r"classroom", r"sala de aula", r"\bstem\b", r"\blego\b", r"\bkids\b", r"crianças", r"toy robot",
+        r"brinquedo", r"teaching", r"ensino", r"vex robotics", r"makeblock", r"robot kit", r"kit de robótica",
+    ],
+    "competicoes": [
+        r"competition", r"competição", r"campeonato", r"championship", r"olympic", r"olimpíada", r"robot games",
+        r"jogos mundiais", r"marathon", r"maratona", r"tournament", r"torneio", r"robocup", r"robot soccer",
+        r"futebol de robôs", r"boxing", r"boxe", r"robot race", r"corrida de robôs", r"darpa .{0,15}challenge",
+        r"\bexpo\b", r"feira", r"conference", r"conferência", r"summit", r"\bces\b", r"world robot conference",
+        r"\biros\b", r"\bicra\b", r"automatica", r"robobusiness", r"exhibition", r"exposição", r"fair\b",
     ],
     "ia": [
         r"embodied ai", r"physical ai", r"ia física", r"ia incorporada", r"inteligência artificial física",
@@ -335,7 +423,9 @@ GUERRA = re.compile(
 )
 
 ESPECIAL_CATS = {"humanoides": 0.8, "quadrupedes": 0.8}
-FISICAS = {"humanoides", "quadrupedes", "industriais", "drones", "casa", "medicina", "autonomos", "espaco"}
+FISICAS = {"humanoides", "quadrupedes", "industriais", "drones", "casa", "medicina", "autonomos", "espaco",
+           "cobots", "logistica", "entrega", "servico", "companhia", "exoesqueletos", "agricolas", "construcao",
+           "inspecao", "defesa", "resgate", "subaquaticos", "microrrobos", "educacao"}
 
 _CAT_RX = {c: re.compile(r"(?<!\w)(?:" + "|".join(lst) + ")", re.I) for c, lst in CATEGORIAS.items()}
 
@@ -760,11 +850,11 @@ def classificar(texto_titulo, texto_resumo):
             pontos[cat] = n
     tem_fisica = any(c in FISICAS for c in pontos)
     # categorias de contexto fracas não "roubam" a notícia de uma categoria de robô
-    for ctx in ("ia", "negocios"):
+    for ctx in ("ia", "negocios", "competicoes"):
         if ctx in pontos and tem_fisica and pontos[ctx] < 3:
             pontos.pop(ctx)
     ordem = sorted(pontos, key=lambda c: (-pontos[c], c not in FISICAS))
-    return ordem[:3] or ["geral"]
+    return ordem[:4] or ["geral"]
 
 
 # --------------------------------------------------------------------------- #

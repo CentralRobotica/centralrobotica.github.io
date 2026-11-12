@@ -10,7 +10,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/dji-dock-4-matrice-5td-drone.jpg?quality=82&strip=all&w=1200",
 "d": "2026-10-31T03:29-03:00",
 "c": [
-"drones"
+"drones",
+"logistica"
 ],
 "l": 0,
 "to": "DJI wants its enterprise drones back in the air in 25 seconds",
@@ -40,6 +41,27 @@
 }
 ],
 "2026-10-30": [
+{
+"id": "bf12c379974b4d",
+"t": "Vídeo sexta-feira: Spot Plays para mostrar sua manipulação de corpo inteiro",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
+"u": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980",
+"d": "2026-10-30T13:30-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
 {
 "id": "4093e094ffa327",
 "t": "Robot Talk Episódio 168 – Avanços na robótica com eletrônica inovadora, com Zlatka Stoeva",
@@ -121,26 +143,6 @@
 "cv": "Tech Xplore"
 },
 {
-"id": "bf12c379974b4d",
-"t": "Vídeo sexta-feira: Spot Plays para mostrar sua manipulação de corpo inteiro",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
-"u": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980",
-"d": "2026-10-30T13:30-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
-},
-{
 "id": "41c2227ec580f6",
 "t": "UgCS 6.3 adiciona controle de acompanhamento de terreno para pesquisas LiDAR complexas com drones",
 "r": "Planejar uma pesquisa com drones em centenas de hectares é uma coisa. Garantir que cada voo, configuração do sensor e manobra de calibração se encaixe no mesmo plano geral é outra. A SPH Engineering quer facilitar essa segunda parte com o UgCS 6.3, a atualização mais recente de seu software de planejamento de voo de drones. mais…",
@@ -211,6 +213,7 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/06/Zipline-drone-delivery-wonder-texas.jpg?quality=82&strip=all&w=1200",
 "d": "2026-10-29T03:31-03:00",
 "c": [
+"entrega",
 "drones"
 ],
 "l": 0,
@@ -230,7 +233,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&w=1205",
 "d": "2026-10-29T03:49-03:00",
 "c": [
-"drones"
+"drones",
+"inspecao"
 ],
 "l": 0,
 "to": "Your industrial drones collect data. Percepto wants AI to make it count",
@@ -271,6 +275,7 @@
 "d": "2026-10-29T17:27-03:00",
 "c": [
 "negocios",
+"educacao",
 "industriais"
 ],
 "l": 0,
@@ -292,7 +297,7 @@
 "i": "",
 "d": "2026-10-29T19:38-03:00",
 "c": [
-"geral"
+"inspecao"
 ],
 "l": 0,
 "to": "Large-Part Machining Transformed with High-Precision Robotics",
@@ -315,7 +320,7 @@
 "i": "https://aihub.org/wp-content/uploads/2026/10/2026_07_04_RoboCup_Home_NimbRo_Grasping_2-scaled.jpg",
 "d": "2026-10-28T06:07-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Competing in RoboCup@Home and winning the 2026 best paper award: an interview with Raphael Memmesheimer",
@@ -445,6 +450,27 @@
 "cv": "DroneDJ"
 },
 {
+"id": "1698e31ea5a4be",
+"t": "As funções de segurança do seu robô já funcionam. E se a entrada mentir?",
+"r": "Este artigo foi trazido a você por VicOne. Um robô móvel diminui a velocidade para alguém em um corredor. Um braço colaborativo facilita seu movimento conforme um trabalhador se aproxima. Um humanóide faz uma pausa para deixar uma pessoa passar. Cada resposta depende de informações sobre o robô ou seu entorno: uma leitura de distância, uma estimativa de posição ou uma parada…",
+"u": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
+"d": "2026-10-27T13:14-03:00",
+"c": [
+"humanoides",
+"logistica"
+],
+"l": 0,
+"to": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "f4409b756f65ca",
 "t": "A pele eletrônica exibe instantaneamente o toque como luz",
 "r": "“Seu toque me ilumina” parece uma afirmação figurativa bastante romântica, não é? Bem, não mais. Pesquisadores da Universidade Nacional de Cingapura (NUS) desenvolveram uma pele eletrônica ultrafina e flexível que se ilumina quando tocada, revelando exatamente onde a pressão está sendo aplicada e quanto, tipo…",
@@ -484,26 +510,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore"
-},
-{
-"id": "1698e31ea5a4be",
-"t": "As funções de segurança do seu robô já funcionam. E se a entrada mentir?",
-"r": "Este artigo foi trazido a você por VicOne. Um robô móvel diminui a velocidade para alguém em um corredor. Um braço colaborativo facilita seu movimento conforme um trabalhador se aproxima. Um humanóide faz uma pausa para deixar uma pessoa passar. Cada resposta depende de informações sobre o robô ou seu entorno: uma leitura de distância, uma estimativa de posição ou uma parada…",
-"u": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
-"d": "2026-10-27T13:14-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 }
 ],
 "2026-10-26": [
@@ -558,7 +564,9 @@
 "i": "https://assets.newatlas.com/dims4/default/0cb18bb/2147483647/strip/true/crop/2484x1656+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2Fb1%2Fbb235e3247b0bc75532eed511057%2Ffigure2.jpeg",
 "d": "2026-10-25T06:03-03:00",
 "c": [
-"ia"
+"microrrobos",
+"inspecao",
+"resgate"
 ],
 "l": 0,
 "to": "Finger-controlled robo beetle sports artificial muscles & two-way feedback",
@@ -600,7 +608,7 @@
 "i": "https://assets.newatlas.com/dims4/default/edfba16/2147483647/strip/true/crop/1448x965+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F68%2F19%2F2008336948509ad112e43375b98a%2Ffeather-star-in-turquoise-waters.jpeg",
 "d": "2026-10-24T23:03-03:00",
 "c": [
-"espaco"
+"subaquaticos"
 ],
 "l": 0,
 "to": "Subaquatic robot leverages biomimetics for natural movement",
@@ -612,6 +620,28 @@
 }
 ],
 "2026-10-23": [
+{
+"id": "f900d559464db3",
+"t": "Sexta-feira de vídeo: Robô quadrúpede resolve sozinho o cubo gigante de Rubik",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
+"u": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=980",
+"d": "2026-10-23T12:30-03:00",
+"c": [
+"quadrupedes",
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
 {
 "id": "31295dfc3e917a",
 "t": "Um pequeno defeito num cristal revela uma grande surpresa quântica",
@@ -642,7 +672,8 @@
 "i": "https://www.sciencedaily.com/images/1920/soft-robot-that-can-flap-through-water.webp",
 "d": "2026-10-23T07:33-03:00",
 "c": [
-"ia"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "MIT scientists build a tiny robot that swims using living muscle cells",
@@ -662,7 +693,7 @@
 "i": "https://robohub.org/wp-content/uploads/2026/10/Jan-Petrs_preferred-403x425.jpg",
 "d": "2026-10-23T08:43-03:00",
 "c": [
-"geral"
+"construcao"
 ],
 "l": 0,
 "to": "Robot Talk Episode 167 – Automating construction, with Jan Petrš",
@@ -691,27 +722,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore"
-},
-{
-"id": "f900d559464db3",
-"t": "Sexta-feira de vídeo: Robô quadrúpede resolve sozinho o cubo gigante de Rubik",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
-"u": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=980",
-"d": "2026-10-23T12:30-03:00",
-"c": [
-"quadrupedes",
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 }
 ],
 "2026-10-22": [
@@ -746,7 +756,8 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-mu.jpg",
 "d": "2026-10-22T16:40-03:00",
 "c": [
-"ia"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "Lab-grown mouse muscles enable tiny robots to jump, swim, walk and grasp",
@@ -892,6 +903,7 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
 "d": "2026-10-20T13:20-03:00",
 "c": [
+"educacao",
 "ia"
 ],
 "l": 0,
@@ -905,6 +917,26 @@
 ],
 "2026-10-19": [
 {
+"id": "b657bbd1f782d9",
+"t": "O robô que eu não esperava construir",
+"r": "Agility Robotics, a empresa que fundei em meu laboratório de robótica na Oregon State University em 2015, acaba de lançar o Digit 5. Ele foi projetado para ser o primeiro robô humanóide que pode realizar trabalhos úteis em escala de forma segura e econômica, permitindo-nos trazer dezenas de milhares de trabalhadores humanóides para o mundo real…",
+"u": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=980",
+"d": "2026-10-19T10:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "The Robot I Didn’t Expect to Build",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "df1cd74f8c1816",
 "t": "Alimentado por células musculares, um robô fino como papel nada em um labirinto aquático",
 "r": "Os engenheiros do MIT desenvolveram um robô macio que pode atravessar a água em resposta a flashes de luz. Crédito da foto: Melanie Gonick, MIT. Por Jennifer Chu A natação pode exigir muitos músculos. Mas, como descobriram os engenheiros do MIT, mesmo uma única camada de células musculares pode passar pela água se for projetada corretamente. Em um artigo aparecendo…",
@@ -914,7 +946,8 @@
 "i": "https://robohub.org/wp-content/uploads/2026/09/MIT-RoboMuscle-01-press_0.jpg",
 "d": "2026-10-19T04:07-03:00",
 "c": [
-"ia"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "Powered by muscle cells, a paper-thin robot swims through watery maze",
@@ -945,26 +978,6 @@
 "cv": "Tech Xplore"
 },
 {
-"id": "b657bbd1f782d9",
-"t": "O robô que eu não esperava construir",
-"r": "Agility Robotics, a empresa que fundei em meu laboratório de robótica na Oregon State University em 2015, acaba de lançar o Digit 5. Ele foi projetado para ser o primeiro robô humanóide que pode realizar trabalhos úteis em escala de forma segura e econômica, permitindo-nos trazer dezenas de milhares de trabalhadores humanóides para o mundo real…",
-"u": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=980",
-"d": "2026-10-19T10:00-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "The Robot I Didn’t Expect to Build",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
-},
-{
 "id": "448617650f8a8e",
 "t": "A Laplace Intelligence reúne robôs e carros autônomos antes que eles cheguem ao mundo real",
 "r": "A Laplace Intelligence, spinout da Universidade de Michigan, usa agentes de IA e simulação interativa para testar robôs e veículos autônomos antes da implantação. A startup lucrativa está competindo no Startup Battlefield no TechCrunch Disrupt, de 13 a 15 de outubro em São Francisco.",
@@ -974,7 +987,8 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
 "d": "2026-10-19T09:30-03:00",
 "c": [
-"autonomos"
+"autonomos",
+"defesa"
 ],
 "l": 0,
 "to": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -996,7 +1010,7 @@
 "i": "https://assets.newatlas.com/dims4/default/5465d03/2147483647/strip/true/crop/1964x1310+0+0/resize/1439x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb6%2F45%2F9c4e5b844ef9b5c509ca50904ffa%2Falbatross-prototype-in-mid-flight-during-its-autorotating-descent.jpeg",
 "d": "2026-10-17T16:03-03:00",
 "c": [
-"geral"
+"microrrobos"
 ],
 "l": 1,
 "to": "Bioinspired robot airdrops into remote waters via morphing wing-sail",
@@ -1009,6 +1023,27 @@
 }
 ],
 "2026-10-16": [
+{
+"id": "b8f4f36ff32f03",
+"t": "Vídeo sexta-feira: quando dois robôs se tornam um",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
+"u": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=980",
+"d": "2026-10-16T13:30-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: When Two Robots Become One",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
 {
 "id": "b75d62d644deac",
 "t": "Robot Talk Episódio 166 – Evolução de corpos e cérebros de robôs, com Rika Antonova",
@@ -1039,7 +1074,7 @@
 "i": "https://assets.newatlas.com/dims4/default/aa5f254/2147483647/strip/true/crop/1314x876+0+0/resize/1314x876!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc2%2F84%2F01aa861b443498ebf4b958e9cdda%2Fhopping-robot-1.jpeg",
 "d": "2026-10-16T20:03-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "Wound-helix robot leaps and bounds over obstacles",
@@ -1048,26 +1083,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas"
-},
-{
-"id": "b8f4f36ff32f03",
-"t": "Vídeo sexta-feira: quando dois robôs se tornam um",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
-"u": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=980",
-"d": "2026-10-16T13:30-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: When Two Robots Become One",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 },
 {
 "id": "84c2c565c396ae",
@@ -1079,7 +1094,7 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
 "d": "2026-10-16T13:30-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -1099,7 +1114,8 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
 "d": "2026-10-16T13:30-03:00",
 "c": [
-"ia"
+"ia",
+"educacao"
 ],
 "l": 0,
 "to": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -1155,6 +1171,27 @@
 ],
 "2026-10-13": [
 {
+"id": "8c227999949ccc",
+"t": "Perguntas e respostas: Mars Perseverance Rover estabelece um recorde de distância",
+"r": "Em 11 de outubro, o rover Perseverance completou uma viagem que elevou a distância total percorrida em Marte para 28,10 milhas (45,22 quilômetros). Este é um novo recorde para os rovers de Marte, possibilitado em grande parte pela capacidade do Perseverance de conduzir com muito mais autonomia do que os seus antecessores. Nos últimos cinco anos…",
+"u": "https://spectrum.ieee.org/mars-rover-distance-record",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=980",
+"d": "2026-10-13T12:02-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cur": 1,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "106143bfb96d49",
 "t": "A IA pode agir exatamente como um ser humano, mas ainda não achamos que seja consciente",
 "r": "Um novo estudo revela que as pessoas traçam uma linha surpreendentemente nítida entre a consciência humana e a inteligência artificial, mesmo quando ambas se comportam de forma idêntica. Os pesquisadores descobriram que os participantes consideravam até mesmo a IA mais responsiva menos consciente do que o ser humano menos responsivo. No entanto, quando questionado sobre “consciência”…",
@@ -1174,27 +1211,6 @@
 "cur": 1,
 "cr": 3,
 "cv": "ScienceDaily"
-},
-{
-"id": "8c227999949ccc",
-"t": "Perguntas e respostas: Mars Perseverance Rover estabelece um recorde de distância",
-"r": "Em 11 de outubro, o rover Perseverance completou uma viagem que elevou a distância total percorrida em Marte para 28,10 milhas (45,22 quilômetros). Este é um novo recorde para os rovers de Marte, possibilitado em grande parte pela capacidade do Perseverance de conduzir com muito mais autonomia do que os seus antecessores. Nos últimos cinco anos…",
-"u": "https://spectrum.ieee.org/mars-rover-distance-record",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=980",
-"d": "2026-10-13T12:02-03:00",
-"c": [
-"espaco"
-],
-"l": 0,
-"to": "Q&A: Mars Perseverance Rover Sets a Distance Record",
-"lg": "en",
-"esp": 1,
-"p": 4.3,
-"cur": 1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 },
 {
 "id": "3bfcfa2b67d196",
@@ -1249,8 +1265,9 @@
 "d": "2026-10-12T04:51-03:00",
 "c": [
 "humanoides",
-"industriais",
-"casa"
+"competicoes",
+"casa",
+"industriais"
 ],
 "l": 0,
 "to": "Humanoid robots can sprint and box – but the real test is doing the laundry",
@@ -1292,7 +1309,7 @@
 "i": "https://assets.newatlas.com/dims4/default/4201e9f/2147483647/strip/true/crop/6240x3504+0+0/resize/1440x809!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F0b%2F02%2F2f2113c748babb9da612e48faf92%2F6240x3504-2.jpg",
 "d": "2026-10-11T08:00-03:00",
 "c": [
-"ia"
+"microrrobos"
 ],
 "l": 0,
 "to": "Impossibly tiny Swiss motor looks like anything but",
@@ -1312,7 +1329,7 @@
 "i": "https://assets.newatlas.com/dims4/default/d1b94a5/2147483647/strip/true/crop/2500x1666+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ffb%2F59%2Fecdc58c94dc3aa1f5ad14a363268%2Fscreenshot-2026-10-07-at-11-10-53-am.jpeg",
 "d": "2026-10-11T21:35-03:00",
 "c": [
-"ia"
+"educacao"
 ],
 "l": 0,
 "to": "Water-pumping robot worms its way over rugged coastal terrain",
@@ -1347,6 +1364,27 @@
 ],
 "2026-10-09": [
 {
+"id": "96aa397c58482d",
+"t": "Vídeo sexta-feira: o descomissionamento do robô dá uma reviravolta divertida",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
+"u": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/an-ai-generated-image-of-a-smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=980",
+"d": "2026-10-09T12:30-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
+{
 "id": "a3814cfc4afef9",
 "t": "Robot Talk Episódio 165 – Robôs por trás da pesquisa, com Kushant Patel",
 "r": "Claire conversou com Kushant Patel, do Laboratório Nacional de Brookhaven, sobre robôs que trabalham em instalações científicas, como aceleradores de partículas. Kushant Patel desenvolve software que ajuda robôs e instrumentos a perceber, mapear e se mover pelo mundo físico. Depois de concluir o Mestrado em Engenharia Mecatrónica…",
@@ -1365,26 +1403,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robohub"
-},
-{
-"id": "96aa397c58482d",
-"t": "Vídeo sexta-feira: o descomissionamento do robô dá uma reviravolta divertida",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
-"u": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/an-ai-generated-image-of-a-smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=980",
-"d": "2026-10-09T12:30-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: Robot Decommissioning Takes a Fun Turn",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 }
 ],
 "2026-10-08": [
@@ -1404,12 +1422,32 @@
 "to": "This Disembodied Hand Is All the Robot You Need",
 "lg": "en",
 "esp": 1,
-"p": 4.3,
-"cr": 2,
+"p": 5.6,
+"cr": 3,
 "cv": "IEEE Spectrum"
 }
 ],
 "2026-10-07": [
+{
+"id": "259ac77af9d3d5",
+"t": "HiPHI: uma referência em larga escala para movimentos humanos de alta precisão e interação de objetos",
+"r": "Este white paper oferece aos pesquisadores e engenheiros de robótica uma visão geral de um novo conjunto de dados de captura de movimento em grande escala construído para preencher a lacuna de dados que limita o aprendizado de robôs humanóides. Ele também mostra como as políticas treinadas no conjunto de dados são transferidas para um robô humanóide real. Sobre o que você aprenderá: Por que o aprendizado de robôs humanóides, um…",
+"u": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+"f": "IEEE Spectrum",
+"s": "content.knowledgehub.wiley.com",
+"i": "https://assets.rbl.ms/68382308/origin.png",
+"d": "2026-10-07T10:49-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
 {
 "id": "d82d439fcb604b",
 "t": "O que três dias construindo um robô me ensinaram",
@@ -1440,7 +1478,8 @@
 "i": "https://assets.newatlas.com/dims4/default/157fd10/2147483647/strip/true/crop/5120x3412+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc8%2Fb8%2F05c7c7e54d82b5547a7d25ba0d6b%2Fdownload.jpeg",
 "d": "2026-10-07T23:51-03:00",
 "c": [
-"ia"
+"agricolas",
+"microrrobos"
 ],
 "l": 0,
 "to": "Tiny robot harvests battery power via skin on its feet",
@@ -1449,26 +1488,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas"
-},
-{
-"id": "259ac77af9d3d5",
-"t": "HiPHI: uma referência em larga escala para movimentos humanos de alta precisão e interação de objetos",
-"r": "Este white paper oferece aos pesquisadores e engenheiros de robótica uma visão geral de um novo conjunto de dados de captura de movimento em grande escala construído para preencher a lacuna de dados que limita o aprendizado de robôs humanóides. Ele também mostra como as políticas treinadas no conjunto de dados são transferidas para um robô humanóide real. Sobre o que você aprenderá: Por que o aprendizado de robôs humanóides, um…",
-"u": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-"f": "IEEE Spectrum",
-"s": "content.knowledgehub.wiley.com",
-"i": "https://assets.rbl.ms/68382308/origin.png",
-"d": "2026-10-07T10:49-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 }
 ],
 "2026-10-06": [
@@ -1504,7 +1523,7 @@
 "i": "https://robohub.org/wp-content/uploads/2026/10/Screenshot-2026-09-27-at-10.29.52-1-425x249.png",
 "d": "2026-10-05T07:00-03:00",
 "c": [
-"ia"
+"companhia"
 ],
 "l": 0,
 "to": "Research could guide the future design of social robots",
@@ -1516,6 +1535,27 @@
 }
 ],
 "2026-10-02": [
+{
+"id": "00bb782fa200db",
+"t": "Sexta-feira de vídeo: Albatross Falls, Spins, Self-Rights e Sails Away",
+"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
+"u": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/futuristic-robotic-bird-gliding-low-above-water-with-a-trailing-wire.png?id=68024679&width=980",
+"d": "2026-10-02T13:30-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "IEEE Spectrum"
+},
 {
 "id": "0f4b22002f9ab0",
 "t": "Robot Talk Episódio 164 – Acelerando o aprendizado do robô, com Michelle Lu",
@@ -1546,7 +1586,8 @@
 "i": "https://assets.newatlas.com/dims4/default/9a75d6b/2147483647/strip/true/crop/1800x1198+0+0/resize/1440x958!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F8d%2F0a%2F2c4e524944869787ad1acf136f17%2Fmit-robomuscle-01-press-0.jpg",
 "d": "2026-10-02T22:00-03:00",
 "c": [
-"ia"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "MIT robot swims through water via living muscle cells",
@@ -1555,26 +1596,6 @@
 "p": 5.6,
 "cr": 3,
 "cv": "New Atlas"
-},
-{
-"id": "00bb782fa200db",
-"t": "Sexta-feira de vídeo: Albatross Falls, Spins, Self-Rights e Sails Away",
-"r": "Video Friday é sua seleção semanal de vídeos incríveis de robótica, coletados por seus amigos do IEEE Spectrum Robotics. Também publicamos um calendário semanal dos próximos eventos de robótica para os próximos meses. Por favor, envie-nos seus eventos para inclusão. CoRL 2026: 9–12 de novembro de 2026, AUSTIN Humanoids 2026: 6–9 de dezembro de 2026…",
-"u": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-"f": "IEEE Spectrum",
-"s": "spectrum.ieee.org",
-"i": "https://spectrum.ieee.org/media-library/futuristic-robotic-bird-gliding-low-above-water-with-a-trailing-wire.png?id=68024679&width=980",
-"d": "2026-10-02T13:30-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
-"lg": "en",
-"esp": 1,
-"p": 5.1,
-"cr": 2,
-"cv": "IEEE Spectrum"
 }
 ],
 "2026-10-01": [
@@ -1594,8 +1615,8 @@
 "to": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
 "lg": "en",
 "esp": 1,
-"p": 11.1,
-"cr": 2,
+"p": 12.4,
+"cr": 3,
 "cv": "IEEE Spectrum"
 },
 {
