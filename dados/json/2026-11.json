@@ -3,7 +3,7 @@
 {
 "id": "09be70d888f825",
 "t": "ASUS anuncia primeiro robô humanóide: Gallop",
-"r": "",
+"r": "SYHsu, Co-CEO da ASUS discute o desenvolvimento na unidade física de IA da empresa com seu primeiro robô humanóide atualmente sendo testado na linha de produção da ASUS. Ele conta que Gallop está programado para ser lançado para seus parceiros no segundo semestre de 2027 e chegar ao mercado em 2028.",
 "u": "https://www.cnbc.com/video/2026/11/13/asus-announces-first-humanoid-robot-gallop.html",
 "f": "CNBC",
 "s": "cnbc.com",
@@ -15,15 +15,37 @@
 "l": 1,
 "to": "ASUS announces first humanoid robot: Gallop",
 "lg": "en",
-"p": 11.3,
+"p": 11.6,
 "cr": 3,
 "cv": "CNBC",
-"mx": 0
+"mx": 1,
+"rx": "SYHsu, Co-CEO da ASUS discute o desenvolvimento na unidade física de IA da empresa com seu primeiro robô humanóide atualmente sendo testado na linha de produção da ASUS. Ele conta que Gallop está programado para ser lançado para seus parceiros no segundo semestre de 2027 e chegar ao mercado em 2028."
+},
+{
+"id": "642199af7ae998",
+"t": "Vídeo de dança do humanóide \"LimX Luna\" lançado, apresentando controle de grupo e SDK LimX Dynamics 3ª foto/imagem",
+"r": "A empresa americana de robôs Boston Dynamics... MIXI lançará o robô conversacional de IA \"Romi\" em outubro de 2026...",
+"u": "https://robotstart.info/article/img/2026/11/13/382628/109359.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109359.jpg",
+"d": "2026-11-13T01:25-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "ヒューマノイド「LimX Luna」のダンス映像公開、群制御とSDKを紹介 LimX Dynamics 3枚目の写真・画像",
+"lg": "ja",
+"p": 11.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "A empresa americana de robôs Boston Dynamics... MIXI lançará o robô conversacional de IA \"Romi\" em outubro de 2026..."
 },
 {
 "id": "006a279fc09955",
 "t": "A “economia compartilhada” da China está crescendo Nova demanda devido à disseminação da IA ​​e dos robôs",
-"r": "",
+"r": "Se você quiser compartilhar o artigo dentro de sua empresa, reimprimi-lo/duplicá-lo em materiais de conferências, solicitar impressão, etc., consulte o link. A procura de que os consumidores partilhem produtos com outros, alugando-os em vez de os comprar, está a crescer na China. De acordo com a iMedia Research, uma…",
 "u": "https://www.nikkei.com/article/DGXZQOGM126QJ0S6A111C2000000/",
 "f": "日本経済新聞",
 "s": "nikkei.com",
@@ -35,15 +57,16 @@
 "l": 0,
 "to": "中国、「シェア経済」活気 AIやロボット普及で新需要",
 "lg": "ja",
-"p": 4.5,
+"p": 4.8,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 0
+"mx": 1,
+"rx": "Se você quiser compartilhar o artigo dentro de sua empresa, reimprimi-lo/duplicá-lo em materiais de conferências, solicitar impressão, etc., consulte o link. A procura de que os consumidores partilhem produtos com outros, alugando-os em vez de os comprar, está a crescer na China. De acordo com a iMedia Research, uma empresa de pesquisa chinesa, o tamanho do mercado desta “economia compartilhada” atingirá 13,4437 trilhões de yuans (aproximadamente 322 trilhões de ienes) em 2025, um aumento de 60% em relação a 2020.\nMesmo se você se cadastrar gratuitamente, poderá visualizar os artigos consumindo artigos (número limitado de artigos). Seguir um tópico tornará mais fácil verificar as informações mais recentes e ler o resumo."
 },
 {
 "id": "db8bf7d3b3d1b5",
 "t": "Liberaware [218A]: Liberaware foi selecionado como parceiro de cocriação para o programa de inovação aberta \"PORT\" da província de Chiba - Cocriando um mecanismo de colaboração entre robôs, câmeras e recursos humanos locais - 13 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
-"r": "",
+"r": "13 de novembro de 2026 O documento de divulgação da Liberaware [218A] ``Liberaware foi selecionado como parceiro de cocriação para o programa de inovação aberta \"PORT\" da província de Chiba ~ Co-criando um mecanismo para colaboração entre robôs, câmeras e recursos humanos locais ~'' pode ser visualizado. Os materiais…",
 "u": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8acp8&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261113578764/",
 "f": "日本経済新聞",
 "s": "nikkei.com",
@@ -55,15 +78,108 @@
 "l": 0,
 "to": "Ｌｉｂｅｒａｗａｒｅ[218A]：Liberaware、千葉県のオープンイノベーションプログラム「PORT」における共創パートナーが決定～ロボット・カメラと地域人材が連携する仕組みを共創～ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
 "lg": "ja",
-"p": 4.5,
+"p": 4.8,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 0
+"mx": 1,
+"rx": "13 de novembro de 2026 O documento de divulgação da Liberaware [218A] ``Liberaware foi selecionado como parceiro de cocriação para o programa de inovação aberta \"PORT\" da província de Chiba ~ Co-criando um mecanismo para colaboração entre robôs, câmeras e recursos humanos locais ~'' pode ser visualizado. Os materiais podem ser baixados em PDF"
+},
+{
+"id": "5fab4429d23eec",
+"t": "Taisei Corporation promove expansão da aplicação do método automatizado de soldagem no local “T-iROBO Welding” usando robôs",
+"r": "Promovendo a expansão da aplicação do \"T-iROBO Welding\", um método automatizado de soldagem no local usando robôs A Taisei Corporation (Presidente: Yoshiro Aikawa) está trabalhando para expandir o escopo de aplicações e fortalecer a estrutura operacional do \"T-iROBO Welding\", um método automatizado de soldagem no…",
+"u": "https://www.nikkei.com/article/DGXZRSP715234_13112026000000",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3874399013112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=3b7ac3dfd449c9a3e838e36941faec75",
+"d": "2026-11-13T01:55-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "大成建設、ロボットによる現場溶接自動化工法「T-iROBO Welding」の適用拡大を推進",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "Promovendo a expansão da aplicação do \"T-iROBO Welding\", um método automatizado de soldagem no local usando robôs A Taisei Corporation (Presidente: Yoshiro Aikawa) está trabalhando para expandir o escopo de aplicações e fortalecer a estrutura operacional do \"T-iROBO Welding\", um método automatizado de soldagem no local usando robôs.\nEsta tecnologia começou a ser aplicada a colunas quadradas de tubos de aço em 2016 e agora foi expandida para incluir colunas de seção transversal em forma de caixa e colunas circulares de tubos de aço. Nossa empresa vem desenvolvendo um método de soldagem robótica que pode ser aplicado à soldagem no local de colunas quadradas de tubos de aço e está implementando-o em caráter experimental."
+},
+{
+"id": "ead7ddcabde1ed",
+"t": "Câncer de próstata: como a cirurgia robótica, os tratamentos focais e a inteligência artificial mudam sua abordagem",
+"r": "Em linha com o Novembro Azul, campanha que busca promover o cuidado com a saúde do homem e a detecção precoce do câncer de próstata, o encontro reunirá especialistas de diversos países para discutir como a cirurgia robótica, os tratamentos focais e a inteligência artificial estão modificando o diagnóstico e o cuidado…",
+"u": "https://www.infobae.com/salud/ciencia/2026/11/13/cancer-de-prostata-como-la-cirugia-robotica-los-tratamientos-focales-y-la-inteligencia-artificial-cambian-su-abordaje/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/EFPVTDU43BEWZJV4IN45OUZSLA.png?auth=3057a7c84ca6078008f91063d0d9f32c63684879a0f5d27e8d6181c15b0dd865&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-13T02:00-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Cáncer de próstata: cómo la cirugía robótica, los tratamientos focales y la inteligencia artificial cambian su abordaje",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "Em linha com o Novembro Azul, campanha que busca promover o cuidado com a saúde do homem e a detecção precoce do câncer de próstata, o encontro reunirá especialistas de diversos países para discutir como a cirurgia robótica, os tratamentos focais e a inteligência artificial estão modificando o diagnóstico e o cuidado desta doença. Entre as atividades previstas, estará uma telecirurgia robótica entre Buenos Aires e Córdoba, uma experiência inédita na Argentina.\n“Nem todos os pacientes com câncer de próstata são candidatos ao tratamento focal”, observou Bernardo. O Congresso Mundial de Endourologia chegará a Buenos Aires no contexto de uma campanha de conscientização sobre o câncer de próstata."
+},
+{
+"id": "7bccd2122cbc94",
+"t": "Dez fornecedores de drones sinalizados por suspeita de componentes chineses",
+"r": "Uma inspeção recente descobriu que 10 fornecedores domésticos de drones são suspeitos de usar componentes fabricados na China, informou hoje o Instituto Nacional de Ciência e Tecnologia de Chungshan. Os fornecedores foram instruídos a substituir os componentes por alternativas que não sejam fabricadas na China, disse…",
+"u": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867685",
+"f": "Taipei Times",
+"s": "taipeitimes.com",
+"i": "https://img.taipeitimes.com/images/2026/11/13/6af69a8d6e9d7.jpg",
+"d": "2026-11-13T02:05-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ten drone suppliers flagged over suspected Chinese components",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Taipei Times",
+"mx": 1,
+"rx": "Uma inspeção recente descobriu que 10 fornecedores domésticos de drones são suspeitos de usar componentes fabricados na China, informou hoje o Instituto Nacional de Ciência e Tecnologia de Chungshan. Os fornecedores foram instruídos a substituir os componentes por alternativas que não sejam fabricadas na China, disse o instituto. À luz dos repetidos incidentes de fornecedores de drones misturando peças fabricadas na China nas entregas, o instituto exigiu que os fornecedores enviassem amostras para verificação e passassem por inspeções do processo de produção para apoiar futuros programas de produção em massa.\nPara contratos envolvendo entregas feitas antes de 2024, os fabricantes foram solicitados a fornecer drones do mesmo modelo para inspeção, com pessoal técnico desmontando a aeronave e verificando a origem dos componentes principais individualmente, disseram."
+},
+{
+"id": "c44c2dee871a33",
+"t": "Hikvision: Hikvision Robotics concluiu a reestruturação acionária e o arquivamento de orientação de listagem",
+"r": "De acordo com as notícias da IT House em 13 de novembro, a Hikvision declarou na plataforma interativa hoje (13 de novembro) que a Hikvision Robotics concluiu o pedido de reestruturação acionária e orientação de listagem. Consulte as informações de divulgação oficial para o progresso relacionado ao IPO. A IT House…",
+"u": "https://www.ithome.com/1/026/667.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-13T01:16-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+"lg": "zh",
+"p": 4.0,
+"o": [
+{
+"f": "36kr.com",
+"u": "https://36kr.com/newsflashes/4067693154063237",
+"s": "36kr.com",
+"id": "4a05ffe919a00b"
+}
+],
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "De acordo com as notícias da IT House em 13 de novembro, a Hikvision declarou na plataforma interativa hoje (13 de novembro) que a Hikvision Robotics concluiu o pedido de reestruturação acionária e orientação de listagem. Consulte as informações de divulgação oficial para o progresso relacionado ao IPO. A IT House perguntou sobre informações públicas e descobriu que a Hikvision Robotics é uma fornecedora global de produtos e soluções de visão mecânica e robôs móveis. Seus negócios se concentram na Internet das Coisas industrial, logística inteligente e manufatura inteligente. Era anteriormente conhecido como Departamento de Negócios de Visão de Máquina Hikvision e foi estabelecido de forma independente em 2016.\nEm 6 de julho de 2026, quando um robô coletor de garfos saiu da linha de produção, a Hikvision Robot anunciou oficialmente que o número cumulativo de seus robôs móveis em todas as categorias ultrapassou 200.000 unidades."
 },
 {
 "id": "ebf5c9f16ea642",
 "t": "Robô com padrão de tigre chamado “Hanshin-kun” Primeiro Ministro experimenta IA física e troca opiniões com empresas relacionadas",
-"r": "",
+"r": "Em 12 de novembro, o primeiro-ministro Sanae Takaichi convidou representantes de empresas envolvidas em “IA física”, que tornam máquinas autônomas usando inteligência artificial (IA), para uma reunião em sua residência oficial para troca de opiniões. Depois de realmente experimentar a mais recente tecnologia de robôs…",
 "u": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
 "f": "ITmedia",
 "s": "itmedia.co.jp",
@@ -75,15 +191,16 @@
 "l": 0,
 "to": "虎柄ロボットに「阪神君」と命名 首相、フィジカルAIを体験 関連企業と意見交換",
 "lg": "ja",
-"p": 3.2,
+"p": 3.5,
 "cr": 2,
 "cv": "ITmedia",
-"mx": 0
+"mx": 1,
+"rx": "Em 12 de novembro, o primeiro-ministro Sanae Takaichi convidou representantes de empresas envolvidas em “IA física”, que tornam máquinas autônomas usando inteligência artificial (IA), para uma reunião em sua residência oficial para troca de opiniões. Depois de realmente experimentar a mais recente tecnologia de robôs de IA, ele pediu “vamos unir o poder dos setores público e privado para promover estrategicamente a primeira implementação social de IA física em grande escala no mundo”.\nO governo posicionou a IA física como uma das 17 áreas estratégicas para investimento público e privado intensivo. Um total de seis fabricantes de robôs e peças participaram da reunião de troca de opiniões deste dia. Robô com padrão de tigre chamado “Hanshin-kun” Primeiro Ministro experimenta IA física e troca opiniões com empresas relacionadas"
 },
 {
 "id": "ed377083b6c6a2",
 "t": "Os robôs físicos de IA enviarão 3,21 milhões de unidades em todo o mundo em 2035. Previsto pelo Yano Research Institute",
-"r": "",
+"r": "Em 13 de novembro, o Yano Research Institute anunciou os resultados de uma pesquisa sobre o mercado global de robôs físicos aplicados em IA. A pesquisa define os robôs que serão recentemente introduzidos após 2025 como “aplicados por IA física”, como aqueles em que os resultados de reconhecimento e julgamento do…",
 "u": "https://ai.watch.impress.co.jp/docs/news/2156193.html",
 "f": "株式会社インプレス",
 "s": "ai.watch.impress.co.jp",
@@ -95,10 +212,52 @@
 "l": 0,
 "to": "フィジカルAIロボット、2035年に世界出荷321万台へ。矢野経済研究所が予測",
 "lg": "ja",
-"p": 3.2,
+"p": 3.5,
 "cr": 2,
 "cv": "Impress Watch",
-"mx": 0
+"mx": 1,
+"rx": "Em 13 de novembro, o Yano Research Institute anunciou os resultados de uma pesquisa sobre o mercado global de robôs físicos aplicados em IA. A pesquisa define os robôs que serão recentemente introduzidos após 2025 como “aplicados por IA física”, como aqueles em que os resultados de reconhecimento e julgamento do ambiente e dos objetos de trabalho pela IA são refletidos diretamente no movimento real, nos movimentos de trabalho e no controle.\nDe acordo com a empresa, o eixo competitivo para robôs físicos de IA está mudando do tradicional “desempenho e precisão de controle de hardware individual” para “capacidades de integração de sistemas que vinculam detecção, inferência de IA, controle e acionamento”."
+},
+{
+"id": "f8eb03c3c28905",
+"t": "Alimentos chegam por drone a Shenzhen, sede da APEC, enquanto a China expande a economia de “baixa altitude”",
+"r": "",
+"u": "https://www.reuters.com/business/retail-consumer/food-arrives-by-drone-apec-host-shenzhen-china-expands-low-altitude-economy-2026-11-13/",
+"f": "Reuters",
+"s": "reuters.com",
+"i": "",
+"d": "2026-11-13T00:49-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Food arrives by drone in APEC host Shenzhen, as China expands 'low-altitude' economy",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Reuters",
+"mx": 1
+},
+{
+"id": "f44f3ce47aa58e",
+"t": "A startup de IA física da SG, Ropeda, expande dados de treinamento em robótica",
+"r": "",
+"u": "https://www.techinasia.com/news/sg-physical-ai-startup-ropedia-expands-robotics-training-data",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-13T01:46-03:00",
+"c": [
+"ia",
+"negocios"
+],
+"l": 0,
+"to": "SG physical AI startup Ropedia expands robotics training data",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Tech in Asia",
+"mx": 1
 }
 ],
 "2026-11-12": [
@@ -751,7 +910,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -770,7 +929,7 @@
 ],
 "cr": 3,
 "cv": "United Daily News",
-"mx": -1,
+"mx": 1,
 "rx": "No dia 12, Zhishen (4915) Technology participou como parceiro estratégico no \"ROBOT READY 2026 Robot Universal Guidelines Release and Technology Ecosystem Forum\" organizado pela Agência de Desenvolvimento Industrial do Ministério de Assuntos Econômicos e executado pela Associação de Promoção da Indústria da Informação e pelo Centro de Pesquisa e Desenvolvimento de Máquinas de Precisão. Também lançou em conjunto o \"Sistema Robô Baseado em ROS 2 - Diretrizes Introdutórias Universais\" com outros 23 parceiros estratégicos.\nBaseando-se na sua experiência integrada em fusão multissensorial, computação de ponta e desenvolvimento de robôs móveis autônomos, Zhishen fornece perspectivas da indústria sobre aplicações de sensores, interfaces de aplicações e necessidades de integração de sistemas, participa na promoção de uma estrutura tecnológica comum para a indústria de robôs e promove intercâmbios e colaborações tecnológicas entre domínios."
 },
 {
@@ -1660,7 +1819,8 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Interesting Engineering",
-"mx": 0
+"mx": 1,
+"rx": "Um projeto alemão de US$ 1,54 milhão está desenvolvendo sistemas de navegação e câmeras sem GPS para enxames de robôs autônomos que exploram Marte."
 },
 {
 "id": "6c0f0ed0c0149b",
@@ -2955,6 +3115,69 @@
 "rx": "DeepX, uma empresa nacional de semicondutores de inteligência artificial (IA), está colaborando com a Intel na tecnologia de inferência de IA. A ideia é vincular o software de inferência de IA da Intel à unidade de processamento de rede neural (NPU) da DeepX para construir um ambiente no qual os modelos de IA e ferramentas de desenvolvimento existentes possam ser utilizados. Também estamos trabalhando com a KTNF, uma empresa nacional de servidores, para desenvolver um servidor de inferência de IA que combine a unidade central de processamento (CPU) Intel e o DeepX NPU. As duas empresas decidiram explorar maneiras de expandir o escopo de aplicação do DeepX NPU utilizando a plataforma de computação e software da Intel. O núcleo desta cooperação é a ligação entre o software de inferência e otimização de IA da Intel, 'OpenVINO', e DeepX NPU. As duas empresas revisarão a conversão do modelo de IA, a compatibilidade do ambiente de execução e as medidas de otimização de desempenho para utilizar o DeepX NPU no ambiente Open Vino.\nA DeepX está considerando fornecer tecnologia de otimização de modelo NPU e AI, e a Intel Coreia está considerando fornecer plataformas de computação, como CPU e tecnologia de software."
 },
 {
+"id": "edbc8013420cbf",
+"t": "Dois dias antes de seu encontro com Jensen Huang estourar, Kimberly Powell da Nvidia lançou ‘hospitais robóticos’ para",
+"r": "KYC e KYB: Dentro da Pidilite, a empresa que transformou Fevicol em uma palavra para um vínculo forte – Parte 1 de 3 Seul interrompe as negociações, Nifty tem sua melhor semana desde 2021: Dinheiro saindo do comércio de IA – ele chegará à Índia? Os junk bonds estão rachando no fundo. Será que o ruído ficará alto o…",
+"u": "https://economictimes.indiatimes.com/world/us/two-days-before-her-tryst-with-jensen-huang-popped-nvidias-kimberly-powell-pitched-robot-hospitals-to-explain-why-the-worlds-largest-chipmaker-is-betting-on-healthcare/articleshow/135786123.cms",
+"f": "The Economic Times",
+"s": "economictimes.indiatimes.com",
+"i": "https://img.etimg.com/thumb/msid-135786210,width-1200,height-900,imgsize-1231942,overlay-economictimes/articleshow.jpg",
+"d": "2026-11-12T22:50-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Two days before her tryst with Jensen Huang popped, Nvidia’s Kimberly Powell pitched ‘robot hospitals’ to",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1,
+"rx": "KYC e KYB: Dentro da Pidilite, a empresa que transformou Fevicol em uma palavra para um vínculo forte – Parte 1 de 3 Seul interrompe as negociações, Nifty tem sua melhor semana desde 2021: Dinheiro saindo do comércio de IA – ele chegará à Índia? Os junk bonds estão rachando no fundo. Será que o ruído ficará alto o suficiente para tornar “junk bond” um termo familiar novamente?"
+},
+{
+"id": "b2ba95eca15ebf",
+"t": "A cadeia de fornecimento de robôs de Taiwan está em movimento! Indústria, governo e investigação promovem conjuntamente directrizes universais para apoiar a modernização industrial | Tendências da indústria | Informações comerciais",
+"r": "À medida que a IA física continua a promover a evolução da tecnologia robótica, a competição futura da indústria não dependerá apenas do desempenho de um único componente, mas também da capacidade de integrar eficazmente capacidades de percepção, computação e execução para formar um sistema inteligente flexível e…",
+"u": "https://money.udn.com/money/story/11799/9874482",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511232.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=776&sl=W&fw=1050&exp=3600",
+"d": "2026-11-12T23:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "臺灣機器人供應鏈動起來！產官研共推通用化指引助攻產業升級 | 產業動態 | 商情",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "À medida que a IA física continua a promover a evolução da tecnologia robótica, a competição futura da indústria não dependerá apenas do desempenho de um único componente, mas também da capacidade de integrar eficazmente capacidades de percepção, computação e execução para formar um sistema inteligente flexível e escalável. A fim de ajudar as empresas taiwanesas a aproveitar as oportunidades de mercado e entrar no ecossistema robótico, o \"ROBOT READY\" será realizado no Courtyard Cathay Hotel em Taipei em 12 de novembro. É organizado pela Administração de Desenvolvimento Industrial do Ministério de Assuntos Econômicos, implementado pelo Conselho de Política de Informação e pelo Centro de Máquinas de Precisão, e co-organizado pela Associação de Equipamentos Eletrônicos e pela Associação de Mobilidade Inteligente. O \"Fórum de Ecossistema Tecnológico e Lançamento de Diretrizes de Generalização de Robôs 2026\" se concentrará no desenvolvimento tecnológico e na aplicação de componentes-chave por meio de lançamentos de diretrizes, fóruns de tecnologia e exibições físicas, a fim de delinear o próximo estágio da direção de desenvolvimento da indústria de robôs de Taiwan."
+},
+{
+"id": "36f9604724fd53",
+"t": "A segunda rodada da Kurafun para doar o robô familiar \"LOVOT\" para lares infantis já começou.A meta é doar 10 milhões de ienes para 6 a 8 instalações.Segunda foto/imagem",
+"r": "Empreendimento robótico GROOVE",
+"u": "https://robotstart.info/article/img/2026/11/13/382627/109333.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109333.jpg",
+"d": "2026-11-12T23:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "家族型ロボット「LOVOT」を児童養護施設に贈るクラファン第2弾を開始 目標1,000万円で6～8施設への寄贈を目指す 2枚目の写真・画像",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Empreendimento robótico GROOVE"
+},
+{
 "id": "3bd7d4b71c757a",
 "t": "2 ações de robótica de IA que podem ajudar a prepará-lo para a vida",
 "r": "Os robôs humanóides se tornarão produtos críticos dentro de alguns anos, e todos esses robôs requerem chips. A Micron conquistou uma posição dominante na indústria de chips de memória, e esses chips são necessários para a expansão do robô humanóide. Assim como os robôs humanóides precisam de GPUs, eles também precisam…",
@@ -3067,88 +3290,45 @@
 "rx": "“Quero que a Agility Robotics seja uma empresa próspera daqui a cem anos”, disse-me Jonathan Hurst. Minha perspectiva sempre foi a de que o cenário parecerá muito diferente quando essa robótica industrial atingir uma escala significativa. \"O Dígito 5 é o objetivo da Agility há mais de uma década. Mas o robô é pesado e volumoso, sem o movimento natural gracioso de seus antecessores, e está mais longe do que eu pensava ser possível do robô que sonhei em construir quando comecei esta empresa\", escreve Hurst.\nA Agility não deu ao seu primeiro robô, Cassie, articulações de joelhos humanos desde o início, mas acabou chegando lá organicamente. “É diferente construir um robô para as corridas de maratona na China”, diz-me Hurst. “É um robô muito diferente."
 },
 {
-"id": "edbc8013420cbf",
-"t": "Two days before her tryst with Jensen Huang popped, Nvidia’s Kimberly Powell pitched ‘robot hospitals’ to",
-"r": "",
-"u": "https://economictimes.indiatimes.com/world/us/two-days-before-her-tryst-with-jensen-huang-popped-nvidias-kimberly-powell-pitched-robot-hospitals-to-explain-why-the-worlds-largest-chipmaker-is-betting-on-healthcare/articleshow/135786123.cms",
-"f": "The Economic Times",
-"s": "economictimes.indiatimes.com",
-"i": "https://img.etimg.com/thumb/msid-135786210,width-1200,height-900,imgsize-1231942,overlay-economictimes/articleshow.jpg",
-"d": "2026-11-12T22:50-03:00",
+"id": "3130f479187c8a",
+"t": "LG Electronics domina a demanda inicial por humanóides... “Visualização do negócio de robôs em 2027”",
+"r": "ｺɾN(ｺɾ) ǰ/Ƿ Ż, å, ǿ, , , ǷIT",
+"u": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=585480",
+"f": "헬스조선",
+"s": "health.chosun.com",
+"i": "",
+"d": "2026-11-12T22:41-03:00",
 "c": [
-"medicina"
+"humanoides"
 ],
 "l": 0,
-"to": "Two days before her tryst with Jensen Huang popped, Nvidia’s Kimberly Powell pitched ‘robot hospitals’ to",
-"lg": "?",
-"nt": 1,
-"p": 4.5,
+"to": "LG전자, 휴머노이드 초기 수요 선점… \"2027년 로봇 사업 가시화\"",
+"lg": "ko",
+"p": 4.6,
 "cr": 3,
-"cv": "The Economic Times",
-"mx": 0
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "ｺɾN(ｺɾ) ǰ/Ƿ Ż, å, ǿ, , , ǷIT"
 },
 {
 "id": "783861109767cd",
-"t": "晉弘財報／第3季轉盈、單季 EPS 0.26元 布局手術機器人明年商機",
+"t": "Relatório Financeiro Jinhong/Retorno ao lucro no terceiro trimestre, lucro por ação no único trimestre de 0,26 yuan, oportunidades de negócios de layout para robôs cirúrgicos no próximo ano",
 "r": "",
 "u": "https://udn.com/news/story/7252/9876071",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-12T22:55-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
 "to": "晉弘財報／第3季轉盈、單季 EPS 0.26元 布局手術機器人明年商機",
-"lg": "?",
-"nt": 1,
+"lg": "en",
 "p": 4.5,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "b2ba95eca15ebf",
-"t": "臺灣機器人供應鏈動起來！產官研共推通用化指引助攻產業升級 | 產業動態 | 商情",
-"r": "",
-"u": "https://money.udn.com/money/story/11799/9874482",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511232.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=776&sl=W&fw=1050&exp=3600",
-"d": "2026-11-12T23:02-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "臺灣機器人供應鏈動起來！產官研共推通用化指引助攻產業升級 | 產業動態 | 商情",
-"lg": "?",
-"nt": 1,
-"p": 4.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "36f9604724fd53",
-"t": "家族型ロボット「LOVOT」を児童養護施設に贈るクラファン第2弾を開始 目標1,000万円で6～8施設への寄贈を目指す 2枚目の写真・画像",
-"r": "",
-"u": "https://robotstart.info/article/img/2026/11/13/382627/109333.html",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "https://robotstart.info/imgs/ogp_f/109333.jpg",
-"d": "2026-11-12T23:10-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "家族型ロボット「LOVOT」を児童養護施設に贈るクラファン第2弾を開始 目標1,000万円で6～8施設への寄贈を目指す 2枚目の写真・画像",
-"lg": "?",
-"nt": 1,
-"p": 4.5,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 0
+"mx": 9
 },
 {
 "id": "ad2d4d45e22fd5",
@@ -3423,27 +3603,6 @@
 "rx": "Um robô construiu uma estrutura no espaço sem a ajuda de astronautas. A conquista inédita é um passo em direção à fabricação e montagem autônoma em órbita de estruturas como estações espaciais e centros de dados, o que será crucial se quisermos desenvolver uma economia orbital. Sergio Pellegrino, do Instituto de Tecnologia da Califórnia, e sua equipe desenvolveram seu robô como parte de uma iniciativa da Agência de Projetos de Pesquisa Avançada de Defesa dos EUA (DARPA) para explorar novas maneiras de construir no espaço.\nDesde o seu lançamento em março na Base da Força Espacial de Vandenberg, na Califórnia, o robô trabalha na construção de uma antena de rádio, de 1,4 metros de diâmetro, a partir de um conjunto de tubos, juntas e redes refletivas. Tirar a construção espacial das mãos humanas poderia acelerar enormemente o desenvolvimento dos negócios e da ciência em órbita, e montar uma antena de rádio no espaço é apenas o começo."
 },
 {
-"id": "3130f479187c8a",
-"t": "LG전자, 휴머노이드 초기 수요 선점… \"2027년 로봇 사업 가시화\"",
-"r": "",
-"u": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=585480",
-"f": "헬스조선",
-"s": "health.chosun.com",
-"i": "",
-"d": "2026-11-12T22:41-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "LG전자, 휴머노이드 초기 수요 선점… \"2027년 로봇 사업 가시화\"",
-"lg": "?",
-"nt": 1,
-"p": 4.3,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 0
-},
-{
 "id": "2157f7546d46d7",
 "t": "O ecossistema Lingguang está se expandindo novamente! Seis novos conectores, incluindo WeChat ClawBot, QQ Robot e Luckin Coffee, foram adicionados",
 "r": "Em 12 de novembro, o ecossistema aberto do Lingguang se expandiu novamente, adicionando suporte para seis conectores principais, incluindo WeChat ClawBot, QQ Robot, Luckin Coffee, Youdao Cloud Notes, Tick List e Tencent News. O conector amplia as capacidades do Lingguang. Esta expansão permite que os serviços da…",
@@ -3679,6 +3838,27 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "Agile Robots é fornecedora líder de soluções de automação de próxima geração para clientes automotivos, eletrônicos de consumo, saúde e serviços. Ao combinar inteligência artificial e robótica, a empresa torna as indústrias mais inteligentes, mais flexíveis e mais eficientes. Fundada em Munique em 2018 por renomados pesquisadores de robótica do Centro Aeroespacial Alemão (DLR), a Agile Robots experimentou um rápido crescimento global. Hoje, mais de 3.200 entusiastas altamente qualificados de robótica e IA de quase 60 países trabalham para a empresa e instalaram mais de 20.000 soluções robóticas em todo o mundo. Agile Robots está na vanguarda do que é possível em robótica e automação. Agile Robots construiu um portfólio único, juntamente com as subsidiárias audEERING, BÄR Automation, Franka Robotics, idealworks e Krause Automation, a empresa cobre todas as áreas da robótica orientada por IA."
+},
+{
+"id": "ff75e5d9d78db2",
+"t": "Baidu Intelligent Cloud e Purdue Robotics alcançaram uma cooperação estratégica, concentrando-se em quatro direções principais: treinamento de modelo incorporado e dados de cena real.",
+"r": "Em 12 de novembro, durante a Conferência Mundial Baidu de 2026, o Baidu alcançou oficialmente uma cooperação estratégica com a Shenzhen Pudu Technology Co., Ltd., líder global em robôs de serviços comerciais. O Baidu Intelligent Cloud fornecerá ao Pudu a infraestrutura e o suporte de serviços em nuvem necessários para…",
+"u": "https://m.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
+"f": "雷峰网",
+"s": "m.leiphone.com",
+"i": "",
+"d": "2026-11-12T22:19-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
+"lg": "zh",
+"p": 3.8,
+"cr": 3,
+"cv": "Leiphone (雷锋网)",
+"mx": 1,
+"rx": "Em 12 de novembro, durante a Conferência Mundial Baidu de 2026, o Baidu alcançou oficialmente uma cooperação estratégica com a Shenzhen Pudu Technology Co., Ltd., líder global em robôs de serviços comerciais. O Baidu Intelligent Cloud fornecerá ao Pudu a infraestrutura e o suporte de serviços em nuvem necessários para o treinamento do modelo; Pudu contará com seu próprio sistema de tecnologia para realizar de forma independente o treinamento do modelo básico incorporado, construir e melhorar um sistema de dados multicenário e promover a atualização dos recursos de sua plataforma de agentes.\nConcentrando-se em seu próprio layout de tecnologia de inteligência incorporada, Pudu continuará a realizar treinamento e iteração do modelo PuduFM, construirá um sistema de dados de alta qualidade baseado em dados de cena reais acumulados a partir da implantação comercial global e promoverá a atualização de capacidade da plataforma de inteligência incorporada PuduAgent para promover a reutilização de capacidades inteligentes em diferentes formas de robôs e cenários de aplicação."
 },
 {
 "id": "942ea1046f5b3f",
@@ -4016,6 +4196,27 @@
 "mx": 3
 },
 {
+"id": "723ea7d277248f",
+"t": "Durante a Black Friday 2026, este aspirador robô Mova de 5 estrelas custa 469€",
+"r": "O aspirador robô Mova P70 Pro Ultra multiplica tecnologias para deixar nossos pisos imaculados. E graças a um sistema de esfregonas elevatórias, promete adaptar-se automaticamente a cada tipo de piso que possa encontrar no seu caminho.",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-mova-p70-pro-ultra-5-etoiles-a-469-00-n267235.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/25/256675/81106152-mova-p70-pro-ultra-une-nouvelle-reference-du-nettoyage-de-sol-automatise__1200_678__165-1328-2763-2692_wtmk.webp",
+"d": "2026-11-12T05:13-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Pendant le Black Friday 2026, cet aspirateur robot Mova 5 étoiles passe à 469 €",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "O aspirador robô Mova P70 Pro Ultra multiplica tecnologias para deixar nossos pisos imaculados. E graças a um sistema de esfregonas elevatórias, promete adaptar-se automaticamente a cada tipo de piso que possa encontrar no seu caminho."
+},
+{
 "id": "61d4e1831923e7",
 "t": "Startup de drones Uforce avaliada em US$ 6 bilhões com apoio do Fundo de Riqueza do Reino Unido",
 "r": "",
@@ -4037,6 +4238,48 @@
 "mx": 3
 },
 {
+"id": "a4ecbcbd8dfa53",
+"t": "Tsinghua, Ph.D., 27 anos. abriu mão do salário anual de quase 8 dígitos para abrir um negócio, apostando na evolução autônoma dos robôs",
+"r": "Informações sobre financiamento, tecnologia, organização e cooperação chegaram ao mesmo tempo, fazendo com que o fundador e CEO da Bensu Intelligence, de 27 anos, sentisse que sua “contribuição contextual explodiu ou até ficou sobrecarregada”. No primeiro semestre do ano, Li Jianxiong, que está prestes a se formar na…",
+"u": "https://eu.36kr.com/zh/p/4067428844311686",
+"f": "36Kr",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261113/v2_74aecd0b1ead42c498129fa399180503@000000@ai_oswg925966oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-12T05:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "27岁清华博士放弃近8位数年薪创业 押注机器人自进化赛道",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Informações sobre financiamento, tecnologia, organização e cooperação chegaram ao mesmo tempo, fazendo com que o fundador e CEO da Bensu Intelligence, de 27 anos, sentisse que sua “contribuição contextual explodiu ou até ficou sobrecarregada”. No primeiro semestre do ano, Li Jianxiong, que está prestes a se formar na Tsinghua AIR com doutorado, recebeu ofertas de grandes fabricantes, e algumas empresas também lhe ofereceram um salário anual próximo a 8 dígitos.\nPor um lado, existem rotas técnicas que requerem investimentos de longo prazo e, por outro lado, existem questões como financiamento, organização e comercialização que as empresas iniciantes devem enfrentar. Li Jianxiong descreveu a sensação de começar um negócio como “viver um dia e morrer um dia”. Alguém também disse a Li Jianxiong que o financiamento é como um processo de multiplicar a própria publicidade por 1,5. Quando há apenas 100 pontos, é preciso entregar 150 pontos de efeito."
+},
+{
+"id": "593aaffb705890",
+"t": "Ring Robotics: drone com câmera monitora apartamentos de forma autônoma durante o vôo",
+"r": "A Ring criou uma nova divisão de robótica com a Ring Robotics e está mostrando um drone de vigilância autônomo e um robô de vigilância.",
+"u": "https://www.heise.de/news/Ring-Robotics-Kamera-Drohne-ueberwacht-Wohnungen-autonom-im-Flug-11521751.html",
+"f": "heise online",
+"s": "heise.de",
+"i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/8/8/9/Ring_Drone-aa4e8e37f7a8e55a.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+"d": "2026-11-12T05:37-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ring Robotics: Kamera-Drohne überwacht Wohnungen autonom im Flug",
+"lg": "de",
+"p": 3.5,
+"cr": 2,
+"cv": "heise online",
+"mx": 1,
+"rx": "A Ring criou uma nova divisão de robótica com a Ring Robotics e está mostrando um drone de vigilância autônomo e um robô de vigilância."
+},
+{
 "id": "a3709921a0d4e3",
 "t": "Startup de IA paga a humanos US$ 45 por hora para cuidar de robôs no turno da noite",
 "r": "",
@@ -4055,6 +4298,70 @@
 "cr": 3,
 "cv": "NDTV",
 "mx": 3
+},
+{
+"id": "ed2ed46ff308fd",
+"t": "A bolha do robô desinflou no antigo mercado de ações",
+"r": "Em Outubro deste ano, alguns antigos accionistas estavam dispostos a encontrar compradores com 35% a 20% de desconto na avaliação anterior, mas aqueles que assumiram ainda estavam cautelosos. No mesmo mês, a Stardust Intelligence, que fabrica robôs movidos por corda, anunciou que havia arrecadado 1 bilhão de yuans e…",
+"u": "https://www.36kr.com/p/4066532522956420",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261112/v2_5fd720f4b00e4757989cefa21da76c93@5888275@ai_oswg914411oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-12T06:15-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "机器人泡沫在老股市场漏了气",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Em Outubro deste ano, alguns antigos accionistas estavam dispostos a encontrar compradores com 35% a 20% de desconto na avaliação anterior, mas aqueles que assumiram ainda estavam cautelosos. No mesmo mês, a Stardust Intelligence, que fabrica robôs movidos por corda, anunciou que havia arrecadado 1 bilhão de yuans e sua nova avaliação subiu para 15 bilhões de yuans. As duas empresas resolvem o problema de como os robôs percebem o contato, mas utilizam tecnologias diferentes. A receita de Leju em 2025 será de 258 milhões de yuans, dos quais a série Kuafu de robôs humanóides em tamanho real contribuirá com aproximadamente 178 milhões de yuans, quase 70%.\nSua receita no primeiro semestre deste ano foi de aproximadamente 259 milhões de yuans, e os robôs quadrúpedes da série Jueying X contribuíram com aproximadamente 123 milhões de yuans. A indústria robótica já produziu o primeiro lote de produtos que podem ser vendidos e mais empresas venderão o segundo e terceiro lotes."
+},
+{
+"id": "06dc05a14a1f36",
+"t": "A corrida para construir uma governanta robô começou. Cinco candidatos colocados à prova",
+"r": "Do NEO de US$ 20.000 da 1X ao G1 de US$ 13.500 da Unitree e ao Memo dobrável para lavanderia de domingo, as empresas estão seguindo caminhos diferentes em direção à casa automatizada. Mas as máquinas ainda enfrentam grandes desafios que envolvem confiabilidade, segurança, custo e produção em massa.",
+"u": "https://www.calcalistech.com/ctechnews/article/4n7913rhc",
+"f": "CTech",
+"s": "calcalistech.com",
+"i": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/04/Sk3jas00afl/Sk3jas00afl_0_0_1920_1080_0_large.jpg",
+"d": "2026-11-12T07:05-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "The race to build a robot housekeeper is on. Five contenders put to the test",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Calcalist Ctech",
+"mx": 1,
+"rx": "Do NEO de US$ 20.000 da 1X ao G1 de US$ 13.500 da Unitree e ao Memo dobrável para lavanderia de domingo, as empresas estão seguindo caminhos diferentes em direção à casa automatizada. Mas as máquinas ainda enfrentam grandes desafios que envolvem confiabilidade, segurança, custo e produção em massa."
+},
+{
+"id": "048be60c431f08",
+"t": "A startup de drones Uforce levanta US$ 700 milhões com o apoio da Valor Equity Partners, UK National Wealth Fund",
+"r": "A startup de defesa com sede em Londres Uforce, que constrói drones autônomos para terra, ar e mar, levantou US$ 700 milhões em financiamento da Série A co-liderado pelo UK National Wealth Fund e Valor Equity Partners, confirmando o furo de agosto de Sifted de que a startup estava levantando uma grande nova rodada.",
+"u": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop",
+"f": "Sifted",
+"s": "sifted.eu",
+"i": "https://content.sifted.eu/wp-content/uploads/2026/08/11124151/Screenshot-2026-08-11-at-12.40.38-1024x505.png",
+"d": "2026-11-12T07:14-03:00",
+"c": [
+"negocios",
+"drones"
+],
+"l": 0,
+"to": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Sifted",
+"mx": 1,
+"rx": "A startup de defesa com sede em Londres Uforce, que constrói drones autônomos para terra, ar e mar, levantou US$ 700 milhões em financiamento da Série A co-liderado pelo UK National Wealth Fund e Valor Equity Partners, confirmando o furo de agosto de Sifted de que a startup estava levantando uma grande nova rodada."
 },
 {
 "id": "c3c14e77323c4e",
@@ -4097,6 +4404,27 @@
 "cr": 3,
 "cv": "The Engineer",
 "mx": 3
+},
+{
+"id": "757aea448589ab",
+"t": "Carrefour sai na frente da Black Friday e vende este superpoderoso aspirador robô Xiaomi com três horas de autonomia",
+"r": "Já são muitas as lojas que estão se antecipando à Black Friday e uma delas é o Carrefour, que já tem descontos em aparelhos de todos os tipos. Uma das ofertas que nos chamou a atenção é a deste aspirador robô Xiaomi Robot Vacuum H40, que custa agora 179 euros (face ao PVP recomendado de 2.279 euros) e que também vem…",
+"u": "https://www.xataka.com/seleccion/carrefour-se-adelanta-al-black-friday-liquida-este-robot-aspirador-xiaomi-super-potente-tres-horas-autonomia",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/919a8b/robot-aspirador-xiaomi-robot-vacuum-h40-carrefour/840_560.jpeg",
+"d": "2026-11-12T07:31-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Carrefour se adelanta al Black Friday y liquida este robot aspirador Xiaomi súper potente y con tres horas de autonomía",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "Já são muitas as lojas que estão se antecipando à Black Friday e uma delas é o Carrefour, que já tem descontos em aparelhos de todos os tipos. Uma das ofertas que nos chamou a atenção é a deste aspirador robô Xiaomi Robot Vacuum H40, que custa agora 179 euros (face ao PVP recomendado de 2.279 euros) e que também vem com uma esfregona adicional como presente.\nEste aspirador robô Xiaomi procura cobrir a limpeza diária de pisos médios e grandes sem necessitar de manutenção constante após cada passagem. Este modelo Xiaomi utiliza um sensor laser superior para escanear o layout da casa com precisão, traçar rotas ordenadas e permitir gerenciar áreas restritas ou limpeza por cômodo a partir do seu celular.\nEste é um aspirador robô de base com esvaziamento automático e tanque de quatro litros integrado à estação."
 },
 {
 "id": "8ac75c72cbe8ff",
@@ -4161,6 +4489,27 @@
 "mx": 3
 },
 {
+"id": "4a2c8f130ac303",
+"t": "Ecovacs X12S OmniCyclone: ​​o robô esfregão perde 500€ na Black Friday",
+"r": "Vendido e enviado pela Amazon, este robô custa 799 euros em comparação com 1.299 euros pelo preço recomendado, um desconto de 38% como parte das ofertas pré-Black Friday da Amazon. O sistema FocusJet borrifa água e detergente nas manchas antes de rolar.",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-x12s-omnicyclone-est-a-799-38-n267246.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/267246/008b6d13-black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-x12s-omnicyclone-est-a-799-38__1200_678__0-310-3000-1885.webp",
+"d": "2026-11-12T09:46-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ecovacs X12S OmniCyclone : le robot laveur à rouleau perd 500 € pour le Black Friday",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido e enviado pela Amazon, este robô custa 799 euros em comparação com 1.299 euros pelo preço recomendado, um desconto de 38% como parte das ofertas pré-Black Friday da Amazon. O sistema FocusJet borrifa água e detergente nas manchas antes de rolar.\nNa parte de sucção, a Ecovacs anuncia 60% mais potência que a geração anterior, com sistema anti-emaranhado ZeroTangle 4.0 e escova lateral que se estende para alcançar as bordas. A estação lava o rolo com água quente a 75°C usando uma bomba de 32 jatos e depois drena a água suja."
+},
+{
 "id": "9a8c2736872d53",
 "t": "Comunicado de imprensa: O robô de braço articulado “Float Arm” ganhou o “Grande Prêmio” no Tokyo Venture Technology Awards em 2020! ! (PR TEMPOS)",
 "r": "",
@@ -4179,6 +4528,27 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
+},
+{
+"id": "1e89f90dba8d96",
+"t": "Roborock H60 Hub: o aspirador de pó que se esvazia custa 149€",
+"r": "Vendido e enviado pela Amazon, este aspirador de pó custa 149 euros em comparação com 399 euros pelo preço recomendado, um desconto de 63%. Uma vez colocado em sua estação, o aspirador esvazia automaticamente sua lixeira em um saco lacrado de 2 litros, que dura até 60 dias segundo Roborock. Não há necessidade de…",
+"u": "https://www.lesnumeriques.com/aspirateur-balai/black-friday-2026-l-aspirateur-balai-roborock-h60-hub-avec-station-de-vidage-est-a-149-63-n267247.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/267247/f21cac12-black-friday-2026-l-aspirateur-balai-roborock-h60-hub-avec-station-de-vidage-est-a-149-63__1200_678__0-310-3000-1885.webp",
+"d": "2026-11-12T10:16-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roborock H60 Hub : l'aspirateur balai qui se vide tout seul passe à 149 €",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido e enviado pela Amazon, este aspirador de pó custa 149 euros em comparação com 399 euros pelo preço recomendado, um desconto de 63%. Uma vez colocado em sua estação, o aspirador esvazia automaticamente sua lixeira em um saco lacrado de 2 litros, que dura até 60 dias segundo Roborock. Não há necessidade de esvaziar a lixeira manualmente após cada passagem. Aspira com potência de 115 AW e luz LED verde, com feixe de 140°, revela poeira fina em pisos duros.\nSua bateria removível dura até 60 minutos, e três modos (ECO, MED e MAX) são exibidos em uma tela de LED com o nível de carga. Seu sistema ciclônico de 9 cones e filtração em cinco estágios retêm 99,95% das partículas segundo o fabricante. É classificado como 4/5 na Amazon, com base em um pequeno número de avaliações."
 },
 {
 "id": "29e605d3a0269e",
@@ -4221,6 +4591,27 @@
 "mx": 3
 },
 {
+"id": "a684a030fd85ca",
+"t": "Os fabricantes de drones de Taiwan olham além do hardware para a IA",
+"r": "A DIGITIMES organizou um Fórum Técnico sobre desenvolvimentos em veículos não tripulados e a economia de baixa altitude de Taoyuan, com o prefeito de Taoyuan, Simon Chang, o presidente da Qisda, Peter Chen, e o presidente da Auden Techno, Yu-Pin Chang, entre os participantes...",
+"u": "https://www.digitimes.com/news/a20261112PD233/digitimes-economy-development-manufacturing-commercial.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261112pd233_files/2_b.jpg",
+"d": "2026-11-12T18:44-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Taiwan’s drone makers look beyond hardware to AI",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "A DIGITIMES organizou um Fórum Técnico sobre desenvolvimentos em veículos não tripulados e a economia de baixa altitude de Taoyuan, com o prefeito de Taoyuan, Simon Chang, o presidente da Qisda, Peter Chen, e o presidente da Auden Techno, Yu-Pin Chang, entre os participantes..."
+},
+{
 "id": "c4b0871a8c2d99",
 "t": "Projeto de lei do robotáxi de DC parece não levar a lugar nenhum após a revolta progressiva",
 "r": "",
@@ -4241,25 +4632,175 @@
 "mx": 3
 },
 {
-"id": "ff75e5d9d78db2",
-"t": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
-"r": "",
-"u": "https://m.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
-"f": "雷峰网",
-"s": "m.leiphone.com",
-"i": "",
-"d": "2026-11-12T22:19-03:00",
+"id": "d0201596cd5617",
+"t": "Mulher de Ottawa é acusada após dormir em carro autônomo na rodovia",
+"r": "A Polícia Provincial de Ontário (OPP) acusou uma mulher de Ottawa depois que ela foi encontrada dormindo ao volante de um Tesla autônomo na rodovia. No Instagram, a conta oficial da OPP East disse que um policial avistou a mulher no banco do motorista de um Tesla com os olhos fechados e as mãos fora do volante…",
+"u": "https://mobilesyrup.com/2026/11/12/ottawa-woman-charged-sleeping-in-self-driving-car-highway/",
+"f": "MobileSyrup",
+"s": "mobilesyrup.com",
+"i": "https://images2026.mobilesyrup.com/uploads/2024/04/tesla-9.jpg",
+"d": "2026-11-12T20:03-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Ottawa woman charged after sleeping in self-driving car on highway",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "MobileSyrup",
+"mx": 1,
+"rx": "A Polícia Provincial de Ontário (OPP) acusou uma mulher de Ottawa depois que ela foi encontrada dormindo ao volante de um Tesla autônomo na rodovia. No Instagram, a conta oficial da OPP East disse que um policial avistou a mulher no banco do motorista de um Tesla com os olhos fechados e as mãos fora do volante enquanto descia a Rodovia 417 durante a hora do rush da manhã de terça-feira.\nDe acordo com a Lei de Tráfego Rodoviário de Ontário, os proprietários de veículos autônomos devem “permanecer sempre no banco do motorista do veículo e monitorar a operação do veículo”, o que inclui sempre ter as mãos no volante. A OPP observa que a mulher recebeu uma acusação de condução descuidada, que acarreta uma multa de US$ 490 e seis pontos de demérito após a condenação.\nNotavelmente, a OPP disse ao CityNews que este foi um dos dois incidentes em que pessoas em carros autônomos não prestaram atenção ao volante."
+},
+{
+"id": "9fe81da7bcae3c",
+"t": "\"ROBOT Spirits <SIDE MS> RX-110 Gabsley ver. A.N.I.M.E.\" de “Mobile Suit Z Gundam” será comercializado!",
+"r": "BANDAI SPIRITS é a figura de ação \"ROBOT SPIRITS <SIDE MS> RX-110 GABSLEY ver. Este produto é baseado na variável MS \"RX-110 GABSLEY\" do anime \"Mobile Suit Z Gundam\" e na série de figuras de ação \"ROBOT SPIRITS ver. Além de anunciar o conteúdo do ``TAMASHII NATION 2026'', que acontece desde 13 de novembro. ▶▶EM BREVE…",
+"u": "https://hobby.watch.impress.co.jp/docs/news/2156113.html",
+"f": "hobby Watch",
+"s": "hobby.watch.impress.co.jp",
+"i": "https://hobby.watch.impress.co.jp/img/hbw/list/2156/113/001.jpg",
+"d": "2026-11-12T22:17-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
-"lg": "?",
-"nt": 1,
+"to": "「機動戦士Zガンダム」より「ROBOT魂 ＜SIDE MS＞ RX-110 ガブスレイ ver. A.N.I.M.E.」が商品化決定！",
+"lg": "ja",
 "p": 3.5,
-"cr": 3,
-"cv": "Leiphone (雷锋网)",
-"mx": 0
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "BANDAI SPIRITS é a figura de ação \"ROBOT SPIRITS <SIDE MS> RX-110 GABSLEY ver. Este produto é baseado na variável MS \"RX-110 GABSLEY\" do anime \"Mobile Suit Z Gundam\" e na série de figuras de ação \"ROBOT SPIRITS ver. Além de anunciar o conteúdo do ``TAMASHII NATION 2026'', que acontece desde 13 de novembro. ▶▶EM BREVE Prévia da exposição TAMASHII NATION 2026 ▶▶ De \"#Mobile Suit Z Gundam\" \"ROBOT Spirits <SIDE MS> RX-110 Gabsley versão. \"#Tamashii Nation 2026\" O protótipo será exibido no local Akihabara UDX 2F!! 📍Informações do evento https://t.co/A2FWfpeQmw #ROBOT Spirits #Gundam figura https://t.co/MmiaqF2maE"
+},
+{
+"id": "7ecf1908081916",
+"t": "Renovado pela primeira vez em 22 anos, volume reduzido em 60% com a adoção da fonte de alimentação de 650 W do SiC TDK: Também compatível com carregamento de robôs",
+"r": "TDḰAő650Wo͂AC-DCRo[^[uHWS650Gv̎ےJnB]iƔ̂đ̐ς60παμAϊ ͍ő94BꕔɒYPCfiSiCjp[̗̂pqAd^dɂΉA̐u⃍{bg̃obe[[dȂǂස̗̍p_B @TDK2026N1111ATDK-Lambdauh̃tOVbvfłAC-DCRo[^[uHWS-GV[Yv650WfuHWS650Gv̎꒍JnBfƔׂđ̐ς60παμقAd^diCVCCjȂǂ̋@\\ǉB @HWS650ǴATDK_|P[Xtjbgd̐ViB́uHWS600v͖22NOɔꂽiŁA۔̔ĂBȗprłYƋ@͐iAdɂԂɂ킽鋟ւA֔N͐Y۔̎^@\\iہAd̏^⍂ස̗vڂĂB",
+"u": "https://edn.itmedia.co.jp/edn/articles/2611/13/news046.html",
+"f": "EDN Japan",
+"s": "edn.itmedia.co.jp",
+"i": "https://image.itmedia.co.jp/edn/articles/2611/13/cover_news046.jpg",
+"d": "2026-11-12T23:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "22年ぶり刷新、SiC採用で体積6割減 TDKの650W電源：ロボット充電にも対応",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 1,
+"rx": "TDḰAő650Wo͂AC-DCRo[^[uHWS650Gv̎ےJnB]iƔ̂đ̐ς60παμAϊ ͍ő94BꕔɒYPCfiSiCjp[̗̂pqAd^dɂΉA̐u⃍{bg̃obe[[dȂǂස̗̍p_B @TDK2026N1111ATDK-Lambdauh̃tOVbvfłAC-DCRo[^[uHWS-GV[Yv650WfuHWS650Gv̎꒍JnBfƔׂđ̐ς60παμقAd^diCVCCjȂǂ̋@\\ǉB @HWS650ǴATDK_|P[Xtjbgd̐ViB́uHWS600v͖22NOɔꂽiŁA۔̔ĂBȗprłYƋ@͐iAdɂԂɂ킽鋟ւA֔N͐Y۔̎^@\\iہAd̏^⍂ස̗vڂĂB"
+},
+{
+"id": "6c6e6c144f5c97",
+"t": "ETRI desenvolve ‘Trinity’, uma tecnologia de avaliação de IA de robôs que entende as características humanas",
+"r": "Foi desenvolvida tecnologia de inteligência artificial (IA) que permite que robôs domésticos e de cuidados se adaptem ao ambiente e atuem de acordo com as diferentes necessidades de cada sujeito. É uma tecnologia que avalia se o serviço leva em consideração não só o ambiente envolvente, mas também as características…",
+"u": "http://www.etnews.com/20261113000128",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/13/news-p.v1.20261113.fbfddd383ae24faeaa10591460d07adb_P2.jpg",
+"d": "2026-11-12T23:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ETRI, 사람 특성 이해하는 로봇 AI 평가기술 '트리니티' 개발",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Foi desenvolvida tecnologia de inteligência artificial (IA) que permite que robôs domésticos e de cuidados se adaptem ao ambiente e atuem de acordo com as diferentes necessidades de cada sujeito. É uma tecnologia que avalia se o serviço leva em consideração não só o ambiente envolvente, mas também as características de quem recebe o serviço. O Instituto de Pesquisa em Eletrônica e Telecomunicações (ETRI) anunciou que desenvolveu o 'Trinity', um benchmark que avalia as capacidades de planejamento do trabalho dos robôs considerando de forma abrangente as pessoas, os agentes de IA e o meio ambiente. Este é um método para avaliar se a IA planeia ações apropriadas, considerando tanto as informações do utilizador como o ambiente circundante. Além disso, são adicionados 95 tipos de objetos relacionados às características do usuário para avaliar a capacidade do robô de selecionar um objeto apropriado entre vários objetos. Os casos em que as características do usuário são mal compreendidas e os casos em que o usuário não explora adequadamente o ambiente circundante ou planeja ações que não podem ser executadas são avaliados separadamente. Kim Do-hyeong, chefe do Departamento de Pesquisa de Robótica Social da ETRI, disse: “Embora a pesquisa existente de IA de robôs tenha se concentrado na compreensão do ambiente circundante e na execução precisa de determinadas tarefas, Trinity é significativo porque também avalia se o comportamento do robô é apropriado para a pessoa que recebe o serviço”. Ele acrescentou: “Esperamos que, no futuro, sirva como base de pesquisa para que os robôs desenvolvam inteligência que possa compreender as diferentes características e necessidades de cada pessoa e viver juntos”."
+},
+{
+"id": "0917407fad52d4",
+"t": "O Korea AI Medical Healthcare Research Institute une-se à cidade de Seongnam para iniciar a construção do 'centro de integração de tecnologia de robô médico baseado em IA física'",
+"r": "O Korea AI Medical Healthcare Research Institute (presidente Jeon Young-tae, doravante pesquisador) anunciou no dia 12 que assinou um acordo comercial com a cidade de Seongnam (prefeito Shin Sang-jin) na primeira sala de conferências da Prefeitura de Seongnam para a promoção bem-sucedida do 'projeto de construção do…",
+"u": "https://www.etnews.com/20261113000129",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/13/news-p.v1.20261113.f8ab4a2923cf471f9a383ab1d2c488c8_P1.jpg",
+"d": "2026-11-12T23:03-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "한국AI의료헬스케어연구원, 성남시와 손잡고 'Physical AI 기반 의료로봇 기술통합센터 구축' 본격화",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "O Korea AI Medical Healthcare Research Institute (presidente Jeon Young-tae, doravante pesquisador) anunciou no dia 12 que assinou um acordo comercial com a cidade de Seongnam (prefeito Shin Sang-jin) na primeira sala de conferências da Prefeitura de Seongnam para a promoção bem-sucedida do 'projeto de construção do centro de integração de tecnologia de robô médico baseado em IA física'. Na cerimônia de acordo neste dia, autoridades importantes, incluindo o prefeito de Seongnam, Shin Sang-jin, o presidente do Instituto de Pesquisa, Jeon Young-tae, o vice-diretor, Heo Dong-hyuk, e o diretor da Agência de Promoção da Indústria de Seongnam, Joo-yeon Lee, compareceram e prometeram cooperação para promover a indústria de robôs médicos. Este projeto foi selecionado no concurso '2026 Bio Industry Open Ecosystem Creation Promotion Project' do Ministério do Comércio, Indústria e Energia em junho passado, e um custo total do projeto de 24 bilhões de won será investido ao longo de cinco anos, de 2026 a 2030. A 'IA física' tem um impacto particularmente grande em áreas médicas de ponta, como cirurgia, reabilitação, enfermagem e assistência diagnóstica, onde a precisão está diretamente relacionada à segurança do paciente. No entanto, devido às regulamentações rigorosas e aos procedimentos complexos de verificação clínica e licenciamento exclusivos dos robôs médicos, mesmo as empresas com capacidades tecnológicas enfrentaram grandes barreiras de entrada na fase de comercialização. Assim, o instituto de pesquisa estabelecerá um “centro de integração de tecnologia de robôs médicos baseados em IA física” com sede na cidade de Seongnam e operará um sistema de suporte técnico de ciclo completo para resolver gargalos enfrentados pelas empresas. Jeon Young-tae, presidente do Korea AI Medical Healthcare Research Institute, disse: “Ao combinar o total apoio administrativo e financeiro da cidade de Seongnam e as capacidades profissionais das organizações do consórcio, completaremos o Centro de Integração Tecnológica como base para a inovação em robôs médicos na Coreia, para que as empresas nacionais de robôs médicos possam crescer sem interrupção desde a fase de desenvolvimento do protótipo até à verificação clínica e entrada no mercado global”."
+},
+{
+"id": "c76263abc96355",
+"t": "Insights de primeira linha sobre a indústria robótica: a situação atual do próximo motor da economia da China - 36 Krypton",
+"r": "A empresa se chama Luo Shi. Está listada na bolsa de valores de Hong Kong e é forte na tecnologia de controle central de braços robóticos. Isso não pode ser ignorado na indústria de robôs industriais da China. O gigante do comércio electrónico com o qual estamos familiarizados será provavelmente o principal centro de…",
+"u": "http://www.36kr.com/p/4066840941057155",
+"f": "www.36kr.com",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261112/v2_cd7a88dc5249428fbc01d3ae9cd46320@000000@ai_oswg764656oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-12T23:33-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "机器人产业一线见闻：中国经济下一个引擎的现状-36氪",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "A empresa se chama Luo Shi. Está listada na bolsa de valores de Hong Kong e é forte na tecnologia de controle central de braços robóticos. Isso não pode ser ignorado na indústria de robôs industriais da China. O gigante do comércio electrónico com o qual estamos familiarizados será provavelmente o principal centro de infra-estruturas da indústria robótica da China no futuro. Além de visitar a fábrica, também ouvi uma discussão: Jingdong Industrial, Luoshi Robot, Huaqin Technology e Zhongke Motong.\nA lista de clientes de Luoshi já fala: a linha de produção conjunta de automação de módulos da Schaeffler usa seu robô humanóide com rodas; Fábrica de luz negra da Xiaomi usa seu robô industrial; A Foton Cummins instalou mais de 100 unidades; A Honglu Steel Structure utiliza-o para soldagem de estruturas de aço, e o custo de processamento é reduzido para 2/3 de seus pares; Bosch, ZTE, Cyrus Power..."
+},
+{
+"id": "dfaa8d12ebe626",
+"t": "ACE Robotics combina modelo mundial com habilidades de autoaperfeiçoamento para administrar um fluxo de trabalho de lavanderia de hotel",
+"r": "A ACE Robotics usa seu modelo mundial Mundo, um planejador de nuvem e habilidades de robô para administrar a lavanderia do hotel de ponta a ponta. As habilidades melhoram com falhas reais, diz, reduzindo uma corrida completa para 18,6 segundos.",
+"u": "https://pandaily.com/ace-robotics-mundo-world-model-dual-brain-rsi-hotel-laundry-robot",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/ace_bf9b4fd621.png",
+"d": "2026-11-12T23:34-03:00",
+"c": [
+"casa",
+"servico",
+"ia"
+],
+"l": 0,
+"to": "ACE Robotics Pairs Mundo World Model With Self-Improving Skills to Run a Hotel Laundry Workflow",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "A ACE Robotics usa seu modelo mundial Mundo, um planejador de nuvem e habilidades de robô para administrar a lavanderia do hotel de ponta a ponta. As habilidades melhoram com falhas reais, diz, reduzindo uma corrida completa para 18,6 segundos."
+},
+{
+"id": "74b72220c0b956",
+"t": "A startup de robôs do ex-CTO da Cainiao se junta ao trabalho do Double 11 Warehouse e relata quase 5.000 pedidos de unidades",
+"r": "A Quantum Dynamics, fundada pelo ex-CTO da Cainiao, Li Qiang, diz que seus robôs funcionavam como Double 11 nos armazéns da Cainiao. Seus quase 5.000 pedidos unitários incluem muitos ainda não entregues.",
+"u": "https://pandaily.com/quantum-dynamics-li-qiang-embodied-robots-cainiao-double-11-warehouse-orders",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/kunteng_2faa5c8f3a.png",
+"d": "2026-11-12T23:34-03:00",
+"c": [
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "Former Cainiao CTO's Robot Startup Joins Double 11 Warehouse Work, Reports Nearly 5,000 Unit Orders",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "A Quantum Dynamics, fundada pelo ex-CTO da Cainiao, Li Qiang, diz que seus robôs funcionavam como Double 11 nos armazéns da Cainiao. Seus quase 5.000 pedidos unitários incluem muitos ainda não entregues."
 },
 {
 "id": "bb4657654a4f8d",
@@ -4280,7 +4821,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "0934b45859c350",
@@ -4392,356 +4933,6 @@
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
-"id": "723ea7d277248f",
-"t": "Durante a Black Friday 2026, este aspirador robô Mova de 5 estrelas custa 469€",
-"r": "",
-"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-mova-p70-pro-ultra-5-etoiles-a-469-00-n267235.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "https://cdn.lesnumeriques.com/optim/test/25/256675/81106152-mova-p70-pro-ultra-une-nouvelle-reference-du-nettoyage-de-sol-automatise__1200_678__165-1328-2763-2692_wtmk.webp",
-"d": "2026-11-12T05:13-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Pendant le Black Friday 2026, cet aspirateur robot Mova 5 étoiles passe à 469 €",
-"lg": "fr",
-"p": 3.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
-},
-{
-"id": "a4ecbcbd8dfa53",
-"t": "Tsinghua, Ph.D., 27 anos. abriu mão do salário anual de quase 8 dígitos para abrir um negócio, apostando na evolução autônoma dos robôs",
-"r": "",
-"u": "https://eu.36kr.com/zh/p/4067428844311686",
-"f": "36Kr",
-"s": "eu.36kr.com",
-"i": "https://img.36krcdn.com/hsossms/20261113/v2_74aecd0b1ead42c498129fa399180503@000000@ai_oswg925966oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-"d": "2026-11-12T05:31-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "27岁清华博士放弃近8位数年薪创业 押注机器人自进化赛道",
-"lg": "zh",
-"p": 3.2,
-"cr": 2,
-"cv": "36Kr",
-"mx": 0
-},
-{
-"id": "593aaffb705890",
-"t": "Ring Robotics: drone com câmera monitora apartamentos de forma autônoma durante o vôo",
-"r": "",
-"u": "https://www.heise.de/news/Ring-Robotics-Kamera-Drohne-ueberwacht-Wohnungen-autonom-im-Flug-11521751.html",
-"f": "heise online",
-"s": "heise.de",
-"i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/8/8/9/Ring_Drone-aa4e8e37f7a8e55a.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
-"d": "2026-11-12T05:37-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Ring Robotics: Kamera-Drohne überwacht Wohnungen autonom im Flug",
-"lg": "de",
-"p": 3.2,
-"cr": 2,
-"cv": "heise online",
-"mx": 0
-},
-{
-"id": "ed2ed46ff308fd",
-"t": "A bolha do robô desinflou no antigo mercado de ações",
-"r": "",
-"u": "https://www.36kr.com/p/4066532522956420",
-"f": "36Kr",
-"s": "36kr.com",
-"i": "https://img.36krcdn.com/hsossms/20261112/v2_5fd720f4b00e4757989cefa21da76c93@5888275@ai_oswg914411oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-"d": "2026-11-12T06:15-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "机器人泡沫在老股市场漏了气",
-"lg": "zh",
-"p": 3.2,
-"cr": 2,
-"cv": "36Kr",
-"mx": 0
-},
-{
-"id": "06dc05a14a1f36",
-"t": "A corrida para construir uma governanta robô começou. Cinco candidatos colocados à prova",
-"r": "",
-"u": "https://www.calcalistech.com/ctechnews/article/4n7913rhc",
-"f": "CTech",
-"s": "calcalistech.com",
-"i": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/04/Sk3jas00afl/Sk3jas00afl_0_0_1920_1080_0_large.jpg",
-"d": "2026-11-12T07:05-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "The race to build a robot housekeeper is on. Five contenders put to the test",
-"lg": "en",
-"p": 3.2,
-"cr": 2,
-"cv": "Calcalist Ctech",
-"mx": 0
-},
-{
-"id": "048be60c431f08",
-"t": "A startup de drones Uforce levanta US$ 700 milhões com o apoio da Valor Equity Partners, UK National Wealth Fund",
-"r": "",
-"u": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop",
-"f": "Sifted",
-"s": "sifted.eu",
-"i": "https://content.sifted.eu/wp-content/uploads/2026/08/11124151/Screenshot-2026-08-11-at-12.40.38-1024x505.png",
-"d": "2026-11-12T07:14-03:00",
-"c": [
-"negocios",
-"drones"
-],
-"l": 0,
-"to": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
-"lg": "en",
-"p": 3.2,
-"cr": 2,
-"cv": "Sifted",
-"mx": 0
-},
-{
-"id": "757aea448589ab",
-"t": "Carrefour sai na frente da Black Friday e vende este superpoderoso aspirador robô Xiaomi com três horas de autonomia",
-"r": "",
-"u": "https://www.xataka.com/seleccion/carrefour-se-adelanta-al-black-friday-liquida-este-robot-aspirador-xiaomi-super-potente-tres-horas-autonomia",
-"f": "Xataka",
-"s": "xataka.com",
-"i": "https://i.blogs.es/919a8b/robot-aspirador-xiaomi-robot-vacuum-h40-carrefour/840_560.jpeg",
-"d": "2026-11-12T07:31-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Carrefour se adelanta al Black Friday y liquida este robot aspirador Xiaomi súper potente y con tres horas de autonomía",
-"lg": "es",
-"p": 3.2,
-"cr": 2,
-"cv": "Xataka",
-"mx": 0
-},
-{
-"id": "4a2c8f130ac303",
-"t": "Ecovacs X12S OmniCyclone: ​​o robô esfregão perde 500€ na Black Friday",
-"r": "",
-"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-x12s-omnicyclone-est-a-799-38-n267246.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "https://cdn.lesnumeriques.com/optim/news/26/267246/008b6d13-black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-x12s-omnicyclone-est-a-799-38__1200_678__0-310-3000-1885.webp",
-"d": "2026-11-12T09:46-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Ecovacs X12S OmniCyclone : le robot laveur à rouleau perd 500 € pour le Black Friday",
-"lg": "fr",
-"p": 3.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
-},
-{
-"id": "1e89f90dba8d96",
-"t": "Roborock H60 Hub: o aspirador de pó que se esvazia custa 149€",
-"r": "",
-"u": "https://www.lesnumeriques.com/aspirateur-balai/black-friday-2026-l-aspirateur-balai-roborock-h60-hub-avec-station-de-vidage-est-a-149-63-n267247.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "https://cdn.lesnumeriques.com/optim/news/26/267247/f21cac12-black-friday-2026-l-aspirateur-balai-roborock-h60-hub-avec-station-de-vidage-est-a-149-63__1200_678__0-310-3000-1885.webp",
-"d": "2026-11-12T10:16-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Roborock H60 Hub : l'aspirateur balai qui se vide tout seul passe à 149 €",
-"lg": "fr",
-"p": 3.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
-},
-{
-"id": "a684a030fd85ca",
-"t": "Os fabricantes de drones de Taiwan olham além do hardware para a IA",
-"r": "",
-"u": "https://www.digitimes.com/news/a20261112PD233/digitimes-economy-development-manufacturing-commercial.html",
-"f": "digitimes",
-"s": "digitimes.com",
-"i": "https://img.digitimes.com/newsshow/20261112pd233_files/2_b.jpg",
-"d": "2026-11-12T18:44-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Taiwan’s drone makers look beyond hardware to AI",
-"lg": "en",
-"p": 3.2,
-"cr": 2,
-"cv": "DigiTimes",
-"mx": 0
-},
-{
-"id": "d0201596cd5617",
-"t": "Mulher de Ottawa é acusada após dormir em carro autônomo na rodovia",
-"r": "",
-"u": "https://mobilesyrup.com/2026/11/12/ottawa-woman-charged-sleeping-in-self-driving-car-highway/",
-"f": "MobileSyrup",
-"s": "mobilesyrup.com",
-"i": "https://images2026.mobilesyrup.com/uploads/2024/04/tesla-9.jpg",
-"d": "2026-11-12T20:03-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Ottawa woman charged after sleeping in self-driving car on highway",
-"lg": "en",
-"p": 3.2,
-"cr": 2,
-"cv": "MobileSyrup",
-"mx": 0
-},
-{
-"id": "7ecf1908081916",
-"t": "22年ぶり刷新、SiC採用で体積6割減 TDKの650W電源：ロボット充電にも対応",
-"r": "",
-"u": "https://edn.itmedia.co.jp/edn/articles/2611/13/news046.html",
-"f": "EDN Japan",
-"s": "edn.itmedia.co.jp",
-"i": "https://image.itmedia.co.jp/edn/articles/2611/13/cover_news046.jpg",
-"d": "2026-11-12T23:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "22年ぶり刷新、SiC採用で体積6割減 TDKの650W電源：ロボット充電にも対応",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "ITmedia",
-"mx": 0
-},
-{
-"id": "6c6e6c144f5c97",
-"t": "ETRI, 사람 특성 이해하는 로봇 AI 평가기술 '트리니티' 개발",
-"r": "",
-"u": "http://www.etnews.com/20261113000128",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "https://img.etnews.com/news/article/2026/11/13/news-p.v1.20261113.fbfddd383ae24faeaa10591460d07adb_P2.jpg",
-"d": "2026-11-12T23:01-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "ETRI, 사람 특성 이해하는 로봇 AI 평가기술 '트리니티' 개발",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
-"id": "0917407fad52d4",
-"t": "한국AI의료헬스케어연구원, 성남시와 손잡고 'Physical AI 기반 의료로봇 기술통합센터 구축' 본격화",
-"r": "",
-"u": "https://www.etnews.com/20261113000129",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "https://img.etnews.com/news/article/2026/11/13/news-p.v1.20261113.f8ab4a2923cf471f9a383ab1d2c488c8_P1.jpg",
-"d": "2026-11-12T23:03-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "한국AI의료헬스케어연구원, 성남시와 손잡고 'Physical AI 기반 의료로봇 기술통합센터 구축' 본격화",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
-"id": "c76263abc96355",
-"t": "机器人产业一线见闻：中国经济下一个引擎的现状-36氪",
-"r": "",
-"u": "http://www.36kr.com/p/4066840941057155",
-"f": "www.36kr.com",
-"s": "36kr.com",
-"i": "https://img.36krcdn.com/hsossms/20261112/v2_cd7a88dc5249428fbc01d3ae9cd46320@000000@ai_oswg764656oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-"d": "2026-11-12T23:33-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "机器人产业一线见闻：中国经济下一个引擎的现状-36氪",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "36Kr",
-"mx": 0
-},
-{
-"id": "dfaa8d12ebe626",
-"t": "ACE Robotics Pairs Mundo World Model With Self-Improving Skills to Run a Hotel Laundry Workflow",
-"r": "",
-"u": "https://pandaily.com/ace-robotics-mundo-world-model-dual-brain-rsi-hotel-laundry-robot",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "https://cms-image.pandaily.com/1/ace_bf9b4fd621.png",
-"d": "2026-11-12T23:34-03:00",
-"c": [
-"casa",
-"servico",
-"ia"
-],
-"l": 0,
-"to": "ACE Robotics Pairs Mundo World Model With Self-Improving Skills to Run a Hotel Laundry Workflow",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "Pandaily",
-"mx": 0
-},
-{
-"id": "74b72220c0b956",
-"t": "Former Cainiao CTO's Robot Startup Joins Double 11 Warehouse Work, Reports Nearly 5,000 Unit Orders",
-"r": "",
-"u": "https://pandaily.com/quantum-dynamics-li-qiang-embodied-robots-cainiao-double-11-warehouse-orders",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "https://cms-image.pandaily.com/1/kunteng_2faa5c8f3a.png",
-"d": "2026-11-12T23:34-03:00",
-"c": [
-"logistica",
-"negocios"
-],
-"l": 0,
-"to": "Former Cainiao CTO's Robot Startup Joins Double 11 Warehouse Work, Reports Nearly 5,000 Unit Orders",
-"lg": "?",
-"nt": 1,
-"p": 3.2,
-"cr": 2,
-"cv": "Pandaily",
-"mx": 0
-},
-{
 "id": "ea787c5d2b143e",
 "t": "Centro de Inovação de Robôs Humanóides de Fujian",
 "r": "",
@@ -4811,7 +5002,7 @@
 {
 "id": "1dce4f978e901d",
 "t": "É relatado que a Amio, a empresa de robótica em que Anker aposta, encolheu significativamente, e o CTO, COO e líder de produto originais renunciaram.",
-"r": "",
+"r": "A IT House informou em 12 de novembro que, de acordo com Leifeng.com·Jingxi News, a Amio Robotics, que se concentra em cenários industriais, está enfrentando a saída de sua equipe principal e o encolhimento organizacional. O CTO, COO e líder de produto originais da empresa renunciaram. Ao mesmo tempo, o tamanho da…",
 "u": "https://www.ithome.com/1/026/135.htm",
 "f": "IT之家",
 "s": "ithome.com",
@@ -4823,15 +5014,16 @@
 "l": 0,
 "to": "消息称安克押注的机器人公司阿米奥大幅收缩，原 CTO、COO 和产品负责人均已离职",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 0
+"mx": 1,
+"rx": "A IT House informou em 12 de novembro que, de acordo com Leifeng.com·Jingxi News, a Amio Robotics, que se concentra em cenários industriais, está enfrentando a saída de sua equipe principal e o encolhimento organizacional. O CTO, COO e líder de produto originais da empresa renunciaram. Ao mesmo tempo, o tamanho da equipe da Amio Robotics diminuiu de cerca de 130 pessoas no seu pico para mais de 70 pessoas, incluindo estagiários, e uma nova rodada de otimização ainda está em andamento.\nA IT House perguntou e descobriu que a Beijing Amio Robot Technology Co., Ltd. foi fundada em setembro de 2024. Ela está comprometida em criar uma plataforma de produtividade universal por meio de tecnologia de inteligência incorporada, tornando os robôs um parceiro de colaboração eficiente para humanos em cenários industriais e fornecendo soluções de automação flexíveis para 3C, eletrônica automotiva e outras indústrias de manufatura."
 },
 {
 "id": "40fcc81461eea7",
 "t": "Insights de primeira linha sobre a indústria robótica: a situação atual do próximo motor da economia da China",
-"r": "",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
 "u": "https://m.36kr.com/p/4066840941057155",
 "f": "36Kr",
 "s": "m.36kr.com",
@@ -4843,15 +5035,16 @@
 "l": 0,
 "to": "机器人产业一线见闻：中国经济下一个引擎的现状",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 0
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "596a6ab6039c1e",
 "t": "Versão de abastecimento de água e drenagem 2999 → 718 yuan: o robô versátil de varredura e limpeza da estação base Ecovacs \"Debao mini2\" quebra o gelo e atinge um novo nível mais baixo",
-"r": "",
+"r": "A Ecovacs lançou o Ecovacs Dibao mini 2 em abril de 2025. A versão com tanque de água custa 2.199 yuans, e a versão de água e drenagem custa 2.999 yuans. Entre no carrinho de compras do mini programa WeChat \"JD Shopping\" → clique neste produto → entre na página do produto e faça um pedido → selecione \"Velho por Novo\"…",
 "u": "https://www.ithome.com/1/026/367.htm",
 "f": "IT之家",
 "s": "ithome.com",
@@ -4863,15 +5056,16 @@
 "l": 0,
 "to": "上下水版 2999 → 718 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 0
+"mx": 1,
+"rx": "A Ecovacs lançou o Ecovacs Dibao mini 2 em abril de 2025. A versão com tanque de água custa 2.199 yuans, e a versão de água e drenagem custa 2.999 yuans. Entre no carrinho de compras do mini programa WeChat \"JD Shopping\" → clique neste produto → entre na página do produto e faça um pedido → selecione \"Velho por Novo\" na página do pedido e pague 778 yuans\nO Dibao mini tem corpo de 28,6 cm e está disponível em cinco cores para você escolher. Pode atingir mais pontos cegos para limpeza. Alega-se que a área de cobertura de limpeza é 10% maior do que a dos robôs de varredura comuns. O Ecovacs Dibao mini custa 2.199 yuans e já está à venda no JD.com. O preço começa em 1.836 yuans após o subsídio nacional. A primeira edição limitada vem com um tanque de água de 399 yuans. IT Home tem cinco imagens de correspondência de cores como segue:"
 },
 {
 "id": "02e9fa73b95c17",
-"t": "贾跃亭法拉第未来FFR 机器人业务2026 年前九个月收入约230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
-"r": "",
+"t": "O negócio de robôs FFR da Jia Yueting Faraday Future teve receita de aproximadamente US$ 2,3 milhões nos primeiros nove meses de 2026 e planeja entrar em Chicago e Dallas no primeiro trimestre de 2027",
+"r": "Faraday Future anunciou hoje os resultados financeiros do terceiro trimestre da FFR em 30 de setembro de 2026 e divulgou os dados operacionais independentes e planos de acompanhamento do negócio de robótica adquirido. Como a aquisição foi concluída após o final do terceiro trimestre, os resultados do negócio de…",
 "u": "https://www.ithome.com/1/026/471.htm",
 "f": "IT之家",
 "s": "ithome.com",
@@ -4882,12 +5076,12 @@
 ],
 "l": 0,
 "to": "贾跃亭法拉第未来FFR 机器人业务2026 年前九个月收入约230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
-"lg": "?",
-"nt": 1,
-"p": 2.2,
+"lg": "zh",
+"p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 0
+"mx": 1,
+"rx": "Faraday Future anunciou hoje os resultados financeiros do terceiro trimestre da FFR em 30 de setembro de 2026 e divulgou os dados operacionais independentes e planos de acompanhamento do negócio de robótica adquirido. Como a aquisição foi concluída após o final do terceiro trimestre, os resultados do negócio de robótica adquirido para os nove meses encerrados em 30 de setembro de 2026 não foram incluídos nas demonstrações consolidadas do terceiro trimestre da FFR.\nDados financeiros consolidados independentes e não auditados mostram que a receita do negócio de robôs nos primeiros nove meses foi de aproximadamente US$ 2,3 milhões (aproximadamente 15,377 milhões de yuans à taxa de câmbio atual), o lucro bruto foi de aproximadamente US$ 593.000 e a margem de lucro bruto foi de aproximadamente 26%; as despesas com pesquisa e desenvolvimento representaram 26,2% do total das despesas operacionais."
 }
 ],
 "2026-11-11": [
@@ -5406,7 +5600,7 @@
 {
 "id": "61e54a03ef2455",
 "t": "A mídia de Singapura expõe métodos de operação de informações falsas para alertar os robôs do exército cibernético para liderar a tendência | Internacional",
-"r": "",
+"r": "O Channel News Asia (CNA) publicou hoje um relatório de análise intitulado “Por que Cingapura é o principal alvo de campanhas de desinformação”. O relatório mencionou que quase 400 publicações apareceram em múltiplas plataformas de redes sociais, espalhando falsas alegações de que Singapura está envolvida em assuntos…",
 "u": "https://www.cna.com.tw/news/aopl/202611110231.aspx",
 "f": "中央社 CNA",
 "s": "cna.com.tw",
@@ -5418,10 +5612,10 @@
 "l": 0,
 "to": "新加坡媒體揭假訊息操作手法示警網軍機器人帶風向| 國際",
 "lg": "en",
-"p": 7.5,
+"p": 7.8,
 "cr": 3,
 "cv": "CNA Taiwan",
-"mx": -2,
+"mx": -1,
 "o": [
 {
 "f": "經濟日報",
@@ -5435,7 +5629,8 @@
 "s": "udn.com",
 "id": "86a5d9d1e0d808"
 }
-]
+],
+"rx": "O Channel News Asia (CNA) publicou hoje um relatório de análise intitulado “Por que Cingapura é o principal alvo de campanhas de desinformação”. O relatório mencionou que quase 400 publicações apareceram em múltiplas plataformas de redes sociais, espalhando falsas alegações de que Singapura está envolvida em assuntos indonésios. Do final de 2025 a meados de 2026, houve cerca de 500 vídeos na plataforma de vídeos curtos TikTok que fabricaram alegações de que a China afecta a tábua de salvação do desenvolvimento de Singapura.\nSaifuddin Ahmed, investigador de comunicação em Singapura, alertou que quando informações falsas são repetidas nas redes sociais, as alegações falsas tornar-se-ão cada vez mais familiares ao longo do tempo."
 },
 {
 "id": "27f408d2723e7b",
@@ -5714,7 +5909,7 @@
 {
 "id": "63f05bbb828e65",
 "t": "O lucro da Qili aumentou 6 vezes nos primeiros três trimestres, os pedidos de PCB e robôs cresceram fortemente",
-"r": "",
+"r": "Qili disse que o crescimento se deve principalmente ao aumento contínuo da demanda por equipamentos de teste de PCB e à indústria de automação, o que levou a um aumento nas vendas de componentes metálicos de precisão e componentes pneumáticos. Em particular, a fábrica de Zhejiang Pinghu, que se concentra na fabricação…",
 "u": "https://ec.ltn.com.tw/article/breakingnews/5637105",
 "f": "自由財經",
 "s": "ec.ltn.com.tw",
@@ -5726,10 +5921,10 @@
 "l": 0,
 "to": "氣立前三季獲利暴增6倍 PCB與機器人訂單成長強勁",
 "lg": "en",
-"p": 6.0,
+"p": 6.3,
 "cr": 3,
 "cv": "Liberty Times",
-"mx": -1,
+"mx": 0,
 "o": [
 {
 "f": "自由時報",
@@ -5737,16 +5932,17 @@
 "s": "stock.ltn.com.tw",
 "id": "ea2d916ed7b747"
 }
-]
+],
+"rx": "Qili disse que o crescimento se deve principalmente ao aumento contínuo da demanda por equipamentos de teste de PCB e à indústria de automação, o que levou a um aumento nas vendas de componentes metálicos de precisão e componentes pneumáticos. Em particular, a fábrica de Zhejiang Pinghu, que se concentra na fabricação de metais de precisão, tornou-se um importante motor para o crescimento operacional do grupo. Suas aplicações de produtos incluem componentes de equipamentos PCB, peças estruturais de robôs e componentes de máquinas da indústria automobilística, etc., e mantiveram um crescimento de dois dígitos nos últimos três anos.\nQili destacou que os principais grupos de clientes de PCB ou robôs estão atualmente em indústrias de rápido crescimento e a visibilidade dos pedidos relacionados também é maior do que a dos componentes pneumáticos. A relação de receita atual dos negócios pneumáticos e não pneumáticos é de cerca de 55:45. Gradualmente, ela se expandiu de componentes pneumáticos tradicionais para áreas como detecção de controle eletrônico e componentes metálicos de precisão, expandindo ainda mais a base de clientes de aplicações."
 },
 {
 "id": "f47a8a7aa132f2",
 "t": "Yuantai anunciou a boa notícia e aproveitou a oportunidade de negócio do robô VLA mais poderoso do Google",
-"r": "",
+"r": "Gemini Robotics 2.5, o modelo de robô de modelo de linguagem visual (VLA) mais poderoso de propriedade do gigante da nuvem Google, foi lançado e o poder de combate do robô deu um salto adiante. Entre os fabricantes taiwaneses, Yuantai (8069) fornece produtos de papel eletrônico, desempenha um papel importante na…",
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia"
@@ -5754,18 +5950,164 @@
 "l": 0,
 "to": "元太報喜 大咬Google最強VLA機器人商機",
 "lg": "ja",
-"p": 6.0,
+"p": 6.3,
 "o": [
 {
 "f": "經濟日報",
-"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BclNJNjNadEtRTDFLcVFxaVhINlNtdU1XRkxfbHJObjJCX1pnZWZ6eFBmTkxnN3ZKSjBNQmI0OWxJMHFCNVhqbVJCaDI5VlZab0ctWFQyX1BiX1p6YVZ30gFfQVVfeXFMTUFyU0k2M1p0S1FMMUtxUXFpWEg2U211TVdGTF9sck5uMkJfWmdlZnp4UGZOTGc3dkpKME1CYjQ5bEkwcUI1WGptUkJoMjlWVlpvRy1YVDJfUGJfWnphVnc?oc=5",
+"u": "https://money.udn.com/money/amp/story/5612/9873068",
 "s": "money.udn.com",
 "id": "9c4b98f289fa3a"
 }
 ],
 "cr": 3,
 "cv": "United Daily News",
-"mx": 0
+"mx": 1,
+"rx": "Gemini Robotics 2.5, o modelo de robô de modelo de linguagem visual (VLA) mais poderoso de propriedade do gigante da nuvem Google, foi lançado e o poder de combate do robô deu um salto adiante. Entre os fabricantes taiwaneses, Yuantai (8069) fornece produtos de papel eletrônico, desempenha um papel importante na comunicação serial de interface homem-máquina e está aproveitando enormes oportunidades de negócios. Yuantai se envolveu com os robôs do Google ao invadir o Google e depois investir na cadeia de suprimentos do desenvolvedor americano de robôs Apptronik. A Yuantai fornece papel eletrônico para o rosto e a parte superior do corpo do robô humanóide Apptronik para se comunicar com humanos e conectar interfaces homem-máquina. Sem o papel eletrônico da Yuantai, o robô não consegue entender as instruções humanas, destacando a posição central da Yuantai como um componente-chave dos robôs do Google."
+},
+{
+"id": "d7dc150e18df57",
+"t": "A receita de outubro da Ásia aumentou 110% mensalmente, os benefícios do investimento em robôs de IA fermentaram",
+"r": "Os capitalistas de risco sustentáveis ​​podem levar a Asia Capital (7777) a beneficiar de casos de investimento. A receita em outubro foi de 42,08 milhões de yuans, um aumento mensal de 110% e um aumento anual de 148%. A receita acumulada nos primeiros dez meses deste ano foi de 127 milhões de yuans, um aumento anual…",
+"u": "https://stock.ltn.com.tw/article/h9kgfvfdqne2",
+"f": "自由時報",
+"s": "stock.ltn.com.tw",
+"i": "https://img.ltn.com.tw/Upload/business/page/400S/2026/11/12/5637880_1.jpg",
+"d": "2026-11-11T22:44-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "能率亞洲10月營收月增110％ AI機器人投資效益發酵",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "Liberty Times",
+"mx": 1,
+"o": [
+{
+"f": "自由財經",
+"u": "https://ec.ltn.com.tw/amp/article/breakingnews/5637880",
+"s": "ec.ltn.com.tw",
+"id": "aaa765090cd200"
+}
+],
+"rx": "Os capitalistas de risco sustentáveis ​​podem levar a Asia Capital (7777) a beneficiar de casos de investimento. A receita em outubro foi de 42,08 milhões de yuans, um aumento mensal de 110% e um aumento anual de 148%. A receita acumulada nos primeiros dez meses deste ano foi de 127 milhões de yuans, um aumento anual de 7.640%. À medida que as metas de investimento, como inteligência artificial (IA) e robôs humanóides, continuam a mostrar resultados, e novos casos de investimento continuam a avançar, a empresa está otimista quanto ao seu desempenho operacional no quarto trimestre e aguarda com expectativa o seu principal alvo de investimento, Xinyunlinke (Link"
+},
+{
+"id": "8189e8c5b8cf4e",
+"t": "A IA é um sonho ou um pesadelo? Chen Chong alerta: o pagamento de impostos por robôs não é uma fantasia",
+"r": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto…",
+"u": "https://udn.com/news/story/7240/9873567",
+"f": "udn",
+"s": "udn.com",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"d": "2026-11-11T23:41-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AI 是美夢還是惡夢？ 陳冲示警：機器人繳稅不是天方夜譚",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/7307/9873567",
+"s": "money.udn.com",
+"id": "60deb08c6edef1"
+}
+],
+"rx": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto, atualmente, os países estão pisando no acelerador para desenvolver a IA, formando uma competição de IA. Tenha cuidado para não pisar no freio do desenvolvimento da IA, e pode ocorrer “perda de controle”.\nQuando os freios ao desenvolvimento da IA ​​não podem ser pisados, pode ocorrer \"perda de controle\", assim como em \"2001: Uma Odisseia no Espaço\", o HAL9000 realmente designou astronautas para assassinar o capitão, e houve uma rebelião da IA. Em 2017, escrevi um artigo “Não é uma fantasia que os robôs paguem impostos”. A economia tradicional acredita que os bens de capital trarão maiores benefícios e não deveriam ser tributados em teoria. Mas o que devemos fazer quando um certo tipo de bem de capital (como a IA) se tornou tão poderoso que muitas pessoas na sociedade (desempregadas) não conseguem pagar impostos?"
+},
+{
+"id": "6a30578179807e",
+"t": "Tratores elétricos e robôs humanóides, a nova fronteira da agrotecnologia",
+"r": "Milão, 27 de outubro (askanews) - De tratores elétricos a robôs autônomos, até humanóides trabalhando em vinhedos e pomares. A Agritech se concentra em...",
+"u": "https://stream24.ilsole24ore.com/embed/AJrKT1vB",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/TMNews/2026/10/27/large-20261027_video_17404145.jpg",
+"d": "2026-11-11T02:11-03:00",
+"c": [
+"agricolas",
+"humanoides"
+],
+"l": 0,
+"to": "Trattori elettrici e robot umanoidi, la nuova frontiera dell'agritech",
+"lg": "it",
+"p": 5.6,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 1,
+"rx": "Milão, 27 de outubro (askanews) - De tratores elétricos a robôs autônomos, até humanóides trabalhando em vinhedos e pomares. A Agritech se concentra em..."
+},
+{
+"id": "c6d40bfa5b05c7",
+"t": "Reunião de tecnologias humanóides e IA em Dubai... ‘GITEX 2026’ será realizada no próximo mês",
+"r": "Na GITEX GLOBAL 2026, exposição de tecnologia da informação e comunicação (TIC) que acontecerá no próximo mês em Dubai, Emirados Árabes Unidos (EAU), será preparada uma nova exposição especializada em robôs humanóides e inteligência artificial física (IA). As principais empresas de robôs, incluindo a Unitree e a…",
+"u": "https://biz.chosun.com/it-science/ict/2026/11/11/FPJ54W7LORESHO4YU5KRVSEZFM/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/ETLBOYS2BVC5BHI4KSOFZOOOME.jpg?auth=0c1cc471c132a58568d3d9ef7ce4ec24bd0f65f9a5249b9b38b70d36208feb4a&width=1200&height=630&smart=true",
+"d": "2026-11-11T02:46-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "두바이에 집결하는 휴머노이드·AI 기술… ‘GITEX 2026’ 내달 개최",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Na GITEX GLOBAL 2026, exposição de tecnologia da informação e comunicação (TIC) que acontecerá no próximo mês em Dubai, Emirados Árabes Unidos (EAU), será preparada uma nova exposição especializada em robôs humanóides e inteligência artificial física (IA). As principais empresas de robôs, incluindo a Unitree e a Ubitech da China, participarão e apresentarão robôs que executam tarefas em instalações industriais e tecnologia de IA de próxima geração. A inD, que hospeda o GITEX Global, anunciou no dia 11 que estabelecerá um novo 'GITEX World RobotiX' no evento deste ano. A exposição de robôs será realizada no Dubai Exhibition Centre, em Dubai Expo City, de 8 a 11 do próximo mês. GITEX Global é a exposição representativa de TIC do Oriente Médio que trata de tecnologias de ponta, como inteligência artificial (IA), nuvem, data centers, robôs e segurança cibernética.\nDe acordo com a empresa de pesquisa de mercado Counterpoint Research, as remessas globais de robôs humanóides no primeiro semestre deste ano ultrapassaram 22.000 unidades, um aumento de aproximadamente 300% em comparação com o mesmo período do ano passado. A GITEX Global deste ano começa com o 'GITEX Summit' realizado no Dubai World Trade Centre no dia 7 do próximo mês."
+},
+{
+"id": "e6e0a1cd6c4b74",
+"t": "440 bilhões investidos em peças humanóides... Até 2030, a taxa de produção nacional será de 80%.",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Este artigo foi publicado no ‘Hankyung Premium 9’, uma plataforma de investimento paga do Korea Economic Daily. Você pode encontrar mais artigos sobre investimentos assinando o Hankyung Premium 9 (www.hankyung.com/premium9).No…",
+"u": "https://www.hankyung.com/article/2026111109721",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/AA.46390062.1.jpg",
+"d": "2026-11-11T06:00-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "휴머노이드 부품에 4400억 투입…2030년 국산화율 80%로",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Este artigo foi publicado no ‘Hankyung Premium 9’, uma plataforma de investimento paga do Korea Economic Daily. Você pode encontrar mais artigos sobre investimentos assinando o Hankyung Premium 9 (www.hankyung.com/premium9).No mês passado... A Samsung Electronics está investindo cerca de 77 trilhões de won em investimentos em instalações para responder à demanda por semicondutores de inteligência artificial (IA) este ano. Isso equivale a 91% do investimento total em instalações deste ano, de 84,4 trilhões de won. A China está dominando rapidamente o mercado global de robôs, seguindo veículos elétricos e drones. No primeiro semestre deste ano, 87 dos 100 humanóides enviados para todo o mundo foram fabricados na China."
+},
+{
+"id": "4029a6ade44c46",
+"t": "Startup dos EUA oferece até US$ 45 por hora para ‘cuidar’ de robôs humanóides durante a noite | Tempos do Hindustão",
+"r": "Uma startup de robótica dos EUA está oferecendo até US$ 45 por hora por um trabalho incomum durante a noite: supervisionar robôs humanóides e garantir que continuem trabalhando sem problemas enquanto a maioria das pessoas dorme. (Leia também: Robôs humanóides juntam-se à polícia de trânsito na Maratona de Hangzhou, na…",
+"u": "https://www.hindustantimes.com/trending/us/us-startup-offers-up-to-45-an-hour-to-babysit-humanoid-robots-overnight-101794387889139-amp.html",
+"f": "Hindustan Times",
+"s": "hindustantimes.com",
+"i": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/Night_Shift_at_the_Robotics_Lab_1794388973154_evl4_1794388978067_YUtq_c248a49f-54fe-4f1a-9c25-480fac69f748_w9M1.png",
+"d": "2026-11-11T06:27-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "US startup offers up to $45 an hour to 'babysit' humanoid robots overnight | Hindustan Times",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Hindustan Times",
+"mx": 1,
+"rx": "Uma startup de robótica dos EUA está oferecendo até US$ 45 por hora por um trabalho incomum durante a noite: supervisionar robôs humanóides e garantir que continuem trabalhando sem problemas enquanto a maioria das pessoas dorme. (Leia também: Robôs humanóides juntam-se à polícia de trânsito na Maratona de Hangzhou, na China, detectam violações e orientam multidões) De acordo com um relatório do Business Insider, a Figure AI, com sede na Califórnia, está recrutando um coordenador do turno noturno em Santa Clara para gerenciar seus robôs humanóides e os funcionários que os operam.\nA empresa pretende implantar robôs humanóides na fabricação, logística, armazenamento e varejo, especialmente em indústrias que enfrentam escassez de mão de obra. De acordo com seu site oficial, a Figure prevê um futuro em que os robôs possam operar com o mínimo de intervenção humana."
 },
 {
 "id": "df89ef03fd9303",
@@ -6370,62 +6712,6 @@
 "mx": 3
 },
 {
-"id": "d7dc150e18df57",
-"t": "A receita de outubro da Ásia aumentou 110% mensalmente, os benefícios do investimento em robôs de IA fermentaram",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HVVh2OEpQV2N6djJuYVlkb01JQm5BWTB0R01Kc1liV3ZWNWpwenBGamNTb21tNWFRN251dDRmRG84YUw4cXNEUkVqMnJDbHJQMzQtWFJ4bDU?oc=5",
-"f": "自由時報",
-"s": "stock.ltn.com.tw",
-"i": "",
-"d": "2026-11-11T22:44-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "能率亞洲10月營收月增110％ AI機器人投資效益發酵",
-"lg": "en",
-"p": 5.0,
-"cr": 3,
-"cv": "Liberty Times",
-"mx": 0,
-"o": [
-{
-"f": "自由財經",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wUXFNTWZIbVZNRmtrSmN1dzB4eWhscTUyaWFwNUo5OGdKTDdJQlYzNjhqOVNYQ0YzU0lobUo5Yy1qODFnemhVRUZsd2JzTXp5S1ZiVGswXzFFYnc0V2VRLW9KdXnSAWRBVV95cUxNMFFxTU1mSG1WTUZra0pjdXcweHlobHE1MmlhcDVKOThnSkw3SUJWMzY4ajlTWENGM1NJaG1KOWMtajgxZ3poVUVGbHdic016eUtWYlRrMF8xRWJ3NFdlUS1vSnV5?oc=5",
-"s": "ec.ltn.com.tw",
-"id": "aaa765090cd200"
-}
-]
-},
-{
-"id": "8189e8c5b8cf4e",
-"t": "A IA é um sonho ou um pesadelo? Chen Chong alerta: o pagamento de impostos por robôs não é uma fantasia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95c3VZLTdueVpPWVZmdDU0TTJvUDdBUzFQdXdFOGZkQzBTaXFISHE2UVdoSDVjdFRBWUZnU2xsTHU2Vk0ya190ODY4V3FiWmNj0gFWQVVfeXFMTy0xNWxJdDBHdks4eXVwY19ieDJ4dkx6QTAxNkpGVDVVSmZJM21OaGJnTkpNTkZaQ3FfM2dkRk1aRXRaNkFiUzhJdDZQOWdRbmg5bVNQMEE?oc=5",
-"f": "udn",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-11T23:41-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AI 是美夢還是惡夢？ 陳冲示警：機器人繳稅不是天方夜譚",
-"lg": "en",
-"p": 5.0,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0,
-"o": [
-{
-"f": "經濟日報",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaTVEVUlyOGVBNGFYUmlVYTdRbE4ybnM3Sk5sX3FveGtzUVZIY2JZTXZSSXRyVVRQRk5QUlk2d1djTTZoVHVmVVkxc1NYY0pNWjFuVHlmUUZRdw?oc=5",
-"s": "money.udn.com",
-"id": "60deb08c6edef1"
-}
-]
-},
-{
 "id": "386e723df86328",
 "t": "Skyways obtém a primeira aprovação da FAA para voos offshore de drones de longo alcance",
 "r": "A Skyways garantiu uma autorização inédita da Administração Federal de Aviação (FAA) para conduzir operações de drones de longo alcance além da linha de visão visual (BVLOS) da costa dos EUA em alto mar, abrindo a porta para voos autônomos conectando instalações em terra com infraestrutura offshore no…",
@@ -6644,88 +6930,6 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. Pittsburgh, PA - Pittsburgh garantiu um investimento de quase US$ 4 milhões da Tronix3D para expandir suas operações de impressão e fabricação 3D. A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. “Este investimento nos permitirá aumentar nossa capacidade de produção, criar 47 novos empregos nos próximos três anos e continuar apoiando indústrias críticas, incluindo robótica, defesa, aeroespacial e IA física aqui mesmo na Pensilvânia.” Este anúncio surge na sequência de uma série de investimentos nos setores industrial e tecnológico de Pittsburgh."
-},
-{
-"id": "6a30578179807e",
-"t": "Tratores elétricos e robôs humanóides, a nova fronteira da agrotecnologia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ja05MbDZadXZUVDdhS182eERFRm0tRlYycXRickJJUDZrRkI3TDRZVWFFY2R3eklYczhERW81QlBCWF8wWE4waDVwT05RUXAxbVV2U1hrWFdHUVU?oc=5",
-"f": "Il Sole 24 ORE",
-"s": "stream24.ilsole24ore.com",
-"i": "",
-"d": "2026-11-11T02:11-03:00",
-"c": [
-"agricolas",
-"humanoides"
-],
-"l": 0,
-"to": "Trattori elettrici e robot umanoidi, la nuova frontiera dell'agritech",
-"lg": "it",
-"p": 4.3,
-"cr": 3,
-"cv": "Il Sole 24 Ore",
-"mx": 0
-},
-{
-"id": "c6d40bfa5b05c7",
-"t": "Reunião de tecnologias humanóides e IA em Dubai... ‘GITEX 2026’ será realizada no próximo mês",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzQ2YVNNbG1nOUs2UkgtclVkaklYTUZJZ0hnSlBXazRNTmZJZW5VaGpsaGFKX3NOclJadUkyc2JscWZheVhVek04a0Jib2Y1UXVCNmRhcGsyTXZrTHBEXzMtd3NJSVNpZklMb2RsSGphSm1wbFV1S1MyRU9hV1V6X0Fn0gGWAUFVX3lxTE9Jc2F0Ym1aSkZ2TUJjdmRlMjVDTXZ4Q0dTeHM3dkpTU2lLaXJ6aVcwX1FIWDBWNHJYWFkzZXM0S2JvcnZiWGtQTUpSaFhyNUJNOElwaFkyeE56VVNScEpoMDdDZnkwMWdhbHllV3FnU1cxSmVDRmZUWGtoUkhBY2Q1a0N6OG16b3d5bEVneHdTbTBqSnh5Zw?oc=5",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "",
-"d": "2026-11-11T02:46-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "두바이에 집결하는 휴머노이드·AI 기술… ‘GITEX 2026’ 내달 개최",
-"lg": "ko",
-"p": 4.3,
-"cr": 3,
-"cv": "Chosun Ilbo"
-},
-{
-"id": "e6e0a1cd6c4b74",
-"t": "440 bilhões investidos em peças humanóides... Até 2030, a taxa de produção nacional será de 80%.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WXhzVW93aXBIWk5FdGJEY0h3NFhFU21iWWs0Vnh6WllFQ2dnMnNYalJFcXBRazlnYU9YenRSVEZNaXd6ZS1WQUJBd2dpS05xSHNOQmRnNEpzQQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-11T06:00-03:00",
-"c": [
-"humanoides",
-"negocios"
-],
-"l": 0,
-"to": "휴머노이드 부품에 4400억 투입…2030년 국산화율 80%로",
-"lg": "ko",
-"p": 4.3,
-"cr": 3,
-"cv": "Korea Economic Daily",
-"mx": 0
-},
-{
-"id": "4029a6ade44c46",
-"t": "Startup dos EUA oferece até US$ 45 por hora para ‘cuidar’ de robôs humanóides durante a noite | Tempos do Hindustão",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVBjZ2EwZjUzek5qc3RfRE1iQTI0YnFNdUZIVmVvUnZYX2d1dWY5NU93N1gydDBBWFl6ZFRQcXBoMU1mTnFiUHozR25ucG0ybmVNdFJPRm1hLWg5aXRNM3FQOGc4ZHFDZEY3OXA3Z3ZLczVtMzFkQkhpcWF4MEpRNUxJLTFhSF80UHB6S3Utbm9YeU51bWxYWV84ZlFyTFZ3MHJCM0lORUgtanY1YW1LR1ZvQ2h6SzFXQ1FrT05hYW04d0tBaV9tQjNrOWZXeG5hVUpkb3Rn0gHWAUFVX3lxTFBBUGNnYTBmNTN6TmpzdF9ETWJBMjRicU11RkhWZW9SdlhfZ3V1Zjk1T3c3WDJ0MEFYWXpkVFBxcGgxTWZOcWJQejNHbm5wbTJuZU10Uk9GbWEtaDlpdE0zcVA4ZzhkcUNkRjc5cDdndktzNW0zMWRCSGlxYXgwSlE1TEktMWFIXzRQcHpLdS1ub1h5TnVtbFhZXzhmUXJMVncwckIzSU5FSC1qdjVhbUtHVm9DaHpLMVdDUWtPTmFhbTh3S0FpX21CM2s5Zld4bmFVSmRvdGc?oc=5",
-"f": "Hindustan Times",
-"s": "hindustantimes.com",
-"i": "",
-"d": "2026-11-11T06:27-03:00",
-"c": [
-"humanoides",
-"negocios"
-],
-"l": 0,
-"to": "US startup offers up to $45 an hour to 'babysit' humanoid robots overnight | Hindustan Times",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "Hindustan Times",
-"mx": 0
 },
 {
 "id": "7b139f70aac804",
@@ -7152,7 +7356,7 @@
 },
 {
 "id": "4699896393a29a",
-"t": "일손 부족에 로봇이 선거 참관인으로…日 지자체 실험",
+"t": "Devido à escassez de mão de obra, os robôs servem como observadores eleitorais... Experiência do governo local japonês",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeUpjNnRpbG90RmtoNHFOeVMxNEN3MGtJTUhua0pLVUdZLTExTkdZMG5pMXJfakFZckQ0bWZ1a3RDRUl0V1dLUTg0cm1KcWdvYmhDNVN6dF9SN1NYdHhIetIBYEFVX3lxTFBBeUpjNnRpbG90RmtoNHFOeVMxNEN3MGtJTUhua0pLVUdZLTExTkdZMG5pMXJfakFZckQ0bWZ1a3RDRUl0V1dLUTg0cm1KcWdvYmhDNVN6dF9SN1NYdHhIeg?oc=5",
 "f": "연합뉴스",
@@ -7164,8 +7368,7 @@
 ],
 "l": 0,
 "to": "일손 부족에 로봇이 선거 참관인으로…日 지자체 실험",
-"lg": "?",
-"nt": 1,
+"lg": "ko",
 "p": 3.5,
 "cr": 3,
 "cv": "Yonhap"
@@ -7335,7 +7538,7 @@
 },
 {
 "id": "29b8a358953973",
-"t": "Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation (multimodal egocentric vision + EMG)",
+"t": "Doutorando em Interfaces Neuromotoras para Teleoperação de Robôs Destros (visão egocêntrica multimodal + EMG)",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWVTWVR5UWx5elJlSTZnTnhVQlhTZHB3TUVxQ1JpSWd2SExsWGJ4RzZ5R1ZwQVhWdnUwMmQwX1hjWERfeEwtdTE2emR3cExjaFozazZDWFdXRzdqTkxHVnF5ZnR6OWl2SVRtanNuelpiYTJsTVlBVUxaRHBBUTlWUWJDemhnWW5taHdLc2ZqTVN6bnppYTlVNE1VOE1TaG1CU25LNHpVNDZLS2plYk0zZzhOV3M2RGpTN255bjZxVEV3djdhajVrdGpxM3lMRGMzMUd4WXNR?oc=5",
 "f": "NZZ Jobs",
@@ -7347,8 +7550,7 @@
 ],
 "l": 0,
 "to": "Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation (multimodal egocentric vision + EMG)",
-"lg": "?",
-"nt": 1,
+"lg": "en",
 "p": 3.5,
 "cr": 3,
 "cv": "NZZ"
@@ -8021,7 +8223,7 @@
 },
 {
 "id": "00a039880f1b8d",
-"t": "AIロボット部品録",
+"t": "Lista de peças de robôs AI",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkJJTC11bDEwbGhXdXRSWEpVYWZDV0ptVFJ2MENJQjNITFBjZ000VDZuLUdTV0pqN2d5dFpXeS1nSU05S0xLYlpyTGxBdGFUNW1hZnhVTzhhN1lZREpjeGJwbThSS3p4Mi1vRzVoMDZaUWZXRTByUzQ0Sll5Z1B1dzRQdnk2WDlaaDN2MHNMM0JBNXo4ZmJGVWl2UmVxM3FMN1FKaDdCTVZnT2s5UGt2QUdtTkVJVFkyLTctUUdZelhsT2JNZ1Zr?oc=5",
 "f": "日経クロステック",
@@ -8033,8 +8235,7 @@
 ],
 "l": 0,
 "to": "AIロボット部品録",
-"lg": "?",
-"nt": 1,
+"lg": "ja",
 "p": 3.5,
 "cr": 3,
 "cv": "Nikkei Asia"
@@ -8644,7 +8845,7 @@
 },
 {
 "id": "f0ce13111f45e4",
-"t": "遠隔操作ロボットで初詣や福笑い けいはんなアバターチャンレジ",
+"t": "Visita de Ano Novo e Fukuwarai com Desafio Avatar do Robô Keihanna com Controle Remoto",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODlwSlFiMVdFa1NzQm0zczNEeldxU0FaRWFlbVlpeVJZbzJiSHEzVWVxTlhBQnhvYUF3WlhLeDdPMDVlTEVHLXhiNHMtZGJSUUJndXRRLUY0OGZmY1FUVXI5UUVHMXludVB1NjQxTGh5Mi1ueXFBeDhsMi10ZHI5VlhoMzFydw?oc=5",
 "f": "朝日新聞",
@@ -8656,8 +8857,7 @@
 ],
 "l": 0,
 "to": "遠隔操作ロボットで初詣や福笑い けいはんなアバターチャンレジ",
-"lg": "?",
-"nt": 1,
+"lg": "ja",
 "p": 3.5,
 "cr": 3,
 "cv": "Asahi Shimbun"
@@ -8684,7 +8884,7 @@
 },
 {
 "id": "37b5a7df7db7ba",
-"t": "均勝電子向宇樹科技交付首台機器人高算力大腦背包",
+"t": "Joyson Electronics entrega a primeira mochila cerebral de alta computação para robôs para a Yushu Technology",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSkRHaW9oRGN0OU42WWtkTGZ5YWRuazZTeXF5WnVZMUdFaTJCYXZ1SGdmNkYyZjJNVmxCV1JGVHYwVlhjb0hRV0xKV0d5YkVnZUtsdzZTOTYzTXpP0gFiQVVfeXFMTjRndDZ1TzJzVkZSdTc3Ry1GQjNSU3djN2xKZ0V6Z056bm9PRDZUWjJVNlBGZ2xnRm56VzJDXzRNTWhjb3Z4NVR0QXROaGNMWVlEVnZJMFlyN1FGTHZPV3BuWFE?oc=5",
 "f": "經濟日報",
@@ -8696,8 +8896,7 @@
 ],
 "l": 0,
 "to": "均勝電子向宇樹科技交付首台機器人高算力大腦背包",
-"lg": "?",
-"nt": 1,
+"lg": "en",
 "p": 3.5,
 "cr": 3,
 "cv": "United Daily News"
@@ -12515,7 +12714,7 @@
 },
 {
 "id": "e34b58711453f9",
-"t": "대구서 국제로봇콘테스트…마트 휴머노이드 등 54개 종목 열전",
+"t": "Concurso Internacional de Robôs de Daegu… Competição em 54 esportes, incluindo Mart Humanoid",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZEhnZElJSGN6WGFXU2RGTFVvQmRPU25TRVJmWlFnQ2NsT3hIbWR1eDlKZFBmS3VwakcxUEhfR0JkdVpCNFJjWUFsMTAwQnp2QnFEeFNNME1qbTjSAWBBVV95cUxOYS1EaUZaLWdCUlFjZ2I0N1AyRVc4MlJpbzd4N2dlb0FKcjFaakF6aVA0WTdveVVqR3p2NmJGYjVWTjQzbE5uM2lpSExLVVdsUzJhZUs2RHB4UlhZVS1YQUI?oc=5",
 "f": "연합뉴스",
@@ -12527,8 +12726,7 @@
 ],
 "l": 0,
 "to": "대구서 국제로봇콘테스트…마트 휴머노이드 등 54개 종목 열전",
-"lg": "?",
-"nt": 1,
+"lg": "ko",
 "p": 4.3,
 "cr": 3,
 "cv": "Yonhap"
@@ -12752,6 +12950,25 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Yonhap"
+},
+{
+"id": "b182f391c4b025",
+"t": "Riico+drone+pesquisa",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CdzQ1NzlaYjlYVkZOckRkWTdJTUJLQkRiTzZYMWdLalYzVzBIZjFZeUFTV19tNFJvQ0tndmFGOTdxZk1Rc2Uwbk94Y2dqZVNIMGtsdHVUMGROODVWZHlid1ZWMWZXX0pISDF1WlAwWHFvYU02Rk5XcS1n?oc=5",
+"f": "ET Government",
+"s": "government.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-10T03:17-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Riico+drone+survey",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Economic Times"
 },
 {
 "id": "cf8f1d69b023c1",
@@ -13499,7 +13716,7 @@
 },
 {
 "id": "4de6e4d0b9ed2c",
-"t": "Path Robotics, nell'ultimo round di finanziamento valutazione quadruplicata a 2,5 miliardi di dollari",
+"t": "Path Robotics, na última rodada de avaliação de financiamento quadruplicou para 2,5 bilhões de dólares",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2dRMHNlREdzQUhMZU9objN6YWFmX1JvYnJsRkE1NXk3bWxpQ3k1Y0lFSEw2bmZhaDdKeXhJVzJNY21lRHh3NVdrVTlPWWtXd2Zkako4X0JVNjVsU3Npb0RCZFBBbW9Ld0k2aFhzbHh4V3NLXzJrQkVvN1JpbTI1Wi1wczRZZTFnVnI1Ql9ZR053WUwxRDB0dzVfODBxZTF5ZkVqbTNSZWN4WXpsREx2MlJlSjVIVGFlVjZ3dGVreENZdmEtdXVOdG44WmtsMk5qakVOWndMbUdBZzFhR1Y5MDdTNFk?oc=5",
 "f": "la Repubblica",
@@ -13511,8 +13728,7 @@
 ],
 "l": 0,
 "to": "Path Robotics, nell'ultimo round di finanziamento valutazione quadruplicata a 2,5 miliardi di dollari",
-"lg": "?",
-"nt": 1,
+"lg": "it",
 "p": 3.5,
 "cr": 3,
 "cv": "La Repubblica"
@@ -15007,6 +15223,25 @@
 "mx": 0
 },
 {
+"id": "d118eae4b3778d",
+"t": "A Anthropic Nvidia lançou novos produtos no mesmo dia, a indústria de robôs inaugurou um ponto de viragem crítico no \"crescimento de cérebros\"",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydzF4cTlIaHFCXzU4RVpJVXZwUzFuTGwwTVlMU1QwWDBfbVJuVXI5MjMtUjhILW9oakRNNVpBYzZVZFE4QkhRUnRqQ3JXQmZWSFhn?oc=5",
+"f": "eu.36kr.com",
+"s": "eu.36kr.com",
+"i": "",
+"d": "2026-11-10T05:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Anthropic英伟达同日发布新品 机器人产业迎来“长脑子”关键拐点",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr"
+},
+{
 "id": "bb04829ffc1940",
 "t": "DeepMind lança Gemini Robotics 2.5 e também lança benchmark aberto “ASIMOV-Jailbreak” para verificar a segurança do robô",
 "r": "",
@@ -15352,7 +15587,7 @@
 },
 {
 "id": "74c6b27acd92e1",
-"t": "Ring to release indoor home security drone (for real this time)",
+"t": "Anel para liberar drone de segurança residencial interna (desta vez de verdade)",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1ZRSl95eThpMXF4NjdKdmlJaE5nU0ZJdVhpcnBjYTBpdm9ibVpGa081bjlYYnVMeTVXNGUyZ2JTbHlkb25obmNlZVpOUXJBMTdXYkJ2TUxQazhTRVhkTDNXUnZGTW9SbTh6bDBwaUVLRnZ5TTM1M1dsY3V3Nm14NVdKM3g5UHc?oc=5",
 "f": "Mashable",
@@ -15364,8 +15599,7 @@
 ],
 "l": 0,
 "to": "Ring to release indoor home security drone (for real this time)",
-"lg": "?",
-"nt": 1,
+"lg": "en",
 "p": 2.2,
 "cr": 2,
 "cv": "Mashable"
@@ -15675,7 +15909,7 @@
 },
 {
 "id": "9a0e5455cd3214",
-"t": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？ ロボットが動くともうかるワケ",
+"t": "Todas as três principais empresas de telecomunicações estão entrando na “IA física”, por quê? Por que os robôs ganham dinheiro quando se movem",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85aUNudEJLcUV0QnVqZEcwbVgweHEzVTNjUjJFZm1KekFfN3B3THNYOEhHNl9Idi0tOUM3YlpQWl9xQl84aTR1UEFBYlhMSkgtYmEtcnViV0lwYTNIbmlhRkxsMmdIX2pwNnRuT3NzOXczMjVQ?oc=5",
 "f": "ITmedia",
@@ -15687,8 +15921,7 @@
 ],
 "l": 0,
 "to": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？ ロボットが動くともうかるワケ",
-"lg": "?",
-"nt": 1,
+"lg": "ja",
 "p": 2.2,
 "cr": 2,
 "cv": "ITmedia"
@@ -19980,7 +20213,7 @@
 },
 {
 "id": "db3487baf686b2",
-"t": "Service robot leader Pudu pivots to humanoids to fuel global ambitions",
+"t": "O líder do robô de serviço, Pudu, recorre a humanóides para alimentar ambições globais",
 "r": "",
 "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU5MdDNZT3EwQ0ZVMG4tLW1zcnFaZ2JHcHBXY0RfSU5LTlRCWlhXbnRRUkV1ZGVEUXpzTnVuS0xPN25XcVRJZlNvSmg3d1A3SzEzcmI4clM2dFJxaWJpSDJNa1pDbmNWdmNXLTZ3N2ZpOWdBZGtLcm5vdzJ3MksxRnRGT3ZvMUg4NU9rOTIxVndrZHJZM0RJazJNRnpYQnhLb1hnOS1SOHJGUE05cU1nZmdTLTB0M1dpU1lGN0hIZjRZXzhnaDZN0gHHAUFVX3lxTE92Q0JkZ3VXbDNmZ1NaZWhqRHVVZlhRaXJyYVhST0E0bk9jQjU5UDJkV09SMGEwZjlEa0RWNU1wR3BFOTRwN1oyQldFS0QzeTQ0TVVMcDE2d2NlMnpmOGJpSkUtQUZBdDc4V3VDOVV5VmlmVXFFTGMzVkQ3eTJvTl93X1RiMDREcFNiakJwd25IREU2R0IzdWpaUy1QdjlJZTlXUUtTTUNSRFcxQ0dDTUNtS1F5NHdid0lxMUFpRnRvNTczSmlmS1U?oc=5",
 "f": "South China Morning Post",
@@ -19993,8 +20226,7 @@
 ],
 "l": 0,
 "to": "Service robot leader Pudu pivots to humanoids to fuel global ambitions",
-"lg": "?",
-"nt": 1,
+"lg": "en",
 "p": 4.3,
 "cr": 3,
 "cv": "South China Morning Post"
