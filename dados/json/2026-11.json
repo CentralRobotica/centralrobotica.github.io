@@ -1075,8 +1075,31 @@
 "p": 5.4,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 2,
+"mx": 3,
 "rx": "LingBot Touch é um modelo de base de software da Robbyant, também conhecida como Ant Lingbo Technology, uma empresa de IA incorporada no Ant Group da China. Seu foco é o toque, colocando-o em uma categoria diferente das mãos robóticas físicas ou das plataformas humanóides completas. O modelo pertence à família LingBot de Robbyant e destina-se a complementar outro software de robô, em vez de operar como um controlador de robô independente. Seu corpus de treinamento contém quase 5.000 horas de gravações de toque coletadas de luvas e mãos robóticas. LingBot Touch tem uma pontuação cerebral guia humanóide de 5 em 10, colocando-o na faixa de desenvolvimento.\nSua relação com o LingBot VLA de Robbyant também estabelece um contexto de integração, em vez de posicioná-lo como um substituto completo para todas as outras camadas de software de robô."
+},
+{
+"id": "895bf7f040a14a",
+"t": "Welcome, GR00T 2!",
+"r": "GR00T 2 is a robot foundation model from NVIDIA, developed by the company’s GEAR research lab. It is software for robotics rather than a physical humanoid, robot arm or robotic hand. NVIDIA describes its model category as a “world action model,” distinguishing its positioning within the broader field of robot…",
+"u": "https://humanoid.guide/welcome-gr00t-2/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "",
+"d": "2026-11-13T17:23-03:00",
+"c": [
+"ia",
+"humanoides"
+],
+"l": 0,
+"to": "Welcome, GR00T 2!",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.4,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 0
 },
 {
 "id": "85f7707fda52bc",
@@ -1813,6 +1836,71 @@
 "mx": 0
 },
 {
+"id": "5c3978b10e6c33",
+"t": "“로봇이 집도하는 완전자율수술 시대 눈앞”",
+"r": "",
+"u": "https://www.donga.com/news/It/article/all/20261113/135022566/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/13/135022116.4.jpg",
+"d": "2026-11-13T13:40-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“로봇이 집도하는 완전자율수술 시대 눈앞”",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "cfbcd0bae83b58",
+"t": "Un drone suspect détecté au-dessus d’une base de la Royal Air Force en Angleterre",
+"r": "",
+"u": "https://www.lefigaro.fr/international/un-drone-suspect-detecte-au-dessus-d-une-base-de-la-royal-air-force-en-angleterre-20261113",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/13/17fe0c3c132c90104f61f7042da03cbf744703779bb2edd0e1ce3c08be988ba4.JPG",
+"d": "2026-11-13T17:53-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Un drone suspect détecté au-dessus d’une base de la Royal Air Force en Angleterre",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
+"id": "32eb4e634e899c",
+"t": "US air force responds to suspected drone activity over UK airbase",
+"r": "",
+"u": "https://www.straitstimes.com/world/europe/us-air-force-responds-to-suspected-drone-activity-over-uk-airbase",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/e583d4aaf093384a0504c2e3b4ec31aafa946e5ef03a7bbc0a0710187b339f11?t=og",
+"d": "2026-11-13T17:59-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "US air force responds to suspected drone activity over UK airbase",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 0
+},
+{
 "id": "3e4b871fd4bd0e",
 "t": "Quando os robôs mergulham debaixo d'água, HeymanDex vê novas possibilidades para mãos hábeis",
 "r": "Mãos hábeis estão se tornando um novo foco de competição na indústria da robótica humanóide. Para explorar esta questão, tivemos a oportunidade de entrevistar a equipa da HeymanDex, aprendendo como a empresa de robótica está a entrar no mercado de mãos hábeis através de aplicações subaquáticas, bem como a estratégia…",
@@ -2495,8 +2583,8 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Forbes",
-"cur": 1,
-"mx": 1
+"mx": 2,
+"cur": 1
 },
 {
 "id": "0fac17c1e6f378",
@@ -2517,7 +2605,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Times",
-"mx": 1
+"mx": 2
 },
 {
 "id": "8a6752ba94cc89",
@@ -2533,6 +2621,51 @@
 ],
 "l": 0,
 "to": "クマの食害、人身被害 4足歩行ロボットが守る 実用化目指し実証実験音、スプレーで撃退へ 鹿角の農園 ／秋田",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Mainichi",
+"mx": 2
+},
+{
+"id": "b4a2a5bb83f929",
+"t": "Nvidia's supply chain investments include autonomous trucking and industrial robotics",
+"r": "",
+"u": "https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics",
+"f": "Axios",
+"s": "axios.com",
+"i": "",
+"d": "2026-11-13T17:54-03:00",
+"c": [
+"industriais",
+"autonomos",
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "Nvidia's supply chain investments include autonomous trucking and industrial robotics",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Axios",
+"mx": 1
+},
+{
+"id": "3796fc7febbb44",
+"t": "テラ・クライシス：AIがロボットを使い「生命科学実験」 中国チーム開発に懸念も",
+"r": "",
+"u": "https://mainichi.jp/articles/20261113/k00/00m/040/167000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "",
+"d": "2026-11-13T18:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "テラ・クライシス：AIがロボットを使い「生命科学実験」 中国チーム開発に懸念も",
 "lg": "?",
 "nt": 1,
 "p": 3.5,
@@ -2580,7 +2713,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Quando o grande modelo passa do “mundo digital” para o “mundo físico”, a dificuldade não é deixar a máquina aprender a varrer o chão, mas deixá-la enfrentar uma rua desestruturada que nunca viu antes - veículos estacionados ilegalmente, passando por motocicletas para viagem, iluminação de fundo no início da manhã e água refletiva após a chuva - para completar diretamente o entendimento, previsão e ação sem que ninguém prepare o local com antecedência.\nEste processo está sendo tentado para ser verificado pela empresa inteligente incorporada Taiyi Robot (TAYEE.AI). Seu grande modelo físico TPM full-stack autodesenvolvido e sua primeira operadora principal - o robô de limpeza inteligente Taiyi Jiuling, realizaram operações de demonstração de limpeza na área central de Qianhai e nos bairros vizinhos de Yingbin durante a Cúpula da APEC de Shenzhen de 2026."
 },
 {
@@ -2601,7 +2734,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Dentro de um orçamento de 10.000 yuans, robôs exoesqueletos de consumo equipados com sistemas de detecção de terreno foram incluídos na linha opcional. Tome π6 como exemplo. É vendido por 6.899 yuans. É equipado com uma IMU e um chip single-core. Ele pode identificar três tipos de tendências de terreno para ajudar a acompanhar após dar um passo. Ele oferece dois modos: padrão e fitness, com assistência máxima de 10 N·m e potência de pico de 300 W. Se é a primeira vez que você compra um robô exoesqueleto para cenários diários como deslocamento urbano, caminhadas no parque, compras em supermercados, auxílio para caminhada de idosos e passeios de lazer nos finais de semana, esta configuração não desperdiçará seu orçamento.\nO robô exoesqueleto de consumo é um dispositivo de assistência à caminhada que melhora a resistência do corpo humano e proporciona exercícios cardiopulmonares e musculares mais equilibrados. Não é um dispositivo médico, não possui capacidade de suporte corporal e não tem efeito terapêutico."
 },
 {
@@ -5899,6 +6032,27 @@
 "cv": "Chosun Ilbo",
 "mx": 3,
 "rx": "ｺɾN(ｺɾ) ǰ/Ƿ Ż, å, ǿ, , , ǷIT"
+},
+{
+"id": "8cf95c552eb376",
+"t": "ボストン・ダイナミクス製ヒューマノイドAtlasの駆動限界と制御の堅牢性を検証、モーター制御と強化学習の統合 1枚目の写真・画像",
+"r": "",
+"u": "https://robotstart.info/article/img/2026/11/12/382625/109311.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109311.jpg",
+"d": "2026-11-12T04:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ボストン・ダイナミクス製ヒューマノイドAtlasの駆動限界と制御の堅牢性を検証、モーター制御と強化学習の統合 1枚目の写真・画像",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 0
 },
 {
 "id": "ad2d4d45e22fd5",
@@ -11496,6 +11650,27 @@
 "mx": 3
 },
 {
+"id": "248d2d66065848",
+"t": "네이버 로봇, 사우디 도로 달린다…내년 상반기 배송 추진",
+"r": "",
+"u": "https://www.yna.co.kr/amp/view/AKR20261112051500017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img8.yna.co.kr/photo/yna/YH/2025/11/27/PYH2025112705410006100_P4.jpg",
+"d": "2026-11-11T21:42-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "네이버 로봇, 사우디 도로 달린다…내년 상반기 배송 추진",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
 "id": "33dc7d81c178ed",
 "t": "Visualize canteiros de obras com robôs quadrúpedes e IA, que serão introduzidos no local em 2027 Kawada Industries and Highlanders",
 "r": "@cHƂHighlanders2026N1110Als{bgƌAIVXeg e̋JiႤ̋@\\JĂA2027Nx̌ꓱꓱꓱ",
@@ -11900,7 +12075,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Business Insider",
-"mx": 2,
+"mx": 3,
 "rx": "11, 2026 (GLOBE NEWSWIRE) - (247MarketNews) - NeOnc Technologies Holdings (NASDAQ:NTHI) está buscando um caminho potencial de aprovação acelerada da FDA para seu tratamento experimental de câncer cerebral, INLIF Limited (NASDAQ:INLF) está visando vendas expandidas de robótica por meio de uma estrutura de fornecimento planejada de US$ 30 milhões, CoreWeave (NASDAQ:CRWV) está estendendo sua plataforma de infraestrutura de IA com um novo gerenciamento serviço de banco de dados, e Ohmyswift (NASDAQ:OMH), anteriormente Ohmyhome, tornou-se uma história comercial notável após um aumento dramático no preço das ações e uma reestruturação corporativa.\nA NeOnc está se aproximando de um importante marco regulatório à medida que busca avançar seu tratamento experimental intranasal para câncer cerebral NEO100 em direção a um potencial caminho de aprovação acelerada."
 },
 {
@@ -11924,7 +12099,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "Estamos de volta com outro resumo de arrecadações de fundos notáveis ​​​​para startups de robótica para a semana de 09/11. Observamos uma empresa que fabrica equipamentos terapêuticos para sobreviventes de derrame, outra que constrói submarinos autônomos, uma que constrói robôs de armazém semiautônomos e muito mais. A empresa levantou uma extensão da Série A de US$ 3,3 milhões, elevando seu financiamento total para a rodada para US$ 13,5 milhões.\nA empresa emergiu do sigilo com uma rodada de financiamento inicial de US$ 38 milhões liderada pela Point72 Ventures. Falando em embarcações autônomas, a Humble Robotics está construindo caminhões de carga autônomos desde o início. A Humble Robotics arrecadou US$ 51 milhões na Série A liderada pela Obvious Ventures. A fabricante de robótica de armazém Tutor Intelligence acaba de levantar uma rodada da Série B de US$ 75 milhões liderada por Andreessen Horowitz."
 },
 {
@@ -12870,7 +13045,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Recentemente, a AGIBOT lançou a estrutura LIFE (Aprendendo a viver: um passo em direção à inteligência incorporada ao longo da vida), que combina percepção contínua, memória de longo prazo e reutilização de capacidade para apoiar os robôs na aquisição de informações ambientais durante a execução de tarefas e entre tarefas, e no uso de observações históricas para a tomada de decisões subsequente.\nO LIFE adiciona um link de percepção e memória em execução contínua a essa base, permitindo que o sistema rastreie condições relevantes enquanto a ferramenta está em execução e salve alterações que valem a pena registrar como informações históricas recuperáveis."
 },
 {
@@ -12892,7 +13067,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "IT 11 de 11 de janeiro de 2026, 2026 世界计算大会将于Com o tema \"Calculando o Futuro de Todas as Coisas em Xiangyue - Criando uma Nova Forma de Economia Inteligente\", esta conferência organizou um total de 21 atividades temáticas de \"1+5+N+1\".\n大会核心议程围绕“十五五”时期计算产业发展方向展开解读，将集中发布计算产业分析、算力发展趋势、计算行业标准等一批研究报告，以及算电协同、基础设施、计算软硬件等产业成果。"
 },
 {
@@ -12913,7 +13088,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 11 de novembro que, a fim de acelerar o desenvolvimento de alta qualidade da indústria de robôs inteligentes incorporados de Pequim, o Departamento Municipal de Economia e Tecnologia da Informação de Pequim emitiu hoje o \"Plano de Ação de Desenvolvimento de Alta Qualidade de Pequim para a Indústria de Robôs Inteligentes Incorporados (2026-2028)\". IT之家注意到, 该《行动方案》提到建立具身智能机器人企业上市“一对一”服务机制 ，培育优势龙头企业。在整机、关键零部件、具身智能模型和数据采集等重点领域，培育不少于 200家科技和创新型中小企业、高新技术企业、专精特新中小企业、专精特新“小巨人”企业、制造业单项冠军企业。"
 },
 {
@@ -12934,7 +13109,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -12956,7 +13131,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -12978,7 +13153,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -13000,7 +13175,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -13022,7 +13197,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -13044,7 +13219,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -15272,7 +15447,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 2
+"mx": 3
 },
 {
 "id": "04f31f697e3b0c",
@@ -15342,7 +15517,7 @@
 ],
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "O Google DeepMind acaba de lançar o Gemini Robotics 2.5, em conjunto com a Conferência sobre Aprendizagem de Robôs (CoRL) em Austin esta semana. A versão mais recente do VLA (visão-linguagem-ação) foi testada em 200 tarefas distintas, por divisão. As atualizações incluem destreza mais robusta, melhorias de segurança e uma métrica de confiabilidade de “taxa de sucesso de 96%”, com o humanóide Apollo 2 da Apptronik durante testes de prova de conceito em linhas da Mercedes-Benz em fábricas alemãs e húngaras.\nLigado a isso está o novo ASIMOV-Jailbreak, uma referência com “centenas de prompts que disfarçam solicitações inseguras em dezenas de cenas”. O Google observa que “Argon atinge 99,5% de resistência ao jailbreak – uma melhoria significativa em relação à taxa de 82% de nossa linha de base anterior, Gemini Robotics ER 2”."
 },
 {
@@ -15707,7 +15882,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2,
+"mx": 3,
 "rx": "Em 9 de novembro de 2026, o site oficial do International Consumer Electronics Show (CES) anunciou oficialmente os vencedores do 2027 CES Innovation Awards. Galbot ET1 da Galaxy Universal Robots, o primeiro robô inteligente nativo do mundo, ganhou o prêmio Best of Innovation, tornando-se o primeiro robô humanóide bípede a ganhar esta honra desde o estabelecimento dos CES Innovation Awards.\nO Galaxy Xingzai juntou-se a esses produtos de tecnologia internacional de ponta na lista de prêmios do mais alto nível e ganhou a mais alta honraria de inovação na categoria de robôs, marcando que as conquistas de inovação de robôs inteligentes incorporadas na China foram reconhecidas por prêmios de tecnologia internacionais autorizados."
 },
 {
@@ -16107,6 +16282,330 @@
 "mx": 0
 },
 {
+"id": "cf1b9caf916334",
+"t": "[Vídeo] O robô que tentou completar a maratona antártica… Retirada devido à descarga da bateria em frio extremo",
+"r": "",
+"u": "https://www.yna.co.kr/view/AKR20261110147100704",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img4.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110147100704_01_i_P4.jpg",
+"d": "2026-11-10T04:50-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "[영상] 남극 마라톤 완주 도전한 로봇…혹한에 배터리 방전돼 기권",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
+"id": "12c17f9dbbedb0",
+"t": "[Vídeo] O robô que tentou completar a maratona antártica… Retirada devido à descarga da bateria em frio extremo",
+"r": "",
+"u": "https://www.yna.co.kr/amp/view/MYH20261110015000704",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img8.yna.co.kr/mpic/YH/2026/11/10/MYH20261110015000704_P1.jpg",
+"d": "2026-11-10T04:53-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "[영상] 남극 마라톤 완주 도전한 로봇…혹한에 배터리 방전돼 기권",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
+"id": "7b00960951b2d6",
+"t": "Analistas oferecem insights sobre empresas de bens industriais: Parker Hannifin (PH), Serve Robotics Inc (SERV) e Bloom Energy (BE)",
+"r": "",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/SERV/pressreleases/8758187/analysts-offer-insights-on-industrial-goods-companies-parker-hannifin-ph-serve-robotics-inc-serv-and-bloom-energy-be/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T05:00-03:00",
+"c": [
+"entrega"
+],
+"l": 0,
+"to": "Analysts Offer Insights on Industrial Goods Companies: Parker Hannifin (PH), Serve Robotics Inc (SERV) and Bloom Energy (BE)",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 0
+},
+{
+"id": "5856f00a597087",
+"t": "Yushu se tornará um parceiro-chave dos robôs da Apple, e Shanghai Banking e Yatli farão o acompanhamento para aproveitar oportunidades de negócios.",
+"r": "",
+"u": "https://money.udn.com/money/story/5612/9867809",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"d": "2026-11-10T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "宇樹將成為蘋果機器人關鍵夥伴 上銀、雅特力跟進搶商機",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "336c66a05b4410",
+"t": "Antártica, um robô corre uma maratona no gelo: ele se aposenta depois de apenas 3 quilômetros",
+"r": "",
+"u": "https://video.corriere.it/antartide-un-robot-corre-la-maratona-sul-ghiaccio-si-ritira-dopo-appena-3-chilometri/1f7a9067-78a8-41e6-9414-bf62074ddxlk",
+"f": "Corriere della Sera",
+"s": "video.corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/10/6af2d7865a64c.jpeg",
+"d": "2026-11-10T05:39-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Antartide, un robot corre la maratona sul ghiaccio: si ritira dopo appena 3 chilometri",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 0
+},
+{
+"id": "34a00c4da7e9bb",
+"t": "Amazon expande serviço de entrega de drones para milhares de domicílios no Reino Unido",
+"r": "",
+"u": "https://www.independent.co.uk/news/uk/home-news/amazon-uk-prime-air-drone-delivery-b3082198.html",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "https://static.independent.co.uk/2026/01/13/9/08/Amazon-drone-3.jpeg?trim=0,0,2,0&width=1200&height=800&crop=1200:800",
+"d": "2026-11-10T06:03-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Amazon expands drone delivery service to thousands more UK households",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Independent",
+"mx": 0
+},
+{
+"id": "0d99764ef789cc",
+"t": "HD Hyundai Robotics revela robô de braço duplo, faz parceria com Palantir para avançar na IA física",
+"r": "",
+"u": "https://biz.chosun.com/en/en-industry/2026/11/10/DXAMVUCTN5BETIBE6VVFVHW2QI/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/K6HWKFTVO5AU7ACGJVLCNO4DAA.jpeg?auth=cac4b1fef96ab5872adecb1dcfc11ea37bbea6a719dcf040c3cd278a3eb16289&width=1200&height=630&smart=true",
+"d": "2026-11-10T06:13-03:00",
+"c": [
+"ia",
+"negocios"
+],
+"l": 0,
+"to": "HD Hyundai Robotics unveils dual-arm robot, partners with Palantir to advance physical AI",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
+},
+{
+"id": "71d31076f55e34",
+"t": "IA, robôs, exames de saúde e tratamento... 1.000 startups promovidas pela Samsung Electronics",
+"r": "",
+"u": "https://www.hankyung.com/article/2026111084161",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+"d": "2026-11-10T06:23-03:00",
+"c": [
+"medicina",
+"negocios"
+],
+"l": 0,
+"to": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 0
+},
+{
+"id": "f3bd4decba03ac",
+"t": "IA física amanhã, 'AI da alma' depois de amanhã?... Por que robôs e humanos realizaram um 'show de mágica conjunto'",
+"r": "",
+"u": "https://www.donga.com/news/It/article/all/20261110/135001582/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/10/135001538.3.jpg",
+"d": "2026-11-10T06:28-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "내일은 피지컬 AI, 모레는 ‘소울 AI’?…로봇과 인간이 ‘공동 마술쇼’ 연 까닭",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "9f8d981e246061",
+"t": "Presidente da Siemens se apaixona pelo Naver Robot... ‘Grite’ no Instagram [chute técnico de Jeong Ji-eun]",
+"r": "",
+"u": "https://www.hankyung.com/article/202611108530i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46376652.1.jpg",
+"d": "2026-11-10T06:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "지멘스 회장, 네이버 로봇에 반했다…인스타서 '샤라웃' [정지은의 테크킥]",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 0
+},
+{
+"id": "c085a24fc32fad",
+"t": "Sementes robóticas, baterias comestíveis, colas que protegem os corais. Tecnologia italiana que ajuda o meio ambiente",
+"r": "",
+"u": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/10/news/tecnologia_ambiente-425712695/",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "https://www.repstatic.it/content/contenthub/img/2026/11/10/112145783-a3e7e5b3-37ea-4f84-8689-2fae4282f393.jpg",
+"d": "2026-11-10T07:21-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Semi robot, batterie edibili, colle salva-coralli. La tecnologia italiana che aiuta l’ambiente",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "La Repubblica",
+"mx": 0
+},
+{
+"id": "9c1cbe0bee4a5c",
+"t": "Boas notícias para o Shanghai Silver Robot Order: dezenas de milhares de trilhos são entregues aos clientes da American T todos os meses",
+"r": "",
+"u": "https://ec.ltn.com.tw/article/breakingnews/5636081",
+"f": "自由財經",
+"s": "ec.ltn.com.tw",
+"i": "https://img.ltn.com.tw/Upload/business/page/800/2026/11/10/5636081_1.jpg",
+"d": "2026-11-10T07:28-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "上銀機器人訂單報喜 每月上萬支線軌交貨美系T客戶",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Liberty Times",
+"mx": 0
+},
+{
+"id": "f2bf07357b6d23",
+"t": "Procura-se: um humano disposto a cuidar de robôs no turno da noite",
+"r": "",
+"u": "https://africa.businessinsider.com/careers/wanted-a-human-willing-to-babysit-robots-on-the-graveyard-shift/r7mnzp8",
+"f": "Business Insider Africa",
+"s": "africa.businessinsider.com",
+"i": "https://ocdn.eu/pulscms-transforms/1/5Z8ktkuTURBXy8xYmNkNTdiOC0wYzAxLTRjYzctYTAxNC0yNmVlM2EzNDJmNDYuanBlZ5GTBc0EsM0Cdg",
+"d": "2026-11-10T07:52-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Wanted: A human willing to babysit robots on the graveyard shift",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "72aea345939370",
+"t": "GenRobot AI levanta US$ 100 milhões para expandir a infraestrutura de dados de treinamento de robôs",
+"r": "",
+"u": "https://roboticsandautomationnews.com/2026/11/10/genrobot-ai-raises-100-million-to-expand-robot-training-data-infrastructure/106905/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/genrobot-ai-1.png",
+"d": "2026-11-10T08:50-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "GenRobot AI raises $100 million to expand robot training data infrastructure",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "87a5e55c941fb3",
+"t": "Exclusivo: Na corrida por dados de treinamento de robôs, startup de ex-pesquisadores da Meta recorre a trabalhadores com câmeras",
+"r": "",
+"u": "https://fortune.com/2026/11/10/exclusive-in-the-race-for-robot-training-data-ex-meta-researchers-startup-turns-to-gig-workers-with-cameras/",
+"f": "Fortune",
+"s": "fortune.com",
+"i": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Memoriesai-Founders-feat.jpg?resize=1200,600",
+"d": "2026-11-10T10:00-03:00",
+"c": [
+"ia",
+"negocios"
+],
+"l": 0,
+"to": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Fortune",
+"mx": 0
+},
+{
+"id": "c8ef93b5b1f8ba",
+"t": "Dinheiro e drones garantiram a libertação de reféns suíços no Níger: relatório",
+"r": "",
+"u": "https://www.swissinfo.ch/eng/swiss-diplomacy/cash-and-drones-secured-swiss-hostages-release-from-niger-report/92355620",
+"f": "SWI swissinfo.ch",
+"s": "swissinfo.ch",
+"i": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/000_A92J2CE.jpg?ver=1ca1ec11&fit=1200,800",
+"d": "2026-11-10T10:25-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Cash and drones secured Swiss hostage’s release from Niger: report",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Swissinfo",
+"mx": 0
+},
+{
 "id": "16d22e859a48ef",
 "t": "Robot Trash Talk no Web Summit enquanto Agibot disses Tesla, Figure, Unitree",
 "r": "",
@@ -16125,7 +16624,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Forbes",
-"mx": 2
+"mx": 3
 },
 {
 "id": "3862d2d75e122d",
@@ -16167,7 +16666,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 2
+"mx": 3
 },
 {
 "id": "0eac41f69057fe",
@@ -16209,7 +16708,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "The Australian",
-"mx": 2
+"mx": 3
 },
 {
 "id": "22b7e24bce0a4e",
@@ -16229,7 +16728,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "cf8f1d69b023c1",
@@ -16250,7 +16749,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 1
+"mx": 2
 },
 {
 "id": "67859c57f7e7ac",
@@ -16293,88 +16792,10 @@
 "mx": 0
 },
 {
-"id": "cf1b9caf916334",
-"t": "[Vídeo] O robô que tentou completar a maratona antártica… Retirada devido à descarga da bateria em frio extremo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uUFZoVXhId3JpakFyOENIR016ZUFVNHBiRTVSTDJaOTdnc29BemlYZmtfSEtJNjc2VER5LWxya0tta1pCMy1fLXZ5WlA3MXJCVTlLVHg2aHA0MHfSAWBBVV95cUxNcm1FdGUxYVFIVzJfb2lQUWtDdHhrNWZ3YXMxRnR5THZqeFI3NWxmYTMxUmRodDJtWWRpeDIyU1lkdjhXWFMyWVQtZ0xqb0oyb0ZuOGFDRDJTOE40ejlnTzM?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-10T04:50-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "[영상] 남극 마라톤 완주 도전한 로봇…혹한에 배터리 방전돼 기권",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap"
-},
-{
-"id": "12c17f9dbbedb0",
-"t": "[Vídeo] O robô que tentou completar a maratona antártica… Retirada devido à descarga da bateria em frio extremo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKalplUUFkNmVPWUFhaGhLcklzblRhMGtYSXRvdWdlVENqSTFSVWFIUXZRQkdjUkNXRHRDMURCUmJQRXBpM0g5SzJ2bnk1bGJ2bmszTlRCZTl0NHdaMTc1btIBYEFVX3lxTFBKalplUUFkNmVPWUFhaGhLcklzblRhMGtYSXRvdWdlVENqSTFSVWFIUXZRQkdjUkNXRHRDMURCUmJQRXBpM0g5SzJ2bnk1bGJ2bmszTlRCZTl0NHdaMTc1bg?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-10T04:53-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "[영상] 남극 마라톤 완주 도전한 로봇…혹한에 배터리 방전돼 기권",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap",
-"mx": 0
-},
-{
-"id": "7b00960951b2d6",
-"t": "Analistas oferecem insights sobre empresas de bens industriais: Parker Hannifin (PH), Serve Robotics Inc (SERV) e Bloom Energy (BE)",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUmdiQURXcTV0azJEb0o0V2xGU1J5a2ZZUGFrclkwbEU0ZVFsdERVclhxVnRVazhJWEE1YW9ON3AxdjRaTzNac0tETGlWTEFNaThkM1FzZHBxQ01TbWFkMDcwYnpGdHhoblZGdzdrWllUcnVKWkRlRU9fTDU0Wm8xQXJubm1IbWFud0NrUDdMN2tYVzFZb3N0WmtVV1RGWjJnUVZqNkJIOTg2VzdCc1ZWNk1jdVFiNnFibGZaRnBGaG5iclZFbXoyNGN6MjUxWjBOak1nOExzSG9HRzAtcUhOaXp6WS0yQ3o3QTNaWWV0U0I5c1lsQXo4VUZ0b2d0MlRNVkZKcWVnNEdPUGVtZWcyTGxYWmY5VGswcFA1Z3l0aGdHM0loWU83OA?oc=5",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T05:00-03:00",
-"c": [
-"entrega"
-],
-"l": 0,
-"to": "Analysts Offer Insights on Industrial Goods Companies: Parker Hannifin (PH), Serve Robotics Inc (SERV) and Bloom Energy (BE)",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 0
-},
-{
-"id": "5856f00a597087",
-"t": "Yushu se tornará um parceiro-chave dos robôs da Apple, e Shanghai Banking e Yatli farão o acompanhamento para aproveitar oportunidades de negócios.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsWnRMWDlmTnhWRDdCdUhiWGxEcXVmeUlVbkl6LWRvem54M19YX3lBdGtyUkxPRjlxNjU2bmNuT2hnNXlJbmlQOS1hcktZLThyc19ycFVXYWlPQdIBX0FVX3lxTE16MHVGSVMxdk9PUlotXzVYcDFJX2E1bGdqWEM5UTEyUFB2SU5RSTZWMDY2aFhPamVrdFh4dm45RklnWExMSEJSQTB0LTZsMFlrOEsyVnRDR1A5T3AyRS00?oc=5",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-10T05:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "宇樹將成為蘋果機器人關鍵夥伴 上銀、雅特力跟進搶商機",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News"
-},
-{
 "id": "5e8f63e7fc4a53",
 "t": "Fabricante de drones reage aos compromissos de gastos com defesa do orçamento federal | A edição inicial | Sob demanda",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVhsUXNnMWtzdU43cDEtZDVjSXRiWHNyZ0hiZFREamJPeVAtd3ROOWtEWG02Y3hMVUV0Vms3a3BOaEh0UC1paUE5b3JLNjE2S1A1MGYtdzhpQ3NvQm5LVVNmR3FVTWZwSmdSVzVmbWo3NWZWTjB4UXhVSWpIUnliVWpBMHBrQlA4VWk5ZTcwWjNKWGlHekF6NDk4RURZdVVIaHI1cC01R3dmRzBYYUtLdDNrUEo4X2hXVXdjMTVPVXN0WngwREhpSnA1bzliOW00am0xalhfdURBOXM?oc=5",
+"u": "https://www.cbc.ca/listen/live-radio/1-91-the-early-edition/clip/16247737-drone-manufacturer-reacts-federal-budget-defence-spending-commitments",
 "f": "CBC",
 "s": "cbc.ca",
 "i": "",
@@ -16389,33 +16810,14 @@
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "CBC"
-},
-{
-"id": "336c66a05b4410",
-"t": "Antártica, um robô corre uma maratona no gelo: ele se aposenta depois de apenas 3 quilômetros",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWN2RVNIajhIS0pvQTN2dUs0RUQ5akROTWZpQmx3YUUtT2syRFZMSkZfSHVjclA3amNYd1BucUUzbzhLbE1hZU1GNEE3aERXakF3cEpoUUlxenRmNWNIRDVjV2ppdDI5M0JDOEVQT1ZvaFRRSUR3a0E5WHlNLXN1VUJyNXZqUUdNOW9VTERrN2EzTGloanBVSVcyRDJSNDBrSTlnZHNQU2VhSW5Qb3luS0F6aG5JbEw4eDhhTWRFVEhhSXIwZEhsXzdIVWwzWGNIYW5WQzNzWUxCVzlic19aSA?oc=5",
-"f": "Corriere della Sera",
-"s": "video.corriere.it",
-"i": "",
-"d": "2026-11-10T05:39-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "Antartide, un robot corre la maratona sul ghiaccio: si ritira dopo appena 3 chilometri",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera",
-"mx": 0
+"cv": "CBC",
+"mx": 1
 },
 {
 "id": "408c7fe3d02b45",
 "t": "Robótica | Robôs chineses em marcha apesar dos obstáculos da guerra tecnológica",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUhWRDZuX3YtRzk3alhreFBJY3FJQUJBdkRVckk5U3dUWXp0SWdMRUJOT3c4NW8yV2Y2YVhodGhPblgzWmROOE55TFE0MG5Lb01mdE1hTklpNm92WWFZdnRBMkpObmVFbmxJUjZEQXcyQUxrYmNib3FOTm93ODFkRHdwYnpXb1gzY2VRT0xUNWVnYnhLWGJMelZlZHZlektDRFZn?oc=5",
+"u": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles",
 "f": "South China Morning Post",
 "s": "scmp.com",
 "i": "",
@@ -16428,174 +16830,14 @@
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "South China Morning Post"
-},
-{
-"id": "34a00c4da7e9bb",
-"t": "Amazon expande serviço de entrega de drones para milhares de domicílios no Reino Unido",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGVZUjlDUVl6VFZIWUZIODFtcU9IMzJwMldkOE1HV0NITk5GQVZZVmw3aGZHaDZ3Y0o3cEYwd3liYmRNd2F0N2ZqMnIyM2duY2xiN0VKTUY4OGpkTUhvb090VGlnNWJ4NVlJMDkwRHhVRHQ4di01SXV4aldEb1BUOEs1aXFHdldfZ09LT3BHVXRuYWFwRW5iZUpZdzA?oc=5",
-"f": "The Independent",
-"s": "independent.co.uk",
-"i": "",
-"d": "2026-11-10T06:03-03:00",
-"c": [
-"drones",
-"entrega"
-],
-"l": 0,
-"to": "Amazon expands drone delivery service to thousands more UK households",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Independent",
-"mx": 0
-},
-{
-"id": "0d99764ef789cc",
-"t": "HD Hyundai Robotics revela robô de braço duplo, faz parceria com Palantir para avançar na IA física",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2Nvd0IzcmZ4UDVKTVl6SFptRWFvTmFJUWdmelFxTGUzb2gzazg2ZjZzOWlMbzIwWG5HSjFjd1dLdTFEMUZRNnExZldSTlRxQ2pwbVpPTVlCWFEweDZ5MExBV3ladGVfTk1RemxFRFkzaEpEc09tZmRSQTAwZEZnS2tR0gGWAUFVX3lxTE1ScDFIcDRYMWNjOWZIbHA1T0hQRU13aEpmSnhBdXhrcVFkM1ptYURJMUU0ZnBRc0hpNEFsRnl2LXFhSDZMMnE0WThVZ3hUb0lDOU0tWGlXcHlOLVZIUGp4Qkg4QVhFS0xmMVF1OFJ5NHZueXhabU9hWlAyNmdkcnk5WnNSNENsaFVMLUxLQ3dpc2wzellRdw?oc=5",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "",
-"d": "2026-11-10T06:13-03:00",
-"c": [
-"ia",
-"negocios"
-],
-"l": 0,
-"to": "HD Hyundai Robotics unveils dual-arm robot, partners with Palantir to advance physical AI",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 0
-},
-{
-"id": "71d31076f55e34",
-"t": "IA, robôs, exames de saúde e tratamento... 1.000 startups promovidas pela Samsung Electronics",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MYXJEbElra3ZlNHdvcmNTeFA3UVhGbTJ0ZFVxanV4LWh1MDVER2owVmNUczVQMVVnMFZTQU12SlZFYzl0ZVZ5cElFRGM3SFZEZDAxejFnMzl3dw?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-10T06:23-03:00",
-"c": [
-"medicina",
-"negocios"
-],
-"l": 0,
-"to": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily"
-},
-{
-"id": "f3bd4decba03ac",
-"t": "IA física amanhã, 'AI da alma' depois de amanhã?... Por que robôs e humanos realizaram um 'show de mágica conjunto'",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqSFVKakZKWWxMV1dWVnJGNF9uaDFHWFo5cl9NMDV5NVNJT2VTQ1Nmbnp4MDVCNTM0MGkwVGhidGpYTXlsT1YwRGZxZ2RYNk54Z2NtS2dWai1IOUNtR1dqRDJKLVR3MVJ2LWJocUVUSdIBZkFVX3lxTE5DcGNmY1p3TjN0UXpHcGRkRWw4eDlqMXU2UWxNN0tfUk1iaXlWRmMtUjdPb1BrbzJrUVppYjRGaUZnN1BjVDhJRzNnT1hNY091TVlKOWpUT1p1akEtdEpiYVdDVF9mZw?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-10T06:28-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "내일은 피지컬 AI, 모레는 ‘소울 AI’?…로봇과 인간이 ‘공동 마술쇼’ 연 까닭",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0
-},
-{
-"id": "9f8d981e246061",
-"t": "Presidente da Siemens se apaixona pelo Naver Robot... ‘Grite’ no Instagram [chute técnico de Jeong Ji-eun]",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hTFVnRW8yWGRGMjZ1NzNTeDhaWnBqQXhudUlEbUVhY2FvV1AyRG03ZHFNWUlEVjRWS2ZQbjk0djJHTWZJaWlBZ1d2ZFJYWmhYRnlvV0w2Sjd3QQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-10T06:54-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "지멘스 회장, 네이버 로봇에 반했다…인스타서 '샤라웃' [정지은의 테크킥]",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily",
-"mx": 0
-},
-{
-"id": "c085a24fc32fad",
-"t": "Sementes robóticas, baterias comestíveis, colas que protegem os corais. Tecnologia italiana que ajuda o meio ambiente",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHZKMmxRbUx5RTdtY1dlMDFUZ2sxVlZzeWVYOXFZZ2ZwZUgwaDdsT19TMjNnaGhGYVV5VWoxZTY3MENEZmRhSTdfUVYtb0QxZ21qZHlaUWthWEtJaVV6MUoycEVoMDcycmJnaVdiS0VtVkdydkRiWmpLZW5kZzVwVmt4elptVktmdGw1QTdqclZITWpCVFl5SzVVTUJibW5OaXhN0gGoAUFVX3lxTE5PQktWVVFWWVdyRjZwbHJZeFM3TEMyNFpwTFpkUHltWl9FblJ6OVpLeVNwekhRWXZvcUl1dHpQbjRWeHZhRlJqSHY3aWI2eUxLbWtXLURHSE1saF9xd1FfNG85U0tVc1BXVGtLLTgzdUlQS3VxdlNuSzZKUkZsZEJybHhkLW5pSE80YTVWbk9rVGRWeEtNcGZJZEtnYlJ5cm5RWXJpXzdNVw?oc=5",
-"f": "la Repubblica",
-"s": "repubblica.it",
-"i": "",
-"d": "2026-11-10T07:21-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Semi robot, batterie edibili, colle salva-coralli. La tecnologia italiana che aiuta l’ambiente",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "La Repubblica",
-"mx": 0
-},
-{
-"id": "9c1cbe0bee4a5c",
-"t": "Boas notícias para o Shanghai Silver Robot Order: dezenas de milhares de trilhos são entregues aos clientes da American T todos os meses",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tekJQVVBVTmZzZW5VXzRWTlZhd1FsX0lqWjlsYWxDZ0Nyb1FyZ2I0WHdJVU11Z1VwZ20tOG50NTJUTURZdno4Z0pKX1FlaUdlcGMwWThnTXF1a1g3Y09V?oc=5",
-"f": "自由財經",
-"s": "ec.ltn.com.tw",
-"i": "",
-"d": "2026-11-10T07:28-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "上銀機器人訂單報喜 每月上萬支線軌交貨美系T客戶",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Liberty Times"
-},
-{
-"id": "f2bf07357b6d23",
-"t": "Procura-se: um humano disposto a cuidar de robôs no turno da noite",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY25teVN2VFR4SlQ3c2NCWnFURF9WSmJxZ2hoUktIVnhvSlFkSXZ3dUJZcGFuVVFKeUlWRG9NSXAwLVRPOEFNZERXR3N6QmpjbmhBOW1EaEFUTG9IdkhVTHdRU1p0aVdVSzRxQXJWd1YwQW5pRF93TThTNkpMQmpsSEVUZzdlVUU1LXA2NDEwSVlYeS11aHdBd2traXNHOE5DSTRiUEhqSHZLYWJ4RjM5bnp5ZHA?oc=5",
-"f": "Business Insider Africa",
-"s": "africa.businessinsider.com",
-"i": "",
-"d": "2026-11-10T07:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Wanted: A human willing to babysit robots on the graveyard shift",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
+"cv": "South China Morning Post",
+"mx": 1
 },
 {
 "id": "b241c8415fed03",
 "t": "Regulador de aviação do Reino Unido autoriza Amazon para entrega expandida de drones",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg?oc=5",
+"u": "https://www.reuters.com/business/retail-consumer/uk-aviation-regulator-clears-amazon-expanded-drone-delivery-2026-11-10/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -16610,33 +16852,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 0
-},
-{
-"id": "72aea345939370",
-"t": "GenRobot AI levanta US$ 100 milhões para expandir a infraestrutura de dados de treinamento de robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVFodWFnNHpac3VHLWc5MUVydFNJWE1zOG9kM3VkWnZvX1lNaUJVaUU4Ym0ydnZ2UDBrT0lkdzFhckZQck9za1paOHZGQzVUQ3d3Ym9FT3o1bEhQMWNQaWpLS1F6SmhzTmRhVWxBeElJdFR3dnVaZm1sX0tvY2pzMC1XbUJac3FMcUdRajVVVTVZa2prSHZrYmMyUkpSU2pGMUU0NV9OWWNYVmpWMFAxV2JjTEJ1My12Q1c1M1FPZ2xVQVJOOTRja21GMFE?oc=5",
-"f": "Robotics & Automation News",
-"s": "roboticsandautomationnews.com",
-"i": "",
-"d": "2026-11-10T08:50-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "GenRobot AI raises $100 million to expand robot training data infrastructure",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotics & Automation News",
-"mx": 0
+"mx": 1
 },
 {
 "id": "32f91a85314941",
 "t": "Conheça a ‘coisa’ da vida real: a mão robótica que anda sobre o dedo",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01VdlE3aE5XdTJnaTdIRTllMlFqVDl6OWlnSE9sWExHVFFkN1hXM19SSS04eG9FRFEyQXMyeEJBX2k1N0hCU25sS3NZY3FMVE9mMzVnSi1VOFhRSzhJQkhEbERkVkxGREtndV9hb3JrWmJmemx1TVJ2bU84WTBfbGtQbzd0WXkxXzFjN2tDdHNONjNYMnIwcmEyeTZZS0FvbGxFLWpEUdIBrwFBVV95cUxPVnh0aUdicF9YalR2WDhEOERPNC1wZjRRNEJOZ3JxZmNIX0lCUGpNVEJZVW53M181ejgwZGVLSmxqSFpQNFloZ0JSa25jRVFtWkxsLU9sMVRKN3E4VkYxckZMN0lwUHBPUUFhY1BKRVJGWWFxSzlQYkJQeHB0SGNGYkFjbkxCd0cwWWZtcDYwMFVybGRiaTdGN1lTYjBmUGM3S0tsR25NVmI4YnZ2REJZ?oc=5",
+"u": "https://www.ndtv.com/science/meet-the-real-life-thing-the-robotic-hand-that-walks-on-its-finger-12308210",
 "f": "NDTV",
 "s": "ndtv.com",
 "i": "",
@@ -16650,13 +16872,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 0
+"mx": 1
 },
 {
 "id": "3e6c693f875903",
 "t": "Você deixaria um drone voar dentro de sua casa por segurança?",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2ktNmZUTG0xazdKeXJBcm00dldEd2dDcDZMNjhpUTNGdFF2Sy1kaTNmX0h4a2IzMDhYeENQQVNFQnlJcnlFU3d5djdmYlpza1M5REhKWGFpSmE0QzJrNjdRZDRoY0RVSHl2RDc1Nl9GQVI2ZllXWVV0NTdMNFFxSnNwWjNtemxfc1g0ampoSQ?oc=5",
+"u": "https://www.cbsnews.com/video/would-you-let-a-drone-fly-inside-your-home-for-security/",
 "f": "CBS News",
 "s": "cbsnews.com",
 "i": "",
@@ -16670,34 +16892,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBS News",
-"mx": 0
-},
-{
-"id": "87a5e55c941fb3",
-"t": "Exclusivo: Na corrida por dados de treinamento de robôs, startup de ex-pesquisadores da Meta recorre a trabalhadores com câmeras",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR?oc=5",
-"f": "Fortune",
-"s": "fortune.com",
-"i": "",
-"d": "2026-11-10T10:00-03:00",
-"c": [
-"ia",
-"negocios"
-],
-"l": 0,
-"to": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Fortune",
-"mx": 0
+"mx": 1
 },
 {
 "id": "b12bfedaa1a354",
 "t": "Imagens de drone capturam as consequências de um acidente mortal com vários veículos na rodovia búlgara",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUV9TbjNWZXEwV1hVcjJ5NEZ5STBJNHRMTnVIQmtEc25KcTFTYm9kbFB2WnJZcEhrS1pGdUlaNFdUdTVGc3lqMXFfaHgyUUVQSzVlMjVoMWpiZW4wV3NISzNPejJVMHFHU2ZxYnNqcnM2TDJmMnpDYnpVcl93cnc1RVEzcFRNS3g0czRfN08yMzY4SU9lOGlWem9aSlozbW9uZVJ0RnFyX0RVcEpnLVNIQS1uT2RoWEUxV2tCUDFaNVV2dVpLdWlMRERtVVRxOGZGWEF4VmRqUzlXTzNCQjJ2ZW1oMlRQQ3lJaWQ2aGpISVk?oc=5",
+"u": "https://www.theaustralian.com.au/news/drone-footage-captures-aftermath-of-deadly-multivehicle-crash-on-bulgarian-highway/video/2817a1c09733ddf962f99d348138e9d6",
 "f": "The Weekly Times",
 "s": "theaustralian.com.au",
 "i": "",
@@ -16711,33 +16912,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Australian",
-"mx": 0
-},
-{
-"id": "c8ef93b5b1f8ba",
-"t": "Dinheiro e drones garantiram a libertação de reféns suíços no Níger: relatório",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0VfYVNMYm8xOFhYRjU4X0RUQ1pta2IzS05FS0JidDhrZDFma1hFUmVueUJtMXViRnViMmsyTWcxNFNtYjAtektEeHN4QzJueVZyb0dnaTRKYkVObGFYX2VrMFl1bW5oSHMxZnpEd2pmSWkycy12WFIzYlMyTGhWR1VycWJHZHYwSWpldHRUQVVnemNoZWkxR09pQmRtbXZOQUs4b2l2MDBobWRHX1dmRG91Um1oTmZ6R3c?oc=5",
-"f": "SWI swissinfo.ch",
-"s": "swissinfo.ch",
-"i": "",
-"d": "2026-11-10T10:25-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Cash and drones secured Swiss hostage’s release from Niger: report",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Swissinfo",
-"mx": 0
+"mx": 1
 },
 {
 "id": "279873050c69c9",
 "t": "Tesla diz “FSD privado apenas para Robotaxi”. Uma falha legal pode dizer por quê",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVF0d0hkMTdhRzRPcFk0Zm4zeUpKVlRXeXFweXlqalN4bTQza2Z5c0Z3SGU4eE44NmItd3loNmQ4UEVGcEJsbEVmQ193OGRUY1J4bHdTNmx1bXJZX2xlNzlCWjlJblp4WUI5R3haNUgxWEVTemtLRzNGOHJya2pMcGVGZWxHQTRhNktjSEh5dmRkblhXbU5aRWF2QnRnZGtSSFQ0TUV6ZEIzZG9PdDFNTEo3cFd4MFp0bGxsU0x3?oc=5",
+"u": "https://www.forbes.com/sites/bradtempleton/2026/11/10/tesla-says-private-fsd-only-for-robotaxi--a-legal-flaw-may-say-why/",
 "f": "Forbes",
 "s": "forbes.com",
 "i": "",
@@ -16751,7 +16932,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Forbes",
-"mx": 0
+"mx": 1
 },
 {
 "id": "e1b370d1b55bf6",
