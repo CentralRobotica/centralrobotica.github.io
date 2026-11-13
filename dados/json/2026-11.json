@@ -172,7 +172,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 2
+"mx": 3
 },
 {
 "id": "dc75466f1296f6",
@@ -194,7 +194,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 2
+"mx": 3
 },
 {
 "id": "28831ac4ae6883",
@@ -409,27 +409,6 @@
 "mx": 0
 },
 {
-"id": "d1220c18f86eb1",
-"t": "臺中膝關節置換 ROSA機器人輔助膝關節成高齡新選擇",
-"r": "",
-"u": "https://money.udn.com/money/story/124067/9876951",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-13T04:01-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "臺中膝關節置換 ROSA機器人輔助膝關節成高齡新選擇",
-"lg": "?",
-"nt": 1,
-"p": 4.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 9
-},
-{
 "id": "dfc56914603971",
 "t": "US plans to turn submarines into drone motherships: How India is charting its own course",
 "r": "",
@@ -507,6 +486,27 @@
 ],
 "l": 0,
 "to": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 6枚目の写真・画像",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 0
+},
+{
+"id": "5e4e2c5d94167b",
+"t": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 1枚目の写真・画像",
+"r": "",
+"u": "https://robotstart.info/article/img/2026/11/13/382630/109398.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109398.jpg",
+"d": "2026-11-13T04:30-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 1枚目の写真・画像",
 "lg": "?",
 "nt": 1,
 "p": 4.5,
@@ -663,6 +663,48 @@
 "mx": 0
 },
 {
+"id": "1c36a239ad6474",
+"t": "Tres detenidos por el robo de sistemas de riego en explotaciones agrícolas de Sevilla",
+"r": "",
+"u": "https://www.abc.es/espana/tres-detenidos-robo-sistemas-riego-explotaciones-agricolas-20261113102744-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/13/VIDEO-tres-detenidos-robo-sistemas.jpg",
+"d": "2026-11-13T06:27-03:00",
+"c": [
+"agricolas"
+],
+"l": 0,
+"to": "Tres detenidos por el robo de sistemas de riego en explotaciones agrícolas de Sevilla",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 0
+},
+{
+"id": "6d8bbe3b4f3f13",
+"t": "Drone firm director indicted over Chinese chips",
+"r": "",
+"u": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867692",
+"f": "Taipei Times",
+"s": "taipeitimes.com",
+"i": "https://img.taipeitimes.com/images/2026/11/13/6af6dc9923f88.jpg",
+"d": "2026-11-13T06:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone firm director indicted over Chinese chips",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Taipei Times",
+"mx": 0
+},
+{
 "id": "c44c2dee871a33",
 "t": "Hikvision: Hikvision Robotics concluiu a reestruturação acionária e o arquivamento de orientação de listagem",
 "r": "De acordo com as notícias da IT House em 13 de novembro, a Hikvision declarou na plataforma interativa hoje (13 de novembro) que a Hikvision Robotics concluiu o pedido de reestruturação acionária e orientação de listagem. Consulte as informações de divulgação oficial para o progresso relacionado ao IPO. A IT House…",
@@ -711,6 +753,27 @@
 "p": 4.0,
 "cr": 2,
 "cv": "TechNode",
+"mx": 0
+},
+{
+"id": "0e4d2afb71b1a4",
+"t": "Apple's Decade-Long Secret R&D Humanoid Robot Finally Adopts Unitree Technology",
+"r": "",
+"u": "https://eu.36kr.com/en/p/4067917144201095",
+"f": "36氪",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261113/v2_fcbef6c9f37b4455a6ac05978f5992c0@5888275@ai_oswg1021378oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-13T06:51-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Apple's Decade-Long Secret R&D Humanoid Robot Finally Adopts Unitree Technology",
+"lg": "?",
+"nt": 1,
+"p": 4.0,
+"cr": 2,
+"cv": "36Kr",
 "mx": 0
 },
 {
@@ -777,6 +840,27 @@
 "mx": 3
 },
 {
+"id": "d1220c18f86eb1",
+"t": "臺中膝關節置換 ROSA機器人輔助膝關節成高齡新選擇",
+"r": "",
+"u": "https://money.udn.com/money/story/124067/9876951",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-13T04:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "臺中膝關節置換 ROSA機器人輔助膝關節成高齡新選擇",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9
+},
+{
 "id": "d629f7491f3694",
 "t": "Drone Captures Sweeping Views Of Namma Metro Pink Line",
 "r": "",
@@ -795,7 +879,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "dda5284cc2a7db",
@@ -963,6 +1047,27 @@
 "p": 3.2,
 "cr": 2,
 "cv": "Les Numériques",
+"mx": 0
+},
+{
+"id": "2efe2bb930ecb3",
+"t": "Neue BYD-Ladestation: Hier sollen Roboter E-Autos mit Solarenergie innerhalb von 5 Minuten laden",
+"r": "",
+"u": "https://t3n.de/news/byd-schnellladestation-e-autos-roboterarme-solarenergie-1773401/",
+"f": "t3n",
+"s": "t3n.de",
+"i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/Desert-Experience-F4Films-3.jpg?class=content",
+"d": "2026-11-13T07:15-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Neue BYD-Ladestation: Hier sollen Roboter E-Autos mit Solarenergie innerhalb von 5 Minuten laden",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "t3n",
 "mx": 0
 },
 {
@@ -1187,6 +1292,27 @@
 "cv": "ABC (Espanha)",
 "mx": 1,
 "rx": "Kiev, 12 nov (EFE/EPA).- A Rússia lançou vários mísseis balísticos e antinavio e 123 drones de longa distância contra Kiev e outras áreas da Ucrânia durante as primeiras horas da manhã, segundo a Força Aérea Ucraniana. As defesas neutralizaram 94 drones, enquanto nenhum dos mísseis foi interceptado. IMAGENS: SERGEY DOLZHENKO. RECURSOS DE EQUIPES DE RESGATE UCRANIANAS QUE TRABALHAM NO LOCAL ONDE UM DRONE RUSSO ATINGIU UM EDIFÍCIO RESIDENCIAL EM Kiev."
+},
+{
+"id": "636434f4d9197f",
+"t": "La misteriosa táctica de los pulpos que promete inspirar a la nueva generación de robots",
+"r": "",
+"u": "https://www.infobae.com/america/ciencia-america/2026/11/12/la-misteriosa-tactica-de-los-pulpos-que-promete-inspirar-a-la-nueva-generacion-de-robots/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/RBMKLK2WR5BBXAYYM5Y4I2QARA.jpg?auth=5726b9a42162b46ef05aca8dbfaaad266de7ba57b3380dcab8611960e9c666c3&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-12T16:50-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "La misteriosa táctica de los pulpos que promete inspirar a la nueva generación de robots",
+"lg": "?",
+"nt": 1,
+"p": 10.5,
+"cr": 3,
+"cv": "Infobae",
+"mx": 0
 },
 {
 "id": "701c7cc1eb94c7",
@@ -1689,7 +1815,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -5371,7 +5497,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Sky News",
-"mx": 2
+"mx": 3
 },
 {
 "id": "4f450fa7995378",
@@ -5757,6 +5883,27 @@
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
+"id": "ecd5f3e81001e9",
+"t": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+"r": "",
+"u": "https://m.ithome.com/html/1026334.htm",
+"f": "IT之家",
+"s": "m.ithome.com",
+"i": "https://img.ithome.com/m/images/logo.png",
+"d": "2026-11-12T07:21-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 0
+},
+{
 "id": "cb44e4d87c09af",
 "t": "赋能化工本质安全，邦耀机器人落地益海嘉里金龙鱼旗下丰益表面活性材料智能巡检项目",
 "r": "",
@@ -5796,7 +5943,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "ea787c5d2b143e",
@@ -5948,6 +6095,48 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "Faraday Future anunciou hoje os resultados financeiros do terceiro trimestre da FFR em 30 de setembro de 2026 e divulgou os dados operacionais independentes e planos de acompanhamento do negócio de robótica adquirido. Como a aquisição foi concluída após o final do terceiro trimestre, os resultados do negócio de robótica adquirido para os nove meses encerrados em 30 de setembro de 2026 não foram incluídos nas demonstrações consolidadas do terceiro trimestre da FFR.\nDados financeiros consolidados independentes e não auditados mostram que a receita do negócio de robôs nos primeiros nove meses foi de aproximadamente US$ 2,3 milhões (aproximadamente 15,377 milhões de yuans à taxa de câmbio atual), o lucro bruto foi de aproximadamente US$ 593.000 e a margem de lucro bruto foi de aproximadamente 26%; as despesas com pesquisa e desenvolvimento representaram 26,2% do total das despesas operacionais."
+},
+{
+"id": "ce6a947e7bbfa8",
+"t": "苹果憋了近10年的人形机器人，最后用上了宇树",
+"r": "",
+"u": "https://m.36kr.com/p/4067917144201095",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-12T14:24-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "苹果憋了近10年的人形机器人，最后用上了宇树",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "ad8b71c343ef7e",
+"t": "兆丰股份：控股子公司签署3亿元机器人创新服务平台项目合同",
+"r": "",
+"u": "https://36kr.com/newsflashes/4068000113087618",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-12T14:43-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "兆丰股份：控股子公司签署3亿元机器人创新服务平台项目合同",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
 }
 ],
 "2026-11-11": [
@@ -6873,7 +7062,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -7632,7 +7821,7 @@
 "u": "https://udn.com/news/story/7333/9872620",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-11T14:27-03:00",
 "c": [
 "humanoides"
@@ -7643,7 +7832,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 0
+"mx": 9
 },
 {
 "id": "efa935a45026b2",
@@ -7909,7 +8098,7 @@
 "id": "cc6e47321c344e"
 }
 ],
-"mx": -2
+"mx": -3
 },
 {
 "id": "870f1af8461ad9",
@@ -7955,6 +8144,27 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. Pittsburgh, PA - Pittsburgh garantiu um investimento de quase US$ 4 milhões da Tronix3D para expandir suas operações de impressão e fabricação 3D. A expansão aumentará a capacidade de produção da empresa e permitirá atender clientes dos setores de defesa e robótica. “Este investimento nos permitirá aumentar nossa capacidade de produção, criar 47 novos empregos nos próximos três anos e continuar apoiando indústrias críticas, incluindo robótica, defesa, aeroespacial e IA física aqui mesmo na Pensilvânia.” Este anúncio surge na sequência de uma série de investimentos nos setores industrial e tecnológico de Pittsburgh."
+},
+{
+"id": "265233d0e98cf2",
+"t": "Ring's $250 Drone Cam Finally Ships January 27, Pending FCC Approval",
+"r": "",
+"u": "https://dronexl.co/2026/11/10/ring-drone-cam-ships-january-fcc-ring-robotics/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/ring-drone-cam-hovering-over-dock.webp",
+"d": "2026-11-11T00:40-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ring's $250 Drone Cam Finally Ships January 27, Pending FCC Approval",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 0
 },
 {
 "id": "b93734522e3dca",
@@ -8302,7 +8512,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 1
+"mx": 2
 },
 {
 "id": "9ff7cfe06badf6",
@@ -8388,6 +8598,127 @@
 "mx": 0
 },
 {
+"id": "bde4b14f7b316d",
+"t": "O aspirador robô que testamos em casa cai abaixo de 85 euros no dia 11.11 no AliExpress: aspira, esfrega e se esvazia",
+"r": "",
+"u": "https://www.lavanguardia.com/comprar/rebajas-ofertas/20261111/11681509/robot-aspirador-probamos-casa-baja-precio-11-11-aliexpress-aspira-pasa-mopa-vacia-mkt-alie.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/image_1920_1080/files/fp/uploads/2025/11/13/6915fd7f915b1.r_d.924-630.jpeg",
+"d": "2026-11-11T07:30-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "El robot aspirador que probamos en casa baja de los 85 euros por el 11.11 de AliExpress: aspira, pasa la mopa y se vacía solo",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 0
+},
+{
+"id": "eefc035ff32437",
+"t": "LCA Law Firm para YK Robotics na virada na Espanha e na rodada inicial de 1 milhão de euros",
+"r": "",
+"u": "https://ntplusdiritto.ilsole24ore.com/art/lca-studio-legale-yk-robotics-flip-spagna-e-seed-round-1-milione-euro-AJgavfCC",
+"f": "Il Sole 24 ORE",
+"s": "ntplusdiritto.ilsole24ore.com",
+"i": "https://ntplusdiritto.ilsole24ore.com/img/ntplus-og-image.png",
+"d": "2026-11-11T07:52-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "LCA Studio Legale per YK Robotics nel flip in Spagna e nel seed round di 1 milione di euro",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 0
+},
+{
+"id": "6363aa8820513a",
+"t": "‘Uma noite agitada e difícil’ no Báltico, enquanto os caças da OTAN não conseguem abater drones",
+"r": "",
+"u": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "https://images.euronews.com/articles/stories/09/91/44/22/1200x675_cmsv2_e3fa0907-88d4-548e-b580-913743fbef4f-9914422.jpg",
+"d": "2026-11-11T08:14-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "‘A restless and difficult night’ in the Baltics as NATO fighter jets fail to shoot down drone",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Euronews",
+"mx": 0
+},
+{
+"id": "1c76688c73b4c4",
+"t": "A incursão simultânea de drones da Bielorrússia gera uma noite de tensão máxima nos países bálticos",
+"r": "",
+"u": "https://www.abc.es/internacional/madrugada-alertas-multiples-simultaneas-drones-flanco-oriental-20261111123842-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/11/1518139904-U24680868501bBq-1200x630@diario_abc.JPG",
+"d": "2026-11-11T08:38-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "La incursión simultánea de drones desde Bielorrusia genera una noche de máxima tensión en los países bálticos",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 0
+},
+{
+"id": "05ca51c8ed1b6c",
+"t": "Imagens de drones mostram um enorme engavetamento de 50 veículos na Bulgária que deixou 12 mortos",
+"r": "",
+"u": "https://www.straitstimes.com/videos/6408231952112",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"d": "2026-11-11T08:44-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone footage shows massive 50-vehicle pile-up in Bulgaria that left 12 dead",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 0
+},
+{
+"id": "cf16edad36b35c",
+"t": "A Alemanha proibiu os drones chineses no seu exército devido ao risco de espionagem: irá substituí-los por modelos europeus",
+"r": "",
+"u": "https://www.infobae.com/america/mundo/2026/11/11/alemania-prohibio-los-drones-chinos-en-su-ejercito-por-riesgo-de-espionaje-los-reemplazara-por-modelos-europeos/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/ETVEY4A4LBESFDD4BZHJX3IH5Y.JPG?auth=409bddae1ae709f6afeb95c03fc8a2dd199ca43d38562d2be7802084f35c26fb&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-11T09:21-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Alemania prohibió los drones chinos en su ejército por riesgo de espionaje: los reemplazará por modelos europeos",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "Infobae",
+"mx": 0
+},
+{
 "id": "cacf7c82777eaf",
 "t": "Start-up de robôs humanóides apoiada por Eric Trump em negociações com militares de Israel",
 "r": "",
@@ -8406,7 +8737,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Financial Times",
-"mx": 2
+"mx": 3
 },
 {
 "id": "ecf042e66f235d",
@@ -8448,7 +8779,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Science",
-"mx": 2
+"mx": 3
 },
 {
 "id": "20bcc6844666e1",
@@ -8497,26 +8828,6 @@
 "rx": "O Home Assistant Connect AUX-2 é uma peça de hardware multifuncional fabricada pela Nabu Casa, a empresa por trás do hardware oficial do Home Assistant. Com o AUX-2, o Home Assistant se junta à luta contra a obsolescência planejada e o abandono dos serviços em nuvem. Em vez de comprar um novo sistema estéreo com recursos inteligentes, os consumidores podem usar o AUX-2 de US$ 69 para tornar os dispositivos que já possuem mais inteligentes, mais conectados e mais fáceis de controlar.\nVocê pode colocar um AUX-2 em um centro de entretenimento e conectar um aparelho de som e uma TV mais antigos e, em seguida, usar outro AUX-2 em outro lugar da sua casa para obter equipamentos adicionais com conexões seriais físicas. De acordo com o Home Assistant, com um AUX-2, você pode controlar um receptor AV antigo sem o aplicativo original, fazer com que uma TV mais antiga responda aos comandos sem depender dos servidores em nuvem do fabricante ou integrar equipamentos de áudio existentes em modernos sistemas de som multiroom."
 },
 {
-"id": "265233d0e98cf2",
-"t": "Ring's $250 Drone Cam Finally Ships January 27, Pending FCC Approval",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2xQdVRrUVR0MTl1bm5ydkxCOFZaa215bVRUaWw3b0FyWFJ1Q1ppSmtKT2h1QTF2bGV4d0pxRFM0YVlXc095VHhDbjhYZlZaUG5zSC1aMFEtQlh3RmpmR01ZdmtRMjE5d1UwT0VpZElzZ1U5blhLQ2E1OGlvZ3hScGZlNA?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-11T00:40-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Ring's $250 Drone Cam Finally Ships January 27, Pending FCC Approval",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "bf9a736e160559",
 "t": "Ucrânia procura sob drones russos os desaparecidos nos escombros da escola Komishuvaja",
 "r": "",
@@ -8536,7 +8847,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "El País",
-"mx": 2
+"mx": 3
 },
 {
 "id": "cece54e8615e42",
@@ -8556,7 +8867,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Le Figaro",
-"mx": 2
+"mx": 3
 },
 {
 "id": "eb16aefcb16b1b",
@@ -8576,7 +8887,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "FAZ",
-"mx": 2
+"mx": 3
 },
 {
 "id": "5a0eaa5a165f40",
@@ -8597,7 +8908,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "22666dd36a2101",
@@ -8617,7 +8928,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "eba8ca79591e91",
@@ -8637,7 +8948,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "France 24",
-"mx": 1
+"mx": 2
 },
 {
 "id": "16a5dcfe1a4f2e",
@@ -8660,70 +8971,10 @@
 "mx": 0
 },
 {
-"id": "bde4b14f7b316d",
-"t": "O aspirador robô que testamos em casa cai abaixo de 85 euros no dia 11.11 no AliExpress: aspira, esfrega e se esvazia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdzdjQURDVjB4WXIwMlh6QzZIMGR3U0tpZ3FYUEFJVUlTRk5DYmpxcWh4bU1nNFE0TXlQZVFkVVZFLTRsdnJ3Z0U0VHJfX0JHbTIyOU5kMUdZZHdUbGlXU0pvZHVCb2NqLWR0Yi14UVlEbjJKaXBXMHprYjhqVlFObHpjb0l3aVpLdWpndGRqWXJUTzhSRGZVQjdtSWRPQS04akp6N25QczNkZWQ0SkFuZHl3a2ExS2Q1U25NM1c4Z2dIazZ4SXhzRUpiNlZWMjZ4M2dWTGw2M3ZLUlE0TUlfT1JYRXdFX0VzZHBqbVJzWDY5eFNRNGM3cXNn0gH_AUFVX3lxTFBybUJSSDFJc2dmek9OV0ozSGdoVDh3Z2VkdVh0Y1cxY0NXLWtiSmRvclYxS0RyNkN5cVpWaGlvVjVQLUNqNmgxZEZkYnRrZUs4TUR5a0p3MHFfWE1pX0lEZS03eTVpaE82REdqWllKWVRGRHhrODlmYjNaVUdiSVZ4WGtIbU1iVDZDRTB1SE0tdnBoVmdtMWxJbTBUN29DeDBpWk9PdnlaZ2VTbUEwUmR3U1JUNVNNVjM4MkZtSXAyWVhfVkJEcDZHa1RXMDRoNktfSHhrV0tHYlI0Y3UxNG82akpkS1lpRlJVU2Q2NFA5U01wMEk4WW0tYkczdmdsdw?oc=5",
-"f": "La Vanguardia",
-"s": "lavanguardia.com",
-"i": "",
-"d": "2026-11-11T07:30-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "El robot aspirador que probamos en casa baja de los 85 euros por el 11.11 de AliExpress: aspira, pasa la mopa y se vacía solo",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "La Vanguardia",
-"mx": 0
-},
-{
-"id": "eefc035ff32437",
-"t": "LCA Law Firm para YK Robotics na virada na Espanha e na rodada inicial de 1 milhão de euros",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1piOEFKOTBhRWNab2ExUjgxTWh0Uk9zd1NHbDlSeTFiREZteGJKbEJnMmVaZnNXclpRSnlKS1gtSEJJRmJSeW1jWVdDX3lidW1QY3FKMWJ3YzNFY0hyWEtTUFpCNlFPUlZCVXR0TlhQeXZRQjh3MXZqeUNDVmZSQV9NdjE4VEl3UXl5bW54QndiUExib0N1TjgybGdMMTJKUkM4VFM3dHpnYklnN2w2bnhpaF9hX2FjRDB5LQ?oc=5",
-"f": "Il Sole 24 ORE",
-"s": "ntplusdiritto.ilsole24ore.com",
-"i": "",
-"d": "2026-11-11T07:52-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "LCA Studio Legale per YK Robotics nel flip in Spagna e nel seed round di 1 milione di euro",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Il Sole 24 Ore",
-"mx": 0
-},
-{
-"id": "6363aa8820513a",
-"t": "‘Uma noite agitada e difícil’ no Báltico, enquanto os caças da OTAN não conseguem abater drones",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd25MbUczWVR2R01VTlZ4MVN1Y0o2akxSRy1tUFRDRFdSYWMtWmRCRHR3cmFFNGxaT2xxNElaNGN1WndvYW1GVE1EVTdoN3ZnTFhxRGhKUUJralBReDQ3dDg0c3ZMTlp6ZWpGWTdvdzlQWFF2NlBLc2ZoTVhqU2Z3TXFZZkkzbURUZkJzOEE4NHZnSWFYY0hjOUZNYmgyc2pOS2o1ZnpVdG0wRTdyY25sS0loazNmem9ZNjgtR2h2NHNfTlU4?oc=5",
-"f": "Euronews.com",
-"s": "euronews.com",
-"i": "",
-"d": "2026-11-11T08:14-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "‘A restless and difficult night’ in the Baltics as NATO fighter jets fail to shoot down drone",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Euronews",
-"mx": 0
-},
-{
 "id": "e6e83bffa53e86",
 "t": "Intel: Robótica é um foco estratégico chave no futuro",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
+"u": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
 "f": "Forbes",
 "s": "forbes.com",
 "i": "",
@@ -8737,13 +8988,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Forbes",
-"mx": 0
+"mx": 1
 },
 {
 "id": "e073abbad3c539",
 "t": "Inlif (INLF) assinou um acordo-quadro de US$ 30 milhões, em parceria com o Grupo Heng Sheng para expandir as oportunidades do mercado de robótica industrial",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcER2NmhIdURNWGQtTjhUSkUwWmIzLUxSNi1QUGRhZlltR2w3b19wYmpZZFdEdHBDZ1BDTWN0TkxnVWlaSmgtUlhMaEc5UTA4alRkZW9sYmhnMEZxcDA3a0R4aWdjdlR5ZlJVZFB0SkVvdWhVMnRfUTJDb0YwcDAzdG5uWDFaYXJucHBwOWJJTEVnUG14c2ViZUdRdDU5dS01ZnpTYWlGOFBqWnI3dHhIOEw4TnI1MWNlV0ZvbG5yQ0J4S3JUUEplWVVoLXNWZE82b05zcU91c1JuNC0tcXg3UTRSWHpZYzJCbWZJWkp1WGpSanZNNnJ4LXRfcVlQWmcwZzc2UXEzUVp6bXlNQ1JCRUlQWXQyRGpxT2Z5M3lnX3Y5bGNvWFdz?oc=5",
+"u": "https://markets.businessinsider.com/news/stocks/inlif-inlf-entered-into-us-30-million-framework-agreement-partnering-with-heng-sheng-group-to-expand-industrial-robotics-market-opportunities-1036749049",
 "f": "markets.businessinsider.com",
 "s": "markets.businessinsider.com",
 "i": "",
@@ -8759,66 +9010,6 @@
 "cr": 3,
 "cv": "Business Insider",
 "mx": 0
-},
-{
-"id": "1c76688c73b4c4",
-"t": "A incursão simultânea de drones da Bielorrússia gera uma noite de tensão máxima nos países bálticos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjIyZllBb21jb2lReHhydzkzVjF1b3lkR28zb24yRWVxWEhWS2Rpa2lyMy1KRE1VV2JQWjcwY0pxYmhfYWdfeXFJajRWLXA5WXJtTlkxYTFiUUV1MkRQR1VZWURkZGc1TC11elNab0E5bHpVaE4tNEx0LXJld1lZSUxvMi1FUHVuTWViN3VyeUpFR0k2M1dzMVVSOTRsWDhtUmNWUUFSOGtlbkFQd3VIVjFqRVZYcEdnQmfSAb8BQVVfeXFMTUx3bzQwWndwYnRYc096N2pYTGhXOURJMk5OMDhIam5MTjZnMVUxZllxNTFaZWZaUTNkYUNKaTc2VTdrdk9Sam00MlI5U1ZudWFReGs3ajJPQ1FDX3R0VVVmU2ZYTWtXOUpzMm5uUndsb212Y29WSkIxZFV2VnZNTndMSmhQYUVvZW5pTG9TQnpxbmVGdV96MVNhZWl5MUJPNEtFWllZMmlxV1k1aGNxdDl0SlhXT2JDam11U2VNXzg?oc=5",
-"f": "ABC",
-"s": "abc.es",
-"i": "",
-"d": "2026-11-11T08:38-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "La incursión simultánea de drones desde Bielorrusia genera una noche de máxima tensión en los países bálticos",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "ABC (Espanha)",
-"mx": 0
-},
-{
-"id": "05ca51c8ed1b6c",
-"t": "Imagens de drones mostram um enorme engavetamento de 50 veículos na Bulgária que deixou 12 mortos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNFpJMDdnMXVuaHVLdzdGVTAyTFNWRHZXREV2Ync3QXhpWGdYTHVEUGtBMUozYW5qdXJwdzB3RHlkaUlFZlRrUV9oWHJfMzA0TU56VnlwdTI2N0NETlE?oc=5",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-11T08:44-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Drone footage shows massive 50-vehicle pile-up in Bulgaria that left 12 dead",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 0
-},
-{
-"id": "cf16edad36b35c",
-"t": "A Alemanha proibiu os drones chineses no seu exército devido ao risco de espionagem: irá substituí-los por modelos europeus",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWJleVl1cnhTTktOOG5qR1NXWTJfdU5Nb1dYbXhuVlJUQXNRVkppUzNaRVVORU1LdXdMQkpQbWVVVWNJVkhCakRyOHlDWmZSVzE5UlFKOE1IbFNRYmpOUXhHUDJEd2RFUTFLUHlURUVpWXdudU9Ecnp1akxjakdBSjZBMVNmZ3dwQU5TNGJoXy1UMmFaS21PZHRPQVRGeDFMbmZIdXNGZ3g1Uk5aMGJJeTFIcmlKNEMySl9RczBUTHA2c0kwV2xEd254YmdDX0NXaWpLMmNKSHd1RjZCRXdnNXdGc2FRVWpQMEtDelVFMTBHZkHSAY4CQVVfeXFMT28wdVJJX3Bna3FFQUFFWk5seUY3TElXeF9Wck1OQTYwaEhrYmlZUGFDUTMtemlxX09sYWl3dThJUUxUWUNhLW5ON1FJRVRtNjIyUU8zdHl2eXZ6a3E1aUE3bkdGemhxVHJOdnQzTWpOWUgzX0pBQmJ3NmFzbzNoVWtpRTdvSHYwWmdZRDNydUllUGVYbGZ6Q3owdnpDLVNQLUFIcUFuQlBlOU4zYUVfd25wTEc5S0szYklLdnY5b3ZUY3ZEbm9pMDN5MjlubEZObTJCTk9GQjhNTXpWVWxaTllSQkZiS2Y3eVp2TGdGbndzWVZwRGNTUTM2LXF3Z3NiUWlTRWZmcTg4WDhEUUtR?oc=5",
-"f": "Infobae",
-"s": "infobae.com",
-"i": "",
-"d": "2026-11-11T09:21-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "Alemania prohibió los drones chinos en su ejército por riesgo de espionaje: los reemplazará por modelos europeos",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "Infobae"
 },
 {
 "id": "f1eb43c0201934",
@@ -9605,6 +9796,26 @@
 "cr": 3,
 "cv": "Dong-A Ilbo",
 "mx": 0
+},
+{
+"id": "cf7edac11dcbd2",
+"t": "Start-up: Der Jobrad-Gründer entwickelt ein autonomes Roboter-E-Bike",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpXTEJ3Q3g0cVFpbS1TVUxyYkVXZnVhOWhzbUFmWWY1OWE4N0NOaE91R0JuZFhXN2xsNy1paEozbWpyWXprelpGMUZmU3FmZ2sxVHFUT3RhLWlfMmZDR0w2UTlULThrSHNHck1OcnExT1JlMHI3eVZITGhRZE9iWmgwMFNnNDlRaElGbW9tOTBDT0dpckVNZFFVODktTk80eDhCaFJaMzdQNWR0X2VFZGlXWTVaclhPT1FYeWk0TlhUVUJsZmItNV9GcGo1NS1oX1NWX0pnUmZ3SFhZ?oc=5",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-11T21:28-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Start-up: Der Jobrad-Gründer entwickelt ein autonomes Roboter-E-Bike",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Handelsblatt"
 },
 {
 "id": "b39d9196c11fea",
@@ -16789,6 +17000,26 @@
 "cr": 2,
 "cv": "36Kr",
 "mx": 0
+},
+{
+"id": "876eb11add1283",
+"t": "日薪180 流水线当机器人老师 人工智能数据标注员真实工作日常",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZ29Zc2JtTkZCOXZLVjVoMW1zM3NoNVRYUDB1UGtKUmk5QXd2WlZsVjZLY3hnQUZuNF9peVdGY25mT19YTmFLaUNpVm1WRElWZjBz?oc=5",
+"f": "eu.36kr.com",
+"s": "eu.36kr.com",
+"i": "",
+"d": "2026-11-10T14:48-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "日薪180 流水线当机器人老师 人工智能数据标注员真实工作日常",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr"
 },
 {
 "id": "6c630339034908",
@@ -25000,6 +25231,26 @@
 "cr": 3,
 "cv": "The Guardian",
 "mx": 0
+},
+{
+"id": "ad51ea96c4f4eb",
+"t": "Peppermint Robotics raises ₹100 crore for expansion",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWhyWnFOTTByZV90X0RFZTR0cjVicHFrV1ZDRTdrYzAtOFJsSWJwNzRaTG81NjdSWFg4REpZTGdLQjV2eTV0QXJQQktGOG5CMDZqUFFCYzJObU9wbkhhQWJ4cnY0ek1pbVNxUDRfckFQcHFjY1g5TG83bThqbDRpUWc3YWZ5ajdhRHhfS0hBN25PbTN0NWhXU2V2WVZzNHpyVEZ6U0MtRUJlZDFCWnhETTVHNE1QLU9UNFpoRHYtVGxsSU5BNGRWLTFod1dXOThNTnNHS3JR?oc=5",
+"f": "facilities.economictimes.indiatimes.com",
+"s": "facilities.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-06T10:26-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Peppermint Robotics raises ₹100 crore for expansion",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "The Economic Times"
 },
 {
 "id": "01f4b08d506095",

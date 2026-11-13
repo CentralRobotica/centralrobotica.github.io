@@ -1,5 +1,23 @@
 [
 {
+"id": "bd6f30a01ed6c1",
+"u": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+"f": "MIT Technology Review",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-13T07:00-03:00",
+"i": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
+"to": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+"ro": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+"nt": 1,
+"t": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+"r": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+"mx": 1,
+"c": [
+"geral"
+]
+},
+{
 "id": "666c9ce2ae9f11",
 "u": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
 "f": "MIT News — Robótica",
@@ -55,6 +73,25 @@
 "c": [
 "ia",
 "servico"
+]
+},
+{
+"id": "42ac866c24d9ef",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1962199",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-12T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Taylor-free exact-trigonometric dynamic modeling and PSO-tuned adaptive super-twisting control of a two-section spatial continuum robot: a simulation study",
+"ro": "Cable-driven continuum robots are difficult to model and control because of their strongly coupled spatial deformation and configuration-dependent tendon actuation. This simulation study develops a control-oriented dynamic model of a two-section spatial continuum robot in which the piecewise-constant-curvature…",
+"nt": 1,
+"t": "Taylor-free exact-trigonometric dynamic modeling and PSO-tuned adaptive super-twisting control of a two-section spatial continuum robot: a simulation study",
+"r": "Cable-driven continuum robots are difficult to model and control because of their strongly coupled spatial deformation and configuration-dependent tendon actuation. This simulation study develops a control-oriented dynamic model of a two-section spatial continuum robot in which the piecewise-constant-curvature…",
+"mx": 1,
+"c": [
+"ia"
 ]
 },
 {
