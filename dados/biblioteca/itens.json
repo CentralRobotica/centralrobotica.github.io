@@ -9,13 +9,13 @@
 "i": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
 "to": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
 "ro": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
-"nt": 1,
-"t": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-"r": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+"t": "Mais autonomia, menos NDAs: Voluntários têm novos pedidos para testes de implantes cerebrais",
+"r": "Os cientistas têm trabalhado em maneiras de decodificar a atividade cerebral há décadas. As equipes desenvolveram implantes cerebrais que podem ser usados ​​para controlar membros robóticos e computadores, e até mesmo para “falar”. As pessoas que se voluntariam para os testes desses dispositivos desempenham um papel vital nessa pesquisa e deveriam ser reconhecidas por seu…",
 "mx": 1,
 "c": [
 "geral"
-]
+],
+"lg": "en"
 },
 {
 "id": "666c9ce2ae9f11",
@@ -47,13 +47,13 @@
 "inst": "Frontiers",
 "to": "Robots as lab partners: chemists’ perspectives for informing the design of robot-assisted experimentation",
 "ro": "Experimental laboratory work involves repetitive, labour-intensive manual procedures and strict safety protocols, making it an attractive area for Robotics and Artificial Intelligence (RAI). With research currently focused on technical innovation, there has been little work investigating the human factors of…",
-"nt": 1,
-"t": "Robots as lab partners: chemists’ perspectives for informing the design of robot-assisted experimentation",
-"r": "Experimental laboratory work involves repetitive, labour-intensive manual procedures and strict safety protocols, making it an attractive area for Robotics and Artificial Intelligence (RAI). With research currently focused on technical innovation, there has been little work investigating the human factors of…",
+"t": "Robôs como parceiros de laboratório: perspectivas dos químicos para informar o projeto de experimentação assistida por robôs",
+"r": "O trabalho experimental de laboratório envolve procedimentos manuais repetitivos e trabalhosos e protocolos de segurança rígidos, tornando-o uma área atraente para Robótica e Inteligência Artificial (RAI). Com a pesquisa atualmente focada na inovação técnica, tem havido pouco trabalho investigando os fatores humanos de…",
 "mx": 1,
 "c": [
 "ia"
-]
+],
+"lg": "en"
 },
 {
 "id": "2838bdcbd8eb40",
@@ -66,14 +66,14 @@
 "inst": "Frontiers",
 "to": "Benchmarking robots for everyday environments: from lab experiments to real-world operations",
 "ro": "This study presents an interdisciplinary process for benchmarking service robots in public everyday environments, addressing the gap between laboratory metrics and real-world operation at technology readiness levels 6–7. Three robots were evaluated in three use cases: outdoor park cleaning, pedestrian underpass…",
-"nt": 1,
-"t": "Benchmarking robots for everyday environments: from lab experiments to real-world operations",
-"r": "This study presents an interdisciplinary process for benchmarking service robots in public everyday environments, addressing the gap between laboratory metrics and real-world operation at technology readiness levels 6–7. Three robots were evaluated in three use cases: outdoor park cleaning, pedestrian underpass…",
+"t": "Benchmarking de robôs para ambientes cotidianos: de experimentos de laboratório a operações no mundo real",
+"r": "Este estudo apresenta um processo interdisciplinar para benchmarking de robôs de serviço em ambientes públicos do dia a dia, abordando a lacuna entre as métricas de laboratório e a operação no mundo real nos níveis de prontidão tecnológica 6–7. Três robôs foram avaliados em três casos de uso: limpeza de parques externos, passagem subterrânea de pedestres…",
 "mx": 1,
 "c": [
 "ia",
 "servico"
-]
+],
+"lg": "en"
 },
 {
 "id": "42ac866c24d9ef",
@@ -86,13 +86,13 @@
 "inst": "Frontiers",
 "to": "Taylor-free exact-trigonometric dynamic modeling and PSO-tuned adaptive super-twisting control of a two-section spatial continuum robot: a simulation study",
 "ro": "Cable-driven continuum robots are difficult to model and control because of their strongly coupled spatial deformation and configuration-dependent tendon actuation. This simulation study develops a control-oriented dynamic model of a two-section spatial continuum robot in which the piecewise-constant-curvature…",
-"nt": 1,
-"t": "Taylor-free exact-trigonometric dynamic modeling and PSO-tuned adaptive super-twisting control of a two-section spatial continuum robot: a simulation study",
-"r": "Cable-driven continuum robots are difficult to model and control because of their strongly coupled spatial deformation and configuration-dependent tendon actuation. This simulation study develops a control-oriented dynamic model of a two-section spatial continuum robot in which the piecewise-constant-curvature…",
+"t": "Modelagem dinâmica trigonométrica exata livre de Taylor e controle de supertorção adaptativo ajustado por PSO de um robô contínuo espacial de duas seções: um estudo de simulação",
+"r": "Robôs contínuos acionados por cabo são difíceis de modelar e controlar devido à sua deformação espacial fortemente acoplada e à atuação do tendão dependente da configuração. Este estudo de simulação desenvolve um modelo dinâmico orientado ao controle de um robô contínuo espacial de duas seções no qual a curvatura constante por partes…",
 "mx": 1,
 "c": [
 "ia"
-]
+],
+"lg": "en"
 },
 {
 "id": "5f4224bd3122e8",
