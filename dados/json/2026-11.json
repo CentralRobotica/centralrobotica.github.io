@@ -141,6 +141,28 @@
 "mx": 0
 },
 {
+"id": "5058c02ef0b451",
+"t": "Welcome, AIRoA-0!",
+"r": "This robot foundation model comes from AIRoA, Japan’s AI Robot Association, a Tokyo based organization backed by the Ministry of Economy, Trade and Industry. It belongs to the vision language action model category, connecting research in artificial intelligence with robot control. Its defining research choice concerns…",
+"u": "https://humanoid.guide/welcome-airoa-0/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "",
+"d": "2026-11-14T02:17-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Welcome, AIRoA-0!",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 0
+},
+{
 "id": "b0222b6e0556da",
 "t": "EXPOLINE Successfully Completes Multimodal Logistics project for advanced physical AI robots",
 "r": "",
@@ -160,6 +182,27 @@
 "p": 4.5,
 "cr": 3,
 "cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "2df10d32ce653a",
+"t": "Drone sightings trigger security response at US airbase in Britain amid spate of incidents",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/world/us/drone-sightings-trigger-security-response-at-us-airbase-in-britain-amid-spate-of-incidents/amp_articleshow/135821301.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135821387,width-1280,height-720,imgsize-120937,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-14T00:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone sightings trigger security response at US airbase in Britain amid spate of incidents",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
 "mx": 0
 },
 {
@@ -184,6 +227,48 @@
 "mx": 0
 },
 {
+"id": "98e80ffd135028",
+"t": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
+"r": "",
+"u": "https://udn.com/news/story/7240/9878573",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
+"d": "2026-11-14T02:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "f6f570731154c4",
+"t": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
+"r": "",
+"u": "https://money.udn.com/money/story/7307/9878573?from=edn_newest_index",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=757&sl=W&fw=1050&exp=3600",
+"d": "2026-11-14T02:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
 "id": "d45899b8d72fb9",
 "t": "プレスリリース：高市総理が家族型ロボット『LOVOT』と対面、「阪神くん」と命名。首相官邸で開催されたフィジカルAI関連企業との意見交換会に（PR TIMES）",
 "r": "",
@@ -202,7 +287,28 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
+},
+{
+"id": "131144da5d9ff0",
+"t": "US Boat Crash | Drone Footage Shows Partially Submerged Cruise Boat After Collision On Mississippi",
+"r": "",
+"u": "https://www.ndtv.com/shorts/us-boat-crash-drone-footage-shows-partially-submerged-cruise-boat-after-collision-on-mississippi-1190991",
+"f": "NDTV",
+"s": "ndtv.com",
+"i": "",
+"d": "2026-11-14T02:33-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "US Boat Crash | Drone Footage Shows Partially Submerged Cruise Boat After Collision On Mississippi",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "NDTV",
+"mx": 1
 }
 ],
 "2026-11-13": [
@@ -3481,7 +3587,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
 },
 {
 "id": "da61593219e652",
@@ -3588,6 +3694,27 @@
 "cr": 2,
 "cv": "Tech in Asia",
 "mx": 3
+},
+{
+"id": "8b246564cb2087",
+"t": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+"r": "",
+"u": "https://www.ithome.com/1/027/004.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-13T20:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 0
 }
 ],
 "2026-11-12": [
@@ -12670,6 +12797,27 @@
 "mx": 3
 },
 {
+"id": "b38f9994f2db2b",
+"t": "LG CNS, 글로벌 로봇 석학들과 피지컬AI 산업화 모색",
+"r": "",
+"u": "https://www.yna.co.kr/view/AKR20261112035400017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img8.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112035400017_01_i_P4.jpg",
+"d": "2026-11-11T22:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "LG CNS, 글로벌 로봇 석학들과 피지컬AI 산업화 모색",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
 "id": "33dc7d81c178ed",
 "t": "Visualize canteiros de obras com robôs quadrúpedes e IA, que serão introduzidos no local em 2027 Kawada Industries and Highlanders",
 "r": "@cHƂHighlanders2026N1110Als{bgƌAIVXeg e̋JiႤ̋@\\JĂA2027Nx̌ꓱꓱꓱ",
@@ -19616,7 +19764,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b241c8415fed03",
@@ -20431,7 +20579,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "8846f87788024a",
@@ -20511,7 +20659,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "797dc0b0e02253",
@@ -20764,7 +20912,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 2
+"mx": 3
 },
 {
 "id": "6dc2cd5b26b93d",
@@ -20906,8 +21054,8 @@
 "p": 2.2,
 "cr": 2,
 "cv": "36Kr",
-"cur": 1,
-"mx": 0
+"mx": 0,
+"cur": 1
 }
 ],
 "2026-11-09": [
@@ -21387,7 +21535,7 @@
 ],
 "cr": 3,
 "cv": "Axios",
-"mx": -1
+"mx": -2
 },
 {
 "id": "b6bcf492321605",
@@ -21422,7 +21570,7 @@
 ],
 "cr": 3,
 "cv": "Fortune",
-"mx": -1
+"mx": -2
 },
 {
 "id": "145db989cee735",
@@ -21457,7 +21605,7 @@
 ],
 "cr": 3,
 "cv": "NBC News",
-"mx": -1
+"mx": -2
 },
 {
 "id": "cb5055cc7d887c",
@@ -21477,7 +21625,7 @@
 "p": 6.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": -1,
+"mx": -2,
 "o": [
 {
 "f": "經濟日報",
@@ -21619,14 +21767,42 @@
 "o": [
 {
 "f": "동아일보",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vNWpDdV8zUTIyWVdfQ2Q5WmZLVVAta0VHdkRwTXFoYllXRE53NHNHX2ozcUpJYWJ0cVo5X0ZwM2pfb21XcjRHTVlDOFUxVjBmdlRlcUFqRFgyYkl6TTlZZl9kMlVTZkUtYXR4R09Jd9IBZkFVX3lxTE1fZ01qaXZmbHdMbldIZWhyTXFTVzJQdEx1c19kQzhxZHFhNW5HRzR2SEJQMzgzSU53bVBnU3RtOWVMRFFuQVZnM01lRThDQmtPeW1ndnJDZ0lQSFd5ZUZ1MGI0MjREUQ?oc=5",
+"u": "https://www.donga.com/news/It/article/all/20261109/134994317/1",
 "s": "donga.com",
 "id": "c5581de8d4fcf6"
 }
 ],
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": 0
+"mx": -1
+},
+{
+"id": "212879ab07afa9",
+"t": "Executivos da Samsung-Hyundai Motors ‘One Harmony’… “Cooperação da Indústria do Futuro entre Robô-Energia”",
+"r": "",
+"u": "https://www.donga.com/news/Economy/article/all/20261110/134995530/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/10/134995495.4.jpg",
+"d": "2026-11-09T16:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "삼성-현대차 경영진 ‘원 하모니’… “로봇-에너지 미래산업 협력”",
+"lg": "ko",
+"p": 6.0,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": -1,
+"o": [
+{
+"f": "EV라운지",
+"u": "https://evlounge.donga.com/FOREV/article/all/20261110/134995530/3",
+"s": "evlounge.donga.com",
+"id": "e9c261da856cfd"
+}
+]
 },
 {
 "id": "4566205b4e2fc5",
@@ -21655,7 +21831,7 @@
 "id": "52e7a41f71a529"
 }
 ],
-"mx": 1
+"mx": 2
 },
 {
 "id": "377aecb4082007",
@@ -22019,32 +22195,268 @@
 "rx": "'2026 Robo World', realizado na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, de 4 a 7, terminou com sucesso. A Robo World, que já está em sua 21ª edição, conta com a presença de 400 empresas."
 },
 {
-"id": "212879ab07afa9",
-"t": "Executivos da Samsung-Hyundai Motors ‘One Harmony’… “Cooperação da Indústria do Futuro entre Robô-Energia”",
+"id": "bb4a89639b58c7",
+"t": "Robot Bank inicia desenvolvimento em larga escala de seus próprios produtos usando robôs físicos de IA O primeiro passo é um robô quadrúpede para uso industrial",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdTBWYVhNWUkwTFlWTEJVRWROSFpVOFRPVVJuVUlSaEZWekFqNzNoUHZ3UXBOcW9vQ19YcHVVcnhpZW9OZDF5TUpVZUlmaXY0RVVkcHMtSUlWR1B2TUlRQXBsQkVCSTl3S29UMVl0TTRUbW50WEHSAWZBVV95cUxQb2ZNclcwM3JwY3BzUHlRWkVyZEd0S3hES2Z2dTdYMEpLV0ZnWlBlRzZVOGk3ZlQ4WkstTXJIRTRpQmRzWUFtNkl4OVFzcHA2VXFSNTQtQnZIbGpRM2xxTGZKazBrQ2c?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-09T16:30-03:00",
+"u": "https://robotstart.info/article/2026/11/09/382607.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109091.jpg",
+"d": "2026-11-09T00:00-03:00",
 "c": [
-"geral"
+"quadrupedes"
 ],
 "l": 0,
-"to": "삼성-현대차 경영진 ‘원 하모니’… “로봇-에너지 미래산업 협력”",
-"lg": "ko",
-"p": 5.0,
+"to": "フィジカルAI活用ロボットの自社製品開発をロボットバンクが本格始動 第一弾は産業向け四足歩行ロボット",
+"lg": "ja",
+"p": 5.3,
 "cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0,
-"o": [
+"cv": "Robotstart",
+"mx": 0
+},
 {
-"f": "EV라운지",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnd1RsRWFJaFVVOG9yQ2hmZzJXMUZWQWtMc2xnaDUwOURvX2FrWXdlNmdNV01FTFBweXFwcDJFT01iYXNBSURxTEJmX2dYcXRfeXpVRzM3ZkgweWU1b0JQVmdSelhqcjNOcmU0MkhQZ2haNm8?oc=5",
-"s": "evlounge.donga.com",
-"id": "e9c261da856cfd"
-}
-]
+"id": "d5a45c450d23b1",
+"t": "Mouser Electronics demonstrará robô humanóide...eletrônica 2026",
+"r": "",
+"u": "https://robotstart.info/article/2026/11/09/382609.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109104.jpg",
+"d": "2026-11-09T04:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "マウザー・エレクトロニクス、ヒューマノイドロボット実演へ…electronica 2026",
+"lg": "ja",
+"p": 5.3,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 0
+},
+{
+"id": "a66689cc06260a",
+"t": "Como proteger as ovelhas dos lobos? O cão-robô e a inteligência artificial estão sendo testados em Maremma",
+"r": "",
+"u": "https://corrierefiorentino.corriere.it/notizie/cronaca/26_novembre_09/come-proteggere-le-pecore-dai-lupi-in-maremma-si-sperimentano-il-cane-robot-e-l-intelligenza-artificiale-8e4e7f53-dc1e-456f-9899-37a765be8xlk.shtml",
+"f": "Corriere Fiorentino",
+"s": "corrierefiorentino.corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/09/6af17b5ab5c7c.jpeg",
+"d": "2026-11-09T04:51-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Come proteggere le pecore dai lupi? In Maremma si sperimentano il cane robot e l'intelligenza artificiale",
+"lg": "it",
+"p": 5.3,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 0
+},
+{
+"id": "05c3430cc4924e",
+"t": "Apple desenvolve ‘Halo’, um sistema de controle autônomo de robô humanóide",
+"r": "",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49466",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49466_105536_1313.png",
+"d": "2026-11-09T05:13-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "애플, 휴머노이드 로봇 자율 제어시스템 '헤일로' 개발",
+"lg": "ko",
+"p": 5.3,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 0
+},
+{
+"id": "0281e0d1e7ec73",
+"t": "Real World revela ‘DexBench’, um benchmark de avaliação de manipulação manual de precisão humanóide",
+"r": "",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49477",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49477_105549_266.jpg",
+"d": "2026-11-09T06:30-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "리얼월드, 휴머노이드 정밀 손 조작 평가 벤치마크 ‘덱스벤치(DexBench)’ 공개",
+"lg": "ko",
+"p": 5.3,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 0
+},
+{
+"id": "5034f53a5144cd",
+"t": "Lisboa Web Summit 2026 abre com oradores robôs humanóides e delegação chinesa recorde",
+"r": "",
+"u": "https://www.euronews.com/2026/11/09/lisbon-web-summit-2026-opens-with-humanoid-robot-speakers-and-record-chinese-delegation",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "https://images.euronews.com/articles/stories/09/98/50/54/1200x675_cmsv2_2b4f373a-2de9-500e-ae41-e9a9faa4780a-9985054.jpg",
+"d": "2026-11-09T06:47-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese delegation",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "Euronews",
+"mx": 0,
+"cur": 1
+},
+{
+"id": "5ec8cafef90d74",
+"t": "Pieraccioni: Volto ao cinema com um humanóide que lembra Pinóquio",
+"r": "",
+"u": "https://stream24.ilsole24ore.com/video/cultura/pieraccioni-torno-cinema-un-umanoide-che-ricorda-pinocchio/AJQMBXAC",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/TMNews/2026/11/09/large-20261109_video_13100087.jpg",
+"d": "2026-11-09T13:14-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Pieraccioni: torno al cinema con un umanoide che ricorda Pinocchio",
+"lg": "it",
+"p": 5.3,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 0
+},
+{
+"id": "11afea21484f07",
+"t": "A Apple mostra seu cérebro robótico, um grande avanço em produtos humanóides, e Hongzhun ganhará um grande pedido para se beneficiar dele | Pontos de acesso da indústria | Indústria",
+"r": "",
+"u": "https://money.udn.com/money/story/5612/9867805?from=edn_subcatelist_cate",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35501039.jpg&M=1&s=Y&x=0&y=26&sw=1280&sh=854&sl=W&fw=1050&exp=3600",
+"d": "2026-11-09T15:40-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "蘋果秀機器人大腦 人形產品出現重大突破 鴻準受惠將拿下大單 | 產業熱點 | 產業",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "455b8f32ede385",
+"t": "O aprendizado por reforço acelera e refina dramaticamente o modelo mundial e a inovação pela primeira vez em muito tempo com controle de corpo inteiro humanóide Sim-to-Real",
+"r": "",
+"u": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00199/",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00199/og.jpg?20220512",
+"d": "2026-11-09T17:00-03:00",
+"c": [
+"humanoides",
+"ia"
+],
+"l": 0,
+"to": "強化学習が世界モデルで劇的に高速化・洗練、ヒューマノイド全身制御のSim-to-Realで久々の革新",
+"lg": "ja",
+"p": 5.3,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 0
+},
+{
+"id": "fab9a33ebfbf6e",
+"t": "[Nikkei Robotics] Compra on-line de peças para humanóides Fictiv, uma subsidiária da Misumi, oferece suporte para tudo, desde protótipos até produção em massa",
+"r": "",
+"u": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00207/",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00207/og.jpg?20220512",
+"d": "2026-11-09T17:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "《日経Robotics》ヒューマノイド向け部品をオンライン調達 ミスミ傘下のFictiv、試作から量産まで対応",
+"lg": "ja",
+"p": 5.3,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 0
+},
+{
+"id": "42173ac92ca3ca",
+"t": "Induções no Toy Hall of Fame + Cachorro-robô à espreita + Código de bloqueio decifrado",
+"r": "",
+"u": "https://www.ctvnews.ca/calgary/video/2026/11/10/toy-hall-of-fame-inductions-robot-dog-on-the-prowl-lock-code-cracked/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-10-2026%2Ft_b7495fde1b5a4e4982aaf5f97634a5c7_name_t_c3ad27f6d4df4c8988ce3e174b4af2fa_name_trending.jpg?smart=true&auth=f097a585a87e9ae894b5af624a9f2a97f2f17e5bf2843da93727c196204c2b23&width=1200&height=630",
+"d": "2026-11-09T22:06-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Toy Hall of Fame inductions + Robot dog on the prowl + Lock code cracked",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "CTV News",
+"mx": 0
+},
+{
+"id": "10c402f94c1df5",
+"t": "A cidade de Gumi examina instalações industriais humanóides e canais de vendas de empresas alimentícias na China",
+"r": "",
+"u": "https://www.yna.co.kr/view/AKR20261110067000053",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img1.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110067000053_01_i_P4.jpg",
+"d": "2026-11-09T22:36-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "구미시, 중국서 휴머노이드 산업현장·식품기업 판로 살핀다",
+"lg": "ko",
+"p": 5.3,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
+"id": "0f46d7e5658df3",
+"t": "“CES 2026” é sobre robôs humanóides e IA",
+"r": "",
+"u": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00186/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDRHELKEYWORDDX",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00186/topm.jpg?20220512",
+"d": "2026-11-09T22:57-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "人型ロボット・AIに湧く「CES 2026」",
+"lg": "ja",
+"p": 5.3,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 0
 },
 {
 "id": "c2cc1d7c741c2f",
@@ -22091,129 +22503,232 @@
 "rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
 },
 {
-"id": "bb4a89639b58c7",
-"t": "Robot Bank inicia desenvolvimento em larga escala de seus próprios produtos usando robôs físicos de IA O primeiro passo é um robô quadrúpede para uso industrial",
+"id": "112b9bc3c5708f",
+"t": "Óscar Ares, traumatologista, sobre assistência robótica em operações de joelho: “O robô ajuda-nos a adaptar a prótese à anatomia de cada paciente”",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiWEhBVTNIZTM5R2tpUExDai13SnhQcGhxNldrdlJkcUdtNHprcm94MEtPNlJzNU9IcjhwT1NfajFNRlNKYVF6cnNyeDJXMHB4dG9WSUNiSTVxTlRwdjl5NFpicGw?oc=5",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-09T00:00-03:00",
+"u": "https://www.lavanguardia.com/empresas-de-vanguardia/salud/20261109/11677754/oscar-ares-traumatologo-sobre-asistencia-robotica-operaciones-rodilla-robot-ayuda-adaptar-protesis-anatomia-paciente.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2026/11/06/6aed9fc2eefd1.jpeg",
+"d": "2026-11-09T02:00-03:00",
 "c": [
-"quadrupedes"
+"medicina",
+"exoesqueletos"
 ],
 "l": 0,
-"to": "フィジカルAI活用ロボットの自社製品開発をロボットバンクが本格始動 第一弾は産業向け四足歩行ロボット",
-"lg": "ja",
-"p": 4.3,
+"to": "Óscar Ares, traumatólogo, sobre la asistencia robótica en las operaciones de rodilla: “El robot nos ayuda a adaptar la prótesis a la anatomía de cada paciente”",
+"lg": "es",
+"p": 4.5,
 "cr": 3,
-"cv": "Robotstart"
-},
-{
-"id": "d5a45c450d23b1",
-"t": "Mouser Electronics demonstrará robô humanóide...eletrônica 2026",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWmlsMmhzdk5DNnU4Sy03RXRIQ0RTTHROV0xnTWNjdmYtQ1EyNFl1b3d6aTJMZWF5VXMwWHJyRk01cERkSDE0Zjk2Ry1GZ2IxS0xQMzJKRXZtWnBJNGhZZjV1Q3k?oc=5",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-09T04:00-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "マウザー・エレクトロニクス、ヒューマノイドロボット実演へ…electronica 2026",
-"lg": "ja",
-"p": 4.3,
-"cr": 3,
-"cv": "Robotstart"
-},
-{
-"id": "a66689cc06260a",
-"t": "Como proteger as ovelhas dos lobos? O cão-robô e a inteligência artificial estão sendo testados em Maremma",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPV0xVYURrQUFCOWp3QlJLZVFnUVlLUHJDb2cwLUdoUm9MWEFJTUlXMnZDWnFJQ3M2aEc5MnJEYU5wVHhHTWFQT2dSd05zSEVsLUZibXFJS1J1SjBaR29oaGY5dDRsZXU4a3J4UFQtT1o2bE9Cel9TdmJld2p3T1dMU3lKMGhTX05YNndaaFh0T3JmOVU4NkN6SzRuNXNQcldodFdSNmJVbHpSdjVZSWpnSl9xWExhOWRVTlVoeldQQ3dJenk1X1ZJMHJEb3dsb0p5QndFQ1AxX3IydzVyZklCazdQeEI3elBCQUR2dEkwa3NIcHRuS3QwSXlYX09vdlNLTkxuclRLd21GUHl1a09aMXFmMWJkdXBFR3Q4c0RjeVVYVzhYRUo3MllCdHJmRzlWRVdab3l6VFpIZERPeXfSAcMCQVVfeXFMUEZUc01yMUU4akZtNElYb1JENm9DRlhwY2ZrX1N2TmZ6M0FPSy1YR3ozUVhFMU1CZVFpUWFTMU02MG1CVVg5Y1psNzU4VExoUUFpd3ozUDZfOVZ2Nm9FblJjODh4eEdUeHhsdmp6M1BxVHpDb1JPdldRbEFRczFvM01ManYzWEI0QXlKRGlSYVFPeE9DdzlManNqRmlsWGFWaEplcXFnbFJwdHhmZm1qQnU3X2EtYWxmS0VkdlBOQjlROWtQRjNMendSOHNyMjY1SzlVVlVFUDI3UHRqbnVncWpUWnFyeVpnWGpzMmF4eTdxZllVUWNZeFJ6VWs4SGpQN2tSUDFDR29vem9Hcy1DY0FPaTVnckpyWTAzMmc0NjN2LXJRdmEzeFduZEpfNFM4VjZhMWcyc2wwWlE1alc5WkZIYm8?oc=5",
-"f": "Corriere Fiorentino",
-"s": "corrierefiorentino.corriere.it",
-"i": "",
-"d": "2026-11-09T04:51-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 0,
-"to": "Come proteggere le pecore dai lupi? In Maremma si sperimentano il cane robot e l'intelligenza artificiale",
-"lg": "it",
-"p": 4.3,
-"cr": 3,
-"cv": "Corriere della Sera",
+"cv": "La Vanguardia",
 "mx": 0
 },
 {
-"id": "05c3430cc4924e",
-"t": "Apple desenvolve ‘Halo’, um sistema de controle autônomo de robô humanóide",
+"id": "2ed76f3980d707",
+"t": "HumansX começa a aceitar reservas para o segundo período da mão robótica \"Wuji Hand 2\", suportando controle remoto e coleta de dados de aprendizagem VLA",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xRzZWcFZjY011b3p6WjRHSHBIc2NoX1ZRTE8zWmNaUXRaSm5nOHFYMHlWYzkwV1VuRnBEX0o0b280NXlfQ2Q5ZEhSZUtUWWJYdjdMM29DUl9LTWhDb1ZaMU5NVVA3RjBFRkYxVg?oc=5",
-"f": "로봇신문",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-09T05:13-03:00",
+"u": "https://robotstart.info/article/2026/11/09/382608.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109102.jpg",
+"d": "2026-11-09T02:00-03:00",
 "c": [
-"humanoides"
+"ia"
 ],
 "l": 0,
-"to": "애플, 휴머노이드 로봇 자율 제어시스템 '헤일로' 개발",
-"lg": "ko",
-"p": 4.3,
+"to": "ロボットハンド「Wuji Hand 2」第2期予約をHumansXが受付開始、遠隔操作・VLAの学習データ収集を支援",
+"lg": "ja",
+"p": 4.5,
 "cr": 3,
-"cv": "Robot Newspaper",
+"cv": "Robotstart",
 "mx": 0
 },
 {
-"id": "0281e0d1e7ec73",
-"t": "Real World revela ‘DexBench’, um benchmark de avaliação de manipulação manual de precisão humanóide",
+"id": "9cb523093ebf98",
+"t": "Os entusiastas da culinária não podem mais ficar sem ele: este robô Moulinex Cookeo+ facilita as refeições do dia a dia",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YSXI3N013aFRlMF8yemtqSTZGVG1qTTJXU1poUDl6TDJSYlNMX2pta0cwYUFaUnlfUUFSREpRYnFVOVR0Wm04WlBTVGlFcVA1d2ZrZkNYbU1uY196WnZyZDVncW9zR2t3VS1WSw?oc=5",
-"f": "로봇신문",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-09T06:30-03:00",
+"u": "https://www.lefigaro.fr/bons-plans/maison/les-amateurs-de-cuisine-ne-peuvent-plus-s-en-passer-ce-robot-moulinex-cookeo-facilite-les-repas-au-jour-le-jour-20261109",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/05/7078afdffecb69b043f1fe3ad9382bec8373f3d3ad0d9edf1b803a95137b8c56.jpg",
+"d": "2026-11-09T02:41-03:00",
 "c": [
-"humanoides"
+"geral"
 ],
 "l": 0,
-"to": "리얼월드, 휴머노이드 정밀 손 조작 평가 벤치마크 ‘덱스벤치(DexBench)’ 공개",
-"lg": "ko",
-"p": 4.3,
+"to": "Les amateurs de cuisine ne peuvent plus s’en passer : ce robot Moulinex Cookeo+ facilite les repas au jour le jour",
+"lg": "fr",
+"p": 4.5,
 "cr": 3,
-"cv": "Robot Newspaper"
+"cv": "Le Figaro",
+"mx": 0
 },
 {
-"id": "5034f53a5144cd",
-"t": "Lisboa Web Summit 2026 abre com oradores robôs humanóides e delegação chinesa recorde",
+"id": "7740d1d1cc9f6a",
+"t": "Os robôs se rebelarão contra os humanos? A segurança se torna uma questão importante | Nikkei Chinês | Internacional",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZGpVQmNwQlV3Yk9pVDNlWFZhRUxoXzZiaGNlV0R4am0weFRtTEY3c0ZCM0NBQzBRemlWYXJGYzVQUEQ3cXd2ejdJUzVOWmc2SHRUbk9FNHI5NUlwcnl2YU5kU1FBUjhXLVRoWGY3WEtZeVZZNVB6UnJXNlBiQndUMmh1aUk4VDdqdEVXWV8yWlc5QnpTSkpHZ0dudXVmWTVKNFR0enF1NzdQVkJRVzh6UDNEbVVSTFJHa3MwYjg5Z1k?oc=5",
-"f": "Euronews.com",
-"s": "euronews.com",
-"i": "",
-"d": "2026-11-09T06:47-03:00",
+"u": "https://money.udn.com/money/story/120769/9866743",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35499889.jpg&M=1&s=Y&x=0&y=0&sw=600&sh=337&sl=W&fw=1050&exp=3600",
+"d": "2026-11-09T03:34-03:00",
 "c": [
-"humanoides",
-"competicoes"
+"geral"
 ],
 "l": 0,
-"to": "Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese delegation",
+"to": "機器人會反抗人類嗎？安全性成為重大課題 | 日經中文網 | 國際",
 "lg": "en",
-"p": 4.3,
+"p": 4.5,
 "cr": 3,
-"cv": "Euronews",
-"mx": 0,
-"cur": 1
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "98d9a8c46e73ba",
+"t": "Robô de marcação, Xbox... COEX abre a era MICE inteligente com ‘5 grandes inovações’",
+"r": "",
+"u": "https://www.hankyung.com/article/2026110941681",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/AA.46359241.1.jpg",
+"d": "2026-11-09T03:45-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "마킹로봇·엑스박스…코엑스 '5대 혁신'으로 스마트 MICE 시대 연다",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 0
+},
+{
+"id": "8845a5091f6691",
+"t": "A mudança drástica na rotina de treinos de Colo Barco desde que chegou à Europa: “Tratam você como um robô”",
+"r": "",
+"u": "https://www.infobae.com/deportes/2026/11/09/el-drastico-cambio-en-la-rutina-de-entrenamiento-del-colo-barco-desde-que-llego-a-europa-te-tratan-como-a-un-robot/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/O6FEZ2MS45HAJIMAD27FPYQXJU.jpg?auth=30b020c14a38a5c8137f6b3e3a932e65a34fe523dde28c0566f246040b3b5b19&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-09T04:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "El drástico cambio en la rutina de entrenamiento del Colo Barco desde que llegó a Europa: “Te tratan como a un robot”",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "Infobae",
+"mx": 0
+},
+{
+"id": "a3436b04398cb9",
+"t": "Preste atenção aos robôs, drones e produção de satélites de baixa órbita para aumentar a transformação digital | Abrangente Industrial | Economia Industrial",
+"r": "",
+"u": "https://udn.com/news/story/7241/9866945",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500095.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600",
+"d": "2026-11-09T04:06-03:00",
+"c": [
+"espaco",
+"drones"
+],
+"l": 0,
+"to": "關注機器人、無人機與低軌衛星傳產要增數位轉型| 產業綜合| 產經",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "484fe5110849b5",
+"t": "Delhi celebra Diwali com show de drones, discotecas bhajan e Maha Aarti | Tempos do Hindustão",
+"r": "",
+"u": "https://www.hindustantimes.com/genesis/delhi-celebrates-diwali-with-drone-show-bhajan-clubbing-and-maha-aarti-101794207624010.html",
+"f": "Hindustan Times",
+"s": "hindustantimes.com",
+"i": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/PTI11-07-2026-000337B-0_1794207815330_iSk0_1794207823877_gKg5_0f238038-f3a9-40b1-9e3f-cb036d05e214_POGK.jpg",
+"d": "2026-11-09T04:07-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Delhi celebrates Diwali with drone show, bhajan clubbing and Maha Aarti | Hindustan Times",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Hindustan Times",
+"mx": 0
+},
+{
+"id": "47b39896a64f13",
+"t": "[Reunião] Vice-presidente da NVIDIA, “A direção autônoma e os robôs móveis alcançaram a comercialização precoce.”",
+"r": "",
+"u": "https://www.yna.co.kr/amp/view/AKR20261109123900017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img9.yna.co.kr/photo/yna/YH/2026/11/09/PYH2026110909290001300_P4.jpg",
+"d": "2026-11-09T04:10-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "[만나보니] 엔비디아 부사장 \"자율주행·이동로봇, 초기 상용화 올라섰다\"",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
+"id": "8f2aa3f7832a00",
+"t": "Samsung e Hyundai Motors vão além das peças automotivas para robôs e energia… ‘Uma equipe’ na indústria do futuro",
+"r": "",
+"u": "https://www.yna.co.kr/amp/view/AKR20261109103700003",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img2.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109103700003_01_i_P4.jpg",
+"d": "2026-11-09T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "삼성·현대차, 차 부품 넘어 로봇·에너지로…미래산업서 '원팀'",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
+"id": "8d8a0db04f1b86",
+"t": "“Paguei a conta, mas será que o robô me deu gorjeta?”... Contas absurdas em lojas não tripuladas nos EUA",
+"r": "",
+"u": "https://www.chosun.com/international/international_general/2026/11/08/ZHFDKYAAMFD23L3EUY3RXAQWEE/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/QNX2HNDAS5DITPF6BUYMJ4VJTQ.jpg?auth=a082f403b76f6b38beeb73d86fb6f850bb708ff097ca29bcf332ecece986cff2&width=640&height=336&smart=true",
+"d": "2026-11-09T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "\"내가 계산했는데 로봇에게 팁까지?\"…美 무인매장의 황당한 청구서",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
 },
 {
 "id": "0eff75c182e7a7",
 "t": "Fazendo robôs humanóides com rodas",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2I5Y1ZxcGVZa2hRU1pCOWdiRExkVEhvRDFYd0JnUG50cjYzbkNfZGdYMXFkam1MMXFVNWV4UUNhaHdOc1NnQUx0SEROV0xpc0hoa3A1RERVMllvV3RxMXNGNTZXWWRleVQzelVGWWNDUTRCaktXR2xacFpWNEU1aXJKbzdSZU5ERmNPTzJiOA?oc=5",
+"u": "https://www.forbes.com/sites/johnwerner/2026/11/09/making-humanoid-robots-with-wheels/",
 "f": "Forbes",
 "s": "forbes.com",
 "i": "",
@@ -22227,153 +22742,13 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Forbes",
-"mx": 0
-},
-{
-"id": "5ec8cafef90d74",
-"t": "Pieraccioni: Volto ao cinema com um humanóide que lembra Pinóquio",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG9RSnlwcFN2SmtzTGpCQy1hNUw5czZ4YThMVzF2OW93cW9oUVFJUWlZTkVFVkdmaVJReVBOWTIyd3hnVXFld09JM1c5aXZqUjUzOHZMY21ET3Bqd1htaG1kN1I5SWFYTnA3YUZvR2JNVXdHN3Fla3dUdUkzVnBSaldOZTJTN3NmTmxSWW9GNUtiWDFzQVltMDdCdXFvM1BqZ1F5SEhpQkU1Q2FhdXBpSTJ3bmo?oc=5",
-"f": "Il Sole 24 ORE",
-"s": "stream24.ilsole24ore.com",
-"i": "",
-"d": "2026-11-09T13:14-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Pieraccioni: torno al cinema con un umanoide che ricorda Pinocchio",
-"lg": "it",
-"p": 4.3,
-"cr": 3,
-"cv": "Il Sole 24 Ore",
-"mx": 0
-},
-{
-"id": "11afea21484f07",
-"t": "A Apple mostra seu cérebro robótico, um grande avanço em produtos humanóides, e Hongzhun ganhará um grande pedido para se beneficiar dele | Pontos de acesso da indústria | Indústria",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ldEpHU01wTlktUnpsTlIzNHhmRWY1M2QtaGRrZnp1empXdU8xOTZaSnBIYVlEU0tMWlB3MzJKejRlakMtMHRsdnRoWWwxalNQdlE5MU9CNXVycEZ5bmZneUZZbGxkT1JxYTdQN3RTOEdRTDBJOTM2NGl2Njc?oc=5",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-09T15:40-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "蘋果秀機器人大腦 人形產品出現重大突破 鴻準受惠將拿下大單 | 產業熱點 | 產業",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "United Daily News"
-},
-{
-"id": "455b8f32ede385",
-"t": "O aprendizado por reforço acelera e refina dramaticamente o modelo mundial e a inovação pela primeira vez em muito tempo com controle de corpo inteiro humanóide Sim-to-Real",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNZnl6M0p4MGZfMTBDc0FwdER5MExwWkcyUmFnUmw3NklDQUFXSG5tdndNMU9JbEViWXpjMXBpU0RwZXE1QWxJRUlaY0FBT1dzeUl6VlI3bV9ma1JMWVJxdzZqU2JIYzBNcmNaTVFR?oc=5",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-09T17:00-03:00",
-"c": [
-"humanoides",
-"ia"
-],
-"l": 0,
-"to": "強化学習が世界モデルで劇的に高速化・洗練、ヒューマノイド全身制御のSim-to-Realで久々の革新",
-"lg": "ja",
-"p": 4.3,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 0
-},
-{
-"id": "fab9a33ebfbf6e",
-"t": "[Nikkei Robotics] Compra on-line de peças para humanóides Fictiv, uma subsidiária da Misumi, oferece suporte para tudo, desde protótipos até produção em massa",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qREI1LU5vRG14ZGx0Q0dmVDRVUVRmaW9uOVljeEVGak1sUnU2MnRvVG0xT0NfcS10UkxOT3N4TEtHbjJSQnhiUmwyRUpyTGgyaGRVeHRXVVM2Xzd3blBqXzdjUjBXN0Zf?oc=5",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-09T17:00-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "《日経Robotics》ヒューマノイド向け部品をオンライン調達 ミスミ傘下のFictiv、試作から量産まで対応",
-"lg": "ja",
-"p": 4.3,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 0
-},
-{
-"id": "42173ac92ca3ca",
-"t": "Induções no Toy Hall of Fame + Cachorro-robô à espreita + Código de bloqueio decifrado",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUw2Z3h5X1ZQZUgzNm10MHJ0LS1McktCcEswTzlzM3ZlblVyYlM3YjQwczk2Q3hZckNHU3ZobC1POUNPVUZQY21XRnFxa08yWWZ6UHZteHF4ZkEtX053VmFzTWg3cjlRWWR0YlNoRVNBZEFrSUZrWl94Y0RGZTNiMmFjOHZuS0hPRGg4ekI3V2lJeXZhOHZuOVRKWC1uWEt2QTFRSURNRmw1MHBXN1dLLWZxLW5HWmY5?oc=5",
-"f": "CTV News",
-"s": "ctvnews.ca",
-"i": "",
-"d": "2026-11-09T22:06-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 0,
-"to": "Toy Hall of Fame inductions + Robot dog on the prowl + Lock code cracked",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "CTV News",
-"mx": 0
-},
-{
-"id": "10c402f94c1df5",
-"t": "A cidade de Gumi examina instalações industriais humanóides e canais de vendas de empresas alimentícias na China",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKOC1peU96a3NDcU1wTm0wUWIxVFlKV0JCZTJSZF9neldoazVvMGJfOTc3NXhVTXJmZ05HTFY3NjFaYWNXM2JIMTROaDBSOHFDV2gzR3plTDlvdjjSAWBBVV95cUxQSDBPcElyTXBnUmxRVEdEazE1Qmt5WWZmUzBJdWVEQ2dzenJTb2pxdUZ3ZlptSXVKbTJIQWIySUFGbWU1WjEyXzY5MVJlYlpGRFJieW9kU1ZFR04yc2MyVzY?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-09T22:36-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "구미시, 중국서 휴머노이드 산업현장·식품기업 판로 살핀다",
-"lg": "ko",
-"p": 4.3,
-"cr": 3,
-"cv": "Yonhap",
-"mx": 0
-},
-{
-"id": "0f46d7e5658df3",
-"t": "“CES 2026” é sobre robôs humanóides e IA",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXNzYnI4ZjlCYktmMDFFWU82WEs4TF9JU0ZwbVJDS1cyd0ZTekRrc1l5MGhDbFE1RHgtMlRxUkdlbi1lM2R4Y0pVaEg4Q0NGZHBWVklNTEVzb1dQQWFZZmQ2b3hpelA3Z1ZoMkFUbUZHM2NoLTNVMXRDeEhTWW5tU3Q3Tk5iWkdTbS1WeFN5VW9kZEVrQ2ZGeVlHOWx3Uk5LYl9GS29iVlRGSkRIZ25jclFPMzJ6ZUptQ0M5LUcwbw?oc=5",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-09T22:57-03:00",
-"c": [
-"competicoes",
-"humanoides"
-],
-"l": 0,
-"to": "人型ロボット・AIに湧く「CES 2026」",
-"lg": "ja",
-"p": 4.3,
-"cr": 3,
-"cv": "Nikkei Asia"
+"mx": 1
 },
 {
 "id": "8514c7885b3b7f",
 "t": "Alimentado por IA, modular e de produção mais barata do que seus concorrentes... Será que o drone terrestre desenvolvido pela Renault e John Cockerill conseguirá seduzir os exércitos?",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNGplS1dranE5QjZxbVJNMEtlbDhlX2hLT1VIM2ViU2lfVUU5eXo1bVc1SUF0bnZDYVYzS0NIZHRxOWd1cDJsTXZkeC1wRk13OFBBdUI0U04yR3B3LVJXTUhjTUJwcFRLZ0VCV0ZNbmVQSVlaWDJWV2hlVXRmeUVZNVBrNkJPTnZ5bzVVdjR6R29mX3BsUGtrak9VS3ZwYXZOOFNSYWFHU3FuQmhNdHByRUwwUVVCUmI5T1BXSUlnQzd6Q0ZUcjNxT2hRUEpwUElxQm8zajVxVGJCQkVvdWVGVXlYWlVPdURfNUVzV3cwNVFhLXBvZjY1aG9vUWJCbnBTNVRQQ2Z1UDZHZ2FjcVNSSW14Rm05dGlhXzkwVXNDS09YRkJSeENZTGlVZDFtRWxrZnJ4TGdhZjNPbzM4SGVJcGwybExHNlRNc3BqcFhvSk9iUQ?oc=5",
+"u": "https://www.usinenouvelle.com/auto/dope-a-lia-modulable-et-moins-couteux-a-produire-que-ses-concurrents-le-drone-terrestre-developpe-par-renault-et-john-cockerill-va-t-il-parvenir-a-seduire-les-armees.ZLESZLWUNZBM7IGK6664DYU5GY.html",
 "f": "L'Usine Nouvelle",
 "s": "usinenouvelle.com",
 "i": "",
@@ -22387,229 +22762,8 @@
 "lg": "fr",
 "p": 3.5,
 "cr": 3,
-"cv": "L'Usine Nouvelle"
-},
-{
-"id": "112b9bc3c5708f",
-"t": "Óscar Ares, traumatologista, sobre assistência robótica em operações de joelho: “O robô ajuda-nos a adaptar a prótese à anatomia de cada paciente”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPY1FoaGJQaTVSQTJ3VjZTVzhhWGZZZWNmQXhjSnV0YlI2aWRLZkJLUmVuNkZKUVBUdTVxb3F1UDZCZ0UxZHF3RkpzSmo0MXZQOVBYMFQtRlRPRndjQmhUeXZxem9hbm9xclpSNGo1Sko0cHJzSEkyMzIybzNIbjAzeWJYMmQzbmNyN1R1bncyY0IxSU16TzhMZDNRV3czV1l2V2dMRG1YRnR5YzQxaUgzSzRNTWVCcXZzZG5BYnc3bnlISmk0Q1FUR0JDNGw3bHFTLVM3UkpPdEFWQlBIWFNRVFoyRTVWTzFtczM5a3R0UDMzcGZ4SDNaaUl5SkZsWXl1ZVF0ZnVOdDliQ19WM3NlMmJYbWpxY1BJcXRKN0c2VTlZNVHSAagCQVVfeXFMUFptZDl5QmYxNVA5eWsxVWhzMEhYUGthTlczMGtwVnpPNUJaR0VMVGRxMGJBcTBBdWRJQ0syX1Qzbno0WjQtcjFILU5PaVNlcnBYVkp5VWZFaTNTR3RLZG5vSUVYb0xPN1hLOE1oTWVfZ09CWklfdHF2dWNDc3lIRi03SjJJVVpkTWlLc0FBZDQ2aHo3dV9pUzduQ2FzVHJfazdoc2dsT2JRZG1ydDh5Sm9hYWxROXhiWkZOcUUwTjBnSzc0bHVTOG5EaE5hTnlUSEYzT0VHWlRZSGxBMktqa1VSSVJoc2ZuQk1Ob29HR2FrUXktZmhRdWUzNVN6YjcwSHh6dE9KNy1DdzhDZTUteFppelBDcldSazF5UjQ5RTNhY1lEcHBrYno?oc=5",
-"f": "La Vanguardia",
-"s": "lavanguardia.com",
-"i": "",
-"d": "2026-11-09T02:00-03:00",
-"c": [
-"medicina",
-"exoesqueletos"
-],
-"l": 0,
-"to": "Óscar Ares, traumatólogo, sobre la asistencia robótica en las operaciones de rodilla: “El robot nos ayuda a adaptar la prótesis a la anatomía de cada paciente”",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "La Vanguardia",
-"mx": 0
-},
-{
-"id": "2ed76f3980d707",
-"t": "HumansX começa a aceitar reservas para o segundo período da mão robótica \"Wuji Hand 2\", suportando controle remoto e coleta de dados de aprendizagem VLA",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DZE5OUjBTS2FDay0xMVJDOTlFQ09adVlrMzBLd2E1NllLT3h2ZDNuSkJsRmpWdUdfMEczdzB6U2ppMVBMMmxrSVpvcmxVZUwtYVRydy1kQURSTDhYS25RMWxIRE4?oc=5",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-09T02:00-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "ロボットハンド「Wuji Hand 2」第2期予約をHumansXが受付開始、遠隔操作・VLAの学習データ収集を支援",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 0
-},
-{
-"id": "9cb523093ebf98",
-"t": "Os entusiastas da culinária não podem mais ficar sem ele: este robô Moulinex Cookeo+ facilita as refeições do dia a dia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOE9GV3Y1NnFPc2hHMktaUWl0a2NxMjcyanZGNTBYY2xKLUxVWkpRcThrbTBwT2VlRzZmVDVmamw2LUF1WnplVlRNRnZUOU93ci1XbGloTlNaVmZiZGhFRldPYXBfaWJkWlN0R2Q3a1h0NEw2LXJMT3otN04wWGRwVlBIQWZGOTYyczVsTEhxeWpBVVJ0dlpYSTViNHdza2hSdnZIdnZPZFhmMkRBUEROWEtHSGNrZnNMWF9GQWQ0c18yc3luRHgzWGNIT0NqVEZUYnljUTVWeUUxVE4xeDZpQ3FkTzFOZkQ0TUdXZWo4eHJ2TThz?oc=5",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "",
-"d": "2026-11-09T02:41-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Les amateurs de cuisine ne peuvent plus s’en passer : ce robot Moulinex Cookeo+ facilite les repas au jour le jour",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Le Figaro",
-"mx": 0
-},
-{
-"id": "7740d1d1cc9f6a",
-"t": "Os robôs se rebelarão contra os humanos? A segurança se torna uma questão importante | Nikkei Chinês | Internacional",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LS0VfQ1lXM3hLME1BWW42M1B5aGpza3FMOG1IbzkzZHBZSnoxMndaSFpYcHRNZ1Vwb3NYWDJIR0UzdWtuMTJaSUhLZWZhWUE0ZGZhbE9rMmdRTXVI?oc=5",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-09T03:34-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "機器人會反抗人類嗎？安全性成為重大課題 | 日經中文網 | 國際",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "98d9a8c46e73ba",
-"t": "Robô de marcação, Xbox... COEX abre a era MICE inteligente com ‘5 grandes inovações’",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4Y2U3UVZGRG9WNEtWakdrSWhkU1g3WFJTSDBfWlFTa0hEWERUdXZaZHQySXZreFlTVzRidnRPU0xNcS1fQV9VdFdITUp0YVlUdWo2SlNqcjVMQQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-09T03:45-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "마킹로봇·엑스박스…코엑스 '5대 혁신'으로 스마트 MICE 시대 연다",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily",
-"mx": 0
-},
-{
-"id": "8845a5091f6691",
-"t": "A mudança drástica na rotina de treinos de Colo Barco desde que chegou à Europa: “Tratam você como um robô”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd0hDSXFtd0xpbWNFUmVVWEtLbU9Xdk1tZGFDd3E1Y0pSbWUyNWNLZ3dOQ2QwWFBLNVh2UXpFSVlvZl9zZElhOGwtbVAzYWxfRFRDMWoya0pnMnhNZUxrcjBURm9IcTVhM2drWGtQMWdoS1BKaTFUeVhmRXNjOHFWZWJ1S3JfMW4tMGpGam9qelRJQkpYUkpRejJUQVJSMXQ2d3ZaYzdfVm5IY2plbEFHSzRvX0U2Ui1FeDZaejZoeEN2TEZyMXVmbEhpUTkyckNqUVE3TW1qX1NSYU12QjJ2NEZBcHZYTUFvNE5hcmpuanXSAYsCQVVfeXFMTVdxYkhYbU92dkxKY1hVeTBvRG9XLVh5eWMtbHp5bDBDelp6bDhRZXlXcWpzZkdhSjlYVEVJR0toa2hvaWpJSXJZUVpCZWdRU0xfQjF1alpfcWJLWWV1QzdYTWFVLWtld1AzV3hqRU9RbmNVNGpFa2hwSU5Gd3BmRDlfeFNvZG1sUlhsekdmTk1kMFdoQjlfd0MybnlwV2R5TEJTZ1RrRFQ2WHUxb2VLc3BqZTNyX2hMaDdhZU45cjJGV2JtelRrd25sWmxRTUIzWFN1c21JaEJVdnk0bU80dlhYNWVycHNFOGJKdkNkZml6d25fczJRR2t3dTNQNnZpQXFzdUdjcVFVQk9r?oc=5",
-"f": "Infobae",
-"s": "infobae.com",
-"i": "",
-"d": "2026-11-09T04:01-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "El drástico cambio en la rutina de entrenamiento del Colo Barco desde que llegó a Europa: “Te tratan como a un robot”",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "Infobae",
-"mx": 0
-},
-{
-"id": "a3436b04398cb9",
-"t": "Preste atenção aos robôs, drones e produção de satélites de baixa órbita para aumentar a transformação digital | Abrangente Industrial | Economia Industrial",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxdWRSXzBCTnFLQWljWVhOX0RvMTNXRXhCdnpLXzJncUxheHFzZncwX1o4LWxGUlk5cjlKYXI4LTlnWkM3QTJkRW85RzQxcWh6?oc=5",
-"f": "UDN",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-09T04:06-03:00",
-"c": [
-"espaco",
-"drones"
-],
-"l": 0,
-"to": "關注機器人、無人機與低軌衛星傳產要增數位轉型| 產業綜合| 產經",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "484fe5110849b5",
-"t": "Delhi celebra Diwali com show de drones, discotecas bhajan e Maha Aarti | Tempos do Hindustão",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1ZfUUVHeG9GcmVYNVdVbmphMkFHUW1HSDBmTzVKSEI5NC1hY0k2U0VBY3pXTnRTNmVOeTZGcWoxb3YwZllnV25GNllydENzbmp0NFFDbVcwRU5vak0zemdDMnR0S1F5QXkxaklMSXVIVEpvMExsTWdEeTEwZGhhVjduZUE1MzFNb2hZU0FfQUxBbGdVT1lvUDktcVlHSHNyd0QteV9WcVAxVXJ5VF80RXF0YklWelNjMVM0OWItMGdZRFhSV1kxeTVR0gHPAUFVX3lxTE83bVZRV1dCR3JSYkt4TUJQQkRwTFlNRVVvaTFwNWI2TkU5RE0wWlcwVE10WEZzdVlSYXhkTXZRUXBVSFk0LXBqMlBoVks3a1UxZFM5THNIRS10Uy04TFNLTF9QQzBkQ0pQNXVNcENsclV4empSU2pUSThCWWxTemw1Q2hXR0xpMXd5OUdRemVMeGxWaGNKNmFZdi1HX0dCeTBoU2Z2blRZNHdWOFVZV2sxV0pTb3N1aWJHc3JBYkpacmRJenZ6NU5NQU9mNUVXTQ?oc=5",
-"f": "Hindustan Times",
-"s": "hindustantimes.com",
-"i": "",
-"d": "2026-11-09T04:07-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Delhi celebrates Diwali with drone show, bhajan clubbing and Maha Aarti | Hindustan Times",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Hindustan Times",
-"mx": 0
-},
-{
-"id": "47b39896a64f13",
-"t": "[Reunião] Vice-presidente da NVIDIA, “A direção autônoma e os robôs móveis alcançaram a comercialização precoce.”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQczgybk5KMm9XeTg2aEpac0JEcnl4YllkTE5pN0VkSXRSUDE2NlNyUjBqenZUeXpXNHZLTzBiR1RTOTFmNWdIa0pIY25YMUxINHdNTVp6SkFjZnN6eVR6bNIBYEFVX3lxTFBQczgybk5KMm9XeTg2aEpac0JEcnl4YllkTE5pN0VkSXRSUDE2NlNyUjBqenZUeXpXNHZLTzBiR1RTOTFmNWdIa0pIY25YMUxINHdNTVp6SkFjZnN6eVR6bA?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-09T04:10-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "[만나보니] 엔비디아 부사장 \"자율주행·이동로봇, 초기 상용화 올라섰다\"",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap",
-"mx": 0
-},
-{
-"id": "8f2aa3f7832a00",
-"t": "Samsung e Hyundai Motors vão além das peças automotivas para robôs e energia… ‘Uma equipe’ na indústria do futuro",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EcWpiS01oamdsaHBTVGxHbUdSd1BSRm04SDhpVUVXb05WTXhBTXNGWEV1NWdZRTN6RV9QMm9rcHVRbnAxYkoxb0V4X0pjaXk3STlxSmRXOVl4cnVpeTVoRdIBYEFVX3lxTE9EcWpiS01oamdsaHBTVGxHbUdSd1BSRm04SDhpVUVXb05WTXhBTXNGWEV1NWdZRTN6RV9QMm9rcHVRbnAxYkoxb0V4X0pjaXk3STlxSmRXOVl4cnVpeTVoRQ?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-09T05:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "삼성·현대차, 차 부품 넘어 로봇·에너지로…미래산업서 '원팀'",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap",
-"mx": 0
-},
-{
-"id": "8d8a0db04f1b86",
-"t": "“Paguei a conta, mas será que o robô me deu gorjeta?”... Contas absurdas em lojas não tripuladas nos EUA",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQW9tb3UzWGxmXzBDQmN1N0RBZm5zN2NsMERVUjJ0LVBtSWVjVjVkXzdJcWgwVEVUMmE3dzR3Y3ViQjVUV3d2YUFOX0xORVIyVU5taUNFRUh1cDJXTUxURnFxN1NKRXFrLWg2amY5dmNRNjYyNTdOWVhDa3N1ZXhrTTc0a095SzI5UzVwdWZQX01GdC1DUTM0b3N0ZkluQQ?oc=5",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-09T05:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "\"내가 계산했는데 로봇에게 팁까지?\"…美 무인매장의 황당한 청구서",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 0
+"cv": "L'Usine Nouvelle",
+"mx": 1
 },
 {
 "id": "fe99a3db63cab5",
