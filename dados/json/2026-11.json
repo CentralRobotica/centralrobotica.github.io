@@ -495,7 +495,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 2,
+"mx": 3,
 "rx": "Este modelo de base de robô vem da AIRoA, a AI Robot Association do Japão, uma organização com sede em Tóquio apoiada pelo Ministério da Economia, Comércio e Indústria. Pertence à categoria de modelo de ação de linguagem de visão, conectando pesquisas em inteligência artificial com controle de robôs. A sua escolha de investigação definidora diz respeito a dados de formação: a equipa utilizou gravações humanas em vez de recolher demonstrações através da operação de robôs.\nPara os pesquisadores, o projeto fornece um tema concreto para examinar os custos de coleta de demonstração, a construção de conjuntos de dados e o papel da atividade humana registrada no desenvolvimento do modelo de base do robô. O envolvimento da Toyota diz respeito ao dispositivo de gravação YUBI, enquanto o apoio institucional da associação vem do Ministério da Economia, Comércio e Indústria do Japão."
 },
 {
@@ -600,7 +600,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
+"mx": 2
 },
 {
 "id": "dd05b1825d9cd5",
@@ -641,7 +641,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "Escopo de negócios: O principal produto é o robô multifuncional de cuidado de idosos incorporado em casa HT-X2, que é orientado para cenários de cuidados domiciliares de idosos e enfermagem. Ele desenvolveu quinze funções principais e é vendido por meio do JD.com e de canais nacionais de parceiros estratégicos off-line. Possui um centro de serviços local em Qingdao, que pode fornecer instalação, comissionamento e coordenação pós-venda para usuários na área de Qingdao. Ao comprar robôs inteligentes para cuidados de idosos para famílias em Qingdao, recomenda-se seguir o caminho de \"estabelecer primeiro os padrões, depois olhar para a adaptação e depois fornecer serviços\": estabelecer uma estrutura de avaliação baseada em seis dimensões: segurança e conformidade, grau de autonomia técnica, correspondência de cenário, proteção de privacidade, serviços locais e gradiente de preços; depois selecionar marcas candidatas com base em cenários específicos, como companhia para viver sozinho, gestão de doenças crónicas, cuidados assistidos, etc.; e, finalmente, verificar as funções e a aceitação pelos idosos através de demonstrações e testes no local."
 }
 ],
@@ -962,7 +962,7 @@
 "p": 8.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 14 de novembro que a Fortune publicou uma postagem no blog ontem (13 de novembro), dando a notícia de que a OpenAI dissolveu sua equipe independente de robôs e transferiu pessoal relevante para outros departamentos da empresa. A OpenAI confirmou este ajuste organizacional à mídia, mas enfatizou que esse ajuste não significa retirar-se do campo da robótica. A robótica continua a ser o núcleo da sua visão a longo prazo e a reorganização visa acelerar a investigação e o desenvolvimento.\nEm termos de ajustes arquitetônicos, os pesquisadores de robótica foram integrados à equipe principal de pesquisa e reportados ao diretor de pesquisa, Mark Chen; a equipe de robótica e hardware de aplicação foi transferida para o departamento maior de aplicação, chefiado pelo presidente da empresa, Greg Brockman."
 },
 {
@@ -4058,7 +4058,7 @@
 "p": 3.0,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 },
 {
 "id": "55a9953293db37",
@@ -13249,6 +13249,27 @@
 "mx": 3
 },
 {
+"id": "536f0ac70d7033",
+"t": "Dynamic Creatures, Hasbro’s Sixth Wall Studio partner to develop robotic creatures that engage visitors at theme parks and resorts",
+"r": "",
+"u": "https://www.robotics247.com/article/dynamic-creatures-hasbros-sixth-wall-studio-partner-to-develop-robotic-creatures-that-engage-visitors-at-theme-parks-and-resorts",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/2026_article/DynamicCreatures-Hasbro-robots-themeparks-main-Robotics247-2026.jpg",
+"d": "2026-11-11T14:29-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Dynamic Creatures, Hasbro’s Sixth Wall Studio partner to develop robotic creatures that engage visitors at theme parks and resorts",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 0
+},
+{
 "id": "33dc7d81c178ed",
 "t": "Visualize canteiros de obras com robôs quadrúpedes e IA, que serão introduzidos no local em 2027 Kawada Industries and Highlanders",
 "r": "@cHƂHighlanders2026N1110Als{bgƌAIVXeg e̋JiႤ̋@\\JĂA2027Nx̌ꓱꓱꓱ",
@@ -15217,6 +15238,36 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 12.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 2,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
+},
+{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -15373,36 +15424,6 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
-},
-{
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 11.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 1,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -16226,6 +16247,36 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 2,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -17420,36 +17471,6 @@
 "mx": 3
 },
 {
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 5.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 1,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
-},
-{
 "id": "04f31f697e3b0c",
 "t": "Preço atual das ações da empresa de robôs (2026-11-10)",
 "r": "",
@@ -18403,27 +18424,6 @@
 "rx": "Path Robotics, nell"
 },
 {
-"id": "e41ab0475d5078",
-"t": "Como roupas e sapatos... Experimente usar um robô vestível antes de comprá-lo",
-"r": "Robôs vestíveis usados ​​para fins industriais e médicos estão em transição para bens de consumo diários. O mercado está crescendo com a proliferação de lojas off-line onde os clientes podem comprar produtos após usá-los e serviços de aluguel de curto prazo. O feedback dos consumidores reflete-se no desenvolvimento de…",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/11/AJJCY33CRVEH7PP2J4QWUD3NBA/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-10T12:34-03:00",
-"c": [
-"exoesqueletos"
-],
-"l": 0,
-"to": "옷·신발처럼… 입는 로봇도 착용해보고 산다",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "Robôs vestíveis usados ​​para fins industriais e médicos estão em transição para bens de consumo diários. O mercado está crescendo com a proliferação de lojas off-line onde os clientes podem comprar produtos após usá-los e serviços de aluguel de curto prazo. O feedback dos consumidores reflete-se no desenvolvimento de novos produtos e posiciona-se como uma nova solução de assistência à marcha para a era do envelhecimento."
-},
-{
 "id": "94b8bd41698bba",
 "t": "Samsung C-Lab apresenta inovações em robótica e tecnologia de saúde",
 "r": "Samsung C-Lab apresenta robótica, programa de inovações em tecnologia de saúde apoia 1.000 projetos, startups desenvolvem aprendizagem de robôs e tecnologia de previsão de açúcar no sangue",
@@ -18443,27 +18443,6 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "Samsung C-Lab apresenta robótica, programa de inovações em tecnologia de saúde apoia 1.000 projetos, startups desenvolvem aprendizagem de robôs e tecnologia de previsão de açúcar no sangue"
-},
-{
-"id": "e48ef652197602",
-"t": "Robôs vestíveis entram no mercado consumidor por meio de testes off-line e aluguéis",
-"r": "Robôs vestíveis entram no mercado consumidor por meio de testes e aluguéis off-line Mercado global de exoesqueletos atingirá US$ 2,2 bilhões até 2030, à medida que as marcas são pioneiras em testes e aluguéis off-line",
-"u": "https://www.chosun.com/english/industry-en/2026/11/11/M7R6OZZOYRALXNAOUQZ2Q3MY6E/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-10T12:36-03:00",
-"c": [
-"exoesqueletos"
-],
-"l": 0,
-"to": "Wearable Robots Enter Consumer Market via Offline Trials, Rentals",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "Robôs vestíveis entram no mercado consumidor por meio de testes e aluguéis off-line Mercado global de exoesqueletos atingirá US$ 2,2 bilhões até 2030, à medida que as marcas são pioneiras em testes e aluguéis off-line"
 },
 {
 "id": "f323f9fa530133",
@@ -19664,6 +19643,48 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "A Path Robotics acaba de levantar US$ 300 milhões da Série E. O acordo, que avalia a empresa de soldagem automatizada em US$ 2,45 bilhões, foi precedido por negócios de soldagem naval de alto perfil, como observa a US Path em um comunicado: \"O investimento segue um período de rápida expansão comercial para a Path Robotics, com a receita recorrente anual (ARR) crescendo 17 vezes nos últimos 18 meses, à medida que a empresa dimensiona implantações nos principais clientes industriais da América do Norte\".\n“Começamos com a soldagem porque é um dos trabalhos mais difíceis de automatizar no chão de fábrica e provamos que nossa tecnologia pode ter sucesso em ambientes de produção reais”, disse o CEO Andrew Lonsberry em um comunicado. Parte do novo capital será investido na expansão “além da soldagem em novas tarefas de fabricação e formatos robóticos, juntamente com maior investimento no treinamento de modelos de IA”."
+},
+{
+"id": "e41ab0475d5078",
+"t": "Como roupas e sapatos... Experimente usar um robô vestível antes de comprá-lo",
+"r": "Robôs vestíveis usados ​​para fins industriais e médicos estão em transição para bens de consumo diários. O mercado está crescendo com a proliferação de lojas off-line onde os clientes podem comprar produtos após usá-los e serviços de aluguel de curto prazo. O feedback dos consumidores reflete-se no desenvolvimento de…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/11/AJJCY33CRVEH7PP2J4QWUD3NBA/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-10T12:34-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "옷·신발처럼… 입는 로봇도 착용해보고 산다",
+"lg": "ko",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "Robôs vestíveis usados ​​para fins industriais e médicos estão em transição para bens de consumo diários. O mercado está crescendo com a proliferação de lojas off-line onde os clientes podem comprar produtos após usá-los e serviços de aluguel de curto prazo. O feedback dos consumidores reflete-se no desenvolvimento de novos produtos e posiciona-se como uma nova solução de assistência à marcha para a era do envelhecimento."
+},
+{
+"id": "e48ef652197602",
+"t": "Robôs vestíveis entram no mercado consumidor por meio de testes off-line e aluguéis",
+"r": "Robôs vestíveis entram no mercado consumidor por meio de testes e aluguéis off-line Mercado global de exoesqueletos atingirá US$ 2,2 bilhões até 2030, à medida que as marcas são pioneiras em testes e aluguéis off-line",
+"u": "https://www.chosun.com/english/industry-en/2026/11/11/M7R6OZZOYRALXNAOUQZ2Q3MY6E/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-10T12:36-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "Wearable Robots Enter Consumer Market via Offline Trials, Rentals",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "Robôs vestíveis entram no mercado consumidor por meio de testes e aluguéis off-line Mercado global de exoesqueletos atingirá US$ 2,2 bilhões até 2030, à medida que as marcas são pioneiras em testes e aluguéis off-line"
 },
 {
 "id": "c9ca0fb2cc7d25",
@@ -21373,7 +21394,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 10 de novembro que a experiência de estacionamento pode ser diferente na próxima vez que você for à Disneylândia. A Walt Disney Company revelou recentemente que está testando um lote de robôs assistentes equipados com tecnologia de inteligência artificial para ajudar os turistas a encontrar vagas de estacionamento em áreas de resort densamente povoadas.\nA IT House percebeu que esses robôs se inspiraram no design dos personagens de “Carros” e “Wall-E” e fizeram sua estreia no recentemente realizado Disney Accelerator Demo Day. A Disney não anunciou o tempo específico de implantação desses robôs assistentes de estacionamento, nem confirmou que eles serão eventualmente colocados em uso em seus parques Disney."
 },
 {
@@ -21395,7 +21416,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21417,7 +21438,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21439,7 +21460,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21463,7 +21484,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21484,7 +21505,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21506,7 +21527,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
 "cur": 1
 },
@@ -23767,27 +23788,6 @@
 "rx": "Gostaria de não precisar mais aspirar ou esfregar o chão? O Roborock Qrevo S Pro cuida de ambas as tarefas e possui uma estação para fazer ele mesmo grande parte da manutenção. A Amazon oferece-o atualmente por menos de 380 euros graças a uma queda de 36% no preço que deve ser realizada antes de 12 de novembro de 2026. O Roborock Qrevo S Pro combina o que é necessário para aspirar e lavar automaticamente, aproveitando ao mesmo tempo a sua própria estação. A Amazon está atualmente exibindo o modelo preto de última geração por € 379,99 em vez de € 589,99 por meio de um desconto por tempo limitado acessível até 12 de novembro de 2026, enquanto durarem os estoques.\nÉ na manutenção após a limpeza que a estação multifunções deste modelo tem todo o seu interesse e acaba por simplificar a sua tarefa."
 },
 {
-"id": "2346d502f27685",
-"t": "A Amazon está supostamente construindo um ‘robô doméstico’ para os consumidores",
-"r": "Os relatórios dizem que nos últimos meses, a Amazon, com sede em Seattle, montou uma equipe que está trabalhando em um novo produto robótico que terá como alvo os consumidores em suas casas. Em 2021, a Amazon lançou o robô Astro que custa US$ 1.450. Apesar da recepção morna ao Astro, a Amazon não está desistindo dos…",
-"u": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/8736093/amazon-is-reportedly-building-a-home-robot-for-consumers/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-09T12:09-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Amazon Is Reportedly Building A ‘Home Robot’ For Consumers",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 9,
-"rx": "Os relatórios dizem que nos últimos meses, a Amazon, com sede em Seattle, montou uma equipe que está trabalhando em um novo produto robótico que terá como alvo os consumidores em suas casas. Em 2021, a Amazon lançou o robô Astro que custa US$ 1.450. Apesar da recepção morna ao Astro, a Amazon não está desistindo dos robôs voltados para o consumidor. No início deste ano, a Amazon realocou grande parte da equipe por trás do Astro e contratou um especialista em robótica para trabalhar no projeto do robô doméstico.\nA Amazon também comprou recentemente a Fauna Robotics, que construiu um robô de 3,5 pés de altura chamado “Sprout”. Desde a compra da Fauna Robotics, a Amazon formou uma nova divisão chamada internamente de “Grupo de Robótica Pessoal”. Não está claro que tipo de robô doméstico a Amazon está desenvolvendo."
-},
-{
 "id": "4eeb95071f6195",
 "t": "ABB Robotics lança AI Robot Trainer para simplificar a programação de visão de robôs",
 "r": "A ABB Robotics está expandindo o OmniCore EyeMotion com AI Robot Trainer, permitindo que os clientes treinem, implantem e melhorem continuamente aplicações de visão robótica alimentadas por IA com mais rapidez e sem a necessidade de especialistas para construir modelos de IA do zero. “O OmniCore EyeMotion e o AI Robot…",
@@ -24128,27 +24128,6 @@
 "rx": "A Skyways voará com sua aeronave autônoma V2 de uma instalação da Shell em Louisiana para uma plataforma offshore. Em 9 de novembro de 2026, a Administração Federal de Aviação disse ter emitido uma autorização para um drone voar além da linha de visão visual do operador a partir da costa dos EUA sobre o Golfo. Também descreveu a autorização como um marco para operações comerciais de drones de longo alcance em alto mar.\nA Skyways operará suas aeronaves autônomas V2 de decolagem e pouso vertical (VTOL) das instalações SPLC da Shell em Gibson, Louisiana, para uma plataforma da Shell no Golfo. “Esta autorização marca um passo importante em direção a essa visão, demonstrando o potencial da inovação e engenhosidade americana para transformar as operações offshore enquanto trabalhamos para estabelecer uma estrutura regulatória que possibilite essas capacidades com segurança e em escala.”"
 },
 {
-"id": "61ae0a69b50a21",
-"t": "“Robôs vestíveis podem ser experimentados e comprados como jeans”... Até aluguéis aparecem em lojas de montagem.",
-"r": "Os robôs vestíveis estão se tornando um produto de consumo diário, e os serviços que permitem que os robôs sejam usados ​​e depois comprados em lojas off-line ou alugados em atrações turísticas ou em casa estão se espalhando. A acessibilidade dos consumidores aumentou devido ao aumento da procura de assistência para…",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/09/F4TJBVNPMNFUHKPIZ7MVTTGRLI/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-09T19:09-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "\"웨어러블 로봇도 청바지처럼 입어보고 산다\"…피팅숍에 렌털까지 등장",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "Os robôs vestíveis estão se tornando um produto de consumo diário, e os serviços que permitem que os robôs sejam usados ​​e depois comprados em lojas off-line ou alugados em atrações turísticas ou em casa estão se espalhando. A acessibilidade dos consumidores aumentou devido ao aumento da procura de assistência para caminhar devido ao envelhecimento da população e à redução do peso dos produtos, e as experiências nas lojas também estão a refletir-se no desenvolvimento de novos produtos."
-},
-{
 "id": "8df1cb1206c468",
 "t": "Pacto DHS dá revisão de contra-drones da FAA enquanto Hegseth considera os lasers seguros",
 "r": "Cinco departamentos federais concordaram em dar à FAA uma revisão formal de segurança dos novos sistemas anti-drones, anunciou o Departamento de Segurança Interna na segunda-feira. O anúncio ocorreu no dia de um fórum de concessão de combate a drones no MGM National Harbor em Oxon Hill, Maryland, onde falaram o…",
@@ -24384,6 +24363,27 @@
 "rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
 },
 {
+"id": "62b8c177da589c",
+"t": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
+"r": "",
+"u": "https://www.donga.com/news/amp/all/20261109/134993494/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993588.3.jpg",
+"d": "2026-11-09T06:34-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
 "id": "0fa69665539ff4",
 "t": "Robot Bank inicia desenvolvimento de robô quadrúpede para uso industrial Inicia desenvolvimento de produto próprio de robô de IA de concreto",
 "r": "O Robot Bank anunciou uma política para continuar desenvolvendo robôs de IA tangíveis que utilizam IA física. Como primeiro produto, iniciamos um projeto de desenvolvimento de produto para um robô ambulante quadrúpede. Espera-se que este robô quadrúpede seja utilizado para patrulhar inspeções de fábricas e…",
@@ -24394,7 +24394,9 @@
 "d": "2026-11-09T02:48-03:00",
 "c": [
 "quadrupedes",
-"construcao"
+"construcao",
+"industriais",
+"inspecao"
 ],
 "l": 0,
 "to": "ロボットバンク、産業向け四足歩行ロボットの開発に着手 具身AIロボットの自社製品開発を始動",
@@ -24553,6 +24555,88 @@
 "cv": "DigiTimes",
 "mx": 1,
 "rx": "A Agility Robotics foi listada na Nasdaq em 5 de novembro, tornando-se o primeiro fabricante de robôs humanóides de capital aberto dos EUA e uma referência fundamental para avaliar o valor comercial do setor..."
+},
+{
+"id": "05ab39c901d7b0",
+"t": "Midas H&T coloca ‘pele eletrônica’ nas mãos humanóides da Samsung",
+"r": "",
+"u": "https://zdnet.co.kr/view/?no=20261110103557",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/10/e8b1765bd06af84028d69100fe18bc53.jpg",
+"d": "2026-11-09T22:46-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "마이다스H&T, 삼성 휴머노이드 손에 '전자피부' 입힌다",
+"lg": "ko",
+"p": 4.0,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "c8284c8eff963e",
+"t": "Conversa exclusiva com Shi Xiaoxin: Metade do jogo final para robôs humanóides está em nossas mãos - 36 Krypton",
+"r": "",
+"u": "https://www.36kr.com/p/4063274873672578",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261110/v2_642b808b8b904364a4878c0c6a65bd5c@5509299_oswg352299oswg600oswg400_img_png",
+"d": "2026-11-09T22:51-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "独家对话施晓鑫：人形机器人的终局，一半在手上-36氪",
+"lg": "zh",
+"p": 4.0,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "2346d502f27685",
+"t": "A Amazon está supostamente construindo um ‘robô doméstico’ para os consumidores",
+"r": "Os relatórios dizem que nos últimos meses, a Amazon, com sede em Seattle, montou uma equipe que está trabalhando em um novo produto robótico que terá como alvo os consumidores em suas casas. Em 2021, a Amazon lançou o robô Astro que custa US$ 1.450. Apesar da recepção morna ao Astro, a Amazon não está desistindo dos…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/8736093/amazon-is-reportedly-building-a-home-robot-for-consumers/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-09T12:09-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Amazon Is Reportedly Building A ‘Home Robot’ For Consumers",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 9,
+"rx": "Os relatórios dizem que nos últimos meses, a Amazon, com sede em Seattle, montou uma equipe que está trabalhando em um novo produto robótico que terá como alvo os consumidores em suas casas. Em 2021, a Amazon lançou o robô Astro que custa US$ 1.450. Apesar da recepção morna ao Astro, a Amazon não está desistindo dos robôs voltados para o consumidor. No início deste ano, a Amazon realocou grande parte da equipe por trás do Astro e contratou um especialista em robótica para trabalhar no projeto do robô doméstico.\nA Amazon também comprou recentemente a Fauna Robotics, que construiu um robô de 3,5 pés de altura chamado “Sprout”. Desde a compra da Fauna Robotics, a Amazon formou uma nova divisão chamada internamente de “Grupo de Robótica Pessoal”. Não está claro que tipo de robô doméstico a Amazon está desenvolvendo."
+},
+{
+"id": "61ae0a69b50a21",
+"t": "“Robôs vestíveis podem ser experimentados e comprados como jeans”... Até aluguéis aparecem em lojas de montagem.",
+"r": "Os robôs vestíveis estão se tornando um produto de consumo diário, e os serviços que permitem que os robôs sejam usados ​​e depois comprados em lojas off-line ou alugados em atrações turísticas ou em casa estão se espalhando. A acessibilidade dos consumidores aumentou devido ao aumento da procura de assistência para…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/09/F4TJBVNPMNFUHKPIZ7MVTTGRLI/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-09T19:09-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "\"웨어러블 로봇도 청바지처럼 입어보고 산다\"…피팅숍에 렌털까지 등장",
+"lg": "ko",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "Os robôs vestíveis estão se tornando um produto de consumo diário, e os serviços que permitem que os robôs sejam usados ​​e depois comprados em lojas off-line ou alugados em atrações turísticas ou em casa estão se espalhando. A acessibilidade dos consumidores aumentou devido ao aumento da procura de assistência para caminhar devido ao envelhecimento da população e à redução do peso dos produtos, e as experiências nas lojas também estão a refletir-se no desenvolvimento de novos produtos."
 },
 {
 "id": "8514c7885b3b7f",
@@ -24837,7 +24921,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 2
+"mx": 3
 },
 {
 "id": "a0af38de983a35",
@@ -24857,7 +24941,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Politico",
-"mx": 2
+"mx": 3
 },
 {
 "id": "0489b804fec531",
@@ -24879,7 +24963,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "0968cbd7b33ac4",
@@ -24899,7 +24983,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 9 de novembro que a mídia coreana The Elec informou recentemente que a Samsung SDI fornecerá baterias para o robô humanóide Atlas desenvolvido pela Boston Dynamics (uma subsidiária de robótica do Hyundai Motor Group). Embora a LG New Energy também tenha sido selecionada como fornecedor, devido à capacidade de produção limitada, espera-se que a Samsung SDI seja responsável por quase todas as remessas iniciais e permaneça como fornecedor exclusivo por um período de tempo.\nAo mesmo tempo, o Atlas planeja ser produzido em massa em 2028 ou mais tarde. A Hyundai Motor entregou os negócios relacionados à Atlas para sua subsidiária de peças automotivas Hyundai Mobis (IT Home Note: Hyundai Mobis)."
 },
 {
@@ -24920,7 +25004,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "De acordo com notícias da IT House em 9 de novembro, Tianyi Telecom Terminal Co., Ltd. (referida como \"E-Yi Telecom Terminal\") e Shenzhen Ubite Technology Co., Ltd. (referida como \"Ubite\") assinaram um acordo de cooperação estratégica abrangente hoje (9 de novembro). As duas partes chegaram a um consenso sobre a cooperação estratégica em áreas como promoção de robôs em larga escala, inovação e pesquisa conjunta, inovação de modelos de negócios, criação de cenários de aplicação, embalagem de componentes de capacidade e co-construção de ecologia industrial.\nNos próximos três anos, as duas partes promoverão conjuntamente a escala da indústria de terminais de robôs domésticos para exceder um milhão de unidades, promoverão a escala de robôs humanóides superbiônicos, robôs humanóides com rodas e outras indústrias de terminais para exceder 100.000 unidades, tornando os robôs um importante ponto de contato para serviços de IA e um ponto de entrada inovador para cenários de aplicação típicos."
 },
 {
@@ -24933,7 +25017,8 @@
 "i": "",
 "d": "2026-11-09T06:46-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"medicina"
 ],
 "l": 0,
 "to": "独家对话「艾莫机器人」施晓鑫：人形机器人的终局，一半在“手”上",
@@ -24941,52 +25026,376 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
-"id": "05ab39c901d7b0",
-"t": "Midas H&T coloca ‘pele eletrônica’ nas mãos humanóides da Samsung",
+"id": "787520c6f50a9a",
+"t": "NVIDIA “Coréia, um país-chave em IA física”… Acelerando a inovação em robôs com Hyundai Motor Company, LG e Doosan",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01ZFJNRGRmUVZldUl1RWFBeWg3dUt5Uk4wM0tnQnZGMHdOd1lOdUxIUGtab1dyUmJiWGx4aWw1R2NkdUoxblBqcEZJNG9KSnNhVDdhVjNn?oc=5",
+"u": "https://zdnet.co.kr/view/?no=20261109115937",
 "f": "지디넷코리아",
 "s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-09T22:46-03:00",
+"i": "https://image.zdnet.co.kr/2026/11/09/d2680dd1ef11c3a244cd689e376f5844.jpg",
+"d": "2026-11-09T00:03-03:00",
 "c": [
-"humanoides"
+"ia"
 ],
 "l": 0,
-"to": "마이다스H&T, 삼성 휴머노이드 손에 '전자피부' 입힌다",
+"to": "엔비디아 \"韓, 피지컬 AI 핵심 국가\"…현대차·LG·두산과 로봇 혁신 가속",
 "lg": "ko",
-"p": 3.0,
+"p": 3.2,
 "cr": 2,
-"cv": "ZDNet Korea"
+"cv": "ZDNet Korea",
+"mx": 0
 },
 {
-"id": "c8284c8eff963e",
-"t": "Conversa exclusiva com Shi Xiaoxin: Metade do jogo final para robôs humanóides está em nossas mãos - 36 Krypton",
+"id": "d42dd24cb56114",
+"t": "Incorporação de funções de simulação física para trabalho com guindaste de torre na plataforma de implementação de campo robótico",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nS3dzTUw2RVBCQ0FDb09Oa19YbnVHc1RwVEJGMF8xcEZjclRxQmd4WjVsWk9qVFdxX3duUVZyMXNiRnVjUXZoODQyQmRKWmJ4?oc=5",
-"f": "36kr",
-"s": "36kr.com",
-"i": "",
-"d": "2026-11-09T22:51-03:00",
+"u": "https://ai.watch.impress.co.jp/docs/news/2154780.html",
+"f": "株式会社インプレス",
+"s": "ai.watch.impress.co.jp",
+"i": "https://ai.watch.impress.co.jp/img/aiw/list/2154/780/0200.jpg",
+"d": "2026-11-09T01:12-03:00",
 "c": [
-"humanoides"
+"ia"
 ],
 "l": 0,
-"to": "独家对话施晓鑫：人形机器人的终局，一半在手上-36氪",
-"lg": "zh",
-"p": 3.0,
+"to": "ロボットの現場実装基盤にタワークレーン作業の物理シミュレーション機能を組み込み",
+"lg": "ja",
+"p": 3.2,
 "cr": 2,
-"cv": "36Kr"
+"cv": "Impress Watch",
+"mx": 0
+},
+{
+"id": "e823ca7369e4f5",
+"t": "Explorando materiais de bateria totalmente em estado sólido, melhorando a eficiência com sistemas experimentais robóticos: Automatizando o trabalho de síntese mecanoquímica",
+"r": "",
+"u": "https://eetimes.itmedia.co.jp/ee/articles/2611/09/news024.html",
+"f": "EE Times Japan",
+"s": "eetimes.itmedia.co.jp",
+"i": "https://image.itmedia.co.jp/ee/articles/2611/09/cover_news024.jpg",
+"d": "2026-11-09T01:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "全固体電池材料の探索、ロボット実験システムで効率化：メカノケミカル合成作業を自動化",
+"lg": "ja",
+"p": 3.2,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 0
+},
+{
+"id": "483a7f86a8eb79",
+"t": "Minseok Kim “Gyeongbuk, desenvolvendo uma base central para IA e indústrias de robôs”",
+"r": "",
+"u": "https://www.etnews.com/20261109000261",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/rcv.YNA.20261109.PYH2026110905080005300_P1.jpg",
+"d": "2026-11-09T01:57-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "김민석 “경북, AI·로봇 산업 핵심 거점 육성”",
+"lg": "ko",
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
+},
+{
+"id": "a6d6b90c901c07",
+"t": "Goke planeja série de chips AI GK6950 Edge para robôs incorporados, com 10 TOPS e suporte VLA",
+"r": "",
+"u": "https://pandaily.com/goke-gk6950-edge-ai-chip-embodied-robots-10-tops-vla",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/goke_5fe17431ee.png",
+"d": "2026-11-09T03:57-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Goke Plans GK6950 Edge AI Chip Series for Embodied Robots, With 10 TOPS and VLA Support",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 0
+},
+{
+"id": "e03450af531029",
+"t": "\"Shurouga\", que apareceu em \"Super Robot Wars Z\", juntou-se à série RIOBOT. Lançado em junho de 2027",
+"r": "",
+"u": "https://hobby.watch.impress.co.jp/docs/news/2154851.html",
+"f": "hobby Watch",
+"s": "hobby.watch.impress.co.jp",
+"i": "https://hobby.watch.impress.co.jp/img/hbw/list/2154/851/main.jpg",
+"d": "2026-11-09T04:41-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "「スーパーロボット大戦Z」にて登場した「シュロウガ」がRIOBOTシリーズに参戦。2027年6月に発売",
+"lg": "ja",
+"p": 3.2,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 0
+},
+{
+"id": "8407a36485efe3",
+"t": "Para a Black Friday 2026, este limpador Roborock classificado como 4,5/5 perde € 112,00",
+"r": "",
+"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ace-combo-a-449-00-21-n267042.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/24/244383/1c9afcd1-roborock-f25-ace-combo__1200_678__207-422-2007-1367_wtmk.webp",
+"d": "2026-11-09T05:28-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Pour le Black Friday 2026, ce nettoyeur Roborock noté 4,5/5 perd 112,00 €",
+"lg": "fr",
+"p": 3.2,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 0
+},
+{
+"id": "f9cfb791722959",
+"t": "Teste Ultramarine P1: quanto vale o primeiro robô de piscina da Ecovacs, vendido a 549 euros?",
+"r": "",
+"u": "https://www.01net.com/tests/test-ultramarine-p1-que-vaut-le-premier-robot-piscine-decovacs-vendu-a-549-euros.html",
+"f": "01net.com",
+"s": "01net.com",
+"i": "https://www.01net.com/app/uploads/2026/08/20260712_162957-1600x900.jpg",
+"d": "2026-11-09T06:01-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Test Ultramarine P1 : que vaut le premier robot piscine d’Ecovacs vendu à 549 euros ?",
+"lg": "fr",
+"p": 3.2,
+"cr": 2,
+"cv": "01net",
+"mx": 0
+},
+{
+"id": "0ae5d05fc735ed",
+"t": "Os robôs do tipo pé vão além da demonstração em instalações industriais... Tarefas para garantir segurança e confiabilidade",
+"r": "",
+"u": "https://www.etnews.com/20261109000411",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.d0d334423add4b7b94264901c11c6e56_P1.jpg",
+"d": "2026-11-09T06:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "족형로봇, 실증 넘어 산업 현장으로…안전·신뢰성 확보 과제",
+"lg": "ko",
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
+},
+{
+"id": "5014410d3b9489",
+"t": "Esses braços robóticos são movidos por algas. Observe como eles se movem",
+"r": "",
+"u": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+"f": "WIRED",
+"s": "wired.com",
+"i": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
+"d": "2026-11-09T07:30-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "WIRED",
+"mx": 0
+},
+{
+"id": "2be73a30e2b967",
+"t": "A guerra de preços na ampla indústria de robôs começa em 2025. As marcas estabelecem uma linha de morte de mil yuans para remodelar a estrutura do mercado.",
+"r": "",
+"u": "https://eu.36kr.com/zh/p/4063141052372869",
+"f": "eu.36kr.com",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261110/v2_e1d54355268146feb2909b1b8d2e910e@1743780481@ai_oswg808398oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-09T10:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "2025扫地机器人行业价格战开启 品牌划定千元级斩杀线重塑市场格局",
+"lg": "zh",
+"p": 3.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "eaa05b1162dc51",
+"t": "Encontre um lugar para soldar por conta própria... O 'robô de soldagem' da China",
+"r": "",
+"u": "https://www.etnews.com/20261109000285",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.dd5694e888ab44e299d031f1be7aee45_P1.jpg",
+"d": "2026-11-09T10:30-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "용접할 곳도 스스로 찾는다…중국의 '용접 로봇'",
+"lg": "ko",
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
+},
+{
+"id": "eaf92ecd200c1a",
+"t": "Waymo robotaxis continuou passando ilegalmente por ônibus escolares após correção de software, dizem os federais",
+"r": "",
+"u": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+"f": "TechCrunch",
+"s": "techcrunch.com",
+"i": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+"d": "2026-11-09T12:24-03:00",
+"c": [
+"autonomos",
+"educacao"
+],
+"l": 0,
+"to": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "TechCrunch",
+"mx": 0
+},
+{
+"id": "08d880f32d15c0",
+"t": "Este robô pensa que está mirando em uma maçã, mas é uma boneca que está sob sua faca",
+"r": "",
+"u": "https://www.numerama.com/tech/2370721-ce-robot-croit-viser-une-pomme-mais-cest-un-poupon-qui-se-trouve-sous-son-couteau.html",
+"f": "Numerama",
+"s": "numerama.com",
+"i": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/1-12.png?resize=1600,900&key=ed48dba6",
+"d": "2026-11-09T12:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Ce robot croit viser une pomme, mais c’est un poupon qui se trouve sous son couteau",
+"lg": "fr",
+"p": 3.2,
+"cr": 2,
+"cv": "Numerama",
+"mx": 0
+},
+{
+"id": "b58e338a6aecc2",
+"t": "Uber lança serviço de estacionamento após aquisição da SpotHero, de olho nos robotáxis",
+"r": "",
+"u": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+"f": "TechCrunch",
+"s": "techcrunch.com",
+"i": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1200,640",
+"d": "2026-11-09T14:00-03:00",
+"c": [
+"autonomos",
+"negocios"
+],
+"l": 0,
+"to": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "TechCrunch",
+"mx": 0
+},
+{
+"id": "d0845520261718",
+"t": "Insight sobre como a ‘natureza não dá saltos’ promete melhores previsões de robôs",
+"r": "",
+"u": "https://www.theregister.com/ai-and-ml/2026/11/09/insight-about-how-nature-makes-no-leaps-promises-better-robot-predictions/5308301",
+"f": "The Register",
+"s": "theregister.com",
+"i": "https://image.theregister.com/5308397.jpg?imageId=5308397&x=0&y=12.81&cropw=100&croph=63.55&panox=0&panoy=12.81&panow=100&panoh=63.55&width=1200&height=683",
+"d": "2026-11-09T14:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Insight about how 'nature makes no leaps' promises better robot predictions",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "The Register",
+"mx": 0
+},
+{
+"id": "4235a4491c24b4",
+"t": "Ecovacs Winbot Mini 2: o robô que lava as janelas por si perde 100€",
+"r": "",
+"u": "https://www.lesnumeriques.com/divers-electromenager/le-robot-laveur-de-vitres-ecovacs-winbot-mini-2-est-a-199-33-n267055.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/267055/1998a960-le-robot-laveur-de-vitres-ecovacs-winbot-mini-2-est-a-199-33__1200_678__26-314-2048-1375.webp",
+"d": "2026-11-09T14:31-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ecovacs Winbot Mini 2 : le robot qui lave les fenêtres à votre place perd 100 €",
+"lg": "fr",
+"p": 3.2,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 0
+},
+{
+"id": "f43218e9011daa",
+"t": "A Tesla aposentou os três carros que a tornavam desejável. Os dois que sobraram têm outra função: pagar o robotáxi",
+"r": "",
+"u": "https://www.xataka.com/movilidad/tesla-ha-jubilado-tres-coches-que-hacian-deseable-dos-que-quedan-tienen-otro-trabajo-pagar-robotaxi",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/6a9b2d/tesla/840_560.jpeg",
+"d": "2026-11-09T15:01-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla ha jubilado los tres coches que la hacían deseable. Los dos que quedan tienen otro trabajo: pagar el robotaxi",
+"lg": "es",
+"p": 3.2,
+"cr": 2,
+"cv": "Xataka",
+"mx": 0
 },
 {
 "id": "f3fb5f987dc86c",
 "t": "Boston Dynamics coloca rodas no robô humanóide Atlas para que ele possa pular e girar",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJbm1BTGxVd2RlTUdGbXE1WXVsM1JPQzhyT2s2V3Qzc3NpNXA2S2dZVWdnalc4ZmJDLUFUdFVJN0dyWTFHYmJ1TTRGOFg?oc=5",
+"u": "https://www.ithome.com/1/024/697.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -24999,33 +25408,14 @@
 "lg": "zh",
 "p": 3.0,
 "cr": 2,
-"cv": "IT之家 (IThome)"
-},
-{
-"id": "787520c6f50a9a",
-"t": "NVIDIA “Coréia, um país-chave em IA física”… Acelerando a inovação em robôs com Hyundai Motor Company, LG e Doosan",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVUZWc1VKSG1mY2NybFFMYVhUOEd5cGZrMGpJVm50UEZJZE8yQmhRWkcwNU9CSjJqU0dpNWtFb1Y2LTk0TVdJUThnRzh4MDNRVzU1UEtB?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-09T00:03-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "엔비디아 \"韓, 피지컬 AI 핵심 국가\"…현대차·LG·두산과 로봇 혁신 가속",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ZDNet Korea",
+"cv": "IT之家 (IThome)",
 "mx": 0
 },
 {
 "id": "f2de398e54e24f",
 "t": "Robôs de vendas eletrônicas recomendados para pequenas e médias empresas em 2026: 8 cenários de speed dating para escolher",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JeDZobzl4RkhUa2Q1TGNnVGliOUdJUUpLQktNelFEWnBhMXdPY3BaMmZMNXR1aWN6SWdtdUQ4LVd0X0xSNXlCOU9Tc2I?oc=5",
+"u": "https://www.ithome.com/1/024/084.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -25038,73 +25428,14 @@
 "lg": "zh",
 "p": 2.2,
 "cr": 2,
-"cv": "IT之家 (IThome)"
-},
-{
-"id": "d42dd24cb56114",
-"t": "Incorporação de funções de simulação física para trabalho com guindaste de torre na plataforma de implementação de campo robótico",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtMTFYSmFVUHNpTE9KaTV4SGQ0b2lRR0hPX1JHS1M0ZmZQZU0xdGR5NXl5M01wUVo1Q2tsSHcxX1RpVDZVVkN4V2tZQkdBUjBiZmJpbDFCcmsxR19kZWRINndKZw?oc=5",
-"f": "株式会社インプレス",
-"s": "ai.watch.impress.co.jp",
-"i": "",
-"d": "2026-11-09T01:12-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "ロボットの現場実装基盤にタワークレーン作業の物理シミュレーション機能を組み込み",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "Impress Watch",
-"mx": 0
-},
-{
-"id": "e823ca7369e4f5",
-"t": "Explorando materiais de bateria totalmente em estado sólido, melhorando a eficiência com sistemas experimentais robóticos: Automatizando o trabalho de síntese mecanoquímica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmRmRUM3RUeS1OMXNyNXVKcV80Q3M1TjloaDRubDdjbjhWWndlVFVLVVg2RWdZVzhMVGFLWlVMbzB0XzRYWE0wdXN1VC1KMjJ2d0F4cXYta1FVdnVPVFlEZkxBV0ZPdnRLbW0tRWxtSQ?oc=5",
-"f": "EE Times Japan",
-"s": "eetimes.itmedia.co.jp",
-"i": "",
-"d": "2026-11-09T01:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "全固体電池材料の探索、ロボット実験システムで効率化：メカノケミカル合成作業を自動化",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "ITmedia",
-"mx": 0
-},
-{
-"id": "483a7f86a8eb79",
-"t": "Minseok Kim “Gyeongbuk, desenvolvendo uma base central para IA e indústrias de robôs”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxdXNISUhWN0JicFB4WDNaQlNuR2JxWVBESkJVRlBQTmRWTmEycnZfb2FBOXdlZDhaQng0dk1GYmR1Vm0wa3hEb29JNVVxQQ?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T01:57-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "김민석 “경북, AI·로봇 산업 핵심 거점 육성”",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews",
+"cv": "IT之家 (IThome)",
 "mx": 0
 },
 {
 "id": "68da5c2dcf008f",
 "t": "Análise de marca do robô de chamada externa inteligente 2026: comparação horizontal e guia de compra de sete produtos convencionais",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iMWhUN1ZDRUNwaC16VktoZjZDemY0R25YaHNSbnpwMnpmRkR1eTRFWHBINU5oZ0NPSmpCNnlLTWxXcThvU0twSnNlM28?oc=5",
+"u": "https://www.ithome.com/1/024/200.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -25117,13 +25448,14 @@
 "lg": "zh",
 "p": 2.2,
 "cr": 2,
-"cv": "IT之家 (IThome)"
+"cv": "IT之家 (IThome)",
+"mx": 0
 },
 {
 "id": "5b528f9bf17201",
 "t": "Relatórios financeiros detalhados de Roborock e Ecovacs: O cenário competitivo de robôs de varredura passou por algumas mudanças significativas",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pMHJETTVDTnRxTWZNNno4T0dJXzJ2aTFUX0RxeGpua1ZsalJpcVR3RUUtUE85UHZoYzd5Vy15dFpUdkVGeko1amlYd0RFdw?oc=5",
+"u": "https://m.36kr.com/p/4061933662918281",
 "f": "36氪",
 "s": "m.36kr.com",
 "i": "",
@@ -25140,30 +25472,10 @@
 "mx": 0
 },
 {
-"id": "a6d6b90c901c07",
-"t": "Goke planeja série de chips AI GK6950 Edge para robôs incorporados, com 10 TOPS e suporte VLA",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fTkxIN1ZzSGJQWGhCQVBfbmdEb3ptLXotM0tLUmpabnZkclItZUpvTnlYMGFWRmd6bzhpSC13a1A2R2FHNi10b0NsWTQ1eU1XTTdvcFlzWWh4TnBfbDFpaFVxclpBUUlZcjJtOVdZa2Q0R0tILXo0RXY2LXhRUQ?oc=5",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "",
-"d": "2026-11-09T03:57-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "Goke Plans GK6950 Edge AI Chip Series for Embodied Robots, With 10 TOPS and VLA Support",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Pandaily",
-"mx": 0
-},
-{
 "id": "60d2abc3d959fb",
 "t": "Qiyuan Liu Dongfang: Quando os robôs entram em casa, segurança, autoridade e privacidade devem ser colocadas no centro",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyTEtkMHVrTnE2NzRDTTJibUpwVjFHVVZNS0RyOXo1S3cxeDRNOUpvbzJjLTFWYTZtZFY2TUtNRFYyQ05UOXBBbDc1LS0?oc=5",
+"u": "https://www.ithome.com/1/024/297.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -25180,70 +25492,10 @@
 "mx": 0
 },
 {
-"id": "e03450af531029",
-"t": "\"Shurouga\", que apareceu em \"Super Robot Wars Z\", juntou-se à série RIOBOT. Lançado em junho de 2027",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdXBXWG5tTG56T1RTWG5yOGhlYng4a1pKYTQ4cWZIU2dlb0lBQU1PQUVfUU9tVVR2SnRJSGlIOTBBVzM1TTVXVTZVbUxXcWlSc09fWFRaWUhKdXE5dVF3ejEzSGs4Vkk?oc=5",
-"f": "hobby Watch",
-"s": "hobby.watch.impress.co.jp",
-"i": "",
-"d": "2026-11-09T04:41-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "「スーパーロボット大戦Z」にて登場した「シュロウガ」がRIOBOTシリーズに参戦。2027年6月に発売",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "Impress Watch",
-"mx": 0
-},
-{
-"id": "8407a36485efe3",
-"t": "Para a Black Friday 2026, este limpador Roborock classificado como 4,5/5 perde € 112,00",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUt5aUlRSWtfTksyazA0S19pRFVkT3JSczRZdmRjSDhyRElEQ0c2QmxYNXJxajFIbWdCUG9SWFNrYkJxNk96NFpHZGtZWXJSOVpQaW40RXhXS1dPdnRmVklxSkxmaXBQSmRvRzZCdkpnNnpPNHBNc196ZkYyM1EyQmR3SDJDdkJ4bkc3M3NqcWNXdTV4TkhoMFpGaUZveXpZM21fbE5IQzU0MmktS0JFLU9QQVFVR3lsYy13SzBMZFc2UFdXVkl4eg?oc=5",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-09T05:28-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Pour le Black Friday 2026, ce nettoyeur Roborock noté 4,5/5 perd 112,00 €",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
-},
-{
-"id": "f9cfb791722959",
-"t": "Teste Ultramarine P1: quanto vale o primeiro robô de piscina da Ecovacs, vendido a 549 euros?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JNRGZvS2pDNkdCdGxHc2dtZTB4QWZMQ3NWMktOVGZLeTJSY29UR3dPNE55RHR2c0lsejEwYm9HaGdPMXVheVlsNFBLc0pGb3RSU3BlY2RFb1VUU1dydzZSYjlVTHlublA4dDNBSno4al8yckpNVWdBTVBWSHpmQm1HZVQxamY4OGhyTDA1TFMtOVAxeHIzRHl1X0N5M1QxR2RUWTZCU1gzc1BiTUFLcXVpZw?oc=5",
-"f": "01net.com",
-"s": "01net.com",
-"i": "",
-"d": "2026-11-09T06:01-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Test Ultramarine P1 : que vaut le premier robot piscine d’Ecovacs vendu à 549 euros ?",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "01net",
-"mx": 0
-},
-{
 "id": "798beb88ef10e1",
 "t": "O robô padrão Roborock P30 para varrer e limpar o tanque de água já está disponível: sucção 25000Pa, design sem lavagem e coleta de poeira, 2.999 yuan",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00M0VaNmI2MVcxQTY4RTJnXzItanEwM05WY0VkRTJzMlE3cUpUdXhORjB2eFpkT2lOQ2t3TGd2VXIxMzNPUUVaMDFINl8?oc=5",
+"u": "https://www.ithome.com/1/024/372.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -25260,50 +25512,10 @@
 "mx": 0
 },
 {
-"id": "0ae5d05fc735ed",
-"t": "Os robôs do tipo pé vão além da demonstração em instalações industriais... Tarefas para garantir segurança e confiabilidade",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fd0k5RTBFWUw2QlNhYjAya2MzYWxoandKLXRkdTV2ZG45WlVlaGhmNjA2QVhUWm52ZVFJaTNJTDk0ZGJ4TEMyUG01dmVYdw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T06:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "족형로봇, 실증 넘어 산업 현장으로…안전·신뢰성 확보 과제",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
-"id": "5014410d3b9489",
-"t": "Esses braços robóticos são movidos por algas. Observe como eles se movem",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjlqaUF2cHZrMUVvLTY4bGZXOG1Sc0VSRFRrdG0tZzRuMHJ4LVdVVXRjM0JYbW5aRnFDZzBueVNtam9Ra0xocW50djdXTDFSQW9xSGFETmZsLUxnZE1ucnBBZ0t1cHpWM0VMY21wcjBBWmg2My1wY1g0WkVXWS10b05ySjBuU2duWUJJVnF3?oc=5",
-"f": "WIRED",
-"s": "wired.com",
-"i": "",
-"d": "2026-11-09T07:30-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "These Robotic Arms Are Powered by Algae. Watch How They Move",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "WIRED",
-"mx": 0
-},
-{
 "id": "fda192e9dfadf6",
 "t": "O robô varredor começa a traçar uma \"linha de morte\"",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5POTUwT05GbnNiRnA0WUhCd2ZaRG1mQUMxWkdndVF2alJ0T19LclA4cTFqSlpDandFZlA4ZWtyWW96WERHbHRRb3lMTkhaQQ?oc=5",
+"u": "https://m.36kr.com/p/4063141052372869",
 "f": "36氪",
 "s": "m.36kr.com",
 "i": "",
@@ -25320,50 +25532,10 @@
 "mx": 0
 },
 {
-"id": "2be73a30e2b967",
-"t": "A guerra de preços na ampla indústria de robôs começa em 2025. As marcas estabelecem uma linha de morte de mil yuans para remodelar a estrutura do mercado.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOWm5tVUZxS1o1Y0x1bFpwOEdIR0NvZWp0bkJfdEVlSVJnSE1OenRhMUN2VHlnN3NqZU1mazVWTzNFSW52VmtPWTA4VGtlSTZSQUZj?oc=5",
-"f": "eu.36kr.com",
-"s": "eu.36kr.com",
-"i": "",
-"d": "2026-11-09T10:27-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "2025扫地机器人行业价格战开启 品牌划定千元级斩杀线重塑市场格局",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "36Kr",
-"mx": 0
-},
-{
-"id": "eaa05b1162dc51",
-"t": "Encontre um lugar para soldar por conta própria... O 'robô de soldagem' da China",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NQVVxYlVzX2NNSUYwTEo2SlYyT05VUndYUUIydHBhSVBzWDdiallyeTlaSktSVkxMdWpwM01ibG01UV9vWVFnalRKSkppdw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T10:30-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "용접할 곳도 스스로 찾는다…중국의 '용접 로봇'",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
 "id": "cfe1f357691b33",
 "t": "A pesquisa mostra que o OpenAI ChatGPT é responsável por mais de 81% do tráfego global de chatbot de IA, liderando o caminho",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FOXNtWjlhWXZreVBXTER4aEQ2cHZUWk1FYllSSlBoLUNub3pNWldmazNsU1VscTRKNkpiVU1pXy12WEtCdzU5c0xCMmQ?oc=5",
+"u": "https://www.ithome.com/1/024/542.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -25376,53 +25548,14 @@
 "lg": "zh",
 "p": 2.2,
 "cr": 2,
-"cv": "IT之家 (IThome)"
-},
-{
-"id": "eaf92ecd200c1a",
-"t": "Waymo robotaxis continuou passando ilegalmente por ônibus escolares após correção de software, dizem os federais",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHAyT29aeEtEZEtVQ2dGOGlvYTNJcFJYVFNOT1MydzdKcHVrOGZIQzZ0SklUY1NEaTY1QXRiOHJXcHVYVVk4bTRtLVJDejhJdmZ3c1dyQ3VCWXRCMlZlMjZlTWtjc2tQclJDZWdhTVBQUkREX3VTN2ozMmpLNTBhV1RvYjVkcGdaQVZ4M2taYmQxTGVfc29iRXJfY3otTDVTWVVPc240bGFoZHlUSnlZbjEwMTI?oc=5",
-"f": "TechCrunch",
-"s": "techcrunch.com",
-"i": "",
-"d": "2026-11-09T12:24-03:00",
-"c": [
-"autonomos",
-"educacao"
-],
-"l": 0,
-"to": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "TechCrunch"
-},
-{
-"id": "08d880f32d15c0",
-"t": "Este robô pensa que está mirando em uma maçã, mas é uma boneca que está sob sua faca",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdrZUNabkxZUjZhdVVCMDloUGRISEtpdmRMSnBTTGM0MEZLUEhMeVA4NFZwZFJUVUQyRm9Ud2swTXZDOXVQQUVRZTh0akZfeDNkOFppQzc5RF9MQUlXZGFLeGxyVFBOa2lpZ0ZXZDNjb3pVOUt2OThNZmdfM2p3amhJeDNfXzRWZmlnaXRzaWdlMFcweXEyY2tfYTRpWGFidUo2bm42aElqMF9sc2U1aGNfeUNWZE5pSFZBUGZjMThDQQ?oc=5",
-"f": "Numerama",
-"s": "numerama.com",
-"i": "",
-"d": "2026-11-09T12:25-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Ce robot croit viser une pomme, mais c’est un poupon qui se trouve sous son couteau",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Numerama",
+"cv": "IT之家 (IThome)",
 "mx": 0
 },
 {
 "id": "7c2fc92381096d",
 "t": "Xinsong Robot estabeleceu uma nova empresa em Guangzhou com um capital registrado de 100 milhões-36 krypton",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtanNxYUZ1U2Z3UnZyWlg5dzREWVhQQlljbnljN3YwcG5oVUh3NnhUQzREQmdvZU10azV1a1ZpcS0wRTNkckxreEFEa2gtTmMzQWZ4LXNtNEQ?oc=5",
+"u": "https://36kr.com/newsflashes/4063634908713862",
 "f": "36kr",
 "s": "36kr.com",
 "i": "",
@@ -25439,91 +25572,10 @@
 "mx": 0
 },
 {
-"id": "b58e338a6aecc2",
-"t": "Uber lança serviço de estacionamento após aquisição da SpotHero, de olho nos robotáxis",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajZLaUd0MklFYUpFNkJ5NnBxSXNaUzV4dmtpdXZOWnAzc0t1MGRvLXg2N1RBU1hnWWtrTlh4VW5PbmVBR0dzaWlEMzc0Q2tyRXBwWldUakdTZFd6bzJqOWl3MDd5WV95VThIdks4c25pOUcyZE1OcUJRZnY2aGVObEFlRDAxX0VUYkJQdGFpckgxV2ZRdnJneGxzcXdfN0JyenVxZk4zMEphU0xfbVI4ZkEzMWpaM044a0xNLQ?oc=5",
-"f": "TechCrunch",
-"s": "techcrunch.com",
-"i": "",
-"d": "2026-11-09T14:00-03:00",
-"c": [
-"autonomos",
-"negocios"
-],
-"l": 0,
-"to": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "TechCrunch",
-"mx": 0
-},
-{
-"id": "d0845520261718",
-"t": "Insight sobre como a ‘natureza não dá saltos’ promete melhores previsões de robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWI1eWpsVmxOcC1KY185enM1OUxCREFuTl9SRFNCT09raG05MEpYX0M1OGxaYkxMNElrcFFZNERyaVpIQ0ctckhEdXBqRTFtTHRGRmx4a1lTZUItOGRSM0FFOFU0cWgtNXZMamk1MkJ5aksyWUZiaW84V3V1cFpLRGVMT1lGeDExcFRVZ0o3Yk5idVc5TFhQTmg4aFBINXB4NkRoUEppdGJVdVlzclNnRGZ0cHRkemx3THlfcTdodDB1azl0akxIVGRn?oc=5",
-"f": "The Register",
-"s": "theregister.com",
-"i": "",
-"d": "2026-11-09T14:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Insight about how 'nature makes no leaps' promises better robot predictions",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "The Register",
-"mx": 0
-},
-{
-"id": "4235a4491c24b4",
-"t": "Ecovacs Winbot Mini 2: o robô que lava as janelas por si perde 100€",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNby1mSmZXcFdIRDV3WGY5OGVmUV9QNHV5QXp1SG5OQ0t1ak1vSXNUcE5XOEhZQ19iZWlRWE1xd21IbHgxNFRldWhDWUx1UjRIYUpqcHdmTlM4dW1hTzZpczhxZUhMX1Q5UktMSzh4ZzNDODFjUjdDcW05cXVxeHE0c2RxMUp5d05fMXVTcGZxbmtJTGVBSm41WlhvcjdiaGQtczFiMnBUQU91NEEwamlScTFjMWRpd3JpTXFsSWYxTlNrV1k?oc=5",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-09T14:31-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Ecovacs Winbot Mini 2 : le robot qui lave les fenêtres à votre place perd 100 €",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
-},
-{
-"id": "f43218e9011daa",
-"t": "A Tesla aposentou os três carros que a tornavam desejável. Os dois que sobraram têm outra função: pagar o robotáxi",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlRuOXE3LUZuUTNZSVlYbDRaSDQ0T2dBdmdENzdpZVF6dFhJN002UVFfa1pjdDdCWGFhT1ZrcGNaSkhUYVBSODQzNXliRmQ2OXpkYUhmVUZCdEVFSWRJM0VpbF85RnFJZWZIR1lYN2ktZE90TnZGX0RoRlZjc1FzNTJfMXVvZUdzbFJvRzA3b3ZUa1UzS25mM1hkeWF2OXd6RE5ad1d1MTJQSkFqVDFJdDFEV1YycnZjZURQTnpNbmVRUE82WTU1UUN5WWXSAdIBQVVfeXFMTVVCM2FIYVloZWRKV3BFVWFuNE1UYW1iamZoXzVWNThDTkhaZDk2UEltMExYQXlpUFVqQ0dDTEc4ZVBKd0RnM1JNbVRlYTFydEhXV3M3MTZwZHFjRVc0THppeUs0a0xWdjExMkZfVjc1NkFwY2Jxc2ZrUFlEelBDVDhXVWlhbXZPSW83M3lMY3NTc2Vwb09WZk1MdUloOVIwZmJpS25sRFZKZWhMbE5JY0NLdExDLUlFMlA1WXRwUFZ6SzJiZl82bzlDel9RMHVKZHpR?oc=5",
-"f": "Xataka",
-"s": "xataka.com",
-"i": "",
-"d": "2026-11-09T15:01-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Tesla ha jubilado los tres coches que la hacían deseable. Los dos que quedan tienen otro trabajo: pagar el robotaxi",
-"lg": "es",
-"p": 2.2,
-"cr": 2,
-"cv": "Xataka",
-"mx": 0
-},
-{
 "id": "5d0d82e9d6c525",
 "t": "Os bombeiros carregam “robôs de combate a incêndios” para se esconder da chuva. As piadas feitas pelos robôs não devem ser tratadas apenas como piadas.",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HOEZFRFZ0RE5vTUlkLUtIMHNlUVNtbGhIeXNVbGZtTE40LWVXX2V0Q012aEVkUW5ZYXBnRTdrdEktUXliS29oT3hpdmhMQQ?oc=5",
+"u": "https://m.36kr.com/p/4063719311184772",
 "f": "36氪",
 "s": "m.36kr.com",
 "i": "",
