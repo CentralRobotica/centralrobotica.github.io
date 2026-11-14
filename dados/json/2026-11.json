@@ -164,6 +164,36 @@
 "rx": "O que o Optimus da Tesla será capaz de fazer? Veja o que o robô humanóide demonstrou. Será que será possível lavar roupa a seguir?"
 },
 {
+"id": "98e80ffd135028",
+"t": "Taiwan aprofunda a cooperação tecnológica no Báltico, concentrando-se em oportunidades de negócios de robôs inteligentes",
+"r": "Taiwan continua a aprofundar a sua cooperação científica e tecnológica com os países bálticos, e os robôs inteligentes tornaram-se um novo foco para a cooperação futura. A 25ª Conferência Anual sobre Cooperação Trilateral em Ciência e Tecnologia entre Taiwan, Letónia e Lituânia foi realizada em Vilnius, capital da…",
+"u": "https://udn.com/news/story/7240/9878573",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
+"d": "2026-11-14T02:10-03:00",
+"c": [
+"ia",
+"competicoes"
+],
+"l": 0,
+"to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "Taiwan continua a aprofundar a sua cooperação científica e tecnológica com os países bálticos, e os robôs inteligentes tornaram-se um novo foco para a cooperação futura. A 25ª Conferência Anual sobre Cooperação Trilateral em Ciência e Tecnologia entre Taiwan, Letónia e Lituânia foi realizada em Vilnius, capital da Lituânia.\nA cooperação científica e tecnológica de Taiwan com a Letónia e a Lituânia começou em 2000, disse o Conselho Nacional de Ciência.",
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/7307/9878573?from=edn_related_storybottom",
+"s": "money.udn.com",
+"id": "7294a005ee8b6b"
+}
+]
+},
+{
 "id": "b0222b6e0556da",
 "t": "EXPOLINE conclui com sucesso projeto de logística multimodal para robôs físicos avançados de IA",
 "r": "A Expoline, especialista sul-coreana em exposições internacionais e logística de cargas especiais, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. A Expoline gerenciou o transporte do…",
@@ -451,28 +481,6 @@
 "cv": "El País",
 "mx": 2,
 "rx": "A sexta edição dos prémios Generali Espanha, que teve a CincoDías como meio colaborador, reuniu esta sexta-feira na Fundação Botín, em Madrid, nove iniciativas empresariais: seis delas competiram precisamente nas categorias de sustentabilidade ambiental e impacto social. O primeiro prémio, referente à sustentabilidade ambiental, foi para La Hormiga Verde, que recupera matérias-primas provenientes de resíduos eletrónicos e gera emprego sénior e rural.\nA cena, na discussão inicial na entrega do VI SME EnterPrize Awards, permitiu abordar o desequilíbrio territorial; pouco antes de um reciclador da Extremadura (Ivan del Caz, fundador do Rural Citizen) explicar como cria empregos todos os dias numa zona rural. Por sua vez, Carlos Escudero Segura, CEO da Generali Espanha, destacou o processo que vai desde a primeira ideia até ao negócio."
-},
-{
-"id": "98e80ffd135028",
-"t": "Taiwan aprofunda a cooperação tecnológica no Báltico, concentrando-se em oportunidades de negócios de robôs inteligentes",
-"r": "Taiwan continua a aprofundar a sua cooperação científica e tecnológica com os países bálticos, e os robôs inteligentes tornaram-se um novo foco para a cooperação futura. A 25ª Conferência Anual sobre Cooperação Trilateral em Ciência e Tecnologia entre Taiwan, Letónia e Lituânia foi realizada em Vilnius, capital da…",
-"u": "https://udn.com/news/story/7240/9878573",
-"f": "UDN",
-"s": "udn.com",
-"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
-"d": "2026-11-14T02:10-03:00",
-"c": [
-"ia",
-"competicoes"
-],
-"l": 0,
-"to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 1,
-"rx": "Taiwan continua a aprofundar a sua cooperação científica e tecnológica com os países bálticos, e os robôs inteligentes tornaram-se um novo foco para a cooperação futura. A 25ª Conferência Anual sobre Cooperação Trilateral em Ciência e Tecnologia entre Taiwan, Letónia e Lituânia foi realizada em Vilnius, capital da Lituânia.\nA cooperação científica e tecnológica de Taiwan com a Letónia e a Lituânia começou em 2000, disse o Conselho Nacional de Ciência."
 },
 {
 "id": "f6f570731154c4",
@@ -874,7 +882,8 @@
 "i": "https://cdn.milenio.com/uploads/media/2019/07/31/armar-programar-robots-divertido-despierta.jpg",
 "d": "2026-11-14T18:13-03:00",
 "c": [
-"geral"
+"educacao",
+"competicoes"
 ],
 "l": 0,
 "to": "Estudiantes mexiquenses consiguen segundo lugar en competencia internacional de robótica",
@@ -917,7 +926,8 @@
 "i": "",
 "d": "2026-11-14T17:17-03:00",
 "c": [
-"industriais"
+"competicoes",
+"ia"
 ],
 "l": 0,
 "to": "Welcome, AWE 3.0!",
@@ -926,7 +936,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "AWE 3.0 é um modelo proprietário de base de IA incorporada desenvolvido pela TARS Robotics, um fabricante de Xangai focado em robôs para aplicações industriais. É o componente de software da plataforma robótica da empresa, e não um robô físico ou uma mão robótica. A TARS apresentou o modelo na conferência de robótica ICRA 2026 em Viena, com data de lançamento listada em 2 de junho de 2026. Para leitores que avaliam produtos de IA incorporados, a principal distinção é entre AWE 3.0 como modelo de software subjacente e as plataformas de hardware TARS que ele suporta.\nDe forma mais ampla, o AWE 3.0 representa uma abordagem proprietária em desenvolvimento para IA incorporada, na qual um fabricante traz o desenvolvimento de modelos, dados de treinamento e plataformas robóticas no mesmo esforço de produto."
 },
 {
@@ -5288,6 +5298,26 @@
 "mx": 3
 },
 {
+"id": "9f0fb0ea0a9d6f",
+"t": "Honor provoca ‘Robot Phone’ que combina IA, robótica e imagens de última geração",
+"r": "",
+"u": "https://www.techrepublic.com/fr/article/news-honor-robot-phone/",
+"f": "TechRepublic",
+"s": "techrepublic.com",
+"i": "",
+"d": "2026-11-12T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "Honor Teases ‘Robot Phone’ Blending AI, Robotics, and Next-Gen Imaging",
+"lg": "en",
+"p": 8.2,
+"cr": 2,
+"cv": "TechRepublic",
+"mx": 1
+},
+{
 "id": "beb8ba58d1ebfd",
 "t": "INDROTEK posiciona sua divisão de robótica na vanguarda das crescentes oportunidades industriais de defesa e tecnologia de uso duplo do Canadá",
 "r": "12, 2026 (GLOBE NEWSWIRE) — A Indrocorp Technologies Inc. (“INDROTEK” ou a “Empresa”) destacou hoje a crescente importância estratégica de suas divisões de tecnologia, incluindo a InDro Robotics, à medida que o Canadá avança uma ambiciosa estratégia industrial de defesa nacional e expande significativamente o…",
@@ -5636,7 +5666,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -10364,7 +10394,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-11": [
@@ -11290,7 +11320,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -15006,7 +15036,7 @@
 "i": "https://img.36krcdn.com/hsossms/20261111/v2_1a0068f92a244f8a99da4c9a02d0636b@5888275@ai_oswg994784oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
 "d": "2026-11-11T08:27-03:00",
 "c": [
-"geral"
+"logistica"
 ],
 "l": 0,
 "to": "让机器人有事做，比做机器人更难-36氪",
@@ -16154,36 +16184,6 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 12.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 2,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
-},
-{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -16340,6 +16340,36 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 11.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -17163,36 +17193,6 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
-},
-{
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 2,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -18385,6 +18385,36 @@
 "cr": 3,
 "cv": "La Repubblica",
 "mx": 3
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 1,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "04f31f697e3b0c",
@@ -19921,7 +19951,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/markets-news/B2i%20Digital/8766589/safe-pro-group-awarded-u-s-army-prime-contract-teams-with-anduril-for-super-intelligence-on-ghost-x-drone-for-tank-protection/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"i": "",
 "d": "2026-11-10T22:34-03:00",
 "c": [
 "defesa",
@@ -19934,7 +19964,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1,
+"mx": 9,
 "rx": "AVENTURA, FL — Safe Pro Group Inc. (Nasdaq:SPAI) (“Safe Pro” ou a “Empresa”), um fornecedor de soluções de defesa, segurança e consciência situacional habilitadas para superinteligência (SI), anunciou hoje que recebeu um marco nos EUA. Safe Pro Group Inc. O Exército recebeu um contrato principal sob uma Abertura de Soluções Comerciais (CSO) para Detecção de Ameaças Terrestres por meio de Reconhecimento Aéreo que se concentra na pilha de tecnologia SI da Safe Pro em execução a bordo do drone Anduril Ghost-X, permitindo identificação em tempo real e geolocalização de mais de 150 tipos de ameaças explosivas, incluindo minas terrestres, minas antipessoal, munições cluster e drones FPV de emboscada.\nPara obter mais informações sobre Safe Pro Group Inc., visite https://safeprogroup.com."
 },
 {
@@ -20539,6 +20569,27 @@
 "cv": "Korea Economic Daily",
 "mx": 9,
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Grandes empresas nacionais, como Samsung e LG, receberam um grande número de prêmios de inovação antes da 'CES 2027', a maior exposição mundial de TI e eletrodomésticos, realizada em Las Vegas, EUA, no início do próximo ano. Enquanto a Samsung Electronics, os Estados Unidos que acolhe a CES no dia 10, decidiu pagar 30 biliões de won em dividendos, os maiores de sempre, as distribuições recebidas pelos investidores do fundo negociado em bolsa (ETF) KOSPI 200 também foram divididas por sociedade gestora. Antes de confirmar o dividendo, confirme o depósito com o gestor que já adicionou o valor esperado à distribuição de outubro, e então... Este é um artigo publicado no 'Hankyung Premium 9', plataforma de investimento pago do Korea Economic Daily. Você pode encontrar mais artigos sobre investimento em ações assinando o Hankyung Premium 9 (www.hankyung.com/premium9)..."
+},
+{
+"id": "454a2bb5e08a05",
+"t": "Do hype à realidade comercial: a pesquisa da ABI revela 60 previsões tecnológicas para 2027, incluindo consolidação de data center de IA e crescimento da robótica",
+"r": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8757530/from-hype-to-commercial-reality-abi-research-reveals-60-technology-predictions-for-2027-including-ai-data-center-consolidation-and-robotics-growth/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T11:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "From Hype to Commercial Reality: ABI Research Reveals 60 Technology Predictions for 2027, Including AI Data Center Consolidation and Robotics Growth",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes desenvolvimentos significam para fornecedores de tecnologia, empresas e investidores.\nEntre as 60 previsões, a ABI Research destaca vários desenvolvimentos que ilustram as oportunidades e os desafios futuros: O whitepaper gratuito, 60 tendências tecnológicas que irão e não irão moldar 2027, está disponível para download em https://abi.link/2027-predictions. ABI Research é uma empresa global de inteligência tecnológica posicionada exclusivamente na interseção de provedores de soluções tecnológicas e empresas do mercado final."
 },
 {
 "id": "21b89c17efb7b4",
@@ -26949,7 +27000,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -26978,7 +27029,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -31570,7 +31621,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Nature",
-"mx": 1,
+"mx": 2,
 "rx": "Os minirobôs convencionais controlados magneticamente requerem operação em campos magnéticos altamente uniformes e de alta precisão, o que é impraticável para aplicações em grandes espaços. Neste trabalho, o robô de origami biestável transfere esses requisitos para a geometria pré-programada de sua arquitetura mecânica. Estas estruturas exibem modos de deformação distintos em cada estado estável quando submetidas a perturbações magnéticas de pequena amplitude. Correspondentemente, um sistema de atuação magnética de grande espaço de trabalho é desenvolvido para gerar campos magnéticos pouco uniformes e é capaz de controlar a estrutura de origami biestável para a locomoção e manipulação multimodal desejada. Demonstramos capacidades, incluindo auto-agarramento, captura de objetos e modos de locomoção adaptativos, como rastejar, girar, cambalear, correr, pular e rolar em duas configurações estáveis ​​diferentes."
 },
 {
@@ -31583,7 +31634,7 @@
 "i": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.fa6d7af6205a4ab49ea372fd2a4a0815_P3.png",
 "d": "2026-11-06T00:48-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "로봇 넘어 학습 데이터까지…中 칭무, 한국 피지컬AI 시장 공략",
@@ -31616,6 +31667,48 @@
 "rx": "A Xiaomi Japão lançou o \"Xiaomi Robot Vacuum Cleaner S60\" em 4 de novembro. O preço da campanha antecipada até 12 de novembro é de 26.800 ienes. Aspirador robô com potente poder de sucção de até 28.000Pa. Diz-se que ele é capaz de limpar o lixo do dia a dia, como poeira, partículas de alimentos, rações para animais de estimação e cereais.\nAlém de limpar a sujeira do chão com vibração, você pode usar o aplicativo dedicado “Xiaomi Home” para definir o volume de água em três níveis de acordo com o material do piso e a sujeira. Adota uma escova lateral fixa voltada para fora que pode limpar paredes e cantos da sala."
 },
 {
+"id": "5451979e4af6f4",
+"t": "O ``Exploration Festival 2026 Kyushu'' será realizado nos dias 7 e 8 de novembro, onde as crianças enfrentarão desafios locais usando robôs.",
+"r": "anunciou que o Research Institute for Future Creation STREAM Education (RISE) realizará o \"Exploration Festival 2026\" no sábado, 7 de novembro e domingo, 8 de novembro de 2026 no Kyushu Institute of Technology. O Exploration Festival 2026 é um evento onde as crianças pensam sobre questões da sua área local e propõem…",
+"u": "https://edu.watch.impress.co.jp/docs/news/2154303.html",
+"f": "こどもとIT",
+"s": "edu.watch.impress.co.jp",
+"i": "https://edu.watch.impress.co.jp/img/kit/list/2154/303/main.png",
+"d": "2026-11-06T03:00-03:00",
+"c": [
+"educacao"
+],
+"l": 0,
+"to": "子供たちがロボットで地域課題に挑戦、「探究フェス2026 九州」を11月7日・8日に開催",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "anunciou que o Research Institute for Future Creation STREAM Education (RISE) realizará o \"Exploration Festival 2026\" no sábado, 7 de novembro e domingo, 8 de novembro de 2026 no Kyushu Institute of Technology. O Exploration Festival 2026 é um evento onde as crianças pensam sobre questões da sua área local e propõem soluções utilizando robôs, tecnologia digital, etc.\nNeste evento, as crianças estão programadas para apresentar soluções utilizando robôs e tecnologia digital, com temas como garantir a segurança dos trabalhadores da fábrica e reduzir a carga de trabalho."
+},
+{
+"id": "3f2714e7a56067",
+"t": "A Ucrânia aguçou sua inteligência contra os drones russos e criou um dispositivo para ver o que vêem em tempo real",
+"r": "Uma startup de Kiev construiu um receptor portátil que permite que as tropas ucranianas vejam o que um drone russo vê, ao vivo, enquanto ainda está no ar. Muitos drones russos transmitem as imagens de suas câmeras sem criptografia, para que qualquer pessoa com o receptor certo possa sintonizar. De acordo com a mídia…",
+"u": "https://www.xataka.com/magnet/este-receptor-bolsillo-permite-a-soldados-ucranianos-ver-que-ven-drones-rusos-tiempo-real",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/144b93/d-vision-sdr-detektor/840_560.jpeg",
+"d": "2026-11-06T03:36-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Ucrania ha agudizado el ingenio ante los drones rusos y ha creado un dispositivo para ver lo que ven en tiempo real",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "Uma startup de Kiev construiu um receptor portátil que permite que as tropas ucranianas vejam o que um drone russo vê, ao vivo, enquanto ainda está no ar. Muitos drones russos transmitem as imagens de suas câmeras sem criptografia, para que qualquer pessoa com o receptor certo possa sintonizar. De acordo com a mídia Militarnyi, os números estimam o alcance do receptor em até 10 quilômetros para vídeo analógico em frequências entre 540 megahertz e 6 gigahertz.\nA varredura do receptor cobre a banda de 4,1 a 4,5 gigahertz, que os drones de ataque Molniya da Rússia começaram a usar para vídeo em junho. O Defense News acrescenta que a Rússia já está projetando variantes de drones com vídeos mais difíceis de hackear, citando o Molniya como exemplo."
+},
+{
 "id": "494479a0f3a0b6",
 "t": "Comunicado de imprensa: Demonstração do robô de limpeza comercial \"PUDU ET1\" com largura mínima de passagem de 50 cm. Demonstração/reunião de negócios gratuita em Toranomon, Tóquio, nos dias 27 de novembro e 16 de dezembro (PR TIMES)",
 "r": "",
@@ -31634,6 +31727,27 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
+},
+{
+"id": "74a2b42a95656e",
+"t": "Roborock Saros 20 Flow Complete: melhor preço, teste e novidades",
+"r": "Roborock Saros 20 Fluxo Completo | Aspirador robô | Encontre todas as nossas publicações, melhores preços e boas promoções, testes, análises e novidades sobre este modelo.",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/roborock-20-flow-complete-p79094.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/product/79/79094/a9441023-20-flow-complete__1200_630__0-230-1738-1142.webp",
+"d": "2026-11-06T06:12-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roborock Saros 20 Flow Complete : meilleur prix, test et actualités",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Roborock Saros 20 Fluxo Completo | Aspirador robô | Encontre todas as nossas publicações, melhores preços e boas promoções, testes, análises e novidades sobre este modelo."
 },
 {
 "id": "1fda63e1a5e480",
@@ -31697,6 +31811,48 @@
 "mx": 3
 },
 {
+"id": "03455296784e67",
+"t": "[Robô] [AI] [Câmera GMSL2] 8MP OmniVision \"SG8-OX08DC-G2G-Hxxx\" é uma solução de câmera de alto desempenho que expande as possibilidades de visão de IA, do automotivo à robótica.",
+"r": "Câmeras de alto desempenho que suportam robótica de IA A Asmec Corporation (sede: cidade de Yokohama, província de Kanagawa) começou a lidar com o módulo de câmera de alta resolução \"SG8-OX08DC-G2G-Hxxx\" da Sensing (sede: Shenzhen, China) a partir de 4 de novembro. - Visão geral do produto SG8-OX08DC-G2G-Hxxx é um…",
+"u": "https://ascii.jp/elem/000/004/449/4449342/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-06T16:05-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "【ロボット】【AI】【GMSL2カメラ】8MP OmniVision 車載からロボティクスまで、AIビジョンの可能性を広げる高性能カメラソリューション「SG8-OX08DC-G2G-Hxxx」",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "Câmeras de alto desempenho que suportam robótica de IA A Asmec Corporation (sede: cidade de Yokohama, província de Kanagawa) começou a lidar com o módulo de câmera de alta resolução \"SG8-OX08DC-G2G-Hxxx\" da Sensing (sede: Shenzhen, China) a partir de 4 de novembro. - Visão geral do produto SG8-OX08DC-G2G-Hxxx é um módulo de câmera de alta resolução equipado com sensor de imagem CMOS de 8,3 MP da OMNIVISION \"OX08D10\" e serializador GMSL2 da Maxim \"MAX96717G\"."
+},
+{
+"id": "7c8125bf0519ab",
+"t": "Pessoas-chave da DroneWorld 2026 – Fundadores, CEO e CXOs",
+"r": "Fundada em 2022, a DroneWorld opera em Edtech, oferecendo programas abrangentes de treinamento em tecnologia de drones na Índia. Como organização de treinamento aprovada pela DGCA, ela oferece educação sobre leis de drones, e... Inc42 Datalabs consolida inteligência de registros públicos, registros legais, pesquisas…",
+"u": "https://inc42.com/company/droneworld/people/",
+"f": "Inc42",
+"s": "inc42.com",
+"i": "https://static-asset.inc42.com/social/DroneWorld_datalabs-inc42.jpg",
+"d": "2026-11-06T16:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "DroneWorld Key People 2026 – Founders, CEO & CXOs",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Inc42",
+"mx": 1,
+"rx": "Fundada em 2022, a DroneWorld opera em Edtech, oferecendo programas abrangentes de treinamento em tecnologia de drones na Índia. Como organização de treinamento aprovada pela DGCA, ela oferece educação sobre leis de drones, e... Inc42 Datalabs consolida inteligência de registros públicos, registros legais, pesquisas proprietárias e conjuntos de dados de terceiros verificados. Todas as informações são fornecidas como estão. Faça suas próprias verificações antes de agir. Inc42 Datalabs não se responsabiliza por decisões ou resultados baseados nesses dados."
+},
+{
 "id": "770ea659daf125",
 "t": "Tesla abandona sua decepcionante picape Cybertruck em favor do promissor Cybercab robotaxi",
 "r": "",
@@ -31738,6 +31894,27 @@
 "mx": 3
 },
 {
+"id": "226289dbbfcc7f",
+"t": "O próximo robô de parque temático da Disney pode ajudá-lo a estacionar seu carro antes de conhecer Olaf, um BDX Droid ou outro personagem itinerante",
+"r": "Imagine o seguinte: na próxima vez que você estacionar em um dos muitos estacionamentos da Disneylândia em Anaheim, Califórnia, ou do Walt Disney World em Orlando, Flórida, talvez não seja necessário procurar uma vaga para estacionar. Então, conforme você se aproxima do final do seu local, outro pequeno veículo…",
+"u": "https://www.techradar.com/science/robotics/disneys-latest-robot-experiments-could-change-your-theme-park-visit-before-you-even-get-inside-starting-with-a-robot-straight-out-of-pixars-cars",
+"f": "TechRadar",
+"s": "techradar.com",
+"i": "https://cdn.mos.cms.futurecdn.net/h7MDXkFiQMuNdiqRrQJTSN-2384-80.jpg",
+"d": "2026-11-06T18:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Disney’s next theme park robot might help you park your car before you meet Olaf, a BDX Droid, or another roaming character",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "TechRadar",
+"mx": 1,
+"rx": "Imagine o seguinte: na próxima vez que você estacionar em um dos muitos estacionamentos da Disneylândia em Anaheim, Califórnia, ou do Walt Disney World em Orlando, Flórida, talvez não seja necessário procurar uma vaga para estacionar. Então, conforme você se aproxima do final do seu local, outro pequeno veículo aparece ao seu lado, sua tela piscando 'lento', depois um sinal de positivo e, finalmente, 'tenha um bom dia'. É uma maneira muito mágica de ser recebido em um parque da Disney antes mesmo de entrar, certo?\nComo parte do Disney Accelerator 2026, a Disney está colaborando com a Field AI para testar robôs autônomos em estacionamentos e explorar como eles poderiam ajudar nas operações do parque. Gary Daniels, vice-presidente sênior de tecnologia da Disney Experiences, disse: “Estamos entusiasmados por trabalhar com Field AI, testando a capacidade dos robôs autônomos de guiar os carros para estacionar."
+},
+{
 "id": "c649be92216c42",
 "t": "Robô macio magnético adaptável de programação dupla com comportamento realista",
 "r": "",
@@ -31756,7 +31933,49 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Science",
-"mx": 1
+"mx": 2
+},
+{
+"id": "8c0917cc406172",
+"t": "O robô que foi trabalhar no espaço virou montador de antenas.",
+"r": "Um robô conseguiu pegar peças do espaço, conectá-las e criar uma estrutura de antena. Mostrou a possibilidade de uma tecnologia que vai além do envio da estrutura completa em um foguete, até o transporte de peças e sua montagem no espaço. No dia 5 (horário local), o Instituto de Tecnologia da Califórnia (Caltech)…",
+"u": "https://zdnet.co.kr/view/?no=20261107072030",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/07/676ac6577a2e6e31fbeb2d860e8e46d5.png",
+"d": "2026-11-06T20:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "우주로 출근한 로봇, 안테나 조립공 됐다",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Um robô conseguiu pegar peças do espaço, conectá-las e criar uma estrutura de antena. Mostrou a possibilidade de uma tecnologia que vai além do envio da estrutura completa em um foguete, até o transporte de peças e sua montagem no espaço. No dia 5 (horário local), o Instituto de Tecnologia da Califórnia (Caltech) divulgou os resultados da verificação orbital do sistema robótico ‘ASTRA’. O professor do Caltech Sergio Pellegrino, que liderou a pesquisa, disse: “Esta é a primeira vez que uma estrutura foi construída de forma autônoma no espaço”. A ASTRA, apoiada pela Agência de Projetos de Pesquisa Avançada de Defesa dos EUA (DARPA), monta peças com robôs que se movem ao longo de três eixos retos. A DARPA comparou isso ao método de construção de uma grande estrutura conectando as barras e as partes de um brinquedo pré-fabricado, uma por uma. O dispositivo que fixava as peças durante o lançamento foi liberado, as duas seções da treliça previamente feitas no solo foram empurradas para fora e o robô montou a terceira seção no espaço."
+},
+{
+"id": "1f44240b37034a",
+"t": "[AI Now] “Achei que fosse um mau funcionamento do robô, mas foi hackeado?”… A IA física aumenta as ameaças à segurança",
+"r": "A Gartner alerta para acidentes físicos, como perturbações de sensores e alucinações de IA... À medida que a inteligência artificial (IA) expande o seu âmbito de atividade para o mundo real, incluindo robôs e carros autónomos, as ameaças à segurança cibernética também estão a mudar. Há um alerta de que mesmo que o…",
+"u": "https://zdnet.co.kr/view/?no=20261105173134",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/06/c267e93bfb1bc72195232519f05f0d63.png",
+"d": "2026-11-06T21:32-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "[AI는 지금] \"로봇 오작동인 줄 알았는데 해킹?\"…피지컬 AI, 보안 위협 커진다",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "A Gartner alerta para acidentes físicos, como perturbações de sensores e alucinações de IA... À medida que a inteligência artificial (IA) expande o seu âmbito de atividade para o mundo real, incluindo robôs e carros autónomos, as ameaças à segurança cibernética também estão a mudar. Há um alerta de que mesmo que o julgamento da IA ​​seja distorcido devido a um ataque externo, pode ser difícil distingui-lo do processo normal de adaptação ambiental, o que pode levar a vítimas e acidentes com equipamentos. De acordo com o relatório '5 impactos da IA ​​física e contramedidas nos diretores de segurança da informação (CISOs)' publicado pela empresa de pesquisa de mercado global Gartner no dia 7, descobriu-se que é difícil garantir a segurança da IA ​​física apenas com os sistemas de segurança existentes centrados na rede. Ao contrário dos sistemas de controlo industrial existentes, uma vez que analisa continuamente as informações dos sensores e ajusta o seu comportamento à situação, existe a possibilidade de os atacantes abusarem deste processo de adaptação.\nAtaques como estes podem ser difíceis de detectar nos sistemas de segurança existentes. O Gartner enfatizou: “Os líderes de segurança cibernética devem evoluir suas estratégias de segurança além do controle de rede tradicional para incluir processos de execução em nível de semicondutores, gerenciamento de identidade baseado em espaço, monitoramento independente e proteções físicas baseadas em hardware”."
 },
 {
 "id": "637e462356642a",
@@ -31776,7 +31995,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "9dd5abc9c0550b",
@@ -31796,7 +32015,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1
+"mx": 2
 },
 {
 "id": "19b9bb1f496b35",
@@ -31816,7 +32035,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBS News",
-"mx": 1
+"mx": 2
 },
 {
 "id": "c6699e6aa914d2",
@@ -31836,71 +32055,13 @@
 "p": 3.2,
 "cr": 2,
 "cv": "Sifted",
-"mx": 1
-},
-{
-"id": "5451979e4af6f4",
-"t": "O ``Exploration Festival 2026 Kyushu'' será realizado nos dias 7 e 8 de novembro, onde as crianças enfrentarão desafios locais usando robôs.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpazlmZDRYR1FGZTRMZG84d1RZRDVOR1dLc2R3OGRjRFY0WXpKUk9YbGlPNGNvSnQ2WEhNQzVYQzlDLVRQTWdMZjVQQUlHZEhkWExaZkw0MVZkaWhxbHRjYmEyNGM?oc=5",
-"f": "こどもとIT",
-"s": "edu.watch.impress.co.jp",
-"i": "",
-"d": "2026-11-06T03:00-03:00",
-"c": [
-"educacao"
-],
-"l": 0,
-"to": "子供たちがロボットで地域課題に挑戦、「探究フェス2026 九州」を11月7日・8日に開催",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "Impress Watch"
-},
-{
-"id": "3f2714e7a56067",
-"t": "A Ucrânia aguçou sua inteligência contra os drones russos e criou um dispositivo para ver o que vêem em tempo real",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjBxY2RXN3dncEF4bHVzekZ4NE1nVVBFWWhNejlyaGpoM3M3aENSWThmeGJpTjhyV0JCbUFTM1BFb2loNTY3VHFIbVBNemZtRHlvUDlZZ0tKcmxzRzk2bkQ5SnhDbUJtcDF4YmxabGRPR2R1X1dJYzhsX21oNEhfN1FHNk9tc1RIN21rU0pQeXQ4cFhWRDZkMlJhV1V3RUhFclNyeklCZHJNVWd6SlpUVm53c2VnMVhNVFVN0gHAAUFVX3lxTE1JeVA2M0w3SWlfQnl5RGdTeUg1Q2tJekM4dERZVTlDYW9vTldTNllIWnMwMUFMYWNKN094LW9KWnFKQ2t2MUZxMkF4SmoyWkczUlFZZ3UzaHhCV0tEOUk4YmpMYjdoTHJxU3BLaUl4X0luZ2trd1ZNRWpaMVpfNUhWRkFDOTg2NGM4YUdOcmtNOUxoMVBxMnZCUlNVQmVXTGtEbVppdUdHT1FHc0xTalFWZTBjMGJ5X1N1M3AzS2hSdg?oc=5",
-"f": "Xataka",
-"s": "xataka.com",
-"i": "",
-"d": "2026-11-06T03:36-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Ucrania ha agudizado el ingenio ante los drones rusos y ha creado un dispositivo para ver lo que ven en tiempo real",
-"lg": "es",
-"p": 2.2,
-"cr": 2,
-"cv": "Xataka"
-},
-{
-"id": "74a2b42a95656e",
-"t": "Roborock Saros 20 Flow Complete: melhor preço, teste e novidades",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEhlOVNEVmVKU3MtZVQyWWJJTFByUVNvN3hPSFhaYU1VVVIyMVRLd3R3Z1RYTnAxOEZIaDRFRFA3Vml1QTVFT0hfZlp3UmNDSWNFMzVLZ0YyU1ZsYlBSdVpnaFBkdXRUUXh1MmlPX2NqYmNNRGw3Zk5zb1hqc0lDNUZWM05yWWhUYjQwTQ?oc=5",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-06T06:12-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Roborock Saros 20 Flow Complete : meilleur prix, test et actualités",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 0
+"mx": 2
 },
 {
 "id": "cb5b7e3511bda5",
 "t": "Este jovem de 23 anos está consertando velhos robôs Chuck E. Cheese",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGpvUXd0eVMzdmdXSmJ1Z290VEJBTHR4WGpRX2hWV3NLd1RuWnYxaWE3eHFiWVU3U1Jac0FOdDZ5S1FseTFKZGUxY3BmbHp1dmNidWpqbHR0TW9FZHNlUXZ0UnhWT2RvQUhKTDRZRzExQ3BqS1ZLY1paRHZBZEt0RzFWamlvaXJrVjVqR0hveERPMXM?oc=5",
+"u": "https://gizmodo.com/this-animatronics-wiz-is-resurrecting-dead-robots-for-good-2000833162",
 "f": "Gizmodo",
 "s": "gizmodo.com",
 "i": "",
@@ -31914,106 +32075,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 0
-},
-{
-"id": "03455296784e67",
-"t": "[Robô] [AI] [Câmera GMSL2] 8MP OmniVision \"SG8-OX08DC-G2G-Hxxx\" é uma solução de câmera de alto desempenho que expande as possibilidades de visão de IA, do automotivo à robótica.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yZ3lacnBBc0pEcTBCMkdIallHcU5oU1NBWE5qcl90aURwbnZSVEhaYkZBcVBma05ZMzVzNDVyeUc5RERJRmVDLTNUR2dyQXlzM3VUVg?oc=5",
-"f": "ASCII.jp",
-"s": "ascii.jp",
-"i": "",
-"d": "2026-11-06T16:05-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "【ロボット】【AI】【GMSL2カメラ】8MP OmniVision 車載からロボティクスまで、AIビジョンの可能性を広げる高性能カメラソリューション「SG8-OX08DC-G2G-Hxxx」",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "ASCII.jp",
-"mx": 0
-},
-{
-"id": "7c8125bf0519ab",
-"t": "Pessoas-chave da DroneWorld 2026 – Fundadores, CEO e CXOs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wdUNRYmN4NmJOQ0syMDlkZThaSk03Vk1FR1BGblY0SjVwYmQzZkdzd3pjVDJrZ3NudzFUbmlYT1NrQUhDQ3dZVEZ5R0R2dlVCRXhkaXNQMA?oc=5",
-"f": "Inc42",
-"s": "inc42.com",
-"i": "",
-"d": "2026-11-06T16:25-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "DroneWorld Key People 2026 – Founders, CEO & CXOs",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Inc42",
-"mx": 0
-},
-{
-"id": "226289dbbfcc7f",
-"t": "O próximo robô de parque temático da Disney pode ajudá-lo a estacionar seu carro antes de conhecer Olaf, um BDX Droid ou outro personagem itinerante",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWkY5VGZNaWw2TElUb1ZtVDJoMjhtaVZpZW9YYktrSzZjMFR3VlEtQi1teW9JZ0pBR1FBeWlNUjBGTXVRTjljSE9QYkhiNGtneVRNcjh2ZldRTld6QkxhdHI2SHd3RThVcW5Yb1dJQ2lCSnVmRlJyUE9yQmtKWVJFRzBUNzM5RDg2a1lWSU5kdUFrRXp4dGlXVVRUN3lieVVQeWltQmhYb2lNRzVsRGtJUXZhNThmMVNTeVBmeWpnRXVDNl9pbDNNTWs2Z29oUXd3TTd0cGVNVnlFd2RURnJGV2lVbjBkU2VnQldvbWhEeTI0dnhFYXB3VjkzYzh6M0tlSGx2VVFIX0o3RjBkZDFTZGEyMTczUQ?oc=5",
-"f": "TechRadar",
-"s": "techradar.com",
-"i": "",
-"d": "2026-11-06T18:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Disney’s next theme park robot might help you park your car before you meet Olaf, a BDX Droid, or another roaming character",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "TechRadar",
-"mx": 0
-},
-{
-"id": "8c0917cc406172",
-"t": "O robô que foi trabalhar no espaço virou montador de antenas.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Rk81YTJWNmFrNzlpOFk2c2xPcEI5RmNGYlp1Q2YzRHZnWFh5cTB3WFZtWUl4VXU4cU81UHNJTGpsWVZteTJDSklGOWV4dUhGbmRRckN3?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-06T20:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "우주로 출근한 로봇, 안테나 조립공 됐다",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ZDNet Korea"
-},
-{
-"id": "1f44240b37034a",
-"t": "[AI Now] “Achei que fosse um mau funcionamento do robô, mas foi hackeado?”… A IA física aumenta as ameaças à segurança",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CVjAxdGsxdngtTUNVWmRnR09SNWJwenBjcUloM1pXMGl0cEEzY29HOURyd2psNnlLZkFDdkYwTm1lVnlnX2w2STVFYnRsbE5ybEQxSy13?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-06T21:32-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "[AI는 지금] \"로봇 오작동인 줄 알았는데 해킹?\"…피지컬 AI, 보안 위협 커진다",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
+"mx": 1
 }
 ],
 "2026-11-05": [
@@ -32122,7 +32184,7 @@
 "id": "83b24b66bcd50e",
 "t": "China bloqueia aquisição do negócio de robótica da ABB pela SoftBank por US$ 5,4 bilhões - The New York Times Chinese",
 "r": "O planejador estatal da China disse ao investidor japonês SoftBank que não permitirá que a aquisição de US$ 5,4 bilhões do segmento de robótica do grupo de engenharia ABB avance, disse a empresa suíça na quinta-feira. O caso marca o segundo grande acordo bloqueado pela China este ano depois que a Meta Platforms recebeu ordem de desfazer seus US$ 2…",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWxvc012U01qZkZQSV95Q2JfMUdNYnhudi1IaGVLdEM3bFRLRzBnTTFzbERjUERqVGxVcF9CZE5FUVpnb3NxWm9JeHRacGs3d2EyWmlzaEpobmZ2aU9IV0FfYkNjN09tdWlwbTFkQjJ4aEo2RGVsQ05jTXlwbEhUUXF3YzBLZw?oc=5",
+"u": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/zh-hant/",
 "f": "纽约时报中文网",
 "s": "cn.nytimes.com",
 "i": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/b246212f-6c8b-4f0c-b3d1-9f8a01c5040b_477a852d.jpg?itok=KSa7xc--&v=1793874188",
@@ -32138,13 +32200,13 @@
 "o": [
 {
 "f": "Financial Times",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
+"u": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
 "s": "ft.com",
 "id": "1652e699da0577"
 },
 {
 "f": "The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcHk2SlZ5WG9hajNUTF9jbm5hM2FmdlRULVpyeEhPUXlpbHB4SldTTkJIMlNXMS1rSjB1T0tTeU9YeHJXTWpMYXRQU2NzQUVYenZNWkFOd0hPYXFrYldZNFgwdWYycHJVdXR5VXkwRl96cy1KLUdhamRMZU5uaEFodVZneFA2b3ROT2Z0MG8xS21DTUI2UVpORi1VTXN4S0lkMWJxT3NSQ21lZnN3eXJob0tiRW85WVB0cTFxQl9SRUxxc19VWF9TYUZmdFBzNlNmMWF3bGpBSVIyMWFaVjYyZVhwem9JZ9IB3wFBVV95cUxPNk1DUFlZQzZsYlJVRG5oYVJxRXpYRmQtalROeVNEakV1alVhVDFTNjN0NHEzYzlkQk1lSllsSkhCb3FsQWJGb0w3TFlveXV2WHFIMnY3VzNrdWl3Yi1RU05kUE5PeWhnTkI0Ym5TMUZlNHJIVThWRzRiYnpTMExoRTBpRXI2dTFKODlSWVE4MGFSbnliUlFvZWNFeWdWQzFpY0ZuYUlMVV83LTd0Sm8yeGNvd2p3YnZmSHdHMGJBZ2JvbzE1X29RUF9aUjg4QlJ0SkNNNVk4QlhiYV9EVXc0?oc=5",
+"u": "https://economictimes.indiatimes.com/tech/technology/china-blocks-softbanks-5-4-billion-takeover-of-abbs-robotics-division-ft/articleshow/135565365.cms",
 "s": "economictimes.indiatimes.com",
 "id": "da87b6b64d46bf"
 },
@@ -32250,6 +32312,41 @@
 "mx": 3
 },
 {
+"id": "d1baee1ab27fc1",
+"t": "China bloqueia venda da divisão de robótica da ABB para SoftBank",
+"r": "A China teme que dados e propriedade intelectual possam vazar para o exterior.",
+"u": "https://www.swissinfo.ch/eng/swiss-industry/china-blocks-abbs-sale-of-its-robotics-division-to-softbank/92331115",
+"f": "SWI swissinfo.ch",
+"s": "swissinfo.ch",
+"i": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/4a4f8085b1b52565099231e9543235af3a9a7bef-92330837.jpg?ver=18dd9fdd&fit=1200,900",
+"d": "2026-11-05T05:04-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "China blocks sale of ABB robotics division to SoftBank",
+"lg": "en",
+"p": 7.8,
+"o": [
+{
+"f": "Nikkei Asia",
+"u": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
+"s": "asia.nikkei.com",
+"id": "f5ddff503e48ef"
+},
+{
+"f": "The Economic Times",
+"u": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-blocks-softbanks-5-4-billion-acquisition-of-abb-robotics/articleshow/135596577.cms",
+"s": "economictimes.indiatimes.com",
+"id": "575a0214036b7f"
+}
+],
+"cr": 3,
+"cv": "Swissinfo",
+"mx": 1,
+"rx": "A China teme que dados e propriedade intelectual possam vazar para o exterior."
+},
+{
 "id": "d94f47b36633f7",
 "t": "Agility é a primeira empresa de robôs humanóides puros no mercado de ações. Você está comprando?",
 "r": "A Agility chega hoje à Nasdaq como a primeira empresa de robótica humanóide pura de capital aberto.",
@@ -32270,7 +32367,7 @@
 "o": [
 {
 "f": "TechCrunch",
-"u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5",
+"u": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
 "s": "techcrunch.com"
 }
 ],
@@ -32278,40 +32375,6 @@
 "cv": "TechCrunch",
 "mx": 1,
 "rx": "Quase um ano atrás, Brett Adcock, CEO da Figure AI, respondeu a algumas provocações gentis nas redes sociais da empresa rival de robótica Agility com uma previsão: “Você estará falido em <12 meses”. Em vez disso, a Agility está abrindo o capital por meio de uma fusão reversa que a tornará uma empresa de capital aberto e levantará US$ 465 milhões em novo capital de investidores de varejo e uma parcela de financiamento privado.\n“Você não vê muitos robôs dançando ou dando cambalhotas na Agility”, disse a CEO Peggy Johnson ao TechCrunch antes da estreia da empresa no mercado. A boa notícia é que a Agility tem US$ 300 milhões em contratos planejados de 30 clientes para sua nova geração de robôs, o Digit 5. Ela não quis compartilhar metas de produção para o Digit 5, mas a empresa disse que sua unidade de produção poderia produzir 10.000 robôs anualmente."
-},
-{
-"id": "d1baee1ab27fc1",
-"t": "China bloqueia venda da divisão de robótica da ABB para SoftBank",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHFnYkJqUTRPOUFhVnJNcW1HWkppQzFhS1JGM01vTnozdTNsQ1RuQTYwWUtnUUtYZXZnaTNYbklqdFJwaXlSQ00tSDNYU2p5NU5NSGtiSnZaRldWZXVXMWFLcjF0TXBMaWxtVHdhZjFHYmw2NnBqd0pjUExxT291TlN4Mmt5UjNnMmhqRVF0RHo0UXFXaEZnNVA5RG9VRnR3N1VPeDdQbXFjMkEyLUtHVTJB?oc=5",
-"f": "SWI swissinfo.ch",
-"s": "swissinfo.ch",
-"i": "",
-"d": "2026-11-05T05:04-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "China blocks sale of ABB robotics division to SoftBank",
-"lg": "en",
-"p": 6.5,
-"o": [
-{
-"f": "Nikkei Asia",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2hCWHhTMDZDQllhZ244Z1ZabmhyT01IT1BJSFFSY25vU3pMS090VEU3UlQ3WjZiMGxKVGVuZ2dTR09BRm80cjZVVTBGdnZ5Y0hYZHhwY3cySVBiVTVpNkZ4UGcta3pEUDVUN2JpUktmdXZ6dTJBRkNGRTZmRTRfM0UwdUlDZURlWEFWaXZKbUdoUUNVUnY0alkzakhabTg3VFFUWWtpcjVydEo0?oc=5",
-"s": "asia.nikkei.com",
-"id": "f5ddff503e48ef"
-},
-{
-"f": "The Economic Times",
-"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMFNJTWVJdWsyRkowcDlHcEJuZWVKZTBrbnRJay1VaVBVY2dsZEh4MFp1b2pUSVFZVkpCeUpaOFJLa202dUc4WVB2RzZqMHpBY2RLY3YyT2FOUHctbnBnT0JEbzJNNWU1NlpkM3dXOFl3SFNyTzV5Zjc3elRBQm5fcXcxWDRPRFJORnBuMlRUaUlsRXByVG9TZmNOZUMyWjZBWExZWWxmc1BRLUtCNHFQME9EdzdiVEhqeWQ1WE9wcmZVcmRUakc5VjhobE4zWnVlaDRNUkl0X1FBdnpLN3JrdDFR0gHbAUFVX3lxTE1DSUdZcWVZWHFMYkpweFc3X0NtUkxkVDE0WnJfTFhiMUJ1d3QxVUVCUVV4Z2puTWlldTJKZ1MyNWxBQ1N2SHZhcDZzZjhaaVBkVzFZT1VsZEw5RFRESjhRVHcxcnpFLUktY0FRbVVSWmZ4S25LOGJWQ0QwZXZEb3I3V2V0TmxnYzBKTG9VRG42c0Flcy1icUxxdzBvNHJNV2NvVDVTRVdJQXVweExmLUpYNkZKbHI0ZGx3UkxtVVhTUk9HRWl6NE5LYVpaWl85UkFYQ05UUEJDdVJUaw?oc=5",
-"s": "economictimes.indiatimes.com",
-"id": "575a0214036b7f"
-}
-],
-"cr": 3,
-"cv": "Swissinfo",
-"mx": 0
 },
 {
 "id": "4bec4290b2f6a1",
@@ -32336,7 +32399,7 @@
 "o": [
 {
 "f": "Robotics 24/7",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2ppY1VBVUt5VlFOYUc4cG4zcG5xVnEwVGVQZ05hNFVJWmdzY242bzNRSTk2NTdleWVzUXktRWVsNHBmbE1vbmJjaEZ1UWlIR192V1FLRHhrblpGWXpfaE1DQ3VKTVpBUWRWQmJmX0hDUi1GelRqR1FnUWd5ckFlMGNUbmpjekdPUEgyaTdMNDhSWWg3V2NDcUx3SFZHdkdmcE5TY1hfMXRidG9GUmNyU2ZBbDBhLTZsUUQ1WHRsVVNNQQ?oc=5",
+"u": "https://www.robotics247.com/article/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-at-european-partner-summit",
 "s": "robotics247.com",
 "id": "09580913297b5f"
 }
