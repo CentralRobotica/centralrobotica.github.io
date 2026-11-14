@@ -1,6 +1,27 @@
 {
 "2026-11-14": [
 {
+"id": "fc65a365ebfca7",
+"t": "New Orleans, battello con 180 passeggeri affonda nel fiume Mississippi: le immagini dal drone",
+"r": "",
+"u": "https://stream24.ilsole24ore.com/video/mondo/new-orleans-battello-180-passeggeri-affonda-fiume-mississippi-immagini-drone/AJPN6YGC",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/Lapresse/2026/11/14/large-LP_639167_128.jpg",
+"d": "2026-11-14T04:16-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "New Orleans, battello con 180 passeggeri affonda nel fiume Mississippi: le immagini dal drone",
+"lg": "?",
+"nt": 1,
+"p": 10.5,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 0
+},
+{
 "id": "9ca3d3b5f033db",
 "t": "Expoline completes international logistics project for humanoid robots",
 "r": "Expoline, a South Korean specialist in international exhibition and special cargo logistics, has successfully completed a multimodal transportation and on-site logistics project involving advanced humanoid robots developed by a global physical AI robotics company. The project supported the company’s participation in…",
@@ -224,7 +245,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "El País",
-"mx": 0
+"mx": 1
 },
 {
 "id": "98e80ffd135028",
@@ -269,6 +290,90 @@
 "mx": 0
 },
 {
+"id": "f3fd190aa6595e",
+"t": "台灣深化波羅的海科技合作聚焦智慧機器人商機| 科技產業| 產經",
+"r": "",
+"u": "https://udn.com/news/story/7240/9878573",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
+"d": "2026-11-14T02:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "台灣深化波羅的海科技合作聚焦智慧機器人商機| 科技產業| 產經",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "5fdda26c3306a5",
+"t": "Drone Scare At Key US Fighter Base In Britain, Lakenheath Security Forces Rush Into Action",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/videos/international/drone-scare-at-key-us-fighter-base-in-britain-lakenheath-security-forces-rush-into-action/videoshow/135825036.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135825036,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-14T03:32-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone Scare At Key US Fighter Base In Britain, Lakenheath Security Forces Rush Into Action",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "e012373bb4bff3",
+"t": "Nello spazio la prima struttura costruita da un robot VIDEO",
+"r": "",
+"u": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/14/nello-spazio-la-prima-struttura-costruita-da-un-robot-video_c142c809-01de-4b5a-954b-b28054bafa25.html",
+"f": "ANSA",
+"s": "ansa.it",
+"i": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/bd462551235f1f2db0c7f67fc655fa09.png",
+"d": "2026-11-14T03:50-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Nello spazio la prima struttura costruita da un robot VIDEO",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "ANSA",
+"mx": 0
+},
+{
+"id": "34eb842c7d4b8d",
+"t": "Amazon réduit la concurrence en miettes et offre –50 % de remise sur cet aspirateur laveur Roborock ce samedi 14 novembre",
+"r": "",
+"u": "https://www.lefigaro.fr/bons-plans/maison/amazon-reduit-la-concurrence-en-miettes-et-offre-50-de-remise-sur-cet-aspirateur-laveur-roborock-ce-samedi-14-novembre-20261114",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/11/0a7775c1235cf0189d25c5851f1dcba5080ad7a9d8e0705e075e22c8c8827b52.jpg",
+"d": "2026-11-14T04:02-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Amazon réduit la concurrence en miettes et offre –50 % de remise sur cet aspirateur laveur Roborock ce samedi 14 novembre",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
 "id": "d45899b8d72fb9",
 "t": "プレスリリース：高市総理が家族型ロボット『LOVOT』と対面、「阪神くん」と命名。首相官邸で開催されたフィジカルAI関連企業との意見交換会に（PR TIMES）",
 "r": "",
@@ -308,10 +413,41 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-13": [
+{
+"id": "b4e613fab9d43e",
+"t": "Gallop: o novo robô humanóide da ASUS aprende a embalar pequenas peças da placa-mãe na fábrica",
+"r": "A ASUS está testando seu robô humanóide Gallop em uma fábrica, visando 99,5% de sucesso nas tarefas em 20 segundos.",
+"u": "https://interestingengineering.com/ai-robotics/asus-gallop-humanoid-robot-unveiled",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-12.jpg",
+"d": "2026-11-13T05:35-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 1,
+"to": "Gallop: ASUS’s new humanoid robot learns to pack tiny motherboard parts in factory",
+"lg": "en",
+"p": 13.9,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "A ASUS está testando seu robô humanóide Gallop em uma fábrica, visando 99,5% de sucesso nas tarefas em 20 segundos.",
+"o": [
+{
+"f": "Humanoid.guide",
+"u": "https://humanoid.guide/asus-gallop-humanoid-learns-to-pack-motherboard-accessories/",
+"s": "humanoid.guide",
+"id": "5ac8f8f673405a"
+}
+],
+"esp": 1
+},
 {
 "id": "806bd44aa8f85b",
 "t": "Por que construir um robô humanóide a partir do sensor? O pensamento por trás da estreia do GENTO no CoRL 2026",
@@ -375,28 +511,6 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "A empresa americana de robôs Boston Dynamics... MIXI lançará o robô conversacional de IA \"Romi\" em outubro de 2026..."
-},
-{
-"id": "b4e613fab9d43e",
-"t": "Gallop: o novo robô humanóide da ASUS aprende a embalar pequenas peças da placa-mãe na fábrica",
-"r": "A ASUS está testando seu robô humanóide Gallop em uma fábrica, visando 99,5% de sucesso nas tarefas em 20 segundos.",
-"u": "https://interestingengineering.com/ai-robotics/asus-gallop-humanoid-robot-unveiled",
-"f": "Interesting Engineering",
-"s": "interestingengineering.com",
-"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-12.jpg",
-"d": "2026-11-13T05:35-03:00",
-"c": [
-"humanoides",
-"industriais"
-],
-"l": 1,
-"to": "Gallop: ASUS’s new humanoid robot learns to pack tiny motherboard parts in factory",
-"lg": "en",
-"p": 11.6,
-"cr": 3,
-"cv": "Interesting Engineering",
-"mx": 1,
-"rx": "A ASUS está testando seu robô humanóide Gallop em uma fábrica, visando 99,5% de sucesso nas tarefas em 20 segundos."
 },
 {
 "id": "e55f197da932d5",
@@ -18832,6 +18946,27 @@
 "rx": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além."
 },
 {
+"id": "639ecfdd51cc5e",
+"t": "[르포] “작업자 1명이 로봇으로 6명 몫”… HD현대重 울산조선소 가보니",
+"r": "",
+"u": "https://biz.chosun.com/industry/company/2026/11/10/XSVVQE5OLNFJDNTFDA3QZ6UCCY/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/FHYHRZVQF5CN7KEYJIJZK3WD5Q.gif?auth=d3e0263c85575a02c9354132a119b101acdeae9be27921186c070c0b77bda707&width=800&height=420&smart=true",
+"d": "2026-11-10T03:23-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[르포] “작업자 1명이 로봇으로 6명 몫”… HD현대重 울산조선소 가보니",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
+},
+{
 "id": "ed5fdd025823f2",
 "t": "Real World se une à NVIDIA para revelar ‘DexBench’, uma referência para manipulação manual robótica",
 "r": "A Real World, empresa de inteligência artificial física (IA), colaborou com a NVIDIA no dia 10 para lançar o ‘DexBench’, um benchmark que avalia as habilidades precisas de manipulação manual de humanóides. A Real World anunciou os recursos e o desempenho do DexBench no 'AI Day Seoul 2026' organizado pela NVIDIA no…",
@@ -21535,7 +21670,7 @@
 ],
 "cr": 3,
 "cv": "Axios",
-"mx": -2
+"mx": -3
 },
 {
 "id": "b6bcf492321605",
@@ -21570,7 +21705,7 @@
 ],
 "cr": 3,
 "cv": "Fortune",
-"mx": -2
+"mx": -3
 },
 {
 "id": "145db989cee735",
@@ -21605,7 +21740,7 @@
 ],
 "cr": 3,
 "cv": "NBC News",
-"mx": -2
+"mx": -3
 },
 {
 "id": "cb5055cc7d887c",
@@ -21625,7 +21760,7 @@
 "p": 6.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": -2,
+"mx": -3,
 "o": [
 {
 "f": "經濟日報",
@@ -21774,7 +21909,7 @@
 ],
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": -1
+"mx": -2
 },
 {
 "id": "212879ab07afa9",
@@ -21794,7 +21929,7 @@
 "p": 6.0,
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": -1,
+"mx": -2,
 "o": [
 {
 "f": "EV라운지",
@@ -21831,7 +21966,7 @@
 "id": "52e7a41f71a529"
 }
 ],
-"mx": 2
+"mx": 3
 },
 {
 "id": "377aecb4082007",
@@ -22725,6 +22860,409 @@
 "mx": 0
 },
 {
+"id": "fe99a3db63cab5",
+"t": "Hyundai Motor Company e Samsung declaram ‘uma equipe’… Unindo mãos além de semicondutores e baterias para robôs e IA física",
+"r": "",
+"u": "https://sports.donga.com/economy/article/all/20261109/134994064/1",
+"f": "스포츠동아",
+"s": "sports.donga.com",
+"i": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/09/134994104.1.jpg",
+"d": "2026-11-09T05:36-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "현대차-삼성 ‘원팀’ 선언…반도체·배터리 넘어 로봇·피지컬AI까지 손잡는다",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "eedf1f8252a999",
+"t": "[Editorial] Samsung e Hyundai Motors \"formando uma equipe para robôs e carros do futuro\"... Colaboração esperada para liderar o mercado",
+"r": "",
+"u": "https://www.hankyung.com/article/2026110957621",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+"d": "2026-11-09T05:37-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[사설] 삼성·현대차 \"로봇·미래차 원팀 구성\"…시장 선도할 협업 기대",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 0
+},
+{
+"id": "cd34b5847a48c3",
+"t": "Festival Internacional de Robôs Inovadores de Taoyuan é concluído, demonstrando conquistas na aplicação de tecnologia e cultivo de talentos",
+"r": "",
+"u": "https://www.cna.com.tw/postwrite/chi/449473",
+"f": "中央社 CNA",
+"s": "cna.com.tw",
+"i": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261109/00449473.20261109379302582M.jpg",
+"d": "2026-11-09T05:47-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "桃園國際新創機器人節閉幕 展現科技應用與人才培育成果",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "CNA Taiwan",
+"mx": 0
+},
+{
+"id": "c500f32af41b8e",
+"t": "Imagens de drones mostram a capital indiana envolta em poluição após as celebrações do Diwali",
+"r": "",
+"u": "https://www.thehindu.com/videos/shorts/drone-footage-shows-indian-capital-shrouded-in-smog-after-diwali-celebrations/article71681999.ece",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "https://th-i.thgim.com/public/incoming/f82tau/article71681998.ece/alternates/LANDSCAPE_1200/20261109086L.jpg",
+"d": "2026-11-09T05:59-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone footage shows Indian capital shrouded in smog after Diwali celebrations",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Hindu",
+"mx": 0
+},
+{
+"id": "026c15416b2bf7",
+"t": "NXP lança plataforma unificada de robótica para acelerar implantação de IA física confiável",
+"r": "",
+"u": "https://markets.businessinsider.com/news/stocks/nxp-unveils-unified-robotics-platform-to-speed-trusted-physical-ai-deployment-1036735984",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/Resource/Download/70fbc78e-4c94-4db3-8635-dd0e8cde9f1f/nxp-unveils-unified-robotics-platform-to-speed-trusted-physical-ai-deployment.jpg",
+"d": "2026-11-09T06:13-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "NXP Unveils Unified Robotics Platform to Speed Trusted Physical AI Deployment",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "a61ac8e46cb74e",
+"t": "O Robo World acabou de chegar... Em vez de um robô dançante, foi encontrado um ‘robô que ganha dinheiro’.",
+"r": "",
+"u": "https://www.donga.com/news/Economy/article/all/20261109/134993494/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993588.3.jpg",
+"d": "2026-11-09T06:34-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "9134be5b44af59",
+"t": "Receita da Fanwei Materials/aumento anual de 17,6% nos primeiros dez meses, servidores e robôs de IA são fortes na extração de mercadorias",
+"r": "",
+"u": "https://udn.com/news/story/7252/9867367",
+"f": "udn",
+"s": "udn.com",
+"i": "https://udn.com/static/img/UDN_BABY.png",
+"d": "2026-11-09T07:04-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "汎瑋材料營收／前十月年增17.6％ AI伺服器、機器人拉貨力道強勁",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "17b051dbeda9c5",
+"t": "Receita da Fanwei Materials/aumentou 17,6% ano a ano nos primeiros dez meses, servidores e robôs de IA têm forte força de vendas",
+"r": "",
+"u": "https://money.udn.com/money/story/11074/9867367",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"d": "2026-11-09T07:04-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "汎瑋材料營收／前十月年增 17.6％ AI 伺服器、機器人拉貨力道強勁",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
+"id": "f26e9baf5507f5",
+"t": "Catálogo Counter-Drone da OTAN: Startup 2024 afirma que ganhou 6 de 16 lotes",
+"r": "",
+"u": "https://dronexl.co/2026/11/09/nato-counter-drone-catalog-alta-ares-six-of-16-lots/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/alta-ares-x-lock-interceptor-launcher-field.webp",
+"d": "2026-11-09T07:21-03:00",
+"c": [
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "NATO Counter-Drone Catalog: 2024 Startup Says It Won 6 of 16 Lots",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 0
+},
+{
+"id": "a0496a45c41ffa",
+"t": "O que veremos no Ces Las Vegas: IA física e robótica entrando nas casas",
+"r": "",
+"u": "https://stream24.ilsole24ore.com/embed/AJ4fLMrB",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/TMNews/2026/10/22/large-20261022_video_12530817.jpg",
+"d": "2026-11-09T07:52-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "Cosa vedremo al Ces Las Vegas: IA fisica e robotica entrano nelle case",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 0
+},
+{
+"id": "252ee213b2a677",
+"t": "West Valley vota em teste gratuito de drones policiais com renovação de US$ 874.985",
+"r": "",
+"u": "https://dronexl.co/2026/11/09/west-valley-city-police-brinc-drones-motorola-874985/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/west-valley-brinc-guardian-drone-aed.webp",
+"d": "2026-11-09T07:53-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "West Valley Votes on Free Police Drone Trial With $874,985 Renewal",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 0
+},
+{
+"id": "cfccb8ac26ddbb",
+"t": "O drone cargueiro com 670 km de autonomia chega da República Tcheca. Como funciona",
+"r": "",
+"u": "https://www.corriere.it/motori/26_novembre_09/dalla-repubblica-ceca-arriva-il-drone-cargo-con-670-km-di-autonomia-come-funziona-5a07f9f9-e53f-4ee8-aca4-a769a1cedxlk.shtml",
+"f": "Corriere della Sera",
+"s": "corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/09/01/6a96c79f8b388.jpeg",
+"d": "2026-11-09T07:54-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Dalla Repubblica Ceca arriva il drone - cargo con 670 km di autonomia. Come funziona",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 0,
+"cur": 1
+},
+{
+"id": "87485522652cd8",
+"t": "Quatro estudantes de uma escola pública de Punjab constroem um carro-robô Wi-Fi e um sistema de atendimento com reconhecimento facial;",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/education/news/four-punjab-government-school-students-build-a-wi-fi-robot-car-and-facial-recognition-attendance-system-projects-set-for-district-technology-fair/amp_articleshow/135678224.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135679674,width-1280,height-720,imgsize-166002,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-09T07:58-03:00",
+"c": [
+"educacao"
+],
+"l": 0,
+"to": "Four Punjab government-school students build a Wi-Fi robot car and facial-recognition attendance system;",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "3f181930ad08d8",
+"t": "AIROBO lança plataforma de gerenciamento de operações robóticas 2.0",
+"r": "",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8730727/airobo-launches-robotics-operations-management-platform-2-0/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-09T08:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AIROBO Launches Robotics Operations Management Platform 2.0",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 0
+},
+{
+"id": "a03c326fac8221",
+"t": "CITIC Investment & Trust Dual Funds lançados em 23/11, da mineração nos EUA à aposta em robôs e tecnologia espacial",
+"r": "",
+"u": "https://stock.ltn.com.tw/article/xrp8dg4pn9pm",
+"f": "自由時報",
+"s": "stock.ltn.com.tw",
+"i": "https://img.ltn.com.tw/Upload/business/page/400S/2026/11/09/phpgRO1H1.jpg",
+"d": "2026-11-09T08:17-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "中信投信雙基金11/23開募 從美國挖礦到押寶機器人、太空科技",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Liberty Times",
+"mx": 0
+},
+{
+"id": "4a67c88bf3b739",
+"t": "Pedidos de robôs na América do Norte aumentam 24,8% no terceiro trimestre",
+"r": "",
+"u": "https://www.assemblymag.com/articles/100562-north-american-robot-orders-jump-248-in-third-quarter",
+"f": "Assembly Magazine",
+"s": "assemblymag.com",
+"i": "https://www.assemblymag.com/ext/resources/2026/10/07/courtesy-scout-motors.jpg?height=635&t=1791359941&width=1200",
+"d": "2026-11-09T09:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "North American Robot Orders Jump 24.8% in Third Quarter",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Assembly Magazine",
+"mx": 0
+},
+{
+"id": "0389c66fd4820c",
+"t": "Conheça Spencer Huang, filho de Jensen Huang, que está construindo o futuro do robô da Nvidia como Diretor de Produto Mana",
+"r": "",
+"u": "https://economictimes.indiatimes.com/news/international/us/meet-spencer-huang-jensen-huangs-son-who-is-building-nvidias-robot-future-as-director-of-product-management-for-robotics/articleshow/135682431.cms",
+"f": "The Economic Times",
+"s": "economictimes.indiatimes.com",
+"i": "https://img.etimg.com/thumb/msid-135682706,width-1200,height-900,imgsize-103056,overlay-economictimes/articleshow.jpg",
+"d": "2026-11-09T09:43-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Meet Spencer Huang, Jensen Huang's son, who is building Nvidia's robot future as Director of Product Mana",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 0
+},
+{
+"id": "a42e59890a97cd",
+"t": "Um laser que abate drones por uma fração do custo: quão perto está a Índia de implantá-lo?",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/defence/news/a-laser-that-shoots-down-drones-for-a-fraction-of-the-cost-how-close-is-india-to-deploying-it/articleshow/135682453.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135682770,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-09T09:59-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "A laser that shoots down drones for a fraction of the cost: How close is India to deploying it?",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "2ffe3f5973ac66",
+"t": "Robôs, polônia e a luta para manter pacientes com esquizofrenia fora do hospital",
+"r": "",
+"u": "https://mg.co.za/news/health/2026-11-09-robots-polony-and-the-fight-to-keep-schizophrenia-patients-out-of-hospital/",
+"f": "Mail & Guardian",
+"s": "mg.co.za",
+"i": "https://images.newsteam.io/image/400/GbSdY1y2zcncaHpxYRWnVYUYfEwjxp9MPpPQ5yuWwjowDoJsitHvXRQBUCE5NwCtVznRwRZYDq1s4SBz7tdTLtHW43YdwtcSQ1UJTv11WyXxcWXyAiTuEzYSabokrnj4ABfoQDvRHbBF9trTfqQwb",
+"d": "2026-11-09T10:15-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Robots, polony and the fight to keep schizophrenia patients out of hospital",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Mail & Guardian",
+"mx": 0
+},
+{
+"id": "518710289b58da",
+"t": "Como os veículos autônomos estão mudando a mineração de areias petrolíferas",
+"r": "",
+"u": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-oilsands-autonomous-vehicles-9.7413305",
+"f": "CBC",
+"s": "cbc.ca",
+"i": "https://i.cbc.ca/ais/63d2310d-e1fb-45fb-ab26-d1d1a804d092,1794009784802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+"d": "2026-11-09T10:30-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "How autonomous vehicles are changing oilsands mining",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "CBC",
+"mx": 0
+},
+{
 "id": "0eff75c182e7a7",
 "t": "Fazendo robôs humanóides com rodas",
 "r": "",
@@ -22742,7 +23280,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Forbes",
-"mx": 1
+"mx": 2
 },
 {
 "id": "8514c7885b3b7f",
@@ -22763,193 +23301,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 1
-},
-{
-"id": "fe99a3db63cab5",
-"t": "Hyundai Motor Company e Samsung declaram ‘uma equipe’… Unindo mãos além de semicondutores e baterias para robôs e IA física",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xbDNLUTJpOVZGSTc4ZEtHNHE2XzZDMVpBak9zNWJtbzB5NDhvOXZDTlVTMW5DcV9OYlhwR0xFOHRWSmFUd1pCVkp5dTEza29BLVNoN19LazdqOUxlUHpSTEJNYjFpYm80S1VRZTRLaWJnZ0U?oc=5",
-"f": "스포츠동아",
-"s": "sports.donga.com",
-"i": "",
-"d": "2026-11-09T05:36-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "현대차-삼성 ‘원팀’ 선언…반도체·배터리 넘어 로봇·피지컬AI까지 손잡는다",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0
-},
-{
-"id": "eedf1f8252a999",
-"t": "[Editorial] Samsung e Hyundai Motors \"formando uma equipe para robôs e carros do futuro\"... Colaboração esperada para liderar o mercado",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRTlpUG4wZ2o4V3RlQ0RPNXpHWmNkUUU5U2lBRFo2a2ktRVFxVEJPZmFnY19ZeUFZeGl4MUc0RkZhNkFic0szd0hual82Yy11bzVFcUxJUGNfQQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-09T05:37-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "[사설] 삼성·현대차 \"로봇·미래차 원팀 구성\"…시장 선도할 협업 기대",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily",
-"mx": 0
-},
-{
-"id": "cd34b5847a48c3",
-"t": "Festival Internacional de Robôs Inovadores de Taoyuan é concluído, demonstrando conquistas na aplicação de tecnologia e cultivo de talentos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91TW05b0JrNXhKSWhLTlRpcldtakI0R2hOREpUTmFaTXdiQ0lIS3JSZVg0NExEMnpkZlo2N2VFTnZfRnZGOWEzQkNBcmFQd3NUOFpsaDd3?oc=5",
-"f": "中央社 CNA",
-"s": "cna.com.tw",
-"i": "",
-"d": "2026-11-09T05:47-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "桃園國際新創機器人節閉幕 展現科技應用與人才培育成果",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "CNA Taiwan",
-"mx": 0
-},
-{
-"id": "c500f32af41b8e",
-"t": "Imagens de drones mostram a capital indiana envolta em poluição após as celebrações do Diwali",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcE90d245dnBGSmRFekJTTURUZng5Uk5NejRKUzdjUW5lR0pxRlo3bF9HZm10ell5Z0NqTy13UEVtM1JIOEtXbUxJak9jRE52a0NjUmE5Wl9YalpnZDJ5ODJNR3I0d2kwbS0xbDZhOU1hSW5oY2cyVzFUc3A3QXVfWHEyZVB1ZXRoMDVTU3lYcmNzeEJIeXI1TkhOQzMyeWtJWG5QRXY2ZVpkeEpKVENQdk1aamJzVkdQYTQyMHNqZEN5WlZXVjhvdGNaUHl4SmtPZkE?oc=5",
-"f": "The Hindu",
-"s": "thehindu.com",
-"i": "",
-"d": "2026-11-09T05:59-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Drone footage shows Indian capital shrouded in smog after Diwali celebrations",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Hindu",
-"mx": 0
-},
-{
-"id": "026c15416b2bf7",
-"t": "NXP lança plataforma unificada de robótica para acelerar implantação de IA física confiável",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tMa1hIN0l5aFJwUEg3QS1WZ1ZvYl9UTFhQX2Z4VERzN3hQSUZsQ0ZCQXl4dXdjRmVYRTNYak04Z0U0akYtZzR5TUhVMXBnMjdUcGxiU0h3OGVKaTB2Rk9iX0JYWVFpLTk3WEp1M0NrMVZzNVJSUTdnU2d5d1lVVE1oLXdEVkFwVWFMMFIwbHpZcXVoZTE1Y1ZHaWlLcmk2WGFOSDdQUnNMb1FTeVVMVE9OM1hSQXJ1X1VmZmlHUEdYSV92RGkyRm1NSXpMZ1pUUGc?oc=5",
-"f": "markets.businessinsider.com",
-"s": "markets.businessinsider.com",
-"i": "",
-"d": "2026-11-09T06:13-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "NXP Unveils Unified Robotics Platform to Speed Trusted Physical AI Deployment",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
-},
-{
-"id": "a61ac8e46cb74e",
-"t": "O Robo World acabou de chegar... Em vez de um robô dançante, foi encontrado um ‘robô que ganha dinheiro’.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYnhhTm5ISVY1NXVKVWRDSzh5UFVNdVpHNnhXSW9KdjFMbEU4Q3h2ZFNFcDdjenlQYWdnVlNFeVBQb0tZSHotNWx0NENQUDNVdF9JRzBiT25QQnE1MFBGek9IOXA4U3FIcXJXcGFMenJCRDlYX3fSAWZBVV95cUxOZXZERnFPbElCZWFhcjRoXzA0d3REY3V3eXh0R3loQ19xQUp2VDhuTlc3eU0xWklqOEllN19mZ3hNeTNsWHV3WmNvd2ViUElUMVNRVzZ0UWdkX3JCTjNDZ21SUV9pSnc?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-09T06:34-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0
-},
-{
-"id": "9134be5b44af59",
-"t": "Receita da Fanwei Materials/aumento anual de 17,6% nos primeiros dez meses, servidores e robôs de IA são fortes na extração de mercadorias",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UXNOa1p0TDU2bVFFWDBxZVV0NElOMWd5cDUwa09JeS1XMTg5U2ZOaEdYWlhGRjZwN2tIb2hKa1FHZjJNMURxTk5tNmpHeHVC0gFWQVVfeXFMUHpfYmZyd0VrZGg1ck9ya3ZEbTFHVllHQzJwbEVGM3pDeF8tOHZsNnBCVjhCN1NkSzZ0V281MXhmaW5HZWRuUzlKWkdKYTFKdXFnS2F2WHc?oc=5",
-"f": "udn",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-09T07:04-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "汎瑋材料營收／前十月年增17.6％ AI伺服器、機器人拉貨力道強勁",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "17b051dbeda9c5",
-"t": "Receita da Fanwei Materials/aumentou 17,6% ano a ano nos primeiros dez meses, servidores e robôs de IA têm forte força de vendas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwNDhTSnpPM3dGNklndFYtNHp2QmZWcm1na2pXcm1WbU5PR3RJeXh4ek1aQmpZbF9rQVhySEpqRVplNC0yYmFLcElSTUlzcjJhc0l3X05XX3lXZzDSAWBBVV95cUxPVHp5VkdUWGpiZEdWTzI5S3RDQWlfVzQzaGQwLUdFTHcxd3ZpSGVlc2EyWFNyRlE0LUsza3Q2MER4Q3ZfY3FESV80bllVT2V4WkdXeVM2a1dJSDBhSldQV04?oc=5",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-09T07:04-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "汎瑋材料營收／前十月年增 17.6％ AI 伺服器、機器人拉貨力道強勁",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 0
-},
-{
-"id": "f26e9baf5507f5",
-"t": "Catálogo Counter-Drone da OTAN: Startup 2024 afirma que ganhou 6 de 16 lotes",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVpcDJiZHQzaGctcnVNbWRQTzVFNXVlRTZmWnBlSDcyZmhOQWN5a2lLX3NMZWhyLS1uNVFkbUlzOHVEWjJFRnBEdHVZUkNGenBzV3V0bE5KYlJWYzQzdjJzSko3SnQ5aEt4WjROdUs4Q2FKVk5BSVd1UDBBOTgzdVcwUjBJRFdFOXc?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-09T07:21-03:00",
-"c": [
-"drones",
-"negocios"
-],
-"l": 0,
-"to": "NATO Counter-Drone Catalog: 2024 Startup Says It Won 6 of 16 Lots",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
+"mx": 2
 },
 {
 "id": "842f416a6cff5d",
 "t": "ETF VanEck Robotics (IBOT.O) | Preço das ações e últimas notícias",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81U0l0MHpHTmRkOFVKbEpwM3F4R3ZBVkd3UjlWQjY1Q0JQYVJFQ0wtNjdyNnpZWXd6d2lJeGFhVW1CS1F0VGg2VlRpRTROcjNDUlB6eU5HcWQ?oc=5",
+"u": "https://www.reuters.com/markets/quote/IBOT.O/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -22962,173 +23320,14 @@
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "Reuters"
-},
-{
-"id": "a0496a45c41ffa",
-"t": "O que veremos no Ces Las Vegas: IA física e robótica entrando nas casas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbW9pMnJlRHF1eTA0OGVDVjhTVm5DdjItZ2hxYzNuWUEwNFV3cV9yQzFzQ09vOEZDeV8xZFBybjAyWHo4OGJZYzFDUkM5a1RlR1VPZmR5R0MyeFU?oc=5",
-"f": "Il Sole 24 ORE",
-"s": "stream24.ilsole24ore.com",
-"i": "",
-"d": "2026-11-09T07:52-03:00",
-"c": [
-"competicoes",
-"ia"
-],
-"l": 0,
-"to": "Cosa vedremo al Ces Las Vegas: IA fisica e robotica entrano nelle case",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Il Sole 24 Ore",
-"mx": 0
-},
-{
-"id": "252ee213b2a677",
-"t": "West Valley vota em teste gratuito de drones policiais com renovação de US$ 874.985",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXBNX1V3S2h2WXB0X3o2VjNhU296cXU4cld6dTBFbEI3LUpZZnphWUlqZXkwWWFrV19nbjRtTEhiMkxjRzBNVGR5SnhMYnFZZ0cyaUJsaXpldnhRYTJMN1k5bFRlal9mZF93akJGSWFZVVRDQjBLNWg1WV8tMUhIWlVrXzlyZXpmTGUw?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-09T07:53-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "West Valley Votes on Free Police Drone Trial With $874,985 Renewal",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
-"id": "cfccb8ac26ddbb",
-"t": "O drone cargueiro com 670 km de autonomia chega da República Tcheca. Como funciona",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVlllaTB1SlZ5WmhPVWlid1VXR3FnX0lUNGNfcDZ4cTk4aHdWQ3pzdldMU2d3MnVFQktTUFZnbUNNcjhSNkFfaUwwdUd0RFJPdjNsR1FpeVJjaktGcjRtZzdEaVFKMUZ0MHlQRkFfX0g3RDZ5bUVvcl8zWVh6aUo4VFVRZWV6aS1UN1A3SHRscHl2aV9kN2ZpaXpKenpOa3QyNEtQTEE2b3hiSkJSTW4wejI0ck1VNWJrWU5UMU5XMFd4dC1SbE4tUWFCMXRXcnVQTmR1VmFrNFNuZHJxYUotck95dTkwU0l5NERzcnBaaTJoZVRvZlBHUnlPc1dLSU3SAYQCQVVfeXFMTWFLSUJ2ZDRtNnliOGdIdUUyZlk1SlItTGNhbWNPUkpyU0pDSlVPODg5WFE2MG9kTkF1N1RpODhZcFpJM2hSQUcyVXBUYzRIc1FwVmtoN2RPWk5aSmE3QUdmNWJtWlktMnJBYmpTbjRmNnh3XzlXUmkwUGlycXIwcElzT3A0OUtkcGJaWUxsWC1qaHRRVkVvYlB1UXM4TnJlLVJFZEVwYWRJZkd3NEhRTm5pbkRSV1hTQXk1WFNOLS1ZMHM0cTE0YjRSbGhjRUxLTHdGTmRZSTJqZDdPOWIzYnlYN2hGZ09LblNCQUJhNWxfdkhYOGc0em4yT2VPOUN6X2F0QVE?oc=5",
-"f": "Corriere della Sera",
-"s": "corriere.it",
-"i": "",
-"d": "2026-11-09T07:54-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Dalla Repubblica Ceca arriva il drone - cargo con 670 km di autonomia. Come funziona",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera",
-"mx": 0,
-"cur": 1
-},
-{
-"id": "87485522652cd8",
-"t": "Quatro estudantes de uma escola pública de Punjab constroem um carro-robô Wi-Fi e um sistema de atendimento com reconhecimento facial;",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQWXFqOEhFMlg0RjY2c0hTb2dTMG9RbldObGxpcldkSzZYamk0MjZEbmhoU1JTdTdEd085NjNQMThzYWRIeklOeFMzOXZQMkU5NkNneFNnLTF5YlU5MG5qX05LNTNQVGdneG5nTnpRWVNOMlNCTXhVWDUzVFpWV21WTGdsVm1TVlptZHgyTjRBVG50cTdpSXlWRUpqblNLZjZLVEtaWFhzb0NJNC1Xb1JnUWVXTVhldFpaWjNwSFhKZzFOSjd4TGxWSVFteWdVOWdvb1drR21SZ3BRSllXSzhFNUlsd21JMjdqUVBHZ0xuRklONzRmMEFpNFhsTnNkVkZLQThDQW16UlZGT21seE5oR0pHVW1UNWZ4cUtRckhEejlEQmNPMVdram9ZTEwwVTRHeE9mUEF3WUFsaTVNVHRNTjZoeExQQnJaTGfSAcoCQVVfeXFMUFlxajhIRTJYNEY2NnNIU29nUzBvUW5XTmxsaXJXZEs2WGppNDI2RG5oaFNSU3U3RHdPOTYzUDE4c2FkSHpJTnhTMzl2UDJFOTZDZ3hTZy0xeWJVOTBual9OSzUzUFRnZ3huZ056UVlTTjJTQk14VVg1M1RaVldtVkxnbFZtU1ZabWR4Mk40QVRudHE3aUl5VkVKam5TS2Y2S1RLWlhYc29DSTQtV29SZ1FlV01YZXRaWlozcEhYSmcxTko3eExsVklRbXlnVTlnb29Xa0dtUmdwUUpZV0s4RTVJbHdtSTI3alFQR2dMbkZJTjc0ZjBBaTRYbE5zZFZGS0E4Q0FtelJWRk9tbHhOaEdKR1VtVDVmeHFLUXJIRHo5REJjTzFXa2pvWUxMMFU0R3hPZlBBd1lBbGk1TVR0TU42aHhMUEJyWkxn?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-09T07:58-03:00",
-"c": [
-"educacao"
-],
-"l": 0,
-"to": "Four Punjab government-school students build a Wi-Fi robot car and facial-recognition attendance system;",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 0
-},
-{
-"id": "3f181930ad08d8",
-"t": "AIROBO lança plataforma de gerenciamento de operações robóticas 2.0",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1FzXy1vMWQteHowUEh3MVdtU0N2R1pEZWE4N2h1T1k2UjctQ1FRUkh0UzdyMXJyQzBHZGRWbXllRExlRFpOUEw1Y2FkNTdHNmRoclRCcHN3anQ4Vmo4dWlpSE5teFRieW5FVnd0eGhhQ3JHeVFpLU9LN2hYV0NTTV8zUmc5aGRlQVVYTkhfQzVVckJyLWFPWjZ2Zkh1VXFYRDhsUnh1RDVXbHg0Rl9hbHQ2VnMyQVZZTjZNTjNwRUZ6Rl9QeE91SUcyTF92cDVGUDM1V1ZrQQ?oc=5",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-09T08:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AIROBO Launches Robotics Operations Management Platform 2.0",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 0
-},
-{
-"id": "a03c326fac8221",
-"t": "CITIC Investment & Trust Dual Funds lançados em 23/11, da mineração nos EUA à aposta em robôs e tecnologia espacial",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rdk54NFd6aXNwQW9rMklubVBWUUlNdFdfYnVSLXl5N25BZ3U3dl9hUTk3eHYtSndyZzY2VWM5cGlDYU1KTFVEVlFZYzlucnM3aVRTZWNacnk?oc=5",
-"f": "自由時報",
-"s": "stock.ltn.com.tw",
-"i": "",
-"d": "2026-11-09T08:17-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "中信投信雙基金11/23開募 從美國挖礦到押寶機器人、太空科技",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Liberty Times"
-},
-{
-"id": "4a67c88bf3b739",
-"t": "Pedidos de robôs na América do Norte aumentam 24,8% no terceiro trimestre",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdE1iQTdDY0xPYlBKZ0VOa2FERmYyUWhZLUVWTWNva2dYZUxrWi01UzdnMjBpT3NOTFZPVWxESmZNOEp1cjNBOURNaEpmOG1zdXVSTFg1Slh0RllJb2hTcEV5dXd2M1A5aXBlX2NCQjlzcDd5Ym1UemIzYWg4bjViUlYzcXFmcGN3MGw5Ti1LeHdoTWxaeEtxQjZhaDVrdw?oc=5",
-"f": "Assembly Magazine",
-"s": "assemblymag.com",
-"i": "",
-"d": "2026-11-09T09:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "North American Robot Orders Jump 24.8% in Third Quarter",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Assembly Magazine",
-"mx": 0
-},
-{
-"id": "0389c66fd4820c",
-"t": "Conheça Spencer Huang, filho de Jensen Huang, que está construindo o futuro do robô da Nvidia como Diretor de Produto Mana",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZWhLUjl4VUtFRlNTVTlwUzJFOHBGVWZ4bTh5RXdJTy0wQzJNMkRJLVRsSXpfS1dxLVNVdjZNTzZQX2gxUm9teVR2WXZMWUJXUWFWamFKRjJLd0lLMm9ONjZlYXY4eHBXbk5NMnViVE1hbE01djNjQ2lmSVU0TWxfTHEweFNUN0JjOFpfa21hNU1hR0pCX3duUGFlanBMeUJ3SDhYQXpoczhseG03M040MmUxc0YySHZpMTg5N1ZQTjJHSFRybFktQjdELWdONFRlanhzN1QxLUFYaGV4U0hfUk9QOGFHdC1pS2hlVkJKRm5iR0tOXzhfSWt6YmJ6NUVXd0U4bDFjQWRxZUtlemI2aWJua2JSQlVkUEJocy1HMUMtZXJFX21uTkVLbVdwZ9IBpwJBVV95cUxQMmNDMFQ5bXA5TFU5dW16Z3BCdllodmladVJHTzBySlAtZVN0akhJUHZjcU9Cckg1LU5WajRxc0hQOEd2QWNsLUZsTUpGeWVwRl9JNUVlVkdHX3JWYXgwaFYxUm1JVy0yaVczMmo0S1FMcW4wTUUtMTNqa1J6TEk4XzZ4cFZDcFJPYlRfaEhjSkFMSWhIa2NGenRaeXVFSUp2bl9EX1JhbGlvOGtyRFZfVkpFa2RBZWpwUGtLUTJfU1A4YnVpckhRdFhUSUI4Y282SXlGTFFHdzBwdUhDSHRULXJOWmRweDVnUDJHS251TGNDRERDMmtCYmMzR3YyV2VwQzVoSF94WDRfNDg5U01pWHUtcUNJUVNyY0tfSkM5Z1hidlhrcno0?oc=5",
-"f": "The Economic Times",
-"s": "economictimes.indiatimes.com",
-"i": "",
-"d": "2026-11-09T09:43-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Meet Spencer Huang, Jensen Huang's son, who is building Nvidia's robot future as Director of Product Mana",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Economic Times",
-"mx": 0
+"cv": "Reuters",
+"mx": 1
 },
 {
 "id": "87914f0745fc2d",
 "t": "O melhor aspirador robô Xiaomi chega à Espanha para oferecer a melhor experiência de limpeza",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNW5vbmdndHZZaGF0WmJyOTlJc3l5MWI4bTlZdDMwZHJnNldiMWJ6QTcyMXpqZEFFQVdSSi1ubHRaWVpvRnB0QVJFdjdRWU9UN0pQMk1JTktvRXZBdkxDZzU4cWNXNG9YWG9SV1hxY3BfdDhhdktWVXZSU1lDZGF5QWhJZ29WQkdJaXBqVHJyN19CZ2RRNV9vTGRSajZ2Uk14R2c5S0pmRkxLZnBSLVhJYTJlTFU1SEJpVlZUNzFlclZyX0NsS0dHVU4xX2NBTnB5MjJ2ODVMVlhRQUN5cnF6VWFiV2haY21keVdEU0J1TmozaU1iR3ZzY2ZCMDFuVHc4ZVRz0gGDAkFVX3lxTFA1bm9uZ2d0dlloYXRaYnI5OUlzeXkxYjhtOVl0MzBkcmc2V2IxYnpBNzIxempkQUVBV1JKLW5sdFpZWm9GcHRBUkV2N1FZT1Q3SlAyTUlOS29FdkF2TENnNThxY1c0b1hYb1JXWHFjcF90OGF2S1ZVdlJTWUNkYXlBaElnb1ZCR0lpcGpUcnI3X0JnZFE1X29MZFJqNnZSTXhHZzlLSmZGTEtmcFItWElhMmVMVTVIQmlWVlQ3MWVyVnJfQ2xLR0dVTjFfY0FOcHkyMnY4NUxWWFFBQ3lycXpVYWJXaFpjbWR5V0RTQnVOajNpTWJHdnNjZkIwMW5UdzhlVHM?oc=5",
+"u": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-09/el-mejor-robot-aspirador-de-xiaomi-llega-a-espana-para-ofrecer-la-mejor-experiencia-de-limpieza.html?outputType=amp",
 "f": "Cinco Días",
 "s": "cincodias.elpais.com",
 "i": "",
@@ -23142,67 +23341,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "El País",
-"mx": 0
-},
-{
-"id": "a42e59890a97cd",
-"t": "Um laser que abate drones por uma fração do custo: quão perto está a Índia de implantá-lo?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVzNwRVpJaEduRjYwTHBtcmlfZmFkM3dTUmoxc3RGcllxTkpPSlFVRDhoQVdFSVpTZ1gyY3huNjFfUlZkcW1BRjdscTBGOTNKdFN4N1FsQkQwNDhIWklRWFBXS3hLWThQVXU2bEpPWWEyNnBQbzNrOXZOOUlmaXdQQmVYc3E0N3g0Smh2ZjJERkpreEpocUxySEpTQ0h4R3Fib0p4Nm81TERmaklJcXRoTmZYTEVncVdQNm0zNXhsWHM1VFVDTTJXSURoc2E1OTlkX0lLNTluTkV2WG5DWHowaWE3THFuX25nQTI5RHJfWV8zY0JpRk1qOTRvSjg?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-09T09:59-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "A laser that shoots down drones for a fraction of the cost: How close is India to deploying it?",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 0
-},
-{
-"id": "2ffe3f5973ac66",
-"t": "Robôs, polônia e a luta para manter pacientes com esquizofrenia fora do hospital",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFJUNzU3aUoxaUVmM3pGX1gyN2JoaWwyRlBlR1phZ0pFdW9jQ1FPbDJpYXh0VlZJS0Q5WmlIVjRWaGFjcVRMdnJTUER4SEkybjVOV0dRcExoOEtTVFBWLVJ2OS1fWTYzWTRWb3B4ZmhHMGR2Mk4xWFZ6S3dHTDNIdDctbE1HRFBLQ005UklLaWlSUlBSYVNLNnIzSWp1ZXVvZTRXeEFjLWRlcUU5ck1ZU3Jra2JuQQ?oc=5",
-"f": "Mail & Guardian",
-"s": "mg.co.za",
-"i": "",
-"d": "2026-11-09T10:15-03:00",
-"c": [
-"medicina"
-],
-"l": 0,
-"to": "Robots, polony and the fight to keep schizophrenia patients out of hospital",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Mail & Guardian",
-"mx": 0
-},
-{
-"id": "518710289b58da",
-"t": "Como os veículos autônomos estão mudando a mineração de areias petrolíferas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1RSYVZpb2NJN1FINmUwWEtTSTE0Zmh0UEhqa0N2MGFJLW5Cd3dRUWNiRW4wWGNIZFh0dkpqVE1TRElOdGRmU2lwdWhEM3pONzd5R3VjdFVRek9sbXg2T29ROHc5OHBLN1E3aFp0VFA1U1YxLU5oLVBGLVJLaldrVFNmMzkwakI5ZERSODFiSVdzWVJtbVlEeTlsOA?oc=5",
-"f": "CBC",
-"s": "cbc.ca",
-"i": "",
-"d": "2026-11-09T10:30-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "How autonomous vehicles are changing oilsands mining",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "CBC",
-"mx": 0
+"mx": 1
 },
 {
 "id": "4bf178606992a2",
@@ -25114,6 +25253,27 @@
 "cv": "The Globe and Mail",
 "mx": 9,
 "rx": "Star Plus Legend Holdings, uma empresa de tecnologia de consumo e robótica, lançou um robô quadrúpede de consumo com fortes atributos de propriedade intelectual na China International Import Expo em novembro. O produto foi desenvolvido em conjunto com um terceiro independente e está em produção em massa, expandindo os esforços de comercialização de produtos do Grupo. A empresa disse que o lançamento foi conduzido no curso normal de seus negócios, após observar aumentos incomuns no preço de suas ações e no volume de negócios.\nA Star Plus Legend Holdings Limited opera em tecnologia de consumo e robótica, oferecendo robôs quadrúpedes de consumo com fortes atributos de propriedade intelectual, desenvolvidos com terceiros independentes e focados na comercialização de produtos."
+},
+{
+"id": "e51bbf890a820f",
+"t": "X-Humanoid Releases Hi-WBC Whole-Body Control Model for Tiangong Humanoid Robots",
+"r": "",
+"u": "https://pandaily.com/x-humanoid-hi-wbc-whole-body-control-model-tiangong-humanoid",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/xhumanoid_2af5b079b7.png",
+"d": "2026-11-08T03:53-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "X-Humanoid Releases Hi-WBC Whole-Body Control Model for Tiangong Humanoid Robots",
+"lg": "?",
+"nt": 1,
+"p": 10.0,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 0
 },
 {
 "id": "da3a069f07447e",
