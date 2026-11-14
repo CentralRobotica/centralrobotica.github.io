@@ -16,10 +16,18 @@
 "to": "New Orleans, battello con 180 passeggeri affonda nel fiume Mississippi: le immagini dal drone",
 "lg": "?",
 "nt": 1,
-"p": 10.5,
+"p": 12.0,
 "cr": 3,
 "cv": "Il Sole 24 Ore",
-"mx": 0
+"mx": -1,
+"o": [
+{
+"f": "Corriere della Sera",
+"u": "https://video.corriere.it/esteri/petroliera-urta-un-battello-con-180-passeggeri-l-imbarcazione-si-ribalta-e-passeggeri-finiscono-nel-fiume-mississippi-le-immagini-dal-drone/ca9ff6cd-d1d4-4367-90aa-915632196xlk",
+"s": "video.corriere.it",
+"id": "75e30fba3b9518"
+}
+]
 },
 {
 "id": "9ca3d3b5f033db",
@@ -159,6 +167,73 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "0a9419763e5a2d",
+"t": "HMS Prince of Wales prepares for Talon Blue drone trials in 2027",
+"r": "The Royal Navy is set to test Northrop Grumman's YFQ-48A Talon Blue autonomous combat jet from HMS Prince of Wales in 2027, marking a major step for uncrewed maritime aviation.",
+"u": "https://www.suasnews.com/2026/11/hms-prince-of-wales-prepares-for-talon-blue-drone-trials-in-2027/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/talon-blue.webp?fit=1200%2C675&ssl=1",
+"d": "2026-11-14T03:34-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "HMS Prince of Wales prepares for Talon Blue drone trials in 2027",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 0
+},
+{
+"id": "082735a13d29b8",
+"t": "Kraus Hamdani Aerospace’s K1000ULE Selected for Major U.S. Army Program of Record",
+"r": "Army contracting advances deployment of KHA’s fully electric platform for persistent ISR, resilient communications, and",
+"u": "https://www.suasnews.com/2026/11/kraus-hamdani-aerospaces-k1000ule-selected-for-major-u-s-army-program-of-record/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/K1000ULE-award.webp?fit=565%2C319&ssl=1",
+"d": "2026-11-14T03:56-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Kraus Hamdani Aerospace’s K1000ULE Selected for Major U.S. Army Program of Record",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 0
+},
+{
+"id": "d320d4de86fc81",
+"t": "Echodyne radar strengthens BAE Systems’ drone detection capabilities",
+"r": "BAE Systems is adding another layer of radar capability to its counter-drone operations, with Echodyne’s EchoShield radar selected for integration into the BAE Systems Anti Threat System (BATS). more…",
+"u": "https://dronedj.com/2026/11/13/echodyne-bae-systems-anti-drone/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/Echodyne-bae-systems-anti-drone.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-14T04:56-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Echodyne radar strengthens BAE Systems’ drone detection capabilities",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
 "mx": 0
 },
 {
@@ -374,6 +449,28 @@
 "mx": 0
 },
 {
+"id": "7656132d100d39",
+"t": "Drone Scare At RAF Lakenheath: US Air Force Confirms Unauthorised Activity Over UK Base",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/videos/international/drone-scare-at-raf-lakenheath-us-air-force-confirms-unauthorised-activity-over-uk-base/videoshow/135826687.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135826687,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-14T05:12-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Drone Scare At RAF Lakenheath: US Air Force Confirms Unauthorised Activity Over UK Base",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
 "id": "d45899b8d72fb9",
 "t": "プレスリリース：高市総理が家族型ロボット『LOVOT』と対面、「阪神くん」と命名。首相官邸で開催されたフィジカルAI関連企業との意見交換会に（PR TIMES）",
 "r": "",
@@ -413,7 +510,49 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
+},
+{
+"id": "e53d44c363c387",
+"t": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
+"r": "",
+"u": "https://m.ithome.com/html/1027144.htm",
+"f": "IT之家",
+"s": "m.ithome.com",
+"i": "https://img.ithome.com/m/images/logo.png",
+"d": "2026-11-14T04:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 0
+},
+{
+"id": "8c4a9432c77d84",
+"t": "Mein Tag mit einem Putz-Roboter: Was bei meinem Selbstversuch schiefging",
+"r": "",
+"u": "https://t3n.de/news/humanoider-roboter-putzen-test-1772384/",
+"f": "t3n",
+"s": "t3n.de",
+"i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/Tau-Robotics-Haushaltsroboter.png?class=content",
+"d": "2026-11-14T04:45-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Mein Tag mit einem Putz-Roboter: Was bei meinem Selbstversuch schiefging",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "t3n",
+"mx": 0
 }
 ],
 "2026-11-13": [
@@ -2811,6 +2950,27 @@
 "rx": "XPENG VLA 2.0 é um modelo de base de software proprietário desenvolvido pela XPENG, fabricante chinesa de veículos elétricos. Apresentado no AI Day da empresa em Guangzhou, em 5 de novembro de 2025, faz parte do investimento mais amplo da XPENG em inteligência artificial para sistemas físicos. O modelo pertence a uma pilha de software, em vez de ser um robô independente ou uma peça de hardware mecânico. Seu desenvolvimento baseia-se em quase 100 milhões de clipes de vídeo de condução real, dando ao projeto uma base substancial de treinamento automotivo. A empresa descreve o VLA 2.0 como o seu primeiro grande modelo construído para produção em massa, colocando a implantação industrial no centro do seu posicionamento. Essa classificação apoia uma avaliação ponderada: este é um modelo básico em evolução associado a um fabricante de veículos estabelecido, e não uma evidência de inteligência robótica abrangente ou desempenho universalmente comprovado."
 },
 {
+"id": "576e1433da20b2",
+"t": "US responds to suspected drones over RAF Lakenheath",
+"r": "",
+"u": "https://www.telegraph.co.uk/news/2026/11/13/raf-lakenheath-suffolk-drone-alert-us-air-base/",
+"f": "The Telegraph",
+"s": "telegraph.co.uk",
+"i": "https://www.telegraph.co.uk/content/dam/news/2026/11/13/TELEMMGLPICT000511176095_17946019104740_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+"d": "2026-11-13T17:50-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "US responds to suspected drones over RAF Lakenheath",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Telegraph",
+"mx": 0
+},
+{
 "id": "884f919e63c78b",
 "t": "Crean robots flexibles inspirados en las trompas de los elefantes: cómo funcionan",
 "r": "",
@@ -4611,35 +4771,6 @@
 "rx": "A TEL Taiwan, fabricante de equipamentos de fabricação de semicondutores de renome mundial, há muito investe no cultivo de talentos científicos e tecnológicos. A \"TEL Robot Combat Tokyo Robot Competition\" entrou em sua 11ª edição este ano. Além da emocionante e emocionante competição de robôs, este ano a TEL Taiwan também construiu pela primeira vez o salão de exposições interativo \"TEL Robo Hub\", combinando educação científica popular, exibição de resultados de P&D no campus e experiência interativa com parceiros da indústria para criar um grande evento adequado para \"pessoas de tecnologia\" de todos os tamanhos compartilharem.\n2026 TEL Robot Combat será lançado em 21 de novembro (sábado) no armazém Dayong P2 e P3 em Kaohsiung Pier 2 Art Zone. Qualquer pessoa interessada em robôs, inteligência artificial, automação e educação popular em ciências pode participar e vivenciar as infinitas possibilidades trazidas pela inovação tecnológica."
 },
 {
-"id": "9c580fed800821",
-"t": "Zhishen participa do ROBOT READY 2026 para aprofundar a colaboração tecnológica na indústria de robôs de Taiwan",
-"r": "No dia 12, Zhishen (4915) Technology participou como parceiro estratégico no \"ROBOT READY 2026 Robot Universal Guidelines Release and Technology Ecosystem Forum\" organizado pela Agência de Desenvolvimento Industrial do Ministério de Assuntos Econômicos e executado pela Associação de Promoção da Indústria da Informação…",
-"u": "https://udn.com/news/story/7240/9874747",
-"f": "UDN",
-"s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
-"d": "2026-11-12T05:28-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "致伸參與 ROBOT READY 2026 深化台灣機器人產業技術協作",
-"lg": "en",
-"p": 6.3,
-"o": [
-{
-"f": "經濟日報",
-"u": "https://money.udn.com/money/story/5612/9874747",
-"s": "money.udn.com",
-"id": "af88a5077c6e43"
-}
-],
-"cr": 3,
-"cv": "United Daily News",
-"mx": 1,
-"rx": "No dia 12, Zhishen (4915) Technology participou como parceiro estratégico no \"ROBOT READY 2026 Robot Universal Guidelines Release and Technology Ecosystem Forum\" organizado pela Agência de Desenvolvimento Industrial do Ministério de Assuntos Econômicos e executado pela Associação de Promoção da Indústria da Informação e pelo Centro de Pesquisa e Desenvolvimento de Máquinas de Precisão. Também lançou em conjunto o \"Sistema Robô Baseado em ROS 2 - Diretrizes Introdutórias Universais\" com outros 23 parceiros estratégicos.\nBaseando-se na sua experiência integrada em fusão multissensorial, computação de ponta e desenvolvimento de robôs móveis autônomos, Zhishen fornece perspectivas da indústria sobre aplicações de sensores, interfaces de aplicações e necessidades de integração de sistemas, participa na promoção de uma estrutura tecnológica comum para a indústria de robôs e promove intercâmbios e colaborações tecnológicas entre domínios."
-},
-{
 "id": "d791b7b4c4108a",
 "t": "Para resolver a escassez de mão de obra, as lojas de conveniência japonesas FamilyMart introduzirão robôs de “IA física”",
 "r": "A fim de aliviar o problema de escassez de mão de obra em suas lojas, a FamilyMart, uma grande rede de lojas de conveniência japonesa, determinou uma política para introduzir oficialmente robôs que usam tecnologia de \"IA física\" e podem reabastecer bebidas automaticamente em lojas em todo o Japão a partir de janeiro…",
@@ -5591,6 +5722,35 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "Pelican Unify 1.0 é um modelo de base de IA incorporado do Centro de Inovação de Robôs Humanóides de Pequim, também conhecido como X Humanoid. Lançado em 14 de maio de 2026, ele pertence à camada de software da robótica, e não à categoria de hardware humanóide físico. Seu fabricante está sediado na China e o modelo faz parte do portfólio mais amplo de robótica do centro. Pelican Unify 1.0 tem uma pontuação cerebral guia humanóide de 5 em 10, colocando-o na faixa de desenvolvimento desse sistema de classificação. Sua identidade como modelo base é central para a compreensão do produto, distinguindo o modelo em si das máquinas, da infraestrutura computacional e do trabalho de integração associado a um sistema robótico completo.\nDe forma mais ampla, o lançamento adiciona um modelo de base de software nomeado ao portfólio do Centro de Inovação de Robôs Humanóides de Pequim."
+},
+{
+"id": "9c580fed800821",
+"t": "Zhishen participa do ROBOT READY 2026 para aprofundar a colaboração tecnológica na indústria de robôs de Taiwan",
+"r": "No dia 12, Zhishen (4915) Technology participou como parceiro estratégico no \"ROBOT READY 2026 Robot Universal Guidelines Release and Technology Ecosystem Forum\" organizado pela Agência de Desenvolvimento Industrial do Ministério de Assuntos Econômicos e executado pela Associação de Promoção da Indústria da Informação…",
+"u": "https://udn.com/news/story/7240/9874747",
+"f": "UDN",
+"s": "udn.com",
+"i": "",
+"d": "2026-11-12T05:28-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "致伸參與 ROBOT READY 2026 深化台灣機器人產業技術協作",
+"lg": "en",
+"p": 5.3,
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/5612/9874747",
+"s": "money.udn.com",
+"id": "af88a5077c6e43"
+}
+],
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "No dia 12, Zhishen (4915) Technology participou como parceiro estratégico no \"ROBOT READY 2026 Robot Universal Guidelines Release and Technology Ecosystem Forum\" organizado pela Agência de Desenvolvimento Industrial do Ministério de Assuntos Econômicos e executado pela Associação de Promoção da Indústria da Informação e pelo Centro de Pesquisa e Desenvolvimento de Máquinas de Precisão. Também lançou em conjunto o \"Sistema Robô Baseado em ROS 2 - Diretrizes Introdutórias Universais\" com outros 23 parceiros estratégicos.\nBaseando-se na sua experiência integrada em fusão multissensorial, computação de ponta e desenvolvimento de robôs móveis autônomos, Zhishen fornece perspectivas da indústria sobre aplicações de sensores, interfaces de aplicações e necessidades de integração de sistemas, participa na promoção de uma estrutura tecnológica comum para a indústria de robôs e promove intercâmbios e colaborações tecnológicas entre domínios."
 },
 {
 "id": "89f3af87efb866",
@@ -10180,35 +10340,6 @@
 "rx": "Os capitalistas de risco sustentáveis ​​podem levar a Asia Capital (7777) a beneficiar de casos de investimento. A receita em outubro foi de 42,08 milhões de yuans, um aumento mensal de 110% e um aumento anual de 148%. A receita acumulada nos primeiros dez meses deste ano foi de 127 milhões de yuans, um aumento anual de 7.640%. À medida que as metas de investimento, como inteligência artificial (IA) e robôs humanóides, continuam a mostrar resultados, e novos casos de investimento continuam a avançar, a empresa está otimista quanto ao seu desempenho operacional no quarto trimestre e aguarda com expectativa o seu principal alvo de investimento, Xinyunlinke (Link"
 },
 {
-"id": "8189e8c5b8cf4e",
-"t": "A IA é um sonho ou um pesadelo? Chen Chong alerta: o pagamento de impostos por robôs não é uma fantasia",
-"r": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto…",
-"u": "https://udn.com/news/story/7240/9873567",
-"f": "udn",
-"s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
-"d": "2026-11-11T23:41-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AI 是美夢還是惡夢？ 陳冲示警：機器人繳稅不是天方夜譚",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 1,
-"o": [
-{
-"f": "經濟日報",
-"u": "https://money.udn.com/money/story/7307/9873567",
-"s": "money.udn.com",
-"id": "60deb08c6edef1"
-}
-],
-"rx": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto, atualmente, os países estão pisando no acelerador para desenvolver a IA, formando uma competição de IA. Tenha cuidado para não pisar no freio do desenvolvimento da IA, e pode ocorrer “perda de controle”.\nQuando os freios ao desenvolvimento da IA ​​não podem ser pisados, pode ocorrer \"perda de controle\", assim como em \"2001: Uma Odisseia no Espaço\", o HAL9000 realmente designou astronautas para assassinar o capitão, e houve uma rebelião da IA. Em 2017, escrevi um artigo “Não é uma fantasia que os robôs paguem impostos”. A economia tradicional acredita que os bens de capital trarão maiores benefícios e não deveriam ser tributados em teoria. Mas o que devemos fazer quando um certo tipo de bem de capital (como a IA) se tornou tão poderoso que muitas pessoas na sociedade (desempregadas) não conseguem pagar impostos?"
-},
-{
 "id": "6a30578179807e",
 "t": "Tratores elétricos e robôs humanóides, a nova fronteira da agrotecnologia",
 "r": "Milão, 27 de outubro (askanews) - De tratores elétricos a robôs autônomos, até humanóides trabalhando em vinhedos e pomares. A Agritech se concentra em...",
@@ -11098,6 +11229,35 @@
 "mx": 3
 },
 {
+"id": "8189e8c5b8cf4e",
+"t": "A IA é um sonho ou um pesadelo? Chen Chong alerta: o pagamento de impostos por robôs não é uma fantasia",
+"r": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto…",
+"u": "https://udn.com/news/story/7240/9873567",
+"f": "udn",
+"s": "udn.com",
+"i": "",
+"d": "2026-11-11T23:41-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AI 是美夢還是惡夢？ 陳冲示警：機器人繳稅不是天方夜譚",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/7307/9873567",
+"s": "money.udn.com",
+"id": "60deb08c6edef1"
+}
+],
+"rx": "Chen Chong, ex-reitor executivo e presidente da Fundação Financeira de Nova Geração, mencionou em seu discurso na reunião que o desenvolvimento da IA ​​mudou gradualmente os conceitos das pessoas sobre tributação de capital e direitos de propriedade intelectual, e requer supervisão governamental. No entanto, atualmente, os países estão pisando no acelerador para desenvolver a IA, formando uma competição de IA. Tenha cuidado para não pisar no freio do desenvolvimento da IA, e pode ocorrer “perda de controle”.\nQuando os freios ao desenvolvimento da IA ​​não podem ser pisados, pode ocorrer \"perda de controle\", assim como em \"2001: Uma Odisseia no Espaço\", o HAL9000 realmente designou astronautas para assassinar o capitão, e houve uma rebelião da IA. Em 2017, escrevi um artigo “Não é uma fantasia que os robôs paguem impostos”. A economia tradicional acredita que os bens de capital trarão maiores benefícios e não deveriam ser tributados em teoria. Mas o que devemos fazer quando um certo tipo de bem de capital (como a IA) se tornou tão poderoso que muitas pessoas na sociedade (desempregadas) não conseguem pagar impostos?"
+},
+{
 "id": "80f17bc68899bd",
 "t": "Pela primeira vez, um robô construiu de forma autônoma parte de uma estrutura no espaço",
 "r": "Para estudar o espaço profundo e detectar até os objetos mais tênues, precisaremos de telescópios espaciais cada vez maiores. Se quisermos comunicar de forma mais eficiente no espaço, serão necessárias antenas de transmissão muito maiores do que as utilizadas hoje. Portanto, uma equipe de cientistas da Caltech testou…",
@@ -11595,7 +11755,7 @@
 "u": "https://www.hankyung.com/article/2026111109431",
 "f": "한국경제",
 "s": "hankyung.com",
-"i": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+"i": "",
 "d": "2026-11-11T05:33-03:00",
 "c": [
 "negocios"
@@ -11606,7 +11766,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 1,
+"mx": 9,
 "rx": "Você pode ver artigos sobre a economia coreana com mais frequência nas pesquisas do Google. Este artigo foi publicado no ‘Hankyung Premium 9’, uma plataforma de investimento paga do Korea Economic Daily. Você pode encontrar mais artigos sobre investimento em ações assinando Hankyung Premium 9 (www.hankyung.com/premium9)... A Naver iniciou um controle intensivo de custos, incluindo a redução dos custos de marketing pela metade. A explicação é que se trata de espremer os recursos de investimento à frente do negócio da inteligência artificial (IA), que requer investimentos em grande escala. De acordo com a indústria no dia 10, a Naver expandiu recentemente todas as divisões de negócios..."
 },
 {
@@ -14879,36 +15039,6 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 12.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 2,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
-},
-{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -15065,6 +15195,36 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 11.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -15890,36 +16050,6 @@
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
 },
 {
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 2,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
-},
-{
 "id": "7cd9f0ce0f5677",
 "t": "Path Robotics quadruplica avaliação para US$ 2,5 bilhões na última rodada de financiamento",
 "r": "(Teleborsa) – A Path Robotics, startup em rápido crescimento – nos últimos 18 meses, a receita recorrente anual cresceu 17 vezes – que desenvolve software para robôs industriais autónomos, obteve 300 milhões de dólares em novos financiamentos, elevando a avaliação da empresa para 2,45 mil milhões, quase o quádruplo…",
@@ -16192,7 +16322,7 @@
 "u": "https://money.udn.com/money/story/5612/9867809",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "",
 "d": "2026-11-10T05:00-03:00",
 "c": [
 "humanoides"
@@ -16203,7 +16333,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 1,
+"mx": 9,
 "rx": "A Apple lançou seu cérebro robótico humanóide autodesenvolvido \"HALO\" e o instalou nos produtos da gigante robótica do continente Yushu. A indústria está otimista de que Yushu também se tornará um parceiro-chave dos robôs da Apple no futuro, e as cadeias de fornecimento de Yushu, como Shanghai Silver (2049) e Yatli-KY (6907), seguirão o exemplo.\n\"HALO\" permite que robôs humanóides completem perfeitamente tarefas como empurrar caixas, sentar em cadeiras e atravessar obstáculos. Os principais componentes do robô, como as articulações, são ainda mais importantes. Esta parte é a força da Shanghai Silver. Nos últimos anos, o Shanghai Banking Corporation acelerou a sua expansão no campo dos robôs. Além de cooperar com os principais fabricantes americanos, também se expandiu ativamente para os mercados japonês e da China continental. Estima-se que a proporção da receita total dos robôs ultrapassará 12% este ano. No próximo ano, à medida que aumentar o envio de componentes-chave de robôs humanóides, a proporção continuará a aumentar."
 },
 {
@@ -16768,7 +16898,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "",
 "d": "2026-11-10T16:00-03:00",
 "c": [
 "humanoides"
@@ -16779,7 +16909,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 1,
+"mx": 9,
 "rx": "A Apple lançou seu cérebro robótico humanóide autodesenvolvido \"HALO\" e o instalou nos produtos da gigante robótica do continente Yushu. A indústria está otimista de que Yushu também se tornará um parceiro-chave dos robôs da Apple no futuro, e as cadeias de fornecimento de Yushu, como Shanghai Silver (2049) e Yatli-KY (6907), seguirão o exemplo.\n\"HALO\" permite que robôs humanóides completem perfeitamente tarefas como empurrar caixas, sentar em cadeiras e atravessar obstáculos. Os principais componentes do robô, como as articulações, são ainda mais importantes. Esta parte é a força da Shanghai Silver. O layout de componentes-chave para robôs humanóides do Shanghai Banking fez recentemente grandes avanços. A empresa cooperou com um grande fabricante americano de robôs humanóides, e os componentes relacionados começaram a ser enviados em lotes, iniciando uma nova etapa de produção em massa de máquinas humanóides na cadeia de abastecimento de Taiwan."
 },
 {
@@ -17152,6 +17282,36 @@
 "cr": 3,
 "cv": "La Repubblica",
 "mx": 3
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 1,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "04f31f697e3b0c",
@@ -17642,7 +17802,7 @@
 "u": "https://www.hankyung.com/article/2026111084161",
 "f": "한국경제",
 "s": "hankyung.com",
-"i": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+"i": "",
 "d": "2026-11-10T06:23-03:00",
 "c": [
 "medicina",
@@ -17654,7 +17814,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 1,
+"mx": 9,
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Grandes empresas nacionais, como Samsung e LG, receberam um grande número de prêmios de inovação antes da 'CES 2027', a maior exposição mundial de TI e eletrodomésticos, realizada em Las Vegas, EUA, no início do próximo ano. Enquanto a Samsung Electronics, os Estados Unidos que acolhe a CES no dia 10, decidiu pagar 30 biliões de won em dividendos, os maiores de sempre, as distribuições recebidas pelos investidores do fundo negociado em bolsa (ETF) KOSPI 200 também foram divididas por sociedade gestora. Antes de confirmar o dividendo, confirme o depósito com o gestor que já adicionou o valor esperado à distribuição de outubro, e então... Este é um artigo publicado no 'Hankyung Premium 9', plataforma de investimento pago do Korea Economic Daily. Você pode encontrar mais artigos sobre investimento em ações assinando o Hankyung Premium 9 (www.hankyung.com/premium9)..."
 },
 {
@@ -21670,7 +21830,7 @@
 ],
 "cr": 3,
 "cv": "Axios",
-"mx": -3
+"mx": -4
 },
 {
 "id": "b6bcf492321605",
@@ -21705,7 +21865,7 @@
 ],
 "cr": 3,
 "cv": "Fortune",
-"mx": -3
+"mx": -4
 },
 {
 "id": "145db989cee735",
@@ -21740,7 +21900,7 @@
 ],
 "cr": 3,
 "cv": "NBC News",
-"mx": -3
+"mx": -4
 },
 {
 "id": "cb5055cc7d887c",
@@ -21760,7 +21920,7 @@
 "p": 6.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": -3,
+"mx": -4,
 "o": [
 {
 "f": "經濟日報",
@@ -21909,7 +22069,7 @@
 ],
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": -2
+"mx": -3
 },
 {
 "id": "212879ab07afa9",
@@ -21929,7 +22089,7 @@
 "p": 6.0,
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": -2,
+"mx": -3,
 "o": [
 {
 "f": "EV라운지",
@@ -22886,7 +23046,7 @@
 "u": "https://www.hankyung.com/article/2026110957621",
 "f": "한국경제",
 "s": "hankyung.com",
-"i": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+"i": "",
 "d": "2026-11-09T05:37-03:00",
 "c": [
 "geral"
@@ -22897,7 +23057,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 0
+"mx": 9
 },
 {
 "id": "cd34b5847a48c3",
@@ -22986,7 +23146,7 @@
 "u": "https://udn.com/news/story/7252/9867367",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-09T07:04-03:00",
 "c": [
 "negocios"
@@ -22997,7 +23157,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 0
+"mx": 9
 },
 {
 "id": "17b051dbeda9c5",
@@ -23006,7 +23166,7 @@
 "u": "https://money.udn.com/money/story/11074/9867367",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "",
 "d": "2026-11-09T07:04-03:00",
 "c": [
 "negocios"
@@ -23017,7 +23177,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 0
+"mx": 9
 },
 {
 "id": "f26e9baf5507f5",
@@ -23129,7 +23289,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8730727/airobo-launches-robotics-operations-management-platform-2-0/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"i": "",
 "d": "2026-11-09T08:00-03:00",
 "c": [
 "geral"
@@ -23140,7 +23300,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 0
+"mx": 9
 },
 {
 "id": "a03c326fac8221",
@@ -23263,6 +23423,389 @@
 "mx": 0
 },
 {
+"id": "4bf178606992a2",
+"t": "GIX Internet garante pedido subsequente de um dos melhores hospitais do mundo para dobrar sua frota de robôs",
+"r": "",
+"u": "https://markets.businessinsider.com/news/stocks/gix-internet-secures-follow-on-order-from-one-of-the-top-hospitals-in-the-world-to-double-its-robot-fleet-1036736770",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/media/9c0621de-fb97-4fbb-99df-dd161ddfb0e8/small/logo-2-jpg.jpg",
+"d": "2026-11-09T10:54-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "GIX Internet Secures Follow-On Order from One of the Top Hospitals in the World to Double Its Robot Fleet",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "6c1cdec03c35f1",
+"t": "Soldados do Exército dos EUA estão seguindo uma página do manual da Ucrânia para voar drones mais longe",
+"r": "",
+"u": "https://www.businessinsider.com/us-army-soldiers-take-page-ukraine-playbook-fly-drones-farther-2026-10",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "https://i.insider.com/6aec6f17308912814ed71263?width=1200&format=jpeg",
+"d": "2026-11-09T11:14-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "US Army soldiers are taking a page from Ukraine's playbook to fly drones farther",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "69daafad0346f3",
+"t": "Robô compete na Maratona Antártica - Panorama - SZ.de",
+"r": "",
+"u": "https://www.sueddeutsche.de/panorama/roboter-tritt-beim-antarktis-marathon-an-li.3577799",
+"f": "SZ.de",
+"s": "sueddeutsche.de",
+"i": "https://www.sueddeutsche.de/2026/11/09/f326dd85-0ff6-468c-9eca-6cbf93f41bdf.jpg?q=60&fm=webp&width=1200&rect=0%2C0%2C960%2C540",
+"d": "2026-11-09T11:33-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Roboter tritt beim Antarktis-Marathon an - Panorama - SZ.de",
+"lg": "de",
+"p": 4.5,
+"cr": 3,
+"cv": "Süddeutsche Zeitung",
+"mx": 0
+},
+{
+"id": "051728b080c8c4",
+"t": "o dilema da automação do trabalho: como podemos “tributar” os robôs sem desencorajar a sua adoção",
+"r": "",
+"u": "https://www.repubblica.it/economia/2026/11/09/news/il_dilemma_lavoro-automazione_come_possiamo_tassare_i_robot_senza_scoraggiarne_l_adozione-425704520/",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "https://www.repstatic.it/content/nazionale/img/2026/11/06/154549012-8f65dc40-65dd-4265-bc10-1a4726943bc6.jpg",
+"d": "2026-11-09T12:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "il dilemma lavoro-automazione come possiamo “tassare” i robot senza scoraggiarne l’adozione",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "La Repubblica",
+"mx": 0
+},
+{
+"id": "8ad0b44660979b",
+"t": "Por menos de 380€ na Amazon, este Roborock aspira e lava chão quase sozinho",
+"r": "",
+"u": "https://www.futura-sciences.com/conso/bons-plans/guides-entretien-sols-moins-380-amazon-ce-roborock-aspire-lave-sols-presque-tout-seul-11797/",
+"f": "Futura, le média qui explore le monde",
+"s": "futura-sciences.com",
+"i": "https://cdn8.futura-sciences.com/a1280/images/Roborock%20Qrevo%20S%20Pro.jpg",
+"d": "2026-11-09T12:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "À moins de 380 € sur Amazon, ce Roborock aspire et lave les sols presque tout seul",
+"lg": "fr",
+"p": 4.5,
+"cr": 3,
+"cv": "Futura Sciences",
+"mx": 0
+},
+{
+"id": "4eeb95071f6195",
+"t": "ABB Robotics lança AI Robot Trainer para simplificar a programação de visão de robôs",
+"r": "",
+"u": "https://roboticsandautomationnews.com/2026/11/09/abb-robotics-launches-ai-robot-trainer-to-simplify-robot-vision-programming/106808/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/abb-OmniCore-EyeMotion-AI-Robot-Trainer.jpg",
+"d": "2026-11-09T12:20-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "ABB Robotics launches AI Robot Trainer to simplify robot vision programming",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "6c4453b335c995",
+"t": "Noitom Robotics lança dados de captura de mão de precisão HiPHI-Hand usados ​​para treinar NVIDIA EgoHand e demonstra reconstrução de mão em tempo real no CoRL 2026",
+"r": "",
+"u": "https://markets.businessinsider.com/news/stocks/noitom-robotics-releases-hiphi-hand-precision-hand-capture-data-used-to-train-nvidia-egohand-and-demonstrates-real-time-hand-reconstruction-at-corl-2026-1036737152",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/media/5369eea8-ba95-471a-91b5-853e0e17c212/small/nr-logo-png.png",
+"d": "2026-11-09T12:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Noitom Robotics Releases HiPHI-Hand, Precision Hand Capture Data Used to Train NVIDIA EgoHand, and Demonstrates Real-Time Hand Reconstruction at CoRL 2026",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "2c86f1583548e4",
+"t": "Cinco casos em que um robô atacou um humano: um episódio foi sofrido por uma criança",
+"r": "",
+"u": "https://www.infobae.com/tecno/2026/11/09/cinco-casos-en-los-que-un-robot-ataco-a-un-humano-un-episodio-lo-sufrio-un-nino/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/JOS23Y23ABC4TM7U4HCA7Z7H2M.png?auth=d3af9f676c22271add679488d8d7ac5b739d3c8d63ed3da7a02f9ae57b3306ee&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-09T13:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Cinco casos en los que un robot atacó a un humano: un episodio lo sufrió un niño",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "Infobae",
+"mx": 0
+},
+{
+"id": "1484ae589c8799",
+"t": "A busca do Japão por uma lixeira pública melhor – e por que os robôs podem ajudar",
+"r": "",
+"u": "https://www.japantimes.co.jp/life/2026/11/10/style-design/robot-smart-garbage-bins/",
+"f": "The Japan Times",
+"s": "japantimes.co.jp",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572147.jpg?v=3.1",
+"d": "2026-11-09T14:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Japan’s search for a better public trash bin — and why robots may help",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Japan Times",
+"mx": 0
+},
+{
+"id": "897d9b70cdaea7",
+"t": "Tribunal superior de Madras discute pesquisas com drones para resgatar nadadores em perigo",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/city/chennai/madras-high-court-moots-drone-surveys-to-rescue-swimmers-in-distress/articleshow/135689173.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135689219,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-09T14:17-03:00",
+"c": [
+"drones",
+"resgate"
+],
+"l": 0,
+"to": "Madras high court moots drone surveys to rescue swimmers in distress",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "4db827e28203b2",
+"t": "Rogue Cortex emerge do sigilo com US$ 4,5 milhões para simplificar o desenvolvimento da robótica",
+"r": "",
+"u": "https://roboticsandautomationnews.com/2026/11/09/rogue-cortex-emerges-from-stealth-with-4-5-million-to-simplify-robotics-development/106831/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/rogue-cortex-1.jpg",
+"d": "2026-11-09T14:36-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Rogue Cortex emerges from stealth with $4.5 million to simplify robotics development",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "b866def585a744",
+"t": "Tomada rápida: Robôs vs. Humanos",
+"r": "",
+"u": "https://www.automationworld.com/factory/robotics/blog/55417546/robots-v-humans",
+"f": "Automation World",
+"s": "automationworld.com",
+"i": "https://img.automationworld.com/files/base/ebm/automationworld/image/2026/07/6a45760a099fe2da2ff84a4b-quick_take_horizontal.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+"d": "2026-11-09T14:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Quick Take: Robots v. Humans",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Automation World",
+"mx": 0
+},
+{
+"id": "c72ed616d3552b",
+"t": "Chega de aspirar e depois lavar: este aspirador e esfregão robô Roborock faz tudo de uma vez (e está à venda)",
+"r": "",
+"u": "https://www.lefigaro.fr/bons-plans/maison/plus-besoin-d-aspirer-puis-de-laver-ce-robot-aspirateur-laveur-roborock-fait-tout-en-meme-temps-et-il-est-en-promo-20261109",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/05/162165bae47ef461832f131610e14b8af445bdfc1ed27cf09e52f294962efb23.jpg",
+"d": "2026-11-09T14:59-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Plus besoin d’aspirer puis de laver : ce robot aspirateur laveur Roborock fait tout en même temps (et il est en promo)",
+"lg": "fr",
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
+"id": "289256c57f72cc",
+"t": "Agências dos EUA se unem para combater ameaças de drones desonestos em todo o país",
+"r": "",
+"u": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide",
+"f": "Al Jazeera",
+"s": "aljazeera.com",
+"i": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440",
+"d": "2026-11-09T16:10-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "US agencies unite to combat rogue drone threats nationwide",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Al Jazeera",
+"mx": 0
+},
+{
+"id": "aae0a366427c14",
+"t": "Robôs, agentes de IA e uma sonda Nvidia: Web Summit 2026 abre em Lisboa",
+"r": "",
+"u": "https://www.euronews.com/2026/11/09/web-summit-lisbon-2026-chinas-robotos-take-to-the-stage-as-tech-conference-launches",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "https://images.euronews.com/articles/stories/09/98/60/32/1200x675_cmsv2_85f1385e-a553-59e0-844b-235e31453d9e-9986032.jpg",
+"d": "2026-11-09T16:12-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Robots, AI agents and a Nvidia probe: Web Summit 2026 Opens in Lisbon",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Euronews",
+"mx": 0
+},
+{
+"id": "cafb4e440d69ba",
+"t": "Fazendo música e manipulando robôs com IA... A exploração de carreira também se tornou mais inteligente.",
+"r": "",
+"u": "https://www.donga.com/news/Society/article/all/20261109/134995077/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993645.4.jpg",
+"d": "2026-11-09T16:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AI로 음악 만들고 로봇 조작… 진로 탐색도 똑똑해졌다",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "8c4d913d7f5b35",
+"t": "Imagens de drone de Saleyard parecem mostrar ovelhas jogadas entre animais mortos",
+"r": "",
+"u": "https://www.abc.net.au/news/2026-11-10/forbes-animal-cruelty-investigation/107351198",
+"f": "ABC News & Headlines – Australian Broadcasting Corporation",
+"s": "abc.net.au",
+"i": "https://live-production.wcms.abc-cdn.net.au/c85728533ad1f0b54795a28e5a85f1a0?impolicy=wcms_watermark_news&cropH=521&cropW=927&xPos=53&yPos=244&width=862&height=485&imformat=generic",
+"d": "2026-11-09T16:36-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Saleyard drone footage appears to show sheep thrown among dead animals",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "ABC News (Austrália)",
+"mx": 0
+},
+{
+"id": "5006f46ff07680",
+"t": "Empresa dos EUA consegue extrair minerais do fundo do mar usando robô de IA, buscando cooperação técnica em águas próximas ao Japão",
+"r": "",
+"u": "https://www.nikkei.com/article/DGXZQOCB06AQ40W6A101C2000000/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3844804008112026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=693c48b4b0ae46324bc8f0571a4b5283",
+"d": "2026-11-09T17:00-03:00",
+"c": [
+"subaquaticos"
+],
+"l": 0,
+"to": "AIロボットで海底鉱物採取、米国企業が成功 日本近海で技術協力探る",
+"lg": "ja",
+"p": 4.5,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 0
+},
+{
+"id": "260b2b1b2a203a",
+"t": "Empresa autônoma de transporte elétrico Humble Robotics levanta US$ 51 milhões na Série A",
+"r": "",
+"u": "https://www.robotics247.com/article/autonomous-electric-hauling-company-humble-robotics-raises-51m-series-a",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/2026_article/HumbleRobotics-hauler-autonomous-electric-freight-main-Robotics247-2026.jpg",
+"d": "2026-11-09T17:22-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Autonomous electric hauling company Humble Robotics raises $51M Series A",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 0
+},
+{
 "id": "0eff75c182e7a7",
 "t": "Fazendo robôs humanóides com rodas",
 "r": "",
@@ -23280,7 +23823,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Forbes",
-"mx": 2
+"mx": 3
 },
 {
 "id": "8514c7885b3b7f",
@@ -23301,7 +23844,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 2
+"mx": 3
 },
 {
 "id": "842f416a6cff5d",
@@ -23321,7 +23864,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 1
+"mx": 2
 },
 {
 "id": "87914f0745fc2d",
@@ -23341,74 +23884,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "El País",
-"mx": 1
-},
-{
-"id": "4bf178606992a2",
-"t": "GIX Internet garante pedido subsequente de um dos melhores hospitais do mundo para dobrar sua frota de robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTk02MTcwRXFfTWl6aUNnRzk2SnZUd2VyazNnZ3hwU0dVcmtmalRXMVFlaHdVX3dHNEJGUjVGa052cFlxNzZleW5ZRXZvbk94Q2F4ZGxjUm9jZHptWnk2YjZfcU95aFhHQlN3UTVZS1hPcXhrZDZYT0pYeXFzZTNfLS1TLUxQYnVVZnUxZDFqRnM0NTlCcGJoLUNpWmRQMTN4VDNXMHpuRHVad202NTdPdmxMejFFQTBwZXdYNVdVcjZ6OUVsVnREcDNwSHY4WlRPX3JjaWZJS1NBT2pqQlBSUGZDSFFhWkpITDlqbi1NRWVNdmlaM0hj?oc=5",
-"f": "markets.businessinsider.com",
-"s": "markets.businessinsider.com",
-"i": "",
-"d": "2026-11-09T10:54-03:00",
-"c": [
-"medicina"
-],
-"l": 0,
-"to": "GIX Internet Secures Follow-On Order from One of the Top Hospitals in the World to Double Its Robot Fleet",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
-},
-{
-"id": "6c1cdec03c35f1",
-"t": "Soldados do Exército dos EUA estão seguindo uma página do manual da Ucrânia para voar drones mais longe",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEVRTUtIR3o5dUJ5eF93TVJocks0SVRVdDVFcHozOS1sblJWN0hyTXNiSDlOdWhMTGlEb2t2R1NlZEFqN2NwUy1JZHJodkdPTS01U1Z4ZW52bHJPcGwyRXY5UEloMEhJY0xES09TbWhmQzRLV19NTEhMc1JCQVRtQXRWVVhHNVc5NXZnT3daaldDdURma2JWaE1kQnppR01FeExJOA?oc=5",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "",
-"d": "2026-11-09T11:14-03:00",
-"c": [
-"defesa",
-"drones"
-],
-"l": 0,
-"to": "US Army soldiers are taking a page from Ukraine's playbook to fly drones farther",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
-},
-{
-"id": "69daafad0346f3",
-"t": "Robô compete na Maratona Antártica - Panorama - SZ.de",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0JyS2ZMNjlZVS13eW1iQm1YTHhBUl9MT2Y0cTlfNUFtSmJNN0NkUEt6SW1hWGQwYnd2YVgzbHR4OHRjNVU3eGRSdTN4OFV3ODR0Yy1lRXcta2hFVTNOVEcyNGw4Q3Jrd1FQYWk4STdEWktMaFpKQ3NWSVc2QTZpQU5mblVWaHl6MUx2REpaNFc5dw?oc=5",
-"f": "SZ.de",
-"s": "sueddeutsche.de",
-"i": "",
-"d": "2026-11-09T11:33-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "Roboter tritt beim Antarktis-Marathon an - Panorama - SZ.de",
-"lg": "de",
-"p": 3.5,
-"cr": 3,
-"cv": "Süddeutsche Zeitung",
-"mx": 0
+"mx": 2
 },
 {
 "id": "35fdc27a5faa0d",
 "t": "AI: Você entrevistaria um robô?",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOEMyb0tsdjcwT25nMlloSUFZRW81WVNRS3FpdVh4UE5lWVg1UFhxUVVrNVkxRXdwdS1MUGZLUUVhMktpMHpNSlNxdnd0bVVUbUdGUGxmQzE5ZFRlY01PU3NRWlZhaHpQa0VGbVpYVkk5S2pJWHdYcmZlMzFjOGN6ZnExc3k0a0lUV09HZDF5cVNPVzBiTHBuR3BlOTZtYm9jeDNxaXRySDJibHVVbzRQNElzVTRZX1Yw?oc=5",
+"u": "https://www.handelsblatt.com/karriere/ki-wuerden-sie-ein-bewerbungsgespraech-mit-einem-roboter-fuehren/100248546.html",
 "f": "Handelsblatt",
 "s": "handelsblatt.com",
 "i": "",
@@ -23422,53 +23904,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Handelsblatt",
-"mx": 0
-},
-{
-"id": "051728b080c8c4",
-"t": "o dilema da automação do trabalho: como podemos “tributar” os robôs sem desencorajar a sua adoção",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0JUX2MxdktKdTVaR3lFVXAzU20teEhCQVZrSEtyUmphc0ZCZW15NWpXTXdqZkJwYXByWHM1TlRwczNSSXZQczh4ZTBjdXdSZERtMU1WdWVvS2lFMlRfTllWajFOYVBjaDRGZjRzRHd2NnFnNEQ5bWUzRnJPRElRUmZ1OUlHSVNpcXJfUXFNeUYyNndnSkkyaDA2UjctbUo3UWllSHN3b2FVUVlHa2RWWnFCUXQ0M3J4VFc1c1BfLVA0TjVpT21GTHplN3lvSzlJLTJMMDRLNmFpWlJFd2ZROFpmSmlLUQ?oc=5",
-"f": "la Repubblica",
-"s": "repubblica.it",
-"i": "",
-"d": "2026-11-09T12:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "il dilemma lavoro-automazione come possiamo “tassare” i robot senza scoraggiarne l’adozione",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "La Repubblica",
-"mx": 0
-},
-{
-"id": "8ad0b44660979b",
-"t": "Por menos de 380€ na Amazon, este Roborock aspira e lava chão quase sozinho",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTZFVEhDMTdwVDdkd3AyMkdKY3NWNi1uaUpuMjlkRTN3em5oQkx0ODFCb3BuSWhCbzRQdjF2a2UtRVdLY2VEb3J3NDZXVThtS0gxWElhTkVObFNKYkpQakZpXzZHSS13R3B5SlNyS3F4akx6bW45ckVBNXcxdXlDc2R0YUhjUEdIRGFTVXJ0Z21QQWR4V2JNRmxLM0hRRmF3dFpDQjN2TkprZkU1dVFVWDhPREJNVFo2YS03TUY4bUJvenpxWWxIR1NPRGxNbG02SlNkeElLcTk?oc=5",
-"f": "Futura, le média qui explore le monde",
-"s": "futura-sciences.com",
-"i": "",
-"d": "2026-11-09T12:00-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "À moins de 380 € sur Amazon, ce Roborock aspire et lave les sols presque tout seul",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Futura Sciences",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2346d502f27685",
 "t": "A Amazon está supostamente construindo um ‘robô doméstico’ para os consumidores",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTmc2SFVtUFdjSXd6MC1HNkxBak1ZbTVOTTkweTZReDNWVm94SGF6QndSbVNURGtjcFV2OWxObloxUEY1Sk1ETncydHhDajI1WUZfMlVmUnYzZlVRRm02SDFwUnRjWDZpVDVrZDB2SDNaZl9GTWdSdWhsWUItN2FveW90ZkNJSkswRkJrUVhBQmJ4bDJudFRVTkdoR1dKZ29NVTJvS2RUWFV5QU1VcEszOTNvVHJ5SXJ4cEx1dDE0aGxic1dnQUQ4OXZmak4xMzIxVC03SE5ZMHE?oc=5",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/8736093/amazon-is-reportedly-building-a-home-robot-for-consumers/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
 "i": "",
@@ -23485,70 +23927,10 @@
 "mx": 0
 },
 {
-"id": "4eeb95071f6195",
-"t": "ABB Robotics lança AI Robot Trainer para simplificar a programação de visão de robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjRMV2RmOTdUSkZNTUp6cmdZYVVxcnZrXzBnb1NMcEFPOS1GdHJLY1ZZdmI1a1FKMk9ENURqR0VMSzZIdTZaNGNmQWdWQTY0RjJkS1YyRHpFeXVob3RCZU5RTVBYY2piSFN5LWhoX2FkVUpwbXNfN1ZlWkE3MS14ZzMxbXctU1JnUC1xM3Noazhsb0VBV291T05UbDFJMm1TcGk4LXExaUZONE9yX3d2VWg4NGFmbUpMLUZSR2xHOVVoY1d1TVUzakplNDc?oc=5",
-"f": "Robotics & Automation News",
-"s": "roboticsandautomationnews.com",
-"i": "",
-"d": "2026-11-09T12:20-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "ABB Robotics launches AI Robot Trainer to simplify robot vision programming",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotics & Automation News",
-"mx": 0
-},
-{
-"id": "6c4453b335c995",
-"t": "Noitom Robotics lança dados de captura de mão de precisão HiPHI-Hand usados ​​para treinar NVIDIA EgoHand e demonstra reconstrução de mão em tempo real no CoRL 2026",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORGROc3JIS0JjMlRMNHZMZ2pwMU9zalVGOVl0SGxDbEdwTjdiYUcxLUEtbnpseVViVElvZ2VtcW9aVk9WcWVyLVZxV1JlSVpIbG9uTXZUYUIwdGhkR0RiVEZQQk5RdEhkSFV0bG9PS25EdDE3MFFhakRGU2JIUWE3M1hlZTV0R1hKWkFtXzZEU1FFOWxoeThnMXI2NTl0S0tvV3RkZTRsZzA0X2lHNWppMkw3UEVxdUV6Ym53eXB5VXp6S3NfLVExdGtFZVZ3SHplSkNvT2I3cHJvRVlTR01IRnpFY3ZRcklYZ0t2MzB6dGlEMS1vaFlxQjNKTkNxTFlqSy03dk9wTXVqbmxMM2hCQmFhN0F6bWhaUW9UVml5V0ItM0VZTU1DOWVBUjBENW1GSTJ4S1pn?oc=5",
-"f": "markets.businessinsider.com",
-"s": "markets.businessinsider.com",
-"i": "",
-"d": "2026-11-09T12:27-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Noitom Robotics Releases HiPHI-Hand, Precision Hand Capture Data Used to Train NVIDIA EgoHand, and Demonstrates Real-Time Hand Reconstruction at CoRL 2026",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
-},
-{
-"id": "2c86f1583548e4",
-"t": "Cinco casos em que um robô atacou um humano: um episódio foi sofrido por uma criança",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1dndGw5T2NyejlPWGxCQ29Fd196b1FvQ0hkM3FRcS1scWZUNkY4bllzejVQQUIzYUVaNF9WMlZZaktnX1JFVDJUVjdoRDVRSEJSX2ltT0tKMGhrVk5PS084UW1OZ05LVndHWG1jRVFkV0V6cHZZQzJuWTZ2aHo3T2M1cmpidlVnQWRXSHFLaWVfLWs4QUE2a2tvb3BNNTlBYmdyR0NPMEVqU19uRllxMm9oUDBIT2VWa29yNjR30gHYAUFVX3lxTE12SWo1OVpCVTdSUEh2a2lQdHNvUnI0OUlXaHdOODhicHJTcjlQci1QcDU4QUpzelRKY2hhRUxUUk1ZR2FQVEkxVHJUcm9RS3NOUTBsNjZlbm1CMHA1RGN2TzRhdVJJZUNFVnRTZ0lDQWUxeEZNWU1CSGVxVlVWSjdqOEhJVlZQUzBHWTRiaHFyb3IwUFkyZUdOTWYwdDYtTGNrSk41akN6YnBOOHhqRFN4c1MzbVBVYmxnVC1XT09zdDgzZ0ZtZ0Y1ZjlFN21PdU1EM1RlX1ViMQ?oc=5",
-"f": "Infobae",
-"s": "infobae.com",
-"i": "",
-"d": "2026-11-09T13:27-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Cinco casos en los que un robot atacó a un humano: un episodio lo sufrió un niño",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "Infobae",
-"mx": 0
-},
-{
 "id": "544356730eac9a",
 "t": "As guerras Robotaxi terminarão na união Uber-Waymo",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUml0MXFsTGhBZ1hKVWtqRkZjZTRwbzZsYVBvSWVxVm4tV0hqVkxsUEtiTVI4QkxJcFh6THMwNGJmUTF6ZlVzWlNOeUdSV205ZC1nU1d3MUNTOVlPZEhBQ04zeEw0TF9rcU9xNlVtc0loaUZ2a2FiVGdaNXhQRW4xTXRWa1IzOGx2N3lKY0xqRWhhQ0VLbmVNOTk3M3dtN1gtN3c?oc=5",
+"u": "https://www.reuters.com/commentary/breakingviews/robotaxi-wars-will-end-uber-waymo-union-2026-11-10/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -23562,33 +23944,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 0
-},
-{
-"id": "1484ae589c8799",
-"t": "A busca do Japão por uma lixeira pública melhor – e por que os robôs podem ajudar",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFN6ZTMwczFLOFkxOG95cDhTZ1NYZHMydXF4Xzc2M2dlODREZ2NSRmZZb0pvZlhmakE1MnFLcm1Oc1pfRWNtUDFod2pmRGpycjFTRktZa0ZHRldvX2lwRDd6d2N3dEh0cUc1Xzc1VEswc1VHMGJCZnVDemxZMkdIUzRJUktfUmREYzhZ?oc=5",
-"f": "The Japan Times",
-"s": "japantimes.co.jp",
-"i": "",
-"d": "2026-11-09T14:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Japan’s search for a better public trash bin — and why robots may help",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Japan Times",
-"mx": 0
+"mx": 1
 },
 {
 "id": "5b52446f94ffb6",
 "t": "Impossible Metals afirma ter testado com sucesso robô de mineração de fundo marinho com IA",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1M4ajA4SWJ0OUxmWnBNZFhVaGJaVmxmNXY1eGR0dU5ERDVTd0lzcHBLYnNJTjZicFhvbWxDaGlOZ1FLekZQM3pIUTFpRnFNTHRIRkpPS2k5aEllNEtBNUhXaldQTnJYWTdPaG1MQVd0OXFjRlVEUnZCQ0dGOHp4UXdFSVdiY2F0NkI3SGRIekZoeTRZT2F4MlNaSlA1cmw0cjZTQnR2em9LUHFXUjRMZlhPMGtSNXNra09J?oc=5",
+"u": "https://www.reuters.com/technology/impossible-metals-says-it-has-successfully-tested-ai-seabed-mining-robot-2026-11-09/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -23602,13 +23964,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2ae8ec4826ba1e",
 "t": "EUA prometem acelerar implantação de sistemas anti-drones para enfrentar ameaças",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlhuQjFFMzFiTkdfNTFPVmhTYzR0dnUxNVdadHhVVWRITjlPaEFnWm92QXBoR0tIVW1rQXNQODllLTNQUkVHMUVmSFI4emRCTVc3NVVONkRNci03UUlXa1VUcV9vSkx3dWxYUjdJNlEwcEVvZmRiUlZrWTRaN243dGcwZW96SkhCeVhVblNzd0NqODROVncyeEo3aGVRX3FqZ09iMEozSFVLQ2NITTh4N0d5U0RvNExIT3J0Z0FaLUZPanNfXzJB?oc=5",
+"u": "https://www.reuters.com/business/aerospace-defense/us-vows-speed-up-deployment-counter-drone-systems-address-threats-2026-11-09/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -23622,34 +23984,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 0
-},
-{
-"id": "897d9b70cdaea7",
-"t": "Tribunal superior de Madras discute pesquisas com drones para resgatar nadadores em perigo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVJLa05xRV9ka045YjZySGxNa2VsYVJQX3M1dEZ1YWFYaXFwbU9mNVVSS1pZUlhMT2hrakVZeFotbHFHbDFCZGltb3d4eDNsN1hWSkQ5cFEwZFNqSVgyS2ZMdVZORHU1OXlzVjBzZ0pFRnVPYzhpanE2OU9TWkpXaXZXeG55b1ZUcWd1LWFsRGJMQ0Z4dUoxcVR1UTdrUmJZN0xVb3VnZ2d3RUV3WFRkRVkwZDVybmdGd0g3UllhZ1YwMnJxMzRuRGlPNXA0RTQtTTF4MHYybG54bmvSAeABQVVfeXFMUExCNHlFeFdXSWhDV0owQS03WjNRQVdwdHRXblpWNkFBSnZFYXNvQXNCUHJYbUh0VmJCWWpnVHNmZW5ZNUVWRkx4cmxONGlHRGR1NkVLQ1hCelplVnNrOXJiZVlMWnJxbHNscWZCRGNlSGtCYkZhdndUWGFLaU55WThvV25FdGRoNmEyS3AxZHZka25JSFljZTlHdTh3NXhyZ09pLTNkTUFLUEUzWl9CS0tEeVJpNmlvTG16cHY0U2NzNFdOOFFPbnFNZVJuNXZ4ZmlNS1Q0dWhEa3JYcEFFbF8?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-09T14:17-03:00",
-"c": [
-"drones",
-"resgate"
-],
-"l": 0,
-"to": "Madras high court moots drone surveys to rescue swimmers in distress",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 0
+"mx": 1
 },
 {
 "id": "c0a48cb06c5c14",
 "t": "Drones, K9s and dive teams join search for Cape Cod woman with dementia, missing for days",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbS01bldhMXNhN2liUU1PcHdVYlFXZWg0UTRodUtabmhNZFhtTjk5MUVQTHB3Z2ZoWUYzTzJBZHAtWjJDbjRyU0xab3JWeHU3c1BEeE5VdmVFa1ZGemQ5QWFyUGFqRlNtckk3MFAtYWJ4LXlDVk9zSE9MNXVERnc?oc=5",
+"u": "https://www.cbsnews.com/boston/news/barnstable-missing-woman-clare-fearon/",
 "f": "CBS News",
 "s": "cbsnews.com",
 "i": "",
@@ -23663,13 +24004,14 @@
 "nt": 1,
 "p": 3.5,
 "cr": 3,
-"cv": "CBS News"
+"cv": "CBS News",
+"mx": 1
 },
 {
 "id": "f9bc84ac6cb8a2",
 "t": "O novo recurso de estacionamento do Uber tem um toque de robotáxi",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xbXpVemZYS0x4aTFmSWlsZ3FvVms2QXgzMk5uY2t3dmw0UGdXdnFhS0Jjc2czeHY0Y252WWFxcWJmNGhjbUVmN3ZKSkM5RXU5UWlHYnpxU2lCRHF3Nkt4TW8zSUpkX1RjQ0hqSEtXYWpYS3NQUXpV?oc=5",
+"u": "https://www.axios.com/2026/11/09/uber-parking-feature-robotaxi-sleep",
 "f": "Axios",
 "s": "axios.com",
 "i": "",
@@ -23683,73 +24025,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 0
-},
-{
-"id": "4db827e28203b2",
-"t": "Rogue Cortex emerge do sigilo com US$ 4,5 milhões para simplificar o desenvolvimento da robótica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzJUUWlJaXVsclNpdzVEQkhoa2kzY1g3QW9UdVUydW9QSG5vWVRDc1ZGbEh6QUVoNVFYUGtxLVVDRC1Qa21UU2ViNHlCZUJGbTNnQ3laYjNnc2FVRldHZGhTZUVZb1lDUkJjWUNLcGlVSDFxVnNaYmF6ZDVrWDBCRHMyRmpDOEVUOGpoQTVMYTA5eFRRUU1wanV2SWJSTE0tRHpZTXo5aU1ZMVlvem5iWnJuNEFrRHJFZDk3dEhtTDhEOG1XWWg0aEtDZ2ZLR1Z6RDB6RHZLSQ?oc=5",
-"f": "Robotics & Automation News",
-"s": "roboticsandautomationnews.com",
-"i": "",
-"d": "2026-11-09T14:36-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Rogue Cortex emerges from stealth with $4.5 million to simplify robotics development",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotics & Automation News",
-"mx": 0
-},
-{
-"id": "b866def585a744",
-"t": "Tomada rápida: Robôs vs. Humanos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDU2N2oxY0ZFWTM4YzJxMl8zejEtR0ZueU9FRlZNeG5oNlpDRTZUNzdpZmFmLUpfUUpiSWRpbmxrajJOTHFkbW90N2NzLW44aHdvOFlxUllzNUJlR044bTVIWUV2U09UdDhzUzM5Z0FKSUhrVjU4RDNNaFpXTG1Hc1pwSmI?oc=5",
-"f": "Automation World",
-"s": "automationworld.com",
-"i": "",
-"d": "2026-11-09T14:54-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Quick Take: Robots v. Humans",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Automation World",
-"mx": 0
-},
-{
-"id": "c72ed616d3552b",
-"t": "Chega de aspirar e depois lavar: este aspirador e esfregão robô Roborock faz tudo de uma vez (e está à venda)",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlBYSFRDUV83MGFEbnNqUHlZV1hrWnFPSEhjTnpkaXEzVVZfWTc0M2VOV3hnM3NlbTRPZWloTUxBZmVybkpsZHY1SzNieV9qMVRnUFNSU0tPUmFuR0RuQ3NSQ0dWZVQ2QlYzWmJZZEhTXzV4M29MajFGQWNHZGJwM3JoZFczM2JYb1VodXpndl9JRHR0eGhmeDBZRTNWUDZmc0phb3BqaHc4a0RmMmVjUzMyQmVBa1Fra0hOdGZoamF5SE9qTF9OemctclVJNlFfbDNid3M1NGZ3dTVwNXQ0aTNmQXZSTFFsV0ZoUUdMRUJvQ3FORTZlSA?oc=5",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "",
-"d": "2026-11-09T14:59-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Plus besoin d’aspirer puis de laver : ce robot aspirateur laveur Roborock fait tout en même temps (et il est en promo)",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Le Figaro",
-"mx": 0
+"mx": 1
 },
 {
 "id": "c090be4894dbc9",
 "t": "Opinião | Drones, espiões e potes de mel chineses",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByRFgwWGVXYm9MVF9WenBRUXVVdzhDVEs1WVVTZUZqWHNWWUc2Umd3cW55YmVqRFVwc1Y3bzhXaUhNRGRQNFJKR0NOaVBpQmJpZkZCejZnS1dDOGoxeDJMMm52WlEwUkNLSGpzSTdocDMxbUZXRkE0Vk5TYlU?oc=5",
+"u": "https://www.wsj.com/opinion/chinese-drones-spies-and-honey-pots-0e87b656",
 "f": "WSJ",
 "s": "wsj.com",
 "i": "",
@@ -23763,114 +24045,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Wall Street Journal",
-"mx": 0
-},
-{
-"id": "289256c57f72cc",
-"t": "Agências dos EUA se unem para combater ameaças de drones desonestos em todo o país",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHU4MUE5dWI5RWRXaWNqRkZ6UW1nR292b2MzSzh3VEo2aWJKVlRCMGtSY01WODZzQVd0M2NDc1RhMG9zMTVuckFGMzgzSEZzN0UzWjduNFNlYzR2Smh0cVBmdU03ZUUwMTJOR25TU1lrYUVFeEV3WWJ2OGJreWRyS2NvcUtCRElnajd1NzBSRVlFRzB2Qy0tVjFLajc1X0tE0gGmAUFVX3lxTFBvbjJLbnF4WWdpcXhmR2xWOTVBNm9MaHRaQ1pXVzZncnFmRjdlS0NGeDJ1M3UwWkpNaDlOM25YYUZscHZzQmV1aEROb19NclJZRVNvdGFPRENWZkpMdUUyUDZFR2FnVmRyVmlUWnRzMGN4eWpkOC1kODlLQy0wODVBd0lYcmd4NTFKSkVPWklTdXZ0dUg4UURRVG1UR2RCcU5yTVNnMUE?oc=5",
-"f": "Al Jazeera",
-"s": "aljazeera.com",
-"i": "",
-"d": "2026-11-09T16:10-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "US agencies unite to combat rogue drone threats nationwide",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Al Jazeera",
-"mx": 0
-},
-{
-"id": "aae0a366427c14",
-"t": "Robôs, agentes de IA e uma sonda Nvidia: Web Summit 2026 abre em Lisboa",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1NyTE51cDltQjk2cmpUbmxXeUFic3hzTHgyUUhoN09McWYyeFhPQzBubXduMFBXUnJNZzgxaWF1OHozXzRDMGl4eS1CZkdfVTNVNk52cHNKd1RpSFIyMTg3bzJHU2NpbllJSl80eEpPUGdnRVJZcnE2eDhmbDRaemFzZzVjdEszMUR2c1o5YVBXcWhUZmpyX3J6ekFpSEtjWnRCZ09CUmdFeXNadnVEeXhUYlRxaTdXdFNR?oc=5",
-"f": "Euronews.com",
-"s": "euronews.com",
-"i": "",
-"d": "2026-11-09T16:12-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "Robots, AI agents and a Nvidia probe: Web Summit 2026 Opens in Lisbon",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Euronews",
-"mx": 0
-},
-{
-"id": "cafb4e440d69ba",
-"t": "Fazendo música e manipulando robôs com IA... A exploração de carreira também se tornou mais inteligente.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6TFJaX2ttMG1rYjZpbHN2SElfZGYwWWlaeThoNjJSU3lrWjNGc0JaTGlrWlY2MGlXeWdla0xYcVAxWDRFTG5mSThnSGtpR25xT0FjUENoTW5ib3VNUTlKS3ZlTlgtY3puVTJ4ZG9laFF6Y2tGNkHSAWZBVV95cUxON2E1ZjNHVUhiYUNGUng2eER4ZVNxRjhNelZJc1V1QTctSUt0LWVnZ19kdV9BclRIRUExZ1dMYnNnU3dZREdlNU1kYmdOS3FnMkhDN1RuSTZEc29JdXpTdUMwX0Z5SUE?oc=5",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-09T16:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AI로 음악 만들고 로봇 조작… 진로 탐색도 똑똑해졌다",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 0
-},
-{
-"id": "8c4d913d7f5b35",
-"t": "Imagens de drone de Saleyard parecem mostrar ovelhas jogadas entre animais mortos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbk55U1JqWmxIWDlaRzNQXzllY3dRMlZEM09HMVhjV1Q1d0FMRVI0UUpDVzFvNEhqS0sxWjduM3g4LWwwNUg4WUFtNjBseWZvT2ttTXZtWDJqZU9RaTFDc1hpUTJMdHdzY1lxd1pnWm1Tc014dDhFNHNBZTkwd2RFZlotSkY2LVIzREtMRQ?oc=5",
-"f": "ABC News & Headlines – Australian Broadcasting Corporation",
-"s": "abc.net.au",
-"i": "",
-"d": "2026-11-09T16:36-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Saleyard drone footage appears to show sheep thrown among dead animals",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "ABC News (Austrália)",
-"mx": 0
-},
-{
-"id": "5006f46ff07680",
-"t": "Empresa dos EUA consegue extrair minerais do fundo do mar usando robô de IA, buscando cooperação técnica em águas próximas ao Japão",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vQldjSnBzRjkySDNXTlp3TjFwWWQ3SVpkVEl4VVhoeHBZVnJkT3lEZlpnNlRkcld6eGZFT21ESzNEVEUwZmNXbU8xME5LWUhzS3BDSnN2Y2tEWlBKRjUtUkRlZFFTZUFkN3Y4Uw?oc=5",
-"f": "日本経済新聞",
-"s": "nikkei.com",
-"i": "",
-"d": "2026-11-09T17:00-03:00",
-"c": [
-"subaquaticos"
-],
-"l": 0,
-"to": "AIロボットで海底鉱物採取、米国企業が成功 日本近海で技術協力探る",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 0
+"mx": 1
 },
 {
 "id": "7756d8517f6559",
 "t": "ARK Invest, de Cathie Wood, afirma que o fluxo de caixa do Robotaxi da Tesla poderia financiar as ambições de IA da SpaceX, apoiando uma potencial fusão das duas empresas de Elon Musk. É esta a tese que finalmente revaloriza as ações da Tesla?",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUUtCNnpwNFM1OXlTMFl1ZVgyV1JsbURiejNJSHFJR090U21wOGVXbUFqb05OSGItY25sdmFwWXo5YmNjemZtQXZqbEVsRnJnSzhsNWhSbUdPREZ5N2hRSFQ0c29oT2JvbVhjblpFY3JrZlBzcWttVTBrX3lPNlVSeTE0ckxuOENqaEtybVQxVHpkcWdkdTgxelNhQjFFWnpCV3RoWFpub1UwTVl4Qk9pWTBnbkJuU3RNVkJUWmhFOG5YSEtfRDZMLTk4N05lY0xrUDVzbXV4NVA2RVZ2XzdJUjRDTGttSHYxc0xsdkZ6eERPeFEzQXJKYUJPQU5aSFprVWs2QTl1dVpycEo5NHhaQU5aZWV2R2ZLWHBfTzFzNmY1YTRjX3ZGcTlzVDJFeDlwcmZYVVpuQy1hR2pQdTJIZ25zZDRLWTZ1d2I2LTN0ZVpvZ1BaYTEzVkszSTdoaDd5WVczaTZvQWtESmxBaVhYM0N6RjZnMlJoc2VlME9LSTRmaWpld3RwTS1FU05yYUZwVTJsc09R?oc=5",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/SPCX/pressreleases/8741303/cathie-woods-ark-invest-says-teslas-robotaxi-cash-flow-could-bankroll-spacexs-ai-ambitions-backing-a-potential-merger-of-elon-musks-two-companies-is-this-the-thesis-that-finally-reprices-tesla-stock/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
 "i": "",
@@ -23888,27 +24069,7 @@
 ],
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 0
-},
-{
-"id": "260b2b1b2a203a",
-"t": "Empresa autônoma de transporte elétrico Humble Robotics levanta US$ 51 milhões na Série A",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXViV1N5VUh2WHdlMlExZ01QRkpkbTVwdm12YmZ2RjdhbEpFcUYtZmo0VG43U1dlSFYwRjM1QmNpU0J5QWxTRDlKb3JSX3B5Z1JEaUhpTnZZR2o5WVZnZ18tX0lrVE5aSVRucjRXd04xRHlIVDBWQnpEblhjQlA1OW04MUhGUFlZU2VrZGEzS2gzWVNjS044MW9tODRjMWVCaXQyWm80cmdCYnc?oc=5",
-"f": "Robotics 24/7",
-"s": "robotics247.com",
-"i": "",
-"d": "2026-11-09T17:22-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Autonomous electric hauling company Humble Robotics raises $51M Series A",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotics 24/7",
-"mx": 0
+"mx": 1
 },
 {
 "id": "df255229f2d4ea",
