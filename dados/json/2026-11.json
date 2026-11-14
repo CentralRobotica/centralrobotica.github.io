@@ -30,6 +30,28 @@
 "rx": "(LaPresse) Pelo menos 180 passageiros e tripulantes foram resgatados na sexta-feira depois que um navio-tanque fora de controle bateu e…"
 },
 {
+"id": "170314bf177c59",
+"t": "Gecko Robotics revela robô de inspeção Raptor mais rápido, com ADNOC como primeiro cliente",
+"r": "A Gecko Robotics revelou o Raptor, seu robô de inspeção industrial de próxima geração, projetado para coletar dados sobre as condições de infraestrutura crítica significativamente mais rápido do que os sistemas existentes. Apresentado na ADIPEC 2026, o novo robô será inicialmente utilizado pela ADNOC nos Emirados Árabes Unidos, apoiando o…",
+"u": "https://roboticsandautomationnews.com/2026/11/14/gecko-robotics-unveils-faster-raptor-inspection-robot-with-adnoc-as-first-customer/107096/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/gecko-robotics-Raptor-Tank.jpg",
+"d": "2026-11-14T00:15-03:00",
+"c": [
+"inspecao"
+],
+"l": 1,
+"to": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer",
+"lg": "en",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Gecko Robotics revelou o Raptor, seu robô de inspeção industrial de próxima geração, projetado para coletar dados sobre as condições de infraestrutura crítica significativamente mais rápido do que os sistemas existentes. Apresentado na ADIPEC 2026, o novo robô será inicialmente utilizado pela ADNOC nos Emirados Árabes Unidos, apoiando os esforços da empresa de energia para integrar inteligência artificial e robótica nas operações de manutenção de ativos.\nO Raptor foi projetado para inspecionar tubulações, tanques de armazenamento e outras infraestruturas de aço, coletando informações detalhadas sobre suas condições estruturais para ajudar os operadores a identificar possíveis problemas e planejar a manutenção. De acordo com a Gecko Robotics, o Raptor pode coletar dados de três a cinco vezes mais rápido do que os robôs existentes da empresa e realizar inspeções até 20 vezes mais rápido do que outras ferramentas de inspeção automatizadas disponíveis atualmente."
+},
+{
 "id": "9ca3d3b5f033db",
 "t": "Expoline conclui projeto de logística internacional para robôs humanóides",
 "r": "A Expoline, especialista sul-coreana em exposições internacionais e logística de carga especial, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. O projeto apoiou a participação da empresa em…",
@@ -64,7 +86,7 @@
 "c": [
 "cobots",
 "humanoides",
-"inspecao"
+"negocios"
 ],
 "l": 0,
 "to": "Neura Robotics partners with E.ON to bring humanoid robots to energy infrastructure",
@@ -77,26 +99,27 @@
 "rx": "Neura Robotics, E.ON e a empresa de energia alemã enviaM anunciaram uma parceria para desenvolver aplicações físicas de IA para redes elétricas, com testes iniciais em mundo real planejados para 2027. A colaboração se concentrará no uso de robôs inteligentes para inspecionar e monitorar infraestruturas de energia, incluindo subestações, e apoiar trabalhadores que executam tarefas fisicamente exigentes, repetitivas ou potencialmente perigosas.\nDavid Reger, fundador e CEO da Neura Robotics, afirma: \"A IA física e a robótica cognitiva remodelarão fundamentalmente o setor de energia. Os parceiros desenvolverão capacidades robóticas no TUM RoboGym, desenvolvido pela Neura, um centro de treinamento em robótica de 2.300 metros quadrados inaugurado em outubro de 2026 no Aeroporto de Munique, em colaboração com a Universidade Técnica de Munique."
 },
 {
-"id": "170314bf177c59",
-"t": "Gecko Robotics revela robô de inspeção Raptor mais rápido, com ADNOC como primeiro cliente",
-"r": "A Gecko Robotics revelou o Raptor, seu robô de inspeção industrial de próxima geração, projetado para coletar dados sobre as condições de infraestrutura crítica significativamente mais rápido do que os sistemas existentes. Apresentado na ADIPEC 2026, o novo robô será inicialmente utilizado pela ADNOC nos Emirados Árabes Unidos, apoiando o…",
-"u": "https://roboticsandautomationnews.com/2026/11/14/gecko-robotics-unveils-faster-raptor-inspection-robot-with-adnoc-as-first-customer/107096/",
+"id": "b0222b6e0556da",
+"t": "EXPOLINE conclui com sucesso projeto de logística multimodal para robôs físicos avançados de IA",
+"r": "A Expoline, especialista sul-coreana em exposições internacionais e logística de cargas especiais, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. A Expoline gerenciou o transporte do…",
+"u": "https://roboticsandautomationnews.com/2026/11/14/expoline-successfully-completes-multimodal-logistics-project-for-advanced-physical-ai-robots/107092/",
 "f": "Robotics & Automation News",
 "s": "roboticsandautomationnews.com",
-"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/gecko-robotics-Raptor-Tank.jpg",
-"d": "2026-11-14T00:15-03:00",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/expoline-1.png",
+"d": "2026-11-14T00:08-03:00",
 "c": [
-"inspecao"
+"logistica",
+"ia",
+"humanoides"
 ],
 "l": 0,
-"to": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer",
+"to": "EXPOLINE Successfully Completes Multimodal Logistics project for advanced physical AI robots",
 "lg": "en",
-"esp": 1,
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics & Automation News",
 "mx": 1,
-"rx": "A Gecko Robotics revelou o Raptor, seu robô de inspeção industrial de próxima geração, projetado para coletar dados sobre as condições de infraestrutura crítica significativamente mais rápido do que os sistemas existentes. Apresentado na ADIPEC 2026, o novo robô será inicialmente utilizado pela ADNOC nos Emirados Árabes Unidos, apoiando os esforços da empresa de energia para integrar inteligência artificial e robótica nas operações de manutenção de ativos.\nO Raptor foi projetado para inspecionar tubulações, tanques de armazenamento e outras infraestruturas de aço, coletando informações detalhadas sobre suas condições estruturais para ajudar os operadores a identificar possíveis problemas e planejar a manutenção. De acordo com a Gecko Robotics, o Raptor pode coletar dados de três a cinco vezes mais rápido do que os robôs existentes da empresa e realizar inspeções até 20 vezes mais rápido do que outras ferramentas de inspeção automatizadas disponíveis atualmente."
+"rx": "A Expoline, especialista sul-coreana em exposições internacionais e logística de cargas especiais, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. A Expoline gerenciou o transporte do equipamento robótico avançado da China para a Coreia do Sul, incluindo desembaraço aduaneiro, entrega do estande de exposição e envio de retorno seguro para a China após o evento.\nO gerente de projeto da Expoline afirma: “Ter a confiança do transporte de equipamentos robóticos avançados para a Smart Tech Korea em junho e para o Seoul AI Robot Show de 2026 reflete nossa experiência em manuseio de carga de precisão e a confiança que nossos clientes depositam em nossos serviços."
 },
 {
 "id": "a6c3746d1ef6bd",
@@ -109,8 +132,8 @@
 "d": "2026-11-14T00:56-03:00",
 "c": [
 "entrega",
-"negocios",
-"drones"
+"drones",
+"negocios"
 ],
 "l": 0,
 "to": "Zipline raises an unbelievable $1.5 billion to build nationwide drone delivery network",
@@ -132,10 +155,9 @@
 "i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/wing-drone-company-1.png",
 "d": "2026-11-14T01:04-03:00",
 "c": [
-"industriais",
 "negocios",
 "drones",
-"entrega"
+"industriais"
 ],
 "l": 0,
 "to": "Wing invests $125 million in US drone manufacturing to support nationwide expansion",
@@ -224,7 +246,8 @@
 "i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/Echodyne-bae-systems-anti-drone.jpg?quality=82&strip=all&w=1200",
 "d": "2026-11-14T04:56-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Echodyne radar strengthens BAE Systems’ drone detection capabilities",
@@ -235,28 +258,6 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "A BAE Systems está adicionando outra camada de capacidade de radar às suas operações de combate a drones com o radar EchoShield da Echodyne."
-},
-{
-"id": "b0222b6e0556da",
-"t": "EXPOLINE conclui com sucesso projeto de logística multimodal para robôs físicos avançados de IA",
-"r": "A Expoline, especialista sul-coreana em exposições internacionais e logística de cargas especiais, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. A Expoline gerenciou o transporte do…",
-"u": "https://roboticsandautomationnews.com/2026/11/14/expoline-successfully-completes-multimodal-logistics-project-for-advanced-physical-ai-robots/107092/",
-"f": "Robotics & Automation News",
-"s": "roboticsandautomationnews.com",
-"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/expoline-1.png",
-"d": "2026-11-14T00:08-03:00",
-"c": [
-"logistica",
-"ia"
-],
-"l": 0,
-"to": "EXPOLINE Successfully Completes Multimodal Logistics project for advanced physical AI robots",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotics & Automation News",
-"mx": 1,
-"rx": "A Expoline, especialista sul-coreana em exposições internacionais e logística de cargas especiais, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. A Expoline gerenciou o transporte do equipamento robótico avançado da China para a Coreia do Sul, incluindo desembaraço aduaneiro, entrega do estande de exposição e envio de retorno seguro para a China após o evento.\nO gerente de projeto da Expoline afirma: “Ter a confiança do transporte de equipamentos robóticos avançados para a Smart Tech Korea em junho e para o Seoul AI Robot Show de 2026 reflete nossa experiência em manuseio de carga de precisão e a confiança que nossos clientes depositam em nossos serviços."
 },
 {
 "id": "2df10d32ce653a",
@@ -289,7 +290,8 @@
 "i": "https://www.infobae.com/resizer/v2/EFALAXATZVHS7DWIU7HZONZBQU.JPG?auth=a5e382aba39a6a207c496df79047fb46759f11213c6dcd74c2a8fd54297640d2&smart=true&width=1200&height=630&quality=85",
 "d": "2026-11-14T00:52-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Las fuerzas de EEUU respondieron a una presunta actividad de drones no autorizada sobre una base en Gran Bretaña",
@@ -331,7 +333,8 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
 "d": "2026-11-14T02:10-03:00",
 "c": [
-"geral"
+"ia",
+"competicoes"
 ],
 "l": 0,
 "to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
@@ -352,7 +355,8 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=757&sl=W&fw=1050&exp=3600",
 "d": "2026-11-14T02:10-03:00",
 "c": [
-"geral"
+"ia",
+"competicoes"
 ],
 "l": 0,
 "to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
@@ -373,7 +377,8 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600",
 "d": "2026-11-14T02:10-03:00",
 "c": [
-"geral"
+"ia",
+"competicoes"
 ],
 "l": 0,
 "to": "台灣深化波羅的海科技合作聚焦智慧機器人商機| 科技產業| 產經",
@@ -394,7 +399,8 @@
 "i": "https://static.toiimg.com/thumb/msid-135825036,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
 "d": "2026-11-14T03:32-03:00",
 "c": [
-"drones"
+"drones",
+"medicina"
 ],
 "l": 0,
 "to": "Drone Scare At Key US Fighter Base In Britain, Lakenheath Security Forces Rush Into Action",
@@ -458,7 +464,8 @@
 "d": "2026-11-14T05:12-03:00",
 "c": [
 "drones",
-"defesa"
+"defesa",
+"medicina"
 ],
 "l": 0,
 "to": "Drone Scare At RAF Lakenheath: US Air Force Confirms Unauthorised Activity Over UK Base",
@@ -479,7 +486,7 @@
 "i": "",
 "d": "2026-11-14T02:17-03:00",
 "c": [
-"ia"
+"geral"
 ],
 "l": 0,
 "to": "Welcome, AIRoA-0!",
@@ -488,7 +495,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "Este modelo de base de robô vem da AIRoA, a AI Robot Association do Japão, uma organização com sede em Tóquio apoiada pelo Ministério da Economia, Comércio e Indústria. Pertence à categoria de modelo de ação de linguagem de visão, conectando pesquisas em inteligência artificial com controle de robôs. A sua escolha de investigação definidora diz respeito a dados de formação: a equipa utilizou gravações humanas em vez de recolher demonstrações através da operação de robôs.\nPara os pesquisadores, o projeto fornece um tema concreto para examinar os custos de coleta de demonstração, a construção de conjuntos de dados e o papel da atividade humana registrada no desenvolvimento do modelo de base do robô. O envolvimento da Toyota diz respeito ao dispositivo de gravação YUBI, enquanto o apoio institucional da associação vem do Ministério da Economia, Comércio e Indústria do Japão."
 },
 {
@@ -562,6 +569,7 @@
 "i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/Tau-Robotics-Haushaltsroboter.png?class=content",
 "d": "2026-11-14T04:45-03:00",
 "c": [
+"servico",
 "ia"
 ],
 "l": 0,
@@ -572,6 +580,69 @@
 "cv": "t3n",
 "mx": 1,
 "rx": "As máquinas desenvolvidas pela startup Tau Robotics, em São Francisco, ainda exigem muita orientação humana e não parecem feitas para subir escadas. Sou muito mesquinho e, de alguma forma, gosto de colocar um podcast e usar uma esponja de limpeza milagrosa na banheira. Mas quando vi uma postagem no X sobre um novo serviço de limpeza com robôs humanóides em São Francisco, imediatamente me coloquei na lista de espera.\nPara garantir uma experiência autêntica, não contei à Tau Robotics, a startup por trás do post X, que era jornalista – embora tenha incluído meu nome verdadeiro, então é possível que alguém me tenha localizado."
+},
+{
+"id": "ffe0a06a70e1b6",
+"t": "“O drone faz o trabalho em menos de uma hora”: nas Índias Ocidentais, a população está dividida por causa da pulverização aérea nas plantações de banana",
+"r": "",
+"u": "https://www.lesechos.fr/pme-regions/outre-mer/le-drone-accomplit-le-travail-en-moins-dune-heure-aux-antilles-la-population-se-divise-sur-lepandage-aerien-dans-les-bananeraies-2262657",
+"f": "Les Echos",
+"s": "lesechos.fr",
+"i": "",
+"d": "2026-11-14T07:10-03:00",
+"c": [
+"drones",
+"agricolas"
+],
+"l": 0,
+"to": "« Le drone accomplit le travail en moins d'une heure » : aux Antilles, la population se divise sur l'épandage aérien dans les bananeraies",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "Les Echos",
+"mx": 1
+},
+{
+"id": "dd05b1825d9cd5",
+"t": "Ecovacs Deebot T50 Pro Omni Gen3: este esfregão robô com estação custa metade do preço",
+"r": "Vendido pela Ecovacs e enviado pela Amazon, o Deebot T50 Pro Omni Gen3 custa 299 euros em comparação com 599 euros pelo preço recomendado, um desconto de 50%. Este robô tem um poder de sucção de 25.000 Pa. Graças ao seu módulo LiDAR dToF integrado, mede apenas 81 mm de altura e pode deslizar sob móveis baixos. A sua…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t50-pro-omni-gen3-est-a-299-50-n267490.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/267490/20426410-black-friday-2026-l-aspirateur-robot-laveur-ecovacs-deebot-t50-pro-omni-gen3-est-a-299-50__1200_678__0-314-3000-1889.webp",
+"d": "2026-11-14T07:31-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ecovacs Deebot T50 Pro Omni Gen3 : ce robot laveur avec station est à moitié prix",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido pela Ecovacs e enviado pela Amazon, o Deebot T50 Pro Omni Gen3 custa 299 euros em comparação com 599 euros pelo preço recomendado, um desconto de 50%. Este robô tem um poder de sucção de 25.000 Pa. Graças ao seu módulo LiDAR dToF integrado, mede apenas 81 mm de altura e pode deslizar sob móveis baixos. A sua câmara AIVI 3D 3.0, combinada com iluminação 3D estruturada, permite reconhecer obstáculos em tempo real e seguir os seus contornos para limpar o mais próximo possível.\nA estação Omni esvazia automaticamente o coletor, lava a almofada a 75°C, seca com ar quente a 45°C e adiciona sozinha a solução de limpeza. O conjunto, porém, mede 47,7 x 35 x 53,3 cm conforme ficha do produto: é melhor disponibilizar espaço para a estação."
+},
+{
+"id": "78f41d52225558",
+"t": "Recomendação da marca do robô inteligente para cuidados com idosos Qingdao 2026: avaliação comparativa de seis marcas adequadas e análise de pontos-chave para evitar armadilhas na seleção do modelo",
+"r": "Escopo de negócios: O principal produto é o robô multifuncional de cuidado de idosos incorporado em casa HT-X2, que é orientado para cenários de cuidados domiciliares de idosos e enfermagem. Ele desenvolveu quinze funções principais e é vendido por meio do JD.com e de canais nacionais de parceiros estratégicos…",
+"u": "https://www.ithome.com/1/027/202.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-14T07:16-03:00",
+"c": [
+"companhia"
+],
+"l": 0,
+"to": "2026年青岛智能养老机器人品牌推荐：六个合适品牌对比评估与选型避坑要点解析",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Escopo de negócios: O principal produto é o robô multifuncional de cuidado de idosos incorporado em casa HT-X2, que é orientado para cenários de cuidados domiciliares de idosos e enfermagem. Ele desenvolveu quinze funções principais e é vendido por meio do JD.com e de canais nacionais de parceiros estratégicos off-line. Possui um centro de serviços local em Qingdao, que pode fornecer instalação, comissionamento e coordenação pós-venda para usuários na área de Qingdao. Ao comprar robôs inteligentes para cuidados de idosos para famílias em Qingdao, recomenda-se seguir o caminho de \"estabelecer primeiro os padrões, depois olhar para a adaptação e depois fornecer serviços\": estabelecer uma estrutura de avaliação baseada em seis dimensões: segurança e conformidade, grau de autonomia técnica, correspondência de cenário, proteção de privacidade, serviços locais e gradiente de preços; depois selecionar marcas candidatas com base em cenários específicos, como companhia para viver sozinho, gestão de doenças crónicas, cuidados assistidos, etc.; e, finalmente, verificar as funções e a aceitação pelos idosos através de demonstrações e testes no local."
 }
 ],
 "2026-11-13": [
@@ -872,6 +943,27 @@
 "cv": "ZDNet Korea",
 "mx": 1,
 "rx": "HANGZHOU, China, 13 de novembro de 2026 /PRNewswire/ -- O Grupo HANGCHA, fabricante líder de empilhadeiras e empresa de soluções inteligentes de manuseio de materiais, convidou aproximadamente 500 revendedores de mais de 100 países e regiões para a 4ª Conferência Global de Revendedores em Hangzhou. As vendas anuais de empilhadeiras da Hangcha aumentaram de 138.000 unidades em 2019, quando a conferência anterior foi realizada, para 334.000 unidades em 2025. Hangcha também revelou duas novas séries de empilhadeiras contrabalançadas elétricas e empilhadeiras retráteis da Série X. Hangcha planeja desenvolver equipamentos mais ecológicos e soluções logísticas inteligentes, investindo no setor manufatureiro com a meta de 2030. Hangcha planeja arrecadar mais de 2 bilhões de yuans para construir uma nova fábrica inteligente para empilhadeiras inteligentes e caminhões retráteis.\nA Hangcha planeja desenvolver empilhadeiras autônomas e soluções logísticas inteligentes com base em seus pontos fortes no novo campo de empilhadeiras energéticas e continuar a investir em seu negócio principal, os veículos industriais. Com a visão de se tornar a melhor empresa de equipamentos logísticos do mundo, a Hangcha planeja trabalhar com parceiros globais para transformar esse desenvolvimento em melhores produtos e serviços para clientes em todo o mundo."
+},
+{
+"id": "8b246564cb2087",
+"t": "Para permitir que IA geral, como GPT-6 Astra, sirva como o “cérebro” dos robôs: OpenAI anuncia a reorganização da equipe de inteligência incorporada",
+"r": "A IT House informou em 14 de novembro que a Fortune publicou uma postagem no blog ontem (13 de novembro), dando a notícia de que a OpenAI dissolveu sua equipe independente de robôs e transferiu pessoal relevante para outros departamentos da empresa. A OpenAI confirmou este ajuste organizacional à mídia, mas enfatizou…",
+"u": "https://www.ithome.com/1/027/004.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-13T20:17-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+"lg": "zh",
+"p": 8.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 2,
+"rx": "A IT House informou em 14 de novembro que a Fortune publicou uma postagem no blog ontem (13 de novembro), dando a notícia de que a OpenAI dissolveu sua equipe independente de robôs e transferiu pessoal relevante para outros departamentos da empresa. A OpenAI confirmou este ajuste organizacional à mídia, mas enfatizou que esse ajuste não significa retirar-se do campo da robótica. A robótica continua a ser o núcleo da sua visão a longo prazo e a reorganização visa acelerar a investigação e o desenvolvimento.\nEm termos de ajustes arquitetônicos, os pesquisadores de robótica foram integrados à equipe principal de pesquisa e reportados ao diretor de pesquisa, Mark Chen; a equipe de robótica e hardware de aplicação foi transferida para o departamento maior de aplicação, chefiado pelo presidente da empresa, Greg Brockman."
 },
 {
 "id": "bda6951ab9e88e",
@@ -1885,6 +1977,28 @@
 "rx": "Os armazéns automatizados estão mudando a forma como a logística funciona através de sistemas inteligentes de manuseio de materiais, robótica e veículos autônomos. No entanto, o aumento da automatização no local de trabalho está a introduzir novos desafios de segurança, uma vez que máquinas, equipamentos móveis e pessoas partilham o mesmo ambiente complexo. A secção abaixo tenta destacar a importância da infraestrutura de segurança em termos de proteção dos trabalhadores, prevenção de colisões e manutenção do funcionamento contínuo das operações do armazém.\nCom uma infraestrutura de segurança de armazém eficaz, as empresas podem lidar com os riscos físicos associados a um ambiente automatizado movimentado (onde as rotas de pedestres e máquinas em movimento se encontram). Um armazém bem organizado permite que os funcionários e os equipamentos automatizados se movimentem sem riscos desnecessários."
 },
 {
+"id": "710dfc17c16292",
+"t": "Esses robôs humanóides já manipulam componentes em fábricas de computadores",
+"r": "A empresa taiwanesa ASUS desenvolve um robô humanóide chamado Gallop para automatizar tarefas repetitivas na fabricação de eletrônicos. De acordo com a ASUS, Gallop busca demonstrar que robôs humanóides podem executar consistentemente operações reais de fábrica, e não se limitar a demonstrações controladas e únicas. A…",
+"u": "https://www.infobae.com/tecno/2026/11/13/estos-robots-humanoides-ya-manipulan-componentes-en-fabricas-de-computadoras/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/KU55JHXTHZEV7E4ZKTDDCUTZXQ.png?auth=433a37f36159b7baeb70547386ec907ff2a55ce8fe7f7cd3f5305ca5cba04e59&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-13T19:33-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Estos robots humanoides ya manipulan componentes en fábricas de computadoras",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "A empresa taiwanesa ASUS desenvolve um robô humanóide chamado Gallop para automatizar tarefas repetitivas na fabricação de eletrônicos. De acordo com a ASUS, Gallop busca demonstrar que robôs humanóides podem executar consistentemente operações reais de fábrica, e não se limitar a demonstrações controladas e únicas. A ASUS escolheu esse trabalho para ver se Gallop conseguiria lidar com a maior parte de uma operação sem que um trabalhador humano tivesse que ficar com ele durante todo o processo.\nO treinamento também inclui realidade virtual: um operador com capacete e luvas guia Gallop nas tarefas usando os mesmos componentes e câmeras presentes na posição real. A ASUS dividiu a arquitetura de IA do Gallop em quatro camadas: planejamento, monitoramento, habilidades e controle."
+},
+{
 "id": "916f45b01bb089",
 "t": "A IA sobrecarrega a física do laser com um impressionante aumento de velocidade de 250x",
 "r": "Pesquisadores de Stanford, UCLA e SLAC desenvolveram um sistema de IA que simula interações complexas de laser milhares de vezes mais rápido do que os métodos convencionais. A descoberta permite aos cientistas prever como os pulsos de laser se comportam dentro de cristais especiais em apenas milissegundos, sem sacrificar muita precisão. Esse…",
@@ -1904,7 +2018,8 @@
 "cr": 3,
 "cv": "ScienceDaily",
 "mx": 1,
-"rx": "Simular o comportamento complexo da luz dentro de sistemas laser poderosos requer enormes recursos computacionais, tornando difícil para os pesquisadores prever e ajustar rapidamente o desempenho do laser. Usando aprendizado profundo, a nova abordagem reproduz os resultados de simulações convencionais em uma fração do tempo, mantendo alta precisão em uma ampla variedade de formatos de pulso de laser.\nEssas interações ocorrem quando as ondas de luz trocam energia enquanto viajam através de cristais especialmente projetados, permitindo aos cientistas alterar a frequência da luz e controlar com precisão a forma dos pulsos de laser. Com base em pesquisas anteriores que usaram redes semelhantes para prever como os pulsos de laser viajam através das fibras ópticas, os cientistas adaptaram a abordagem para lidar com interações mais complicadas envolvendo múltiplas ondas de luz."
+"rx": "Simular o comportamento complexo da luz dentro de sistemas laser poderosos requer enormes recursos computacionais, tornando difícil para os pesquisadores prever e ajustar rapidamente o desempenho do laser. Usando aprendizado profundo, a nova abordagem reproduz os resultados de simulações convencionais em uma fração do tempo, mantendo alta precisão em uma ampla variedade de formatos de pulso de laser.\nEssas interações ocorrem quando as ondas de luz trocam energia enquanto viajam através de cristais especialmente projetados, permitindo aos cientistas alterar a frequência da luz e controlar com precisão a forma dos pulsos de laser. Com base em pesquisas anteriores que usaram redes semelhantes para prever como os pulsos de laser viajam através das fibras ópticas, os cientistas adaptaram a abordagem para lidar com interações mais complicadas envolvendo múltiplas ondas de luz.",
+"cur": 1
 },
 {
 "id": "760f523d819f42",
@@ -2785,7 +2900,7 @@
 "i": "https://www.infobae.com/resizer/v2/U7FU2PNCLRHNVLOUOWPS4BKPWA.jpg?auth=203a60467b1781804b998e98dea8afd4947026b2c052ec0e3baedd8874f11393&smart=true&width=1200&height=630&quality=85",
 "d": "2026-11-13T18:29-03:00",
 "c": [
-"geral"
+"resgate"
 ],
 "l": 0,
 "to": "Crean robots flexibles inspirados en las trompas de los elefantes: cómo funcionan",
@@ -2794,7 +2909,29 @@
 "cr": 3,
 "cv": "Infobae",
 "mx": 1,
-"rx": "Uma equipe da Colorado State University (CSU) desenvolveu robôs flexíveis inspirados em trombas de elefante, capazes de dobrar, segurar objetos e unir-se para formar estruturas maiores que poderiam ser usadas na exploração espacial, resgates ou tarefas industriais complexas, informou o TechXplore, portal especializado em ciência e tecnologia.\nAo contrário dos robôs convencionais, construídos com blocos rígidos que limitam os seus movimentos, estas máquinas utilizam uma estrutura de tensegridade: hastes rígidas suportadas por uma rede de cabos tensionados que lhes permitem dobrar, esticar e modificar a sua forma dependendo do terreno ou da tarefa. O investigador definiu estes sistemas como robôs generalistas, com possíveis aplicações em operações de busca e salvamento ou como apoio a trabalhadores humanos em ambientes fabris."
+"rx": "Uma equipe da Colorado State University (CSU) desenvolveu robôs flexíveis inspirados em trombas de elefante, capazes de dobrar, segurar objetos e unir-se para formar estruturas maiores que poderiam ser usadas na exploração espacial, resgates ou tarefas industriais complexas, informou o TechXplore, portal especializado em ciência e tecnologia.\nAo contrário dos robôs convencionais, construídos com blocos rígidos que limitam os seus movimentos, estas máquinas utilizam uma estrutura de tensegridade: hastes rígidas suportadas por uma rede de cabos tensionados que lhes permitem dobrar, esticar e modificar a sua forma dependendo do terreno ou da tarefa. O investigador definiu estes sistemas como robôs generalistas, com possíveis aplicações em operações de busca e salvamento ou como apoio a trabalhadores humanos em ambientes fabris.",
+"cur": 1
+},
+{
+"id": "8dd457d8281d1d",
+"t": "Wing Drones chegam a Ocoee Walmart e a polícia diz que não são deles",
+"r": "Wing agora está entregando pedidos do Walmart por drone do Supercenter em 10500 W. Colonial Drive em Ocoee, Flórida, informou o West Orange Times & Observer na sexta-feira, 13 de novembro. Ocoee se junta às lojas Apopka e Clermont que abriram o primeiro mercado de Wing na Flórida em 29 de julho.",
+"u": "https://dronexl.co/2026/11/13/wing-walmart-ocoee-drone-delivery-police-not-ours/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wing-delivery-drone-box-overhead-trees.webp",
+"d": "2026-11-13T19:12-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Wing Drones Reach Ocoee Walmart, And Police Say They're Not Theirs",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "Wing agora está entregando pedidos do Walmart por drone do Supercenter em 10500 W. Colonial Drive em Ocoee, Flórida, informou o West Orange Times & Observer na sexta-feira, 13 de novembro. Ocoee se junta às lojas Apopka e Clermont que abriram o primeiro mercado de Wing na Flórida em 29 de julho.\nWing disse em 29 de julho que planejava adicionar Ocoee “nas próximas semanas”. O primeiro relato de entregas chegou 107 dias depois. Wing listou mais três lojas planejadas para as próximas semanas quando lançou a Grande Orlando em 29 de julho: Ocoee, um segundo Clermont Supercenter na US Highway 27, e Haines City. A mesma página agora lista quatro: Apopka, Clermont, Haines City e Ocoee."
 },
 {
 "id": "db09fe067bd294",
@@ -3112,6 +3249,27 @@
 ],
 "l": 0,
 "to": "クマの食害、人身被害 4足歩行ロボットが守る 実用化目指し実証実験音、スプレーで撃退へ 鹿角の農園 ／秋田",
+"lg": "ja",
+"p": 4.3,
+"cr": 3,
+"cv": "Mainichi",
+"mx": 3
+},
+{
+"id": "18a2847cfcac38",
+"t": "Comunicado de imprensa: XNOVA expõe na \"NexTech Week 2026 [Outono] 1st Humanoid Robot EXPO\" Mais de 1.500 pessoas visitaram durante 3 dias, tornando o estande um grande sucesso (PR TIMES)",
+"r": "",
+"u": "https://mainichi.jp/articles/20261114/pr2/00m/020/025000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "",
+"d": "2026-11-13T23:52-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "プレスリリース：XNOVA、「NexTech Week 2026［秋］第1回ヒューマノイドロボットEXPO」に出展 3日間で1,500人以上が来場し、ブースは大盛況に（PR TIMES）",
 "lg": "ja",
 "p": 4.3,
 "cr": 3,
@@ -3862,26 +4020,6 @@
 "rx": "Embora as oportunidades de tratamento para os pacientes estejam a expandir-se com o avanço das tecnologias de tratamento, como a trombectomia mecânica, ainda existem diferenças nas condições de prestação de tratamento especializado, dependendo da distribuição do pessoal médico profissional e da infra-estrutura de tratamento. Assim, o governo e as instituições médicas continuam a envidar esforços para aumentar a acessibilidade ao tratamento profissional, tais como o reforço do sistema de cooperação em tratamento médico e a utilização de IA médica. Recentemente, tem sido pesquisada tecnologia que permite a participação direta de especialistas remotos em procedimentos por meio de robôs, sugerindo novas possibilidades de redução de tempo, distância e restrições de recursos médicos. ◇Avanços no tratamento do AVC… As condições de tratamento profissional por instituição médica ainda diferem. Entre os pacientes com acidente vascular cerebral isquêmico agudo, a trombectomia mecânica, que remove diretamente o coágulo sanguíneo por meio de um cateter, é utilizada como principal tratamento para pacientes com oclusão de grandes vasos. À medida que a tecnologia de tratamento e os sistemas médicos de emergência se desenvolvem, a base para a prestação de tratamento profissional rápido está a ser reforçada na Coreia. Com o avanço da tecnologia de tratamento, o uso eficiente do pessoal médico profissional e da infraestrutura de tratamento continua a ser uma tarefa importante. ◇Um sistema de cooperação médica que conecta capacidades médicas profissionais... Expandindo a utilização de IA médica O governo e as instituições médicas estão fortalecendo o sistema de cooperação entre instituições médicas para aumentar a acessibilidade aos recursos médicos profissionais. Embora as redes de cooperação médica e a IA médica contribuam para reforçar a ligação entre os pacientes e o tratamento especializado, a tecnologia robótica remota para utilizar diretamente capacidades médicas especializadas à distância também está a ser investigada recentemente. ◇Trombectomia realizada por um especialista remoto usando um robô…"
 },
 {
-"id": "18a2847cfcac38",
-"t": "Comunicado de imprensa: XNOVA expõe na \"NexTech Week 2026 [Outono] 1st Humanoid Robot EXPO\" Mais de 1.500 pessoas visitaram durante 3 dias, tornando o estande um grande sucesso (PR TIMES)",
-"r": "",
-"u": "https://mainichi.jp/articles/20261114/pr2/00m/020/025000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "",
-"d": "2026-11-13T23:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "プレスリリース：XNOVA、「NexTech Week 2026［秋］第1回ヒューマノイドロボットEXPO」に出展 3日間で1,500人以上が来場し、ブースは大盛況に（PR TIMES）",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Mainichi",
-"mx": 3
-},
-{
 "id": "da61593219e652",
 "t": "Indo a Pequim para fazer o exame: três empresas de robôs humanóides × régua de cinco dimensões para ver claramente a confiabilidade, taxa de correspondência e folha de respostas do cenário",
 "r": "De acordo com a CCTV, o \"Plano de Ação de Desenvolvimento de Alta Qualidade de Pequim para a Indústria de Robôs Inteligentes Incorporados (2026-2028)\", lançado em 11 de novembro, traça um \"mapa de construção\" para a indústria de robôs humanóides nos próximos três anos: até 2028, a capacidade completa de produção de…",
@@ -3901,6 +4039,26 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "De acordo com a CCTV, o \"Plano de Ação de Desenvolvimento de Alta Qualidade de Pequim para a Indústria de Robôs Inteligentes Incorporados (2026-2028)\", lançado em 11 de novembro, traça um \"mapa de construção\" para a indústria de robôs humanóides nos próximos três anos: até 2028, a capacidade completa de produção de máquinas Pequim-Tianjin-Hebei será responsável por 25% do país, a taxa de correspondência de peças-chave excederá 60%, uma capacidade anual de produção de máquinas completas de 200.000 unidades serão formadas em Pequim, e o tempo médio de trabalho sem problemas da máquina completa excederá 2.000 horas. Este artigo extrai as cinco dimensões de confiabilidade, dados do modelo, plataforma completa da máquina, correspondência de peças e implementação de cena, e classifica as respostas da estação de trabalho de três empresas representativas de robôs humanóides: Topstar, Ubiselect e Zhiyuan Robot."
+},
+{
+"id": "7f3636a55f7848",
+"t": "Os 10 melhores robôs humanóides, classificados: Tesla, Unitree e mais",
+"r": "",
+"u": "https://www.techrepublic.com/fr/article/news-humanoid-robot-power-rankings-list/",
+"f": "TechRepublic",
+"s": "techrepublic.com",
+"i": "",
+"d": "2026-11-13T19:36-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More",
+"lg": "en",
+"p": 3.0,
+"cr": 2,
+"cv": "TechRepublic",
+"mx": 1
 },
 {
 "id": "55a9953293db37",
@@ -3965,27 +4123,6 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "Dentro de um orçamento de 10.000 yuans, robôs exoesqueletos de consumo equipados com sistemas de detecção de terreno foram incluídos na linha opcional. Tome π6 como exemplo. É vendido por 6.899 yuans. É equipado com uma IMU e um chip single-core. Ele pode identificar três tipos de tendências de terreno para ajudar a acompanhar após dar um passo. Ele oferece dois modos: padrão e fitness, com assistência máxima de 10 N·m e potência de pico de 300 W. Se é a primeira vez que você compra um robô exoesqueleto para cenários diários como deslocamento urbano, caminhadas no parque, compras em supermercados, auxílio para caminhada de idosos e passeios de lazer nos finais de semana, esta configuração não desperdiçará seu orçamento.\nO robô exoesqueleto de consumo é um dispositivo de assistência à caminhada que melhora a resistência do corpo humano e proporciona exercícios cardiopulmonares e musculares mais equilibrados. Não é um dispositivo médico, não possui capacidade de suporte corporal e não tem efeito terapêutico."
-},
-{
-"id": "8b246564cb2087",
-"t": "Para permitir que IA geral, como GPT-6 Astra, sirva como o “cérebro” dos robôs: OpenAI anuncia a reorganização da equipe de inteligência incorporada",
-"r": "A IT House informou em 14 de novembro que a Fortune publicou uma postagem no blog ontem (13 de novembro), dando a notícia de que a OpenAI dissolveu sua equipe independente de robôs e transferiu pessoal relevante para outros departamentos da empresa. A OpenAI confirmou este ajuste organizacional à mídia, mas enfatizou…",
-"u": "https://www.ithome.com/1/027/004.htm",
-"f": "IT之家",
-"s": "ithome.com",
-"i": "",
-"d": "2026-11-13T20:17-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-"lg": "zh",
-"p": 2.5,
-"cr": 2,
-"cv": "IT之家 (IThome)",
-"mx": 1,
-"rx": "A IT House informou em 14 de novembro que a Fortune publicou uma postagem no blog ontem (13 de novembro), dando a notícia de que a OpenAI dissolveu sua equipe independente de robôs e transferiu pessoal relevante para outros departamentos da empresa. A OpenAI confirmou este ajuste organizacional à mídia, mas enfatizou que esse ajuste não significa retirar-se do campo da robótica. A robótica continua a ser o núcleo da sua visão a longo prazo e a reorganização visa acelerar a investigação e o desenvolvimento.\nEm termos de ajustes arquitetônicos, os pesquisadores de robótica foram integrados à equipe principal de pesquisa e reportados ao diretor de pesquisa, Mark Chen; a equipe de robótica e hardware de aplicação foi transferida para o departamento maior de aplicação, chefiado pelo presidente da empresa, Greg Brockman."
 },
 {
 "id": "f44f3ce47aa58e",
@@ -5925,7 +6062,9 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35510401.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
 "d": "2026-11-12T01:23-03:00",
 "c": [
-"geral"
+"educacao",
+"competicoes",
+"agricolas"
 ],
 "l": 0,
 "to": "全國AI機器人競賽台東大豐收！32名學生抱回20獎 長濱國中雙料特優",
@@ -12901,7 +13040,7 @@
 "i": "https://img8.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112035400017_01_i_P4.jpg",
 "d": "2026-11-11T22:00-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "LG CNS, 글로벌 로봇 석학들과 피지컬AI 산업화 모색",
@@ -15078,36 +15217,6 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 12.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 2,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
-},
-{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -15264,6 +15373,36 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 11.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -16087,36 +16226,6 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
-},
-{
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 2,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -17311,6 +17420,36 @@
 "mx": 3
 },
 {
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 1,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
+},
+{
 "id": "04f31f697e3b0c",
 "t": "Preço atual das ações da empresa de robôs (2026-11-10)",
 "r": "",
@@ -17630,7 +17769,7 @@
 "i": "https://biz.chosun.com/resizer/v2/FHYHRZVQF5CN7KEYJIJZK3WD5Q.gif?auth=d3e0263c85575a02c9354132a119b101acdeae9be27921186c070c0b77bda707&width=800&height=420&smart=true",
 "d": "2026-11-10T03:23-03:00",
 "c": [
-"geral"
+"industriais"
 ],
 "l": 0,
 "to": "[르포] “작업자 1명이 로봇으로 6명 몫”… HD현대重 울산조선소 가보니",
@@ -18270,7 +18409,7 @@
 "u": "https://www.chosun.com/economy/tech_it/2026/11/11/AJJCY33CRVEH7PP2J4QWUD3NBA/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/47EF4T6KDZHT3PNQULQAKJPQ3A.jpg?auth=2c6e32235bd4cbd34233e662d367f712eb161b8829ae3cac2d50d7e8e442926e&width=945&height=496&focal=443,221",
+"i": "",
 "d": "2026-11-10T12:34-03:00",
 "c": [
 "exoesqueletos"
@@ -18281,7 +18420,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "Robôs vestíveis usados ​​para fins industriais e médicos estão em transição para bens de consumo diários. O mercado está crescendo com a proliferação de lojas off-line onde os clientes podem comprar produtos após usá-los e serviços de aluguel de curto prazo. O feedback dos consumidores reflete-se no desenvolvimento de novos produtos e posiciona-se como uma nova solução de assistência à marcha para a era do envelhecimento."
 },
 {
@@ -18312,7 +18451,7 @@
 "u": "https://www.chosun.com/english/industry-en/2026/11/11/M7R6OZZOYRALXNAOUQZ2Q3MY6E/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/47EF4T6KDZHT3PNQULQAKJPQ3A.jpg?auth=2c6e32235bd4cbd34233e662d367f712eb161b8829ae3cac2d50d7e8e442926e&width=945&height=496&focal=443,221",
+"i": "",
 "d": "2026-11-10T12:36-03:00",
 "c": [
 "exoesqueletos"
@@ -18323,7 +18462,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "Robôs vestíveis entram no mercado consumidor por meio de testes e aluguéis off-line Mercado global de exoesqueletos atingirá US$ 2,2 bilhões até 2030, à medida que as marcas são pioneiras em testes e aluguéis off-line"
 },
 {
@@ -20110,8 +20249,8 @@
 "i": "https://blogs.itmedia.co.jp/serial/assets_c/2026/11/998f3da669b27517808d618fc9016cf6ba9b95d8-thumb-1658x933-69015.jpeg",
 "d": "2026-11-10T07:24-03:00",
 "c": [
-"ia",
-"negocios"
+"negocios",
+"ia"
 ],
 "l": 0,
 "to": "ソフトバンクのABBロボット買収「中国禁止」でメディアは騒ぎすぎ― SBのフィジカルAI戦略全体から読み解く「中国抜きABB買収」の高い価値：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔",
@@ -20237,7 +20376,7 @@
 "i": "https://cdn.lesnumeriques.com/optim/news/26/267144/5d58cbed-byd-devoile-un-bras-robotise-qui-branche-tout-seul-votre-voiture-electrique-a-une-borne-de-recharge_png__1200_678__0-144-3840-2160.webp",
 "d": "2026-11-10T08:43-03:00",
 "c": [
-"geral"
+"industriais"
 ],
 "l": 0,
 "to": "Vous vous garez, le robot fait le reste : BYD réinvente la recharge électrique avec cette borne autonome",
@@ -20298,7 +20437,7 @@
 "i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/Tau-Robotics-Haushaltsroboter.png?class=content",
 "d": "2026-11-10T10:00-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "„Niemand will diese Arbeit machen“: Roboter übernimmt das Putzen deiner Wohnung – was dabei schief geht",
@@ -20400,7 +20539,9 @@
 "i": "https://media.wired.com/photos/6af233321b32910f5c003593/191:100/w_1280,c_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
 "d": "2026-11-10T10:30-03:00",
 "c": [
-"drones"
+"drones",
+"espaco",
+"inspecao"
 ],
 "l": 0,
 "to": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
@@ -20443,7 +20584,8 @@
 "i": "https://helios-i.mashable.com/imagery/articles/02ocMCL65oPOGN9WF9aW2Ot/hero-image.fill.size_1200x675.v1794264953.jpg",
 "d": "2026-11-10T10:30-03:00",
 "c": [
-"drones"
+"drones",
+"espaco"
 ],
 "l": 0,
 "to": "Ring to release indoor home security drone (for real this time)",
@@ -20464,7 +20606,7 @@
 "i": "https://console.kr-asia.com/wp-content/uploads/2026/11/Sharpa-Camera-Operation.jpg",
 "d": "2026-11-10T10:40-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "Sharpa puts robotic dexterity to the test at CIIE 2026",
@@ -20485,8 +20627,9 @@
 "i": "https://www.engadget.com/img/gallery/a-chinese-team-made-a-big-splash-with-a-drone-swarm-world-record/l-intro-1793653335.jpg",
 "d": "2026-11-10T11:45-03:00",
 "c": [
+"microrrobos",
 "drones",
-"microrrobos"
+"subaquaticos"
 ],
 "l": 0,
 "to": "A Chinese Team Made A Big Splash With A Drone Swarm World Record",
@@ -20495,8 +20638,8 @@
 "cr": 2,
 "cv": "Engadget",
 "mx": 1,
-"cur": 1,
-"rx": "Os pesquisadores estabeleceram um recorde para o maior enxame de drones subaquáticos da história. De acordo com o South China Morning Post, a universidade disse que o desenvolvimento de enxames de drones submersíveis “sempre foi um desafio central no campo global de equipamentos inteligentes subaquáticos. Enxames de drones subterrâneos podem ser um grande benefício para as operações navais civis e militares de Pequim.\nA “fortaleza” robótica veria a China patrulhando a sua vizinhança geopolítica com enxames de drones aéreos, de superfície e submarinos. Pesquisadores da Polônia, Alemanha, Portugal e Eslovênia fizeram progressos no lançamento de enxames autônomos de drones subterrâneos por meio do projeto Swarm of Biomimetic Underwater Vehicles da Agência Europeia de Defesa. Os militares dos EUA reconheceram os perigos que os drones representam para a sua frota de submarinos nucleares quando iniciaram uma chamada aberta para sistemas de defesa de drones submarinos em julho de 2026."
+"rx": "Os pesquisadores estabeleceram um recorde para o maior enxame de drones subaquáticos da história. De acordo com o South China Morning Post, a universidade disse que o desenvolvimento de enxames de drones submersíveis “sempre foi um desafio central no campo global de equipamentos inteligentes subaquáticos. Enxames de drones subterrâneos podem ser um grande benefício para as operações navais civis e militares de Pequim.\nA “fortaleza” robótica veria a China patrulhando a sua vizinhança geopolítica com enxames de drones aéreos, de superfície e submarinos. Pesquisadores da Polônia, Alemanha, Portugal e Eslovênia fizeram progressos no lançamento de enxames autônomos de drones subterrâneos por meio do projeto Swarm of Biomimetic Underwater Vehicles da Agência Europeia de Defesa. Os militares dos EUA reconheceram os perigos que os drones representam para a sua frota de submarinos nucleares quando iniciaram uma chamada aberta para sistemas de defesa de drones submarinos em julho de 2026.",
+"cur": 1
 },
 {
 "id": "c5398a44e2b126",
@@ -20653,7 +20796,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.0aa992006c304c0f8de25d7799021fb9_P1.png",
 "d": "2026-11-10T18:00-03:00",
 "c": [
-"geral"
+"competicoes",
+"ia"
 ],
 "l": 0,
 "to": "우주에서 건축하는 로봇…세계 최초 성공",
@@ -20694,7 +20838,8 @@
 "i": "https://image.theregister.com/5308936.jpg?imageId=5308936&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
 "d": "2026-11-10T18:45-03:00",
 "c": [
-"inspecao"
+"inspecao",
+"drones"
 ],
 "l": 0,
 "to": "Ring robots ready to patrol paranoids’ pads",
@@ -20839,7 +20984,7 @@
 "i": "https://img.etnews.com/news/article/2026/11/11/news-p.v1.20261111.5b1c425bd9f346ac8a65a79a921d11fc_P1.jpg",
 "d": "2026-11-10T20:48-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "대구시, 13·14일 이틀간 엑스코에서 '제21회 국제로봇콘테스트' 개최",
@@ -20942,7 +21087,9 @@
 "i": "https://img.digitimes.com/newsshow/20261111pd212_files/5_s.jpg",
 "d": "2026-11-10T22:50-03:00",
 "c": [
-"drones"
+"drones",
+"negocios",
+"logistica"
 ],
 "l": 0,
 "to": "Winmate sets profit record, starts drone shipments in 2027",
@@ -20951,8 +21098,8 @@
 "cr": 2,
 "cv": "DigiTimes",
 "mx": 1,
-"cur": 1,
-"rx": "disse que a receita e o lucro líquido do terceiro trimestre estabeleceram recordes para o trimestre, à medida que a demanda de armazenamento e logística e as remessas OEM e ODM aumentaram a receita em 40,4% ano a ano, para NT$ 1,413 bilhão (US$ 43,10 milhões)..."
+"rx": "disse que a receita e o lucro líquido do terceiro trimestre estabeleceram recordes para o trimestre, à medida que a demanda de armazenamento e logística e as remessas OEM e ODM aumentaram a receita em 40,4% ano a ano, para NT$ 1,413 bilhão (US$ 43,10 milhões)...",
+"cur": 1
 },
 {
 "id": "11a3b20f073bf6",
@@ -21226,7 +21373,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "A IT House informou em 10 de novembro que a experiência de estacionamento pode ser diferente na próxima vez que você for à Disneylândia. A Walt Disney Company revelou recentemente que está testando um lote de robôs assistentes equipados com tecnologia de inteligência artificial para ajudar os turistas a encontrar vagas de estacionamento em áreas de resort densamente povoadas.\nA IT House percebeu que esses robôs se inspiraram no design dos personagens de “Carros” e “Wall-E” e fizeram sua estreia no recentemente realizado Disney Accelerator Demo Day. A Disney não anunciou o tempo específico de implantação desses robôs assistentes de estacionamento, nem confirmou que eles serão eventualmente colocados em uso em seus parques Disney."
 },
 {
@@ -21239,7 +21386,8 @@
 "i": "",
 "d": "2026-11-10T10:44-03:00",
 "c": [
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "荣耀新设机器人公司注册资本1亿元-36氪",
@@ -21247,7 +21395,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21260,7 +21408,8 @@
 "i": "",
 "d": "2026-11-10T14:31-03:00",
 "c": [
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "机器人收入还没入账，上纬新材市值已逼近千亿",
@@ -21268,7 +21417,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21281,7 +21430,8 @@
 "i": "",
 "d": "2026-11-10T14:48-03:00",
 "c": [
-"industriais"
+"industriais",
+"medicina"
 ],
 "l": 0,
 "to": "日薪180，在「流水线」上给机器人当老师",
@@ -21289,7 +21439,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21304,7 +21454,8 @@
 "c": [
 "logistica",
 "ia",
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "“双十一”机器人在物流仓“埋头苦干” 昆腾动力开启具身智能规模化获客与交付阶段",
@@ -21312,7 +21463,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21325,7 +21476,7 @@
 "i": "",
 "d": "2026-11-10T16:22-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "让机器人有事做，比做机器人更难",
@@ -21333,7 +21484,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -21346,7 +21497,8 @@
 "i": "",
 "d": "2026-11-10T18:34-03:00",
 "c": [
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍",
@@ -21354,9 +21506,9 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
-"cur": 1,
-"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+"mx": 2,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"cur": 1
 },
 {
 "id": "dc4eaed7d1fbf0",
@@ -21878,7 +22030,8 @@
 "i": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
 "d": "2026-11-09T08:30-03:00",
 "c": [
-"autonomos"
+"autonomos",
+"industriais"
 ],
 "l": 0,
 "to": "Tesla expands robotaxi service to San Antonio",
@@ -21914,7 +22067,8 @@
 "d": "2026-11-09T18:00-03:00",
 "c": [
 "exoesqueletos",
-"competicoes"
+"competicoes",
+"medicina"
 ],
 "l": 0,
 "to": "Dynamic Solution’s VR Hand Rehabilitation Robot, Dynamic X-Hand, Selected for Three CES 2027 Innovation Awards",
@@ -22214,7 +22368,8 @@
 "i": "https://robotstart.info/imgs/ogp_f/109091.jpg",
 "d": "2026-11-09T00:00-03:00",
 "c": [
-"quadrupedes"
+"quadrupedes",
+"logistica"
 ],
 "l": 0,
 "to": "フィジカルAI活用ロボットの自社製品開発をロボットバンクが本格始動 第一弾は産業向け四足歩行ロボット",
@@ -22235,7 +22390,9 @@
 "i": "https://robotstart.info/imgs/ogp_f/109104.jpg",
 "d": "2026-11-09T04:00-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"competicoes",
+"industriais"
 ],
 "l": 0,
 "to": "マウザー・エレクトロニクス、ヒューマノイドロボット実演へ…electronica 2026",
@@ -22310,6 +22467,27 @@
 "rx": "A Real World (RLWRLD, CEO Ryu Jung-hee), uma empresa física de IA que desenvolve modelos básicos de robótica aprendidos a partir de dados reais de campo industrial, está desenvolvendo a manipulação manual de precisão humanóide (Dexter)."
 },
 {
+"id": "a61ac8e46cb74e",
+"t": "O Robo World acabou de chegar... Em vez de um robô dançante, foi encontrado um ‘robô que ganha dinheiro’.",
+"r": "‘2026 Robo World’, a maior exposição de robôs da Coreia realizada na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, começando no dia 4, terminou no dia 7. Os humanóides eram a placa do salão de exposições, mas o foco dos organizadores e das empresas participantes eram os robôs que eram realmente entregues na…",
+"u": "https://www.donga.com/news/Economy/article/all/20261109/134993494/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993588.3.jpg",
+"d": "2026-11-09T06:34-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"rx": "‘2026 Robo World’, a maior exposição de robôs da Coreia realizada na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, começando no dia 4, terminou no dia 7. Os humanóides eram a placa do salão de exposições, mas o foco dos organizadores e das empresas participantes eram os robôs que eram realmente entregues na fábrica e revendidos. No entanto, a mesma fase de ‘entrega’ foi…"
+},
+{
 "id": "5034f53a5144cd",
 "t": "Lisboa Web Summit 2026 abre com oradores robôs humanóides e delegação chinesa recorde",
 "r": "Ao longo dos quatro dias do evento, robôs humanóides chineses farão discursos em palco e interagirão com o público em stands da marca montados na FIL e na Arena MEO.",
@@ -22329,8 +22507,8 @@
 "cr": 3,
 "cv": "Euronews",
 "mx": 1,
-"cur": 1,
-"rx": "Ao longo dos quatro dias do evento, robôs humanóides chineses farão discursos em palco e interagirão com o público em stands da marca montados na FIL e na Arena MEO."
+"rx": "Ao longo dos quatro dias do evento, robôs humanóides chineses farão discursos em palco e interagirão com o público em stands da marca montados na FIL e na Arena MEO.",
+"cur": 1
 },
 {
 "id": "377aecb4082007",
@@ -22779,6 +22957,51 @@
 "rx": "'2026 Robo World', realizado na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, de 4 a 7, terminou com sucesso. A Robo World, que já está em sua 21ª edição, conta com a presença de 400 empresas."
 },
 {
+"id": "631c7e1051fe4d",
+"t": "Red Cliff assina um acordo básico de colaboração com a Unitree, usando a tecnologia de exibição de drones como um robô. 1ª foto/imagem",
+"r": "Em 12 de novembro de 2026, a LimX Dynamics lançará o robô humanóide \"LimX...\" Nos dias 1 e 2 de agosto de 2026, o 74º...",
+"u": "https://robotstart.info/article/img/2026/11/10/382612/109121.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109121.jpg",
+"d": "2026-11-09T22:00-03:00",
+"c": [
+"drones",
+"humanoides"
+],
+"l": 0,
+"to": "ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結 1枚目の写真・画像",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Em 12 de novembro de 2026, a LimX Dynamics lançará o robô humanóide \"LimX...\" Nos dias 1 e 2 de agosto de 2026, o 74º..."
+},
+{
+"id": "f6cb73077dd775",
+"t": "Red Cliff assina um acordo básico para colaboração com a Unitree, usando tecnologia de exibição de drones como um robô",
+"r": "A Red Cliff Co., Ltd., que planeja e opera shows de drones, assinou um Memorando de Entendimento (MOU) com a chinesa Unitree, que desenvolve robôs humanóides e robôs quadrúpedes, para colaboração no campo de entretenimento robótico.",
+"u": "https://robotstart.info/article/2026/11/10/382612.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109122.jpg",
+"d": "2026-11-09T22:00-03:00",
+"c": [
+"drones",
+"humanoides",
+"quadrupedes"
+],
+"l": 0,
+"to": "ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "A Red Cliff Co., Ltd., que planeja e opera shows de drones, assinou um Memorando de Entendimento (MOU) com a chinesa Unitree, que desenvolve robôs humanóides e robôs quadrúpedes, para colaboração no campo de entretenimento robótico.\nO plano é fornecer dança sincronizada e performances acrobáticas usando o robô humanóide da Unitree \"Unitree G1 Dance Unit\" para eventos esportivos, apresentações musicais ao vivo, exposições, etc."
+},
+{
 "id": "42173ac92ca3ca",
 "t": "Induções no Toy Hall of Fame + Cachorro-robô à espreita + Código de bloqueio decifrado",
 "r": "Damos uma olhada no lado mais leve das notícias e nas tendências online e no ar.",
@@ -22798,6 +23021,28 @@
 "cv": "CTV News",
 "mx": 1,
 "rx": "Damos uma olhada no lado mais leve das notícias e nas tendências online e no ar."
+},
+{
+"id": "be178632d0d20f",
+"t": "‘Hubo’, que escreveu a história dos robôs coreanos, tornou-se patrimônio científico nacional",
+"r": "(Seoul = Yonhap News) Repórter Cho Seung-han = 'Dados de estabelecimento do Instituto de Ciência e Tecnologia da Coreia (KIST)', que lançou as bases para o sistema de pesquisa científica e tecnológica da Coreia, e o primeiro robô humanóide bípede completo da Coreia, 'Robô Humanóide Hubo', foram selecionados como dados…",
+"u": "https://www.yna.co.kr/view/AKR20261110062300017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img1.yna.co.kr/photo/yna/YH/2017/12/11/PYH2017121120120001301_P4.jpg",
+"d": "2026-11-09T22:23-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "한국 로봇 역사 쓴 '휴보', 국가과학유산 됐다",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Seoul = Yonhap News) Repórter Cho Seung-han = 'Dados de estabelecimento do Instituto de Ciência e Tecnologia da Coreia (KIST)', que lançou as bases para o sistema de pesquisa científica e tecnológica da Coreia, e o primeiro robô humanóide bípede completo da Coreia, 'Robô Humanóide Hubo', foram selecionados como dados de ciência e tecnologia de importância nacional este ano. O Museu Nacional de Ciências anunciou que selecionou este ano 23 materiais científicos e tecnológicos de importância nacional e realizou no dia 10 a cerimônia de entrega do certificado de registro. O Sistema Nacional de Registro de Materiais Importantes de Ciência e Tecnologia foi introduzido em 2019 para registrar, preservar e gerenciar sistematicamente materiais que possuem alto valor histórico e educacional relacionado à ciência e tecnologia e precisam ser repassados ​​às gerações futuras. Os dados dos robôs incluíram Hubo (KHR-3) e ‘Maru e Ara’, robôs humanóides que operam em uma rede sem fio. O 'Robô Industrial Articulado de 6 Eixos', que ajudou a Coreia a alcançar a independência na tecnologia de robôs industriais, e o 'Crabster (CR200), um robô de exploração subaquática', o primeiro robô subaquático ambulante da Coreia, também foram registrados.\nAlém disso, os materiais fundadores do KIST, a primeira edição do jornal inglês da Sociedade Química Coreana, e o 'TEM de baixa tensão', o primeiro microscópio eletrônico de transmissão (TEM) da Coreia, também foram registrados. (Daejeon = Yonhap News) O repórter Yang Young-seok = RDC Hubo, que venceu a Competição Mundial de Robôs para Desastres organizada pela Agência de Projetos de Defesa Avançada (DARPA) do Departamento de Defesa dos EUA em 2015, está carregando a tocha dos Jogos Olímpicos de Inverno de Pyeongchang 2018 através de uma parede virtual.",
+"cur": 1
 },
 {
 "id": "10c402f94c1df5",
@@ -23064,7 +23309,7 @@
 "i": "https://www.chosun.com/resizer/v2/QNX2HNDAS5DITPF6BUYMJ4VJTQ.jpg?auth=a082f403b76f6b38beeb73d86fb6f850bb708ff097ca29bcf332ecece986cff2&width=640&height=336&smart=true",
 "d": "2026-11-09T05:00-03:00",
 "c": [
-"geral"
+"industriais"
 ],
 "l": 0,
 "to": "\"내가 계산했는데 로봇에게 팁까지?\"…美 무인매장의 황당한 청구서",
@@ -23160,27 +23405,6 @@
 "rx": "09, 2026 (GLOBE NEWSWIRE) -- A NXP Semiconductors N.V. (NASDAQ: NXPI) anunciou hoje sua nova plataforma robótica unificada construída na arquitetura de eixo neural da NXP, uma base distribuída que conecta com segurança detecção, controle em tempo real, processamento de IA e comunicações entre sistemas robóticos. Usando o SDK de robótica unificado, projetos de referência e arquitetura de plataforma, os desenvolvedores podem facilmente adicionar percepção baseada em IA, controle de vôo e navegação para construir um drone autônomo completo com mais rapidez.\nA plataforma robótica unificada da NXP reduz esse esforço para dias ou semanas por meio de software pré-integrado e interoperabilidade de subsistemas validada, construída sobre uma base de hardware segura extraída do amplo portfólio da NXP, liberando os desenvolvedores para se diferenciarem e inovarem. A plataforma robótica unificada da NXP já está disponível, incluindo projetos de referência para drones e o SDK de suporte."
 },
 {
-"id": "a61ac8e46cb74e",
-"t": "O Robo World acabou de chegar... Em vez de um robô dançante, foi encontrado um ‘robô que ganha dinheiro’.",
-"r": "‘2026 Robo World’, a maior exposição de robôs da Coreia realizada na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, começando no dia 4, terminou no dia 7. Os humanóides eram a placa do salão de exposições, mas o foco dos organizadores e das empresas participantes eram os robôs que eram realmente entregues na…",
-"u": "https://www.donga.com/news/Economy/article/all/20261109/134993494/2",
-"f": "동아일보",
-"s": "donga.com",
-"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993588.3.jpg",
-"d": "2026-11-09T06:34-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "막 내린 로보월드…춤추는 로봇 대신 ‘돈 버는 로봇’ 찾았다",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 1,
-"rx": "‘2026 Robo World’, a maior exposição de robôs da Coreia realizada na KINTEX em Goyang-si, Gyeonggi-do, durante quatro dias, começando no dia 4, terminou no dia 7. Os humanóides eram a placa do salão de exposições, mas o foco dos organizadores e das empresas participantes eram os robôs que eram realmente entregues na fábrica e revendidos. No entanto, a mesma fase de ‘entrega’ foi…"
-},
-{
 "id": "f26e9baf5507f5",
 "t": "Catálogo Counter-Drone da OTAN: Startup 2024 afirma que ganhou 6 de 16 lotes",
 "r": "A OTAN abriu o seu mercado anti-drones em 5 de Novembro: um catálogo de 16 sistemas de cinco empresas que os Aliados podem agora comprar sem abrir um concurso próprio. As cinco são Alta Ares, Axon, Northrop Grumman, OSL UK e Quantum Systems. A Alta Ares, empresa francesa fundada em 2024, afirma ter ganhado seis dos 16…",
@@ -23264,8 +23488,8 @@
 "cr": 3,
 "cv": "Corriere della Sera",
 "mx": 1,
-"cur": 1,
-"rx": "Há cada vez mais propostas que utilizam a tecnologia drone para veículos de transporte e também para mobilidade pessoal, como potenciais carros voadores. Entre as peculiaridades deste projeto está a propulsão híbrida. Há quem aposte tudo em táxis voadores para passageiros e quem, de forma mais pragmática, opte por começar pelo transporte de mercadorias, como tem feito a Zuri, uma jovem empresa aeronáutica checa que desenvolveu um avião híbrido de descolagem vertical capaz de transportar seis pessoas.\nA propulsão elétrica híbrida, a configuração tiltrotor (ou seja, com os rotores que inclinam no seu eixo), a capacidade de descolagem e aterragem vertical e sobretudo a total autonomia operacional. Porque você ou outra pessoa está lendo o Corriere.it com esta conta em mais de dois dispositivos/logins."
+"rx": "Há cada vez mais propostas que utilizam a tecnologia drone para veículos de transporte e também para mobilidade pessoal, como potenciais carros voadores. Entre as peculiaridades deste projeto está a propulsão híbrida. Há quem aposte tudo em táxis voadores para passageiros e quem, de forma mais pragmática, opte por começar pelo transporte de mercadorias, como tem feito a Zuri, uma jovem empresa aeronáutica checa que desenvolveu um avião híbrido de descolagem vertical capaz de transportar seis pessoas.\nA propulsão elétrica híbrida, a configuração tiltrotor (ou seja, com os rotores que inclinam no seu eixo), a capacidade de descolagem e aterragem vertical e sobretudo a total autonomia operacional. Porque você ou outra pessoa está lendo o Corriere.it com esta conta em mais de dois dispositivos/logins.",
+"cur": 1
 },
 {
 "id": "87485522652cd8",
@@ -23319,7 +23543,7 @@
 "i": "https://www.assemblymag.com/ext/resources/2026/10/07/courtesy-scout-motors.jpg?height=635&t=1791359941&width=1200",
 "d": "2026-11-09T09:00-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "North American Robot Orders Jump 24.8% in Third Quarter",
@@ -23445,7 +23669,8 @@
 "i": "https://ml.globenewswire.com/media/9c0621de-fb97-4fbb-99df-dd161ddfb0e8/small/logo-2-jpg.jpg",
 "d": "2026-11-09T10:54-03:00",
 "c": [
-"medicina"
+"medicina",
+"logistica"
 ],
 "l": 0,
 "to": "GIX Internet Secures Follow-On Order from One of the Top Hospitals in the World to Double Its Robot Fleet",
@@ -23548,7 +23773,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/8736093/amazon-is-reportedly-building-a-home-robot-for-consumers/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"i": "",
 "d": "2026-11-09T12:09-03:00",
 "c": [
 "casa"
@@ -23559,7 +23784,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1,
+"mx": 9,
 "rx": "Os relatórios dizem que nos últimos meses, a Amazon, com sede em Seattle, montou uma equipe que está trabalhando em um novo produto robótico que terá como alvo os consumidores em suas casas. Em 2021, a Amazon lançou o robô Astro que custa US$ 1.450. Apesar da recepção morna ao Astro, a Amazon não está desistindo dos robôs voltados para o consumidor. No início deste ano, a Amazon realocou grande parte da equipe por trás do Astro e contratou um especialista em robótica para trabalhar no projeto do robô doméstico.\nA Amazon também comprou recentemente a Fauna Robotics, que construiu um robô de 3,5 pés de altura chamado “Sprout”. Desde a compra da Fauna Robotics, a Amazon formou uma nova divisão chamada internamente de “Grupo de Robótica Pessoal”. Não está claro que tipo de robô doméstico a Amazon está desenvolvendo."
 },
 {
@@ -23593,7 +23818,7 @@
 "i": "https://ml.globenewswire.com/media/5369eea8-ba95-471a-91b5-853e0e17c212/small/nr-logo-png.png",
 "d": "2026-11-09T12:27-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "Noitom Robotics Releases HiPHI-Hand, Precision Hand Capture Data Used to Train NVIDIA EgoHand, and Demonstrates Real-Time Hand Reconstruction at CoRL 2026",
@@ -23805,7 +24030,7 @@
 "i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/09/134993645.4.jpg",
 "d": "2026-11-09T16:30-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "AI로 음악 만들고 로봇 조작… 진로 탐색도 똑똑해졌다",
@@ -23826,7 +24051,8 @@
 "i": "https://live-production.wcms.abc-cdn.net.au/c85728533ad1f0b54795a28e5a85f1a0?impolicy=wcms_watermark_news&cropH=521&cropW=927&xPos=53&yPos=244&width=862&height=485&imformat=generic",
 "d": "2026-11-09T16:36-03:00",
 "c": [
-"drones"
+"drones",
+"agricolas"
 ],
 "l": 0,
 "to": "Saleyard drone footage appears to show sheep thrown among dead animals",
@@ -23908,7 +24134,7 @@
 "u": "https://www.chosun.com/economy/tech_it/2026/11/09/F4TJBVNPMNFUHKPIZ7MVTTGRLI/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/47EF4T6KDZHT3PNQULQAKJPQ3A.jpg?auth=2c6e32235bd4cbd34233e662d367f712eb161b8829ae3cac2d50d7e8e442926e&width=945&height=496&focal=443,221",
+"i": "",
 "d": "2026-11-09T19:09-03:00",
 "c": [
 "geral"
@@ -23919,7 +24145,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "Os robôs vestíveis estão se tornando um produto de consumo diário, e os serviços que permitem que os robôs sejam usados ​​e depois comprados em lojas off-line ou alugados em atrações turísticas ou em casa estão se espalhando. A acessibilidade dos consumidores aumentou devido ao aumento da procura de assistência para caminhar devido ao envelhecimento da população e à redução do peso dos produtos, e as experiências nas lojas também estão a refletir-se no desenvolvimento de novos produtos."
 },
 {
@@ -23932,7 +24158,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/soldier-pitbull-drone-jammer-rio-grande-laredo.webp",
 "d": "2026-11-09T19:23-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "DHS Pact Gives FAA Counter-Drone Review as Hegseth Calls Lasers Safe",
@@ -23944,48 +24171,6 @@
 "rx": "Cinco departamentos federais concordaram em dar à FAA uma revisão formal de segurança dos novos sistemas anti-drones, anunciou o Departamento de Segurança Interna na segunda-feira. O anúncio ocorreu no dia de um fórum de concessão de combate a drones no MGM National Harbor em Oxon Hill, Maryland, onde falaram o secretário do DHS, Markwayne Mullin, e o administrador da FEMA, Cameron Hamilton. Os estados têm até 16 de novembro para se candidatarem à segunda ronda de combate aos drones da FEMA, no valor de 250 milhões de dólares, a maior parte dos quais deve passar para agências locais e tribais.\nNos termos do memorando, a FAA realizará rapidamente avaliações de risco de segurança dos sistemas propostos de combate a drones e poderá adicionar as suas próprias medidas, incluindo restrições ao espaço aéreo, quando considerar o risco demasiado elevado. A revisão da FAA neste memorando é o que as agências federais deveriam ter feito em fevereiro."
 },
 {
-"id": "631c7e1051fe4d",
-"t": "Red Cliff assina um acordo básico de colaboração com a Unitree, usando a tecnologia de exibição de drones como um robô. 1ª foto/imagem",
-"r": "Em 12 de novembro de 2026, a LimX Dynamics lançará o robô humanóide \"LimX...\" Nos dias 1 e 2 de agosto de 2026, o 74º...",
-"u": "https://robotstart.info/article/img/2026/11/10/382612/109121.html",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "https://robotstart.info/imgs/ogp_f/109121.jpg",
-"d": "2026-11-09T22:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結 1枚目の写真・画像",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 1,
-"rx": "Em 12 de novembro de 2026, a LimX Dynamics lançará o robô humanóide \"LimX...\" Nos dias 1 e 2 de agosto de 2026, o 74º..."
-},
-{
-"id": "f6cb73077dd775",
-"t": "Red Cliff assina um acordo básico para colaboração com a Unitree, usando tecnologia de exibição de drones como um robô",
-"r": "A Red Cliff Co., Ltd., que planeja e opera shows de drones, assinou um Memorando de Entendimento (MOU) com a chinesa Unitree, que desenvolve robôs humanóides e robôs quadrúpedes, para colaboração no campo de entretenimento robótico.",
-"u": "https://robotstart.info/article/2026/11/10/382612.html",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "https://robotstart.info/imgs/ogp_f/109122.jpg",
-"d": "2026-11-09T22:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 1,
-"rx": "A Red Cliff Co., Ltd., que planeja e opera shows de drones, assinou um Memorando de Entendimento (MOU) com a chinesa Unitree, que desenvolve robôs humanóides e robôs quadrúpedes, para colaboração no campo de entretenimento robótico.\nO plano é fornecer dança sincronizada e performances acrobáticas usando o robô humanóide da Unitree \"Unitree G1 Dance Unit\" para eventos esportivos, apresentações musicais ao vivo, exposições, etc."
-},
-{
 "id": "5981d273444dec",
 "t": "O drone furtivo GJ-11 da China perdeu seu alvo na nuvem e depois o atingiu",
 "r": "A emissora estatal chinesa CCTV exibiu novas imagens do drone de combate furtivo GJ-11 na segunda-feira, incluindo a primeira visão detalhada de seus compartimentos internos de armas. A CCTV também disse que o drone de asa voadora atingiu seu alvo em seu primeiro teste de tiro real, depois que uma nuvem espessa quase…",
@@ -23995,7 +24180,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/gj-11-stealth-drone-runway-cctv.webp",
 "d": "2026-11-09T22:03-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "China's GJ-11 Stealth Drone Lost Its Target in Cloud, Then Hit It",
@@ -24049,28 +24235,6 @@
 "rx": "CINGAPURA – Shows de drones, fogos de artifício, vilas de fãs, pop-ups de mercadorias exclusivas e marcos icônicos iluminados em “Ari Red” estão programados para saudar os fãs do BTS em dezembro para marcar a série de shows do grupo sul-coreano aqui. Cingapura sediará a primeira e única parada do BTS The City Arirang no Sudeste Asiático, um evento municipal para fãs que contará com uma linha ampliada de experiências exclusivas em 10 locais parceiros de 1º a 31 de dezembro, disse o Conselho de Turismo de Cingapura (STB) em um comunicado em 10 de novembro.\nUm BTS The City Arirang Sphere apresentando conteúdo multimídia na Deloitte Sphere de 8 a 22 de dezembro. Entre 1º e 31 de dezembro, os compradores podem embalar mercadorias exclusivas com os designs do BTS the City Arirang Singapore quando gastarem pelo menos US$ 60 em um único recibo ou US$ 180 em até dois recibos em Far East Malls."
 },
 {
-"id": "be178632d0d20f",
-"t": "‘Hubo’, que escreveu a história dos robôs coreanos, tornou-se patrimônio científico nacional",
-"r": "(Seoul = Yonhap News) Repórter Cho Seung-han = 'Dados de estabelecimento do Instituto de Ciência e Tecnologia da Coreia (KIST)', que lançou as bases para o sistema de pesquisa científica e tecnológica da Coreia, e o primeiro robô humanóide bípede completo da Coreia, 'Robô Humanóide Hubo', foram selecionados como dados…",
-"u": "https://www.yna.co.kr/view/AKR20261110062300017",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "https://img1.yna.co.kr/photo/yna/YH/2017/12/11/PYH2017121120120001301_P4.jpg",
-"d": "2026-11-09T22:23-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "한국 로봇 역사 쓴 '휴보', 국가과학유산 됐다",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Yonhap",
-"mx": 1,
-"cur": 1,
-"rx": "(Seoul = Yonhap News) Repórter Cho Seung-han = 'Dados de estabelecimento do Instituto de Ciência e Tecnologia da Coreia (KIST)', que lançou as bases para o sistema de pesquisa científica e tecnológica da Coreia, e o primeiro robô humanóide bípede completo da Coreia, 'Robô Humanóide Hubo', foram selecionados como dados de ciência e tecnologia de importância nacional este ano. O Museu Nacional de Ciências anunciou que selecionou este ano 23 materiais científicos e tecnológicos de importância nacional e realizou no dia 10 a cerimônia de entrega do certificado de registro. O Sistema Nacional de Registro de Materiais Importantes de Ciência e Tecnologia foi introduzido em 2019 para registrar, preservar e gerenciar sistematicamente materiais que possuem alto valor histórico e educacional relacionado à ciência e tecnologia e precisam ser repassados ​​às gerações futuras. Os dados dos robôs incluíram Hubo (KHR-3) e ‘Maru e Ara’, robôs humanóides que operam em uma rede sem fio. O 'Robô Industrial Articulado de 6 Eixos', que ajudou a Coreia a alcançar a independência na tecnologia de robôs industriais, e o 'Crabster (CR200), um robô de exploração subaquática', o primeiro robô subaquático ambulante da Coreia, também foram registrados.\nAlém disso, os materiais fundadores do KIST, a primeira edição do jornal inglês da Sociedade Química Coreana, e o 'TEM de baixa tensão', o primeiro microscópio eletrônico de transmissão (TEM) da Coreia, também foram registrados. (Daejeon = Yonhap News) O repórter Yang Young-seok = RDC Hubo, que venceu a Competição Mundial de Robôs para Desastres organizada pela Agência de Projetos de Defesa Avançada (DARPA) do Departamento de Defesa dos EUA em 2015, está carregando a tocha dos Jogos Olímpicos de Inverno de Pyeongchang 2018 através de uma parede virtual."
-},
-{
 "id": "52e32861b40984",
 "t": "Suspeita de queda de drone em Gimpo",
 "r": "Um objeto que se acredita ser um veículo aéreo não tripulado caiu em um parque em Gimpo, a oeste de Seul, na manhã de terça-feira, disseram autoridades militares, o que levou a uma investigação por parte das autoridades militares. As autoridades militares, que foram enviadas após o recebimento da denúncia, estavam…",
@@ -24080,7 +24244,8 @@
 "i": "https://img1.yna.co.kr/etc/inner/EN/2026/11/10/AEN20261110004000315_01_i_P4.jpg",
 "d": "2026-11-09T23:01-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Suspected drone crashes in Gimpo",
@@ -24164,7 +24329,7 @@
 "i": "https://game.donga.com/media/__sized__/images/2026/11/10/b9a5a4b78d004287-thumbnail-960x540-70.jpg",
 "d": "2026-11-09T23:35-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "남자의 로망을 알아! 거북선, 유령선, 잠수 로봇까지 하고 싶은거 다한 '붉은사막DLC'",
@@ -24174,6 +24339,27 @@
 "cv": "Dong-A Ilbo",
 "mx": 1,
 "rx": "O ambicioso jogo 'Red Desert' da Pearl Abyss, que está reescrevendo a história dos jogos de console coreanos ao vender mais de 6 milhões de cópias em todo o mundo em apenas 83 dias de seu lançamento, está mais uma vez atraindo a atenção de jogadores de todo o mundo com seu primeiro DLC 'Unknown Journey'. ‘Unknown Journey’, lançado no dia 30, começou melhor que o jogo principal, registrando 83 pontos no Metacritic. Embora ainda não sejam muitos os meios de comunicação que tenham registrado avaliações, em geral eles estão dando críticas favoráveis ​​pelo aumento significativo de conteúdo ao mesmo tempo em que ampliam o cenário da aventura para o mar. Mesmo aqueles que acharam o jogo um tanto decepcionante apontaram que o jogo não estava estável devido a vários bugs nos estágios iniciais do lançamento, mas o conteúdo recém-adicionado foi considerado satisfatório. No dia 9, Pearl Abyss se tornou um tema quente ao enviar um vídeo de um modelo 1:1 do A.T.A.G., um robô bípede de mergulho que aparece no jogo.\nAlém disso, a Pearl Abyss não divulgou novos números desde que as vendas ultrapassaram os 6 milhões de unidades em junho. A atenção está focada no que outros discos 'Red Desert' podem apresentar com 'Unknown Journey' na vanguarda."
+},
+{
+"id": "8e53428b0e0b2d",
+"t": "Huayan Robotics apresentará soluções de automação flexíveis na METALEX 2026 na Tailândia",
+"r": "BANGCOC, 10 de novembro de 2026 /PRNewswire/ -- A Huayan Robotics exporá na METALEX 2026 de 18 a 21 de novembro no Bangkok International Trade & Exhibi",
+"u": "https://www.straitstimes.com/paid-press-releases/huayan-robotics-to-showcase-flexible-automation-solutions-at-metalex-2026-in-thailand-20261110",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"d": "2026-11-09T23:52-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Huayan Robotics to Showcase Flexible Automation Solutions at METALEX 2026 in Thailand",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "BANGCOC, 10 de novembro de 2026 /PRNewswire/ -- A Huayan Robotics exporá na METALEX 2026 de 18 a 21 de novembro no Bangkok International Trade & Exhibi"
 },
 {
 "id": "02b91687c663f3",
@@ -24198,6 +24384,71 @@
 "rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
 },
 {
+"id": "0fa69665539ff4",
+"t": "Robot Bank inicia desenvolvimento de robô quadrúpede para uso industrial Inicia desenvolvimento de produto próprio de robô de IA de concreto",
+"r": "O Robot Bank anunciou uma política para continuar desenvolvendo robôs de IA tangíveis que utilizam IA física. Como primeiro produto, iniciamos um projeto de desenvolvimento de produto para um robô ambulante quadrúpede. Espera-se que este robô quadrúpede seja utilizado para patrulhar inspeções de fábricas e…",
+"u": "https://ai.watch.impress.co.jp/docs/news/2154818.html",
+"f": "株式会社インプレス",
+"s": "ai.watch.impress.co.jp",
+"i": "https://ai.watch.impress.co.jp/img/aiw/list/2154/818/0300.jpg",
+"d": "2026-11-09T02:48-03:00",
+"c": [
+"quadrupedes",
+"construcao"
+],
+"l": 0,
+"to": "ロボットバンク、産業向け四足歩行ロボットの開発に着手 具身AIロボットの自社製品開発を始動",
+"lg": "ja",
+"p": 4.3,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "O Robot Bank anunciou uma política para continuar desenvolvendo robôs de IA tangíveis que utilizam IA física. Como primeiro produto, iniciamos um projeto de desenvolvimento de produto para um robô ambulante quadrúpede. Espera-se que este robô quadrúpede seja utilizado para patrulhar inspeções de fábricas e equipamentos de fabricação, verificar o estado de instalações logísticas e grandes instalações e apoiar inspeções de infraestrutura social.\nOs candidatos ao desenvolvimento para seguir o primeiro robô quadrúpede incluem um manipulador móvel que combina um robô móvel e um braço robótico, robôs de trabalho industrial e mãos robóticas e efetores finais."
+},
+{
+"id": "934f963cca88a2",
+"t": "KTL estabelece as bases para a avaliação de segurança e proteção humanóide de IA… Estabelecimento de uma plataforma de suporte técnico completa",
+"r": "O Laboratório de Testes da Coreia (KTL) está trabalhando para estabelecer uma plataforma única de suporte técnico e um conselho de pesquisa industrial-acadêmico em preparação para a introdução de humanóides de inteligência artificial (IA) em instalações industriais. A KTL anunciou no dia 9 que realizou o 'Seminário de…",
+"u": "https://www.etnews.com/20261109000329",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.45e93346ba03464eaf2b1bed4a402219_P1.png",
+"d": "2026-11-09T02:54-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "KTL, AI 휴머노이드 안전·보안 평가 기반 닦는다…원스톱 기술지원 플랫폼 구축",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "O Laboratório de Testes da Coreia (KTL) está trabalhando para estabelecer uma plataforma única de suporte técnico e um conselho de pesquisa industrial-acadêmico em preparação para a introdução de humanóides de inteligência artificial (IA) em instalações industriais. A KTL anunciou no dia 9 que realizou o 'Seminário de Tecnologia de Segurança e Proteção Humanóide de IA 2026' na KINTEX em Goyang-si, Gyeonggi-do e compartilhou esses planos de apoio corporativo. Cerca de 60 pessoas da indústria, academia, pesquisa e governo relacionadas com robôs humanóides participaram do seminário realizado sob o tema 'Status atual da segurança humanóide e tecnologia de proteção'. Também faz parte do projeto ‘Estabelecimento de uma base de avaliação de segurança e proteção humanóide de IA’, no qual a KTL participa. Lee Dong-hyeok, chefe do Complex Shape Standards Center da KTL, que atuou como apresentador, apresentou um plano para construir uma plataforma de suporte técnico completa para empresas humanóides. O pesquisador sênior do KETI, Kim Dong-yeop, anunciou um plano para operar um conselho de segurança e proteção humanóide de IA. A KTL planeja usar este projeto como uma oportunidade para expandir as capacidades de teste e certificação de robôs que desenvolveu para o campo humanóide."
+},
+{
+"id": "d0871ebecc1f3f",
+"t": "“Uma criança de 5 anos é melhor”… Desastre de limpeza de robô humanóide com salário de 100.000 won por hora",
+"r": "Nos Estados Unidos, um caso de contratação de um robô humanóide para limpar uma casa foi revelado e está chamando a atenção. O New York Post informou recentemente que Linda Akkarach, que mora em São Francisco, usou um serviço de limpeza de robôs humanóides para limpar depois de uma festa em casa. Segundo relatos…",
+"u": "https://zdnet.co.kr/view/?no=20261109152734",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/09/b117bf57b15ed66666a3361fbf0f67de.png",
+"d": "2026-11-09T04:00-03:00",
+"c": [
+"humanoides",
+"resgate"
+],
+"l": 0,
+"to": "\"5세 아이가 낫다\"…시급 10만원 휴머노이드 로봇 청소 대참사",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Nos Estados Unidos, um caso de contratação de um robô humanóide para limpar uma casa foi revelado e está chamando a atenção. O New York Post informou recentemente que Linda Akkarach, que mora em São Francisco, usou um serviço de limpeza de robôs humanóides para limpar depois de uma festa em casa. Segundo relatos, Akarachi contratou dois robôs humanóides da startup Tau Robotics para limpar um apartamento de dois andares a um custo total de US$ 100 (aproximadamente 130.000 won) por hora. O vídeo divulgado mostra dois robôs de aparência musculosa subindo uma escada estreita e limpando o interior de uma casa. “No geral, os robôs fizeram um péssimo trabalho”, disse Akarachi, que utilizou o serviço. “Imagine uma faxineira de cinco anos assim.\nAkarachi explicou que previu que os robôs não seriam capazes de lidar adequadamente com a difícil tarefa de limpeza após a festa em casa, então ele e seus amigos concluíram a maior parte da difícil limpeza com antecedência. “O robô ainda não opera de forma autônoma e é controlado remotamente por humanos”, explicou Akarachi."
+},
+{
 "id": "0eff75c182e7a7",
 "t": "Fazendo robôs humanóides com rodas",
 "r": "",
@@ -24216,6 +24467,92 @@
 "cr": 3,
 "cv": "Forbes",
 "mx": 3
+},
+{
+"id": "38b5b02b040845",
+"t": "Robô humanóide se torna funcionário de uma loja de conveniência… Desafio de trabalho 24 horas por dia",
+"r": "Seis robôs humanóides aceitaram o desafio de trabalhar 24 horas por dia numa loja de conveniência. Aggiebot, uma startup chinesa de robôs, conduziu avaliações de trabalho implantando robôs humanóides de seis rodas, ‘G2’, em uma loja de conveniência em Xangai, de 2 a 3. Os robôs realizavam uma variedade de tarefas…",
+"u": "https://www.etnews.com/20261109000425",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/09/news-p.v1.20261109.244133e170364c01ab53f9716c625a6c_P1.jpg",
+"d": "2026-11-09T18:00-03:00",
+"c": [
+"humanoides",
+"servico"
+],
+"l": 0,
+"to": "편의점 직원 된 휴머노이드 로봇…24시간 근무 도전",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Seis robôs humanóides aceitaram o desafio de trabalhar 24 horas por dia numa loja de conveniência. Aggiebot, uma startup chinesa de robôs, conduziu avaliações de trabalho implantando robôs humanóides de seis rodas, ‘G2’, em uma loja de conveniência em Xangai, de 2 a 3. Os robôs realizavam uma variedade de tarefas, incluindo atender clientes, expor produtos, fazer café, servir comida e limpar. A empresa informou que em 24 horas foram concluídas 1.730 tarefas, processados ​​147 pedidos de café e entregues 369 produtos. No entanto, apenas 4 das 6 unidades passaram na avaliação final. O robô responsável pela exposição dos produtos foi avaliado como carente de proatividade no trabalho, e o robô de limpeza foi eliminado quando se desviava do caminho designado e saía da loja com a lixeira cheia. O desafio foi realizado em uma loja de conveniência real e todo o processo foi transmitido ao vivo online."
+},
+{
+"id": "6fecc50a5ef036",
+"t": "Contratei um humanóide temporário para limpar minha casa por US$ 30 a hora.",
+"r": "Um serviço de limpeza usando robôs humanóides começou em São Francisco. Aquele para o qual fiz uma reserva era um robô fofo com cerca de 137 cm de altura. Ele era minucioso em seu trabalho, mas lento em seus movimentos, cambaleando pelas escadas como um bêbado. Apresentando um PC empresarial de olho nos próximos cinco…",
+"u": "https://ascii.jp/elem/000/004/449/4449924/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
+"d": "2026-11-09T18:44-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "時給30ドル、派遣ヒューマノイドに自宅の掃除を頼んでみた",
+"lg": "ja",
+"p": 4.3,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "Um serviço de limpeza usando robôs humanóides começou em São Francisco. Aquele para o qual fiz uma reserva era um robô fofo com cerca de 137 cm de altura. Ele era minucioso em seu trabalho, mas lento em seus movimentos, cambaleando pelas escadas como um bêbado. Apresentando um PC empresarial de olho nos próximos cinco anos, o Copilot+ PC de 14 polegadas \"na medida certa\" combina desempenho poderoso, IA avançada e segurança.\nO FortiSOC atende aos requisitos de “integração de informações/suporte/automação de investigação baseada em IA” que os futuros SOCs devem atender."
+},
+{
+"id": "ce76a83e985496",
+"t": "Precisa de um cachorro-robô assustador? Boston Dynamics agora está alugando Spot.",
+"r": "Até agora, estamos todos familiarizados com a magia negra que está sendo praticada na Boston Dynamics. O pequeno cão robótico conhecido como Spot ainda não está disponível comercialmente, mas as notícias de terça-feira nos aproximam dessa realidade. A Boston Dynamics começou a alugar o Spot para clientes selecionados…",
+"u": "https://mashable.com/article/boston-dynamics-spot-launch-trailer",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/06XU70DBDP5TxhMKd1FYpSr/hero-image.fill.size_1200x675.v1623386813.jpg",
+"d": "2026-11-09T19:47-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Need a creepy robot dog? Boston Dynamics is now leasing Spot.",
+"lg": "en",
+"p": 4.3,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "Até agora, estamos todos familiarizados com a magia negra que está sendo praticada na Boston Dynamics. O pequeno cão robótico conhecido como Spot ainda não está disponível comercialmente, mas as notícias de terça-feira nos aproximam dessa realidade. A Boston Dynamics começou a alugar o Spot para clientes selecionados. Isso significa que você poderia ver o Spot fazendo seu trabalho na natureza, longe dos laboratórios da Boston Dynamics que geraram todos aqueles vídeos.\nEssas características são úteis porque, neste momento, parece que a Boston Dynamics está alugando-o para empresas para atividades como construção e monitoramento de instalações de petróleo e gás. Embora pareça que o Spot esteja disponível apenas em uma capacidade limitada no momento, The Verge informou que estará disponível comercialmente em algum momento deste ano."
+},
+{
+"id": "7a26f570d4dd12",
+"t": "Agility Robotics listada na Nasdaq, enfrenta teste de lucro apesar do pedido de US$ 300 milhões",
+"r": "A Agility Robotics foi listada na Nasdaq em 5 de novembro, tornando-se o primeiro fabricante de robôs humanóides de capital aberto dos EUA e uma referência fundamental para avaliar o valor comercial do setor...",
+"u": "https://www.digitimes.com/news/a20261109PD211/nasdaq-robot-amazon-data-revenue.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261109pd211_files/2_b.jpg",
+"d": "2026-11-09T22:21-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "Agility Robotics lists on Nasdaq, faces profit test despite US$300 million order",
+"lg": "en",
+"p": 4.3,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "A Agility Robotics foi listada na Nasdaq em 5 de novembro, tornando-se o primeiro fabricante de robôs humanóides de capital aberto dos EUA e uma referência fundamental para avaliar o valor comercial do setor..."
 },
 {
 "id": "8514c7885b3b7f",
@@ -24356,7 +24693,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Handelsblatt",
-"mx": 2
+"mx": 3
 },
 {
 "id": "544356730eac9a",
@@ -24376,7 +24713,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 2
+"mx": 3
 },
 {
 "id": "5b52446f94ffb6",
@@ -24396,7 +24733,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 2
+"mx": 3
 },
 {
 "id": "2ae8ec4826ba1e",
@@ -24416,7 +24753,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 2
+"mx": 3
 },
 {
 "id": "f9bc84ac6cb8a2",
@@ -24436,7 +24773,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 2
+"mx": 3
 },
 {
 "id": "c090be4894dbc9",
@@ -24456,7 +24793,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Wall Street Journal",
-"mx": 2
+"mx": 3
 },
 {
 "id": "7756d8517f6559",
@@ -24480,7 +24817,7 @@
 ],
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 2
+"mx": 3
 },
 {
 "id": "df255229f2d4ea",
@@ -24500,7 +24837,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a0af38de983a35",
@@ -24520,7 +24857,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Politico",
-"mx": 1
+"mx": 2
 },
 {
 "id": "0489b804fec531",
@@ -24542,95 +24879,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
-},
-{
-"id": "8e53428b0e0b2d",
-"t": "Huayan Robotics apresentará soluções de automação flexíveis na METALEX 2026 na Tailândia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHZuVFZSMWtVRkN6ZllDODF1RXBpZDJVYU5jRVRRM09LQ3NXMEFZSUh0eFpVbnVOcW1IeTk1Zm91M0tIRkJFbkZQNFVrcVBvTGJtVzE0U3BzcTBiT3RfNWNDY05uNjc1WjVPRldyb2xPMmVtODM2SHpnV2ViMVhPMi1LcURyMTZ3SVpTMU5uRFB1R21ocVRic0JYMHZ6QXFMeGpQWS1aNWkzX0JCZVk2QUVpRGVWdUlxZFpVVHV1dTl5YS1oa3JpM2J2RGprRnV5cV9pa0ZtNUloUzA?oc=5",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-09T23:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Huayan Robotics to Showcase Flexible Automation Solutions at METALEX 2026 in Thailand",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 0
-},
-{
-"id": "0fa69665539ff4",
-"t": "Robot Bank inicia desenvolvimento de robô quadrúpede para uso industrial Inicia desenvolvimento de produto próprio de robô de IA de concreto",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OdUV4VFpOZmdXVWZsUFJuSGJsMkEwSDVmdENDbWxDVm1mZGdFX28wdmVFNVdkakVfQmlPZlo2TVFTS0dHeWJybmpISDJMZTE5dHRPSzBOVENEWnNJY3BLcS1OZw?oc=5",
-"f": "株式会社インプレス",
-"s": "ai.watch.impress.co.jp",
-"i": "",
-"d": "2026-11-09T02:48-03:00",
-"c": [
-"quadrupedes",
-"construcao"
-],
-"l": 0,
-"to": "ロボットバンク、産業向け四足歩行ロボットの開発に着手 具身AIロボットの自社製品開発を始動",
-"lg": "ja",
-"p": 3.0,
-"cr": 2,
-"cv": "Impress Watch",
-"mx": 0
-},
-{
-"id": "934f963cca88a2",
-"t": "KTL estabelece as bases para a avaliação de segurança e proteção humanóide de IA… Estabelecimento de uma plataforma de suporte técnico completa",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OVlpTU0x6eURLZmFfUjlqQjJJQzl0OXJrTWc3SF9FbzlUUzJ0VnVSN0UwdS1IQTZlMHBpNXUwdFBIX1I4cWplblFjZFdDZw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T02:54-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "KTL, AI 휴머노이드 안전·보안 평가 기반 닦는다…원스톱 기술지원 플랫폼 구축",
-"lg": "ko",
-"p": 3.0,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
-"id": "d0871ebecc1f3f",
-"t": "“Uma criança de 5 anos é melhor”… Desastre de limpeza de robô humanóide com salário de 100.000 won por hora",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YVFNOckdTZFJkeFE2TW5pWFZYTkNodDBhcTRzMlNyZ2tUOWF4c1FsbWtXTlhBVXR1eFhnT0c3Z2pSZk1YdjdCZ1oteVQ0RHBqTWhEallB?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-09T04:00-03:00",
-"c": [
-"humanoides",
-"resgate"
-],
-"l": 0,
-"to": "\"5세 아이가 낫다\"…시급 10만원 휴머노이드 로봇 청소 대참사",
-"lg": "ko",
-"p": 3.0,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
+"mx": 2
 },
 {
 "id": "0968cbd7b33ac4",
 "t": "Samsung SDI fornecerá baterias para o robô humanóide Atlas da Boston Dynamics",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oQW1kVkRJRFZyRVJ0T2ZlV20zQmhPNE9rRVlINHRMSi16UGE0SWZHbXZTZjJqRkxRQW9EUjBMVncwcFh2RnRHemRqcXA?oc=5",
+"r": "A IT House informou em 9 de novembro que a mídia coreana The Elec informou recentemente que a Samsung SDI fornecerá baterias para o robô humanóide Atlas desenvolvido pela Boston Dynamics (uma subsidiária de robótica do Hyundai Motor Group). Embora a LG New Energy também tenha sido selecionada como fornecedor, devido à…",
+"u": "https://www.ithome.com/1/024/339.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -24641,16 +24896,17 @@
 "l": 0,
 "to": "三星 SDI 将为波士顿动力 Atlas 人形机器人供应电池",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 0
+"mx": 1,
+"rx": "A IT House informou em 9 de novembro que a mídia coreana The Elec informou recentemente que a Samsung SDI fornecerá baterias para o robô humanóide Atlas desenvolvido pela Boston Dynamics (uma subsidiária de robótica do Hyundai Motor Group). Embora a LG New Energy também tenha sido selecionada como fornecedor, devido à capacidade de produção limitada, espera-se que a Samsung SDI seja responsável por quase todas as remessas iniciais e permaneça como fornecedor exclusivo por um período de tempo.\nAo mesmo tempo, o Atlas planeja ser produzido em massa em 2028 ou mais tarde. A Hyundai Motor entregou os negócios relacionados à Atlas para sua subsidiária de peças automotivas Hyundai Mobis (IT Home Note: Hyundai Mobis)."
 },
 {
 "id": "f80a02ecd7c101",
 "t": "Uma subsidiária da China Telecom e UBTECH têm uma cooperação estratégica abrangente para promover conjuntamente a aplicação no mercado em larga escala de robôs humanóides biônicos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02anY4ZGVpTkVXRGVTZENsWGlwUEpCSUZOWk90UHVSMlZGLUR2eGR4WGxNRUdZX1MweTBaWlVwdW9wNjBBNV9ILWFmQ3Y?oc=5",
+"r": "De acordo com notícias da IT House em 9 de novembro, Tianyi Telecom Terminal Co., Ltd. (referida como \"E-Yi Telecom Terminal\") e Shenzhen Ubite Technology Co., Ltd. (referida como \"Ubite\") assinaram um acordo de cooperação estratégica abrangente hoje (9 de novembro). As duas partes chegaram a um consenso sobre a…",
+"u": "https://www.ithome.com/1/024/340.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -24661,16 +24917,17 @@
 "l": 0,
 "to": "中国电信子公司与优必选全面战略合作，共推仿生人形机器人大规模市场应用",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 0
+"mx": 1,
+"rx": "De acordo com notícias da IT House em 9 de novembro, Tianyi Telecom Terminal Co., Ltd. (referida como \"E-Yi Telecom Terminal\") e Shenzhen Ubite Technology Co., Ltd. (referida como \"Ubite\") assinaram um acordo de cooperação estratégica abrangente hoje (9 de novembro). As duas partes chegaram a um consenso sobre a cooperação estratégica em áreas como promoção de robôs em larga escala, inovação e pesquisa conjunta, inovação de modelos de negócios, criação de cenários de aplicação, embalagem de componentes de capacidade e co-construção de ecologia industrial.\nNos próximos três anos, as duas partes promoverão conjuntamente a escala da indústria de terminais de robôs domésticos para exceder um milhão de unidades, promoverão a escala de robôs humanóides superbiônicos, robôs humanóides com rodas e outras indústrias de terminais para exceder 100.000 unidades, tornando os robôs um importante ponto de contato para serviços de IA e um ponto de entrada inovador para cenários de aplicação típicos."
 },
 {
 "id": "8330410adee284",
 "t": "Conversa exclusiva com \"Elmo Robot\" Shi Xiaoxin: Metade do jogo final dos robôs humanóides está nas \"mãos\"",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YRmR5MGJXRUtPeGZYREtBMy1WNGstWVd2TTQyaDBsaldvZWh4RS1xcVNCOUVaeV8tTTVUNlRpRXpRUXBjQVVxbldleXhpQQ?oc=5",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4063274873672578",
 "f": "36氪",
 "s": "m.36kr.com",
 "i": "",
@@ -24681,91 +24938,11 @@
 "l": 0,
 "to": "独家对话「艾莫机器人」施晓鑫：人形机器人的终局，一半在“手”上",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 0
-},
-{
-"id": "38b5b02b040845",
-"t": "Robô humanóide se torna funcionário de uma loja de conveniência… Desafio de trabalho 24 horas por dia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rdjRfcEY1SUJxNGV2ZGtuLWtxVGxFa01kN1ZjaDh1YWtNZHFtTHd3cHlvbnpsZWpiZzhiYzdpd1lQSlB4NGpHMTFUd0k5dw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-09T18:00-03:00",
-"c": [
-"humanoides",
-"servico"
-],
-"l": 0,
-"to": "편의점 직원 된 휴머노이드 로봇…24시간 근무 도전",
-"lg": "ko",
-"p": 3.0,
-"cr": 2,
-"cv": "ETNews",
-"mx": 0
-},
-{
-"id": "6fecc50a5ef036",
-"t": "Contratei um humanóide temporário para limpar minha casa por US$ 30 a hora.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wcnZ1T3FnLV9OMGtMRkpMNDQwaEJkVzlJUlVXUnB5VnlGZnI1SkYzN3QxdXZjalItbzhvUEdBaFRIQjVIcFBCaERVdGlOZ3RNZHJUTA?oc=5",
-"f": "ASCII.jp",
-"s": "ascii.jp",
-"i": "",
-"d": "2026-11-09T18:44-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "時給30ドル、派遣ヒューマノイドに自宅の掃除を頼んでみた",
-"lg": "ja",
-"p": 3.0,
-"cr": 2,
-"cv": "ASCII.jp",
-"mx": 0
-},
-{
-"id": "ce76a83e985496",
-"t": "Precisa de um cachorro-robô assustador? Boston Dynamics agora está alugando Spot.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMickFVX3lxTE01czg0VzVpMjc1a29oS3pFSUJadGhUZ2hyWFNYcnpxTGhUSWNIbURSMGRHTHhqQ01VbkVSc1FlLUxjS3hNZ0ZVeHQ2RWRRc3ZVaVBoOGRMVzNSb3lrVEE4ampMRGp4WHE2UnMzZGFSbzB5UQ?oc=5",
-"f": "Mashable",
-"s": "mashable.com",
-"i": "",
-"d": "2026-11-09T19:47-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 0,
-"to": "Need a creepy robot dog? Boston Dynamics is now leasing Spot.",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "Mashable"
-},
-{
-"id": "7a26f570d4dd12",
-"t": "Agility Robotics listada na Nasdaq, enfrenta teste de lucro apesar do pedido de US$ 300 milhões",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkRhVFplY2R0LUlEb2o2eUE5c2oyRjNYMmI1UV9mRmJCYWNsRFVfWFFGMEVUVVdHaWFGZ19XcnIzNE9LNl85Xy1xcWtYY3dib0QtMjRRbVl0Zzl3NE1RUUdfRzJvY3VuREk5RkVHY3RKZW51S2cxMWxkVk1SM09UZ2J2R1F0R2R1eXVj?oc=5",
-"f": "digitimes",
-"s": "digitimes.com",
-"i": "",
-"d": "2026-11-09T22:21-03:00",
-"c": [
-"humanoides",
-"negocios"
-],
-"l": 0,
-"to": "Agility Robotics lists on Nasdaq, faces profit test despite US$300 million order",
-"lg": "en",
-"p": 3.0,
-"cr": 2,
-"cv": "DigiTimes",
-"mx": 0
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "05ab39c901d7b0",
