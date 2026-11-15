@@ -314,7 +314,8 @@
 "i": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/13/TELEMMGLPICT000220934332_17945862854240_trans_NvBQzQNjv4BqfrqDXtrcAAwnUc1YpwvbDVHwtdpQwyNje2OyIL7x97s.jpeg?impolicy=OG-Standard",
 "d": "2026-11-15T13:00-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 1,
 "to": "Google to launch drone deliveries in UK",
@@ -1062,6 +1063,28 @@
 "rx": "O Google DeepMind apresentou o Gemini Robotics 2.5, um modelo atualizado de visão-linguagem-ação (VLA) projetado para melhorar a capacidade dos robôs de realizar tarefas físicas complexas em ambientes industriais e cotidianos. O Gemini Robotics 2.5 foi avaliado em mais de 200 tarefas, incluindo manuseio de objetos delicados, uso de ferramentas, manipulação de materiais flexíveis e execução de operações de montagem de precisão.\nUsando o Gemini Robotics 2.5 para controlar seus braços e mãos, juntamente com o Gemini Robotics ER para o planejamento de tarefas, a Apollo 2 alcançou uma taxa de sucesso relatada de 96% durante o programa de prova de conceito. O Google DeepMind afirma que seu modelo Gemini 4 Argon alcançou 99,5% de resistência nessas avaliações, em comparação com 82% de sua linha de base anterior."
 },
 {
+"id": "f6520b097e082c",
+"t": "DHL Supply Chain pilota robótica adaptativa e orquestração de IA em operações de armazém",
+"r": "A DHL Supply Chain está a testar robôs adaptativos alimentados por IA e a introduzir a orquestração de IA em operações de armazém em tempo real como parte de uma estratégia mais ampla para coordenar a robótica, a inteligência artificial e os trabalhadores humanos em toda a sua rede logística global. As iniciativas fazem parte da Cadeia de Fornecimento Inteligente da empresa…",
+"u": "https://roboticsandautomationnews.com/2026/11/15/dhl-supply-chain-pilots-adaptive-robotics-and-ai-orchestration-in-warehouse-operations/107189/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/DHL-Supply-Chain-1.jpg",
+"d": "2026-11-15T16:17-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A DHL Supply Chain está a testar robôs adaptativos alimentados por IA e a introduzir a orquestração de IA em operações de armazém em tempo real como parte de uma estratégia mais ampla para coordenar a robótica, a inteligência artificial e os trabalhadores humanos em toda a sua rede logística global. Tim Tetzlaff, chefe global de transformação digital da DHL Supply Chain, afirma: “Nossa prioridade imediata é continuar a expandir nossa robótica comprovada em mais locais, ao mesmo tempo em que transferimos a próxima geração de robótica adaptativa alimentada por IA de pilotos para operações ao vivo”.\nA DHL está a posicionar a combinação de robótica adaptativa, orquestração de IA e conhecimento humano como a próxima etapa da automação de armazéns, com o objetivo de melhorar a produtividade sem exigir que cada tarefa ou decisão seja totalmente automatizada."
+},
+{
 "id": "7ffe704db59ba3",
 "t": "OpenAi fecha unidade robótica pela segunda vez em seis anos, mas quer que todos saibam que a empresa está pronta",
 "r": "A OpenAI dissolveu sua equipe autônoma de robótica pela segunda vez em seis anos, agrupando o grupo em suas organizações mais amplas de pesquisa e aplicação. Embora a mudança ecoe a decisão da empresa de encerrar sua divisão de robótica original em 2020, a OpenAI insiste que a última reorganização não é um retrocesso…",
@@ -1489,6 +1512,27 @@
 "rx": "A Drone Federation India propôs 22 reformas políticas para fortalecer a fabricação de componentes locais, reduzir a dependência de importações e apoiar a indústria de drones projetada de ₹ 97.300 crore até 2031."
 },
 {
+"id": "83a5f445acae46",
+"t": "Polvos e estratégias para entrar nos menores buracos: a descoberta que inspira a robótica",
+"r": "E uma capacidade extraordinária de se espremer onde, pelo menos a julgar pelo tamanho, não deveria haver espaço. Com uma surpresa: o polvo muda de técnica dependendo do tamanho da passagem. Os cientistas observaram e filmaram três jovens exemplares de polvo comum (Octopus vulgaris) lutando contra aberturas de…",
+"u": "https://www.repubblica.it/green-and-blue/2026/11/15/news/i_polpi_e_le_strategie_per_infilarsi_nei_buchi_piu_piccoli-425713179/",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "https://www.repstatic.it/content/contenthub/img/2026/11/10/144427862-3d8b1bf2-bd59-4178-929d-c40da20c1def.jpg",
+"d": "2026-11-15T16:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "I polpi e le strategie per infilarsi nei buchi più piccoli: la scoperta che ispira la robotica",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "La Repubblica",
+"mx": 1,
+"rx": "E uma capacidade extraordinária de se espremer onde, pelo menos a julgar pelo tamanho, não deveria haver espaço. Com uma surpresa: o polvo muda de técnica dependendo do tamanho da passagem. Os cientistas observaram e filmaram três jovens exemplares de polvo comum (Octopus vulgaris) lutando contra aberturas de diferentes tamanhos, reconstruindo passo a passo as manobras necessárias para atravessá-las.\nO polvo utiliza uma estratégia de quatro passos: depois de ter explorado a abertura e avançado alguns braços, introduz também os que ficaram para trás, antes de comprimir e passar a cabeça e o manto. Os novos experimentos sugerem, em vez disso, que o limite pode depender do tamanho dos braços mais próximos do corpo."
+},
+{
 "id": "df54291af09bac",
 "t": "Bem-vindo, CraftNet!",
 "r": "CraftNet é um modelo proprietário de base de IA da Sharpa, também conhecida como Sharpa Robotics, uma empresa com sede em Cingapura. Apresentado na CES em Las Vegas em janeiro de 2026, pertence à camada de software do ecossistema robótico e não à categoria de robôs físicos ou mãos robóticas. Sua data de lançamento é 6 de janeiro…",
@@ -1542,7 +1586,7 @@
 "i": "",
 "d": "2026-11-15T14:47-03:00",
 "c": [
-"ia"
+"geral"
 ],
 "l": 0,
 "to": "Welcome, GR RL!",
@@ -1551,7 +1595,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "GR RL é um modelo básico de robô desenvolvido pela ByteDance Seed, a equipe de pesquisa de IA da ByteDance, empresa controladora da TikTok. O seu desenvolvimento centra-se num problema de formação: demonstrações recolhidas de pessoas podem conter ruído, execução inconsistente e exemplos imperfeitos. Em vez de tratar a imitação como todo o processo de aprendizagem, o projeto combina o treinamento de demonstração com o aprendizado de reforço por meio da prática subsequente do robô. A sequência de treinamento relatada tem três etapas: filtrar demonstrações ruins, espelhar exemplos retidos para expandir os dados de treinamento e introduzir práticas orientadas por resultados.\nDe forma mais ampla, o projecto reflecte a atenção à qualidade da formação no âmbito da investigação robótica, particularmente a relação entre demonstrações humanas e aprendizagem através da prática."
 },
 {
@@ -1636,7 +1680,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Financial Times",
-"mx": 2
+"mx": 3
 },
 {
 "id": "e4ea995c61a4cc",
@@ -1765,6 +1809,28 @@
 "rx": "Então aqui está no nosso laboratório, este Narwal Flow lançado há alguns meses e que podemos encontrar hoje por 899€. Equipado com um poder de sucção de 22.000 Pa, este robô limpador de pisos também conta com seu esfregão atípico para apagar os vestígios mais complicados."
 },
 {
+"id": "869c9bcac11415",
+"t": "Pentágono testa caça de matilhas com robôs de guerra autônomos – DARPA experimentou quatro veículos terrestres drones que detectaram, rastrearam e enfrentaram ameaças simuladas",
+"r": "O Pentágono tem testado pacotes de veículos terrestres autônomos (UGVs) em situações simuladas de combate. Em meados de outubro, na cordilheira St. Vith de Fort Knox, em Kentucky, quatro UGVs “trabalharam em equipe, negociando e vigiando a paisagem ondulada em busca de forças inimigas”, lembra uma postagem no blog da…",
+"u": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+"f": "Tom's Hardware",
+"s": "tomshardware.com",
+"i": "https://cdn.mos.cms.futurecdn.net/aLBJMibNLNdwySjZPXCJmB-1920-80.jpg",
+"d": "2026-11-15T11:19-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "Pentagon tests pack hunting with autonomous war robots — DARPA experimented with four drone ground vehicles that detected, tracked, and engaged simulated threats",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Tom's Hardware",
+"mx": 1,
+"rx": "O Pentágono tem testado pacotes de veículos terrestres autônomos (UGVs) em situações simuladas de combate. Em meados de outubro, na cordilheira St. Vith de Fort Knox, em Kentucky, quatro UGVs “trabalharam em equipe, negociando e vigiando a paisagem ondulada em busca de forças inimigas”, lembra uma postagem no blog da DARPA. “Os soldados podem montar tudo e qualquer coisa – 240 Bravos, drones, foguetes”, disse um técnico presente na demonstração, pois são “plataformas supermodulares”. O blog diz que três dos quatro UGVs no exercício tinham drones.\nDepois que a área designada foi explorada pelo veículo terrestre autônomo líder, outros UGVs seguiram “para fornecer cobertura e apoio”. Um foguete simulado foi disparado contra um alvo identificado a cerca de 300 metros do grupo de robôs."
+},
+{
 "id": "5ebac17ba4c967",
 "t": "“Nossa solução pode ser carregada diretamente em um drone”: a start-up Mirega simplifica a análise de gases de efeito estufa",
 "r": "",
@@ -1826,6 +1892,26 @@
 "cv": "TechCrunch",
 "mx": 1,
 "rx": "Algumas empresas estão usando processadores automotivos da Nvidia para executar software de direção autônoma, enquanto outras estão usando GPUs da Nvidia para treinar modelos de direção autônoma. Perguntei-lhe sobre os desafios que a indústria autónoma da China enfrenta e o que ele acha que acontecerá se as consequências da demissão de Huang resultarem em controlos de exportação ainda mais rigorosos sobre os chips Nvidia enviados para a China.\nQuando questionado sobre o que ele acha que acontecerá se as restrições à exportação de chips Nvidia aumentarem, Wang disse que as empresas chinesas já estão se preparando. Em vez disso, disse-me a VW, a empresa está oferecendo um veículo básico pronto para condução automatizada para outras empresas que desenvolvem seus próprios sistemas de direção autônoma. (Isso foi apresentado no mês passado durante a Nvidia GTC em Berlim.)"
+},
+{
+"id": "f9d4b3a8938bc4",
+"t": "Vídeo | Chat Puja | Imagens de drones mostram multidões crescentes em Godavari Ghats em Nashik para Chhath Puja",
+"r": "",
+"u": "https://www.ndtv.com/video/chhath-puja-drone-visuals-show-swelling-crowds-at-godavari-ghats-in-nashik-for-chhath-puja-1191951",
+"f": "NDTV",
+"s": "ndtv.com",
+"i": "",
+"d": "2026-11-15T14:27-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Video | Chhath Puja | Drone Visuals Show Swelling Crowds At Godavari Ghats In Nashik For Chhath Puja",
+"lg": "hi",
+"p": 3.5,
+"cr": 3,
+"cv": "NDTV",
+"mx": 1
 },
 {
 "id": "baba88e58eb717",
@@ -3389,7 +3475,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 1
+"mx": 2
 },
 {
 "id": "8f2511ff3ac96a",
@@ -5509,7 +5595,7 @@
 "u": "https://dronexl.co/drone-technology/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-13T05:00-03:00",
 "c": [
 "drones"
@@ -5520,7 +5606,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
+"mx": 9,
 "rx": "A cobertura da tecnologia drone rastreia a camada de hardware e software por baixo de produtos específicos, os sensores, sistemas de autonomia e projetos de fuselagem que determinam o que qualquer drone pode realmente fazer. O LiDAR cresceu de uma carga útil de pesquisa de nicho para um dos maiores balcões de tecnologia do local, e as aeronaves VTOL e eVTOL estão se desenvolvendo em uma indústria genuinamente separada dos drones de consumo baseados em rotor. A tecnologia de sensores também continua expandindo a utilidade de um drone de maneiras inesperadas: Rainmaker diz que seus drones semeadores de nuvens produziram 143 milhões de galões de chuva, e a Flórida chama a prática de crime, um caso que fica na intersecção da tecnologia de drones e da lei estadual que nenhum dos lados previu.\nEsta tabela cobre a capacidade subjacente, um modelo de mira de IA, um sensor LiDAR, um design de fuselagem VTOL, em vez de um drone de consumidor específico."
 },
 {
@@ -6227,6 +6313,27 @@
 "rx": "Imagens de drone mostram um pedalinho American Heritage tombado de lado após ser atingido por um navio-tanque no rio Mississippi."
 },
 {
+"id": "195325c1950e82",
+"t": "“Procurando alguém para passear com um cachorro-robô”… Um trabalho de ‘$ 20 por hora’ aparece nos EUA",
+"r": "Uma startup na Califórnia está recrutando pessoas para passear com um cachorro-robô. De acordo com reportagens recentes como o New York Times (NYT) e o Guardian, no dia 5 do mês passado, ‘Dimension’, uma startup de inteligência artificial com sede em Dog Patch, em São Francisco, disse que estava procurando…",
+"u": "https://www.donga.com/news/amp/all/20261113/135021410/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "",
+"d": "2026-11-13T04:13-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "“로봇 개 산책시켜 주실 분 구함”…美서 등장한 ‘시급 20달러’ 직업",
+"lg": "ko",
+"p": 4.6,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 2,
+"rx": "Uma startup na Califórnia está recrutando pessoas para passear com um cachorro-robô. De acordo com reportagens recentes como o New York Times (NYT) e o Guardian, no dia 5 do mês passado, ‘Dimension’, uma startup de inteligência artificial com sede em Dog Patch, em São Francisco, disse que estava procurando funcionários para passear com um cachorro-robô de quatro patas…"
+},
+{
 "id": "6072fbcde37450",
 "t": "Festo apresenta na Automation Fair um conjunto robusto de soluções de segurança pneumática",
 "r": "O módulo CIP Safety e os terminais de válvula da Festo ajudam a reduzir o consumo de energia e a aumentar a disponibilidade da máquina.",
@@ -6450,27 +6557,6 @@
 "rx": "De acordo com as notícias da IT House em 13 de novembro, a Hikvision declarou na plataforma interativa hoje (13 de novembro) que a Hikvision Robotics concluiu o pedido de reestruturação acionária e orientação de listagem. Consulte as informações de divulgação oficial para o progresso relacionado ao IPO. A IT House perguntou sobre informações públicas e descobriu que a Hikvision Robotics é uma fornecedora global de produtos e soluções de visão mecânica e robôs móveis. Seus negócios se concentram na Internet das Coisas industrial, logística inteligente e manufatura inteligente. Era anteriormente conhecido como Departamento de Negócios de Visão de Máquina Hikvision e foi estabelecido de forma independente em 2016.\nEm 6 de julho de 2026, quando um robô coletor de garfos saiu da linha de produção, a Hikvision Robot anunciou oficialmente que o número cumulativo de seus robôs móveis em todas as categorias ultrapassou 200.000 unidades."
 },
 {
-"id": "195325c1950e82",
-"t": "“Procurando alguém para passear com um cachorro-robô”… Um trabalho de ‘$ 20 por hora’ aparece nos EUA",
-"r": "Uma startup na Califórnia está recrutando pessoas para passear com um cachorro-robô. De acordo com reportagens recentes como o New York Times (NYT) e o Guardian, no dia 5 do mês passado, ‘Dimension’, uma startup de inteligência artificial com sede em Dog Patch, em São Francisco, disse que estava procurando…",
-"u": "https://www.donga.com/news/amp/all/20261113/135021410/1",
-"f": "동아일보",
-"s": "donga.com",
-"i": "",
-"d": "2026-11-13T04:13-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "“로봇 개 산책시켜 주실 분 구함”…美서 등장한 ‘시급 20달러’ 직업",
-"lg": "ko",
-"p": 3.8,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 1,
-"rx": "Uma startup na Califórnia está recrutando pessoas para passear com um cachorro-robô. De acordo com reportagens recentes como o New York Times (NYT) e o Guardian, no dia 5 do mês passado, ‘Dimension’, uma startup de inteligência artificial com sede em Dog Patch, em São Francisco, disse que estava procurando funcionários para passear com um cachorro-robô de quatro patas…"
-},
-{
 "id": "157d777cf9d189",
 "t": "[Relatório Médico] O Hospital da Universidade Nacional de Seul descobre sinais sanguíneos de fibrose renal… O Hospital Boramae prevê a dificuldade da cirurgia robótica da tireoide, etc.",
 "r": "[ｺҸƴ / ظ] 뺴 索Ϻ ȯ ȭ 迡 ع ȣ OOO. para 汸 κ ġ ü οԸ. ǻȸ ǥ 켱Ģ ȯϰ Ȯ븦 ˱�. Ѱȣȸ ȣ 1 ȯ 5 ȭ å . Կȯ ͸ ý ک, Ǳ뺴 5 ' 2% ' ƴ. Ѽֺ Ƿ ȸ , ǰпҴ ︣ ãư ǰ ǽ�. ֿ Ƿ ڽ ک. ѽ¼ \"õ century m ȭ JUϴ ȣ OOOϰ, ̸ p ȯұ m Ȯٴ ǹ̰ ִ\" OOO. ̱ȸ m 'Revista Clínica da Sociedade Americana de Nefrologia (CJASN)' ֽȣ Ƿȴ.",
@@ -6586,7 +6672,7 @@
 "i": "https://img.ithome.com/m/images/logo.png",
 "d": "2026-11-13T01:16-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
@@ -8212,7 +8298,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -9809,7 +9895,7 @@
 "u": "https://dronexl.co/tracker/drone-delivery/how-approval-works/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-12T05:00-03:00",
 "c": [
 "drones",
@@ -9821,8 +9907,9 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
-"rx": "Esta página explica como realmente funciona a aprovação, o que mudou em 28 de julho de 2026 e quais alavancas uma cidade, um vereador ou um morador ainda detém. Para fazer entregas em sua cidade, uma operadora precisa de duas coisas da FAA: um certificado de transportadora aérea e uma alteração nas especificações de operações com o nome de sua área. Em 28 de julho de 2026, a FAA assinou um documento nacional único abrangendo a entrega de pacotes por drones para todo o país.\nUma cidade não pode obrigar um operador de drone a comparecer a uma reunião; os operadores aparecem quando precisam de alguma coisa, ou seja, quando um pedido chega ao conselho. A coisa mais eficaz que uma cidade pode fazer é decidir, antecipadamente, como trata um centro de entrega no seu código de zoneamento: se é um uso permitido, em que distritos e que revisão necessita."
+"mx": 9,
+"rx": "Esta página explica como realmente funciona a aprovação, o que mudou em 28 de julho de 2026 e quais alavancas uma cidade, um vereador ou um morador ainda detém. Para fazer entregas em sua cidade, uma operadora precisa de duas coisas da FAA: um certificado de transportadora aérea e uma alteração nas especificações de operações com o nome de sua área. Em 28 de julho de 2026, a FAA assinou um documento nacional único abrangendo a entrega de pacotes por drones para todo o país.\nUma cidade não pode obrigar um operador de drone a comparecer a uma reunião; os operadores aparecem quando precisam de alguma coisa, ou seja, quando um pedido chega ao conselho. A coisa mais eficaz que uma cidade pode fazer é decidir, antecipadamente, como trata um centro de entrega no seu código de zoneamento: se é um uso permitido, em que distritos e que revisão necessita.",
+"cur": 1
 },
 {
 "id": "52c7e656d72304",
@@ -13948,7 +14035,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -27087,7 +27174,7 @@
 "i": "https://img9.yna.co.kr/photo/yna/YH/2026/11/09/PYH2026110909290001300_P4.jpg",
 "d": "2026-11-09T04:10-03:00",
 "c": [
-"geral"
+"logistica"
 ],
 "l": 0,
 "to": "[만나보니] 엔비디아 부사장 \"자율주행·이동로봇, 초기 상용화 올라섰다\"",
@@ -29766,7 +29853,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -29795,7 +29882,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -33562,7 +33649,7 @@
 "u": "https://dronexl.co/drone-industry/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "drones",
@@ -33574,7 +33661,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
+"mx": 9,
 "rx": "As notícias da indústria de drones cobrem o lado comercial do setor: financiamento, contratos, certificação e as decisões da empresa que decidem para onde o mercado realmente vai. A certificação está se tornando mais rigorosa ao mesmo tempo: a FCC disse a todos os laboratórios de certificação para reforçar a triagem de drones, uma mudança de conformidade que favorece os fabricantes com os recursos para atendê-la. A cobertura da proibição da DJI sobre pilotos que perguntam se seus negócios sobrevivem reflete operadores reais que enfrentam decisões de fornecimento e conformidade sem nenhum substituto fácil na faixa de preço da DJI – o custo humano por trás do debate político abordado na mesa da FCC.\nA aposta de US$ 50 milhões da Marinha no X-BAT da Shield AI, observada de perto pela Força Aérea, é um dos vários grandes contratos que remodelam quais empresas têm capital para escalar, enquanto a FCC reforçou separadamente as orientações para laboratórios de certificação na triagem de drones."
 },
 {
