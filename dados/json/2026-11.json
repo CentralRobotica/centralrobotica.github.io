@@ -73,6 +73,26 @@
 "rx": "A empresa de tecnologia autônoma Birdstop, sediada em Detroit, anunciou o lançamento do Fealty, um sistema de drone autônomo e “sempre ligado” projetado para fornecer monitoramento aéreo contínuo, visibilidade ao vivo e resposta rápida a anomalias. A empresa disse que o Fealty pode ser lançado de forma autônoma em apenas 3 segundos, proporcionando às equipes vigilância quase instantânea quando atividade é detectada ou quando solicitado por um operador.\nBirdStop disse que o sistema fabricado nos EUA opera a partir de um poleiro com sensores ópticos e auditivos integrados que monitoram continuamente a atividade. Ao permanecer ativo e pronto, Birdstop disse que o sistema de drones Fealty reduz a dependência de patrulhas de rotina e dá às equipes uma percepção mais rápida quando algo muda. Birdstop disse que o Fealty foi desenvolvido para fornecer uma visão mais imediata, no nível do solo, de ambientes críticos, sem os atrasos dos métodos tradicionais de monitoramento."
 },
 {
+"id": "49d1329cf347bf",
+"t": "SpaceX Starship retorna do espaço, capturada com sucesso com braço robótico da plataforma de lançamento... “Primeira vez”",
+"r": "",
+"u": "https://www.etnews.com/20261115000031",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-14T21:31-03:00",
+"c": [
+"industriais"
+],
+"l": 1,
+"to": "우주서 돌아온 스페이스X 스타십, 발사대 로봇팔로 포획 성공…“사상 최초”",
+"lg": "ko",
+"p": 8.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
 "id": "9ca3d3b5f033db",
 "t": "Expoline conclui projeto de logística internacional para robôs humanóides",
 "r": "A Expoline, especialista sul-coreana em exposições internacionais e logística de carga especial, concluiu com sucesso um projeto de transporte multimodal e logística no local envolvendo robôs humanóides avançados desenvolvidos por uma empresa global de robótica física de IA. O projeto apoiou a participação da empresa em…",
@@ -936,8 +956,30 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 2,
+"mx": 3,
 "rx": "AWE 3.0 é um modelo proprietário de base de IA incorporada desenvolvido pela TARS Robotics, um fabricante de Xangai focado em robôs para aplicações industriais. É o componente de software da plataforma robótica da empresa, e não um robô físico ou uma mão robótica. A TARS apresentou o modelo na conferência de robótica ICRA 2026 em Viena, com data de lançamento listada em 2 de junho de 2026. Para leitores que avaliam produtos de IA incorporados, a principal distinção é entre AWE 3.0 como modelo de software subjacente e as plataformas de hardware TARS que ele suporta.\nDe forma mais ampla, o AWE 3.0 representa uma abordagem proprietária em desenvolvimento para IA incorporada, na qual um fabricante traz o desenvolvimento de modelos, dados de treinamento e plataformas robóticas no mesmo esforço de produto."
+},
+{
+"id": "16296d75a24074",
+"t": "A fábrica da LG no Tennessee produz 10 milhões de máquinas de lavar... Humanóide ‘Croid’ também foi introduzido",
+"r": "",
+"u": "https://zdnet.co.kr/view/?no=20261115093449",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/15/9ba5a79ab49051fb54a946c0928b89d8.jpg",
+"d": "2026-11-14T22:00-03:00",
+"c": [
+"humanoides",
+"industriais",
+"negocios"
+],
+"l": 0,
+"to": "LG 테네시 공장, 세탁기 1000만대 생산…휴머노이드 '크로이드'도 투입",
+"lg": "ko",
+"p": 4.0,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 0
 },
 {
 "id": "d45899b8d72fb9",
@@ -1190,6 +1232,69 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "Assim como o Saros 10, o Saros 10R promete entrar embaixo dos móveis para uma limpeza completa da casa, ao mesmo tempo que dispensa o usuário de grandes tarefas de manutenção."
+},
+{
+"id": "2e9e3cd7ea37de",
+"t": "Força Aérea da China constrói drone que atira dardos analgésicos em soldados feridos – UAV experimental do PLA injeta remédios de emergência à distância para manter os médicos fora de perigo e ganhar tempo durante a 'Hora de Ouro'",
+"r": "",
+"u": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
+"f": "Tom's Hardware",
+"s": "tomshardware.com",
+"i": "https://cdn.mos.cms.futurecdn.net/myZHnnUa8kGCL9qmu5HrhK-1920-80.png",
+"d": "2026-11-14T09:30-03:00",
+"c": [
+"drones",
+"defesa",
+"resgate"
+],
+"l": 0,
+"to": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers — experimental PLA UAV injects emergency meds from a distance to keep medics out of danger and buys time during the 'Golden Hour'",
+"lg": "en",
+"p": 3.2,
+"cr": 2,
+"cv": "Tom's Hardware",
+"mx": 0
+},
+{
+"id": "a79578bac70f2d",
+"t": "Robô AI, carregamento sem fio, anti-drone... Exposição da indústria de rádio abre no dia 18",
+"r": "",
+"u": "https://zdnet.co.kr/view/?no=20261114225808",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/14/b0b4f48b4be473b272662f15a887590b.png",
+"d": "2026-11-14T21:00-03:00",
+"c": [
+"drones",
+"competicoes"
+],
+"l": 0,
+"to": "AI 로봇·무선충전·안티드론...전파산업대전 18일 개막",
+"lg": "ko",
+"p": 3.2,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "d34d61c2f22d7e",
+"t": "A jornada de 40 horas já está no radar da Oxxo: FEMSA explora robôs para automatizar tarefas em suas lojas",
+"r": "",
+"u": "https://www.xataka.com.mx/robotica-e-ia/jornada-40-horas-esta-radar-oxxo-femsa-explora-robots-para-automatizar-tareas-sus-tiendas",
+"f": "Xataka México",
+"s": "xataka.com.mx",
+"i": "https://i.blogs.es/3fd583/gemini_generated_image_ue3tnfue3tnfue3t/840_560.jpeg",
+"d": "2026-11-14T21:33-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "La jornada de 40 horas ya está en el radar de Oxxo: FEMSA explora robots para automatizar tareas en sus tiendas",
+"lg": "es",
+"p": 3.2,
+"cr": 2,
+"cv": "Xataka México",
+"mx": 0
 },
 {
 "id": "9fc55cb22641e7",
@@ -5315,7 +5420,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 },
 {
 "id": "beb8ba58d1ebfd",
@@ -5666,7 +5771,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -10394,7 +10499,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 2
+"mx": 3
 }
 ],
 "2026-11-11": [
@@ -11320,7 +11425,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -16184,6 +16289,36 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 12.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 2,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
+},
+{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -16340,36 +16475,6 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
-},
-{
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 11.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 1,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -17193,6 +17298,36 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 2,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -18387,36 +18522,6 @@
 "mx": 3
 },
 {
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 5.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 1,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
-},
-{
 "id": "04f31f697e3b0c",
 "t": "Preço atual das ações da empresa de robôs (2026-11-10)",
 "r": "",
@@ -19152,6 +19257,27 @@
 "cv": "Futura Sciences",
 "mx": 1,
 "rx": "Cortar, misturar, amassar, pesar e até cozinhar pratos deliciosos... Os robôs de cozinha multifuncionais ainda não acabaram de sujar as mãos! Com esses pequenos chefs no comando, inúmeras preparações e montanhas de pratos podem finalmente tirar férias. Você ainda precisa encontrar o dispositivo certo, porque nem todos jogam na mesma liga. Funções, potência, capacidade, programas de cozedura: os fabricantes duplicam a sua engenhosidade para agradar tanto aos cozinheiros amadores como aos mais exigentes. Analisamos os melhores robôs de cozinha do momento para ajudá-lo a fazer a escolha certa...."
+},
+{
+"id": "454a2bb5e08a05",
+"t": "Do hype à realidade comercial: a pesquisa da ABI revela 60 previsões tecnológicas para 2027, incluindo consolidação de data center de IA e crescimento da robótica",
+"r": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8757530/from-hype-to-commercial-reality-abi-research-reveals-60-technology-predictions-for-2027-including-ai-data-center-consolidation-and-robotics-growth/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-10T11:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "From Hype to Commercial Reality: ABI Research Reveals 60 Technology Predictions for 2027, Including AI Data Center Consolidation and Robotics Growth",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 2,
+"rx": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes desenvolvimentos significam para fornecedores de tecnologia, empresas e investidores.\nEntre as 60 previsões, a ABI Research destaca vários desenvolvimentos que ilustram as oportunidades e os desafios futuros: O whitepaper gratuito, 60 tendências tecnológicas que irão e não irão moldar 2027, está disponível para download em https://abi.link/2027-predictions. ABI Research é uma empresa global de inteligência tecnológica posicionada exclusivamente na interseção de provedores de soluções tecnológicas e empresas do mercado final."
 },
 {
 "id": "574ba4d9aba00e",
@@ -19945,29 +20071,6 @@
 "rx": "Em ‘Made in SG’ Melanie Oliveiro destaca a Universidade de Tecnologia e Design de Singapura ou o foco da SUTD em robótica e Design AI. Poon King Wang do SUTD - diretor de estratégia e design de IA, do Escritório de Planejamento Estratégico - e R Anieyrudh, um estudante de desenvolvimento de produtos de engenharia do ano 2 do SUTD, falarão sobre como os princípios da lição são aplicados à robótica, como Smorphi, o robô que muda de forma, e como os alunos são treinados em prototipagem rápida com Design AI.\nCom mais de 500 saquês e destilados, e o Japan HopFest se juntando às celebrações, Hui Wong descobre como a cena do saquê em Cingapura está evoluindo e que novidades emocionantes aguardam os visitantes este ano com Kevin Ngan, cofundador do Sake Matsuri & Japan HopFest, e Adrian Goh, cofundador do Sake Matsuri e o primeiro Sake Samurai de Cingapura, e um de seus principais expositores, Hansel Tan, diretor e sommelier-chefe da Sake Street Cingapura."
 },
 {
-"id": "0eee68974c073f",
-"t": "Safe Pro Group recebe contrato principal do Exército dos EUA e se une à Anduril para superinteligência no drone Ghost-X para proteção de tanques",
-"r": "AVENTURA, FL — Safe Pro Group Inc. (Nasdaq:SPAI) (“Safe Pro” ou a “Empresa”), um fornecedor de soluções de defesa, segurança e consciência situacional habilitadas para superinteligência (SI), anunciou hoje que recebeu um marco nos EUA. Safe Pro Group Inc. O Exército recebeu um contrato principal sob uma Abertura de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/B2i%20Digital/8766589/safe-pro-group-awarded-u-s-army-prime-contract-teams-with-anduril-for-super-intelligence-on-ghost-x-drone-for-tank-protection/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T22:34-03:00",
-"c": [
-"defesa",
-"drones",
-"negocios"
-],
-"l": 0,
-"to": "Safe Pro Group Awarded U.S. Army Prime Contract, Teams with Anduril for Super Intelligence on Ghost-X Drone for Tank Protection",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 9,
-"rx": "AVENTURA, FL — Safe Pro Group Inc. (Nasdaq:SPAI) (“Safe Pro” ou a “Empresa”), um fornecedor de soluções de defesa, segurança e consciência situacional habilitadas para superinteligência (SI), anunciou hoje que recebeu um marco nos EUA. Safe Pro Group Inc. O Exército recebeu um contrato principal sob uma Abertura de Soluções Comerciais (CSO) para Detecção de Ameaças Terrestres por meio de Reconhecimento Aéreo que se concentra na pilha de tecnologia SI da Safe Pro em execução a bordo do drone Anduril Ghost-X, permitindo identificação em tempo real e geolocalização de mais de 150 tipos de ameaças explosivas, incluindo minas terrestres, minas antipessoal, munições cluster e drones FPV de emboscada.\nPara obter mais informações sobre Safe Pro Group Inc., visite https://safeprogroup.com."
-},
-{
 "id": "28442ccb817467",
 "t": "SK Hynix garante certificação de segurança e proteção... estratégia de robô",
 "r": "A SK Hynix obteve certificações internacionais adicionais relacionadas à segurança de semicondutores de memória e tem como alvo o mercado de inteligência artificial física (IA), como robôs e carros autônomos. Lançamos as bases para expandir o campo de fornecimento de memória automotiva para robôs industriais e…",
@@ -20571,27 +20674,6 @@
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Grandes empresas nacionais, como Samsung e LG, receberam um grande número de prêmios de inovação antes da 'CES 2027', a maior exposição mundial de TI e eletrodomésticos, realizada em Las Vegas, EUA, no início do próximo ano. Enquanto a Samsung Electronics, os Estados Unidos que acolhe a CES no dia 10, decidiu pagar 30 biliões de won em dividendos, os maiores de sempre, as distribuições recebidas pelos investidores do fundo negociado em bolsa (ETF) KOSPI 200 também foram divididas por sociedade gestora. Antes de confirmar o dividendo, confirme o depósito com o gestor que já adicionou o valor esperado à distribuição de outubro, e então... Este é um artigo publicado no 'Hankyung Premium 9', plataforma de investimento pago do Korea Economic Daily. Você pode encontrar mais artigos sobre investimento em ações assinando o Hankyung Premium 9 (www.hankyung.com/premium9)..."
 },
 {
-"id": "454a2bb5e08a05",
-"t": "Do hype à realidade comercial: a pesquisa da ABI revela 60 previsões tecnológicas para 2027, incluindo consolidação de data center de IA e crescimento da robótica",
-"r": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8757530/from-hype-to-commercial-reality-abi-research-reveals-60-technology-predictions-for-2027-including-ai-data-center-consolidation-and-robotics-growth/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-10T11:27-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "From Hype to Commercial Reality: ABI Research Reveals 60 Technology Predictions for 2027, Including AI Data Center Consolidation and Robotics Growth",
-"lg": "en",
-"p": 3.8,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 1,
-"rx": "No seu whitepaper recentemente lançado, 60 tendências tecnológicas que irão e não irão moldar 2027, a empresa global de inteligência tecnológica ABI Research identifica 60 previsões em quase 30 áreas tecnológicas, revelando onde a inovação irá acelerar, onde a adoção ficará aquém das expectativas e o que estes desenvolvimentos significam para fornecedores de tecnologia, empresas e investidores.\nEntre as 60 previsões, a ABI Research destaca vários desenvolvimentos que ilustram as oportunidades e os desafios futuros: O whitepaper gratuito, 60 tendências tecnológicas que irão e não irão moldar 2027, está disponível para download em https://abi.link/2027-predictions. ABI Research é uma empresa global de inteligência tecnológica posicionada exclusivamente na interseção de provedores de soluções tecnológicas e empresas do mercado final."
-},
-{
 "id": "21b89c17efb7b4",
 "t": "Insights do setor: Hasbro AI Studio faz parceria com Boston Dynamics Spinout para robôs licenciados",
 "r": "A Hasbro lançou o Sixth Wall Studio em junho para capitalizar o “Licenciamento Comportamental”. Esse é o termo da gigante dos brinquedos para “personagens de IA autorizados que os parceiros podem implantar de forma rápida, segura e de acordo com a marca” – ou seja, usando modelos comportamentais para projetar uma…",
@@ -20698,6 +20780,29 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "A gigante do varejo não falou muito sobre seu robô doméstico desde o lançamento piloto limitado. A Ring Rover Cam mantém grande parte do hardware do robô com rodas, incluindo sua inteligente câmera de segurança periscópica. A Amazon acabou com toda a parte do companheiro doméstico, ao mesmo tempo em que aposta no único recurso de casa inteligente verdadeiramente útil do Astro, como uma câmera de segurança itinerante. “Como líderes em segurança residencial e empresarial, a equipe Ring aproveitou esse feedback, aproveitou o melhor do Astro e construiu algo novo – não um robô doméstico que também faz segurança, mas um robô de segurança especialmente desenvolvido.”\nAlém da câmera periscópica, o robô possui patrulhas domiciliares programadas, robôs de incidentes (nos quais o robô irá investigar), uma sirene integrada e transmissões de vídeo em 4K."
+},
+{
+"id": "0eee68974c073f",
+"t": "Safe Pro Group recebe contrato principal do Exército dos EUA e se une à Anduril para superinteligência no drone Ghost-X para proteção de tanques",
+"r": "AVENTURA, FL — Safe Pro Group Inc. (Nasdaq:SPAI) (“Safe Pro” ou a “Empresa”), um fornecedor de soluções de defesa, segurança e consciência situacional habilitadas para superinteligência (SI), anunciou hoje que recebeu um marco nos EUA. Safe Pro Group Inc. O Exército recebeu um contrato principal sob uma Abertura de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/B2i%20Digital/8766589/safe-pro-group-awarded-u-s-army-prime-contract-teams-with-anduril-for-super-intelligence-on-ghost-x-drone-for-tank-protection/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T22:34-03:00",
+"c": [
+"defesa",
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "Safe Pro Group Awarded U.S. Army Prime Contract, Teams with Anduril for Super Intelligence on Ghost-X Drone for Tank Protection",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 9,
+"rx": "AVENTURA, FL — Safe Pro Group Inc. (Nasdaq:SPAI) (“Safe Pro” ou a “Empresa”), um fornecedor de soluções de defesa, segurança e consciência situacional habilitadas para superinteligência (SI), anunciou hoje que recebeu um marco nos EUA. Safe Pro Group Inc. O Exército recebeu um contrato principal sob uma Abertura de Soluções Comerciais (CSO) para Detecção de Ameaças Terrestres por meio de Reconhecimento Aéreo que se concentra na pilha de tecnologia SI da Safe Pro em execução a bordo do drone Anduril Ghost-X, permitindo identificação em tempo real e geolocalização de mais de 150 tipos de ameaças explosivas, incluindo minas terrestres, minas antipessoal, munições cluster e drones FPV de emboscada.\nPara obter mais informações sobre Safe Pro Group Inc., visite https://safeprogroup.com."
 },
 {
 "id": "a9996aab252447",
@@ -27000,7 +27105,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -27029,7 +27134,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -31621,7 +31726,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Nature",
-"mx": 2,
+"mx": 3,
 "rx": "Os minirobôs convencionais controlados magneticamente requerem operação em campos magnéticos altamente uniformes e de alta precisão, o que é impraticável para aplicações em grandes espaços. Neste trabalho, o robô de origami biestável transfere esses requisitos para a geometria pré-programada de sua arquitetura mecânica. Estas estruturas exibem modos de deformação distintos em cada estado estável quando submetidas a perturbações magnéticas de pequena amplitude. Correspondentemente, um sistema de atuação magnética de grande espaço de trabalho é desenvolvido para gerar campos magnéticos pouco uniformes e é capaz de controlar a estrutura de origami biestável para a locomoção e manipulação multimodal desejada. Demonstramos capacidades, incluindo auto-agarramento, captura de objetos e modos de locomoção adaptativos, como rastejar, girar, cambalear, correr, pular e rolar em duas configurações estáveis ​​diferentes."
 },
 {
@@ -31841,7 +31946,7 @@
 "i": "https://static-asset.inc42.com/social/DroneWorld_datalabs-inc42.jpg",
 "d": "2026-11-06T16:25-03:00",
 "c": [
-"geral"
+"drones"
 ],
 "l": 0,
 "to": "DroneWorld Key People 2026 – Founders, CEO & CXOs",
@@ -31933,7 +32038,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Science",
-"mx": 2
+"mx": 3
 },
 {
 "id": "8c0917cc406172",
@@ -31995,7 +32100,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9dd5abc9c0550b",
@@ -32015,7 +32120,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 2
+"mx": 3
 },
 {
 "id": "19b9bb1f496b35",
@@ -32035,7 +32140,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBS News",
-"mx": 2
+"mx": 3
 },
 {
 "id": "c6699e6aa914d2",
@@ -32055,7 +32160,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "Sifted",
-"mx": 2
+"mx": 3
 },
 {
 "id": "cb5b7e3511bda5",
@@ -32075,7 +32180,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-05": [
@@ -32212,7 +32317,7 @@
 },
 {
 "f": "SWI swissinfo.ch",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnhQVTRjeWRWZ1dHZmY1QUJGRGZDajAxc0wySXNNZTN2SG5hVmtjN2wtOGxyVUJlMlI3VGVyTDBEb2h6UFNyWV9KaEVsam5PSkVCNkJvSHRnWklCbVRVTHNhOEFmUk10SHQxYnRBLTRqTXpKVDlRRWVFcGFxTnFFRW5WSGliUGpuZ0gtdVRaVWFKbjRlTXhMS01Uc1hFTHNzeXdDUlllNi1rTlJtMkdkbQ?oc=5",
+"u": "https://www.swissinfo.ch/eng/workplace/china-blocks-softbanks-5-4bn-takeover-of-abbs-robotics-division/92331403",
 "s": "swissinfo.ch",
 "id": "47ecc2f53f0935"
 },
@@ -32407,10 +32512,98 @@
 "rx": "O líder global em robótica comercial apresentou seis linhas de produtos juntas pela primeira vez em seu European Partner Summit 2026, em Amsterdã. A Pudu Robotics, líder global em robótica comercial, apresentou ontem a próxima fase da sua estratégia global em Amesterdão, na sua primeira Cimeira de Parceiros Europeus. No evento, que teve como tema \"IA em Ação: Aumentando o Impacto em Toda a Europa — Juntos\", a Pudu revelou pela primeira vez sua estratégia \"Um Cérebro, Múltiplas Incorporações\", juntamente com seu ecossistema completo de produtos, abrangendo seis linhas de produtos. A linha de tratamento de gramados domésticos inclui a série PUDU TOMO S, o primeiro produto de robótica de consumo da empresa, anunciado em 3 de novembro. Pudu desenvolve soluções robóticas em robótica comercial e doméstica, com um portfólio que abrange prestação de serviços, limpeza comercial, entrega industrial, IA geral incorporada, cuidado de terrenos comerciais e cuidado de gramados de consumo."
 },
 {
+"id": "3bca1e0ead6220",
+"t": "Zipline supera avaliação de US$ 21 bilhões e adiciona 300 sites de drones do Walmart",
+"r": "",
+"u": "https://www.bloomberg.com/news/articles/2026-11-05/zipline-tops-21-billion-valuation-adds-300-walmart-drone-sites",
+"f": "Bloomberg.com",
+"s": "bloomberg.com",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/zipline-platform-2-drone-pod-tether-sky-2026.webp",
+"d": "2026-11-05T09:00-03:00",
+"c": [
+"negocios",
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites",
+"lg": "en",
+"p": 6.0,
+"o": [
+{
+"f": "DroneXL",
+"u": "https://dronexl.co/2026/11/05/zipline-1-5-billion-raise-walmart-300-sites/",
+"s": "dronexl.co",
+"id": "5b3ec85b432155"
+}
+],
+"cr": 3,
+"cv": "Bloomberg",
+"mx": 0
+},
+{
+"id": "f2f75a74642743",
+"t": "Kraken Robotics anuncia US$ 102 milhões em novos pedidos",
+"r": "",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/PNG-X/pressreleases/37043505/kraken-robotics-announces-102-million-in-new-orders/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-05T09:16-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Kraken Robotics Announces $102 Million in New Orders",
+"lg": "en",
+"p": 6.0,
+"o": [
+{
+"f": "markets.businessinsider.com",
+"u": "https://markets.businessinsider.com/news/stocks/kraken-robotics-announces-102-million-in-new-orders-1036721528",
+"s": "markets.businessinsider.com",
+"id": "ccb69cda0f7439"
+}
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": -1
+},
+{
+"id": "e2652d57ea40a4",
+"t": "Zipline, startup de entrega de drones, avaliada em US$ 21,5 bilhões na última rodada de financiamento",
+"r": "",
+"u": "https://www.channelnewsasia.com/business/drone-delivery-startup-zipline-valued-215-billion-in-latest-funding-round-6527771",
+"f": "CNA",
+"s": "channelnewsasia.com",
+"i": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+"d": "2026-11-05T10:10-03:00",
+"c": [
+"negocios",
+"entrega",
+"drones"
+],
+"l": 0,
+"to": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round",
+"lg": "en",
+"p": 6.0,
+"o": [
+{
+"f": "Reuters",
+"u": "https://www.reuters.com/business/drone-delivery-startup-zipline-valued-215-billion-latest-funding-round-2026-11-05/",
+"s": "reuters.com",
+"id": "c4eb8ec8a5e8a0"
+}
+],
+"cr": 3,
+"cv": "CNA (Singapura)",
+"mx": 0
+},
+{
 "id": "18e6dceae92ba1",
 "t": "Humanoid Maker Agility, apoiado pela Nvidia, torna-se público primeiro nos EUA",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEFfTDRRc2FDSEtON0h2MDNVTUszdjVCSk9YX3BDQ092VEQ5Qm12SzBJbnczWWxxY1F3R2NNZEVBMDFzbDNRVEhGamxPWnRqVWlfdV8wbktCUHlSV3lSMnBfbFc0djBack5mOWlLZzloOEMtbmktWDFjc0p5Nm12Z2ZiUlVOREU3MWlfUGVzMENPOXVtRlRkOG13YVlHRWZDX0Z4ME5YVlNMUHAyZFJ6djRYVDBGWTNvU21n?oc=5",
+"u": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
 "f": "Bloomberg.com",
 "s": "bloomberg.com",
 "i": "",
@@ -32425,14 +32618,14 @@
 "o": [
 {
 "f": "TechRepublic",
-"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVZvM2ltdDFRcEFzdHJaSkhuTHl1eTlReVlQaGtyX2dyS0JJeHh4b2xESXZJeUx1Vjd5VUYxYzVaTnlMaXJFcl8zWGtOWXliRW1VbmhwN2xMTFo2OGctRDVCVDdXTzNwV1pPeldGZkdEMW4xeUJSVFVNSEN6TkRRSDladnRBWW41ZWlmalBfNURsaGwyNEl3aEJB?oc=5",
+"u": "https://www.techrepublic.com/article/news-agility-robotics-nasdaq-debut-2-5-billion-valuation/",
 "s": "techrepublic.com",
 "id": "452ada200f4e79"
 }
 ],
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 0
+"mx": 1
 },
 {
 "id": "363819be10f545",
@@ -32520,94 +32713,6 @@
 "cv": "Mobile Robot Guide",
 "mx": 1,
 "rx": "O layout de um armazém ou centro de distribuição afeta o fluxo de produtos e a implantação da automação, explica Kardex."
-},
-{
-"id": "3bca1e0ead6220",
-"t": "Zipline supera avaliação de US$ 21 bilhões e adiciona 300 sites de drones do Walmart",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW9CcVBZMS1kQTZ3NDVfcDA5TWJGcldNY0hNdmFITkFXbURfanU0WVMtUVFOazR3RkdpRTFLR2ZSczNRU09YWkVuOHFLNDNJOGtJRUF6bW5VMnhkNWZYa2YyRVZYeEdEc2VxQUFUVEwyS1A5Qm1JYjZmb00yaWt1YXNONFY2dEVhb0lTanNRVmhwbF85Y1Q3bm5aU3plMjNZWXFMeTZRRVI0VGM0bFgxUmthQQ?oc=5",
-"f": "Bloomberg.com",
-"s": "bloomberg.com",
-"i": "",
-"d": "2026-11-05T09:00-03:00",
-"c": [
-"negocios",
-"drones",
-"entrega"
-],
-"l": 0,
-"to": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites",
-"lg": "en",
-"p": 5.0,
-"o": [
-{
-"f": "DroneXL",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45eTFPTmF2c21pN245N0pCZEJfQXRCVGVqdGxEVDhaUVF2c2h4aGhXa3RGWUFmYTlNOWF1Mm9nNXZSelpXOHlObmFsLTNsLW5ERW1FOUNIVHZra05YMkJYUGtGdlpteTd4SHQ1QmR5NVZyVEtIaVJDZTB6aDlWS3M?oc=5",
-"s": "dronexl.co",
-"id": "5b3ec85b432155"
-}
-],
-"cr": 3,
-"cv": "Bloomberg",
-"mx": 0
-},
-{
-"id": "f2f75a74642743",
-"t": "Kraken Robotics anuncia US$ 102 milhões em novos pedidos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzIzTGpDc1p2Y2J4ekdjcjJKc3R3YkNrWXNyWWNaUC1LeThSYzh3bzBnU3BLSnFKZmpPel83eF9acXZrZTJTZGcxaHZ1Zjdfbk4zaEg1eHAxTUlFTTZ5VW5lQ19EREJ6U3d5Sl92VXA3QkZnbDVURG9rdWkwZUZWWVBMZUVPeDdoM2haMlNkVnRITzk5UDZmRGdrUFhOM25LUTg0c0RPUzlZdE02S3Q1UnhCN1pCcy11NFRfNFZhd3piMHctN0ZqZjVYclVpdy1ucW9CSw?oc=5",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-05T09:16-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Kraken Robotics Announces $102 Million in New Orders",
-"lg": "en",
-"p": 5.0,
-"o": [
-{
-"f": "markets.businessinsider.com",
-"u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2Q4V2ZlbWloVzJwblBVdHVndTVLREdobU8wTjhZT0RFWFZqc2kyOTRMX0kza0dHQlkwWXR4MWN0MFUwZEN1ZDQ4NlhqQ3NPNE81TTcwUm5kcklVcjlVaXlWZkI3RVY5OW9LM2RZZ3hVamtwbV9jcVRCaWFoUXA3WDYta0hBakltdVhxVVRubEc0ZXY3SEZvc0ZJa1l2bkVONXFWY0hnTmRCUVB1V2FN?oc=5",
-"s": "markets.businessinsider.com",
-"id": "ccb69cda0f7439"
-}
-],
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 0
-},
-{
-"id": "e2652d57ea40a4",
-"t": "Zipline, startup de entrega de drones, avaliada em US$ 21,5 bilhões na última rodada de financiamento",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUtXaEU0dFk0TEJtZ09FbGw4U2pyQUwtalRjcGlsNEk2Wk4xWkd1dkJnRFVfcU9RNlFjaF9nMWFxWVdpZEhxdUZ1UE5VMHR6T1RBaHhZNUhmR0RCVl9EaUJpQTYzU0VGd1JuU3ZRMkdzbkYyY0dqa2ZRN1pQR1RPNExxTURPYm9qWG82TFNCVkRVVkdlZTRQNnZyY245U0hNOVZObDFzUzhtaE5tT3VwNE83YnZTVzlyei00bkxVOA?oc=5",
-"f": "CNA",
-"s": "channelnewsasia.com",
-"i": "",
-"d": "2026-11-05T10:10-03:00",
-"c": [
-"negocios",
-"entrega",
-"drones"
-],
-"l": 0,
-"to": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round",
-"lg": "en",
-"p": 5.0,
-"o": [
-{
-"f": "Reuters",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw?oc=5",
-"s": "reuters.com",
-"id": "c4eb8ec8a5e8a0"
-}
-],
-"cr": 3,
-"cv": "CNA (Singapura)",
-"mx": 0
 },
 {
 "id": "4c197ba13d5772",
