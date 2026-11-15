@@ -295,7 +295,8 @@
 "i": "https://www.infobae.com/resizer/v2/RHYEUR6L7ZE4LK2H5M5VOEBTU4.jpg?auth=dfc93fa7a5e213b2299b32a24e1ec9a84f3a52008c29530c2a477e270dd05269&smart=true&width=1200&height=630&quality=85",
 "d": "2026-10-29T04:00-03:00",
 "c": [
-"entrega"
+"entrega",
+"autonomos"
 ],
 "l": 0,
 "to": "Un robot de reparto pasó un semáforo en rojo, chocó un autobús y abandonó la escena del accidente: nueve heridos",
@@ -1721,6 +1722,28 @@
 "rx": "Mesmo que seja IA, uma piscina de bolinhas torna o descomissionamento divertido para o robô – ou apenas para quem está assistindo?"
 },
 {
+"id": "8e3487fd93ea8b",
+"t": "O vídeo de boxe entre o influenciador Frankie LaPenna e um robô: era tão real que houve ferimentos",
+"r": "Um robô humanóide de 1,83 metros de altura e estrutura de aço, com aparência semelhante ao “Exterminador do Futuro” original de James Cameron, enfrentou Frankie LaPenna, um influenciador de 1,65 metros de altura equipado com capacete e proteção, dentro de uma gaiola octogonal. A luta, promovida sob o nome “Human vs…",
+"u": "https://www.infobae.com/tecno/2026/10/09/el-video-de-boxeo-entre-el-influencer-frankie-lapenna-y-un-robot-fue-tan-real-que-hubo-lesiones/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/Z2GGKQ6GRVFWTK7F3WJENB6DBM.png?auth=79eaff72ce60c20a4d423c7b1d4f55d7f9db4f989c9b1a54bdeff217283e4b7a&smart=true&width=1200&height=630&quality=85",
+"d": "2026-10-09T04:00-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "El video de boxeo entre el influencer Frankie LaPenna y un robot: fue tan real que hubo lesiones",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "Um robô humanóide de 1,83 metros de altura e estrutura de aço, com aparência semelhante ao “Exterminador do Futuro” original de James Cameron, enfrentou Frankie LaPenna, um influenciador de 1,65 metros de altura equipado com capacete e proteção, dentro de uma gaiola octogonal. A luta, promovida sob o nome “Human vs. Robot”, aconteceu no dia 18 de setembro de 2026, em São Francisco e foi organizada pela emergente empresa REK (Robot Entertainment Kombat), que se define como “a liga de luta dos robôs humanóides” com o slogan “robôs reais, combate real”.\nApós a transmissão da luta, a comissão enviou à REK uma carta de cessar e desistir na qual alertava que qualquer competição de boxe ou artes marciais mistas envolvendo um ser humano na Califórnia exige sua aprovação prévia."
+},
+{
 "id": "a3814cfc4afef9",
 "t": "Robot Talk Episódio 165 – Robôs por trás da pesquisa, com Kushant Patel",
 "r": "Claire conversou com Kushant Patel, do Laboratório Nacional de Brookhaven, sobre robôs que trabalham em instalações científicas, como aceleradores de partículas. Kushant Patel desenvolve software que ajuda robôs e instrumentos a perceber, mapear e se mover pelo mundo físico. Depois de concluir o Mestrado em Engenharia Mecatrónica…",
@@ -1741,27 +1764,6 @@
 "cv": "Robohub",
 "mx": 1,
 "rx": "Claire conversou com Kushant Patel, do Laboratório Nacional de Brookhaven, sobre robôs que trabalham em instalações científicas, como aceleradores de partículas. Kushant Patel desenvolve software que ajuda robôs e instrumentos a perceber, mapear e se mover pelo mundo físico. Depois de concluir um mestrado em Engenharia Mecatrônica na Universidade de Waterloo, ele passou dois anos na Universidade da Califórnia, Berkeley, ensinando robôs quadrúpedes para mapear e inspecionar materiais nucleares, e um ano na Universidade da Califórnia, Davis, construindo interfaces cérebro-computador de circuito fechado. No Laboratório Nacional de Brookhaven, ele está desenvolvendo sistemas de controle para linhas de luz síncrotron avançadas."
-},
-{
-"id": "8e3487fd93ea8b",
-"t": "O vídeo de boxe entre o influenciador Frankie LaPenna e um robô: era tão real que houve ferimentos",
-"r": "Um robô humanóide de 1,83 metros de altura e estrutura de aço, com aparência semelhante ao “Exterminador do Futuro” original de James Cameron, enfrentou Frankie LaPenna, um influenciador de 1,65 metros de altura equipado com capacete e proteção, dentro de uma gaiola octogonal. A luta, promovida sob o nome “Human vs…",
-"u": "https://www.infobae.com/tecno/2026/10/09/el-video-de-boxeo-entre-el-influencer-frankie-lapenna-y-un-robot-fue-tan-real-que-hubo-lesiones/",
-"f": "Infobae",
-"s": "infobae.com",
-"i": "https://www.infobae.com/resizer/v2/Z2GGKQ6GRVFWTK7F3WJENB6DBM.png?auth=79eaff72ce60c20a4d423c7b1d4f55d7f9db4f989c9b1a54bdeff217283e4b7a&smart=true&width=1200&height=630&quality=85",
-"d": "2026-10-09T04:00-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "El video de boxeo entre el influencer Frankie LaPenna y un robot: fue tan real que hubo lesiones",
-"lg": "es",
-"p": 4.8,
-"cr": 3,
-"cv": "Infobae",
-"mx": 1,
-"rx": "Um robô humanóide de 1,83 metros de altura e estrutura de aço, com aparência semelhante ao “Exterminador do Futuro” original de James Cameron, enfrentou Frankie LaPenna, um influenciador de 1,65 metros de altura equipado com capacete e proteção, dentro de uma gaiola octogonal. A luta, promovida sob o nome “Human vs. Robot”, aconteceu no dia 18 de setembro de 2026, em São Francisco e foi organizada pela emergente empresa REK (Robot Entertainment Kombat), que se define como “a liga de luta dos robôs humanóides” com o slogan “robôs reais, combate real”.\nApós a transmissão da luta, a comissão enviou à REK uma carta de cessar e desistir na qual alertava que qualquer competição de boxe ou artes marciais mistas envolvendo um ser humano na Califórnia exige sua aprovação prévia."
 }
 ],
 "2026-10-08": [
