@@ -82,7 +82,7 @@
 ],
 "cr": 3,
 "cv": "The Japan Times",
-"mx": -3
+"mx": -5
 },
 {
 "id": "312b2bf078890d",
@@ -300,6 +300,27 @@
 "mx": 0
 },
 {
+"id": "b111fec36de484",
+"t": "A Robot Just Built a Structure in Space All on Its Own – For The First Time Ever",
+"r": "",
+"u": "https://www.sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
+"f": "ScienceAlert",
+"s": "sciencealert.com",
+"i": "https://www.sciencealert.com/images/2026/11/SpaceStructure.jpg",
+"d": "2026-11-15T06:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "A Robot Just Built a Structure in Space All on Its Own – For The First Time Ever",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "ScienceAlert",
+"mx": 0
+},
+{
 "id": "0b456d7f92966f",
 "t": "Um encontro com o futuro: aeroporto de Hong Kong coloca robôs de pintura de pistas para trabalhar",
 "r": "",
@@ -338,6 +359,27 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
+"mx": 2
+},
+{
+"id": "504ad60e5e3882",
+"t": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
+"r": "",
+"u": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-15/ecovacs-utilizar-con-alexa.html",
+"f": "Cinco Días",
+"s": "cincodias.elpais.com",
+"i": "",
+"d": "2026-11-15T06:30-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "El País",
 "mx": 1
 },
 {
@@ -1347,7 +1389,7 @@
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/drone+warfare+development",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-14T13:46-03:00",
 "c": [
 "drones",
@@ -1359,7 +1401,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 1,
+"mx": 9,
 "rx": "Veja notícias e artigos com a tag \"drone+warfare+development\" sobre manufatura."
 },
 {
@@ -1412,7 +1454,7 @@
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/robotics+in+warfare",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-14T15:06-03:00",
 "c": [
 "defesa"
@@ -1423,7 +1465,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 1,
+"mx": 9,
 "rx": "Veja notícias e artigos com a tag \"robotics+in+warfare\" sobre manufatura."
 },
 {
@@ -1580,13 +1622,34 @@
 "rx": "AWE 3.0 é um modelo proprietário de base de IA incorporada desenvolvido pela TARS Robotics, um fabricante de Xangai focado em robôs para aplicações industriais. É o componente de software da plataforma robótica da empresa, e não um robô físico ou uma mão robótica. A TARS apresentou o modelo na conferência de robótica ICRA 2026 em Viena, com data de lançamento listada em 2 de junho de 2026. Para leitores que avaliam produtos de IA incorporados, a principal distinção é entre AWE 3.0 como modelo de software subjacente e as plataformas de hardware TARS que ele suporta.\nDe forma mais ampla, o AWE 3.0 representa uma abordagem proprietária em desenvolvimento para IA incorporada, na qual um fabricante traz o desenvolvimento de modelos, dados de treinamento e plataformas robóticas no mesmo esforço de produto."
 },
 {
+"id": "cad0f5cd7b175d",
+"t": "Called 911? A drone may now be the first response",
+"r": "",
+"u": "https://www.independent.co.uk/news/world/americas/police-drones-911-response-times-b3083350.html",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "https://static.independent.co.uk/2026/11/13/16/13/GettyImages-1244782898.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800",
+"d": "2026-11-14T14:05-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Called 911? A drone may now be the first response",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Independent",
+"mx": 0
+},
+{
 "id": "4ab55e896d7666",
 "t": "Chinese+drone+components",
 "r": "",
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/chinese+drone+components",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-14T15:23-03:00",
 "c": [
 "drones"
@@ -1598,7 +1661,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 0
+"mx": 9
 },
 {
 "id": "16296d75a24074",
@@ -1921,6 +1984,27 @@
 "rx": "Assim como o Saros 10, o Saros 10R promete entrar embaixo dos móveis para uma limpeza completa da casa, ao mesmo tempo que dispensa o usuário de grandes tarefas de manutenção."
 },
 {
+"id": "aeedad61e2c5a5",
+"t": "AMPHIBIOUS ROBOT",
+"r": "",
+"u": "https://economictimes.indiatimes.com/topic/amphibious-robot/news",
+"f": "The Economic Times",
+"s": "economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-14T16:56-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AMPHIBIOUS ROBOT",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 0
+},
+{
 "id": "a79578bac70f2d",
 "t": "Robô AI, carregamento sem fio, anti-drone... Exposição da indústria de rádio abre no dia 18",
 "r": "59 empresas nacionais e estrangeiras de ondas de rádio apresentarão tecnologias de rádio de ponta, como robôs de IA, carregamento sem fio de veículos elétricos, comunicação por satélite e anti-drone. A Associação de Promoção de Rádio da Coreia será co-anfitriã do ‘2026 Korea Radio Industry Show (KRS 2026)’ no salão de…",
@@ -2125,6 +2209,60 @@
 "rx": "No CoRL 2026 em Austin, a GENTO mostrou robôs humanóides e uma nova mão hábil que fica no topo de uma pilha que a Tianji Intelligence vem construindo desde 2015, começando com um único componente que a maioria das pessoas nunca vê. A GENTO, uma marca independente de robôs humanóides incubada pela Tianji Intelligence, desenvolve sistemas robóticos humanóides, mãos hábeis e plataformas de teleoperação e coleta de dados.\nUma plataforma TIANJI Marvin Pro, construída para a NVIDIA pela Tianji Intelligence, foi usada em demonstrações que acompanharam o lançamento do GR00T 2 da NVIDIA em novembro. Os braços duplos TIANJI vêm em seguida, seguidos pelos sistemas de corpo inteiro GENTO e, no topo, a mão hábil de 21 graus de liberdade GENTO. A Tianji Intelligence também relata que a plataforma GENTO Luna serve como uma plataforma de testes de robôs reais para o modelo mundial autoevolutivo da Shengshu Technology, Motus2."
 },
 {
+"id": "32eb4e634e899c",
+"t": "Força Aérea dos EUA responde a suspeita de atividade de drones sobre base aérea do Reino Unido",
+"r": "Um veículo militar estacionado na RAF Lakenheath, que hospeda pessoal e unidades da Força Aérea dos EUA em Lakenheath, Grã-Bretanha, em 10 de novembro. O pessoal da Força Aérea dos EUA na base da RAF Lakenheath, na Grã-Bretanha, respondeu à “suspeita de atividade não autorizada de drones” na noite de 13 de novembro…",
+"u": "https://www.straitstimes.com/world/europe/us-air-force-responds-to-suspected-drone-activity-over-uk-airbase",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/e583d4aaf093384a0504c2e3b4ec31aafa946e5ef03a7bbc0a0710187b339f11?t=og",
+"d": "2026-11-13T17:59-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "US air force responds to suspected drone activity over UK airbase",
+"lg": "en",
+"p": 12.3,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": -1,
+"o": [
+{
+"f": "Reuters",
+"u": "https://www.reuters.com/world/uk/us-military-responds-suspected-drone-activity-raf-lakenheath-base-uk-sky-news-2026-11-13/",
+"s": "reuters.com",
+"id": "173a6b7b178eda"
+},
+{
+"f": "CNA",
+"u": "https://www.channelnewsasia.com/world/us-air-force-responds-suspected-drone-activity-over-uk-airbase-6550596",
+"s": "channelnewsasia.com",
+"id": "b97d1d4686a563"
+},
+{
+"f": "South China Morning Post",
+"u": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+"s": "scmp.com",
+"id": "5809a2bd26764c"
+},
+{
+"f": "The Times of Israel",
+"u": "https://www.timesofisrael.com/us-air-force-says-it-dealt-with-unauthorized-drone-activity-over-uk-airbase/",
+"s": "timesofisrael.com",
+"id": "2f44e1f31c3528"
+},
+{
+"f": "Sky News",
+"u": "https://news.sky.com/video/us-air-force-responds-to-suspected-drone-activity-over-raf-lakenheath-13612043",
+"s": "news.sky.com",
+"id": "172490e70f602f"
+}
+],
+"rx": "Um veículo militar estacionado na RAF Lakenheath, que hospeda pessoal e unidades da Força Aérea dos EUA em Lakenheath, Grã-Bretanha, em 10 de novembro. O pessoal da Força Aérea dos EUA na base da RAF Lakenheath, na Grã-Bretanha, respondeu à “suspeita de atividade não autorizada de drones” na noite de 13 de novembro, embora nenhum pessoal, aeronave ou infraestrutura tenha sido afetado, disse um porta-voz da Força Aérea dos EUA.\nNas últimas semanas, os EUA transferiram bombardeiros que tinham sido usados ​​para atacar o Irão para fora da Grã-Bretanha e transferiram enormes aviões de reabastecimento da Grã-Bretanha para a Alemanha. Os homens-bomba deixaram a RAF Fairford por motivos de segurança depois que um grupo de homens se aproximou da base em vans brancas no meio da noite. O Wall Street Journal informou que as aeronaves de reabastecimento foram deslocadas devido a uma ameaça do Irã."
+},
+{
 "id": "09be70d888f825",
 "t": "ASUS anuncia primeiro robô humanóide: Gallop",
 "r": "SYHsu, Co-CEO da ASUS discute o desenvolvimento na unidade física de IA da empresa com seu primeiro robô humanóide atualmente sendo testado na linha de produção da ASUS. Ele conta que Gallop está programado para ser lançado para seus parceiros no segundo semestre de 2027 e chegar ao mercado em 2028.",
@@ -2277,54 +2415,6 @@
 "cv": "Robotics 24/7",
 "mx": 1,
 "rx": "O Google DeepMind apresentou o Gemini Robotics 2.5, que a empresa descreve como um modelo de IA projetado para melhorar a forma como os robôs aprendem e executam tarefas físicas em ambientes do mundo real. A empresa disse que a versão mais recente do seu modelo de visão-linguagem-ação (VLA) expande a gama de tarefas que os robôs podem realizar, ao mesmo tempo que melhora a sua destreza, velocidade, fiabilidade e capacidade de operar com segurança perto das pessoas.\nA empresa disse que o Gemini Robotics 2.5 foi projetado para ajudar os robôs a lidar com uma ampla variedade de objetos e tarefas, incluindo atividades que exigem manipulação precisa, uso de ferramentas e interação com materiais delicados ou flexíveis. Juntamente com melhorias na manipulação, o Google disse que fortaleceu a capacidade do Gemini Robotics 2.5 de navegar em ambientes físicos com segurança.\nO Google disse que o Gemini Robotics 2.5 também aborda possíveis vulnerabilidades de segurança associadas a robôs alimentados por IA."
-},
-{
-"id": "32eb4e634e899c",
-"t": "Força Aérea dos EUA responde a suspeita de atividade de drones sobre base aérea do Reino Unido",
-"r": "Um veículo militar estacionado na RAF Lakenheath, que hospeda pessoal e unidades da Força Aérea dos EUA em Lakenheath, Grã-Bretanha, em 10 de novembro. O pessoal da Força Aérea dos EUA na base da RAF Lakenheath, na Grã-Bretanha, respondeu à “suspeita de atividade não autorizada de drones” na noite de 13 de novembro…",
-"u": "https://www.straitstimes.com/world/europe/us-air-force-responds-to-suspected-drone-activity-over-uk-airbase",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "https://cassette.sphdigital.com.sg/image/straitstimes/e583d4aaf093384a0504c2e3b4ec31aafa946e5ef03a7bbc0a0710187b339f11?t=og",
-"d": "2026-11-13T17:59-03:00",
-"c": [
-"defesa",
-"drones"
-],
-"l": 0,
-"to": "US air force responds to suspected drone activity over UK airbase",
-"lg": "en",
-"p": 10.8,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": -1,
-"o": [
-{
-"f": "Reuters",
-"u": "https://www.reuters.com/world/uk/us-military-responds-suspected-drone-activity-raf-lakenheath-base-uk-sky-news-2026-11-13/",
-"s": "reuters.com",
-"id": "173a6b7b178eda"
-},
-{
-"f": "CNA",
-"u": "https://www.channelnewsasia.com/world/us-air-force-responds-suspected-drone-activity-over-uk-airbase-6550596",
-"s": "channelnewsasia.com",
-"id": "b97d1d4686a563"
-},
-{
-"f": "South China Morning Post",
-"u": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
-"s": "scmp.com",
-"id": "5809a2bd26764c"
-},
-{
-"f": "The Times of Israel",
-"u": "https://www.timesofisrael.com/us-air-force-says-it-dealt-with-unauthorized-drone-activity-over-uk-airbase/",
-"s": "timesofisrael.com",
-"id": "2f44e1f31c3528"
-}
-],
-"rx": "Um veículo militar estacionado na RAF Lakenheath, que hospeda pessoal e unidades da Força Aérea dos EUA em Lakenheath, Grã-Bretanha, em 10 de novembro. O pessoal da Força Aérea dos EUA na base da RAF Lakenheath, na Grã-Bretanha, respondeu à “suspeita de atividade não autorizada de drones” na noite de 13 de novembro, embora nenhum pessoal, aeronave ou infraestrutura tenha sido afetado, disse um porta-voz da Força Aérea dos EUA.\nNas últimas semanas, os EUA transferiram bombardeiros que tinham sido usados ​​para atacar o Irão para fora da Grã-Bretanha e transferiram enormes aviões de reabastecimento da Grã-Bretanha para a Alemanha. Os homens-bomba deixaram a RAF Fairford por motivos de segurança depois que um grupo de homens se aproximou da base em vans brancas no meio da noite. O Wall Street Journal informou que as aeronaves de reabastecimento foram deslocadas devido a uma ameaça do Irã."
 },
 {
 "id": "8b246564cb2087",
@@ -3612,6 +3702,28 @@
 "mx": 3
 },
 {
+"id": "44a0b5084affe3",
+"t": "Eric Trump in talks with Israel: 1,000 humanoid robots to fight in Gaza tunnels",
+"r": "",
+"u": "https://www.repubblica.it/en/world/2026/11/13/news/eric_trump_in_talks_with_israel_1000_humanoid_robots_to_fight_in_gaza_tunnels-425720746/",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "https://www.repstatic.it/content/nazionale/img/2026/11/13/121811663-78c92e0f-0d2e-4723-b6c4-8371071a87a7.jpg",
+"d": "2026-11-13T08:19-03:00",
+"c": [
+"humanoides",
+"inspecao"
+],
+"l": 0,
+"to": "Eric Trump in talks with Israel: 1,000 humanoid robots to fight in Gaza tunnels",
+"lg": "?",
+"nt": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "La Repubblica",
+"mx": 0
+},
+{
 "id": "56fb321339cfd5",
 "t": "Militares dos EUA respondem à atividade de drones detectada acima da base do Reino Unido",
 "r": "",
@@ -4642,6 +4754,27 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "XPENG VLA 2.0 é um modelo de base de software proprietário desenvolvido pela XPENG, fabricante chinesa de veículos elétricos. Apresentado no AI Day da empresa em Guangzhou, em 5 de novembro de 2025, faz parte do investimento mais amplo da XPENG em inteligência artificial para sistemas físicos. O modelo pertence a uma pilha de software, em vez de ser um robô independente ou uma peça de hardware mecânico. Seu desenvolvimento baseia-se em quase 100 milhões de clipes de vídeo de condução real, dando ao projeto uma base substancial de treinamento automotivo. A empresa descreve o VLA 2.0 como o seu primeiro grande modelo construído para produção em massa, colocando a implantação industrial no centro do seu posicionamento. Essa classificação apoia uma avaliação ponderada: este é um modelo básico em evolução associado a um fabricante de veículos estabelecido, e não uma evidência de inteligência robótica abrangente ou desempenho universalmente comprovado."
+},
+{
+"id": "9b85e3ee730bea",
+"t": "로봇신문",
+"r": "",
+"u": "https://www.irobotnews.com/",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://www.irobotnews.com/image/logo/snslogo_20250715024853.png",
+"d": "2026-11-13T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "로봇신문",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 0
 },
 {
 "id": "3e4b871fd4bd0e",
@@ -6489,7 +6622,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -12229,7 +12362,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -27984,7 +28117,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -28013,7 +28146,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
