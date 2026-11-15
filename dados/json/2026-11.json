@@ -43,6 +43,27 @@
 "rx": "A OpenAI dissolveu sua equipe autônoma de robótica pela segunda vez em seis anos, agrupando o grupo em suas organizações mais amplas de pesquisa e aplicação. Embora a mudança ecoe a decisão da empresa de encerrar sua divisão de robótica original em 2020, a OpenAI insiste que a última reorganização não é um retrocesso…"
 },
 {
+"id": "c97475360b7a72",
+"t": "Los robots de China pasan de funcionales, a indispensables",
+"r": "",
+"u": "https://www.lavanguardia.com/economia/20261115/11681366/robots-china-pasan-funcionales-indispensables-brl.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/11/6af416bc0cece.jpeg",
+"d": "2026-11-15T01:50-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Los robots de China pasan de funcionales, a indispensables",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 0
+},
+{
 "id": "0b456d7f92966f",
 "t": "Um encontro com o futuro: aeroporto de Hong Kong coloca robôs de pintura de pistas para trabalhar",
 "r": "",
@@ -60,7 +81,28 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
+},
+{
+"id": "4f79474a533b23",
+"t": "[르포] 사과 선별부터 출하까지 로봇이 척척…24시간 무인 산지유통 실험",
+"r": "",
+"u": "https://www.etnews.com/20261115000045",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.24fcfef597eb4f05b30332d5d0c8624c_P1.jpg",
+"d": "2026-11-15T01:46-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[르포] 사과 선별부터 출하까지 로봇이 척척…24시간 무인 산지유통 실험",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
 }
 ],
 "2026-11-14": [
@@ -137,6 +179,27 @@
 "rx": "A empresa de tecnologia autônoma Birdstop, sediada em Detroit, anunciou o lançamento do Fealty, um sistema de drone autônomo e “sempre ligado” projetado para fornecer monitoramento aéreo contínuo, visibilidade ao vivo e resposta rápida a anomalias. A empresa disse que o Fealty pode ser lançado de forma autônoma em apenas 3 segundos, proporcionando às equipes vigilância quase instantânea quando atividade é detectada ou quando solicitado por um operador.\nBirdStop disse que o sistema fabricado nos EUA opera a partir de um poleiro com sensores ópticos e auditivos integrados que monitoram continuamente a atividade. Ao permanecer ativo e pronto, Birdstop disse que o sistema de drones Fealty reduz a dependência de patrulhas de rotina e dá às equipes uma percepção mais rápida quando algo muda. Birdstop disse que o Fealty foi desenvolvido para fornecer uma visão mais imediata, no nível do solo, de ambientes críticos, sem os atrasos dos métodos tradicionais de monitoramento."
 },
 {
+"id": "ed95abc0c822a2",
+"t": "1,8 kg de heroína lançada por drones recuperada em Ferozepur | Tempos do Hindustão",
+"r": "A Força de Segurança de Fronteira (BSF) e a Polícia de Punjab recuperaram 1,8 kg de heroína contrabandeada através da fronteira usando drones em duas operações separadas ao longo da fronteira entre a Índia e o Paquistão, no distrito de Ferozepur. De acordo com a polícia, o pessoal da BSF destacado no Posto Avançado de…",
+"u": "https://www.hindustantimes.com/cities/chandigarh-news/18-kg-drone-dropped-heroin-recovered-in-ferozepur-101794684498344.html",
+"f": "Hindustan Times",
+"s": "hindustantimes.com",
+"i": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Police-registered-two-separate-cases-under-the-Nar_1794684494674_6pO7.jpg",
+"d": "2026-11-14T23:16-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "1.8 kg drone-dropped heroin recovered in Ferozepur | Hindustan Times",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Hindustan Times",
+"mx": 1,
+"rx": "A Força de Segurança de Fronteira (BSF) e a Polícia de Punjab recuperaram 1,8 kg de heroína contrabandeada através da fronteira usando drones em duas operações separadas ao longo da fronteira entre a Índia e o Paquistão, no distrito de Ferozepur. De acordo com a polícia, o pessoal da BSF destacado no Posto Avançado de Fronteira (BOP) Kassoke detectou atividades suspeitas de drones na sexta-feira. Agindo com base nas informações, as tropas da BSF e a Polícia de Punjab lançaram uma operação de busca conjunta na área adjacente de Palla Megha. Durante a busca, foi recuperado um pacote que, ao ser examinado, continha 1.022 kg de heroína.\nNum incidente separado, o pessoal da BSF estacionado no BOP Pachharian detectou outro movimento de drones ao longo da fronteira. Isto levou a outra operação de busca conjunta na mesma área, que levou à recuperação de um segundo pacote contendo 815 gramas de heroína."
+},
+{
 "id": "49d1329cf347bf",
 "t": "SpaceX Starship retorna do espaço, capturada com sucesso com braço robótico da plataforma de lançamento... “Primeira vez”",
 "r": "A SpaceX, empresa espacial liderada por Elon Musk, conseguiu pela primeira vez capturar a grande nave espacial ‘Starship’, que regressava da órbita espacial, no ar com um enorme braço robótico na plataforma de lançamento. Segundo a Associated Press, no dia 14 (horário local), a Starship da SpaceX retornou ao local de…",
@@ -146,7 +209,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.9a1f0e784a1241f0aa1165b8fba30389_P1.jpg",
 "d": "2026-11-14T21:31-03:00",
 "c": [
-"industriais"
+"industriais",
+"espaco"
 ],
 "l": 1,
 "to": "우주서 돌아온 스페이스X 스타십, 발사대 로봇팔로 포획 성공…“사상 최초”",
@@ -642,7 +706,8 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517725.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=757&sl=W&fw=1050&exp=3600",
 "d": "2026-11-14T02:10-03:00",
 "c": [
-"geral"
+"ia",
+"competicoes"
 ],
 "l": 0,
 "to": "台灣深化波羅的海科技合作 聚焦智慧機器人商機",
@@ -1053,7 +1118,8 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/15/35519092.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
 "d": "2026-11-14T22:59-03:00",
 "c": [
-"geral"
+"resgate",
+"defesa"
 ],
 "l": 0,
 "to": "太保深夜惡火延燒830平方公尺 消防機器人出動搶救3小時",
@@ -1063,27 +1129,6 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "Um incêndio em um prédio ocorreu ontem à noite perto de Taibaoli, cidade de Taibao, condado de Chiayi. Um prédio metálico de dois andares foi engolido pelas chamas, com uma área queimada de cerca de 830 metros quadrados. Depois de receber o relatório, o Corpo de Bombeiros do condado de Chiayi despachou imediatamente bombeiros e veículos para resgatar o incêndio, e despachou robôs de combate a incêndios para ajudar na extinção do incêndio. Depois de mais de três horas, o fogo foi extinto no início da manhã. Felizmente, nenhuma vítima foi causada. A causa detalhada do incêndio ainda está sob investigação.\nO Corpo de Bombeiros do Condado de Chiayi afirmou que recebeu um relatório às 11h27 da noite passada de que um prédio estava pegando fogo perto de Taibaoli, cidade de Taibao, e imediatamente despachou o corpo de bombeiros da jurisdição para o local. Após a chegada dos bombeiros, descobriram que o prédio em chamas era um prédio de ferro de dois andares com fogo contínuo. Eles imediatamente implantaram linhas de água para apagar o fogo e usaram robôs de combate a incêndio para ajudar na extinção do incêndio."
-},
-{
-"id": "ed95abc0c822a2",
-"t": "1,8 kg de heroína lançada por drones recuperada em Ferozepur | Tempos do Hindustão",
-"r": "A Força de Segurança de Fronteira (BSF) e a Polícia de Punjab recuperaram 1,8 kg de heroína contrabandeada através da fronteira usando drones em duas operações separadas ao longo da fronteira entre a Índia e o Paquistão, no distrito de Ferozepur. De acordo com a polícia, o pessoal da BSF destacado no Posto Avançado de…",
-"u": "https://www.hindustantimes.com/cities/chandigarh-news/18-kg-drone-dropped-heroin-recovered-in-ferozepur-101794684498344.html",
-"f": "Hindustan Times",
-"s": "hindustantimes.com",
-"i": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/Police-registered-two-separate-cases-under-the-Nar_1794684494674_6pO7.jpg",
-"d": "2026-11-14T23:16-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "1.8 kg drone-dropped heroin recovered in Ferozepur | Hindustan Times",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Hindustan Times",
-"mx": 1,
-"rx": "A Força de Segurança de Fronteira (BSF) e a Polícia de Punjab recuperaram 1,8 kg de heroína contrabandeada através da fronteira usando drones em duas operações separadas ao longo da fronteira entre a Índia e o Paquistão, no distrito de Ferozepur. De acordo com a polícia, o pessoal da BSF destacado no Posto Avançado de Fronteira (BOP) Kassoke detectou atividades suspeitas de drones na sexta-feira. Agindo com base nas informações, as tropas da BSF e a Polícia de Punjab lançaram uma operação de busca conjunta na área adjacente de Palla Megha. Durante a busca, foi recuperado um pacote que, ao ser examinado, continha 1.022 kg de heroína.\nNum incidente separado, o pessoal da BSF estacionado no BOP Pachharian detectou outro movimento de drones ao longo da fronteira. Isto levou a outra operação de busca conjunta na mesma área, que levou à recuperação de um segundo pacote contendo 815 gramas de heroína."
 },
 {
 "id": "5058c02ef0b451",
@@ -1141,8 +1186,8 @@
 "d": "2026-11-14T22:00-03:00",
 "c": [
 "humanoides",
-"industriais",
-"negocios"
+"negocios",
+"industriais"
 ],
 "l": 0,
 "to": "LG 테네시 공장, 세탁기 1000만대 생산…휴머노이드 '크로이드'도 투입",
@@ -1172,7 +1217,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "The Australian",
-"mx": 2
+"mx": 3
 },
 {
 "id": "d45899b8d72fb9",
@@ -1309,9 +1354,10 @@
 "i": "https://cdn.mos.cms.futurecdn.net/myZHnnUa8kGCL9qmu5HrhK-1920-80.png",
 "d": "2026-11-14T09:30-03:00",
 "c": [
-"drones",
 "defesa",
-"resgate"
+"drones",
+"resgate",
+"educacao"
 ],
 "l": 0,
 "to": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers — experimental PLA UAV injects emergency meds from a distance to keep medics out of danger and buys time during the 'Golden Hour'",
@@ -1460,7 +1506,8 @@
 "d": "2026-11-14T21:00-03:00",
 "c": [
 "drones",
-"competicoes"
+"competicoes",
+"espaco"
 ],
 "l": 0,
 "to": "AI 로봇·무선충전·안티드론...전파산업대전 18일 개막",
@@ -1481,7 +1528,7 @@
 "i": "https://i.blogs.es/3fd583/gemini_generated_image_ue3tnfue3tnfue3t/840_560.jpeg",
 "d": "2026-11-14T21:33-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "La jornada de 40 horas ya está en el radar de Oxxo: FEMSA explora robots para automatizar tareas en sus tiendas",
@@ -1491,6 +1538,27 @@
 "cv": "Xataka México",
 "mx": 1,
 "rx": "Em teleconferência com investidores da FEMSA, a conversa sobre os gastos da Oxxo México terminou com uma cena inusitada para uma loja de conveniência; um robô que percorre os corredores para verificar o que resta nas prateleiras. A teleconferência de 28 de outubro revela que já circularam na FEMSA fotografias de um robô capaz de revisar estoques. O cenário proposto pela FEMSA era passar uma ou duas horas com pequenos robôs limpando parte de uma loja 24 horas.\nOs robôs ganharam destaque quando um analista do Goldman Sachs perguntou como as despesas da Oxxo México poderiam evoluir sob a pressão dos custos trabalhistas. Os exemplos que a FEMSA colocou na mesa em outubro apontam para o que acontece entre uma compra e outra, desde saber que mercadoria fica na prateleira até decidir como distribuir as tarefas de limpeza durante um turno."
+},
+{
+"id": "702e3119dd798e",
+"t": "Test Roborock RockMow S115 : l’antenne RTK de ce robot tondeuse a-t-elle une chance face au LiDAR ?",
+"r": "",
+"u": "https://www.01net.com/tests/test-roborock-rockmow-s115-lantenne-rtk-de-ce-robot-tondeuse-a-t-elle-encore-un-interet-face-au-lidar.html",
+"f": "01net.com",
+"s": "01net.com",
+"i": "https://www.01net.com/app/uploads/2026/09/20260712_113952-1600x900.jpg",
+"d": "2026-11-14T03:54-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Test Roborock RockMow S115 : l’antenne RTK de ce robot tondeuse a-t-elle une chance face au LiDAR ?",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "01net",
+"mx": 0
 },
 {
 "id": "9fc55cb22641e7",
@@ -5967,7 +6035,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -8133,7 +8201,8 @@
 "d": "2026-11-12T14:53-03:00",
 "c": [
 "drones",
-"construcao"
+"construcao",
+"microrrobos"
 ],
 "l": 0,
 "to": "Smart drone could find risky hidden cracks in old concrete bridges",
@@ -11643,7 +11712,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -14361,7 +14430,9 @@
 "i": "https://img9.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112090600053_01_i_P4.jpg",
 "d": "2026-11-11T23:38-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"negocios",
+"companhia"
 ],
 "l": 0,
 "to": "휠체어 넘어짐 막는 로봇…대구 스타트업 CES 혁신상",
@@ -24589,7 +24660,8 @@
 "i": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=990",
 "d": "2026-11-09T03:12-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Pakistan shoots down Indian drone 'trespassing' into Kashmir - The Globe and Mail",
@@ -27395,7 +27467,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -27424,7 +27496,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -27610,6 +27682,27 @@
 "cv": "Business Insider",
 "mx": 1,
 "rx": "08, 2026 (GLOBE NEWSWIRE) -- Seis robôs humanóides com rodas AGIBOT G2 completaram um teste de 24 horas em uma loja de conveniência em funcionamento no distrito de Xuhui, em Xangai, realizando um total de 1.730 tarefas, desde assistência ao cliente e preparação de café até reabastecimento e limpeza de prateleiras. Após uma série de lançamentos abrangendo dados robóticos, simulação, modelos de IA, hardware e software operacional, o teste da loja de conveniência reuniu essas tecnologias em um ambiente do mundo real para examinar como os robôs realizam tarefas diárias durante um período operacional prolongado.\nAos seis robôs G2 foram atribuídas diferentes responsabilidades: atendimento ao cliente, inspeções de prateleiras, reabastecimento, preparação de café, caixa e serviço de comida quente e limpeza de lojas."
+},
+{
+"id": "1f39594c4e259a",
+"t": "[단독] 김동관이 직접 본 로봇개… 한화, 라이온로보틱스에 700억 베팅 추진",
+"r": "",
+"u": "https://biz.chosun.com/stock/market_trend/2026/11/09/JYHTX7K3N5EXPGMLT7IZDRZUCI/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/HAZWCYLCMQ4GEN3DGY2GEMLGGM.jpg?auth=22025099cd506bcb3cbc7e098e996d72194c27697c751ca8340c6315ac0c74ed&width=1200&height=630&smart=true",
+"d": "2026-11-08T18:00-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "[단독] 김동관이 직접 본 로봇개… 한화, 라이온로보틱스에 700억 베팅 추진",
+"lg": "?",
+"nt": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
 },
 {
 "id": "0251e3b6a81306",
@@ -32781,9 +32874,9 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/zipline-platform-2-drone-pod-tether-sky-2026.webp",
 "d": "2026-11-05T09:00-03:00",
 "c": [
+"entrega",
 "negocios",
-"drones",
-"entrega"
+"drones"
 ],
 "l": 0,
 "to": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites",
@@ -32902,7 +32995,8 @@
 "i": "https://ml.globenewswire.com/Resource/Download/388f3774-730e-49a9-a36a-cc90353fab9d/20261103-165452.png",
 "d": "2026-11-05T11:41-03:00",
 "c": [
-"geral"
+"competicoes",
+"ia"
 ],
 "l": 0,
 "to": "Noitom Robotics Introduces ITW-Ego Plus at CoRL 2026: In-the-Wild Egocentric Data With Full-Body Motion",
@@ -32931,7 +33025,8 @@
 "i": "https://app.financewire.com/storage/uploads/images/mob_1793900709tQc4VKY7Zg.jpg",
 "d": "2026-11-05T15:10-03:00",
 "c": [
-"microrrobos"
+"microrrobos",
+"drones"
 ],
 "l": 0,
 "to": "Mobilicom (NASDAQ: MOB) to Showcase SwarmiX Communications Technology at UVID DroneTech 2026",
@@ -32961,7 +33056,8 @@
 "d": "2026-11-05T19:11-03:00",
 "c": [
 "negocios",
-"drones"
+"drones",
+"resgate"
 ],
 "l": 0,
 "to": "Axon invests $1.2 billion more in drone maker Skydio, lowers annual revenue growth forecast",
@@ -33125,6 +33221,29 @@
 "mx": 3
 },
 {
+"id": "e9e6ff1b753e77",
+"t": "RoboColosseum de Cingapura coloca IA física em teste do mundo real",
+"r": "De acordo com o anúncio, a iniciativa já realizou mais de 20.000 testes físicos cobrindo 6.800 tarefas em 150 cenários do mundo real. Sua rede de avaliação distribuída inclui mais de 100 robôs, com testes realizados em quatro plataformas que vão desde braços robóticos até humanóides. As organizações de pesquisa…",
+"u": "https://www.automate.org/ai/industry-insights/singapores-robocolosseum-puts-physical-ai-to-the-real-world-test",
+"f": "A3 Association for Advancing Automation",
+"s": "automate.org",
+"i": "https://www.automate.org/images/ogImages/RobotCollisium.png",
+"d": "2026-11-05T11:16-03:00",
+"c": [
+"ia",
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Singapore's RoboColosseum Puts Physical AI to the Real-World Test",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "A3 — Association for Advancing Automation",
+"mx": 1,
+"rx": "De acordo com o anúncio, a iniciativa já realizou mais de 20.000 testes físicos cobrindo 6.800 tarefas em 150 cenários do mundo real. Sua rede de avaliação distribuída inclui mais de 100 robôs, com testes realizados em quatro plataformas que vão desde braços robóticos até humanóides. As organizações de pesquisa anunciam rotineiramente novos modelos com melhores resultados de benchmark, mas essas melhorias podem ser difíceis de comparar quando as condições de teste, os requisitos de hardware e de tarefa diferem.\nO RoboColosseum aborda esse problema por meio de protocolos de avaliação padronizados e de uma rede distribuída de robôs físicos. Ao contrário dos benchmarks de software que podem ser executados automaticamente em ambientes de computação em nuvem, os testes de robótica física requerem máquinas, instalações e pessoas."
+},
+{
 "id": "7f98bd3f415261",
 "t": "China, um robô humanóide realiza um salto preciso em uma subida",
 "r": "O robô humanoide AGIBOT A3, produzido na China, demonstrou sua agilidade ao realizar um salto preciso em uma subida...",
@@ -33221,8 +33340,8 @@
 "i": "",
 "d": "2026-11-05T14:42-03:00",
 "c": [
-"industriais",
-"negocios"
+"negocios",
+"industriais"
 ],
 "l": 0,
 "to": "Industry Insights: China Blocks SoftBank’s Planned ABB Robotics Acquisition",
@@ -33238,7 +33357,7 @@
 ],
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 1,
+"mx": 2,
 "rx": "A ABB emitiu quinta-feira um comunicado confirmando que o Escritório do Mecanismo de Trabalho para Revisão da Segurança do Investimento Estrangeiro da China bloqueou a venda planejada de US$ 5,4 bilhões de sua divisão de robótica spinoff para o gigante de investimentos japonês Softbank. “A ABB e o SoftBank estão em estreito diálogo e trabalhando de forma construtiva na transação”, escreveu a gigante da automação com sede em Zurique em comunicado divulgado esta manhã.\nDe acordo com uma fonte da Reuters, \"a transação permanece no ar, embora a ABB e o SoftBank estejam otimistas de que podem encontrar uma solução. Royal Caribbean Cruise Lines, Robotic Arts e ABB Robotics unem forças para lançar o inovador sistema de entretenimento RoboScreen® A segurança cibernética se tornou o foco mais significativo para os fabricantes automotivos em todo o mundo, de acordo com a mais recente Pesquisa de Perspectiva de Fabricação Automotiva da ABB Robotics."
 },
 {
@@ -33421,7 +33540,8 @@
 "i": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-facebookJumbo.jpg",
 "d": "2026-11-05T08:23-03:00",
 "c": [
-"negocios"
+"negocios",
+"competicoes"
 ],
 "l": 0,
 "to": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
@@ -33505,7 +33625,8 @@
 "i": "https://ml.globenewswire.com/media/bc7e140d-8c14-43fd-a90e-3337d03946c3/small/logo-png.png",
 "d": "2026-11-05T10:36-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"negocios"
 ],
 "l": 0,
 "to": "Genius Group and Koding Next Launch National AI Robotics Competition Across Indonesia",
@@ -33538,27 +33659,6 @@
 "rx": "​"
 },
 {
-"id": "e9e6ff1b753e77",
-"t": "RoboColosseum de Cingapura coloca IA física em teste do mundo real",
-"r": "De acordo com o anúncio, a iniciativa já realizou mais de 20.000 testes físicos cobrindo 6.800 tarefas em 150 cenários do mundo real. Sua rede de avaliação distribuída inclui mais de 100 robôs, com testes realizados em quatro plataformas que vão desde braços robóticos até humanóides. As organizações de pesquisa…",
-"u": "https://www.automate.org/ai/industry-insights/singapores-robocolosseum-puts-physical-ai-to-the-real-world-test",
-"f": "A3 Association for Advancing Automation",
-"s": "automate.org",
-"i": "https://www.automate.org/images/ogImages/RobotCollisium.png",
-"d": "2026-11-05T11:16-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "Singapore's RoboColosseum Puts Physical AI to the Real-World Test",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "A3 — Association for Advancing Automation",
-"mx": 1,
-"rx": "De acordo com o anúncio, a iniciativa já realizou mais de 20.000 testes físicos cobrindo 6.800 tarefas em 150 cenários do mundo real. Sua rede de avaliação distribuída inclui mais de 100 robôs, com testes realizados em quatro plataformas que vão desde braços robóticos até humanóides. As organizações de pesquisa anunciam rotineiramente novos modelos com melhores resultados de benchmark, mas essas melhorias podem ser difíceis de comparar quando as condições de teste, os requisitos de hardware e de tarefa diferem.\nO RoboColosseum aborda esse problema por meio de protocolos de avaliação padronizados e de uma rede distribuída de robôs físicos. Ao contrário dos benchmarks de software que podem ser executados automaticamente em ambientes de computação em nuvem, os testes de robótica física requerem máquinas, instalações e pessoas."
-},
-{
 "id": "22f9a8f908affc",
 "t": "Juros zero e descontos em TVs Oled, notebooks e aspiradores robôs: MediaWorld abre na Black Friday",
 "r": "Ofertas online e nas lojas até 11 de novembro, financiamento em dezx sem juros até 6 de novembro. Como funciona a primeira fase da promoção, onde encontrar as categorias com descontos e seis produtos para avaliar, do Galaxy S25 ao MacBook Air M5. O “Episódio 1” da campanha, denominado “O mais MAXXED de sempre” está…",
@@ -33577,7 +33677,8 @@
 "cr": 3,
 "cv": "Corriere della Sera",
 "mx": 1,
-"rx": "Ofertas online e nas lojas até 11 de novembro, financiamento em dezx sem juros até 6 de novembro. Como funciona a primeira fase da promoção, onde encontrar as categorias com descontos e seis produtos para avaliar, do Galaxy S25 ao MacBook Air M5. O “Episódio 1” da campanha, denominado “O mais MAXXED de sempre” está ativo a partir de 30 de outubro: as ofertas são válidas no site, na aplicação e nas lojas até 11 de novembro e abrangem smartphones, computadores, televisores, grandes e pequenos eletrodomésticos, consolas e dispositivos para a casa conectada.\nAté 6 de novembro, as compras a partir de 499 euros podem ser pagas em dez prestações mensais com TAN e TAEG a 0%, sem custos adicionais, através da Findomestic e sujeitas a aprovação da financeira."
+"rx": "Ofertas online e nas lojas até 11 de novembro, financiamento em dezx sem juros até 6 de novembro. Como funciona a primeira fase da promoção, onde encontrar as categorias com descontos e seis produtos para avaliar, do Galaxy S25 ao MacBook Air M5. O “Episódio 1” da campanha, denominado “O mais MAXXED de sempre” está ativo a partir de 30 de outubro: as ofertas são válidas no site, na aplicação e nas lojas até 11 de novembro e abrangem smartphones, computadores, televisores, grandes e pequenos eletrodomésticos, consolas e dispositivos para a casa conectada.\nAté 6 de novembro, as compras a partir de 499 euros podem ser pagas em dez prestações mensais com TAN e TAEG a 0%, sem custos adicionais, através da Findomestic e sujeitas a aprovação da financeira.",
+"cur": 1
 },
 {
 "id": "63d3d15fb886f8",
@@ -33648,6 +33749,336 @@
 "rx": "A Nippybot, startup de robótica com sede em Middlesbrough, levantou uma rodada de financiamento anjo não revelada enquanto se prepara para expandir a implantação de seus robôs de entrega autônomos em todo o Reino Unido. Com sede em Tees Valley, a Nippybot está desenvolvendo robôs autônomos projetados para enfrentar desafios práticos de logística de última milha, transportando alimentos, encomendas e outros bens em distâncias curtas. O novo investimento apoiará a produção de robôs Nippybot adicionais, o desenvolvimento adicional da tecnologia da empresa e a expansão das suas parcerias comerciais e implantações no mundo real. Samson Adewole, fundador e CEO da Nippybot, disse: “Iniciamos o Nippybot porque vimos uma oportunidade de construir robôs de entrega autônomos em torno de problemas operacionais reais, em vez de simplesmente construir tecnologia por fazer."
 },
 {
+"id": "320695e37850c8",
+"t": "Drones de logística, combate ou vigilância: Airbus acelera sua ofensiva em helicópteros robóticos",
+"r": "",
+"u": "https://www.lefigaro.fr/economie/drones-logistiques-de-combat-ou-de-surveillance-airbus-accelere-son-offensive-dans-les-helicopteres-robotises-20261105",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/05/eb584db8d578f1064b5be7ea846df2a6bf62a324140a1b4c6e3a592d5a7e0d17.jpg",
+"d": "2026-11-05T13:15-03:00",
+"c": [
+"drones",
+"inspecao",
+"defesa",
+"logistica"
+],
+"l": 0,
+"to": "Drones logistiques, de combat ou de surveillance : Airbus accélère son offensive dans les hélicoptères robotisés",
+"lg": "fr",
+"p": 4.5,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 0
+},
+{
+"id": "e30f27a268658d",
+"t": "Proposta de aquisição da ABB Robotics por US$ 5,4 bilhões pela SoftBank bloqueada pela China",
+"r": "",
+"u": "https://www.robotics247.com/article/softbanks-proposed-5.4b-acquisition-of-abb-robotics-blocked-by-china",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/legacy_images/ABB-Robotics-SoftBank-divestment-Robotics247-2025.jpg",
+"d": "2026-11-05T13:48-03:00",
+"c": [
+"negocios",
+"industriais"
+],
+"l": 0,
+"to": "SoftBank’s proposed $5.4B acquisition of ABB Robotics blocked by China",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 0
+},
+{
+"id": "32750f68c9903c",
+"t": "As autoridades chinesas não permitem que a gigante suíça de equipamentos pesados ​​ABB venda seu negócio de robôs para o SoftBank G",
+"r": "",
+"u": "https://www.yomiuri.co.jp/economy/20261106-GYT1T00052/",
+"f": "読売新聞",
+"s": "yomiuri.co.jp",
+"i": "https://www.yomiuri.co.jp/media/2026/11/20261106-GYT1I00053-1.jpg?type=ogpw",
+"d": "2026-11-05T14:13-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "スイス重電大手ＡＢＢ、ソフトバンクＧへのロボット事業売却を中国当局が許可せず",
+"lg": "ja",
+"p": 4.5,
+"cr": 3,
+"cv": "Yomiuri Shimbun",
+"mx": 0
+},
+{
+"id": "0b4a878eceadaf",
+"t": "Um momento de Zen: Drone captura cores deslumbrantes do outono no Central Park de Nova York",
+"r": "",
+"u": "https://www.independent.co.uk/tv/news/central-park-weather-new-york-drone-video-b3080002.html",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/cb07e7c5-1c2f-4d88-8bc0-a5a924816b89-thumbnail.jpeg?cb=1793904684450",
+"d": "2026-11-05T15:55-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "A moment of Zen: Drone captures stunning fall colors in New York City’s Central Park",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Independent",
+"mx": 0
+},
+{
+"id": "44bffc35c5c165",
+"t": "Robótica industrial abre novas oportunidades de emprego em Puente Genil através da FP",
+"r": "",
+"u": "https://www.abc.es/espana/andalucia/cordoba/robotica-industrial-abre-nuevas-oportunidades-laborales-puente-20261105200743-nts.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/05/diego-cope-cordoba-kSOE--1200x630@diario_abc.jpg",
+"d": "2026-11-05T16:07-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "La robótica industrial abre nuevas oportunidades laborales en Puente Genil a través de la FP",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 0
+},
+{
+"id": "e9bd2911ad0295",
+"t": "Mulheres rurais ganharão novas oportunidades de subsistência sob o esquema Namo Drone Didi",
+"r": "",
+"u": "https://timesofindia.indiatimes.com/city/lucknow/rural-women-to-gain-new-livelihood-opportunities-under-namo-drone-didi-scheme/articleshow/135585839.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+"d": "2026-11-05T16:58-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Rural women to gain new livelihood opportunities under Namo Drone Didi Scheme",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 0
+},
+{
+"id": "4b71c503bdd7a7",
+"t": "[Editorial] Reformulando a defesa dos drones",
+"r": "",
+"u": "https://www.koreaherald.com/article/10927640",
+"f": "The Korea Herald",
+"s": "koreaherald.com",
+"i": "https://wimg.heraldcorp.com",
+"d": "2026-11-05T17:30-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "[Editorial] Reframing drone defense",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Korea Herald",
+"mx": 0
+},
+{
+"id": "cea9746932dee8",
+"t": "Drone como serviço da ZenaTech assina quase US$ 1 milhão em contratos de pesquisa de construção solar para uma concessionária dos EUA com potencial de US$ 2,5 milhões em receita subsequente",
+"r": "",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/ZENA/pressreleases/8678821/zenatechs-drone-as-a-service-signs-nearly-us1-million-in-solar-construction-survey-contracts-for-a-us-utility-with-potential-for-us25-million-in-follow-on-revenue/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-05T17:45-03:00",
+"c": [
+"negocios",
+"drones",
+"construcao"
+],
+"l": 0,
+"to": "ZenaTech’s Drone as a Service Signs Nearly US$1 Million in Solar Construction Survey Contracts for a U.S. Utility with Potential for US$2.5 Million in Follow-On Revenue",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 0
+},
+{
+"id": "aef9a27d1bcdd8",
+"t": "[2026 Robo World Special Edition] Principais expositores de robôs de serviço",
+"r": "",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49423",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49423_105381_523.png",
+"d": "2026-11-05T17:54-03:00",
+"c": [
+"servico"
+],
+"l": 0,
+"to": "[2026 로보월드 지면 특별판] 서비스 로봇 주요 출품업체",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 0
+},
+{
+"id": "4c3df5f41945ce",
+"t": "Justin Ling: o plano de um milhão de drones de Mark Carney",
+"r": "",
+"u": "https://www.thestar.com/opinion/star-columnists/drones-drones-drones-why-carney-wants-to-spend-billions-on-flying-robots/article_cc8b3155-62a9-4390-b7e9-4fdafe97d313.html",
+"f": "Toronto Star",
+"s": "thestar.com",
+"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/b7/8b7bf3d0-cc8c-4002-8a85-81deead44f1a/6aecf1d7b365a.image.jpg?crop=1558%2C818%2C0%2C131&resize=1200%2C630&order=crop%2Cresize",
+"d": "2026-11-05T18:15-03:00",
+"c": [
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "Justin Ling: Mark Carney’s million-drone plan",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Toronto Star",
+"mx": 0
+},
+{
+"id": "c5f69fd0910e0b",
+"t": "Boom da robótica nas salas de aula de Manitoba",
+"r": "",
+"u": "https://www.ctvnews.ca/winnipeg/video/2026/11/05/robotics-boom-in-manitoba-classrooms-2/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-05-2026%2Ft_1f2bbe6bbffd4cb4983d58f27f097b0e_name_ROBOTICS.jpg?smart=true&auth=4be35e155ac33f1db7b4ca305adb2b0e2db8d09ccbe9898940f8beb9a9b91fdc&width=1200&height=630",
+"d": "2026-11-05T19:18-03:00",
+"c": [
+"educacao"
+],
+"l": 0,
+"to": "Robotics boom in Manitoba classrooms",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "CTV News",
+"mx": 0
+},
+{
+"id": "8e4bf9d9d0749c",
+"t": "O drone local de Milkor oferece vigilância de longo alcance para as fronteiras da África do Sul",
+"r": "",
+"u": "https://mg.co.za/news/south-africa/2026-11-05-a-drone-that-can-watch-sa-borders/",
+"f": "Mail & Guardian",
+"s": "mg.co.za",
+"i": "https://images.newsteam.io/image/400/GbSdY1y2zcoW33ynWTBYwyJq22xXvPBsi7Jhitxea4iwYGsXVAKB4fqZETu2z9aY5Je4o54sW7VNHFNVDYwU1LgMeKrLUYXmVhZpfj9a7hkRrkzQTntLDwpGqQB93XZyVoX5W5BhwJ8Bjafg4urLE",
+"d": "2026-11-05T20:10-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 0,
+"to": "Milkor's homegrown drone offers long-range surveillance for South Africa's borders",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Mail & Guardian",
+"mx": 0
+},
+{
+"id": "04a08eb1312908",
+"t": "Klara e o sol, Jenna Ortega adorável robô descobrindo os sentimentos humanos. Amy Adams, mãe enlutada, Taika Waititi dirige (3,2 de 5)",
+"r": "",
+"u": "https://marilyn.corriere.it/2026/11/06/klara-e-il-sole-jenna-ortega-adorabile-robot-alla-scoperta-dei-sentimenti-umani-amy-adams-mamma-in-lutto-dirige-taika-waititi-32-su-5/",
+"f": "Corriere della Sera",
+"s": "marilyn.corriere.it",
+"i": "https://marilyn.corriere.it/files/2026/11/IMG_9911-1.jpeg?v=86759",
+"d": "2026-11-05T20:42-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Klara e il sole, Jenna Ortega adorabile robot alla scoperta dei sentimenti umani. Amy Adams mamma in lutto, dirige Taika Waititi (3,2 su 5)",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 0
+},
+{
+"id": "c0c53e2f430cda",
+"t": "Compre hoje: aspiradores robóticos, ferramentas de cabelo e toalhas de praia para o verão",
+"r": "",
+"u": "https://www.smh.com.au/national/shop-today-robot-vacs-hair-tools-and-beach-towels-for-summer-20261106-p61bzj.html",
+"f": "SMH.com.au",
+"s": "smh.com.au",
+"i": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/70ab024e4c5160bd4af5ff360776b96ebf796410",
+"d": "2026-11-05T20:53-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Shop Today: Robot vacs, hair tools and beach towels for summer",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "The Sydney Morning Herald",
+"mx": 0
+},
+{
+"id": "fb1efcba4a8cc6",
+"t": "LUXEED e AiMOGA apresentam mobilidade inteligente e robótica no Chery International User Summit",
+"r": "",
+"u": "https://markets.businessinsider.com/news/stocks/luxeed-and-aimoga-showcase-intelligent-mobility-and-robotics-at-chery-international-user-summit-1036726029",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/Resource/Download/13991822-361f-45a8-a313-de76fdc90899/wps-1-.png",
+"d": "2026-11-05T21:24-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "LUXEED and AiMOGA Showcase Intelligent Mobility and Robotics at Chery International User Summit",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
+"id": "652fffb75e6f4a",
+"t": "Walmart cortou uma fita de entrega de drones em West Memphis. Nada voa ainda",
+"r": "",
+"u": "https://dronexl.co/2026/11/05/walmart-wing-west-memphis-ribbon-cutting-no-flights/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/10/wing-drone-walmart-package-charlotte-trees.webp",
+"d": "2026-11-05T22:41-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Walmart Cut a Drone Delivery Ribbon in West Memphis. Nothing Flies Yet",
+"lg": "en",
+"p": 4.5,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 0
+},
+{
 "id": "e401218830fba3",
 "t": "Desenvolvidos com GPT-6, os robôs humanóides Unitree dominam a pintura sem treinamento prévio",
 "r": "",
@@ -33665,7 +34096,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "a8cf72535269bb",
@@ -33686,7 +34117,110 @@
 "p": 4.3,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
+},
+{
+"id": "254502d6082c31",
+"t": "Eom Yoon-seol, CEO da A-Robot, “Os humanóides são uma indústria soberana… Iremos competir dentro de 3 anos.”",
+"r": "",
+"u": "https://zdnet.co.kr/view/?no=20261105142144",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/05/3a9d2ec02958d159d6466119bafed7c1.jpg",
+"d": "2026-11-05T02:36-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "엄윤설 에이로봇 대표 \"휴머노이드는 주권 산업…3년 안에 승부 난다\"",
+"lg": "ko",
+"p": 4.0,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "35a413f1608f08",
+"t": "Xiaomi diz que seus robôs humanóides realizavam turnos de oito horas em sua fábrica de carros elétricos",
+"r": "",
+"u": "https://www.zdnet.fr/actualites/xiaomi-affirme-que-ses-robots-humanoides-ont-tenu-un-poste-de-huit-heures-dans-son-usine-de-voitures-electriques-507334.htm",
+"f": "ZDNET",
+"s": "zdnet.fr",
+"i": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/robot-xiaomi.jpg",
+"d": "2026-11-05T04:01-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Xiaomi affirme que ses robots humanoïdes ont tenu un poste de huit heures dans son usine de voitures électriques",
+"lg": "fr",
+"p": 4.0,
+"cr": 2,
+"cv": "ZDNET",
+"mx": 0
+},
+{
+"id": "0e9760008496f8",
+"t": "De cães-robôs a humanóides... Desafio de subir 3.000 degraus de pedra",
+"r": "",
+"u": "https://zdnet.co.kr/view/?no=20261105161207",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/05/482c1444981f6bf3adf2884e75e5f91b.jpg",
+"d": "2026-11-05T05:12-03:00",
+"c": [
+"humanoides",
+"quadrupedes"
+],
+"l": 0,
+"to": "로봇 개부터 휴머노이드까지…3000개 돌계단 오르기 도전",
+"lg": "ko",
+"p": 4.0,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "0b770c33272362",
+"t": "Contra a escassez de trabalhadores qualificados: robôs humanóides devem ajudar nas inspeções da rede elétrica",
+"r": "",
+"u": "https://www.heise.de/news/Gegen-Fachkraeftemangel-Humanoide-Roboter-sollen-bei-Stromnetzkontrollen-helfen-11513099.html",
+"f": "heise online",
+"s": "heise.de",
+"i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/5/0/0/202611_NEURA_EON_enviaM_final_01_1-24f260e2fd6057fd.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+"d": "2026-11-05T08:09-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Gegen Fachkräftemangel: Humanoide Roboter sollen bei Stromnetzkontrollen helfen",
+"lg": "de",
+"p": 4.0,
+"cr": 2,
+"cv": "heise online",
+"mx": 0
+},
+{
+"id": "ab51353b63a0ab",
+"t": "Robôs humanóides passam “período de experiência” em loja de conveniência: um deles é acusado de atirar na lateral",
+"r": "",
+"u": "https://www.numerama.com/tech/2368331-des-robots-humanoides-passent-une-periode-dessai-en-superette-lun-deux-est-accuse-de-tirer-au-flanc.html",
+"f": "Numerama",
+"s": "numerama.com",
+"i": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/1-9.png?resize=1600,900&key=537e91d9",
+"d": "2026-11-05T08:30-03:00",
+"c": [
+"humanoides",
+"servico"
+],
+"l": 0,
+"to": "Des robots humanoïdes passent une « période d’essai » en supérette : l’un d’eux est accusé de tirer au flanc",
+"lg": "fr",
+"p": 4.0,
+"cr": 2,
+"cv": "Numerama",
+"mx": 0
 },
 {
 "id": "40631baf651177",
@@ -33698,7 +34232,9 @@
 "i": "",
 "d": "2026-11-05T11:35-03:00",
 "c": [
-"defesa"
+"defesa",
+"logistica",
+"servico"
 ],
 "l": 0,
 "to": "BOS Robotics Division Secures $650,000 Order for a Robotic Munitions Packing Line at a New Site of a Leading Israeli Defense Customer",
@@ -33706,7 +34242,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Business Insider",
-"mx": 1,
+"mx": 2,
 "rx": "05, 2026 (GLOBE NEWSWIRE) - BOS Better Online Solutions Ltd. (\"BOS\" ou a \"Empresa\") (Nasdaq: BOSC), um integrador de tecnologias de cadeia de suprimentos para os setores aeroespacial, de defesa, industrial e de varejo, anunciou hoje que sua Divisão de Robótica Inteligente garantiu um pedido de US$ 650.000 de um cliente líder de defesa israelense para uma linha de embalagem robótica para munições.\nRoee Ivgy, Gerente Geral da Divisão de Robótica Inteligente, comentou: \"Este pedido marca nossa entrada em uma nova unidade de fabricação de nosso cliente, onde não estávamos envolvidos anteriormente. Incluindo este pedido, nossas células robóticas estão em desenvolvimento ou instalação em sete locais de fabricação de nossos clientes em todo o mundo, apoiando a produção, classificação e embalagem de munições."
 },
 {
@@ -33727,7 +34263,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Wall Street Journal",
-"mx": 1
+"mx": 2
 },
 {
 "id": "bcf8c64341a374",
@@ -33747,7 +34283,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 1
+"mx": 2
 },
 {
 "id": "41b7c6ecd0a75e",
@@ -33769,77 +34305,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 1
-},
-{
-"id": "320695e37850c8",
-"t": "Drones de logística, combate ou vigilância: Airbus acelera sua ofensiva em helicópteros robóticos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRV91czdaeVJHajFVOWJNX2I3Y0M1QkV0NHFsbDgyeXBVeHJ0MXEzODB1Wmx2WHNYUXVVUFYwRFcxV2haRkxVRzMtWVZPNnRLc0YxTktnZU82Q05YWjk2TTV3cUpRYjZpeURJTUc2MjZRdkFKVnJpUk1qWnBGdEp6SEdTRzM2MXBBM3NyZDFoMDU5a0YtS3gydzNfdDlnMGRuSHNYaFBVaGk1UmdVdTVjVkpuMUYxYm5sZXJCbVlTajlxc2Y5Z0lyd0pVVHlUNkFzbHVDVkl3VzRUOGIxWl9HOWE1a3k2UQ?oc=5",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "",
-"d": "2026-11-05T13:15-03:00",
-"c": [
-"drones",
-"inspecao",
-"defesa",
-"logistica"
-],
-"l": 0,
-"to": "Drones logistiques, de combat ou de surveillance : Airbus accélère son offensive dans les hélicoptères robotisés",
-"lg": "fr",
-"p": 3.5,
-"cr": 3,
-"cv": "Le Figaro",
-"mx": 0
-},
-{
-"id": "e30f27a268658d",
-"t": "Proposta de aquisição da ABB Robotics por US$ 5,4 bilhões pela SoftBank bloqueada pela China",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmhWUV8xb2hlenRxOHI2NkVydC1BU3AwSFktYzhrZTdCT3NXdDRRYTJjTlJTUGRpU01aRGJVTUUtLTdZV0xLbjBfVXJFUkhsMER0VVpfdXNyTGtZLUVNUmtHLXFNWUkySFdyOGhHdGcwOUp1WmZjeFBBRUZQNTh6RDdLbmNlWVJUMkFPY1VfcC1STUZycU9CVkNkMS15bi1iTlgxZkhhVQ?oc=5",
-"f": "Robotics 24/7",
-"s": "robotics247.com",
-"i": "",
-"d": "2026-11-05T13:48-03:00",
-"c": [
-"negocios",
-"industriais"
-],
-"l": 0,
-"to": "SoftBank’s proposed $5.4B acquisition of ABB Robotics blocked by China",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Robotics 24/7",
-"mx": 0
-},
-{
-"id": "32750f68c9903c",
-"t": "As autoridades chinesas não permitem que a gigante suíça de equipamentos pesados ​​ABB venda seu negócio de robôs para o SoftBank G",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubWxHZS1vR1RCSlFmcTJHSnhRTXNTXzNZdzZtT3l0cjJQcHdtaGNYWE1hdWlRNFpkcExoc0xKWGktcjZ1eWFiMFYtZUpzM0VfRlBCZWE2RUdfcjA2ZDRGRTN6Yi0?oc=5",
-"f": "読売新聞",
-"s": "yomiuri.co.jp",
-"i": "",
-"d": "2026-11-05T14:13-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "スイス重電大手ＡＢＢ、ソフトバンクＧへのロボット事業売却を中国当局が許可せず",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Yomiuri Shimbun",
-"mx": 0
+"mx": 2
 },
 {
 "id": "b0b64860c9fe1b",
 "t": "O futuro da robótica doméstica",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbk4ycExDdXVlOUc3NDRmeUMyVnJ4b0tLSkhreUpUdGhFelhvN0FteUZhVzNqak9JejFHN0RfMTFLVGhOTV82ejhOMjE0NWdqWFh4Z3Z2RzhnVURBT1hnSHl0bG5RZm96ZHF2cjNGNEtnTldYVGVYZTJpaW9fbGVsNkhXYzc4UkRzOUQ1YkhmR3Z6Z0pNQ09TNXgzYzJQejRURE9nRmdwbw?oc=5",
+"u": "https://www.theaustralian.com.au/news/the-future-of-home-robotics/video/a158437215c544efcdf5b9d3238f2109",
 "f": "The Australian",
 "s": "theaustralian.com.au",
 "i": "",
@@ -33853,94 +34325,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Australian",
-"mx": 0
-},
-{
-"id": "0b4a878eceadaf",
-"t": "Um momento de Zen: Drone captura cores deslumbrantes do outono no Central Park de Nova York",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN29Qb0JkMEhWalFIcjl3bXF4WjY2bnU4S3ZsVl91R19weVBtWFpmQW83UklIWWJkOXY0bkFEcEp4SVhTODF5VGtJR19lWUhneElESDFNYzZMMWd3bk81ZDVPb2FHRVRHVngzeUhpOUdQQ3J6QWdDdW5NYVRzLVYycUlWRzZtSVZxdW1uNjRzNk1JM0V2NUlXcA?oc=5",
-"f": "The Independent",
-"s": "independent.co.uk",
-"i": "",
-"d": "2026-11-05T15:55-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "A moment of Zen: Drone captures stunning fall colors in New York City’s Central Park",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Independent",
-"mx": 0
-},
-{
-"id": "44bffc35c5c165",
-"t": "Robótica industrial abre novas oportunidades de emprego em Puente Genil através da FP",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFNWXzdsaUVZTFRwaUFQdEo4VGNJNWRwQTl2SnROTjd6ek1BQ1VReVZYbTNrSkFhYS1nRnRuR1FHaXhYTUwyeFU3bVZ4YlV4ZjJVWThITldYWnpYTkJfdWtoOFh3dFNzR21aS0lOY0pMd1JaWC1TSmFudFRlY2tJTzFpMlFiRUFKYVc0ZlE3cmVmQkdFZHZGUDlrNTRGalh2dXhZalNaTG5Xd1pPN2tzTnFxX3RHM3gwWXpMcTdZUGFDVGxLVGlaZE5R0gHPAUFVX3lxTE14MVZsbmUzc04yOGRyai1HTHc0dzJmOXhVb0lsMDlYbE0wcWxZSkVnY1RQSXhqbFd2WjhyWnMySGVkWjhLbXhNMGE3ZHNNRzYzRmlQSVM3d3Jjb09xdF90LWhCdVR1ME9ENWVJU05KSXZBcWxjX2pvR1E5SVY5cVJpTzdkei1oa1hBdzhuc1RoYWoxbnRVVzVVSGxIR1VjaFM0S3g1a3V0Zzc1eVM3STRGSU5RbEh3Z0NWNzZYSW1qckh0a1ExRTB2Vk1NZ1cwWQ?oc=5",
-"f": "ABC",
-"s": "abc.es",
-"i": "",
-"d": "2026-11-05T16:07-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "La robótica industrial abre nuevas oportunidades laborales en Puente Genil a través de la FP",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "ABC (Espanha)",
-"mx": 0
-},
-{
-"id": "e9bd2911ad0295",
-"t": "Mulheres rurais ganharão novas oportunidades de subsistência sob o esquema Namo Drone Didi",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdENYT0lCbi1yMy1tcmFmNHNHTnZsQ1hhUk9hR0Z3VGhMUmM0MGQwdFBzMGpUTmJGVkd1VjVIU3VFZlpJLWRZUDh0bVpIMGRkaHdJSm9TcUdDaGVlOW91NjR6ajdfZ2o5Q2VKMUlqQUFmcjlmOW5Bb01OVWFzNS12N25IQ05IWUNiY0N3dXJxWTdKeW1HbDE0QU5fYUhNWVFnb2ZNdHRNNEZ5dDVieXgwamNtX2w0ZENFVXNhOFZ1cUdyYVdqdV9nc2NHMEotbWQtbGR2cVg3QnVBM0gxRmNoYVdDcEkteTjSAewBQVVfeXFMTnkzZ2RjSVBZNzRiY1dKaEF1cmRIQ0tkRkZqVUFST0RuVWcteXFBc1M4LWthWEYwNS12RDdLRV9yRmt3cE1YNmlhWUJodjFTNTdPUzN3WVdIaGdQWHlPQ0JaX3dRNmFyUEhkVndlWWxFTjVSNmNuRjR6QkZSTjFyR3hHZG1jWExjM25ibGxrVFloME11c0FObmVNdnpaOF9KRm9aOElja1RrTmVmSGlIY08wTmFFWW5PMHhlaXJJMkJidm5RTXhvNklrZ3laMTJXamNkaFFGVFM0Vk01RU02NUxfY0Vkak4tNjRDY1M?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-05T16:58-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Rural women to gain new livelihood opportunities under Namo Drone Didi Scheme",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 0
-},
-{
-"id": "4b71c503bdd7a7",
-"t": "[Editorial] Reformulando a defesa dos drones",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DUnRBUWZlUXlkUkx6dFFMUlJVZDdaLW5XdWFwN0FvdFh0NmVIUkxtZEpqT1RoclJXUkdhRG5Rd0c3TjM4SDJaeEdRRzJ1WTZldHpSczVTWQ?oc=5",
-"f": "The Korea Herald",
-"s": "koreaherald.com",
-"i": "",
-"d": "2026-11-05T17:30-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "[Editorial] Reframing drone defense",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Korea Herald",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2ca462bd6f09b5",
 "t": "Insights do setor: o principal financiamento da semana para robótica, automação e IA física",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVlrTFBTdGlKWW1ETXZFUnY5WENWOXJLQkVraGw4TlJOQnFLSU1DSGU5ZHZfSC04NzNrTHRoNjY5cWp1Z2I0OVJheHY3enlwZmszUVJNUUVSdkNMdDhpVkp4SUI2NzBNSU5OT0JjRlFlNmlONllheHlpZXI5TG1sMjhxWEhicmRHNGlMbHRQUlZlRnQ3M1JzVDdEVHRGZktWSFNEcGxxSVlRQWRrY2VVOXNyeXUwN0VJTl9WSHNveUpBaEVIOGxwWk1NV28ydw?oc=5",
+"u": "https://www.automate.org/ai/industry-insights/robotics-raises-bleu-robotics-foundry-robotics-machenta-maxinsights-rendezvous-robotics",
 "f": "A3 Association for Advancing Automation",
 "s": "automate.org",
 "i": "",
@@ -33958,73 +34349,10 @@
 "mx": 0
 },
 {
-"id": "cea9746932dee8",
-"t": "Drone como serviço da ZenaTech assina quase US$ 1 milhão em contratos de pesquisa de construção solar para uma concessionária dos EUA com potencial de US$ 2,5 milhões em receita subsequente",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRm1WVzRiS2FQZzRQTGt6czlTOURCYUlIdEoxNjl4UHJsR0Y1UHVuR09oME1sdi1vZGVKcWV1MVNXQWtZYTd1eW5CNFZSMF9VQW51M3RFemJIZjZwRzQySFJqbzF2VVVzVE8taUphR0pjZEQ3TDVsOXRZeV92SHZPRXlaME5QdHlmMFRDaDRpTERUTEg0TWtjZW5XVzBIRWpPREx2NGx0cUIxTDhGUzE2UDViOFNtMHZlSDRwbWlFWms3VkFHem1rUVJMRFBtUHRrcG5LU2h4cURBT0ZlYUpab2VBMXFITjFNaDJrU3NmZExWYVFGbjJvYlFEbkZkRVNkR1JvS2dsdkZGNVoxbG5RWWFVOFA1aFljLW52N0Ytc3J5SHR2cXBZNnN0azgwbHY4SUpESzRuaVEtMEZ2RFl0cXpucnFObUlpQnB1SDFXekhJU1FPLWhWWjFjWmFBV0F6X3NrcnFR?oc=5",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "",
-"d": "2026-11-05T17:45-03:00",
-"c": [
-"negocios",
-"drones",
-"construcao"
-],
-"l": 0,
-"to": "ZenaTech’s Drone as a Service Signs Nearly US$1 Million in Solar Construction Survey Contracts for a U.S. Utility with Potential for US$2.5 Million in Follow-On Revenue",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 0
-},
-{
-"id": "aef9a27d1bcdd8",
-"t": "[2026 Robo World Special Edition] Principais expositores de robôs de serviço",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYmdIYkV1d1N6UTVXUnlYaW80OWhVZG4xazJ6ekFkY3lTOEJMd1BNR2RfN1JfNzc1cUw2WlA1em9xVHc2a0IxWGdpSG9GcEhBQ0pFTC1vV3d5M0NZNmJZbXl2SzcwN29yUEZVcA?oc=5",
-"f": "로봇신문",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-05T17:54-03:00",
-"c": [
-"servico"
-],
-"l": 0,
-"to": "[2026 로보월드 지면 특별판] 서비스 로봇 주요 출품업체",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Robot Newspaper",
-"mx": 0
-},
-{
-"id": "4c3df5f41945ce",
-"t": "Justin Ling: o plano de um milhão de drones de Mark Carney",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWx1YjdmY0twelRlN3Q0WXRoYXQxMmhhck9pZUJsQXJmS1JMU0VmWUxick1MMm9lbG82ZmM0ZEZpXzFsRGR1MVB6b0pxc3B5QkNJb3puYW1UMnBzVUNLZC1BSFQwUjVVdWpEckFwVHpYcC1Zek1jLXQ5R1ppaGVEVG5IVzFlb1pUanJOSktqNGl4aXRXdnZKdEZkazR5MGE5bW51QV9TYnhTUnZ2ZkVNYVZoOUswOGxyWTg0eERMVFg3eGZIOUZRNjc4XzVqU0YzOFBDODZOMjBGWHNWMWl4NWFCZDFBZzdpaWVmaUVkdmV2YTFYY3Y4eVE0azRIeGc?oc=5",
-"f": "Toronto Star",
-"s": "thestar.com",
-"i": "",
-"d": "2026-11-05T18:15-03:00",
-"c": [
-"drones",
-"negocios"
-],
-"l": 0,
-"to": "Justin Ling: Mark Carney’s million-drone plan",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Toronto Star",
-"mx": 0
-},
-{
 "id": "e136c5eb661aa8",
 "t": "Lyft expandirá a frota de robotáxis Waymo em Nashville até o final do ano",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2tiTkVnWkx3ZWdXa0tOTU1ZdFRlelRpN2R5bnR3Vmo5dHVqdDBycEVpUjJ1SmxScE54WmF6dWRUVF9keWVwdk5RYXdyZEpjV0pPMmVMbFM3ZDBza1NTS1Itb0NNUHYtc0RoUnBuOHJSakxxTzJ4Nk9vMjJVVEF2dGxRdXdRdW9IY2hfZmNVQ0g1VGFOTkVBbk1PdkQybTc2bnJteTJCMnZoUWtyT2hpYXYwY3RKbnk4YWQwVw?oc=5",
+"u": "https://www.reuters.com/business/autos-transportation/lyft-expand-waymo-robotaxi-fleet-nashville-by-year-end-2026-11-05/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -34038,33 +34366,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 0
-},
-{
-"id": "c5f69fd0910e0b",
-"t": "Boom da robótica nas salas de aula de Manitoba",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUxaYlgyM09LaWlJLU9kM05TSDJFT2ZtTXZfSGdhcGtPTTFLV1I3UTVJb2IzS3BBMDc0UkNoTzJBZFN4YkpXUEZfR3h1cmE0SlNpeHMzSHZGaF9iMzJWeVVKekZXOW5DZmxoeXlXT0Z4eWF2dUFGRTNyM21sdHJJTW9hclJhNTRNQk9XdDY0Tml6Zw?oc=5",
-"f": "CTV News",
-"s": "ctvnews.ca",
-"i": "",
-"d": "2026-11-05T19:18-03:00",
-"c": [
-"educacao"
-],
-"l": 0,
-"to": "Robotics boom in Manitoba classrooms",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "CTV News",
-"mx": 0
+"mx": 1
 },
 {
 "id": "fdddcee0563f1d",
 "t": "Onda democrática faz a indústria do robotáxi suar",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tNzktVjd5UllnamFJdDRpUTIzUlBhR2tXNWN5OWRzV1dXZWVBNFF1RFVTMDVrYUliM2VkT0dXZFdVZU1wNWloa2JYTUE1TkhieFY4UDlVNVNHc29MQkpHR0hiRTEtdVVyN2VvcGtIR3VHOFdMdEU0?oc=5",
+"u": "https://www.axios.com/2026/11/05/democrat-election-robotaxi-industry",
 "f": "Axios",
 "s": "axios.com",
 "i": "",
@@ -34078,73 +34386,13 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 0
-},
-{
-"id": "8e4bf9d9d0749c",
-"t": "O drone local de Milkor oferece vigilância de longo alcance para as fronteiras da África do Sul",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2I0VFI5UUVnb2lFZUZBUnp6ekFuYldxOEk2LThDOE5IaFUxcGVJVHBMTjh6b2ctT1ZJZVJQRl9uZHVoWUZVRXR3LWZNMkZHNFoxN2ZNMDBRcXp5VEU1d3huOEFBazJYLVN0YTlmSWpzOVI0Z3FfYWk2Y3pLaG9MSVc1NnhPYkU?oc=5",
-"f": "Mail & Guardian",
-"s": "mg.co.za",
-"i": "",
-"d": "2026-11-05T20:10-03:00",
-"c": [
-"drones",
-"inspecao"
-],
-"l": 0,
-"to": "Milkor's homegrown drone offers long-range surveillance for South Africa's borders",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Mail & Guardian",
-"mx": 0
-},
-{
-"id": "04a08eb1312908",
-"t": "Klara e o sol, Jenna Ortega adorável robô descobrindo os sentimentos humanos. Amy Adams, mãe enlutada, Taika Waititi dirige (3,2 de 5)",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ3h5YnJLRW5LNE54NUpvYjhHUWwwelloYzlhQWlqUEk1ZFhfaTB0ZzVxX2w1ZVpxSVNFajBMdDdRaG83SXRtQkdZbHBQQk9Wb0x5cmdEV0xIRGl6Y3hqZUdUR016VUdVUjhScktWTEU1RUNqODRieVJrTlZXNDhrODhPbEhoR2RxdmprMEtEakpSTWREeFBDSGtzTWhXbnQ1eFRWRHh2TTRiWFQ1UjdldldTaDFaeTJ1ZEZKeFItQm1QV1FLWlY5c0hxYW96OVNXY24yT0l2YnRVY0p1WnczRlBJc1llR1VFX3BkV0ZVbGJpT1hvLWZXbUtVVHZBY3VGeW5n?oc=5",
-"f": "Corriere della Sera",
-"s": "marilyn.corriere.it",
-"i": "",
-"d": "2026-11-05T20:42-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Klara e il sole, Jenna Ortega adorabile robot alla scoperta dei sentimenti umani. Amy Adams mamma in lutto, dirige Taika Waititi (3,2 su 5)",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera"
-},
-{
-"id": "c0c53e2f430cda",
-"t": "Compre hoje: aspiradores robóticos, ferramentas de cabelo e toalhas de praia para o verão",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcldfS204WmxMVk5Va1djUXlfZEpNM2RiLW81WWM4YVVxOHl1NlQ1WTVGRmJRUkd4Z0ZDSF9Ud3c0WnEyRHR3VWZ6Zk4zN3JDQjcxQld5Zm9UV3JOak92WWo5bHdESE5RYjlzRUprQlMzNFJVSlZoYk5Sd1VCVHhZSDZ3VlNZUmZqSlVfRVpMUGZkSGJHU09aNk1WOTlZR0VROHlWSTNCakRMeUktd3pFWHBnYw?oc=5",
-"f": "SMH.com.au",
-"s": "smh.com.au",
-"i": "",
-"d": "2026-11-05T20:53-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Shop Today: Robot vacs, hair tools and beach towels for summer",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Sydney Morning Herald",
-"mx": 0
+"mx": 1
 },
 {
 "id": "a39b3817b7791f",
 "t": "O bloqueio da China ao acordo com o SoftBank dá o tiro inicial na guerra dos robôs",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGxjR2k2WC16UFZ4ZGJxR3NlS2lWNXltTWxZVklpWTZWSmUtLUgxN0lPQVllT3VBUjlWNjlCVkcyWVNrX3pkd3pxTy05ZmFmQzI3aXVXNEg2MjgxQmhZTGVTOEliOUFhQ0VvRUxkajZDeFZCVnRBVWJucTNyQVVHOVg3QTY?oc=5",
+"u": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
 "f": "Financial Times",
 "s": "ft.com",
 "i": "",
@@ -34158,151 +34406,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Financial Times",
-"mx": 0
-},
-{
-"id": "fb1efcba4a8cc6",
-"t": "LUXEED e AiMOGA apresentam mobilidade inteligente e robótica no Chery International User Summit",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSjlVazVzVzZ6cTdPQTg1TnRWWW85UW1mWWdwc2pRNFVSVkRxamtSb0l5bzExcTVtd2U2ak1GV29HckNfS1VVS19VRzVPbGktQmV0TV94Z0ZZcDNfemQ4YlMwSEpTVDU5VWc4Sll4dGJSUmx4RDBDOXMyZFFUbW9PZm1GVkU3aDdXeEhUMnBOOGJXMXJhTllfOFFYVXM3VGhCZ0MxdUpnRy1DcnBkcFhJVVNCZ0ZVRVVSMzZRblV4QlpldDdVYkcwMEhtVXFiOTBnNE9fMmRXcTFMZmtRQmJNcERkdnVHYkxGX1E?oc=5",
-"f": "markets.businessinsider.com",
-"s": "markets.businessinsider.com",
-"i": "",
-"d": "2026-11-05T21:24-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "LUXEED and AiMOGA Showcase Intelligent Mobility and Robotics at Chery International User Summit",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
-},
-{
-"id": "652fffb75e6f4a",
-"t": "Walmart cortou uma fita de entrega de drones em West Memphis. Nada voa ainda",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWV80Yms0cmpiRnBYMFVKSXJlZjU4ME9tbU53cHhfTVRxNW5mUFhaZjZJekNhYy1XSndIa000NDU0Qm1xTnZ2eXk4eUlvQ0ZWMzNGNi1YUTBxWGhWbGRxVWdyYm1ZeTd2TXBfZmRJVmNJRWpFVG5hbXI1RTRyV2k3V3NQWThtTEhZQ1E?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-05T22:41-03:00",
-"c": [
-"drones",
-"entrega"
-],
-"l": 0,
-"to": "Walmart Cut a Drone Delivery Ribbon in West Memphis. Nothing Flies Yet",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL",
-"mx": 0
-},
-{
-"id": "254502d6082c31",
-"t": "Eom Yoon-seol, CEO da A-Robot, “Os humanóides são uma indústria soberana… Iremos competir dentro de 3 anos.”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUFdtdGJLQnZiSGhkQ29GTWxuUENIMjlhN3cyS3ZfSUw3OUtaSkIyWF9iSFpRb0JjeURESHJIZzlyTG16YS1vWmtRc3lZVkRvYUpRV3VB?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-05T02:36-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "엄윤설 에이로봇 대표 \"휴머노이드는 주권 산업…3년 안에 승부 난다\"",
-"lg": "ko",
-"p": 3.0,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
-},
-{
-"id": "35a413f1608f08",
-"t": "Xiaomi diz que seus robôs humanóides realizavam turnos de oito horas em sua fábrica de carros elétricos",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUnhKVUpTbTdMc3hlQ3hmODNnY0doZGV4RS0xNi1aeUl5b3YxY0VGbko1Vm5zbTBSMHh6UmduR3k1amJ4NVEtVU5uNmJtTVo0NTJzZnZ3VFk3elF1TkVhaTZkODZZb3lkc3RlNGhRbGtFcUR0RGdGUlNSUkJ0ZXRkbGw3cWoyWG4zT3pFRTNFNjlpbWVMdnMxMDR0OHJuYlA3WWVlalpEbWZtM2xLOWZSeG1MQXdkUHFJbXhMNE5EM0x1UER1TDNlSFhxMmZVR3VweTJsMHlsN2dlQ09FN3BPbXRyV3U0c3M1NFYw?oc=5",
-"f": "ZDNET",
-"s": "zdnet.fr",
-"i": "",
-"d": "2026-11-05T04:01-03:00",
-"c": [
-"humanoides",
-"industriais"
-],
-"l": 0,
-"to": "Xiaomi affirme que ses robots humanoïdes ont tenu un poste de huit heures dans son usine de voitures électriques",
-"lg": "fr",
-"p": 3.0,
-"cr": 2,
-"cv": "ZDNET",
-"mx": 0
-},
-{
-"id": "0e9760008496f8",
-"t": "De cães-robôs a humanóides... Desafio de subir 3.000 degraus de pedra",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UUcwbWVab0xsNnVKWkl3MDdSUU1BVk5zbjlUR1NoeElpTDlXRXg3aWhlLWZmOURPQkw2bDY1X05qQlVLTzdOaEUxNWxTUFQ2bkVUNEhn?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-05T05:12-03:00",
-"c": [
-"humanoides",
-"quadrupedes"
-],
-"l": 0,
-"to": "로봇 개부터 휴머노이드까지…3000개 돌계단 오르기 도전",
-"lg": "ko",
-"p": 3.0,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 0
-},
-{
-"id": "0b770c33272362",
-"t": "Contra a escassez de trabalhadores qualificados: robôs humanóides devem ajudar nas inspeções da rede elétrica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakhBNllqVkE4czB2aE1STHNSVUdfU0JHNl9fTXprYUtMUk03dkJiemVEREpuc2FFSXcyZHFDeFZsdy1DZWpRWGppUVA2YVBFS1pIanFaWGtuOE1oLVdwaG9laHFCSEhPZm9sMjA3d1Z0c0hlWFd2VzZPTVZZdzlUQWdCdjJRZTJNVDRranNxNVl5YUkwNVZibnpyR195WWdJUDRDQ1hlbXQzcGREOUFkWEFfY0hqOGVDU3FZ?oc=5",
-"f": "heise online",
-"s": "heise.de",
-"i": "",
-"d": "2026-11-05T08:09-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Gegen Fachkräftemangel: Humanoide Roboter sollen bei Stromnetzkontrollen helfen",
-"lg": "de",
-"p": 3.0,
-"cr": 2,
-"cv": "heise online",
-"mx": 0
-},
-{
-"id": "ab51353b63a0ab",
-"t": "Robôs humanóides passam “período de experiência” em loja de conveniência: um deles é acusado de atirar na lateral",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFhmOS0wZ2t5N1RYMG5hSjRVWWVPNXk1dnNCdTdyZHZxSXg1R1RPVG1lUEhrdGxBd2JncWd2QUVHTWtZYUV0Qk0zWW5KV0NidEYxRUZoR3lWcmVfQkNGVHRiYUFOVUstZjRvc0c2RW9qa29XbDRXZDRsem5PT0doMkFvZm1XTXVHWDVxcW9QV3lSbFMxeVB4ZFFWdWRmVGZNZ3QyNGlfQTB5VFY5QnlFWkczTHRpTmFRVVg4Ny1mcjVDdVVGSDlmSmVJTEp0YkZxZDFSSzhISGEwZw?oc=5",
-"f": "Numerama",
-"s": "numerama.com",
-"i": "",
-"d": "2026-11-05T08:30-03:00",
-"c": [
-"humanoides",
-"servico"
-],
-"l": 0,
-"to": "Des robots humanoïdes passent une « période d’essai » en supérette : l’un d’eux est accusé de tirer au flanc",
-"lg": "fr",
-"p": 3.0,
-"cr": 2,
-"cv": "Numerama",
-"mx": 0
+"mx": 1
 },
 {
 "id": "c7eadb60643e2a",
