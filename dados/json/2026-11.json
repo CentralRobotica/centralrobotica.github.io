@@ -82,7 +82,7 @@
 ],
 "cr": 3,
 "cv": "The Japan Times",
-"mx": -5
+"mx": -7
 },
 {
 "id": "312b2bf078890d",
@@ -126,7 +126,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 0
+"mx": 1
 },
 {
 "id": "7ffe704db59ba3",
@@ -321,6 +321,48 @@
 "mx": 0
 },
 {
+"id": "504ad60e5e3882",
+"t": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
+"r": "",
+"u": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-15/ecovacs-utilizar-con-alexa.html",
+"f": "Cinco Días",
+"s": "cincodias.elpais.com",
+"i": "https://imagenes.elpais.com/resizer/v2/35HKF2D2YNBTBEB7LYDGXCAJGY.jpg?auth=4c68ac462ed523b279681f34a70eecd73818914db776bed0afcc54286612fb9a&width=1200",
+"d": "2026-11-15T06:30-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "El País",
+"mx": 1
+},
+{
+"id": "3a2aa515491f91",
+"t": "Black Friday anticipado en Amazon: Roborock rebaja un 57% su robot aspirador más vendido y el pijama de Tramas triunfa por 16 euros",
+"r": "",
+"u": "https://www.elmundo.es/ofertas-regalos/2026/11/15/6af98229fc6c83c5058b4586.html",
+"f": "El Mundo",
+"s": "elmundo.es",
+"i": "https://e01-phantom-elmundo.uecdn.es/9613b4fae10612e2b1159dd75012895e/resize/1200/f/webp/assets/multimedia/imagenes/2026/11/15/17947370928421.jpg",
+"d": "2026-11-15T07:05-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Black Friday anticipado en Amazon: Roborock rebaja un 57% su robot aspirador más vendido y el pijama de Tramas triunfa por 16 euros",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "El Mundo",
+"mx": 0
+},
+{
 "id": "0b456d7f92966f",
 "t": "Um encontro com o futuro: aeroporto de Hong Kong coloca robôs de pintura de pistas para trabalhar",
 "r": "",
@@ -359,28 +401,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 2
-},
-{
-"id": "504ad60e5e3882",
-"t": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
-"r": "",
-"u": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-15/ecovacs-utilizar-con-alexa.html",
-"f": "Cinco Días",
-"s": "cincodias.elpais.com",
-"i": "",
-"d": "2026-11-15T06:30-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Cómo utilizar los robots de limpieza de ECOVACS con Alexa: guía paso a paso",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "El País",
-"mx": 1
+"mx": 3
 },
 {
 "id": "4f79474a533b23",
@@ -401,7 +422,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "be7706fd864cf3",
@@ -506,6 +527,27 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "904e6cbd0c66ed",
+"t": "Black Friday 2026 – L'aspirateur robot Narwal Flow \"5 étoiles\" à 569,00 € (-21%)",
+"r": "",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-narwal-flow-5-etoiles-a-569-00-21-n267538.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/25/251285/8223440c-aspirateur-robot-narwal-flow__1200_678__overflow_wtmk.webp",
+"d": "2026-11-15T07:14-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Black Friday 2026 – L'aspirateur robot Narwal Flow \"5 étoiles\" à 569,00 € (-21%)",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "Les Numériques",
 "mx": 0
 },
 {
@@ -1383,28 +1425,6 @@
 "rx": "Página 50. Receitas de forno, fritadeira, micro-ondas, processador de alimentos, panela, vaporizador e ferro. Escolha como cozinhar e veja os passos de cada prato."
 },
 {
-"id": "6f495550bfc0a3",
-"t": "Drone+guerra+desenvolvimento",
-"r": "Veja notícias e artigos com a tag \"drone+warfare+development\" sobre manufatura.",
-"u": "https://manufacturing.economictimes.indiatimes.com/tag/drone+warfare+development",
-"f": "ET Manufacturing",
-"s": "manufacturing.economictimes.indiatimes.com",
-"i": "",
-"d": "2026-11-14T13:46-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "Drone+warfare+development",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Economic Times",
-"mx": 9,
-"rx": "Veja notícias e artigos com a tag \"drone+warfare+development\" sobre manufatura."
-},
-{
 "id": "0a945b408683c5",
 "t": "Divisão Florestal de Coimbatore aumentará o monitoramento da vida selvagem e patrulhará a frota de drones habilitados para IA",
 "r": "Equipe do Departamento Florestal usando um drone para monitorar um filhote de elefante doente na cordilheira de Madukkarai, na Divisão Florestal de Coimbatore, em setembro deste ano. A Divisão Florestal de Coimbatore está se esforçando para criar uma frota de drones avançados de monitoramento e patrulha da vida…",
@@ -1446,27 +1466,6 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "A Unitree, uma empresa de robôs sediada em Hangzhou, alcançou uma capitalização de mercado de 62 trilhões de won ao alavancar seu modelo de baixo custo. O desenvolvimento tecnológico liderado pelo sector privado e a procura de robôs para a educação e investigação impulsionaram o crescimento, mas é necessária uma verificação futura do mercado em termos de utilização comercial e integralidade tecnológica dos humanóides."
-},
-{
-"id": "42341bed223cba",
-"t": "Robótica+na+guerra",
-"r": "Veja notícias e artigos com a tag \"robotics+in+warfare\" sobre manufatura.",
-"u": "https://manufacturing.economictimes.indiatimes.com/tag/robotics+in+warfare",
-"f": "ET Manufacturing",
-"s": "manufacturing.economictimes.indiatimes.com",
-"i": "",
-"d": "2026-11-14T15:06-03:00",
-"c": [
-"defesa"
-],
-"l": 0,
-"to": "Robotics+in+warfare",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Economic Times",
-"mx": 9,
-"rx": "Veja notícias e artigos com a tag \"robotics+in+warfare\" sobre manufatura."
 },
 {
 "id": "7baf73ddbc1e33",
@@ -1643,25 +1642,25 @@
 "mx": 0
 },
 {
-"id": "4ab55e896d7666",
-"t": "Chinese+drone+components",
+"id": "ffddf62679ef09",
+"t": "‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다",
 "r": "",
-"u": "https://manufacturing.economictimes.indiatimes.com/tag/chinese+drone+components",
-"f": "ET Manufacturing",
-"s": "manufacturing.economictimes.indiatimes.com",
-"i": "",
-"d": "2026-11-14T15:23-03:00",
+"u": "https://www.chosun.com/national/labor/2026/11/15/VO3TS45IQZGS5GQDJ2XTF7I5XM/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/GY2TCZBXGYYWEODBGYYTSMRQMY.png?auth=13ac5d8dd0ef67fef22ad4261c1592f1dcf836f3e5d78bb4a2ad44ff211d2941&width=600&height=315&smart=true",
+"d": "2026-11-14T23:11-03:00",
 "c": [
-"drones"
+"geral"
 ],
 "l": 0,
-"to": "Chinese+drone+components",
+"to": "‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다",
 "lg": "?",
 "nt": 1,
 "p": 4.5,
 "cr": 3,
-"cv": "The Economic Times",
-"mx": 9
+"cv": "Chosun Ilbo",
+"mx": 0
 },
 {
 "id": "16296d75a24074",
@@ -1706,6 +1705,49 @@
 "cr": 3,
 "cv": "The Australian",
 "mx": 3
+},
+{
+"id": "6f495550bfc0a3",
+"t": "Drone+guerra+desenvolvimento",
+"r": "Veja notícias e artigos com a tag \"drone+warfare+development\" sobre manufatura.",
+"u": "https://manufacturing.economictimes.indiatimes.com/tag/drone+warfare+development",
+"f": "ET Manufacturing",
+"s": "manufacturing.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-14T13:46-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Drone+warfare+development",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 9,
+"rx": "Veja notícias e artigos com a tag \"drone+warfare+development\" sobre manufatura."
+},
+{
+"id": "42341bed223cba",
+"t": "Robótica+na+guerra",
+"r": "Veja notícias e artigos com a tag \"robotics+in+warfare\" sobre manufatura.",
+"u": "https://manufacturing.economictimes.indiatimes.com/tag/robotics+in+warfare",
+"f": "ET Manufacturing",
+"s": "manufacturing.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-14T15:06-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Robotics+in+warfare",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 9,
+"rx": "Veja notícias e artigos com a tag \"robotics+in+warfare\" sobre manufatura."
 },
 {
 "id": "d45899b8d72fb9",
@@ -1982,6 +2024,27 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "Assim como o Saros 10, o Saros 10R promete entrar embaixo dos móveis para uma limpeza completa da casa, ao mesmo tempo que dispensa o usuário de grandes tarefas de manutenção."
+},
+{
+"id": "4ab55e896d7666",
+"t": "Chinese+drone+components",
+"r": "",
+"u": "https://manufacturing.economictimes.indiatimes.com/tag/chinese+drone+components",
+"f": "ET Manufacturing",
+"s": "manufacturing.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-14T15:23-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Chinese+drone+components",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 9
 },
 {
 "id": "aeedad61e2c5a5",
@@ -6622,7 +6685,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -12362,7 +12425,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -21303,6 +21366,27 @@
 "rx": "Após a implantação inicial bem-sucedida, espera-se que o cliente faça pedidos subsequentes para o programa no segundo semestre de 2027 e além."
 },
 {
+"id": "104f0e6612d1be",
+"t": "Wearable Robots Expand with Fitting Shops, Rentals",
+"r": "",
+"u": "https://www.chosun.com/english/industry-en/2026/11/10/VVTNS4RXCREYXAYHVDLS2DGRDU/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/47EF4T6KDZHT3PNQULQAKJPQ3A.jpg?auth=2c6e32235bd4cbd34233e662d367f712eb161b8829ae3cac2d50d7e8e442926e&width=945&height=496&focal=443,221",
+"d": "2026-11-10T00:04-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "Wearable Robots Expand with Fitting Shops, Rentals",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
+},
+{
 "id": "ed5fdd025823f2",
 "t": "Real World se une à NVIDIA para revelar ‘DexBench’, uma referência para manipulação manual robótica",
 "r": "A Real World, empresa de inteligência artificial física (IA), colaborou com a NVIDIA no dia 10 para lançar o ‘DexBench’, um benchmark que avalia as habilidades precisas de manipulação manual de humanóides. A Real World anunciou os recursos e o desempenho do DexBench no 'AI Day Seoul 2026' organizado pela NVIDIA no…",
@@ -28117,7 +28201,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -28146,7 +28230,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -35136,7 +35220,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "2d0d7e4131e238",
@@ -35197,7 +35281,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 },
 {
 "id": "3f30c54ec8e3d8",
@@ -35217,7 +35301,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 0
+"mx": 1
 }
 ],
 "2026-11-04": [
