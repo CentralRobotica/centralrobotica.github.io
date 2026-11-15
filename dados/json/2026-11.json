@@ -802,6 +802,74 @@
 "rx": "A empresa de capital de risco Zacua Ventures fechou o seu segundo fundo de investimento em 135 milhões de dólares, mais do que duplicando o tamanho do seu fundo original de 56 milhões de dólares, à medida que expande o seu foco em robótica, IA física e tecnologias para aplicações industriais. Originalmente focada na tecnologia de construção, a Zacua está a alargar a sua estratégia de investimento para incluir a indústria transformadora, a energia, a mineração, as infra-estruturas e outros sectores que descreve colectivamente como as “Indústrias Físicas”.\nA empresa acredita que estes setores oferecem oportunidades substanciais para tecnologias que combinam robótica, inteligência artificial e software com conhecimentos industriais práticos. A Zacua já começou a investir a partir do Fundo II, prevendo-se que a robótica, a IA industrial e as tecnologias de infraestrutura continuem a ser centrais na sua estratégia."
 },
 {
+"id": "970ccb4d667a39",
+"t": "Serve Robotics opens autonomous delivery network to developers and businesses",
+"r": "Serve Robotics, a physical AI company that specializes in delivery robots, has launched the AV Delivery Developer Portal, which for the first time gives anyone, from independent developers and hobbyists, to businesses and AI assistants, the opportunity to programmatically summon robots from Serve’s autonomous sidewalk…",
+"u": "https://roboticsandautomationnews.com/2026/11/15/serve-robotics-opens-autonomous-delivery-network-to-developers-and-businesses/107169/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2025/09/serve-robotics-atlanta-1.jpg",
+"d": "2026-11-15T12:36-03:00",
+"c": [
+"entrega"
+],
+"l": 0,
+"to": "Serve Robotics opens autonomous delivery network to developers and businesses",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "1b9a1a8994e710",
+"t": "Physicl raises $10 million to improve physical AI training with synthetic data",
+"r": "Paris-based startup Physicl has raised $10 million in seed funding to develop technology that helps robotics and physical AI researchers identify and address weaknesses in their AI models. The funding round was led by Inovia Capital, with participation from US Venture Partners, and will support the expansion of…",
+"u": "https://roboticsandautomationnews.com/2026/11/15/physicl-raises-10-million-to-improve-physical-ai-training-with-synthetic-data/107173/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/physicl-ai-1.png",
+"d": "2026-11-15T12:45-03:00",
+"c": [
+"negocios",
+"ia"
+],
+"l": 0,
+"to": "Physicl raises $10 million to improve physical AI training with synthetic data",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 0
+},
+{
+"id": "d9f7b614a8155d",
+"t": "미 육군, 독일서 드론 군집·무인지상차량 통합 운용 시험",
+"r": "미 육군이 독일에서 드론 군집과 무인지상차량(UGV)을 결합한 차세대 무인 전투체계의 운용 시험을 실시했다.미군 전문매체 스타스 앤드 스트라이프스(Stars and Stripes)는 13일 미 육군이 독일 그라펜뵈어 훈련장에서 다양한 무인시스템을 활용한 실사격 시험을 진행했다고 보도했다.이번 시험에는 수송용 컨테이너에 보관된 드론과 무인지상차량, 기존 군용 무기체계 등이 동원됐다.시연에서는 재블린 대전차 미사일 발사기 2기를 탑재한 무인지상차량이 등장했으며, 별도의 무인지상차량에서는 드론 18대로 구성된 군집을 발사했다.또한 보급용",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49601",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49601_105713_4537.jpg",
+"d": "2026-11-15T12:56-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "미 육군, 독일서 드론 군집·무인지상차량 통합 운용 시험",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 0
+},
+{
 "id": "7ffe704db59ba3",
 "t": "OpenAi fecha unidade robótica pela segunda vez em seis anos, mas quer que todos saibam que a empresa está pronta",
 "r": "A OpenAI dissolveu sua equipe autônoma de robótica pela segunda vez em seis anos, agrupando o grupo em suas organizações mais amplas de pesquisa e aplicação. Embora a mudança ecoe a decisão da empresa de encerrar sua divisão de robótica original em 2020, a OpenAI insiste que a última reorganização não é um retrocesso…",
@@ -1143,6 +1211,50 @@
 "rx": "CraftNet é um modelo proprietário de base de IA da Sharpa, também conhecida como Sharpa Robotics, uma empresa com sede em Cingapura. Apresentado na CES em Las Vegas em janeiro de 2026, pertence à camada de software do ecossistema robótico e não à categoria de robôs físicos ou mãos robóticas. Como uma oferta proprietária, o CraftNet também representa um modelo de propriedade diferente do software de robótica lançado abertamente.\nA avaliação técnica de um modelo básico de robótica requer distinções claras entre o software, o hardware usado durante a avaliação e as condições sob as quais os resultados são medidos. Os compradores que comparam modelos proprietários também devem distinguir o acesso ao modelo do suporte à implantação, e o licenciamento de software da compra de qualquer equipamento robótico associado."
 },
 {
+"id": "bae32b5df1686b",
+"t": "Welcome, GR-Dexter!",
+"r": "Developed by ByteDance Seed, the AI research team within ByteDance, this robot foundation model focuses on software for dexterous robotic hands. Introduced in December 2025, it belongs to a research direction that brings general AI methods into robotic control rather than treating every task as a separate programming…",
+"u": "https://humanoid.guide/welcome-gr-dexter/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "",
+"d": "2026-11-15T09:17-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Welcome, GR-Dexter!",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 0
+},
+{
+"id": "0fb8f30778ce57",
+"t": "Estonia foils Russian ‘sabotage’ at drone factory",
+"r": "",
+"u": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/429b14c32bf7d2cb641d11c98b5d7fbc66f5add213b708ee246f527264ffcec4?t=og",
+"d": "2026-11-15T12:01-03:00",
+"c": [
+"industriais",
+"drones"
+],
+"l": 0,
+"to": "Estonia foils Russian ‘sabotage’ at drone factory",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 0
+},
+{
 "id": "93924dd20f9b7e",
 "t": "O Sony Aibo foi uma revolução robótica vestida de cachorro",
 "r": "Na década de 1990, a Sony estava absolutamente convencida de que estávamos à beira de uma aquisição de robôs. Em breve, decidiu a empresa, todos viveríamos entre inúmeros robôs humanóides. Alguns seriam nossos colegas de trabalho; outros seriam nossos amigos; e pelo menos um seria nosso animal de estimação. E “animal de estimação” era exatamente o que a Sony era…",
@@ -1332,6 +1444,27 @@
 "rx": "Então aqui está no nosso laboratório, este Narwal Flow lançado há alguns meses e que podemos encontrar hoje por 899€. Equipado com um poder de sucção de 22.000 Pa, este robô limpador de pisos também conta com seu esfregão atípico para apagar os vestígios mais complicados."
 },
 {
+"id": "9a71d07e4b8649",
+"t": "US Tries to Move Counter-Drone Efforts From 'Joke' to Reality",
+"r": "",
+"u": "https://www.bloomberg.com/news/features/2026-11-15/us-military-tests-new-counter-drone-weapons-in-race-to-catch-up",
+"f": "Bloomberg.com",
+"s": "bloomberg.com",
+"i": "",
+"d": "2026-11-15T10:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "US Tries to Move Counter-Drone Efforts From 'Joke' to Reality",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Bloomberg",
+"mx": 1
+},
+{
 "id": "f49d9559d04f6e",
 "t": "Entusiastas transportam Astrobot, jogo exclusivo do ano TGA 2024 da Sony PS5, para PC",
 "r": "A IT House informou em 15 de novembro que, de acordo com a mídia estrangeira ComputerBase, um entusiasta imnotsharingmyname recentemente portou o jogo TGA 2024 exclusivo do Sony PS5 \"Astro Bot\" para a plataforma PC e também adicionou NVIDIA DLSS, geração de quadros e tecnologias Reflex à versão correspondente.",
@@ -1370,7 +1503,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "Em 14 de novembro, a loja principal da Qiyuan Robot Shenzhen foi inaugurada oficialmente no Shenzhen Bonjour Center. No dia da inauguração, a marca realizará simultaneamente o evento Developer Playground National Developer Meeting·Shenzhen Station; em 15 de novembro, a loja também lançará o workshop para pais e filhos \"Qiyuan Robot Discovery Camp\", lançando um curso de experiência de iluminação inteligente incorporada e normalizada para famílias de pais e filhos.\nDiferente do modelo de operação das lojas tradicionais de eletrônicos de consumo que se concentram na exibição e vendas de produtos, a loja principal da Qiyuan Robot Shenzhen rompe com o posicionamento de espaço de vendas único e cria um espaço off-line composto que carrega vários cenários, abrindo um novo formato de negócios off-line para produtos inteligentes incorporados de nível de consumidor. Reunião Nacional de Desenvolvedores do Qiyuan Robot Developer Playground · Estação de Shenzhen"
 },
 {
@@ -1411,7 +1544,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-14": [
@@ -2526,6 +2659,27 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "AWE 3.0 é um modelo proprietário de base de IA incorporada desenvolvido pela TARS Robotics, um fabricante de Xangai focado em robôs para aplicações industriais. É o componente de software da plataforma robótica da empresa, e não um robô físico ou uma mão robótica. A TARS apresentou o modelo na conferência de robótica ICRA 2026 em Viena, com data de lançamento listada em 2 de junho de 2026. Para leitores que avaliam produtos de IA incorporados, a principal distinção é entre AWE 3.0 como modelo de software subjacente e as plataformas de hardware TARS que ele suporta.\nDe forma mais ampla, o AWE 3.0 representa uma abordagem proprietária em desenvolvimento para IA incorporada, na qual um fabricante traz o desenvolvimento de modelos, dados de treinamento e plataformas robóticas no mesmo esforço de produto."
+},
+{
+"id": "65a3f6872c6dec",
+"t": "Swiss Robotics Day spotlights dexterous manipulation, tactile sensors, and Korea-Switzerland partnership talks",
+"r": "",
+"u": "https://biz.chosun.com/en/en-science/2026/11/15/VFLKF7G2WVFJPAV4EUAEHEEVYU/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/U4YAZI2ZOFHH7FUTEA3TOOYYBQ.jpg?auth=5c65528df95e39b197e021bd79f941dde01344eb2a6f6ce51751b02f3435e259&width=1200&height=630&smart=true",
+"d": "2026-11-14T18:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Swiss Robotics Day spotlights dexterous manipulation, tactile sensors, and Korea-Switzerland partnership talks",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
 },
 {
 "id": "16296d75a24074",
@@ -7529,7 +7683,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -13271,7 +13425,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -29047,7 +29201,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -29076,7 +29230,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
