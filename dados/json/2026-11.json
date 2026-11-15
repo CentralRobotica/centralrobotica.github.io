@@ -81,7 +81,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "4f79474a533b23",
@@ -103,6 +103,69 @@
 "cr": 2,
 "cv": "ETNews",
 "mx": 0
+},
+{
+"id": "be7706fd864cf3",
+"t": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
+"r": "",
+"u": "https://www.36kr.com/p/4070571639067782",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261115/v2_6dbe2df935f043d2aeb2ab791aa5e442@6221844_oswg144720oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+"d": "2026-11-15T02:23-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "e4ea995c61a4cc",
+"t": "OpenAI机器人团队突然解散，GPT-6 Astra把行业一锅端了-36氪",
+"r": "",
+"u": "http://www.36kr.com/p/4069381314303105",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261114/v2_8fa7bbc158ea46d19eb653614ca4531b@000000@ai_oswg838893oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-15T03:03-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "OpenAI机器人团队突然解散，GPT-6 Astra把行业一锅端了-36氪",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "58fc8c45374e25",
+"t": "OpenAI folds standalone robotics team into main units",
+"r": "",
+"u": "https://www.techinasia.com/news/openai-folds-standalone-robotics-team-main-units",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-15T02:11-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "OpenAI folds standalone robotics team into main units",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "Tech in Asia",
+"mx": 1
 }
 ],
 "2026-11-14": [
@@ -6035,7 +6098,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -8673,6 +8736,27 @@
 "cv": "Chosun Ilbo",
 "mx": 3,
 "rx": "ｺɾN(ｺɾ) ǰ/Ƿ Ż, å, ǿ, , , ǷIT"
+},
+{
+"id": "254764e5aed60c",
+"t": "スペースデータ、八王子ジャンクションを舞台に人とロボットが働くクレーン作業シミュレーションを開発",
+"r": "",
+"u": "https://www.nikkei.com/article/DGXZRSP715203_S6A111C2000000/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3869016012112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=7cd3e4ba72521694977c53a43a735e18",
+"d": "2026-11-12T03:39-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "スペースデータ、八王子ジャンクションを舞台に人とロボットが働くクレーン作業シミュレーションを開発",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 0
 },
 {
 "id": "ad2d4d45e22fd5",
@@ -11712,7 +11796,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -16607,36 +16691,6 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 12.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 2,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
-},
-{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -16793,6 +16847,36 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 11.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -17616,36 +17700,6 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
-},
-{
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 2,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -18838,6 +18892,36 @@
 "cr": 3,
 "cv": "La Repubblica",
 "mx": 3
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 1,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "04f31f697e3b0c",
@@ -27467,7 +27551,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -27496,7 +27580,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -33357,7 +33441,7 @@
 ],
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "A ABB emitiu quinta-feira um comunicado confirmando que o Escritório do Mecanismo de Trabalho para Revisão da Segurança do Investimento Estrangeiro da China bloqueou a venda planejada de US$ 5,4 bilhões de sua divisão de robótica spinoff para o gigante de investimentos japonês Softbank. “A ABB e o SoftBank estão em estreito diálogo e trabalhando de forma construtiva na transação”, escreveu a gigante da automação com sede em Zurique em comunicado divulgado esta manhã.\nDe acordo com uma fonte da Reuters, \"a transação permanece no ar, embora a ABB e o SoftBank estejam otimistas de que podem encontrar uma solução. Royal Caribbean Cruise Lines, Robotic Arts e ABB Robotics unem forças para lançar o inovador sistema de entretenimento RoboScreen® A segurança cibernética se tornou o foco mais significativo para os fabricantes automotivos em todo o mundo, de acordo com a mais recente Pesquisa de Perspectiva de Fabricação Automotiva da ABB Robotics."
 },
 {
@@ -33900,7 +33984,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/stocks/ZENA/pressreleases/8678821/zenatechs-drone-as-a-service-signs-nearly-us1-million-in-solar-construction-survey-contracts-for-a-us-utility-with-potential-for-us25-million-in-follow-on-revenue/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"i": "",
 "d": "2026-11-05T17:45-03:00",
 "c": [
 "negocios",
@@ -33913,7 +33997,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 0
+"mx": 9
 },
 {
 "id": "aef9a27d1bcdd8",
@@ -34242,7 +34326,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Business Insider",
-"mx": 2,
+"mx": 3,
 "rx": "05, 2026 (GLOBE NEWSWIRE) - BOS Better Online Solutions Ltd. (\"BOS\" ou a \"Empresa\") (Nasdaq: BOSC), um integrador de tecnologias de cadeia de suprimentos para os setores aeroespacial, de defesa, industrial e de varejo, anunciou hoje que sua Divisão de Robótica Inteligente garantiu um pedido de US$ 650.000 de um cliente líder de defesa israelense para uma linha de embalagem robótica para munições.\nRoee Ivgy, Gerente Geral da Divisão de Robótica Inteligente, comentou: \"Este pedido marca nossa entrada em uma nova unidade de fabricação de nosso cliente, onde não estávamos envolvidos anteriormente. Incluindo este pedido, nossas células robóticas estão em desenvolvimento ou instalação em sete locais de fabricação de nossos clientes em todo o mundo, apoiando a produção, classificação e embalagem de munições."
 },
 {
@@ -34263,7 +34347,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Wall Street Journal",
-"mx": 2
+"mx": 3
 },
 {
 "id": "bcf8c64341a374",
@@ -34283,7 +34367,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 2
+"mx": 3
 },
 {
 "id": "41b7c6ecd0a75e",
@@ -34305,7 +34389,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b0b64860c9fe1b",
@@ -34325,7 +34409,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Australian",
-"mx": 1
+"mx": 2
 },
 {
 "id": "2ca462bd6f09b5",
@@ -34366,7 +34450,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 1
+"mx": 2
 },
 {
 "id": "fdddcee0563f1d",
@@ -34386,7 +34470,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a39b3817b7791f",
@@ -34406,16 +34490,16 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Financial Times",
-"mx": 1
+"mx": 2
 },
 {
 "id": "c7eadb60643e2a",
 "t": "Panasonic HD e outros desenvolvem IA de operação robótica \"T-Rex\" que funciona com ambas as mãos Integrando informações táteis da ponta dos dedos no modelo VLA",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fdERRemtzUkFYY1B6QzFtYjdIZ0diRm03aEhCbkdPUVVpOGptUlM2LVVOUkZkYnVuNFlVX1BTd0k5S2lzcU5Qa0JzNl9QbDFNN1hrTVJKM3RRc3dpbUhPNWxvWQ?oc=5",
+"u": "https://ai.watch.impress.co.jp/docs/news/2153977.html",
 "f": "株式会社インプレス",
 "s": "ai.watch.impress.co.jp",
-"i": "",
+"i": "https://ai.watch.impress.co.jp/img/aiw/list/2153/977/0.jpg",
 "d": "2026-11-05T03:47-03:00",
 "c": [
 "ia"
@@ -34423,7 +34507,7 @@
 "l": 0,
 "to": "パナソニックHDら、両手で作業するロボット操作AI「T-Rex」を開発 VLAモデルに指先の触覚情報を統合",
 "lg": "ja",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "Impress Watch",
 "mx": 0
@@ -34432,10 +34516,10 @@
 "id": "a908f484d2f144",
 "t": "\"Latido! Daizegar!\" “Bushinso Attack Daizegar” de “Super Robot Wars OG” agora é tridimensional na série Tekkaku!",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10NDQ4eXprSUlOalZrYkxhZ2pKQkV5WnJOZG1HdWlrdVd2OC0tbkpYLXU4Q0VGV1dxd1Rub2RwMnFMRmZ4eG9sVDVMc2twMThMNWlodG1CRmxxcUx2eHlHYzhLODAzeTQ?oc=5",
+"u": "https://hobby.watch.impress.co.jp/docs/news/2153998.html",
 "f": "hobby Watch",
 "s": "hobby.watch.impress.co.jp",
-"i": "",
+"i": "https://hobby.watch.impress.co.jp/img/hbw/list/2153/998/011.jpg",
 "d": "2026-11-05T03:49-03:00",
 "c": [
 "geral"
@@ -34443,7 +34527,7 @@
 "l": 0,
 "to": "“吠えろ！ダイゼンガー！”「スーパーロボット大戦OG」より「武神装攻ダイゼンガー」が鉄機巧シリーズで立体化！",
 "lg": "ja",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "Impress Watch",
 "mx": 0
@@ -34452,10 +34536,10 @@
 "id": "e1eb2c68be30a3",
 "t": "Advantech vê o crescimento da IA ​​de ponta acelerando além dos equipamentos semicondutores para a robótica",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm1wNkpoUGRyOHdfRWY5QXBLTzNrTTE1SnZvanFaNWt3UmxDdGEzODRiM2pfelZwNU9SZjdJZXlMbTdyUS13d3RTRjNVMkttRU5xS09BRG9rR01QX1VnRjQyMGJkOUZSMlhuaWtFcUlGMjV4VHU5MmpEOVZvVURPcVp6cnRjUXA3c2FXamFxWmZxcERjdkE?oc=5",
+"u": "https://www.digitimes.com/news/a20261105PD223/advantech-growth-equipment-robotics-2026.html",
 "f": "digitimes",
 "s": "digitimes.com",
-"i": "",
+"i": "https://img.digitimes.com/newsshow/20261105pd223_files/1_b.jpg",
 "d": "2026-11-05T04:35-03:00",
 "c": [
 "geral"
@@ -34463,7 +34547,7 @@
 "l": 0,
 "to": "Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics",
 "lg": "en",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "DigiTimes",
 "mx": 0
@@ -34472,10 +34556,10 @@
 "id": "a144c2389eb9b9",
 "t": "‘Tecnologia cerebral’ que permite controlar um aspirador robô apenas com seus pensamentos",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMRGJBSjRFMXZsdDVKUW13S0E2YlZBa3hpd1Q4VXhPTEFlZVVlQTlVY3NmWXlVTXd6akJ5X2lLZDJCMEhNbm5lSGZmZW4zQQ?oc=5",
+"u": "https://www.etnews.com/20261105000474",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "",
+"i": "https://img.etnews.com/news/article/2026/11/05/news-p.v1.20261105.9486bf1c65b042a1bd2b9cf3c334bcdb_P1.jpg",
 "d": "2026-11-05T10:30-03:00",
 "c": [
 "casa"
@@ -34483,7 +34567,7 @@
 "l": 0,
 "to": "생각만으로 로봇청소기 조종하는 '뇌 기술'",
 "lg": "ko",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "ETNews",
 "mx": 0
@@ -34492,10 +34576,10 @@
 "id": "2d0d7e4131e238",
 "t": "A França está testando um robô pedreiro capaz de construir 60 m² de parede em um dia: poderá chegar aos canteiros de obras em 2027",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM3BESFotTUJsTFRENlBTaWRWcGI2Zk44cUEyN3ZOSzc1V3daZXVTY1NxWFBRR1ltYklnSWU3U1Rnd1J0VDJHNjRKalhNRFJrUGxnUm5tUjJtRGlNRjEwbEx0cGpsWnEtUFozbzNpQUlSR1RLZUthUW93ejVwYTR3cExsc2hraVdSUnpyNVhoamQ0djZIZW9ueDM5S3RHSjR1eVNGME5yR0dWc280MGFtQ3FRT0diOVRLSnR2MTNIUkFtS3cwd2UzUUlpRUNuOFpQbDFMMDQ4OEhzMlpJbE9yOHdzemtmT0pMN1pkVWVUZ1VRLV9OMHRhemtZQ3pzWHVTb2NranRkcC0?oc=5",
+"u": "https://www.lesnumeriques.com/concept/la-france-teste-un-robot-macon-capable-de-construire-60-m2-de-mur-en-une-journee-il-pourrait-arriver-sur-les-chantiers-en-2027-n266832.html",
 "f": "Les Numériques",
 "s": "lesnumeriques.com",
-"i": "",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/266832/5f1b1ee6-robot-macon-wltr-bouygues-teste-une-reponse-a-la-penurie-de-bras__1200_678__0-143-2528-1470.webp",
 "d": "2026-11-05T13:48-03:00",
 "c": [
 "geral"
@@ -34503,7 +34587,7 @@
 "l": 0,
 "to": "La France teste un robot maçon capable de construire 60 m² de mur en une journée : il pourrait arriver sur les chantiers en 2027",
 "lg": "fr",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "Les Numériques",
 "mx": 0
@@ -34512,10 +34596,10 @@
 "id": "bd4cb5026cf0bd",
 "t": "As ambições de drones do Canadá colocam os fabricantes nacionais à prova",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeElJSE9yREVaaXN3QjNXZE96QXZBYWVYb3dIR25hVTQ3S3hfaDJkSTVHOWEzSnVSY0N5Ny1oajBsM1RpNW4wMFdlUW1Zc2NObXZpR1hNb1JkN2VoR2k0NDBCNVZZNVI5alZCN3JrNl9XanEyMm4yRUhlM0FjamxSMHAyZ1NCWm1ZSlln?oc=5",
+"u": "https://betakit.com/canadas-drone-ambitions-put-domestic-manufacturers-to-the-test/",
 "f": "BetaKit",
 "s": "betakit.com",
-"i": "",
+"i": "https://cdn.betakit.com/wp-content/uploads/2026/11/AVSS-sponsored-story.webp",
 "d": "2026-11-05T15:04-03:00",
 "c": [
 "drones",
@@ -34524,7 +34608,7 @@
 "l": 0,
 "to": "Canada’s drone ambitions put domestic manufacturers to the test",
 "lg": "en",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "BetaKit",
 "mx": 0
@@ -34533,10 +34617,10 @@
 "id": "fa32ce6bfa0114",
 "t": "Um ‘robô’ que despeja latas de lixo sozinho",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zNElQQllwRi1HNjRPSGZrU0phWXVSQUpWem1yVXNBRDRyTEdNeU1ESXJ6OGJXNGluTk1kZ09yd1JwemIxWUw5RkE5dUJzQQ?oc=5",
+"u": "https://www.etnews.com/20261105000394",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "",
+"i": "https://img.etnews.com/news/article/2026/11/05/news-p.v1.20261105.244fbab3040a4e099280b3d59bf84b5d_P1.jpg",
 "d": "2026-11-05T18:00-03:00",
 "c": [
 "geral"
@@ -34544,7 +34628,7 @@
 "l": 0,
 "to": "쓰레기통을 알아서 내놓는 '로봇'",
 "lg": "ko",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "ETNews",
 "mx": 0
@@ -34553,10 +34637,10 @@
 "id": "3f30c54ec8e3d8",
 "t": "‘Robô original’ Jin-ho Park vs. ‘Robô AI’ Myeong-seon Kang… Vem de ‘Gag Con’",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WYUNKcERVZkNZaW9fRkRYYjBodnhDckwwazRDS29VYWt4bGl3WlVfZTVKNGJvbFhCWElUVlRoQmVkSHhRdHV6R2VlT2xHUQ?oc=5",
+"u": "https://www.etnews.com/20261106000148",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "",
+"i": "https://img.etnews.com/news/article/2026/11/06/cms_temp_article_06105405212444.jpg",
 "d": "2026-11-05T22:55-03:00",
 "c": [
 "geral"
@@ -34564,7 +34648,7 @@
 "l": 0,
 "to": "'원조 로봇' 박진호 vs 'AI 로봇' 강명선…'개콘'서 붙는다",
 "lg": "ko",
-"p": 2.2,
+"p": 3.2,
 "cr": 2,
 "cv": "ETNews",
 "mx": 0
@@ -34748,6 +34832,26 @@
 "rx": "A mudança de nome evita preocupações com marcas registradas e unifica a família de produtos robóticos sob a designação Realbotix Série 1, ao mesmo tempo que continua a alavancar a marca Realbotix. (TSX-V: XBOT) (Frankfurt: 76M0.F) (OTC: XBOTF) (\"Realbotix\" ou a \"Empresa\"), fabricante de robôs humanóides e sistemas de IA, anuncia que mudou a marca de sua plataforma de robô humanóide carro-chefe recentemente lançada de Echo para Realbotix Série 1. \"Realbotix Série 1 reflete o forte reconhecimento de marca que construímos para a produção de robôs humanóides realistas\", disse Andrew Kiguel, CEO da Realbotix. Os robôs Realbotix Série 1 estão disponíveis exclusivamente no site do produto Realbotix em Realbotix.com. Cada robô Realbotix Série 1 apresenta a pele sintética ultrarrealista à base de silicone proprietária da Realbotix e expressões faciais avançadas para interação empática e realista."
 },
 {
+"id": "b93ebfd1ecf861",
+"t": "Agility Robotics está tornando robôs humanóides públicos pela primeira vez em Wall Street",
+"r": "",
+"u": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "https://i.insider.com/6aebcea0c54bfafa65abf24a?width=1200&format=jpeg",
+"d": "2026-11-04T22:12-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 0
+},
+{
 "id": "c0b3c4ff3d58dd",
 "t": "Equipes de resgate de montanha recorrem a drones DJI automatizados para economizar tempo",
 "r": "Imagine ficar preso em algum lugar nas montanhas Tatra, cobertas de neve, na Polônia. A ajuda pode levar horas para chegar até você, especialmente se você estiver em um vale remoto ou em uma trilha enterrada na neve. Mas e se um drone pudesse chegar lá antes mesmo de as equipes de resgate deixarem sua base? mais…",
@@ -34904,26 +35008,6 @@
 "cv": "TechCrunch",
 "mx": 1,
 "rx": "ET, fundadores, investidores e líderes de startups estão se reunindo na SoWa Power Station em Boston para o TechCrunch Founder Summit 2026 para um dia inteiro dedicado às estratégias, insights e conexões que ajudam as startups a escalar de forma mais rápida e inteligente. Garanta seu passe e tenha acesso a um dia inteiro de conteúdo focado em startups, perspectivas de investidores, networking de fundadores, mesas redondas interativas e conversas que podem ajudar a acelerar o crescimento da sua empresa.\nCadastre-se agora para acessar sessões lideradas por especialistas, mesas redondas de fundadores, oportunidades de networking e estratégias práticas de crescimento dos construtores e investidores mais experientes do ecossistema de startups. Pegue seu passe agora, junte-se a nós na SoWa Power Station de Boston e mergulhe nas conversas e conexões focadas nos fundadores que ajudam as startups a crescer."
-},
-{
-"id": "b93ebfd1ecf861",
-"t": "Agility Robotics está tornando robôs humanóides públicos pela primeira vez em Wall Street",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "",
-"d": "2026-11-04T22:12-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 0
 },
 {
 "id": "65e77dba9848b5",
@@ -35365,6 +35449,26 @@
 "rx": "A3 anuncia publicação da ISO 21423, estabelecendo requisitos de comunicação para robôs, gerentes de frota e outros sistemas em ambientes industriais compartilhados ANN ARBOR, Michigan - 2 de novembro de 2026 - A Association for Advancing Automation (A3) anunciou hoje a publicação da ISO 21423:2026, um novo padrão internacional para comunicação e interoperabilidade entre robôs móveis industriais (IMRs), independentemente do fornecedor ou modelo. A ISO 21423 fornece um conjunto comum de requisitos de comunicação para robôs móveis de diferentes fornecedores que operam na mesma instalação industrial. A ISO 21423 representa o primeiro padrão de robô não relacionado à segurança que a A3 ajudou a produzir e destaca a liderança contínua da A3 nos esforços de padronização da robótica. A ISO 21423:2026 está disponível para compra na loja online A3 por US$ 373."
 },
 {
+"id": "dc5116d36e91c9",
+"t": "As empresas procuram “contratar o robô e despedir o humano”: Bill Gates sobre o impacto laboral hoje",
+"r": "",
+"u": "https://www.infobae.com/tecno/2026/11/02/las-empresas-buscan-contratar-al-robot-y-despedir-al-humano-bill-gates-sobre-el-impacto-laboral-hoy/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/TEXQO5AYZBHB3FELWVWPFJDY6U.JPG?auth=f1b54d9418a6bf317498ca355e366773b468dfa48017e0cf5cd7ebffc5985ccd&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-02T11:43-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Las empresas buscan “contratar al robot y despedir al humano”: Bill Gates sobre el impacto laboral hoy",
+"lg": "es",
+"p": 4.5,
+"cr": 3,
+"cv": "Infobae",
+"mx": 0
+},
+{
 "id": "b1d1b8b0266c2b",
 "t": "2 dias até o TechCrunch Founder Summit: os fundadores de Boston não precisam de um endereço no Vale do Silício para construir algo grande",
 "r": "O TechCrunch Founder Summit acontece no dia 4 de novembro em Boston para uma agenda focada nos fundadores e conexões impactantes. Economize até US$ 100 ou ganhe descontos com passes de grupo.",
@@ -35385,25 +35489,6 @@
 "cv": "TechCrunch",
 "mx": 1,
 "rx": "Daqui a dois dias, o TechCrunch Founder Summit, apresentado pela Fidelity Private Shares, reunirá fundadores, investidores e operadores na SoWa Power Station para falar sobre a construção de empresas de Boston e de outros lugares. 4 de novembro é o dia para fazer conexões significativas com foco no fundador, obter insights práticos e participar de conversas destinadas a impulsionar sua startup.\nExplore a agenda completa do Founder Summit para descobrir os tópicos de escalonamento mais importantes da atualidade em sessões de discussão e mesas redondas. É a prova de que os fundadores não precisam sair de Boston para construir uma empresa com alcance nacional e global. Em 4 de novembro, as portas do TechCrunch Founder Summit serão abertas na SoWa Power Station, reunindo a comunidade de startups de Boston para um dia de conexões significativas, insights práticos e oportunidades de crescimento."
-},
-{
-"id": "dc5116d36e91c9",
-"t": "As empresas procuram “contratar o robô e despedir o humano”: Bill Gates sobre o impacto laboral hoje",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamlqdVVBVFJ4X0IyV1lfVUFrd2xnVkJJRnBaS2d1NVRRVWdYNkprS1EtTFNGWUR2d1ZEVWpVaDZaZGVETUtQendhNUtZUVBfTk14OERzSy01dExZRkR2LXNBTXBFU2ZBdm5vd2JYQmpVMkdNYTBBdXJqMmQ1OTR0QWxyWWFEU3hQNk9nZXJYQm9wVE9sZExiZXl4QzlZYTh0Nkx2eXhMZWxSTmhtaWtWeTZxaUhaYjJQd0xyN1JZODVmc0dmVFNEX29TajdOcGpVWkFkSWNocHDSAfMBQVVfeXFMTlZudDY5LUxEWE45Q2VYeGNwZFBsQVB6R0xacW1yYzA2bXFXVTFsTlYwVGNydXRtVVcyU1l1X0p3NXVub0c1ZUMzYVN6ZTRDV3Ita1o1Y0JGNkRzTnlLal9NSkpzX1BaUWFFS244VWtMcXFzVG1ycTE2MkJjUFhRQkxjX0ZaTl9FeDNqSExVRHpYQ3E1bmZCblU4MGt2RzBCazZ5UmladW1NZ24wQ1RyOFVQdWpadUJCb3hPTEpyTXp4bkJEcDVhWUw2RnA5dnRRYXhmcDk5eW9IY25yUkZ4WDJwemVnNVFlWUdmRGl4YXk3aGFB?oc=5",
-"f": "Infobae",
-"s": "infobae.com",
-"i": "",
-"d": "2026-11-02T11:43-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Las empresas buscan “contratar al robot y despedir al humano”: Bill Gates sobre el impacto laboral hoy",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "Infobae"
 }
 ],
 "2026-11-01": [
