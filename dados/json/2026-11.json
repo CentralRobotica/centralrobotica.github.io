@@ -1085,13 +1085,34 @@
 "rx": "A DHL Supply Chain está a testar robôs adaptativos alimentados por IA e a introduzir a orquestração de IA em operações de armazém em tempo real como parte de uma estratégia mais ampla para coordenar a robótica, a inteligência artificial e os trabalhadores humanos em toda a sua rede logística global. Tim Tetzlaff, chefe global de transformação digital da DHL Supply Chain, afirma: “Nossa prioridade imediata é continuar a expandir nossa robótica comprovada em mais locais, ao mesmo tempo em que transferimos a próxima geração de robótica adaptativa alimentada por IA de pilotos para operações ao vivo”.\nA DHL está a posicionar a combinação de robótica adaptativa, orquestração de IA e conhecimento humano como a próxima etapa da automação de armazéns, com o objetivo de melhorar a produtividade sem exigir que cada tarefa ou decisão seja totalmente automatizada."
 },
 {
+"id": "2d5243a55123f5",
+"t": "Omron automatiza experiências de descoberta de medicamentos com robô de braço duplo e três dedos + α",
+"r": "A OMRON está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos que pode agarrar microplacas transparentes e finas. A Omron está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos (semi-humanóide) com o objetivo de automatizar experimentos no campo de…",
+"u": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC1217S0S6A111C2000000",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3866305012112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c4388bafcffbf85c84e8d3b245ba2dbf",
+"d": "2026-11-15T17:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "オムロン、創薬実験を自動化へ 双腕3指ロボット＋αで",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "A OMRON está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos que pode agarrar microplacas transparentes e finas. A Omron está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos (semi-humanóide) com o objetivo de automatizar experimentos no campo de descoberta de medicamentos. Ele é projetado principalmente para uso em ambientes experimentais para busca de moléculas alvo, e sua principal característica é que não requer nenhum gabarito especial. O objetivo é criar um robô de IA (inteligência artificial) que possa coexistir com humanos e que possa ser facilmente introduzido mesmo em pequenos laboratórios com muitas mudanças ambientais. Três pontos deste artigo - Apareceu um robô de braços duplos e três dedos na parte superior do corpo, agarrando objetos transparentes sem a necessidade de gabaritos de posicionamento - As funções são divididas para cada tarefa, e robôs manuais móveis com rodas esféricas também são bons em portas deslizantes - Reconhecimento, planejamento e controle são \"lentos\" nos comandos superiores e inferiores, com cada camada intervindo em paralelo e de forma assíncrona"
+},
+{
 "id": "be7bc9c2bb2cb3",
 "t": "Índia+drone+startups",
 "r": "Veja notícias e artigos com a tag \"indian+drone+startups\" sobre manufatura.",
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/indian+drone+startups",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-15T00:22-03:00",
 "c": [
 "drones",
@@ -1103,7 +1124,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 1,
+"mx": 9,
 "rx": "Veja notícias e artigos com a tag \"indian+drone+startups\" sobre manufatura."
 },
 {
@@ -1328,7 +1349,7 @@
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/china+india+drone+relations",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-15T07:19-03:00",
 "c": [
 "drones"
@@ -1339,7 +1360,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 1,
+"mx": 9,
 "rx": "Veja notícias e artigos com a tag \"china+india+drone+relations\" sobre manufatura."
 },
 {
@@ -1523,7 +1544,8 @@
 "d": "2026-11-15T14:35-03:00",
 "c": [
 "industriais",
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Estonia shuts Russian border after foiling attack on drone factory",
@@ -1575,27 +1597,6 @@
 "cv": "La Repubblica",
 "mx": 1,
 "rx": "E uma capacidade extraordinária de se espremer onde, pelo menos a julgar pelo tamanho, não deveria haver espaço. Com uma surpresa: o polvo muda de técnica dependendo do tamanho da passagem. Os cientistas observaram e filmaram três jovens exemplares de polvo comum (Octopus vulgaris) lutando contra aberturas de diferentes tamanhos, reconstruindo passo a passo as manobras necessárias para atravessá-las.\nO polvo utiliza uma estratégia de quatro passos: depois de ter explorado a abertura e avançado alguns braços, introduz também os que ficaram para trás, antes de comprimir e passar a cabeça e o manto. Os novos experimentos sugerem, em vez disso, que o limite pode depender do tamanho dos braços mais próximos do corpo."
-},
-{
-"id": "2d5243a55123f5",
-"t": "Omron automatiza experiências de descoberta de medicamentos com robô de braço duplo e três dedos + α",
-"r": "A OMRON está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos que pode agarrar microplacas transparentes e finas. A Omron está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos (semi-humanóide) com o objetivo de automatizar experimentos no campo de…",
-"u": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC1217S0S6A111C2000000",
-"f": "日本経済新聞",
-"s": "nikkei.com",
-"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3866305012112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c4388bafcffbf85c84e8d3b245ba2dbf",
-"d": "2026-11-15T17:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "オムロン、創薬実験を自動化へ 双腕3指ロボット＋αで",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 1,
-"rx": "A OMRON está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos que pode agarrar microplacas transparentes e finas. A Omron está desenvolvendo um robô para a parte superior do corpo com dois braços e três dedos (semi-humanóide) com o objetivo de automatizar experimentos no campo de descoberta de medicamentos. Ele é projetado principalmente para uso em ambientes experimentais para busca de moléculas alvo, e sua principal característica é que não requer nenhum gabarito especial. O objetivo é criar um robô de IA (inteligência artificial) que possa coexistir com humanos e que possa ser facilmente introduzido mesmo em pequenos laboratórios com muitas mudanças ambientais. Três pontos deste artigo - Apareceu um robô de braços duplos e três dedos na parte superior do corpo, agarrando objetos transparentes sem a necessidade de gabaritos de posicionamento - As funções são divididas para cada tarefa, e robôs manuais móveis com rodas esféricas também são bons em portas deslizantes - Reconhecimento, planejamento e controle são \"lentos\" nos comandos superiores e inferiores, com cada camada intervindo em paralelo e de forma assíncrona"
 },
 {
 "id": "df54291af09bac",
@@ -1662,6 +1663,27 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "GR RL é um modelo básico de robô desenvolvido pela ByteDance Seed, a equipe de pesquisa de IA da ByteDance, empresa controladora da TikTok. O seu desenvolvimento centra-se num problema de formação: demonstrações recolhidas de pessoas podem conter ruído, execução inconsistente e exemplos imperfeitos. Em vez de tratar a imitação como todo o processo de aprendizagem, o projeto combina o treinamento de demonstração com o aprendizado de reforço por meio da prática subsequente do robô. A sequência de treinamento relatada tem três etapas: filtrar demonstrações ruins, espelhar exemplos retidos para expandir os dados de treinamento e introduzir práticas orientadas por resultados.\nDe forma mais ampla, o projecto reflecte a atenção à qualidade da formação no âmbito da investigação robótica, particularmente a relação entre demonstrações humanas e aprendizagem através da prática."
+},
+{
+"id": "86d936ebf9767f",
+"t": "Zverev vence Jodar em dois sets em sua estreia no ATP Finals: primeira vitória como número 1 do mundo. Em seguida, elogia Sinner: «Ele é um robô, não um ser humano»",
+"r": "",
+"u": "https://www.corriere.it/sport/tennis/26_novembre_15/zverev-jodar-risultato-atp-finals-2026-torino-e39f936e-c025-4f4a-b764-f31ec86e5xlk.shtml",
+"f": "Corriere della Sera",
+"s": "corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/15/6af9c5c038c0b.jpeg",
+"d": "2026-11-15T16:37-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Zverev batte Jodar in due set all'esordio nelle Atp Finals: prima vittoria da numero 1 del mondo. Poi elogia Sinner: «È un robot, non un essere umano»",
+"lg": "it",
+"p": 4.5,
+"cr": 3,
+"cv": "Corriere della Sera",
+"cur": 1,
+"mx": 0
 },
 {
 "id": "93924dd20f9b7e",
@@ -1976,7 +1998,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "baba88e58eb717",
@@ -5664,7 +5686,8 @@
 "d": "2026-11-13T05:00-03:00",
 "c": [
 "drones",
-"defesa"
+"defesa",
+"microrrobos"
 ],
 "l": 0,
 "to": "Paras Defence to supply counter-drone systems to France's CERBAIR",
@@ -6442,6 +6465,26 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "XPENG VLA 2.0 é um modelo de base de software proprietário desenvolvido pela XPENG, fabricante chinesa de veículos elétricos. Apresentado no AI Day da empresa em Guangzhou, em 5 de novembro de 2025, faz parte do investimento mais amplo da XPENG em inteligência artificial para sistemas físicos. O modelo pertence a uma pilha de software, em vez de ser um robô independente ou uma peça de hardware mecânico. Seu desenvolvimento baseia-se em quase 100 milhões de clipes de vídeo de condução real, dando ao projeto uma base substancial de treinamento automotivo. A empresa descreve o VLA 2.0 como o seu primeiro grande modelo construído para produção em massa, colocando a implantação industrial no centro do seu posicionamento. Essa classificação apoia uma avaliação ponderada: este é um modelo básico em evolução associado a um fabricante de veículos estabelecido, e não uma evidência de inteligência robótica abrangente ou desempenho universalmente comprovado."
+},
+{
+"id": "326dd74f1b2b34",
+"t": "“Sonhei com um reino robótico” Japão decola",
+"r": "",
+"u": "https://magazine.hankyung.com/business/article/202611135397b",
+"f": "한경매거진",
+"s": "magazine.hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/AD.46414293.1.jpg",
+"d": "2026-11-13T03:22-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“로봇 왕국 꿈꿨는데” 일본 비상",
+"lg": "ko",
+"p": 4.5,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 0
 },
 {
 "id": "3e4b871fd4bd0e",
@@ -8385,7 +8428,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -14122,7 +14165,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -16230,7 +16273,7 @@
 "u": "https://manufacturing.economictimes.indiatimes.com/tag/drone+flights+in+india",
 "f": "ET Manufacturing",
 "s": "manufacturing.economictimes.indiatimes.com",
-"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"i": "",
 "d": "2026-11-11T14:01-03:00",
 "c": [
 "drones"
@@ -16241,7 +16284,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 1,
+"mx": 9,
 "rx": "Veja notícias e artigos com a tag \"drone+flights+in+india\" sobre fabricação."
 },
 {
@@ -19829,6 +19872,35 @@
 "rx": "A colaboração expandida visa tornar mais fácil para os clientes conectarem diversos sensores, transformar dados em insights em tempo real e acelerar o desenvolvimento de soluções inteligentes nas áreas de saúde, aeroespacial e defesa, e robótica. A Intel Corporation e a Altera, o maior fornecedor de FPGA puro com um portfólio de espectro completo, anunciaram hoje uma colaboração para desenvolver uma solução de referência de ponte de sensor flexível e em tempo real para uma variedade de indústrias de IA física e de borda, incluindo aplicações de saúde, aeroespacial e defesa, e robótica. Ao combinar computação, conectividade e software Intel com FPGAs Altera, as empresas pretendem ajudar os fabricantes de equipamentos originais (OEMs) a lidar com a crescente complexidade de conexão, processamento e atuação em dados do mundo real em ambientes de borda cada vez mais ricos em sensores."
 },
 {
+"id": "6a484bc854c534",
+"t": "Governo para promover indústrias de sensores, atuadores e baterias humanóides",
+"r": "A Coreia do Sul adicionará as indústrias de sensores, atuadores e baterias humanóides aos seus 15 principais projetos existentes que visam construir uma “economia ultra-inovadora”, disse o Ministério das Finanças na quarta-feira. O Ministro das Finanças, Lee Hyoung-il, anunciou o plano durante uma reunião com…",
+"u": "https://www.koreaherald.com/article/10933026",
+"f": "The Korea Herald",
+"s": "koreaherald.com",
+"i": "https://wimg.heraldcorp.com/news/cms/2026/11/11/news-p.v1.20261111.01142e3e87224ba0b3e6421108c6ebed_P1.jpg",
+"d": "2026-11-10T21:10-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Govt. to foster sensor, actuator, humanoid battery industries",
+"lg": "en",
+"p": 7.1,
+"cr": 3,
+"cv": "The Korea Herald",
+"mx": 1,
+"rx": "A Coreia do Sul adicionará as indústrias de sensores, atuadores e baterias humanóides aos seus 15 principais projetos existentes que visam construir uma “economia ultra-inovadora”, disse o Ministério das Finanças na quarta-feira. O Ministro das Finanças, Lee Hyoung-il, anunciou o plano durante uma reunião com ministros relacionados com a economia, em meio à necessidade crescente de identificar novos projetos em resposta às mudanças industriais e tecnológicas globais, de acordo com o Ministério das Finanças e Economia.\nNo ano passado, o governo lançou a Iniciativa para uma Economia Ultrainovadora, ao abrigo da qual oferece um pacote abrangente de apoio financeiro e fiscal, juntamente com apoios regulamentares, para promover o teste e a comercialização de novos motores de crescimento. A mais recente adição das três indústrias reflete a necessidade crescente de responder ao surgimento da inteligência artificial física, afirmou o Ministério das Finanças.",
+"o": [
+{
+"f": "Yonhap News Agency",
+"u": "https://en.yna.co.kr/view/AEN20261111001600320",
+"s": "en.yna.co.kr",
+"id": "8bb9e76a812b84"
+}
+]
+},
+{
 "id": "e5020b63d3ead7",
 "t": "MIPS dos EUA revela plataforma física de semicondutores de IA para controle de articulações humanóides",
 "r": "MIPS, uma empresa americana de tecnologia de semicondutores, revelou tecnologia aprimorada para 'Actus', uma plataforma física de semicondutores de IA que pode controlar com precisão as articulações de humanóides e robôs industriais. A MIPS, afiliada da Global Foundry (GF), anunciou no dia 9 que anunciou a plataforma de referência Actus, que integra o controle do motor do robô, comunicação em tempo real e funções de inferência de IA de ponta. Esta plataforma é como a unidade motriz conjunta que se estende do cotovelo aos dedos de um robô humanóide, controlando espaço, peso, potência. É voltada para ambientes onde a geração de calor é limitada. Actus foi projetado com base na arquitetura RISC-V, um conjunto de instruções aberto e MIP",
@@ -21052,27 +21124,6 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "As principais empresas europeias de semicondutores estão a visar a IA física como o motor de crescimento da próxima geração e a visar o mercado global de robôs e de inteligência artificial industrial. Reuters"
-},
-{
-"id": "6a484bc854c534",
-"t": "Governo para promover indústrias de sensores, atuadores e baterias humanóides",
-"r": "A Coreia do Sul adicionará as indústrias de sensores, atuadores e baterias humanóides aos seus 15 principais projetos existentes que visam construir uma “economia ultra-inovadora”, disse o Ministério das Finanças na quarta-feira. O Ministro das Finanças, Lee Hyoung-il, anunciou o plano durante uma reunião com…",
-"u": "https://www.koreaherald.com/article/10933026",
-"f": "The Korea Herald",
-"s": "koreaherald.com",
-"i": "https://wimg.heraldcorp.com/news/cms/2026/11/11/news-p.v1.20261111.01142e3e87224ba0b3e6421108c6ebed_P1.jpg",
-"d": "2026-11-10T21:10-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Govt. to foster sensor, actuator, humanoid battery industries",
-"lg": "en",
-"p": 5.6,
-"cr": 3,
-"cv": "The Korea Herald",
-"mx": 1,
-"rx": "A Coreia do Sul adicionará as indústrias de sensores, atuadores e baterias humanóides aos seus 15 principais projetos existentes que visam construir uma “economia ultra-inovadora”, disse o Ministério das Finanças na quarta-feira. O Ministro das Finanças, Lee Hyoung-il, anunciou o plano durante uma reunião com ministros relacionados com a economia, em meio à necessidade crescente de identificar novos projetos em resposta às mudanças industriais e tecnológicas globais, de acordo com o Ministério das Finanças e Economia.\nNo ano passado, o governo lançou a Iniciativa para uma Economia Ultrainovadora, ao abrigo da qual oferece um pacote abrangente de apoio financeiro e fiscal, juntamente com apoios regulamentares, para promover o teste e a comercialização de novos motores de crescimento. A mais recente adição das três indústrias reflete a necessidade crescente de responder ao surgimento da inteligência artificial física, afirmou o Ministério das Finanças."
 },
 {
 "id": "97a9be94e61c8f",
@@ -27039,6 +27090,26 @@
 "rx": "A CES, a maior feira de tecnologia do mundo, acontece todo mês de janeiro em Las Vegas, EUA, e atrai as mais recentes tecnologias e produtos de todo o mundo em diversos campos, incluindo IA, eletrodomésticos, PCs, automóveis, semicondutores e componentes eletrônicos. Em 2026, exposições como robôs humanóides e a IA física e a IA do agente que são essenciais para eles atraíram a atenção. Apresentaremos os robôs humanóides que fizeram sucesso no local, bem como as tecnologias das principais startups de todo o mundo."
 },
 {
+"id": "8419cdfcc365b5",
+"t": "Pilatus usa humanóide para montagem de aeronaves",
+"r": "",
+"u": "https://www.assemblymag.com/articles/100575-pilatus-uses-humanoid-for-aircraft-assembly",
+"f": "Assembly Magazine",
+"s": "assemblymag.com",
+"i": "https://www.assemblymag.com/ext/resources/images/Pilatushumanoid.jpg?height=635&t=1794232740&width=1200",
+"d": "2026-11-09T11:08-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Pilatus Uses Humanoid for Aircraft Assembly",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "Assembly Magazine",
+"mx": 0
+},
+{
 "id": "112b9bc3c5708f",
 "t": "Óscar Ares, traumatologista, sobre assistência robótica em operações de joelho: “O robô ajuda-nos a adaptar a prótese à anatomia de cada paciente”",
 "r": "Para o Dr. Óscar Ares, traumatologista especializado no joelho, a decisão surge quando há danos articulares que justifiquem a intervenção e os tratamentos não cirúrgicos adequados não oferecem alívio suficiente. A assistência robótica, além de facilitar esse ajuste, pode ser especialmente útil em joelhos complexos e…",
@@ -29940,7 +30011,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -29969,7 +30040,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -30867,6 +30938,35 @@
 "rx": "À medida que aumenta a entrada de robôs humanóides chineses no mercado interno, a procura de compra expande-se não só para universidades e institutos de investigação, mas também para escolas secundárias especializadas e empresas em geral. À medida que os fins de utilização, tais como investigação e desenvolvimento (I&D), educação, exposição e promoção, se diversificam, garantir mão-de-obra de reparação doméstica e sistema de suporte técnico de software (SW) surgiu como uma tarefa. ▶ O conteúdo do vídeo foi produzido usando o ‘One Studio’ da Douzone Bizon."
 },
 {
+"id": "cc8d8ef521fd16",
+"t": "Antes que os robôs assumam os empregos, eles primeiro assumem o controle do seu parceiro.",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4062169952851589",
+"f": "36氪",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-08T18:46-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "机器人抢饭碗之前，先来和你抢对象了",
+"lg": "zh",
+"p": 4.0,
+"cr": 2,
+"cv": "36Kr",
+"mx": 3,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"o": [
+{
+"f": "36Kr",
+"u": "https://www.36kr.com/p/4062169952851589",
+"s": "36kr.com",
+"id": "a359ae3fe958f7"
+}
+]
+},
+{
 "id": "9e67c7766138a2",
 "t": "Chegada de robôs deve dar um impulso aos produtores de aspargos chineses",
 "r": "",
@@ -31602,27 +31702,6 @@
 ],
 "l": 0,
 "to": "上纬新材：消费级具身智能机器人业务收入占总营收比例较低-36氪",
-"lg": "zh",
-"p": 2.5,
-"cr": 2,
-"cv": "36Kr",
-"mx": 3,
-"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
-},
-{
-"id": "cc8d8ef521fd16",
-"t": "Antes que os robôs assumam os empregos, eles primeiro assumem o controle do seu parceiro.",
-"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
-"u": "https://m.36kr.com/p/4062169952851589",
-"f": "36氪",
-"s": "m.36kr.com",
-"i": "",
-"d": "2026-11-08T18:46-03:00",
-"c": [
-"medicina"
-],
-"l": 0,
-"to": "机器人抢饭碗之前，先来和你抢对象了",
 "lg": "zh",
 "p": 2.5,
 "cr": 2,
