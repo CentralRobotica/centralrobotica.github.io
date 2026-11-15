@@ -71,6 +71,59 @@
 "rx": "A GITEX Global 2026 apresentará uma exposição dedicada à robótica, GITEX World RobotiX, reunindo fabricantes de robôs humanóides, desenvolvedores de IA incorporados e empresas de automação industrial em Dubai, de 8 a 11 de dezembro. Acontecendo no Centro de Exposições de Dubai, na Expo City Dubai, o evento contará com demonstrações de robôs humanóides, sistemas móveis autônomos, quadrúpedes, exoesqueletos vestíveis e tecnologias de desenvolvimento robótico.\nDe acordo com a Counterpoint Research, as remessas globais de robôs humanóides ultrapassaram 22.000 unidades no primeiro semestre de 2026, representando um aumento de 300% ano após ano. GITEX World RobotiX faz parte do 46º GITEX Global, que começa com uma cúpula no Dubai World Trade Centre em 7 de dezembro, antes da abertura da exposição principal no dia seguinte."
 },
 {
+"id": "c2284d261aa328",
+"t": "Proibição de propriedade de drones entra em vigor em Pequim por questões de segurança",
+"r": "A proibição aplica-se tanto a áreas urbanizadas como rurais no município de cerca de 16.400 quilómetros quadrados – uma área aproximadamente metade do tamanho da Bélgica.",
+"u": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/",
+"f": "The Japan Times",
+"s": "japantimes.co.jp",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574108.JPG?v=3.1",
+"d": "2026-11-15T03:50-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone ownership ban comes into force in Beijing over security concerns",
+"lg": "en",
+"p": 12.3,
+"o": [
+{
+"f": "The Straits Times",
+"u": "https://www.straitstimes.com/asia/east-asia/drone-ownership-ban-comes-into-force-in-beijing-over-security-concerns",
+"s": "straitstimes.com",
+"id": "ea2ba0c70828b3"
+},
+{
+"f": "CNA",
+"u": "https://www.channelnewsasia.com/east-asia/drone-ownership-ban-comes-force-in-beijing-over-security-concerns-6552761",
+"s": "channelnewsasia.com",
+"id": "b8aa65cd20019a"
+},
+{
+"f": "Ahram Online",
+"u": "https://english.ahram.org.eg/NewsContent/2/9/582509/World/International/Drone-ownership-ban-comes-into-force-in-Beijing-ov.aspx",
+"s": "english.ahram.org.eg",
+"id": "2db47f7964e295"
+},
+{
+"f": "Taipei Times",
+"u": "https://www.taipeitimes.com/News/world/archives/2026/11/16/2003867831",
+"s": "taipeitimes.com",
+"id": "c016d818dfe70b"
+},
+{
+"f": "The Hindu",
+"u": "https://www.thehindu.com/news/international/drone-ownership-ban-comes-into-force-in-beijing-over-security-concerns/article71705669.ece",
+"s": "thehindu.com",
+"id": "bf5212e6beae6e"
+}
+],
+"cr": 3,
+"cv": "The Japan Times",
+"mx": -8,
+"rx": "A proibição aplica-se tanto a áreas urbanizadas como rurais no município de cerca de 16.400 quilómetros quadrados – uma área aproximadamente metade do tamanho da Bélgica."
+},
+{
 "id": "f3fd378106703d",
 "t": "River AI da China revela ‘River-0’, um modelo de ação mundial que atua com base na experiência humana",
 "r": "O Robot Report informou no dia 4 (hora local) que o LiberAI da China revelou o 'Liber-0', um Modelo de Ação Mundial (WAM) que pré-aprendeu mais de 2,2 milhões de horas de experiência humana. A startup com sede em Pequim disse que o modelo combina gravações de vídeo de movimentos humanos, movimentos gravados com luvas e aprendizagem condicionada pela incorporação. Foi revelado que a experiência operacional humana é transferida para robôs. O principal teste para verificar a capacidade de generalização do River-0 é realizar tarefas específicas.",
@@ -161,53 +214,6 @@
 "rx": "Wing lançou seu serviço de entrega de drones na área metropolitana de Memphis em parceria com o Walmart, estendendo sua rede de entrega autônoma ao Tennessee pela primeira vez. O serviço está disponível para dezenas de milhares de residências em partes do Tennessee e Arkansas, permitindo que clientes qualificados encomendem mantimentos, produtos domésticos e outros itens essenciais do dia a dia para entrega por drone.\nO lançamento de Memphis faz parte de uma expansão mais ampla da parceria da Wing com o Walmart, que já opera serviços de entrega de drones em Dallas-Fort Worth, Atlanta, Houston, Charlotte e Orlando. As empresas pretendem tornar a entrega de drones acessível a aproximadamente 40 milhões de residentes nos EUA até 2027. O lançamento de Memphis representa mais um passo no sentido de estabelecer a entrega de drones como parte regular das operações logísticas de última milha do Walmart."
 },
 {
-"id": "c2284d261aa328",
-"t": "Proibição de propriedade de drones entra em vigor em Pequim por questões de segurança",
-"r": "A proibição aplica-se tanto a áreas urbanizadas como rurais no município de cerca de 16.400 quilómetros quadrados – uma área aproximadamente metade do tamanho da Bélgica.",
-"u": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/",
-"f": "The Japan Times",
-"s": "japantimes.co.jp",
-"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574108.JPG?v=3.1",
-"d": "2026-11-15T03:50-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Drone ownership ban comes into force in Beijing over security concerns",
-"lg": "en",
-"p": 10.8,
-"o": [
-{
-"f": "The Straits Times",
-"u": "https://www.straitstimes.com/asia/east-asia/drone-ownership-ban-comes-into-force-in-beijing-over-security-concerns",
-"s": "straitstimes.com",
-"id": "ea2ba0c70828b3"
-},
-{
-"f": "CNA",
-"u": "https://www.channelnewsasia.com/east-asia/drone-ownership-ban-comes-force-in-beijing-over-security-concerns-6552761",
-"s": "channelnewsasia.com",
-"id": "b8aa65cd20019a"
-},
-{
-"f": "Ahram Online",
-"u": "https://english.ahram.org.eg/NewsContent/2/9/582509/World/International/Drone-ownership-ban-comes-into-force-in-Beijing-ov.aspx",
-"s": "english.ahram.org.eg",
-"id": "2db47f7964e295"
-},
-{
-"f": "Taipei Times",
-"u": "https://www.taipeitimes.com/News/world/archives/2026/11/16/2003867831",
-"s": "taipeitimes.com",
-"id": "c016d818dfe70b"
-}
-],
-"cr": 3,
-"cv": "The Japan Times",
-"mx": -8,
-"rx": "A proibição aplica-se tanto a áreas urbanizadas como rurais no município de cerca de 16.400 quilómetros quadrados – uma área aproximadamente metade do tamanho da Bélgica."
-},
-{
 "id": "05c7e37142071a",
 "t": "Drones, inteligência e um balde de frango: Austrália e Filipinas assinam novo pacto de defesa",
 "r": "Manila, Filipinas: A Austrália aumentará o seu investimento em drones e outras medidas de defesa num pacto com as Filipinas para proteger importantes rotas comerciais e aumentar a vigilância marítima à medida que Pequim alarga o seu alcance sobre o Mar da China Meridional. O novo pacto foi assinado quando o…",
@@ -288,7 +294,7 @@
 },
 {
 "f": "NBC News",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1Bial83MHdGSDVfRDI4a3lValZwOTVMNVVEVXEyUGJxSDhtODNLc2hDOVBYcE0wQnVGbHEzaDhmWnV1SkdMTTktVlk5LTZnN0FGbllFOU5STDhHVDNtZ2hRSXZsU3RudHlSbURKSTBIVlBOYlFiYzRTWXhwRzItYWlrckNLLWZnOWZqemNNSm5RRVRMQkw0UUdGbkd0Y3Rvb05mQ00yWXg2elk?oc=5",
+"u": "https://www.nbcnews.com/world/europe/three-ships-struck-drones-black-sea-romanian-shipping-canal-rcna609077",
 "s": "nbcnews.com",
 "id": "e5df074f4965be"
 }
@@ -528,6 +534,34 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "Espera-se que a Tesla atinja primeiro a indústria manufatureira como o mercado inicial de comercialização do robô humanóide 'Optimus' que está sendo desenvolvido. Mídia de tecnologia no exterior, Engenharia Interessante, reportada no dia 14"
+},
+{
+"id": "9a71d07e4b8649",
+"t": "EUA tentam transformar esforços anti-drones de 'piada' em realidade",
+"r": "",
+"u": "https://www.bloomberg.com/news/features/2026-11-15/us-military-tests-new-counter-drone-weapons-in-race-to-catch-up",
+"f": "Bloomberg.com",
+"s": "bloomberg.com",
+"i": "https://img.etimg.com/thumb/msid-135857160,width-1200,height-900,imgsize-152496,overlay-etdefence/articleshow.jpg",
+"d": "2026-11-15T10:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "US Tries to Move Counter-Drone Efforts From 'Joke' to Reality",
+"lg": "en",
+"p": 6.0,
+"cr": 3,
+"cv": "Bloomberg",
+"mx": 2,
+"o": [
+{
+"f": "The Economic Times",
+"u": "https://economictimes.indiatimes.com/news/defence/us-tries-to-move-counter-drone-efforts-from-joke-to-reality/articleshow/135856830.cms",
+"s": "economictimes.indiatimes.com",
+"id": "39596916768b97"
+}
+]
 },
 {
 "id": "1e5891de0b678c",
@@ -904,7 +938,8 @@
 "d": "2026-11-15T12:56-03:00",
 "c": [
 "drones",
-"defesa"
+"defesa",
+"microrrobos"
 ],
 "l": 0,
 "to": "미 육군, 독일서 드론 군집·무인지상차량 통합 운용 시험",
@@ -1142,7 +1177,8 @@
 "i": "https://biz.chosun.com/resizer/v2/U4YAZI2ZOFHH7FUTEA3TOOYYBQ.jpg?auth=5c65528df95e39b197e021bd79f941dde01344eb2a6f6ce51751b02f3435e259&width=1200&height=630&smart=true",
 "d": "2026-11-15T06:57-03:00",
 "c": [
-"ia"
+"ia",
+"negocios"
 ],
 "l": 0,
 "to": "0.0005N 힘 감지하는 로봇 피부, 20개 넘는 자유도 갖춘 로봇손… ‘스위스 로보틱스 데이’에 등장한 피지컬 AI 기술",
@@ -1332,7 +1368,8 @@
 "d": "2026-11-15T12:01-03:00",
 "c": [
 "industriais",
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Estonia foils Russian ‘sabotage’ at drone factory",
@@ -1375,7 +1412,7 @@
 "i": "",
 "d": "2026-11-15T09:17-03:00",
 "c": [
-"ia"
+"geral"
 ],
 "l": 0,
 "to": "Welcome, GR-Dexter!",
@@ -1384,8 +1421,51 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "Desenvolvido pela ByteDance Seed, a equipe de pesquisa de IA da ByteDance, este modelo básico de robô se concentra em software para mãos robóticas hábeis. Introduzido em dezembro de 2025, pertence a uma direção de pesquisa que traz métodos gerais de IA para o controle robótico, em vez de tratar cada tarefa como um projeto de programação separado. Sua designação de modelo básico o identifica como um componente de software, não um robô humanóide completo ou uma mão robótica autônoma. O projeto tem origem na China e faz parte do portfólio mais amplo de pesquisa em robótica da ByteDance Seed. Seu treinamento combina demonstrações de robôs controlados remotamente, dados coletados de outros robôs e vídeos de pessoas usando as mãos.\nAvaliar um modelo básico para robótica hábil requer separar a composição de seu material de treinamento das evidências sobre seu comportamento."
+},
+{
+"id": "4c97e5f41adf97",
+"t": "Welcome, GR RL!",
+"r": "GR RL is a robot foundation model developed by ByteDance Seed, the AI research team within ByteDance, the parent company of TikTok. Introduced in December 2025, it builds on GR 3, the team’s general vision language action model. Its development centers on a training problem: demonstrations collected from people can…",
+"u": "https://humanoid.guide/welcome-gr-rl/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "",
+"d": "2026-11-15T14:47-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Welcome, GR RL!",
+"lg": "?",
+"nt": 1,
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 0
+},
+{
+"id": "1e41e53d0c4d86",
+"t": "Why Skydio Built a Lopsided Drone",
+"r": "",
+"u": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/image.jpg?id=68671751&width=1200&height=600&coordinates=0%2C357%2C0%2C358",
+"d": "2026-11-15T11:02-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Why Skydio Built a Lopsided Drone",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "IEEE Spectrum",
+"mx": 0
 },
 {
 "id": "93924dd20f9b7e",
@@ -1449,6 +1529,28 @@
 "cv": "ETNews",
 "mx": 2,
 "rx": "Estão em andamento experiências para usar máquinas para substituir o trabalho de produção e distribuição que antes era feito por mãos humanas. O objetivo é processar vários itens em uma instalação e lidar com o volume que chega durante a época de colheita, dia e noite. O Centro de Demonstração de Distribuição de Produtos Agrícolas do Korea Robot Convergence Research Institute em Andong, Gyeongsangbuk-do, visitado no dia 13, é o local do projeto 'Estabelecimento de um centro de produção de atendimento de produtos agrícolas frescos e desenvolvimento de tecnologias essenciais' promovido pelo Ministério da Agricultura, Alimentação e Assuntos Rurais a partir de 2022. Yang Kyeon-mo, chefe da Equipe de Pesquisa de IA Agrícola e Alimentar do Korea Robot Convergence Research Institute, explicou: “Como um típico O Centro de Distribuição de Produção (APC) lida principalmente com um item, a instalação que custa de 1 a 2 bilhões de won pode ficar ociosa após a época de colheita. Nós a desenvolvemos para que possa processar diversos produtos agrícolas usando classificadores e robôs em comum. O Centro de Verificação Andong lida com quatro itens, incluindo maçãs, peras, pêssegos e melões.\nOs pesquisadores também estão demonstrando a operação não tripulada 24 horas por dia da linha de classificação de maçãs. Este cenário opera 20 horas por dia e utiliza as 4 horas restantes para manutenção, o que pode aumentar significativamente o tempo de operação em comparação com as 4 a 8 horas por dia do APC existente."
+},
+{
+"id": "823951e23a1a8f",
+"t": "School IB economics: Uber picks up pace in robotaxi race",
+"r": "",
+"u": "https://www.ft.com/content/160ba47a-ec61-4750-91b5-4db81056a2a6",
+"f": "Financial Times",
+"s": "ft.com",
+"i": "",
+"d": "2026-11-15T02:44-03:00",
+"c": [
+"autonomos",
+"educacao"
+],
+"l": 0,
+"to": "School IB economics: Uber picks up pace in robotaxi race",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Financial Times",
+"mx": 1
 },
 {
 "id": "e4ea995c61a4cc",
@@ -1577,26 +1679,6 @@
 "rx": "Então aqui está no nosso laboratório, este Narwal Flow lançado há alguns meses e que podemos encontrar hoje por 899€. Equipado com um poder de sucção de 22.000 Pa, este robô limpador de pisos também conta com seu esfregão atípico para apagar os vestígios mais complicados."
 },
 {
-"id": "9a71d07e4b8649",
-"t": "EUA tentam transformar esforços anti-drones de 'piada' em realidade",
-"r": "",
-"u": "https://www.bloomberg.com/news/features/2026-11-15/us-military-tests-new-counter-drone-weapons-in-race-to-catch-up",
-"f": "Bloomberg.com",
-"s": "bloomberg.com",
-"i": "",
-"d": "2026-11-15T10:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "US Tries to Move Counter-Drone Efforts From 'Joke' to Reality",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Bloomberg",
-"mx": 2
-},
-{
 "id": "5ebac17ba4c967",
 "t": "“Nossa solução pode ser carregada diretamente em um drone”: a start-up Mirega simplifica a análise de gases de efeito estufa",
 "r": "",
@@ -1615,7 +1697,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 1
+"mx": 2
 },
 {
 "id": "e7beee05a8ea17",
@@ -6472,6 +6554,27 @@
 "rx": "O CoMind da Astribot permite que dois robôs negociem visualizações compactas e relevantes para tarefas em vez de vídeo bruto. Ele diz que o sucesso em uma tarefa de caneta particionada aumentou de 0% para 100% com cerca de 80% menos tráfego."
 },
 {
+"id": "195325c1950e82",
+"t": "“로봇 개 산책시켜 주실 분 구함”…美서 등장한 ‘시급 20달러’ 직업",
+"r": "",
+"u": "https://www.donga.com/news/amp/all/20261113/135021410/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "",
+"d": "2026-11-13T04:13-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“로봇 개 산책시켜 주실 분 구함”…美서 등장한 ‘시급 20달러’ 직업",
+"lg": "?",
+"nt": 1,
+"p": 3.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
 "id": "d629f7491f3694",
 "t": "Drone captura vistas deslumbrantes da linha rosa do metrô Namma",
 "r": "",
@@ -6971,7 +7074,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Forbes",
-"mx": 1
+"mx": 2
 },
 {
 "id": "da61593219e652",
@@ -6993,6 +7096,27 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "De acordo com a CCTV, o \"Plano de Ação de Desenvolvimento de Alta Qualidade de Pequim para a Indústria de Robôs Inteligentes Incorporados (2026-2028)\", lançado em 11 de novembro, traça um \"mapa de construção\" para a indústria de robôs humanóides nos próximos três anos: até 2028, a capacidade completa de produção de máquinas Pequim-Tianjin-Hebei será responsável por 25% do país, a taxa de correspondência de peças-chave excederá 60%, uma capacidade anual de produção de máquinas completas de 200.000 unidades serão formadas em Pequim, e o tempo médio de trabalho sem problemas da máquina completa excederá 2.000 horas. Este artigo extrai as cinco dimensões de confiabilidade, dados do modelo, plataforma completa da máquina, correspondência de peças e implementação de cena, e classifica as respostas da estação de trabalho de três empresas representativas de robôs humanóides: Topstar, Ubiselect e Zhiyuan Robot."
+},
+{
+"id": "24c2de01855432",
+"t": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+"r": "",
+"u": "https://m.ithome.com/html/1026667.htm",
+"f": "IT之家",
+"s": "m.ithome.com",
+"i": "https://img.ithome.com/m/images/logo.png",
+"d": "2026-11-13T01:16-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 0
 },
 {
 "id": "7f3636a55f7848",
@@ -7906,7 +8030,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -13648,7 +13772,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -16487,6 +16611,27 @@
 "cr": 3,
 "cv": "La Repubblica",
 "mx": 3
+},
+{
+"id": "1a9e76bb96b695",
+"t": "Drone+flights+in+india",
+"r": "",
+"u": "https://manufacturing.economictimes.indiatimes.com/tag/drone+flights+in+india",
+"f": "ET Manufacturing",
+"s": "manufacturing.economictimes.indiatimes.com",
+"i": "http://manufacturing.economictimes.indiatimes.com/_icons/logos/manufacturing-logo-header.svg",
+"d": "2026-11-11T14:01-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone+flights+in+india",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 0
 },
 {
 "id": "33dc7d81c178ed",
@@ -27841,6 +27986,27 @@
 "rx": "Os cortadores de relva comerciais alimentados pela Greenzie cobriram mais de 9 mil milhões de pés quadrados em mais de 200 clientes em quatro países 5, 2026 - A Greenzie, a plataforma tecnológica que alimenta a autonomia comercial de vários fabricantes de equipamentos, ultrapassou 255.000 milhas acumuladas de corte autónomo, excedendo a distância média da Terra à Lua e marcando um marco significativo no corte autónomo comercial do mundo real. O Wright Autonomous Stander ZK™, equipado com Greenzie Powered Autonomy™, está ajudando os empreiteiros paisagistas comerciais a colocar o corte autônomo para trabalhar. Sobre a Greenzie Fundada em 2018, a Greenzie é a plataforma que impulsiona a autonomia comercial. Greenzie Powered Autonomy™ opera em centenas de máquinas em serviço ativo, ajudando os fabricantes a trazer autonomia ao mercado e os operadores comerciais a colocá-la em funcionamento."
 },
 {
+"id": "8045cab6e68820",
+"t": "[만나보니] 엔비디아 부사장 \"자율주행·이동로봇, 초기 상용화 올라섰다\"",
+"r": "",
+"u": "https://www.yna.co.kr/view/AKR20261109123900017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img9.yna.co.kr/photo/yna/YH/2026/11/09/PYH2026110909290001300_P4.jpg",
+"d": "2026-11-09T04:10-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[만나보니] 엔비디아 부사장 \"자율주행·이동로봇, 초기 상용화 올라섰다\"",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 0
+},
+{
 "id": "0fa69665539ff4",
 "t": "Robot Bank inicia desenvolvimento de robô quadrúpede para uso industrial Inicia desenvolvimento de produto próprio de robô de IA de concreto",
 "r": "O Robot Bank anunciou uma política para continuar desenvolvendo robôs de IA tangíveis que utilizam IA física. Como primeiro produto, iniciamos um projeto de desenvolvimento de produto para um robô ambulante quadrúpede. Espera-se que este robô quadrúpede seja utilizado para patrulhar inspeções de fábricas e…",
@@ -29424,7 +29590,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -29453,7 +29619,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
