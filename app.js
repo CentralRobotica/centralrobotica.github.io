@@ -240,13 +240,14 @@
   }
   const nivel = (it) => (it._cred || credDe(it.s, it.f))[0];
 
-  async function itensDoPeriodo(i, f) {
+  // pendentes = true inclui também as notícias que o robô ainda não conseguiu traduzir
+  async function itensDoPeriodo(i, f, pendentes = false) {
     await Promise.all(mesesEntre(i, f).map(carregarMes));
     const out = [];
     for (const m of mesesEntre(i, f)) {
       const dados = window.CR_DADOS[m] || {};
-      // só notícias já traduzidas e publicadas pelos maiores veículos do mundo
-      for (const dia in dados) if (dia >= i && dia <= f) for (const it of dados[dia]) { if (it.nt || !aprovar(it)) continue; it.dia = dia; out.push(it); }
+      // só notícias publicadas pelos maiores veículos do mundo (e já traduzidas, a não ser que se peçam as pendentes)
+      for (const dia in dados) if (dia >= i && dia <= f) for (const it of dados[dia]) { if ((it.nt && !pendentes) || !aprovar(it)) continue; it.dia = dia; out.push(it); }
     }
     return out;
   }
@@ -338,7 +339,8 @@
   function meta(it, comDia) {
     const partes = [];
     partes.push(`<span>${comDia ? fmtDiaCurto(it.dia) + " · " : ""}${fmtHora(it.d)}</span>`);
-    if (it.lg && it.lg !== "pt") partes.push(`<span class="trad" title="${esc(it.to || "")}">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>`);
+    if (it.nt) partes.push(`<span class="trad" title="O robô traduz esta notícia na próxima coleta">Aguardando tradução</span>`);
+    else if (it.lg && it.lg !== "pt") partes.push(`<span class="trad" title="${esc(it.to || "")}">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>`);
     return `<div class="meta">${partes.join("")}</div>`;
   }
   function fonte(it, curto) {
@@ -420,7 +422,7 @@
       g.fontes = [...fontes.values()];
       g.n = g.fontes.length;
       // a notícia que representa o grupo: a mais confiável, com resumo e foto
-      g.it = [...g.itens].sort((a, b) => nivel(b) - nivel(a) || (b.rx ? 1 : 0) - (a.rx ? 1 : 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || b.p - a.p)[0];
+      g.it = [...g.itens].sort((a, b) => (a.nt || 0) - (b.nt || 0) || nivel(b) - nivel(a) || (b.rx ? 1 : 0) - (a.rx ? 1 : 0) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || b.p - a.p)[0];
       g.ultima = g.itens.reduce((m, x) => (x.d > m ? x.d : m), "");
       // fonte original = o site que publicou primeiro
       const primeiro = g.itens.reduce((m, x) => (x.d < m.d ? x : m), g.itens[0]);
@@ -539,7 +541,7 @@
     }
     aprovar(it);
     document.title = it.t + " — Central Robótica";
-    const original = it.lg && it.lg !== "pt" && it.to
+    const original = !it.nt && it.lg && it.lg !== "pt" && it.to
       ? `<p class="noticia__original"><span>Título original (${esc(IDIOMAS[it.lg] || "idioma original")})</span>${esc(it.to)}</p>` : "";
     const perto = await itensDoPeriodo(somaDias(it.dia, -3), [somaDias(it.dia, 3), hojeBR()].sort()[0]);
     if (id !== ultimoRender) return;
@@ -575,7 +577,7 @@
       ${chips(it, 4)}
       <h1 class="noticia__titulo">${esc(it.t)}</h1>
       <div class="noticia__meta"><span>${fmtDiaLongo(it.dia)} · ${fmtHora(it.d)}</span>
-        ${it.lg && it.lg !== "pt" ? `<span class="trad">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>` : ""}
+        ${it.nt ? `<span class="trad">Aguardando tradução</span>` : it.lg && it.lg !== "pt" ? `<span class="trad">Traduzido do ${esc(IDIOMAS[it.lg] || "idioma original")}</span>` : ""}
         <span>Publicado primeiro por <b>${esc(orig.f)}</b></span></div>
       <figure class="noticia__foto">${imagem(it)}</figure>
       <section class="noticia__resumo">
@@ -621,11 +623,16 @@
     }
     $("#especial").innerHTML = "";
     let [i, f] = intervalo(estado.p, estado.d);
-    let todos = await itensDoPeriodo(i, f);
+    // as notícias que ainda aguardam tradução também aparecem (com o título original), depois das traduzidas
+    let todos = await itensDoPeriodo(i, f, true);
     if (id !== ultimoRender) return;
 
     const aviso = $("#aviso");
-    aviso.hidden = true;
+    const nPend = todos.filter((it) => it.nt).length;
+    aviso.hidden = !nPend;
+    if (nPend) aviso.textContent = nPend === 1
+      ? "1 notícia deste período ainda aguarda tradução e aparece com o título original. O robô traduz na próxima coleta."
+      : `${nPend} notícias deste período ainda aguardam tradução e aparecem com o título original. O robô traduz nas próximas coletas.`;
     // "Hoje" mostra só as notícias do dia (sem trazer as de ontem)
 
     // busca
@@ -663,14 +670,14 @@
     // seleção dos destaques: relevância + bônus para quem tem imagem
     // lançamentos de robôs SEMPRE vêm primeiro; depois relevância (+ bônus para quem tem imagem)
     const nota = (it) => it.p + (it.i ? 1.2 : 0);
-    // ordem: lançamentos > especializados e grandes veículos (nível) > foto própria > relevância
-    const ranking = [...itens].sort((a, b) => (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || nota(b) - nota(a) || b.d.localeCompare(a.d));
+    // ordem: já traduzidas > lançamentos > especializados e grandes veículos (nível) > foto própria > relevância
+    const ranking = [...itens].sort((a, b) => (a.nt || 0) - (b.nt || 0) || (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || (b.i ? 1 : 0) - (a.i ? 1 : 0) || nota(b) - nota(a) || b.d.localeCompare(a.d));
     const nDest = itens.length >= 8 ? 5 : Math.min(itens.length, 1);
     const topo = ranking.slice(0, nDest);
     const nCards = itens.length >= 14 ? 6 : itens.length >= 11 ? 3 : 0;
     const cards = ranking.slice(nDest, nDest + nCards);
     const usados = new Set([...topo, ...cards].map((x) => x.id));
-    const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || b.p - a.p || b.d.localeCompare(a.d));
+    const resto = itens.filter((x) => !usados.has(x.id)).sort((a, b) => b.dia.localeCompare(a.dia) || (a.nt || 0) - (b.nt || 0) || (b.l || 0) - (a.l || 0) || nivel(b) - nivel(a) || b.p - a.p || b.d.localeCompare(a.d));
 
     const nomeCat = estado.c === "inicio" ? (noRanking.size ? "Outros destaques" : "Destaques") : NOME_CAT[estado.c];
     const titPeriodo = estado.p === "hoje" && i === hojeBR() ? "de hoje" : multiDia ? "do período" : "do dia";
@@ -728,7 +735,7 @@
   }
 
   function renderTicker(todos) {
-    let lanc = todos.filter((x) => x.l).sort((a, b) => b.p - a.p).slice(0, 14);
+    let lanc = todos.filter((x) => x.l && !x.nt).sort((a, b) => b.p - a.p).slice(0, 14);
     const t = $("#ticker");
     if (lanc.length < 3) { t.hidden = true; return; }
     t.hidden = false;
