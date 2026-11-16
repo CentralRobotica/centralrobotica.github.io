@@ -1,4 +1,27 @@
 {
+"2026-11-16": [
+{
+"id": "2d06bd32f3122e",
+"t": "AI·피지컬 AI 로봇 혁신 퍼스트무버를 찾습니다",
+"r": "",
+"u": "https://www.etnews.com/20261116000197",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.8297e27d13eb4af6bfb3b5456de4ea0f_P2.jpg",
+"d": "2026-11-16T00:09-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AI·피지컬 AI 로봇 혁신 퍼스트무버를 찾습니다",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
+}
+],
 "2026-11-15": [
 {
 "id": "bdb7042318690b",
@@ -587,13 +610,41 @@
 "rx": "KYC e KYB: A margem da Pidilite continua voltando, embora matérias-primas mais caras possam desviá-la do curso – Parte 2 de 3 KYC e KYB: Por dentro da Pidilite, a empresa que transformou Fevicol em uma palavra para um vínculo forte – Parte 1 de 3"
 },
 {
+"id": "50f06021958884",
+"t": "Construtora Taisei, de 153 anos, cria fundo para investir em IA e robótica",
+"r": "",
+"u": "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures",
+"f": "Bloomberg.com",
+"s": "bloomberg.com",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574214.jpg?v=3.1",
+"d": "2026-11-15T20:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics",
+"lg": "en",
+"p": 6.0,
+"cr": 3,
+"cv": "Bloomberg",
+"mx": 2,
+"o": [
+{
+"f": "The Japan Times",
+"u": "https://www.japantimes.co.jp/business/2026/11/16/companies/taisei-fund-investment-ai-robotics/",
+"s": "japantimes.co.jp",
+"id": "982d7a3bb00c51"
+}
+]
+},
+{
 "id": "85be70a7764944",
 "t": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
 "r": "",
 "u": "https://www.theglobeandmail.com/investing/markets/indices/TXCE/pressreleases/8846889/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-china-s-ambitions/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/7c/c7ceb087-cb43-57d5-b881-c5fc45b313d3/6afa5b6f064f1.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
 "d": "2026-11-15T22:18-03:00",
 "c": [
 "autonomos"
@@ -614,6 +665,35 @@
 "cr": 3,
 "cv": "The Globe and Mail",
 "mx": -1
+},
+{
+"id": "7d612770e7f784",
+"t": "UN to debate rules for ‘killer robots’",
+"r": "",
+"u": "https://www.theaustralian.com.au/news/latest-news/un-to-debate-rules-for-killer-robots/news-story/f03cdf11be261ce3ec7f3afce030b429",
+"f": "The Australian",
+"s": "theaustralian.com.au",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574218.JPG?v=3.1",
+"d": "2026-11-15T23:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "UN to debate rules for ‘killer robots’",
+"lg": "?",
+"nt": 1,
+"p": 6.0,
+"o": [
+{
+"f": "The Japan Times",
+"u": "https://www.japantimes.co.jp/news/2026/11/16/world/politics/un-rules-killer-robots/",
+"s": "japantimes.co.jp",
+"id": "2d48312b3384b8"
+}
+],
+"cr": 3,
+"cv": "The Australian",
+"mx": 0
 },
 {
 "id": "1e5891de0b678c",
@@ -1211,6 +1291,48 @@
 ],
 "l": 0,
 "to": "LG전자, 내년 휴머노이드 공개 앞두고 안전·품질 경쟁력 강화",
+"lg": "?",
+"nt": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 0
+},
+{
+"id": "7812dd7c4df26e",
+"t": "LG전자, 한국로봇산업진흥원과 휴머노이드 안전·품질 평가체계 구축",
+"r": "",
+"u": "https://www.donga.com/news/Economy/article/all/20261116/135030664/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/16/135030661.2.jpg",
+"d": "2026-11-15T22:58-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "LG전자, 한국로봇산업진흥원과 휴머노이드 안전·품질 평가체계 구축",
+"lg": "?",
+"nt": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
+},
+{
+"id": "7a1094696dfa50",
+"t": "LG전자, 로봇진흥원과 휴머노이드 안전·품질 평가체계 구축",
+"r": "",
+"u": "https://it.chosun.com/news/articleView.html?idxno=3000000001083",
+"f": "IT조선",
+"s": "it.chosun.com",
+"i": "https://cdn.it.chosun.com/news/photo/202611/3000000001083_501227_5017.jpg",
+"d": "2026-11-15T23:20-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "LG전자, 로봇진흥원과 휴머노이드 안전·품질 평가체계 구축",
 "lg": "?",
 "nt": 1,
 "p": 5.3,
@@ -1925,6 +2047,27 @@
 "mx": 0
 },
 {
+"id": "d7dc701d67b529",
+"t": "台美機器人無人載具論壇 促成8項台美產業MOU簽署 | 熱門亮點 | 商情",
+"r": "",
+"u": "https://money.udn.com/money/story/5635/9877638?from=edn_newestlist_cate_side",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516337.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=669&sl=W&fw=1050&exp=3600",
+"d": "2026-11-15T23:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "台美機器人無人載具論壇 促成8項台美產業MOU簽署 | 熱門亮點 | 商情",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 0
+},
+{
 "id": "93924dd20f9b7e",
 "t": "O Sony Aibo foi uma revolução robótica vestida de cachorro",
 "r": "Na década de 1990, a Sony estava absolutamente convencida de que estávamos à beira de uma aquisição de robôs. Em breve, decidiu a empresa, todos viveríamos entre inúmeros robôs humanóides. Alguns seriam nossos colegas de trabalho; outros seriam nossos amigos; e pelo menos um seria nosso animal de estimação. E “animal de estimação” era exatamente o que a Sony era…",
@@ -1945,6 +2088,27 @@
 "cv": "The Verge",
 "mx": 1,
 "rx": "Na década de 1990, a Sony estava absolutamente convencida de que estávamos à beira de uma aquisição de robôs. Em breve, decidiu a empresa, todos viveríamos entre incontáveis ​​robôs humanóides. Alguns seriam nossos colegas de trabalho; outros seriam nossos amigos; e pelo menos um seria nosso animal de estimação. E “animal de estimação” era exatamente o que a Sony pretendia quando criou o Aibo. Neste episódio do Histórico de Versões, voltamos no tempo e contamos a história do Aibo. David Pierce é acompanhado por Victoria Song e Jennifer Pattison Tuohy do The Verge, e juntos eles discutem as origens deste notável cão-robô e seu impressionante sucesso e longevidade. Eles também tentam descobrir por que o Aibo teve tanto efeito sobre seus proprietários, o que a Sony acertou (e errou) em relação aos robôs e se a ideia de um animal de estimação robótico algum dia será um fenômeno global."
+},
+{
+"id": "15e24562ef65ea",
+"t": "330万年薪抢人后突撤机器人团队 OpenAI大动作释放信号 人形机器人行业迎巨变拐点",
+"r": "",
+"u": "https://eu.36kr.com/zh/p/4071732882445193",
+"f": "eu.36kr.com",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261116/v2_d6f7096b2e6444d686f112f341b9f376@5091053@ai_oswg833279oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-15T06:41-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "330万年薪抢人后突撤机器人团队 OpenAI大动作释放信号 人形机器人行业迎巨变拐点",
+"lg": "?",
+"nt": 1,
+"p": 4.0,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
 },
 {
 "id": "aedee8bc4b713d",
@@ -1968,6 +2132,27 @@
 "mx": 0
 },
 {
+"id": "930db85b74d731",
+"t": "KIRIA-LG전자, 휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약",
+"r": "",
+"u": "https://www.etnews.com/20261116000018",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.9ef7dcad23e04e449a396dfad23f4fa1_P1.jpg",
+"d": "2026-11-15T22:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "KIRIA-LG전자, 휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약",
+"lg": "?",
+"nt": 1,
+"p": 4.0,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
 "id": "0f7587be960d02",
 "t": "LG전자-로봇산업진흥원, 휴머노이드 안전·품질 표준화 협력",
 "r": "",
@@ -1986,6 +2171,48 @@
 "p": 4.0,
 "cr": 2,
 "cv": "ZDNet Korea",
+"mx": 0
+},
+{
+"id": "670df388d77ecf",
+"t": "동운아나텍, 휴머노이드 로봇 '손발'용 구동 반도체 육성",
+"r": "",
+"u": "https://www.etnews.com/20261116000128",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.3e3dc3040b3b4cf2ac9babf4703580dd_P1.jpg",
+"d": "2026-11-15T22:15-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "동운아나텍, 휴머노이드 로봇 '손발'용 구동 반도체 육성",
+"lg": "?",
+"nt": 1,
+"p": 4.0,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
+"id": "955d2f8e7e43d5",
+"t": "LG전자, 휴머노이드 '안전인증' 추진…피지컬 AI 상용화 채비",
+"r": "",
+"u": "https://www.etnews.com/20261116000169",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.3e9065182cda4eae8f3a471c23d9a93d_P1.jpg",
+"d": "2026-11-15T22:58-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "LG전자, 휴머노이드 '안전인증' 추진…피지컬 AI 상용화 채비",
+"lg": "?",
+"nt": 1,
+"p": 4.0,
+"cr": 2,
+"cv": "ETNews",
 "mx": 0
 },
 {
@@ -2387,24 +2614,25 @@
 "rx": "Poucos dias depois de Jensen Huang renunciar repentinamente ao seu cargo na Nvidia, um engenheiro de pesquisa de robôs da Nvidia disse que também deixaria a empresa. Mas mais do que apenas mostrar apoio ao ex-CEO com uma mensagem genérica “Estou com Jensen”, Darrel Dai expôs vários motivos para a decisão sobre X. Parece que Jensen Huang ganhou o respeito das pessoas que trabalham sob ele, com muitos a pedirem a sua reintegração, apesar das muitas controvérsias que enfrenta atualmente. Há também uma petição online exigindo que o conselho da Nvidia “traga Jensen de volta”, com mais de 150.000 assinaturas no momento da redação.\nA Nvidia está centrada em Jensen Huang, com o ex-presidente-executivo supostamente tendo um pequeno exército de 60 pessoas subordinadas diretamente a ele. Ainda não está claro o que o ex-CEO da Nvidia fará depois de todos esses problemas."
 },
 {
-"id": "50f06021958884",
-"t": "Construtora Taisei, de 153 anos, cria fundo para investir em IA e robótica",
+"id": "ff47c78700211e",
+"t": "プレスリリース：Zoomlion、国際建設機械・建設資材製造機械・建設車輛・建設機器専門見本市（bauma CHINA 2026）でAI搭載機器とロボット技術を展示へ（共同通信PRワイヤー）",
 "r": "",
-"u": "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures",
-"f": "Bloomberg.com",
-"s": "bloomberg.com",
+"u": "https://mainichi.jp/articles/20261116/pls/00m/020/532000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
 "i": "",
-"d": "2026-11-15T20:01-03:00",
+"d": "2026-11-15T22:54-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics",
-"lg": "en",
+"to": "プレスリリース：Zoomlion、国際建設機械・建設資材製造機械・建設車輛・建設機器専門見本市（bauma CHINA 2026）でAI搭載機器とロボット技術を展示へ（共同通信PRワイヤー）",
+"lg": "?",
+"nt": 1,
 "p": 3.5,
 "cr": 3,
-"cv": "Bloomberg",
-"mx": 2
+"cv": "Mainichi",
+"mx": 1
 },
 {
 "id": "4249f167f87078",
@@ -2428,46 +2656,67 @@
 "mx": 0
 },
 {
-"id": "930db85b74d731",
-"t": "KIRIA-LG전자, 휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약",
+"id": "15a1a5ba87d512",
+"t": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
 "r": "",
-"u": "https://www.etnews.com/20261116000018",
+"u": "http://www.etnews.com/20261116000112",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "",
-"d": "2026-11-15T22:00-03:00",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.be364f2a50354c57a5c668d52df50d1c_P1.png",
+"d": "2026-11-15T22:03-03:00",
 "c": [
-"humanoides"
+"geral"
 ],
 "l": 0,
-"to": "KIRIA-LG전자, 휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약",
+"to": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
 "lg": "?",
 "nt": 1,
-"p": 3.0,
+"p": 3.2,
 "cr": 2,
 "cv": "ETNews",
 "mx": 1
 },
 {
-"id": "670df388d77ecf",
-"t": "동운아나텍, 휴머노이드 로봇 '손발'용 구동 반도체 육성",
+"id": "f6174e9d019ae2",
+"t": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
 "r": "",
-"u": "https://www.etnews.com/20261116000128",
+"u": "https://www.etnews.com/20261116000112",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "",
-"d": "2026-11-15T22:15-03:00",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.be364f2a50354c57a5c668d52df50d1c_P1.png",
+"d": "2026-11-15T22:03-03:00",
 "c": [
-"humanoides"
+"geral"
 ],
 "l": 0,
-"to": "동운아나텍, 휴머노이드 로봇 '손발'용 구동 반도체 육성",
+"to": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
 "lg": "?",
 "nt": 1,
-"p": 3.0,
+"p": 3.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 1
+"mx": 0
+},
+{
+"id": "2702cf6af44e5d",
+"t": "호반, 로봇 활용 미래 주거·운송서비스 개발 박차",
+"r": "",
+"u": "https://www.etnews.com/20261116000176",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.264579e54d434daa817242fdea285c14_P1.jpg",
+"d": "2026-11-15T23:13-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "호반, 로봇 활용 미래 주거·운송서비스 개발 박차",
+"lg": "?",
+"nt": 1,
+"p": 3.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 0
 },
 {
 "id": "f49d9559d04f6e",
@@ -2532,6 +2781,27 @@
 "mx": 3
 },
 {
+"id": "1bd9de57a3b763",
+"t": "又一家机器人公司陷入危机",
+"r": "",
+"u": "https://m.36kr.com/p/4071820908647299",
+"f": "36氪",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-15T07:40-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "又一家机器人公司陷入危机",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr",
+"mx": 0
+},
+{
 "id": "c3d67cfe2e79ed",
 "t": "Revisão do Roborock Saros 20 Flow: Espero que você goste de gastar dinheiro",
 "r": "",
@@ -2552,25 +2822,46 @@
 "mx": 3
 },
 {
-"id": "15a1a5ba87d512",
-"t": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
+"id": "8e208dae8eb81b",
+"t": "物理AI基础设施「精一微感」完成两轮数千万融资，海南芯动联科等投资，MEMS 路线六维力先行者，机器人腕部、指尖触觉同步量产",
 "r": "",
-"u": "http://www.etnews.com/20261116000112",
-"f": "전자신문",
-"s": "etnews.com",
+"u": "https://m.36kr.com/p/4070932645172105",
+"f": "36氪",
+"s": "m.36kr.com",
 "i": "",
-"d": "2026-11-15T22:03-03:00",
+"d": "2026-11-15T23:22-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "사람·로봇이 모두 읽어...KAIST, '두 가지 읽는 방식' 표현하는 디스플레이 구현",
+"to": "物理AI基础设施「精一微感」完成两轮数千万融资，海南芯动联科等投资，MEMS 路线六维力先行者，机器人腕部、指尖触觉同步量产",
 "lg": "?",
 "nt": 1,
 "p": 2.2,
 "cr": 2,
-"cv": "ETNews",
-"mx": 1
+"cv": "36Kr",
+"mx": 0
+},
+{
+"id": "5d45cec177b444",
+"t": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”",
+"r": "",
+"u": "https://www.ithome.com/1/027/541.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-15T23:36-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”",
+"lg": "?",
+"nt": 1,
+"p": 2.2,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 0
 }
 ],
 "2026-11-14": [
@@ -6978,6 +7269,69 @@
 "rx": "XPENG VLA 2.0 é um modelo de base de software proprietário desenvolvido pela XPENG, fabricante chinesa de veículos elétricos. Apresentado no AI Day da empresa em Guangzhou, em 5 de novembro de 2025, faz parte do investimento mais amplo da XPENG em inteligência artificial para sistemas físicos. O modelo pertence a uma pilha de software, em vez de ser um robô independente ou uma peça de hardware mecânico. Seu desenvolvimento baseia-se em quase 100 milhões de clipes de vídeo de condução real, dando ao projeto uma base substancial de treinamento automotivo. A empresa descreve o VLA 2.0 como o seu primeiro grande modelo construído para produção em massa, colocando a implantação industrial no centro do seu posicionamento. Essa classificação apoia uma avaliação ponderada: este é um modelo básico em evolução associado a um fabricante de veículos estabelecido, e não uma evidência de inteligência robótica abrangente ou desempenho universalmente comprovado."
 },
 {
+"id": "6592b2b9f8669b",
+"t": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 3枚目の写真・画像",
+"r": "",
+"u": "https://robotstart.info/article/img/2026/11/13/382630/109400.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109400.jpg",
+"d": "2026-11-13T04:30-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 3枚目の写真・画像",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 0
+},
+{
+"id": "509a165eec9d8d",
+"t": "El Salvador deploys armed robots to fight gangs in Haiti",
+"r": "",
+"u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti",
+"f": "Al Jazeera",
+"s": "aljazeera.com",
+"i": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=1200%2C675",
+"d": "2026-11-13T07:57-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "El Salvador deploys armed robots to fight gangs in Haiti",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Al Jazeera",
+"mx": 0
+},
+{
+"id": "4dbb97be3945e6",
+"t": "Walmart Drones Pitched for a Third Cincinnati-Area Store. None Fly Yet",
+"r": "",
+"u": "https://dronexl.co/2026/11/13/wing-walmart-eastgate-cincinnati-drone-delivery-union-township/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wing-delivery-drone-package-over-treetops.webp",
+"d": "2026-11-13T18:37-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Walmart Drones Pitched for a Third Cincinnati-Area Store. None Fly Yet",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 0
+},
+{
 "id": "3e4b871fd4bd0e",
 "t": "Quando os robôs mergulham debaixo d'água, HeymanDex vê novas possibilidades para mãos hábeis",
 "r": "Mãos hábeis estão se tornando um novo foco de competição na indústria da robótica humanóide. Para explorar esta questão, tivemos a oportunidade de entrevistar a equipa da HeymanDex, aprendendo como a empresa de robótica está a entrar no mercado de mãos hábeis através de aplicações subaquáticas, bem como a estratégia…",
@@ -7451,26 +7805,6 @@
 "rx": "O CoMind da Astribot permite que dois robôs negociem visualizações compactas e relevantes para tarefas em vez de vídeo bruto. Ele diz que o sucesso em uma tarefa de caneta particionada aumentou de 0% para 100% com cerca de 80% menos tráfego."
 },
 {
-"id": "6592b2b9f8669b",
-"t": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 3枚目の写真・画像",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ONjFXajFBQTJjc29DWUFjcVJrY3lZd0g1N3poS2N1ZlNCbVlQWWc4VHJtWTZTTVNLbFRfVU9CMWFTdXB1UDR6Ti1HZjd1b19QWF9qLXlZeS1ydEFnZ0dnSFc5a19pcFBRYWF6cDd0cndDNjA?oc=5",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-13T04:30-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "【動画】川崎重工、産業用ロボットの減速時エネルギーを回収する電力回生機能を紹介 連続稼働で消費電力30～40％減 3枚目の写真・画像",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "Robotstart"
-},
-{
 "id": "82320cc22ca5cd",
 "t": "Robô/Maquinaria/Transporte/Construção Naval Seungyoon Yang 02) 368-6139_ syyang0901@eugenefn.com [Semanalmente: 2026/11/09~2026/11/15] 2026/11/16",
 "r": "",
@@ -7488,7 +7822,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 2
+"mx": 3
 },
 {
 "id": "cabcf16e6a2337",
@@ -7595,26 +7929,6 @@
 "cv": "t3n",
 "mx": 1,
 "rx": "A BYD está lançando uma estação de carregamento para veículos elétricos que usa braços robóticos para carregar carros elétricos com energia solar em cinco minutos. Se você olhar para as vendas, a BYD é o maior fabricante mundial de carros elétricos há cerca de quatro anos. A empresa chinesa substituiu a Tesla nesse quesito – mesmo não vendendo nenhum carro nos EUA. Mas isso não é suficiente para a BYD, ela também quer se tornar a número um na área da rede de carregamento mais avançada para veículos elétricos.\nEsta semana, a empresa chinesa introduziu um sistema de carregamento para veículos elétricos que carrega os carros elétricos utilizando energia solar por robôs. Tal como as estações de carregamento convencionais, retira eletricidade da rede pública, mas armazena-a em duas baterias de 185 quilowatts instaladas no local."
-},
-{
-"id": "509a165eec9d8d",
-"t": "El Salvador deploys armed robots to fight gangs in Haiti",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1ZQeHc5MzNwRXBBWGRCZUlzTW1nRHRpV211Zkt0Ui04Ym1RWGI2WmFmc0ZHSk4xTVplaVhfRUJibnNmcnNOcXRKd0xHWmVxRWh6RGNBOUpsSnZSUDhHNy1Uand4QURLZ25LengycUdvbDRtSjQtc0czMlBVYVRZb1dMLV9tS0FSMjRNRWQ1R05pUFZfckdhNzF6NWZwcWtuUFk0RkxicVZlS3da0gGyAUFVX3lxTFBGOFFMQWxaOUY3TVFiN2l0ZWwtbm8xVWU5dGhBTUxBMVJZZ0VCLUtmcGE3Q2hFdGNpLUYyZHh6ZnM5akFscmMxTHdyOWNpZjVYTmNxQ1NBcUp3UVJFX2ZkbTF2aFNleElIOFhXc20tbXBmNGd0bUY1d21POHZPYlg0S0ZLbUZlOTJDMUtMRWNHaGVibXZSbHllaGI1aEJiN1BhQ21VZ1RzXzNfa1QxbFpoQkE?oc=5",
-"f": "Al Jazeera",
-"s": "aljazeera.com",
-"i": "",
-"d": "2026-11-13T07:57-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "El Salvador deploys armed robots to fight gangs in Haiti",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "Al Jazeera"
 },
 {
 "id": "a125f148423c53",
@@ -7972,26 +8286,6 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
-},
-{
-"id": "4dbb97be3945e6",
-"t": "Walmart Drones Pitched for a Third Cincinnati-Area Store. None Fly Yet",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQak1HbWdDV2czckRHZ2lJSlRIUlNsc3FBVl95TDdsc2lBV3hSMWNiQWsxUV9Jb2JSN2NPOS1jRXdtQjNiT1cxUGdVcV94ZGNodEFaYlNzM3ZlbVZ0T3VHSjFxV09BdERDSkdCcUIzME5QOTdrbUdTbFBWUmd2ZkYwRFRGY2QwMkRTemcxajBwekEtRng0Mkc3Zw?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-13T18:37-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Walmart Drones Pitched for a Third Cincinnati-Area Store. None Fly Yet",
-"lg": "?",
-"nt": 1,
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
 },
 {
 "id": "39d5d37274c457",
@@ -9021,7 +9315,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -11696,6 +11990,27 @@
 "cv": "Chosun Ilbo",
 "mx": 3,
 "rx": "ｺɾN(ｺɾ) ǰ/Ƿ Ż, å, ǿ, , , ǷIT"
+},
+{
+"id": "c6eef42c529131",
+"t": "HBM-자율차-로봇-AI팩토리…깐부 기업들 ‘젠슨 황 스캔들’ 주시",
+"r": "",
+"u": "https://www.donga.com/news/Economy/article/all/20261112/135015711/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135017430.1.jpg",
+"d": "2026-11-12T08:58-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "HBM-자율차-로봇-AI팩토리…깐부 기업들 ‘젠슨 황 스캔들’ 주시",
+"lg": "?",
+"nt": 1,
+"p": 4.5,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 0
 },
 {
 "id": "ad2d4d45e22fd5",
@@ -14758,7 +15073,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -19696,36 +20011,6 @@
 "rx": "A Amazon está apostando que muitos clientes do Ring também desejarão um drone de segurança e um robô com tecnologia de IA patrulhando suas casas ou escritórios. Mas os próximos produtos Ring Robotic da empresa também certamente intensificarão as preocupações com a privacidade levantadas anteriormente em torno de uma tentativa anterior da Amazon de popularizar uma câmera de segurança voadora. Espera-se que o Ring Rover Cam e o Ring Drone Cam cheguem aos clientes a partir do final de 2026 e início de 2027, respectivamente, de acordo com um anúncio da Amazon publicado em 10 de novembro.\nO Ring Drone da Amazon parece ser um sucessor direto do Ring Always Home Cam da empresa, que estava disponível apenas temporariamente para compra por convite como um produto “Day 1 Edition” em setembro de 2021 – mesmo tendo o mesmo preço inicial de US$ 250."
 },
 {
-"id": "35fd9c0c1bc5a6",
-"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
-"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T14:00-03:00",
-"c": [
-"educacao",
-"companhia"
-],
-"l": 1,
-"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
-"lg": "en",
-"p": 12.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 2,
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
-"s": "usatoday.com",
-"id": "cb86577744e57b"
-}
-],
-"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
-},
-{
 "id": "5b5f91c4181765",
 "t": "SK Intellix realiza evento para o primeiro aniversário do lançamento do robô de bem-estar ‘NamuX’",
 "r": "A SK Intellix anunciou no dia 11 que realizará um evento de agradecimento ao cliente 'Happy X-Day' até o dia 30 para comemorar o 1º aniversário do lançamento do robô de bem-estar 'NAMUHX'. SK Intellix dará 200.000 pontos Naver Pay e um sensor de ar sem fio para todos os novos clientes que assinarem o NamuX durante o…",
@@ -19882,6 +20167,36 @@
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "rx": "Nova vitrine de lançamento na GITEX GLOBAL promove o fenômeno da IA física, já que as remessas globais de robôs humanóides ultrapassam 22.000 no primeiro semestre de 2026 Aqui está o que os engenheiros seniores precisam agora GITEX World RobotiX, um novo evento de lançamento na GITEX GLOBAL, reunirá os pioneiros e líderes mundiais da robótica em IA incorporada de 8 a 11 de dezembro no Centro de Exposições de Dubai, Expo City Dubai, para mostrar como as máquinas que percebem, raciocinam e agem no mundo físico são transformando a manufatura, a logística, a saúde, a hospitalidade e a infraestrutura inteligente. A vitrine apresentará o mais recente robô humanóide da Unitree, líder global em robótica humanóide. Apresentar o mais recente robô humanóide Unitree dá aos visitantes uma visão da vanguarda da robótica."
+},
+{
+"id": "35fd9c0c1bc5a6",
+"t": "WhalesBot lança Pubbo: robô companheiro de IA para crianças dos EUA",
+"r": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8761982/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T14:00-03:00",
+"c": [
+"educacao",
+"companhia"
+],
+"l": 1,
+"to": "WhalesBot Launches Pubbo: AI Companion Robot for US Kids",
+"lg": "en",
+"p": 11.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/57087/whalesbot-launches-pubbo-ai-companion-robot-for-us-kids/",
+"s": "usatoday.com",
+"id": "cb86577744e57b"
+}
+],
+"rx": "XANGAI, CN / ACCESS Newswire / 10 de novembro de 2026 / WhalesBot, líder global em IA e robótica educacional, anunciou hoje oficialmente o lançamento do Pubbo, um robô companheiro de IA interativo criado especificamente para famílias americanas e crianças de 3 a 11 anos. Projetado para transformar o consumo passivo de tela em descoberta cognitiva ativa, Pubbo combina IA de conversação em tempo real, visão computacional, criação de arte generativa e aprendizagem STEM interativa em um companheiro físico acessível.\nApós extensa pesquisa e desenvolvimento em hardware voltado para crianças, o Pubbo agora está disponível para compra nos Estados Unidos por meio de sua plataforma oficial em pubbo.ai. Pubbo representa uma mudança na forma como as crianças interagem com a tecnologia moderna."
 },
 {
 "id": "69e89796ad6698",
@@ -20734,36 +21049,6 @@
 }
 ],
 "rx": "Shanghai Banking Corporation (2049) realizou um briefing jurídico à tarde. As preocupações jurídicas incluíam robôs, eleições intercalares nos EUA e dúvidas sobre o desenvolvimento futuro da IA. Zhuo Wenheng, presidente do Shanghai Banking Corporation, revelou boas notícias. Espera-se que pequenos trilhos lineares sejam enviados aos clientes da American T no início do próximo ano, com volume de entrega mensal atingindo dezenas de milhares. Além disso, no segmento de robôs logísticos, braços robóticos que foram modificados diversas vezes para atender às especificações do cliente também estão prontos para serem enviados. De acordo com as Estatísticas Bancárias de Xangai, no terceiro trimestre, os produtos relacionados com robôs representaram aproximadamente 12% da receita. Zhuo"
-},
-{
-"id": "58a4559547820a",
-"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
-"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
-"d": "2026-11-10T10:32-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "The Globe and Mail",
-"o": [
-{
-"f": "USA Today",
-"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
-"s": "usatoday.com",
-"id": "c4ae12a960168e"
-}
-],
-"mx": 2,
-"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "7cd9f0ce0f5677",
@@ -21935,6 +22220,36 @@
 "cr": 3,
 "cv": "La Repubblica",
 "mx": 3
+},
+{
+"id": "58a4559547820a",
+"t": "A primeira violação planeja integrar a computação de IA integrada às plataformas CQS e LRS Drone",
+"r": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/8756794/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "",
+"d": "2026-11-10T10:32-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "First Breach Plans to Integrate Onboard AI Computing into CQS and LRS Drone Platforms",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"o": [
+{
+"f": "USA Today",
+"u": "https://www.usatoday.com/press-release/story/56780/first-breach-plans-to-integrate-onboard-ai-computing-into-cqs-and-lrs-drone-platforms/",
+"s": "usatoday.com",
+"id": "c4ae12a960168e"
+}
+],
+"mx": 1,
+"rx": "HAGERSTOWN, MD / ACCESS Newswire / 10 de novembro de 2026 / First Breach Inc. (NASDAQ:FBDT) (\"First Breach\" ou a \"Empresa\"), uma empresa americana de tecnologias de defesa focada na produção de munição verticalmente integrada e sistemas aéreos não tripulados de próxima geração, anunciou hoje planos para integrar o Mission Compute Carrier (\"MCC\") da Hellbender, Inc. plataformas.\né uma empresa de tecnologias de defesa de fabricação americana com certificação ISO 9001:2015, focada na fabricação de componentes de munição de nível compatível, munição acabada e no desenvolvimento de sistemas aéreos não tripulados de próxima geração para mercados comerciais, policiais e militares."
 },
 {
 "id": "04f31f697e3b0c",
@@ -30649,7 +30964,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -30678,7 +30993,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
