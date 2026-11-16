@@ -1,5 +1,43 @@
 [
 {
+"id": "be2352f4d88f1f",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.2022008",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-15T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Editorial: Trustworthy and explainable machine learning for human-aligned robotics and intelligent systems",
+"ro": "The application of explainable machine learning to robotic systems requires methods that connect high-level decisions with observable actions. Ding et al. (2...",
+"nt": 1,
+"t": "Editorial: Trustworthy and explainable machine learning for human-aligned robotics and intelligent systems",
+"r": "",
+"mx": 1,
+"c": [
+"geral"
+]
+},
+{
+"id": "253de7f7252f35",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1915338",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-15T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
+"ro": "Online motion of a redundant manipulator in a cluttered workspace has to reconcile end-effector tracking with two further goals: keeping every link clear of obstacles and staying away from kinematic singularities. Existing reactive and task-priority schemes usually address these goals separately or sacrifice tracking…",
+"nt": 1,
+"t": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
+"r": "Online motion of a redundant manipulator in a cluttered workspace has to reconcile end-effector tracking with two further goals: keeping every link clear of obstacles and staying away from kinematic singularities. Existing reactive and task-priority schemes usually address these goals separately or sacrifice tracking…",
+"mx": 1,
+"c": [
+"geral"
+]
+},
+{
 "id": "418e26fcb80db5",
 "u": "https://www.popsci.com/technology/artificial-muscles-humanoid-robot-play-piano/",
 "f": "Popular Science",
