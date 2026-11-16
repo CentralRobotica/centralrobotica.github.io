@@ -950,43 +950,88 @@ def resolver_links_salvos(itens, limite):
     return feitos
 
 
-_TRAD = {"bloqueado": False, "ultimo": 0.0, "feitas": 0}
+_TRAD = {"bloqueado": False, "ultimo": 0.0, "feitas": 0, "falhas": 0, "erro": "", "por": {}}
 _TRAD_LOCK = __import__("threading").Lock()
 INTERVALO_TRADUCAO = 0.35  # segundos entre pedidos ao tradutor (ritmo educado)
 
 
+def _ler_google(dados):
+    """Resposta de translate_a/single: [[[trecho traduzido, trecho original, ...], ...], None, idioma]."""
+    trad = "".join(seg[0] for seg in dados[0] if seg and seg[0]).strip()
+    detectado = dados[2] if len(dados) > 2 and isinstance(dados[2], str) else ""
+    return trad, detectado
+
+
+def _ler_google_curto(dados):
+    """Resposta de translate_a/t: [[texto traduzido, idioma]]."""
+    d = dados[0]
+    if isinstance(d, list):
+        return (d[0] or "").strip(), (d[1] if len(d) > 1 and isinstance(d[1], str) else "")
+    return (d or "").strip(), ""
+
+
+# Tradutores em ordem de preferência. Quando um limita os pedidos (HTTP 429/503) ou falha
+# várias vezes seguidas, a rodada passa para o seguinte; só quando todos recusam é que o
+# restante fica marcado como pendente e é traduzido na próxima rodada.
+TRADUTORES = [
+    {"nome": "google", "url": "https://translate.googleapis.com/translate_a/single",
+     "params": {"client": "gtx", "dt": "t"}, "ler": _ler_google},
+    {"nome": "google-2", "url": "https://clients5.google.com/translate_a/t",
+     "params": {"client": "dict-chrome-ex"}, "ler": _ler_google_curto},
+    {"nome": "google-3", "url": "https://translate.google.com/translate_a/single",
+     "params": {"client": "gtx", "dt": "t"}, "ler": _ler_google},
+]
+FALHAS_SEGUIDAS_MAX = 3  # erros seguidos (que não são limite de pedidos) até desistir de um tradutor
+
+
+def _desistir_do_tradutor(tr, motivo):
+    if not tr.get("bloqueado"):
+        print(f"  tradutor {tr['nome']} fora desta rodada ({motivo})", file=sys.stderr)
+    tr["bloqueado"] = True
+    _TRAD["erro"] = f"{tr['nome']}: {motivo}"
+    if all(t.get("bloqueado") for t in TRADUTORES) and not _TRAD["bloqueado"]:
+        _TRAD["bloqueado"] = True
+        print("  nenhum tradutor disponível — o restante fica para a próxima rodada", file=sys.stderr)
+
+
 def traduzir(texto):
     """Traduz para o português. Retorna (texto, ok, idioma_detectado).
-    Se o tradutor limitar os pedidos (HTTP 429), para de traduzir nesta execução:
-    o que faltar fica marcado como pendente e é traduzido na próxima rodada."""
+    Tenta os TRADUTORES em ordem; se todos recusarem, o texto volta sem tradução (ok=False)
+    e a notícia fica pendente para a próxima rodada."""
     if not texto:
         return texto, True, ""
-    if _TRAD["bloqueado"]:
-        return texto, False, ""
-    url = "https://translate.googleapis.com/translate_a/single?" + urllib.parse.urlencode(
-        {"client": "gtx", "sl": "auto", "tl": "pt", "dt": "t", "q": texto}
-    )
-    for tentativa in range(2):
-        with _TRAD_LOCK:
-            espera = INTERVALO_TRADUCAO - (time.time() - _TRAD["ultimo"])
-            if espera > 0:
-                time.sleep(espera)
-            _TRAD["ultimo"] = time.time()
-        try:
-            dados = json.loads(baixar(url, timeout=15).decode("utf-8"))
-            trad = "".join(seg[0] for seg in dados[0] if seg and seg[0]).strip()
-            detectado = dados[2] if len(dados) > 2 and isinstance(dados[2], str) else ""
-            _TRAD["feitas"] += 1
-            return trad, True, detectado
-        except urllib.error.HTTPError as e:
-            if e.code in (429, 503):
-                if not _TRAD["bloqueado"]:
-                    print("  tradutor limitou os pedidos — o restante fica para a próxima rodada", file=sys.stderr)
-                _TRAD["bloqueado"] = True
-                return texto, False, ""
+    for tr in TRADUTORES:
+        if tr.get("bloqueado"):
+            continue
+        url = tr["url"] + "?" + urllib.parse.urlencode({**tr["params"], "sl": "auto", "tl": "pt", "q": texto})
+        for tentativa in range(2):
+            if tr.get("bloqueado"):
+                break
+            with _TRAD_LOCK:
+                espera = INTERVALO_TRADUCAO - (time.time() - _TRAD["ultimo"])
+                if espera > 0:
+                    time.sleep(espera)
+                _TRAD["ultimo"] = time.time()
+            try:
+                trad, detectado = tr["ler"](json.loads(baixar(url, timeout=15).decode("utf-8")))
+                tr["seguidas"] = 0
+                _TRAD["feitas"] += 1
+                _TRAD["por"][tr["nome"]] = _TRAD["por"].get(tr["nome"], 0) + 1
+                return trad, True, detectado
+            except urllib.error.HTTPError as e:
+                motivo = f"HTTP {e.code}"
+                if e.code in (429, 503):
+                    _desistir_do_tradutor(tr, motivo)
+                    break
+            except Exception as e:
+                motivo = type(e).__name__
+            tr["seguidas"] = tr.get("seguidas", 0) + 1
+            if tr["seguidas"] >= FALHAS_SEGUIDAS_MAX:
+                _desistir_do_tradutor(tr, motivo)
+                break
+            _TRAD["erro"] = f"{tr['nome']}: {motivo}"
             time.sleep(2)
-        except Exception:
-            time.sleep(2)
+    _TRAD["falhas"] += 1
     return texto, False, ""
 
 
@@ -1444,7 +1489,13 @@ def main():
             salvar_mes(chave, dados)
     total = gerar_indice(fontes_vistas)
     print(f"Adicionadas: {adicionados} | agrupadas (mesma notícia em outro site): {agrupados} | total no histórico: {total}")
+    sem_traducao = sum(1 for x in todos if x.get("nt"))
+    print(f"Tradução: {_TRAD['feitas']} textos traduzidos {_TRAD['por']} | falhas: {_TRAD['falhas']} | "
+          f"notícias aguardando tradução: {sem_traducao}" + (f" | último erro: {_TRAD['erro']}" if _TRAD["erro"] else ""))
     salvar_status({
+        # tradução: quantos textos cada tradutor fez nesta rodada e quantas notícias ficaram pendentes
+        "traducao": {"feitas": _TRAD["feitas"], "por": _TRAD["por"], "falhas": _TRAD["falhas"],
+                     "pendentes": sem_traducao, "limitado": _TRAD["bloqueado"], "erro": _TRAD["erro"]},
         "inicio": AGORA.isoformat(timespec="seconds"),
         "fim": datetime.now(BRASILIA).isoformat(timespec="seconds"),
         "fontes_ok": sum(1 for v in STATUS_FONTES.values() if v >= 0),
