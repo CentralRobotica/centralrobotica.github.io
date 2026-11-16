@@ -6,9 +6,8 @@
 "ro": "Improving a pretrained vision-language-action (VLA) model requires demonstrations that address its weaknesses and provide effective supervision for learning. Coding agents can autonomously generate demonstrations through environment interaction, yet successful execution alone does not ensure effective supervision for VLA learning. We introduce Agentic-Teacher, an autonomous data engine for failure-driven VLA…",
 "au": "Gongyue Teng, Yuqing Xie, Yixian Zhang, Feng Gao, Shu'ang Yu, Jiaji Rao, Sukai Wang, Guanghui Ren, Ya Zhang, Maoqing Yao, Yu Wang, Chao Yu, Xinlei Chen",
 "d": "2026-11-16T02:00-03:00",
-"t": "Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
-"r": "Improving a pretrained vision-language-action (VLA) model requires demonstrations that address its weaknesses and provide effective supervision for learning. Coding agents can autonomously generate demonstrations through environment interaction, yet successful execution alone does not ensure effective supervision for VLA learning. We introduce Agentic-Teacher, an autonomous data engine for failure-driven VLA…",
-"nt": 1,
+"t": "Agentic-Teacher: um mecanismo de dados Agentic para pós-treinamento de VLA orientado a falhas",
+"r": "Melhorar um modelo pré-treinado de visão-linguagem-ação (VLA) requer demonstrações que abordem seus pontos fracos e forneçam supervisão eficaz para a aprendizagem. Os agentes de codificação podem gerar demonstrações de forma autônoma por meio da interação com o ambiente, mas a execução bem-sucedida por si só não garante uma supervisão eficaz para o aprendizado do VLA. Apresentamos o Agentic-Teacher, um mecanismo de dados autônomo para VLA orientado a falhas…",
 "c": [
 "ia"
 ]
@@ -20,9 +19,8 @@
 "ro": "A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten minutes, it should instead explore a broader tour. Yet vision-language-navigation (VLN) models are typically evaluated under a fixed episode limit that the policy never observes, even though time-critical missions require behavior to adapt to the available budget. We study…",
 "au": "Maitree Meher, Siming He, S. Shankar Sastry, Jitendra Malik, Claire Tomlin, Jonas Frey",
 "d": "2026-11-16T02:00-03:00",
-"t": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
-"r": "A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten minutes, it should instead explore a broader tour. Yet vision-language-navigation (VLN) models are typically evaluated under a fixed episode limit that the policy never observes, even though time-critical missions require behavior to adapt to the available budget. We study…",
-"nt": 1,
+"t": "Correndo contra o relógio: ensinando pesquisa de objetos condicionados ao orçamento em VLNs",
+"r": "Um robô de resgate entrando em um prédio com trinta segundos no relógio deve correr em direção à sala mais promissora; com dez minutos, deveria, em vez disso, explorar um passeio mais amplo. No entanto, os modelos de visão-linguagem-navegação (VLN) são normalmente avaliados sob um limite fixo de episódios que a política nunca observa, embora as missões urgentes exijam um comportamento que se adapte ao orçamento disponível. Nós estudamos…",
 "c": [
 "educacao",
 "resgate"
@@ -35,9 +33,8 @@
 "ro": "Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) between embeddings from a pretrained visual encoder can provide a useful signal near a goal, yet favor states across an obstacle that are visually similar to the goal and difficult to reach. We fit a small residual adapter on top of frozen I-JEPA embeddings to improve this…",
 "au": "Konstantinos Mylonas, Thrasyvoulos Spyropoulos",
 "d": "2026-11-16T02:00-03:00",
-"t": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
-"r": "Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) between embeddings from a pretrained visual encoder can provide a useful signal near a goal, yet favor states across an obstacle that are visually similar to the goal and difficult to reach. We fit a small residual adapter on top of frozen I-JEPA embeddings to improve this…",
-"nt": 1,
+"t": "Aprendendo os custos das metas latentes para o planejamento do modelo de mundo visual com um currículo em expansão",
+"r": "O planejamento de metas de imagem com um modelo de mundo visual congelado depende de como as observações previstas são pontuadas em relação à meta. O erro quadrático médio (MSE) entre incorporações de um codificador visual pré-treinado pode fornecer um sinal útil próximo a uma meta, mas favorecer estados através de um obstáculo que são visualmente semelhantes à meta e difíceis de alcançar. Colocamos um pequeno adaptador residual em cima dos embutimentos I-JEPA congelados para melhorar isso…",
 "c": [
 "ia"
 ]
@@ -49,9 +46,8 @@
 "ro": "Multi-turn conversational human-robot interaction (HRI) continues to be a challenging problem in robotics, as many existing systems rely on rigid, command-driven interfaces that can be unintuitive for users. Recent advances in Large Language Models (LLMs) provide a promising direction, given their ability to process natural language, generate structured outputs, and support tool-based reasoning, all of which are…",
 "au": "Deepu Krishnareddy, Mohammad Haziq Khan, Michael Danner, Matthias R\\\"atsch",
 "d": "2026-11-16T02:00-03:00",
-"t": "Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics",
-"r": "Multi-turn conversational human-robot interaction (HRI) continues to be a challenging problem in robotics, as many existing systems rely on rigid, command-driven interfaces that can be unintuitive for users. Recent advances in Large Language Models (LLMs) provide a promising direction, given their ability to process natural language, generate structured outputs, and support tool-based reasoning, all of which are…",
-"nt": 1,
+"t": "Talk to Act: uma referência sintética de diálogo multivoltas para extração de intenção humana e planejamento de ação em robótica",
+"r": "A interação conversacional homem-robô (HRI) multivoltas continua a ser um problema desafiador na robótica, já que muitos sistemas existentes dependem de interfaces rígidas e orientadas por comandos que podem não ser intuitivas para os usuários. Avanços recentes em Grandes Modelos de Linguagem (LLMs) fornecem uma direção promissora, dada a sua capacidade de processar linguagem natural, gerar resultados estruturados e apoiar o raciocínio baseado em ferramentas, todos os quais são…",
 "c": [
 "geral"
 ]
@@ -63,9 +59,8 @@
 "ro": "Safety in robotics does not solely depend on geometric constraints, but also on semantics: the given task, environment properties, and interactions between objects in the scene. We present a framework based on vision-language models (VLMs) to infer task- and scene-dependent safety constraints for robot manipulation. We provide the VLM a structured safety tool based on an RGB-D observation and a natural-language task…",
 "au": "Mariana Sosa Guzm\\'an, Yide Song, Amin Abyaneh, Gregory Dudek, Hsiu-Chin Lin",
 "d": "2026-11-16T02:00-03:00",
-"t": "Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety",
-"r": "Safety in robotics does not solely depend on geometric constraints, but also on semantics: the given task, environment properties, and interactions between objects in the scene. We present a framework based on vision-language models (VLMs) to infer task- and scene-dependent safety constraints for robot manipulation. We provide the VLM a structured safety tool based on an RGB-D observation and a natural-language task…",
-"nt": 1,
+"t": "Aterramento do raciocínio de perigo entre objetos em campos de risco 3D para segurança condicionada por tarefas",
+"r": "A segurança na robótica não depende apenas de restrições geométricas, mas também de semântica: a tarefa dada, as propriedades do ambiente e as interações entre os objetos na cena. Apresentamos uma estrutura baseada em modelos de linguagem de visão (VLMs) para inferir restrições de segurança dependentes de tarefas e cenas para manipulação de robôs. Fornecemos ao VLM uma ferramenta de segurança estruturada baseada em uma observação RGB-D e uma tarefa de linguagem natural…",
 "c": [
 "geral"
 ]
@@ -77,9 +72,8 @@
 "ro": "Robots with weak motors must ride their natural dynamics rather than fight them. We swing up a direct-drive planar two-link robot, whose motors deliver only about 6\\,\\% of its shoulder gravity torque, along its nonlinear normal modes, two-dimensional invariant manifolds consisting of periodic orbits. On a non-strict mode, injecting energy necessarily moves the state off the manifold, so pumping and stabilization…",
 "au": "Arne Sachtler, Manuel Keppler, Florian Loeffl, Alin Albu-Sch\\\"affer",
 "d": "2026-11-16T02:00-03:00",
-"t": "Natural Swing-Up of an Underpowered Double Pendulum",
-"r": "Robots with weak motors must ride their natural dynamics rather than fight them. We swing up a direct-drive planar two-link robot, whose motors deliver only about 6\\,\\% of its shoulder gravity torque, along its nonlinear normal modes, two-dimensional invariant manifolds consisting of periodic orbits. On a non-strict mode, injecting energy necessarily moves the state off the manifold, so pumping and stabilization…",
-"nt": 1,
+"t": "Oscilação natural de um pêndulo duplo com pouca potência",
+"r": "Robôs com motores fracos devem aproveitar sua dinâmica natural em vez de combatê-la. Nós balançamos um robô planar de dois elos de acionamento direto, cujos motores fornecem apenas cerca de 6\\,\\% de seu torque gravitacional de ombro, ao longo de seus modos normais não lineares, variedades invariantes bidimensionais que consistem em órbitas periódicas. Em um modo não estrito, a injeção de energia necessariamente move o estado para fora do coletor, então bombeamento e estabilização…",
 "c": [
 "espaco"
 ]
@@ -91,9 +85,8 @@
 "ro": "Long-horizon navigation from indoors to outdoors remains an open problem for humanoid robots: one instruction covers rooms, doors and roads, and the camera moves with the gait. Worken, AGIBOT's measure of productive robot work, depends on robots that reach their workplaces autonomously. We present X-Nav, to our knowledge the first system to take a bipedal humanoid through a language-instructed long-horizon mission…",
 "au": "Jiaxin Huang, Chengxing Lin, Xiaoyu Luo, Sirui Chen, Jingyu Guo, Aolin Li, Kairui Chen, Rui Zhen, Cheng Wen, Kerui Gu, Shunyao Wang, Zhihui Peng, Shaoli Huang",
 "d": "2026-11-16T02:00-03:00",
-"t": "X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot",
-"r": "Long-horizon navigation from indoors to outdoors remains an open problem for humanoid robots: one instruction covers rooms, doors and roads, and the camera moves with the gait. Worken, AGIBOT's measure of productive robot work, depends on robots that reach their workplaces autonomously. We present X-Nav, to our knowledge the first system to take a bipedal humanoid through a language-instructed long-horizon mission…",
-"nt": 1,
+"t": "Relatório técnico X-Nav: Navegação interna e externa de longo horizonte do mundo real em um robô humanóide",
+"r": "A navegação em longo horizonte, de ambientes internos para externos, continua sendo um problema em aberto para robôs humanóides: uma instrução cobre salas, portas e estradas, e a câmera se move com a marcha. Worken, a medida de trabalho produtivo dos robôs da AGIBOT, depende de robôs que chegam aos seus locais de trabalho de forma autônoma. Apresentamos o X-Nav, até onde sabemos, o primeiro sistema a levar um humanóide bípede através de uma missão de longo horizonte instruída por linguagem…",
 "c": [
 "humanoides"
 ]
@@ -105,9 +98,8 @@
 "ro": "Human demonstrations are becoming the main source of data for dexterous manipulation, and real-to-sim-to-real pipelines multiply each demonstration in simulation. These pipelines rebuild the interaction from vision, which recovers how the hand moves. Which fingers touch, when, and how hard remain unobserved, because a hand pose shows where each finger stops on the surface rather than how far it is driven to close…",
 "au": "Huiwen Han, Nuo Chen, Ziyao Zeng, Dayou Li, Hao Wang, Amir Hossein Rahmati, Xiaoning Qian, Bangya Liu, Zhiwen Fan",
 "d": "2026-11-16T02:00-03:00",
-"t": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
-"r": "Human demonstrations are becoming the main source of data for dexterous manipulation, and real-to-sim-to-real pipelines multiply each demonstration in simulation. These pipelines rebuild the interaction from vision, which recovers how the hand moves. Which fingers touch, when, and how hard remain unobserved, because a hand pose shows where each finger stops on the surface rather than how far it is driven to close…",
-"nt": 1,
+"t": "TouchTwin: Dimensionando dados de toque humano via Real-to-Sim-to-Real",
+"r": "As demonstrações humanas estão se tornando a principal fonte de dados para manipulação hábil, e pipelines de real para sim para real multiplicam cada demonstração na simulação. Esses pipelines reconstroem a interação a partir da visão, que recupera a forma como a mão se move. Quais dedos tocam, quando e com que força permanecem despercebidos, porque a postura da mão mostra onde cada dedo para na superfície, em vez de quão longe ele é levado para fechar…",
 "c": [
 "inspecao"
 ]
@@ -119,9 +111,8 @@
 "ro": "Visuomotor imitation learning has become a predominant paradigm for real-world robotic manipulation, yet it remains data-inefficient and brittle to task-irrelevant visual shifts. Pre-trained visual representations promise to ease this burden by distilling priors from internet-scale data, but the ``right'' representation for robotics remains unresolved: existing studies span broad but sparse task distributions and…",
 "au": "Leon Kim, Dinesh Jayaraman, Michael Posa",
 "d": "2026-11-16T02:00-03:00",
-"t": "On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks",
-"r": "Visuomotor imitation learning has become a predominant paradigm for real-world robotic manipulation, yet it remains data-inefficient and brittle to task-irrelevant visual shifts. Pre-trained visual representations promise to ease this burden by distilling priors from internet-scale data, but the ``right'' representation for robotics remains unresolved: existing studies span broad but sparse task distributions and…",
-"nt": 1,
+"t": "Sobre a utilidade de representações visuais pré-treinadas para aprendizagem de políticas de tarefas de inserção ricas em contato",
+"r": "A aprendizagem de imitação visuomotora tornou-se um paradigma predominante para a manipulação robótica do mundo real, mas permanece ineficiente em termos de dados e frágil para mudanças visuais irrelevantes para a tarefa. Representações visuais pré-treinadas prometem aliviar esse fardo destilando dados anteriores de dados em escala da Internet, mas a representação “certa” para a robótica permanece sem solução: os estudos existentes abrangem distribuições de tarefas amplas, mas esparsas e…",
 "c": [
 "geral"
 ]
@@ -133,9 +124,8 @@
 "ro": "Personalized bioelectronic devices for wound therapy require not only conformal fabrication on complex body surfaces but also functional adaptation of their electrical characteristics to individual wound geometries. Here, we present an AI-guided robotic in situ printing platform for fabricating wireless wound electrotherapy devices directly on transparent wound dressings. The system integrates a 3D vision camera, a…",
 "au": "Hiroyuki Tetsuka, Jiaju Ma, Naomi Kumano, Minoru Hirano",
 "d": "2026-11-16T02:00-03:00",
-"t": "AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics",
-"r": "Personalized bioelectronic devices for wound therapy require not only conformal fabrication on complex body surfaces but also functional adaptation of their electrical characteristics to individual wound geometries. Here, we present an AI-guided robotic in situ printing platform for fabricating wireless wound electrotherapy devices directly on transparent wound dressings. The system integrates a 3D vision camera, a…",
-"nt": 1,
+"t": "Fabricação robótica in situ guiada por IA de bioeletrônica sem fio adaptativa à curvatura e ao tecido",
+"r": "Dispositivos bioeletrônicos personalizados para terapia de feridas requerem não apenas fabricação conformada em superfícies corporais complexas, mas também adaptação funcional de suas características elétricas às geometrias individuais da ferida. Aqui, apresentamos uma plataforma de impressão robótica in situ guiada por IA para a fabricação de dispositivos de eletroterapia de feridas sem fio diretamente em curativos transparentes. O sistema integra uma câmera de visão 3D, um…",
 "c": [
 "geral"
 ]
@@ -147,9 +137,8 @@
 "ro": "Imitation policies for robot manipulation are often trained on noisy object positions, and they learn to discount the noisy reading. We show how much they discount it, and why. Because demonstrators steer toward the object, the robot's own state carries information about where the object is. A trained policy combines this proprioceptive anchor with the reading and weights the reading by $\\alpha = V/(V + s^2)$, where…",
 "au": "Christopher Malili",
 "d": "2026-11-16T02:00-03:00",
-"t": "Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost",
-"r": "Imitation policies for robot manipulation are often trained on noisy object positions, and they learn to discount the noisy reading. We show how much they discount it, and why. Because demonstrators steer toward the object, the robot's own state carries information about where the object is. A trained policy combines this proprioceptive anchor with the reading and weights the reading by $\\alpha = V/(V + s^2)$, where…",
-"nt": 1,
+"t": "Políticas de imitação Aprendam uma âncora proprioceptiva: uma lei preditiva para o ruído de percepção e seu custo de circuito fechado",
+"r": "As políticas de imitação para manipulação de robôs são frequentemente treinadas em posições de objetos ruidosos e aprendem a desconsiderar a leitura ruidosa. Mostramos quanto eles descontam e por quê. Como os demonstradores se dirigem em direção ao objeto, o próprio estado do robô carrega informações sobre onde o objeto está. Uma política treinada combina esta âncora proprioceptiva com a leitura e pondera a leitura por $\\alpha = V/(V + s^2)$, onde…",
 "c": [
 "geral"
 ]
@@ -161,9 +150,8 @@
 "ro": "The development of intelligent chassis increasingly requires the integration of environmental and perception information with high-fidelity vehicle dynamics to support environment-aware intelligent chassis control. However, existing autonomous-driving simulators and professional vehicle-dynamics tools are generally developed for different purposes, making it difficult to integrate environmental information, vehicle…",
 "au": "Lu Xiong, Yiming Zhou, Xuge Hu, Yi Zhang, Haoran Lv, Chen Tang",
 "d": "2026-11-16T02:00-03:00",
-"t": "EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development",
-"r": "The development of intelligent chassis increasingly requires the integration of environmental and perception information with high-fidelity vehicle dynamics to support environment-aware intelligent chassis control. However, existing autonomous-driving simulators and professional vehicle-dynamics tools are generally developed for different purposes, making it difficult to integrate environmental information, vehicle…",
-"nt": 1,
+"t": "EViDS: Uma Plataforma de Simulação Integrada de Dinâmica de Veículos para Desenvolvimento Inteligente de Chassis",
+"r": "O desenvolvimento de chassis inteligentes exige cada vez mais a integração de informações ambientais e de percepção com dinâmicas de veículos de alta fidelidade para apoiar o controle inteligente de chassis consciente do ambiente. No entanto, os simuladores de condução autónoma e as ferramentas profissionais de dinâmica de veículos existentes são geralmente desenvolvidos para finalidades diferentes, dificultando a integração de informações ambientais, do veículo…",
 "c": [
 "ia"
 ]
@@ -175,9 +163,8 @@
 "ro": "End-to-end autonomous driving is predominantly evaluated through ego-vehicle safety and task completion. Its deployment in urban traffic, however, creates sustained interactions among vehicles whose collective effects remain insufficiently evaluated. We introduce Ego2Flow, a closed-loop benchmark for assessing the traffic-system impact of autonomous driving on maps distilled from real-world cities. To construct…",
 "au": "Yu Dong, Weiying Shen, Hangyu Li, Shu Han, Hong Li, Xiangbo Gao, Keshu Wu, Zhengzhong Tu, Soyoung Ahn, Zhiyuan Liu, Xiaopeng Li",
 "d": "2026-11-16T02:00-03:00",
-"t": "Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads",
-"r": "End-to-end autonomous driving is predominantly evaluated through ego-vehicle safety and task completion. Its deployment in urban traffic, however, creates sustained interactions among vehicles whose collective effects remain insufficiently evaluated. We introduce Ego2Flow, a closed-loop benchmark for assessing the traffic-system impact of autonomous driving on maps distilled from real-world cities. To construct…",
-"nt": 1,
+"t": "Ego2Flow: comparando o impacto da direção autônoma no sistema de tráfego em mapas extraídos de estradas do mundo real",
+"r": "A condução autônoma de ponta a ponta é avaliada predominantemente através da segurança do ego do veículo e da conclusão de tarefas. A sua implantação no tráfego urbano, no entanto, cria interações sustentadas entre veículos cujos efeitos coletivos permanecem insuficientemente avaliados. Apresentamos o Ego2Flow, um benchmark de circuito fechado para avaliar o impacto da direção autônoma no sistema de trânsito em mapas extraídos de cidades do mundo real. Para construir…",
 "c": [
 "geral"
 ]
@@ -189,9 +176,8 @@
 "ro": "Depth and 3D foundation models can predict geometry from RGB images, allowing zero-shot object navigation without a depth sensor. However, when predicted depth is mapped as if it came from a sensor, view-dependent errors accumulate in the map, remove exploration goals, and end the search before the agent can observe and correct them. We propose ERA, a training-free object navigation system that replaces the depth…",
 "au": "Shunyang Huang, Shuo Wang, Wenyuan Xie, Mingyu Lin, Yue Ding, Hongtao Lu",
 "d": "2026-11-16T02:00-03:00",
-"t": "ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth",
-"r": "Depth and 3D foundation models can predict geometry from RGB images, allowing zero-shot object navigation without a depth sensor. However, when predicted depth is mapped as if it came from a sensor, view-dependent errors accumulate in the map, remove exploration goals, and end the search before the agent can observe and correct them. We propose ERA, a training-free object navigation system that replaces the depth…",
-"nt": 1,
+"t": "ERA: Navegação autônoma de objetos resistente a erros com profundidade prevista",
+"r": "Os modelos de profundidade e base 3D podem prever a geometria a partir de imagens RGB, permitindo a navegação de objetos com disparo zero sem um sensor de profundidade. No entanto, quando a profundidade prevista é mapeada como se viesse de um sensor, os erros dependentes da visão se acumulam no mapa, removem os objetivos de exploração e encerram a busca antes que o agente possa observá-los e corrigi-los. Propomos o ERA, um sistema de navegação de objetos sem treinamento que substitui a profundidade…",
 "c": [
 "ia"
 ]
@@ -203,9 +189,8 @@
 "ro": "Multi-view visual augmentation often seeks consistency across cameras, but it is unclear which forms of consistency matter for downstream control. We use simulation-state replay to manipulate cross-view coupling while preserving the per-camera perturbation distributions, physical trajectories, and action labels. Across seven LIBERO manipulation tasks, marginal-matched changes in global appearance, ghost injection…",
 "au": "Zixuan Jiang",
 "d": "2026-11-16T02:00-03:00",
-"t": "When Does Cross-View Consistency Matter in Multi-View Appearance Augmentation? A Controlled Study for Visuomotor Policies",
-"r": "Multi-view visual augmentation often seeks consistency across cameras, but it is unclear which forms of consistency matter for downstream control. We use simulation-state replay to manipulate cross-view coupling while preserving the per-camera perturbation distributions, physical trajectories, and action labels. Across seven LIBERO manipulation tasks, marginal-matched changes in global appearance, ghost injection…",
-"nt": 1,
+"t": "Quando a consistência entre visualizações é importante no aumento da aparência multivisualização? Um estudo controlado para políticas visuomotoras",
+"r": "O aumento visual de múltiplas visualizações geralmente busca consistência entre as câmeras, mas não está claro quais formas de consistência são importantes para o controle posterior. Usamos a repetição do estado de simulação para manipular o acoplamento de visão cruzada, preservando as distribuições de perturbação por câmera, trajetórias físicas e rótulos de ação. Através de sete tarefas de manipulação do LIBERO, mudanças marginais na aparência global, injeção fantasma…",
 "c": [
 "ia"
 ]
@@ -217,9 +202,8 @@
 "ro": "World models that support planning, control, and interpretable reasoning require latent representations that genuinely encode action. Yet the large-scale video data from which such models are learned overwhelmingly lack action annotations. Latent-action models infer action-like variables from observation sequences, enabling action-aware learning from unlabeled videos or trajectories. A fundamental concern, however…",
 "au": "Yu Zhou, Changsong Lei, Yixiang Wei, Kairui Wen, Huankun Sheng, Ming Li, Yeying Fan, Yu-Hui Wen, Yong-Jin Liu",
 "d": "2026-11-16T02:00-03:00",
-"t": "Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models",
-"r": "World models that support planning, control, and interpretable reasoning require latent representations that genuinely encode action. Yet the large-scale video data from which such models are learned overwhelmingly lack action annotations. Latent-action models infer action-like variables from observation sequences, enabling action-aware learning from unlabeled videos or trajectories. A fundamental concern, however…",
-"nt": 1,
+"t": "Além do ganho de previsão: LASR como uma métrica para ações latentes em modelos mundiais",
+"r": "Os modelos mundiais que apoiam o planeamento, o controlo e o raciocínio interpretável requerem representações latentes que codifiquem genuinamente a acção. No entanto, os dados de vídeo em grande escala a partir dos quais tais modelos são aprendidos carecem esmagadoramente de anotações de ação. Os modelos de ação latente inferem variáveis ​​semelhantes à ação a partir de sequências de observação, permitindo a aprendizagem consciente da ação a partir de vídeos ou trajetórias não rotuladas. Uma preocupação fundamental, no entanto…",
 "c": [
 "ia"
 ]
@@ -231,9 +215,8 @@
 "ro": "Service robots in domestic and office environments must identify users to provide personalized services based on their preferences and previous interactions. This is challenging because only a few observations may be available for learning, while observation conditions change owing to appearance, environmental noise, and utterance content. To address this challenge, this study proposes a multimodal person concept…",
 "au": "Mizuho Okitani, Yoshinobu Hagiwara",
 "d": "2026-11-16T02:00-03:00",
-"t": "Multimodal Person Concept Model for Person Identification under Varying Observation Conditions",
-"r": "Service robots in domestic and office environments must identify users to provide personalized services based on their preferences and previous interactions. This is challenging because only a few observations may be available for learning, while observation conditions change owing to appearance, environmental noise, and utterance content. To address this challenge, this study proposes a multimodal person concept…",
-"nt": 1,
+"t": "Modelo de conceito de pessoa multimodal para identificação de pessoa sob diversas condições de observação",
+"r": "Os robôs de serviço em ambientes domésticos e de escritório devem identificar os usuários para fornecer serviços personalizados com base em suas preferências e interações anteriores. Isto é um desafio porque apenas algumas observações podem estar disponíveis para aprendizagem, enquanto as condições de observação mudam devido à aparência, ao ruído ambiental e ao conteúdo do enunciado. Para enfrentar este desafio, este estudo propõe um conceito de pessoa multimodal…",
 "c": [
 "servico"
 ]
@@ -245,9 +228,8 @@
 "ro": "Safe navigation of robot collectives requires coordinating motion and deformation so that the collective can traverse constrained environments while ensuring each robot's safety. Existing controllers for swarmalator collectives largely rely on local control, where each robot receives an individual command, which causes the control and communication requirements to grow with the number of agents. We introduce a…",
 "au": "Seunghwan Jang, Steven Ceron, Wei Xiao",
 "d": "2026-11-16T02:00-03:00",
-"t": "Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design",
-"r": "Safe navigation of robot collectives requires coordinating motion and deformation so that the collective can traverse constrained environments while ensuring each robot's safety. Existing controllers for swarmalator collectives largely rely on local control, where each robot receives an individual command, which causes the control and communication requirements to grow with the number of agents. We introduce a…",
-"nt": 1,
+"t": "Navegação segura por agente de coletivos de robôs conduzidos globalmente por meio de design de campo afim",
+"r": "A navegação segura de coletivos de robôs requer coordenação de movimento e deformação para que o coletivo possa atravessar ambientes restritos e, ao mesmo tempo, garantir a segurança de cada robô. Os controladores existentes para coletivos swarmatores dependem em grande parte do controle local, onde cada robô recebe um comando individual, o que faz com que os requisitos de controle e comunicação cresçam com o número de agentes. Apresentamos um…",
 "c": [
 "microrrobos"
 ]
@@ -259,9 +241,8 @@
 "ro": "Reinforcement learning has enabled robust humanoid locomotion, yet training recipes (rewards, architectures, hyperparameters) remain hard to reuse across robots with different native joint coordinates, since policies output native joint angles while action scales, bounds, gains, and penalties are defined in those robot-specific coordinates. Existing transmission models convert native targets into actuator commands…",
 "au": "Sol Choi, Mingon Kim, Seokin Seo, Jongeun Choi, Donghyeon Kim, Yisoo Lee",
 "d": "2026-11-16T02:00-03:00",
-"t": "Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints",
-"r": "Reinforcement learning has enabled robust humanoid locomotion, yet training recipes (rewards, architectures, hyperparameters) remain hard to reuse across robots with different native joint coordinates, since policies output native joint angles while action scales, bounds, gains, and penalties are defined in those robot-specific coordinates. Existing transmission models convert native targets into actuator commands…",
-"nt": 1,
+"t": "Reutilizando receitas de treinamento de locomoção em humanóides por meio de articulações virtuais alinhadas ao corpo",
+"r": "O aprendizado por reforço permitiu a locomoção humanóide robusta, mas as receitas de treinamento (recompensas, arquiteturas, hiperparâmetros) continuam difíceis de reutilizar em robôs com diferentes coordenadas articulares nativas, uma vez que as políticas geram ângulos articulares nativos enquanto escalas de ação, limites, ganhos e penalidades são definidos nessas coordenadas específicas do robô. Os modelos de transmissão existentes convertem alvos nativos em comandos de atuadores…",
 "c": [
 "humanoides"
 ]
@@ -273,9 +254,8 @@
 "ro": "Large language and vision-language models have substantially advanced robotic behavior planning from natural-language instructions and visual observations. However, safe manipulation in tabletop environments remains challenging because the safety constraints required for a task depend on the surrounding scene and may not be explicitly specified in the instruction. We propose a safety-aware behavior planning…",
 "au": "Xianxu Wu, Shang-Ching Liu, Zhaocong Liang, Hengxiang Chen, Yujian Ma, Shenwen Deng, Qiang Li, Jianwei Zhang",
 "d": "2026-11-16T02:00-03:00",
-"t": "A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space",
-"r": "Large language and vision-language models have substantially advanced robotic behavior planning from natural-language instructions and visual observations. However, safe manipulation in tabletop environments remains challenging because the safety constraints required for a task depend on the surrounding scene and may not be explicitly specified in the instruction. We propose a safety-aware behavior planning…",
-"nt": 1,
+"t": "Uma abordagem generalizável para planejamento de comportamento robótico consciente da segurança com um espaço de restrição explícita",
+"r": "Grandes modelos de linguagem e linguagem visual avançaram substancialmente no planejamento do comportamento robótico a partir de instruções em linguagem natural e observações visuais. No entanto, a manipulação segura em ambientes de mesa continua a ser um desafio porque as restrições de segurança exigidas para uma tarefa dependem da cena circundante e podem não ser explicitamente especificadas nas instruções. Propomos um planejamento de comportamento consciente da segurança…",
 "c": [
 "geral"
 ]
@@ -287,9 +267,8 @@
 "ro": "Reaching a goal state in a complex environment often requires a robot to overcome challenging terrain and obstacles. Which routes are accessible depends on the robot's physical design, the control policy it uses, and how it modifies its surroundings. We present a kinodynamic rapidly-exploring random tree (RRT) planner that uses physics simulation to exploit skills encoded in the control policy, which allows it to…",
 "au": "Yael Fassbind, Valentin N. Hartmann, Huang Su, Yijiang Huang, Stelian Coros",
 "d": "2026-11-16T02:00-03:00",
-"t": "PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots",
-"r": "Reaching a goal state in a complex environment often requires a robot to overcome challenging terrain and obstacles. Which routes are accessible depends on the robot's physical design, the control policy it uses, and how it modifies its surroundings. We present a kinodynamic rapidly-exploring random tree (RRT) planner that uses physics simulation to exploit skills encoded in the control policy, which allows it to…",
-"nt": 1,
+"t": "PoliMop: Planejamento de Movimento Policy-in-the-Loop em Espaços 3D para Robôs Móveis",
+"r": "Alcançar um estado objetivo em um ambiente complexo geralmente requer que um robô supere terrenos e obstáculos desafiadores. Quais rotas são acessíveis dependem do projeto físico do robô, da política de controle que ele utiliza e de como ele modifica seu entorno. Apresentamos um planejador de árvore aleatória (RRT) cinodinâmico de exploração rápida que usa simulação física para explorar habilidades codificadas na política de controle, o que permite…",
 "c": [
 "ia"
 ]
@@ -301,9 +280,8 @@
 "ro": "Semantic exploration methods for object-goal navigation use large language models (LLMs) to score how strongly a target object is associated with a room type or with a nearby object. This paper considers obtaining from the LLM a spatial prior instead: a distribution over the position of the target in a room. We evaluate whether two open-weight LLMs, Qwen3.5-27B and Gemma-4-31B-it, can provide such a prior. Using…",
 "au": "Jun Miura",
 "d": "2026-11-16T02:00-03:00",
-"t": "Evaluating Language Models as Spatial Priors for Object-Goal Navigation",
-"r": "Semantic exploration methods for object-goal navigation use large language models (LLMs) to score how strongly a target object is associated with a room type or with a nearby object. This paper considers obtaining from the LLM a spatial prior instead: a distribution over the position of the target in a room. We evaluate whether two open-weight LLMs, Qwen3.5-27B and Gemma-4-31B-it, can provide such a prior. Using…",
-"nt": 1,
+"t": "Avaliando modelos de linguagem como antecedentes espaciais para navegação objeto-objetivo",
+"r": "Os métodos de exploração semântica para navegação objeto-objetivo usam grandes modelos de linguagem (LLMs) para avaliar o quão fortemente um objeto alvo está associado a um tipo de sala ou a um objeto próximo. Este artigo considera obter do LLM uma priorização espacial: uma distribuição sobre a posição do alvo em uma sala. Avaliamos se dois LLMs de peso aberto, Qwen3.5-27B e Gemma-4-31B-it, podem fornecer tal prioridade. Usando…",
 "c": [
 "geral"
 ]
@@ -315,9 +293,8 @@
 "ro": "Independently pretrained language models and vision-language-action (VLA) policies provide complementary building blocks for embodied agents, but connecting them does not automatically produce coordinated behavior. The VLA may generate actions that diverge from the LLM's intended subtask and, upon regaining control after a correction, undo the promising state restored by the LLM. We introduce ESI (Embodied…",
 "au": "Yundi Cai, Zihan Wang, Chenxi Han, Yi Cheng, Houde Liu, Zilei Wang",
 "d": "2026-11-16T02:00-03:00",
-"t": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
-"r": "Independently pretrained language models and vision-language-action (VLA) policies provide complementary building blocks for embodied agents, but connecting them does not automatically produce coordinated behavior. The VLA may generate actions that diverge from the LLM's intended subtask and, upon regaining control after a correction, undo the promising state restored by the LLM. We introduce ESI (Embodied…",
-"nt": 1,
+"t": "ESI: um volante de autoaperfeiçoamento incorporado para agentes LLM-VLA",
+"r": "Modelos de linguagem pré-treinados de forma independente e políticas de visão-linguagem-ação (VLA) fornecem blocos de construção complementares para agentes incorporados, mas conectá-los não produz automaticamente um comportamento coordenado. O VLA pode gerar ações que divergem da subtarefa pretendida pelo LLM e, ao recuperar o controle após uma correção, desfazer o estado promissor restaurado pelo LLM. Apresentamos ESI (Emcorporado…",
 "c": [
 "ia",
 "competicoes"
@@ -330,9 +307,8 @@
 "ro": "On small single-board computers (SBCs), GNSS signal acquisition is a major CPU load. This paper proposes using the neural processing unit (NPU) of an SBC not for machine learning but as an accelerator for the parallel code search in GNSS signal acquisition. The discrete Fourier transform (DFT) used in acquisition is decomposed by the four-step DFT into matrix products of small DFTs and expressed by $1\\times1$…",
 "au": "Taro Suzuki",
 "d": "2026-11-16T02:00-03:00",
-"t": "NPU-Accelerated GNSS Signal Acquisition",
-"r": "On small single-board computers (SBCs), GNSS signal acquisition is a major CPU load. This paper proposes using the neural processing unit (NPU) of an SBC not for machine learning but as an accelerator for the parallel code search in GNSS signal acquisition. The discrete Fourier transform (DFT) used in acquisition is decomposed by the four-step DFT into matrix products of small DFTs and expressed by $1\\times1$…",
-"nt": 1,
+"t": "Aquisição de sinal GNSS acelerada por NPU",
+"r": "Em pequenos computadores de placa única (SBCs), a aquisição de sinal GNSS é uma grande carga de CPU. Este artigo propõe o uso da unidade de processamento neural (NPU) de um SBC não para aprendizado de máquina, mas como um acelerador para a busca paralela de código na aquisição de sinais GNSS. A transformada discreta de Fourier (DFT) usada na aquisição é decomposta pela DFT de quatro etapas em produtos matriciais de pequenas DFTs e expressa por $1\\vezes1$…",
 "c": [
 "negocios"
 ]
@@ -344,9 +320,8 @@
 "ro": "Vision-language models (VLMs) have shown strong semantic and spatial reasoning capabilities in 3D environments. Recently, connecting VLMs with model-predictive controllers (MPC) has emerged as a paradigm for combining strong semantic reasoning with physics-based planning. However, connecting these two for contact-rich robotic manipulation requires a task representation that bridges the two and captures how physical…",
 "au": "Zihao Lu, Trong Gia Hung Nguyen, Fuquan Wang, Yifan Zhu",
 "d": "2026-11-16T02:00-03:00",
-"t": "Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation",
-"r": "Vision-language models (VLMs) have shown strong semantic and spatial reasoning capabilities in 3D environments. Recently, connecting VLMs with model-predictive controllers (MPC) has emerged as a paradigm for combining strong semantic reasoning with physics-based planning. However, connecting these two for contact-rich robotic manipulation requires a task representation that bridges the two and captures how physical…",
-"nt": 1,
+"t": "Objetivos como Políticas: Programas de Custo do Modelo de Visão-Linguagem para Manipulação Rica em Contatos",
+"r": "Modelos de linguagem de visão (VLMs) mostraram fortes capacidades de raciocínio semântico e espacial em ambientes 3D. Recentemente, conectar VLMs com controladores preditivos de modelo (MPC) surgiu como um paradigma para combinar um forte raciocínio semântico com planejamento baseado em física. No entanto, conectar esses dois para uma manipulação robótica rica em contato requer uma representação de tarefa que faça a ponte entre os dois e capture o quão físico…",
 "c": [
 "geral"
 ]
@@ -358,9 +333,8 @@
 "ro": "Vision-based perceptive locomotion has enabled legged robots to achieve agile and terrain-aware locomotion across complex environments. However, the reliability of such systems heavily depends on visual observations, which are inherently susceptible to occlusion, reflective surfaces, and illumination variations, often resulting in catastrophic locomotion failures under degraded perception conditions. In this paper…",
 "au": "Siyuan Wang, Dongjie Zhu, Jinxuan Lu, Wenjun Xu, Jiankun Wang",
 "d": "2026-11-16T02:00-03:00",
-"t": "PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion",
-"r": "Vision-based perceptive locomotion has enabled legged robots to achieve agile and terrain-aware locomotion across complex environments. However, the reliability of such systems heavily depends on visual observations, which are inherently susceptible to occlusion, reflective surfaces, and illumination variations, often resulting in catastrophic locomotion failures under degraded perception conditions. In this paper…",
-"nt": 1,
+"t": "PROVA: Robustez Perceptiva via Fallback Fora de Distribuição para Locomoção com Pernas",
+"r": "A locomoção perceptiva baseada na visão permitiu que robôs com pernas alcançassem uma locomoção ágil e consciente do terreno em ambientes complexos. No entanto, a confiabilidade de tais sistemas depende fortemente de observações visuais, que são inerentemente suscetíveis à oclusão, superfícies reflexivas e variações de iluminação, resultando muitas vezes em falhas catastróficas de locomoção sob condições de percepção degradadas. Nesse artigo…",
 "c": [
 "quadrupedes"
 ]
@@ -372,9 +346,8 @@
 "ro": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: observing the…",
 "au": "Grid Robotics,  :, Qingfeng Lan, Duo Li, Siyao Li, Yiheng Lyu, Shijian Lu, Zhenghao Qi, Shizun Wang, Xinchao Wang, Ming Yang, Zhiqin Yang, Zuhao Yang, Tao Yu",
 "d": "2026-11-16T02:00-03:00",
-"t": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
-"r": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: observing the…",
-"nt": 1,
+"t": "Prevendo a Robótica Agente: Uma Nova Era de Sistemas Robóticos",
+"r": "O lançamento do GPT-6 Astra marca o surgimento de um novo paradigma na robótica: a robótica de agência. Em poucas semanas, os modelos de fronteira com forças de ação igualaram ou superaram as políticas específicas de tarefas em muitos benchmarks incorporados. Em vez de treinar uma política dedicada para cada família de tarefas, um sistema robótico agente aplica um modelo básico para tarefas incorporadas de mundo aberto. Opera em circuito fechado: observando o…",
 "c": [
 "ia"
 ]
@@ -386,9 +359,8 @@
 "ro": "Automation of heavy machinery offers the opportunity to improve productivity in mechanized industries such as construction, mining, and material handling. Yet, automation of such machines is challenged by their complex dynamics, in part because of hydraulic actuation that involves fluids, flexible elements, and nonlinear delays. A concomitant challenge is the size and weight of these machines, which can make…",
 "au": "Pierre-Jean Lorentz, Pascal Egli, Edo Jelavic, Cliff Li, Ramitha Sundar, Harikrishnan Suresh, Paul Montgomery, Lee Redden, Matthias M\\\"uller, Ozan Sener…",
 "d": "2026-11-16T02:00-03:00",
-"t": "Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders",
-"r": "Automation of heavy machinery offers the opportunity to improve productivity in mechanized industries such as construction, mining, and material handling. Yet, automation of such machines is challenged by their complex dynamics, in part because of hydraulic actuation that involves fluids, flexible elements, and nonlinear delays. A concomitant challenge is the size and weight of these machines, which can make…",
-"nt": 1,
+"t": "Acrobacias de heavy metal: aprendendo controle dinâmico para minicarregadeiras",
+"r": "A automação de máquinas pesadas oferece a oportunidade de melhorar a produtividade em indústrias mecanizadas, como construção, mineração e manuseio de materiais. No entanto, a automação de tais máquinas é desafiada pela sua dinâmica complexa, em parte devido à atuação hidráulica que envolve fluidos, elementos flexíveis e atrasos não lineares. Um desafio concomitante é o tamanho e o peso dessas máquinas, que podem fazer…",
 "c": [
 "construcao"
 ]
@@ -400,9 +372,8 @@
 "ro": "Vision-language-action (VLA) models adapt web-pretrained vision-language models to output robot actions, so that web knowledge carries over to physical control. In under 4 years the field has moved from RT-2, the first VLA, to open models that fine-tune on a single consumer GPU and to proprietary generalists that clean unseen homes. This survey reviews 88 works from December 2022 to October 2026, mainly on…",
 "au": "Suvarna Kadam (Witsense AI), Soran Parsa (University of Huddersfield)",
 "d": "2026-11-16T02:00-03:00",
-"t": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
-"r": "Vision-language-action (VLA) models adapt web-pretrained vision-language models to output robot actions, so that web knowledge carries over to physical control. In under 4 years the field has moved from RT-2, the first VLA, to open models that fine-tune on a single consumer GPU and to proprietary generalists that clean unseen homes. This survey reviews 88 works from December 2022 to October 2026, mainly on…",
-"nt": 1,
+"t": "Modelos Visão-Linguagem-Ação: Uma Pesquisa do Ciclo de Vida de Design, Treinamento e Implantação",
+"r": "Os modelos de linguagem de visão e ação (VLA) adaptam modelos de linguagem de visão pré-treinados na web para gerar ações de robôs, de modo que o conhecimento da web seja transferido para o controle físico. Em menos de 4 anos, o campo passou do RT-2, o primeiro VLA, para modelos abertos que fazem ajuste fino em uma única GPU de consumidor e para generalistas proprietários que limpam residências invisíveis. Esta pesquisa analisa 88 trabalhos de dezembro de 2022 a outubro de 2026, principalmente sobre…",
 "c": [
 "ia"
 ]
@@ -414,9 +385,8 @@
 "ro": "Linear-attention language models replace a growing key-value cache with a recurrent state of fixed size. On an edge FPGA, this state can exceed the on-chip memory and must be paged to external memory. This paper asks whether such paging dominates the cost of decoding (generating tokens). We built a hardware tile that computes one complete layer of a custom 369-million-parameter hybrid Gated DeltaNet model on an…",
 "au": "Cong Xu, Ravi Sankar",
 "d": "2026-11-16T02:00-03:00",
-"t": "The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon",
-"r": "Linear-attention language models replace a growing key-value cache with a recurrent state of fixed size. On an edge FPGA, this state can exceed the on-chip memory and must be paged to external memory. This paper asks whether such paging dominates the cost of decoding (generating tokens). We built a hardware tile that computes one complete layer of a custom 369-million-parameter hybrid Gated DeltaNet model on an…",
-"nt": 1,
+"t": "O estado não é o gargalo: um bloco Gated-DeltaNet de estado paginado em uma malha multicast de modo triplo, bit exato de RTL para silício",
+"r": "Os modelos de linguagem de atenção linear substituem um cache crescente de valores-chave por um estado recorrente de tamanho fixo. Em um FPGA de ponta, esse estado pode exceder a memória on-chip e deve ser paginado para memória externa. Este artigo pergunta se tal paginação domina o custo de decodificação (geração de tokens). Construímos um bloco de hardware que calcula uma camada completa de um modelo Gated DeltaNet híbrido personalizado de 369 milhões de parâmetros em um…",
 "c": [
 "negocios"
 ]
@@ -428,9 +398,8 @@
 "ro": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely confined to…",
 "au": "Ivana Ragusa, Lorenzo Guiducci, Filippo Cavallo",
 "d": "2026-11-16T02:00-03:00",
-"t": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
-"r": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely confined to…",
-"nt": 1,
+"t": "Do monitoramento remoto de pacientes habilitado para IA até a robótica agente: incorporação, governança e integração de cuidados",
+"r": "O monitoramento remoto de pacientes habilitado por IA está evoluindo além da coleta passiva de dados em direção a sistemas de IA agentes que interpretam os estados dos pacientes, coordenam o atendimento e iniciam ações em ambientes domésticos e clínicos. Esta revisão de escopo estruturada conclui que o cuidado agente maduro ainda não surgiu: a maioria dos sistemas permanece liderada por humanos, enquanto um acoplamento mais forte de decisão-ação e IA incorporada permanecem em grande parte confinados a...",
 "c": [
 "medicina"
 ]
@@ -442,9 +411,8 @@
 "ro": "Cooperative self-play can teach a humanoid to receive an object without any human data, but the partner it meets after training is never the one it trained with; we show that a fluent self-play handover policy breaks with unfamiliar partners, identify the main cause, and repair it. In a physics-based parcel handover between a Unitree G1 and a learned giver, both trained by alternating PPO self-play, the receiver…",
 "au": "Mohammad Khoshnazar, Mike Degany, Deyuan Qu, Qing Yang, Matyas Szanto",
 "d": "2026-11-16T02:00-03:00",
-"t": "When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners",
-"r": "Cooperative self-play can teach a humanoid to receive an object without any human data, but the partner it meets after training is never the one it trained with; we show that a fluent self-play handover policy breaks with unfamiliar partners, identify the main cause, and repair it. In a physics-based parcel handover between a Unitree G1 and a learned giver, both trained by alternating PPO self-play, the receiver…",
-"nt": 1,
+"t": "Quando você vai entregá-lo? Um atraso de início oculto torna a transferência de reprodução automática robusta para parceiros desconhecidos",
+"r": "O jogo autônomo cooperativo pode ensinar um humanóide a receber um objeto sem quaisquer dados humanos, mas o parceiro que ele encontra após o treinamento nunca é aquele com quem treinou; mostramos que uma política fluente de transferência de auto-jogo rompe com parceiros desconhecidos, identifica a causa principal e a repara. Em uma transferência de pacotes baseada na física entre um Unitree G1 e um doador instruído, ambos treinados pela alternância do auto-jogo PPO, o receptor…",
 "c": [
 "humanoides",
 "logistica"
@@ -457,9 +425,8 @@
 "ro": "Self-driving laboratories (SDLs) accelerate scientific research by integrating robotics, automated experimentation, and machine learning to execute experiments autonomously. Biology and chemistry have adopted these systems. However, increasing SDL complexity heightens susceptibility to unexpected faults in automated workflows, highlighting the need for efficient recovery mechanisms. In this study, we investigate…",
 "au": "Ziheng Wu, Adrian Vecina Tercero, Andre A. Fatehi, Abhik Sarkar, Brian Giera, Eric B. Duoss, Christopher M. Spadaccini, Nikhil Deshpande, Aldair E. Gongora",
 "d": "2026-11-16T02:00-03:00",
-"t": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
-"r": "Self-driving laboratories (SDLs) accelerate scientific research by integrating robotics, automated experimentation, and machine learning to execute experiments autonomously. Biology and chemistry have adopted these systems. However, increasing SDL complexity heightens susceptibility to unexpected faults in automated workflows, highlighting the need for efficient recovery mechanisms. In this study, we investigate…",
-"nt": 1,
+"t": "Rumo a laboratórios autônomos resilientes por meio de intervenções telerobóticas",
+"r": "Laboratórios autônomos (SDLs) aceleram a pesquisa científica integrando robótica, experimentação automatizada e aprendizado de máquina para executar experimentos de forma autônoma. A biologia e a química adotaram esses sistemas. No entanto, o aumento da complexidade do SDL aumenta a suscetibilidade a falhas inesperadas em fluxos de trabalho automatizados, destacando a necessidade de mecanismos de recuperação eficientes. Neste estudo, investigamos…",
 "c": [
 "autonomos"
 ]
@@ -471,9 +438,8 @@
 "ro": "Harmful Algal Blooms (HABs) pose significant environmental, economic, and public-health challenges in coastal and inland water bodies, creating a need for scalable methods to collect spatially distributed water-quality data. This paper presents an autonomous surface vessel-based sensing system for in-situ water-quality monitoring related to harmful algal bloom detection. The system integrates a BlueBoat Autonomous…",
 "au": "Nenyi Kweku Nkensen Dadson, Jean Paul Gonzalez, Daniel P. Arabie, Ryan J. Cedel, Dorin Boldor, Corina Barbalata",
 "d": "2026-11-16T02:00-03:00",
-"t": "In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles",
-"r": "Harmful Algal Blooms (HABs) pose significant environmental, economic, and public-health challenges in coastal and inland water bodies, creating a need for scalable methods to collect spatially distributed water-quality data. This paper presents an autonomous surface vessel-based sensing system for in-situ water-quality monitoring related to harmful algal bloom detection. The system integrates a BlueBoat Autonomous…",
-"nt": 1,
+"t": "Monitoramento in situ e modelagem preditiva de proliferação de algas nocivas com veículos de superfície autônomos",
+"r": "A proliferação de algas nocivas (HABs) representa desafios ambientais, económicos e de saúde pública significativos em massas de água costeiras e interiores, criando uma necessidade de métodos escaláveis ​​para recolher dados de qualidade da água distribuídos espacialmente. Este artigo apresenta um sistema de detecção autônomo baseado em embarcações de superfície para monitoramento in-situ da qualidade da água relacionado à detecção de proliferação de algas nocivas. O sistema integra um BlueBoat Autonomous…",
 "c": [
 "geral"
 ]
@@ -485,9 +451,8 @@
 "ro": "Autonomous robots are widely used for persistent monitoring of spatiotemporal environments, where quantities of interest (QoI) change across space and time and require repeated measurements. In practice, robot motion can be affected by external disturbances that vary across the environment. When such external disturbances are not considered in trajectory optimization, it can lead to inaccurate predictions of robot…",
 "au": "Kaleb Ben Naveed, Haejoon Lee, Anouck Girard, Dimitra Panagou",
 "d": "2026-11-16T02:00-03:00",
-"t": "Disturbance-Aware Informative Planning in Spatiotemporal Environments",
-"r": "Autonomous robots are widely used for persistent monitoring of spatiotemporal environments, where quantities of interest (QoI) change across space and time and require repeated measurements. In practice, robot motion can be affected by external disturbances that vary across the environment. When such external disturbances are not considered in trajectory optimization, it can lead to inaccurate predictions of robot…",
-"nt": 1,
+"t": "Planejamento Informativo Consciente de Perturbações em Ambientes Espaçotemporais",
+"r": "Robôs autônomos são amplamente utilizados para monitoramento persistente de ambientes espaço-temporais, onde as quantidades de interesse (QoI) mudam no espaço e no tempo e requerem medições repetidas. Na prática, o movimento do robô pode ser afetado por perturbações externas que variam no ambiente. Quando tais perturbações externas não são consideradas na otimização da trajetória, isso pode levar a previsões imprecisas do robô…",
 "c": [
 "geral"
 ]
@@ -499,9 +464,8 @@
 "ro": "Accurate friction modeling in continuum robots is essential for precise motion control and path planning. However, current approaches make predictions only for the mechanism's internal friction that is limited by the boundary forces of the Coulomb friction cone, which fail to characterize the static friction and motion hysteresis. In this paper, we propose a novel friction model based on complementarity constraints…",
 "au": "Jia Shen, Junhyoung Ha, Yue Chen",
 "d": "2026-11-16T02:00-03:00",
-"t": "Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem",
-"r": "Accurate friction modeling in continuum robots is essential for precise motion control and path planning. However, current approaches make predictions only for the mechanism's internal friction that is limited by the boundary forces of the Coulomb friction cone, which fail to characterize the static friction and motion hysteresis. In this paper, we propose a novel friction model based on complementarity constraints…",
-"nt": 1,
+"t": "Modelando o Contato Friccional de Robôs Contínuos com Ambientes através do Problema de Complementaridade Linear",
+"r": "A modelagem precisa de atrito em robôs contínuos é essencial para controle preciso de movimento e planejamento de trajetória. No entanto, as abordagens atuais fazem previsões apenas para o atrito interno do mecanismo que é limitado pelas forças limite do cone de atrito de Coulomb, que não conseguem caracterizar o atrito estático e a histerese de movimento. Neste artigo, propomos um novo modelo de fricção baseado em restrições de complementaridade…",
 "c": [
 "geral"
 ]
@@ -513,9 +477,8 @@
 "ro": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely…",
 "au": "Jiaming Tang, Zhuoyang Zhang, Junxian Guo, Fangzhou Zhao, Yilong Zhao, Zekai Li, Xingyang Li, Yuyang Zhao, Song Bian, Zhijian Liu, Song Han",
 "d": "2026-11-16T02:00-03:00",
-"t": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-"r": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely…",
-"nt": 1,
+"t": "Treinamento de modelos de raciocínio em simulação para uso nativo de robôs reais",
+"r": "Os agentes de uso de robôs (RUAs) surgiram como uma abordagem promissora para o controle de robôs de uso geral. No entanto, até agora, um forte desempenho foi alcançado apenas por modelos proprietários de ponta, como o GPT-6 Astra e o Claude Fable 5.2, enquanto os modelos de peso aberto permanecem substancialmente menos capazes. Mostramos que um modelo de raciocínio 27B de peso aberto pode ser treinado para usar robôs reais nativamente por meio de aprendizagem por reforço, inteiramente…",
 "c": [
 "ia"
 ]

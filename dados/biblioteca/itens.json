@@ -9,9 +9,9 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-flexibl-1.jpg",
 "to": "A shared signal for humans and robots: Flexible display uses both color and near-infrared to communicate",
 "ro": "A joint research team from the Korea Advanced Institute of Science and Technology (KAIST) and Yonsei University has developed a flexible display that can communicate information to both humans and robots. Human workers can interpret information through visible color changes, while robots can detect near-infrared…",
-"nt": 1,
-"t": "A shared signal for humans and robots: Flexible display uses both color and near-infrared to communicate",
-"r": "A joint research team from the Korea Advanced Institute of Science and Technology (KAIST) and Yonsei University has developed a flexible display that can communicate information to both humans and robots. Human workers can interpret information through visible color changes, while robots can detect near-infrared…",
+"t": "Um sinal compartilhado para humanos e robôs: a tela flexível usa cores e infravermelho próximo para se comunicar",
+"r": "Uma equipe de pesquisa conjunta do Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST) e da Universidade Yonsei desenvolveu um display flexível que pode comunicar informações tanto para humanos quanto para robôs. Os trabalhadores humanos podem interpretar informações através de mudanças de cores visíveis, enquanto os robôs podem detectar o infravermelho próximo…",
+"lg": "en",
 "c": [
 "ia"
 ]
@@ -26,9 +26,9 @@
 "i": "https://scx1.b-cdn.net/csz/news/tmb/2026/flashing-green-with-ev.jpg",
 "to": "Self-illuminating fibers reveal soft robot movements without batteries or complex electronic circuits",
 "ro": "A research team led by Professor Soon Moon Jeong of the Department of Advanced Technology at the Graduate School of Engineering Practice at DGIST, has developed a new sensing technology for soft robots that emits light whenever the robot moves, providing an intuitive visual representation of its movement trajectory…",
-"nt": 1,
-"t": "Self-illuminating fibers reveal soft robot movements without batteries or complex electronic circuits",
-"r": "A research team led by Professor Soon Moon Jeong of the Department of Advanced Technology at the Graduate School of Engineering Practice at DGIST, has developed a new sensing technology for soft robots that emits light whenever the robot moves, providing an intuitive visual representation of its movement trajectory…",
+"t": "Fibras autoiluminadas revelam movimentos suaves do robô sem baterias ou circuitos eletrônicos complexos",
+"r": "Uma equipa de investigação liderada pelo Professor Soon Moon Jeong do Departamento de Tecnologia Avançada da Escola Superior de Prática de Engenharia da DGIST, desenvolveu uma nova tecnologia de detecção para robôs leves que emite luz sempre que o robô se move, fornecendo uma representação visual intuitiva da sua trajetória de movimento…",
+"lg": "en",
 "c": [
 "microrrobos",
 "ia",
@@ -46,9 +46,9 @@
 "i": "https://cdn.mos.cms.futurecdn.net/rT6n9K4bQpHFm3oCTkjrY3-1920-80.jpg",
 "to": "Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows",
 "ro": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
-"nt": 1,
-"t": "Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows",
-"r": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
+"t": "Pequenos robôs podem passar pelos vasos sanguíneos para ajudar a dissolver coágulos sanguíneos, mostram os primeiros testes",
+"r": "Em recentes testes em animais, pequenos robôs lançados na corrente sanguínea mostraram-se promissores no tratamento de coágulos sanguíneos.",
+"lg": "en",
 "c": [
 "microrrobos"
 ]
@@ -63,14 +63,14 @@
 "i": "https://robohub.org/wp-content/uploads/2026/09/bigstock-Movie-Old-Film-Reel-On-Dark-Ba-244927426.jpg",
 "to": "Watch the IROS 2026 plenary and keynote talks",
 "ro": "The 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) was held in Pittsburgh from 27 September to 1 October. The event brought together researchers and industry professionals with expertise spanning many different aspects of robotics. IEEE have made the keynote and plenary panel…",
-"nt": 1,
-"t": "Watch the IROS 2026 plenary and keynote talks",
-"r": "The 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) was held in Pittsburgh from 27 September to 1 October. The event brought together researchers and industry professionals with expertise spanning many different aspects of robotics. IEEE have made the keynote and plenary panel…",
+"t": "Assista à plenária e às palestras principais do IROS 2026",
+"r": "A Conferência Internacional IEEE/RSJ 2026 sobre Robôs e Sistemas Inteligentes (IROS) foi realizada em Pittsburgh de 27 de setembro a 1º de outubro. O evento reuniu pesquisadores e profissionais da indústria com experiência em diversos aspectos da robótica. O IEEE fez a palestra e o painel plenário…",
 "mx": 1,
 "c": [
 "competicoes",
 "ia"
-]
+],
+"lg": "en"
 },
 {
 "id": "be2352f4d88f1f",
@@ -83,13 +83,13 @@
 "inst": "Frontiers",
 "to": "Editorial: Trustworthy and explainable machine learning for human-aligned robotics and intelligent systems",
 "ro": "The application of explainable machine learning to robotic systems requires methods that connect high-level decisions with observable actions. Ding et al. (2...",
-"nt": 1,
-"t": "Editorial: Trustworthy and explainable machine learning for human-aligned robotics and intelligent systems",
-"r": "",
+"t": "Editorial: Aprendizado de máquina confiável e explicável para robótica alinhada ao homem e sistemas inteligentes",
+"r": "A aplicação de aprendizado de máquina explicável a sistemas robóticos requer métodos que conectem decisões de alto nível com ações observáveis. Ding et al. (2...",
 "mx": 1,
 "c": [
-"geral"
-]
+"negocios"
+],
+"lg": "en"
 },
 {
 "id": "253de7f7252f35",
@@ -102,13 +102,13 @@
 "inst": "Frontiers",
 "to": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
 "ro": "Online motion of a redundant manipulator in a cluttered workspace has to reconcile end-effector tracking with two further goals: keeping every link clear of obstacles and staying away from kinematic singularities. Existing reactive and task-priority schemes usually address these goals separately or sacrifice tracking…",
-"nt": 1,
-"t": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
-"r": "Online motion of a redundant manipulator in a cluttered workspace has to reconcile end-effector tracking with two further goals: keeping every link clear of obstacles and staying away from kinematic singularities. Existing reactive and task-priority schemes usually address these goals separately or sacrifice tracking…",
+"t": "Otimização da manipulabilidade em tempo real com prevenção de obstáculos de todo o braço para manipuladores redundantes por meio de dinâmica neural de projeção",
+"r": "O movimento on-line de um manipulador redundante em um espaço de trabalho desordenado precisa conciliar o rastreamento do efetor final com dois objetivos adicionais: manter cada link livre de obstáculos e evitar singularidades cinemáticas. Os esquemas reativos e de prioridade de tarefas existentes geralmente abordam esses objetivos separadamente ou sacrificam o rastreamento…",
 "mx": 1,
 "c": [
 "geral"
-]
+],
+"lg": "en"
 },
 {
 "id": "418e26fcb80db5",
