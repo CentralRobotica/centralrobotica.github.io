@@ -568,6 +568,35 @@
 "rx": "Robôs assassinos e drones serão avaliados esta semana, enquanto os enviados do governo aceleram a discussão e podem decidir se iniciam negociações para estabelecer regras para o uso das máquinas mortais – ou não."
 },
 {
+"id": "f781569455abf9",
+"t": "Huawei aprimora inteligência artificial incorporada para entrar no campo de robôs de limpeza | Através do Estreito",
+"r": "(Agência Central de Notícias, Taipei, 16) Huawei Cloud, uma marca da chinesa Huawei, anunciou hoje que lançou pré-vendas para uma nova geração de robôs de limpeza inteligentes desenvolvidos em conjunto com a Fulongma, uma empresa de equipamentos de limpeza ecologicamente corretos. A Huawei Cloud também lançou…",
+"u": "https://www.cna.com.tw/news/acn/202611160296.aspx",
+"f": "中央社 CNA",
+"s": "cna.com.tw",
+"i": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+"d": "2026-11-16T11:47-03:00",
+"c": [
+"servico"
+],
+"l": 0,
+"to": "華為加碼具身人工智慧切入清掃機器人領域| 兩岸",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "CNA Taiwan",
+"mx": 1,
+"rx": "(Agência Central de Notícias, Taipei, 16) Huawei Cloud, uma marca da chinesa Huawei, anunciou hoje que lançou pré-vendas para uma nova geração de robôs de limpeza inteligentes desenvolvidos em conjunto com a Fulongma, uma empresa de equipamentos de limpeza ecologicamente corretos. A Huawei Cloud também lançou oficialmente e abriu o código-fonte do modelo mundial incorporado nativo da Ascend, CloudRobo-WM1.2, estendendo-se à cadeia da indústria de robôs.\nO China Business News informou que a Huawei Cloud fornecerá ao produto a cadeia de ferramentas de desenvolvimento CloudRobo, modelo de percepção e planejamento, plataforma operacional de agente e poder de computação em nuvem Shengteng. O CloudRobo-WM1.2 lançado desta vez se concentra em permitir que os robôs passem da identificação do ambiente atual para a previsão de mudanças no mundo físico.",
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/5604/9882670",
+"s": "money.udn.com",
+"id": "e45f2c0a51edd1"
+}
+]
+},
+{
 "id": "8600484452db45",
 "t": "“Deixe a gangue, você pagará um preço se ficar”... Bukele envia ‘cães-robôs equipados com armas’ para o Haiti",
 "r": "Os militares de El Salvador recapturaram o Estádio Silvio Cator, um reduto de gangues haitianas. O presidente Bukele está mobilizando 2.500 soldados e cães-robôs para erradicar organizações criminosas, e o governo haitiano anunciou planos para restaurar o estádio como estádio da seleção nacional.",
@@ -2055,27 +2084,6 @@
 "rx": "Um navio de carga virou na segunda-feira, 16 de novembro, no Mar Negro, ao largo da costa da Bulgária, num contexto de tensões ligadas à guerra na Ucrânia. Os doze tripulantes foram evacuados de helicóptero e nenhum ficou ferido. Leia também Bulgária: um navio de carga vira na costa, sobreviventes falam de um ataque de drone"
 },
 {
-"id": "f781569455abf9",
-"t": "Huawei aprimora inteligência artificial incorporada para entrar no campo de robôs de limpeza | Através do Estreito",
-"r": "(Agência Central de Notícias, Taipei, 16) Huawei Cloud, uma marca da chinesa Huawei, anunciou hoje que lançou pré-vendas para uma nova geração de robôs de limpeza inteligentes desenvolvidos em conjunto com a Fulongma, uma empresa de equipamentos de limpeza ecologicamente corretos. A Huawei Cloud também lançou…",
-"u": "https://www.cna.com.tw/news/acn/202611160296.aspx",
-"f": "中央社 CNA",
-"s": "cna.com.tw",
-"i": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
-"d": "2026-11-16T11:47-03:00",
-"c": [
-"servico"
-],
-"l": 0,
-"to": "華為加碼具身人工智慧切入清掃機器人領域| 兩岸",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "CNA Taiwan",
-"mx": 1,
-"rx": "(Agência Central de Notícias, Taipei, 16) Huawei Cloud, uma marca da chinesa Huawei, anunciou hoje que lançou pré-vendas para uma nova geração de robôs de limpeza inteligentes desenvolvidos em conjunto com a Fulongma, uma empresa de equipamentos de limpeza ecologicamente corretos. A Huawei Cloud também lançou oficialmente e abriu o código-fonte do modelo mundial incorporado nativo da Ascend, CloudRobo-WM1.2, estendendo-se à cadeia da indústria de robôs.\nO China Business News informou que a Huawei Cloud fornecerá ao produto a cadeia de ferramentas de desenvolvimento CloudRobo, modelo de percepção e planejamento, plataforma operacional de agente e poder de computação em nuvem Shengteng. O CloudRobo-WM1.2 lançado desta vez se concentra em permitir que os robôs passem da identificação do ambiente atual para a previsão de mudanças no mundo físico."
-},
-{
 "id": "eb0e0345763c7b",
 "t": "Indústria: como a Trumpf está expandindo sua área de negócios de robótica com IA",
 "r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema…",
@@ -2607,7 +2615,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "A engenharia de segurança que ajuda estas máquinas a operar perto de pessoas é essencial – mas quando funciona, o seu sucesso pode ser difícil de ver. Como explica Gokul Krithivasan: “A segurança, bem feita, produz um não-evento”. Pode não haver colisão, relatório de incidente ou manchete que mostre o valor do trabalho por trás desse resultado. O artigo de Gokul defende o reconhecimento desse padrão e a descoberta de melhores maneiras de ver, valorizar e melhorar continuamente a segurança à medida que os robôs se aproximam das pessoas que dependem deles.\nCom humanos e robôs compartilhando espaço, a segurança em todos os níveis é essencial, desde o design geral da célula até os motores Postagem no blog sobre segurança de robôs, padrões em evolução e cinco razões pelas quais um sistema operacional baseado em microkernel é essencial para sistemas de robôs industriais.",
 "cur": 1
 },
@@ -2914,7 +2922,7 @@
 "i": "https://img.digitimes.com/newsshow/20261116pd222_files/2_b.jpg",
 "d": "2026-11-16T04:19-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Electronica 2026: AI and robotics showcase Europe's industrial strengths, but energy costs threaten its edge",
@@ -3358,7 +3366,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Axios",
-"mx": 2
+"mx": 3
 },
 {
 "id": "2945288edb2f24",
@@ -3378,7 +3386,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "AFP",
-"mx": 1
+"mx": 2
 },
 {
 "id": "e69f2e89148f00",
@@ -3398,7 +3406,48 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Forbes",
+"mx": 2
+},
+{
+"id": "162cbc0882fec7",
+"t": "Robô cirúrgico doméstico “Hinotori” demonstra suas capacidades em cirurgia de câncer colorretal Hospital Universitário de Kyoto",
+"r": "",
+"u": "https://medical.mainichi.jp/articles/20260828/mmd/00m/411/001000d",
+"f": "毎日メディカル",
+"s": "medical.mainichi.jp",
+"i": "",
+"d": "2026-11-16T17:32-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "国産手術ロボット「hinotori」 大腸がん手術で実力発揮 京大病院",
+"lg": "ja",
+"p": 3.5,
+"cr": 3,
+"cv": "Mainichi",
 "mx": 1
+},
+{
+"id": "3b5b8d12957563",
+"t": "O que é necessário para um robô apoiar as pessoas? O caminho para o desenvolvimento de dispositivos de apoio para caminhada do tipo palmilha",
+"r": "Aềul𗝉邱Ƃnւ郂mÂvł́Al̐ĝ⓮Aộ̗o_ɁAÁ^ɂ郍{bgxfoCX̌Jɂ჉āAMҎǧ oȂЉB1́A`̐쌻œCtA^foCX̊JŒʂۑUԂȂAC\\[^sxfoCX̊JɎcentury.ł̓̂グB @ώ@ɁA`m̕X̓C\\[ɐppbh\\tA`𒲐ĂڂB̏ȕύXASg̓ɂ͂ȂĂ邱ƂAŏւĎڂB̌o ɁA̓{bg̒mƂƂɁAUwAĐAiAgDAÁAnre[VɊϵ{ǂǁɝɔɂȂĊwԂ悤ɂȂ̂łB @̈ƒÃYłBOi^̑úAĝ̊OɎx]@\\zuAĝƃfoCXxgȂǂŌŒ肵centuryBAĝ̊֐֏Ƒủ]̈ ႢA̎RxAĐ˂AdʂȂǂ֌WAĂ邤ɑʒuYĂ؂BuӐ}ʂɓƂƁAlRɓ邱Ƃ̊Ԃɂ́A̂ƎcenturyB…",
+"u": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news002.html",
+"f": "MONOist",
+"s": "monoist.itmedia.co.jp",
+"i": "https://image.itmedia.co.jp/mn/articles/2611/17/cover_news002.jpg",
+"d": "2026-11-16T18:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "人を支えるロボットには何が必要か インソール型歩行支援デバイス開発への道",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 1,
+"rx": "Aềul𗝉邱Ƃnւ郂mÂvł́Al̐ĝ⓮Aộ̗o_ɁAÁ^ɂ郍{bgxfoCX̌Jɂ჉āAMҎǧ oȂЉB1́A`̐쌻œCtA^foCX̊JŒʂۑUԂȂAC\\[^sxfoCX̊JɎcentury.ł̓̂グB @ώ@ɁA`m̕X̓C\\[ɐppbh\\tA`𒲐ĂڂB̏ȕύXASg̓ɂ͂ȂĂ邱ƂAŏւĎڂB̌o ɁA̓{bg̒mƂƂɁAUwAĐAiAgDAÁAnre[VɊϵ{ǂǁɝɔɂȂĊwԂ悤ɂȂ̂łB @̈ƒÃYłBOi^̑úAĝ̊OɎx]@\\zuAĝƃfoCXxgȂǂŌŒ肵centuryBAĝ̊֐֏Ƒủ]̈ ႢA̎RxAĐ˂AdʂȂǂ֌WAĂ邤ɑʒuYĂ؂BuӐ}ʂɓƂƁAlRɓ邱Ƃ̊Ԃɂ́A̂ƎcenturyB @悭lĂۂƁAڂ傫ȖłBWȂǂœWĂfoCX͂ǂJbR悭AX^CbVɌcenturyA𒅂ĊO֏o邱ƂzƁARcenturyBۋAJZɂḂĂAuyɂȂC O\n@l̂́Aڒn̑̓Opnʂɑ΂ĐɂȂ悤Ɋpx𒲐邱ƂŁǍ̉׏d̎pɂAG̃XXg}ȂAƂAv[`łBɂ͊ SȐƂ͂ Raymond"
 },
 {
 "id": "038b4623e51a5e",
@@ -13531,7 +13580,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -19378,7 +19427,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -35341,7 +35390,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -35370,7 +35419,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
