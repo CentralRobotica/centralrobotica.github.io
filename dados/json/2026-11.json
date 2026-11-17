@@ -1,4 +1,27 @@
 {
+"2026-11-17": [
+{
+"id": "ab2474063c792a",
+"t": "XNOVA exibe sistema de navegação “Site Dog” para robôs quadrúpedes na NexTech Week 2026 [Outono]",
+"r": "expôs na \"NexTech Week 2026 [Outono] 1st Humanoid Robot EXPO\" realizada em Makuhari Messe de quarta-feira, 11 de novembro a sexta-feira, 13 de novembro de 2026. Como um seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está…",
+"u": "https://robotstart.info/article/2026/11/17/382639.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109437.jpg",
+"d": "2026-11-17T00:00-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "四足歩行ロボット向けナビ「現場犬」を実演 NexTech Week 2026【秋】 にXNOVAが出展",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "expôs na \"NexTech Week 2026 [Outono] 1st Humanoid Robot EXPO\" realizada em Makuhari Messe de quarta-feira, 11 de novembro a sexta-feira, 13 de novembro de 2026. Como um seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está implementando robôs comerciais como robôs de segurança e fiscalização na sociedade e o desenvolvimento do semi-humanóide doméstico \"ugo Nova\"."
+}
+],
 "2026-11-16": [
 {
 "id": "5857d0b5711c61",
@@ -69,6 +92,27 @@
 "cr": 3,
 "cv": "Tech Xplore",
 "mx": 3
+},
+{
+"id": "1daae36ad835ac",
+"t": "Nvidia lança GROOT N2 para reduzir o treinamento e aumentar a inteligência humanóide",
+"r": "À medida que a competição humanóide se intensifica no país e no estrangeiro, as principais tecnologias que impulsionam o desempenho dos robôs também estão a avançar. A grande empresa de tecnologia Nvidia lançou este mês um novo Robot Foundation Model (RFM) de uso geral chamado GROOT N2. Um RFM é um modelo de…",
+"u": "https://biz.chosun.com/en/en-industry/2026/11/17/4JHOA54VVZHUND7L3M5YUC7VYM/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/VRMEQSOJUZH3JGPFQWHW5YKMAA.gif?auth=a1270862afc6839e855f6c717d1caa2167b558736f66897d5180f43db8ac0911&width=700&height=367&smart=true",
+"d": "2026-11-16T22:25-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "Nvidia unveils GROOT N2 to cut training and boost humanoid intelligence",
+"lg": "en",
+"p": 11.6,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "À medida que a competição humanóide se intensifica no país e no estrangeiro, as principais tecnologias que impulsionam o desempenho dos robôs também estão a avançar. A grande empresa de tecnologia Nvidia lançou este mês um novo Robot Foundation Model (RFM) de uso geral chamado GROOT N2. Um RFM é um modelo de inteligência artificial (IA) de uso geral que pré-treina robôs em dados de grande escala sobre ambientes do mundo real para que possam compreender diversas situações e executar tarefas.\nA recém-lançada série GROOT N2 reduz a carga de treinamento necessária aos robôs e aumenta sua inteligência por meio de uma abordagem diferente dos modelos anteriores. A Nvidia disse que quando pediu a um robô rodando GROOT N2 para realizar 50 movimentos, ele conseguiu um pouco mais de 20 com zero treinamento, cerca de 40 após três corridas de treinamento e cerca de 48 após cinco corridas. O modelo também adiciona uma estrutura que aumenta a inteligência do robô."
 },
 {
 "id": "290eeaa1d87f7c",
@@ -294,6 +338,41 @@
 "rx": "Tecnologia canadense de drones e experiência em engenharia para construir, expandir e apoiar as capacidades filipinas em drones e sistemas autônomos em segurança pública, infraestrutura e setores industriais críticos. A iniciativa combinará tecnologia de drones desenvolvida no Canadá e experiência em engenharia com capacidades industriais filipinas para apoiar a resposta a desastres, bem como a produção local, agricultura, formação e sustentação de sistemas não tripulados em operações portuárias e mineiras, e protecção de infra-estruturas críticas.\nAs Filipinas representam um mercado estrategicamente importante para a Draganfly, com oportunidades para aplicar a sua tecnologia de drones e conhecimentos de engenharia em operações marítimas e portuárias, monitorização de infra-estruturas críticas, segurança pública e resposta a desastres."
 },
 {
+"id": "2945288edb2f24",
+"t": "Rússia mergulha negociações da ONU sobre robôs assassinos em 'impasse processual'",
+"r": "Delegados participam na conferência da ONU focada em sistemas de armas autónomos letais, muitas vezes apelidados de “robôs assassinos”, em Genebra, no dia 16 de novembro. GENEBRA – Uma conferência da ONU focada em sistemas de armas autónomos letais – muitas vezes apelidados de “robôs assassinos” – tropeçou antes mesmo…",
+"u": "https://www.afp.com/en/russia-plunges-un-killer-robot-talks-procedural-impasse",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/731a45b210f833c526afd902b93cfda154328e3af88dd906d434249c369ac672?t=og",
+"d": "2026-11-16T16:20-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Russia plunges UN killer robot talks into 'procedural impasse'",
+"lg": "en",
+"p": 7.8,
+"cr": 3,
+"cv": "AFP",
+"mx": 3,
+"o": [
+{
+"f": "The Straits Times",
+"u": "https://www.straitstimes.com/world/europe/russia-plunges-un-killer-robot-talks-into-procedural-impasse",
+"s": "straitstimes.com",
+"id": "96694c3634b1ff"
+},
+{
+"f": "The Japan Times",
+"u": "https://www.japantimes.co.jp/news/2026/11/17/world/politics/russia-un-killer-robot/",
+"s": "japantimes.co.jp",
+"id": "f64cdc89869558"
+}
+],
+"rx": "Delegados participam na conferência da ONU focada em sistemas de armas autónomos letais, muitas vezes apelidados de “robôs assassinos”, em Genebra, no dia 16 de novembro. GENEBRA – Uma conferência da ONU focada em sistemas de armas autónomos letais – muitas vezes apelidados de “robôs assassinos” – tropeçou antes mesmo de começar, em 16 de novembro, quando objeções processuais da Rússia bloquearam a adoção de uma agenda. A Conferência de Revisão da Convenção sobre Armas Convencionais (CCW) das Nações Unidas começou com o chefe da ONU, Antonio Guterres, apelando aos países para trabalharem no sentido de impor regras estritas e vinculativas sobre a utilização de sistemas de armas autónomas letais, ou LAWS.\nMas mesmo antes do início das discussões, em 16 de Novembro, a Rússia desencadeou um impasse processual ao opor-se à permissão de observadores – incluindo a União Europeia e organizações da sociedade civil – participarem no debate."
+},
+{
 "id": "6dc4493e6ed771",
 "t": "Elite Robots expande oferta global de automação móvel com manipuladores móveis compatíveis com CE",
 "r": "Combinando mobilidade autônoma e robótica colaborativa para apoiar operações de fabricação mais flexíveis em todo o mundo",
@@ -500,6 +579,36 @@
 "rx": "A Agile Robots levantou US$ 500 milhões em financiamento da Série F. A Agile Robots constrói e implanta uma variedade de robôs, incluindo humanóides, robôs móveis, braços robóticos e mãos robóticas. “A IA física mudará fundamentalmente a forma como o mundo constrói, move e fabrica coisas”, disse o CEO e fundador da Agile Robots, Dr. A Agile Robots planeja fortalecer sua presença nos Estados Unidos e acelerar o desenvolvimento de aplicações robóticas inovadoras.\nA Agile Robots também continuará a desenvolver capacidade de produção, inclusive na Alemanha. Desde então, a empresa implantou 20.000 robôs industriais para clientes dos setores automotivo, de eletrônicos de consumo, de logística e outros. A Agile Robots fabrica internamente, inclusive na Alemanha."
 },
 {
+"id": "1a1c6fdfa8f78e",
+"t": "New Taipei gastou 200 milhões em oito anos para promover a educação sobre robôs e estabelecer o primeiro centro de talentos tecnológicos FRC de Taiwan",
+"r": "A cidade de Nova Taipei promove a educação de robôs FRC há 8 anos, investindo mais de 200 milhões de yuans. Participaram 13 equipes e 14 escolas, mais de 1.200 alunos foram treinados e um total de mais de 60 prêmios foram conquistados. A fim de integrar os recursos de várias escolas e expandir a capacidade de…",
+"u": "https://udn.com/news/story/6898/9881815",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35522644.jpg&M=1&s=Y&x=0&y=0&sw=1236&sh=824&exp=3600",
+"d": "2026-11-16T04:01-03:00",
+"c": [
+"negocios",
+"educacao"
+],
+"l": 0,
+"to": "新北8年砸2億推機器人教育 成立全台首座FRC科技人才中心",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "A cidade de Nova Taipei promove a educação de robôs FRC há 8 anos, investindo mais de 200 milhões de yuans. Participaram 13 equipes e 14 escolas, mais de 1.200 alunos foram treinados e um total de mais de 60 prêmios foram conquistados. A fim de integrar os recursos de várias escolas e expandir a capacidade de treinamento, o Departamento de Educação da Cidade de Nova Taipei estabeleceu hoje o primeiro \"Centro de Talentos Tecnológicos FRC\" de Taiwan na Escola Secundária Ankang. No futuro, mais estudantes serão expostos ao design de robôs, à programação e às aplicações de IA através de formação interescolar, partilha de equipamentos e intercâmbio de tecnologia.\nO Diretor de Educação Zhang Mingwen disse que New Taipei vem promovendo a \"New Taipei FRC Alliance\" há muito tempo. Atualmente, o número de escolas participantes ocupa o primeiro lugar no país. A prefeitura continua a subsidiar a construção de equipamentos escolares, treinamentos competitivos e intercâmbios internacionais, permitindo que os alunos acumulem experiência por meio de operações práticas desde projeto mecânico, programação até montagem de robôs.",
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/7307/9881815",
+"s": "money.udn.com",
+"id": "9e5eeb322fbad2"
+}
+]
+},
+{
 "id": "95ff8179f3cf32",
 "t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
 "r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
@@ -616,35 +725,6 @@
 "id": "e45f2c0a51edd1"
 }
 ]
-},
-{
-"id": "2945288edb2f24",
-"t": "Rússia mergulha negociações da ONU sobre robôs assassinos em 'impasse processual'",
-"r": "Delegados participam na conferência da ONU focada em sistemas de armas autónomos letais, muitas vezes apelidados de “robôs assassinos”, em Genebra, no dia 16 de novembro. GENEBRA – Uma conferência da ONU focada em sistemas de armas autónomos letais – muitas vezes apelidados de “robôs assassinos” – tropeçou antes mesmo…",
-"u": "https://www.afp.com/en/russia-plunges-un-killer-robot-talks-procedural-impasse",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "https://cassette.sphdigital.com.sg/image/straitstimes/731a45b210f833c526afd902b93cfda154328e3af88dd906d434249c369ac672?t=og",
-"d": "2026-11-16T16:20-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "Russia plunges UN killer robot talks into 'procedural impasse'",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "AFP",
-"mx": 3,
-"o": [
-{
-"f": "The Straits Times",
-"u": "https://www.straitstimes.com/world/europe/russia-plunges-un-killer-robot-talks-into-procedural-impasse",
-"s": "straitstimes.com",
-"id": "96694c3634b1ff"
-}
-],
-"rx": "Delegados participam na conferência da ONU focada em sistemas de armas autónomos letais, muitas vezes apelidados de “robôs assassinos”, em Genebra, no dia 16 de novembro. GENEBRA – Uma conferência da ONU focada em sistemas de armas autónomos letais – muitas vezes apelidados de “robôs assassinos” – tropeçou antes mesmo de começar, em 16 de novembro, quando objeções processuais da Rússia bloquearam a adoção de uma agenda. A Conferência de Revisão da Convenção sobre Armas Convencionais (CCW) das Nações Unidas começou com o chefe da ONU, Antonio Guterres, apelando aos países para trabalharem no sentido de impor regras estritas e vinculativas sobre a utilização de sistemas de armas autónomas letais, ou LAWS.\nMas mesmo antes do início das discussões, em 16 de Novembro, a Rússia desencadeou um impasse processual ao opor-se à permissão de observadores – incluindo a União Europeia e organizações da sociedade civil – participarem no debate."
 },
 {
 "id": "8600484452db45",
@@ -1598,8 +1678,8 @@
 "d": "2026-11-16T21:58-03:00",
 "c": [
 "humanoides",
-"entrega",
-"inspecao"
+"inspecao",
+"entrega"
 ],
 "l": 0,
 "to": "뉴빌리티 “배달·순찰 로봇으로 쌓은 공간 지능, 휴머노이드·제조 부문까지 확장”",
@@ -1836,28 +1916,6 @@
 "rx": "O nosso ambiente económico está em constante mudança, incluindo preços elevados, um iene fraco e taxas de juro. Educação em Finanças Sociais A série ``Economic Mikata'' de Ie, Manabu Tauchi, apresenta uma nova ``visão'' da economia para que você não fique muito preso ao dinheiro e possa se tornar um ``aliado'' em sua vida diária. Há treze anos, havia expectativas de que a economia do Japão iria melhorar assim que saísse da deflação.\nO que me preocupa é que naquela altura as pessoas falavam que a economia japonesa iria melhorar se os preços subissem. Mesmo que você comece a pagar mais dinheiro do que antes para comprar as mesmas coisas, seu estilo de vida permanecerá o mesmo enquanto seu salário aumentar na mesma proporção."
 },
 {
-"id": "1a1c6fdfa8f78e",
-"t": "New Taipei gastou 200 milhões em oito anos para promover a educação sobre robôs e estabelecer o primeiro centro de talentos tecnológicos FRC de Taiwan",
-"r": "A cidade de Nova Taipei promove a educação de robôs FRC há 8 anos, investindo mais de 200 milhões de yuans. Participaram 13 equipes e 14 escolas, mais de 1.200 alunos foram treinados e um total de mais de 60 prêmios foram conquistados. A fim de integrar os recursos de várias escolas e expandir a capacidade de…",
-"u": "https://udn.com/news/story/6898/9881815",
-"f": "UDN",
-"s": "udn.com",
-"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35522644.jpg&M=1&s=Y&x=0&y=0&sw=1236&sh=824&exp=3600",
-"d": "2026-11-16T04:01-03:00",
-"c": [
-"negocios",
-"educacao"
-],
-"l": 0,
-"to": "新北8年砸2億推機器人教育 成立全台首座FRC科技人才中心",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 1,
-"rx": "A cidade de Nova Taipei promove a educação de robôs FRC há 8 anos, investindo mais de 200 milhões de yuans. Participaram 13 equipes e 14 escolas, mais de 1.200 alunos foram treinados e um total de mais de 60 prêmios foram conquistados. A fim de integrar os recursos de várias escolas e expandir a capacidade de treinamento, o Departamento de Educação da Cidade de Nova Taipei estabeleceu hoje o primeiro \"Centro de Talentos Tecnológicos FRC\" de Taiwan na Escola Secundária Ankang. No futuro, mais estudantes serão expostos ao design de robôs, à programação e às aplicações de IA através de formação interescolar, partilha de equipamentos e intercâmbio de tecnologia.\nO Diretor de Educação Zhang Mingwen disse que New Taipei vem promovendo a \"New Taipei FRC Alliance\" há muito tempo. Atualmente, o número de escolas participantes ocupa o primeiro lugar no país. A prefeitura continua a subsidiar a construção de equipamentos escolares, treinamentos competitivos e intercâmbios internacionais, permitindo que os alunos acumulem experiência por meio de operações práticas desde projeto mecânico, programação até montagem de robôs."
-},
-{
 "id": "c03cb298d98b8a",
 "t": "Da panificação à robótica, Karnataka brilha no Shanghai WorldSkills",
 "r": "Na competição WorldSkills 2026 em Xangai, Bengaluru-an Smriti Nambiar teve dois dias, uma minicozinha e um tema entregue a ela pelos organizadores – Ano Novo Chinês, Ano do Cavalo. Naquela montra, o desafio do morador de Koramangala era produzir 15 pães diferentes, desde croissants até um pão de 80cm de altura…",
@@ -1997,7 +2055,7 @@
 "i": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=1200&height=600&coordinates=0%2C224%2C0%2C225",
 "d": "2026-11-16T07:02-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
@@ -2469,7 +2527,7 @@
 "i": "https://www.infobae.com/resizer/v2/PUCV57YC3BBWPDAAC25IQFGECI.jpg?auth=699b5eb2b1fd1bb25648d83699fc22c5b9f0b6c0a379590780969e5997f10738&smart=true&width=1200&height=630&quality=85",
 "d": "2026-11-16T18:22-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Rusia bloqueó una iniciativa de la ONU para regular el uso de los llamados “robots asesinos”",
@@ -2511,7 +2569,8 @@
 "i": "https://cdn.milenio.com/uploads/media/2026/11/16/robot-submarino-rov-remotely-operated.jpg",
 "d": "2026-11-16T19:37-03:00",
 "c": [
-"subaquaticos"
+"subaquaticos",
+"defesa"
 ],
 "l": 0,
 "to": "¿Qué es el robot submarino que quedó a la deriva en el Golfo de México?",
@@ -2563,6 +2622,69 @@
 "cv": "Korea Economic Daily",
 "mx": 1,
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. “Não invejo os perfumes europeus”… ‘Aroma de marca coreana’ que cativa Seochon [On-Site+] Quando se trata de perfumes caros e de alta qualidade, produtos de marcas europeias como França e Itália geralmente vêm primeiro à mente. Isto porque a Europa, com a sua longa tradição em perfumaria e casas de luxo, há muito se estabeleceu como o centro do mercado de perfumes. O Ministro de Terras, Infraestrutura e Transporte e o Prefeito de Seul também demonstraram... O colete robótico da Hyundai Engineering & Construction 'interessado' [Zipconomy Expo 2026] A Hyundai Engineering & Construction participou da 'Zipconomy Expo 2026' e apresentou a nova direção da marca Hillstate, que marca o 20º aniversário da introdução da marca, e apresentou a tecnologia robótica do Hyundai Motor Group, incluindo robôs vestíveis. Demorou dois dias a partir do dia 30... A empresa global de bem-estar e beleza Fresha está entrando no mercado nacional de serviços de beleza."
+},
+{
+"id": "ccf61be37f0672",
+"t": "A WIRobotics da Coreia do Sul faz parceria com a Ottobock para vender o robô de apoio à caminhada \"WIM S\" na América do Norte",
+"r": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.",
+"u": "https://robotstart.info/article/2026/11/17/382638.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109486.jpg",
+"d": "2026-11-16T23:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "韓国WIRobotics、歩行支援ロボット「WIM S」の北米販売でOttobockと提携",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.\nA Robostar convidará Toru Takenaka, que esteve no centro do desenvolvimento da Honda \"P2\" e \"ASIMO\", para realizar um seminário online \"Trajetória deixada para trás pela Honda \"P2\" e \"ASIMO - As origens dos humanóides e o futuro na era da IA ​​física conforme contada pelo desenvolvedor Sr. Toru Takenaka\" na quarta-feira, 25 de novembro de 2026."
+},
+{
+"id": "f963e1cc8a52d0",
+"t": "Mo Shuhan, um estudante da China Medical University, desenvolveu um robô de IA da medicina tradicional chinesa e ganhou o Prêmio LINE de Excelência em Inovação e Empreendedorismo.",
+"r": "(Serviço de Informações da Agência Central de Notícias 20261117 10:24:47) Partindo das necessidades de aprendizagem de cursos totalmente em inglês, combinando base de conhecimento de livros didáticos e IA, oferece prática de exames nacionais e treinamento profissional em inglês. Mo Shuhan, um estudante do segundo ano…",
+"u": "https://www.cna.com.tw/postwrite/chi/450219",
+"f": "中央社 CNA",
+"s": "cna.com.tw",
+"i": "https://imgcdn.cna.com.tw/www/postwrite/2026/20261117/00450219.202611171686208864M.jpg",
+"d": "2026-11-16T23:23-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "中國醫大莫書涵同學開發中醫AI機器人 獲LINE創新創業佳作",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNA Taiwan",
+"mx": 1,
+"rx": "(Serviço de Informações da Agência Central de Notícias 20261117 10:24:47) Partindo das necessidades de aprendizagem de cursos totalmente em inglês, combinando base de conhecimento de livros didáticos e IA, oferece prática de exames nacionais e treinamento profissional em inglês. Mo Shuhan, um estudante do segundo ano do Departamento de Medicina Tradicional Chinesa da China Medical University, sob a orientação de Yan Hongrong, reitor da Escola de Medicina Tradicional Chinesa, desenvolveu o chatbot de ensino de medicina chinesa \"TCM AI Chatbot\" e venceu o 2026 LINE AI Innovation and Entrepreneurship Competition. O mesmo trabalho também ganhou o Prêmio de Mérito (prêmio preferencial) na competição \"Golden AI Brain\" da escola, totalmente em inglês. A primeira versão foi usada no curso \"Introdução à Medicina Tradicional Chinesa\", totalmente em inglês, para ajudar os alunos a adquirir conhecimentos profissionais da medicina tradicional chinesa e expressões em inglês."
+},
+{
+"id": "a9abf0804db559",
+"t": "Buzinas e drones proibidos enquanto Shenzhen silencia por Trump e APEC",
+"r": "SHENZHEN, China, 17 de novembro - A livre capital tecnológica da China, Shenzhen, abraçou um silêncio incomum enquanto se prepara para receber líderes mundiais esta semana, com buzinas de carros proibidas, drones de entrega aterrados e residentes instados a deixar os veículos em casa. A reunião do fórum de Cooperação…",
+"u": "https://www.straitstimes.com/asia/horns-and-drones-banned-as-shenzhen-hushes-for-trump-and-apec",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/96fba8ba25ab230deb6c1167a0b338c93978df38320345e82155fd2963465bc9?t=og",
+"d": "2026-11-16T23:29-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "SHENZHEN, China, 17 de novembro - A livre capital tecnológica da China, Shenzhen, abraçou um silêncio incomum enquanto se prepara para receber líderes mundiais esta semana, com buzinas de carros proibidas, drones de entrega aterrados e residentes instados a deixar os veículos em casa. A reunião do fórum de Cooperação Económica Ásia-Pacífico (APEC), na qual participarão os presidentes Donald Trump dos EUA e Vladimir Putin da Rússia, é uma oportunidade para Shenzhen mostrar a sua transformação de um remanso agrícola na cidade de alta tecnologia - e ordenada, como as autoridades esperam mostrar - que é hoje.\nMais de 1,5 milhão de proprietários de automóveis locais comprometeram-se a permanecer fora das estradas em troca de adesivos de carro da APEC e, se mantiverem a palavra, cartões de trânsito no valor de até 100 yuans (US$ 15)."
 },
 {
 "id": "2daef4e7eec917",
@@ -2799,6 +2921,27 @@
 "cv": "Ars Technica",
 "mx": 1,
 "rx": "Uma empresa de robótica humanóide apoiada e aconselhada pelo filho do presidente Donald Trump, Eric Trump, teria perdido a folha de pagamento e pode estar à beira do colapso após um déficit de financiamento. A startup do Vale do Silício, Foundation Future Industries, afirma estar desenvolvendo e testando robôs para funções militares em campos de batalha da Ucrânia a Gaza. Eric Trump detém uma participação acionária na Foundation e foi anunciado como seu principal consultor estratégico em março de 2026, de acordo com o Financial Times. Os fundos de investimento ligados a Eric Trump e Donald Trump Jr. estão envolvidos com várias empresas de tecnologia militar que receberam empréstimos e contratos do Pentágono no valor de mais de 3,2 mil milhões de dólares em julho de 2026, de acordo com o The Washington Post."
+},
+{
+"id": "c2c227441508f0",
+"t": "O conceito de robôs humanóides flutuou e caiu, a tecnologia Yushu caiu mais de 10% -36 Krypton",
+"r": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He…",
+"u": "https://www.36kr.com/newsflashes/4073222350017413",
+"f": "www.36kr.com",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+"d": "2026-11-16T23:20-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "人形机器人概念震荡下挫，宇树科技跌超10%-36氪",
+"lg": "zh",
+"p": 4.3,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He Chaoqiong, Dong Mingzhu, Li Dongsheng, Zhou Qunfei e outros empresários chineses participarão do seminário; em termos de empresas estrangeiras, estarão presentes CEOs globais da Visa, Mastercard e outras empresas, bem como executivos seniores do Citigroup, Google, Boeing e outras empresas. Empresas de Shenzhen como BYD, ZTE e UBTECH também subirão ao palco para fazer ouvir suas vozes “na porta de casa”.\n8:01 Krypton丨DeepSeek devido ao poder de computação insuficiente; O conselho de administração da Nvidia não considerou deixar Huang Renxun retornar à empresa como CEO; Atores de IA foram multados em 68.200 por endosso de anúncios de lentes de contato cosméticas"
 },
 {
 "id": "fcdbb93c84b7ad",
@@ -3726,7 +3869,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.7db53d77263d48308ceb8fbc38a5eaf0_P1.png",
 "d": "2026-11-16T18:00-03:00",
 "c": [
-"drones"
+"drones",
+"industriais"
 ],
 "l": 0,
 "to": "공중에서 줄을 엮어 물건 운반…로봇팔·집게 필요 없는 '드론 협력 기술'",
@@ -3809,7 +3953,8 @@
 "i": "https://image.zdnet.co.kr/2026/11/17/ae4b05db07a0730a67d4855f0322aa73.png",
 "d": "2026-11-16T21:33-03:00",
 "c": [
-"geral"
+"medicina",
+"exoesqueletos"
 ],
 "l": 0,
 "to": "위로보틱스, 오토복과 웨어러블 로봇 유통 계약",
@@ -3819,6 +3964,70 @@
 "cv": "ZDNet Korea",
 "mx": 1,
 "rx": "A Wibotics anunciou no dia 17 que assinou um contrato de distribuição e venda de robôs vestíveis com a empresa global de saúde Ottobock por meio de sua corporação norte-americana, Wibobotics USA. A Wibotics fornece o robô vestível para assistência à caminhada ‘WIM S’, e a Ottobock é responsável pela distribuição nos mercados dos EUA e do Canadá. Os consumidores americanos podem comprar WimS na plataforma online da Ottobock e na loja online da Wibotics USA. As duas empresas cooperarão no desenvolvimento do mercado local, construção de marca, treinamento de produtos e serviço pós-venda. A Webotics USA apoia diretamente as operações locais de educação e serviços. No futuro, as duas empresas também considerarão expandir o âmbito de cooperação com o robô médico ‘WIM Medi’ que a Wibotics está a desenvolver. Lee Yeon-baek, co-CEO da Wibotics, disse: “Expandiremos nossos pontos de contato com clientes na América do Norte e fortaleceremos a base de negócios globais da WimS”."
+},
+{
+"id": "b7584b0e396e1a",
+"t": "A Assembleia Nacional discutiu o futuro do “tratamento preciso de doenças da retina baseado em microrobôs” no dia 19.",
+"r": "Um fórum será realizado na Assembleia Nacional no dia 19 de novembro para explorar um novo paradigma para o tratamento de doenças da retina e discutir a direção do desenvolvimento da tecnologia médica de próxima geração que combina inteligência artificial (IA) e tecnologia de microrobôs. Este fórum é organizado pelos…",
+"u": "https://www.etnews.com/20261117000095",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.215e3b9ff8a040a2910640255c48d09b_P1.jpg",
+"d": "2026-11-16T21:58-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "국회서 19일 '마이크로로봇 기반 망막질환 정밀치료' 미래 논의",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Um fórum será realizado na Assembleia Nacional no dia 19 de novembro para explorar um novo paradigma para o tratamento de doenças da retina e discutir a direção do desenvolvimento da tecnologia médica de próxima geração que combina inteligência artificial (IA) e tecnologia de microrobôs. Este fórum é organizado pelos membros da Assembleia Nacional Kim Kyo-heung, Ahn Do-geol e Jeon Jin-sook sob o tema 'Tecnologia de tratamento de precisão de doenças da retina baseada em microrobôs' e patrocinado pelo Ministério da Saúde e Bem-Estar e Namdo Ilbo. Este evento foi organizado para superar as limitações das tecnologias de tratamento existentes e explorar novas possibilidades de tratamento utilizando tecnologias médicas de ponta, à medida que a procura por tratamento de doenças da retina aumenta devido ao envelhecimento e ao aumento de doenças crónicas. Em particular, a convergência da tecnologia de análise de imagens de IA e da tecnologia de microrobôs está atraindo a atenção como uma nova alternativa para o tratamento de doenças da retina. Primeiro, sob o tema 'Status e perspectivas do tratamento de precisão de doenças da retina de microrobôs', Park Jong-oh, Diretor do Instituto de Pesquisa de Robótica Micromédica da Coreia, fará uma apresentação sobre 'Tendências e futuro do desenvolvimento de robôs médicos de IA-Micro', e o professor Kim Yong-jun do Severance Eye Hospital fará uma apresentação sobre 'O status atual e a direção de desenvolvimento da tecnologia de tratamento de doenças da retina'. Na seguinte discussão de especialistas, sob o tema 'Plano para o desenvolvimento da indústria de tratamento de precisão de doenças da retina com microrobôs', △ Dong-soo Kwon, CEO da Loen Surgical △ Yong-jun Kim, professor do Severance Eye Hospital △ Yu-ra Kim, Diretor da Divisão da Indústria de Dispositivos Médicos e Cosméticos do Ministério da Saúde e Bem-Estar △ Yun-jeon Kim, Professor de Oftalmologia no Asan Medical Center, Seul △ Jong-oh Park, Diretor do Instituto Coreano de Pesquisa em Robótica Micromédica △ Do-yeon Bang, Universidade Nacional de Chonnam O vice-reitor da Escola de Pós-Graduação em Ciência de Dados participará para discutir maneiras de comercializar resultados de pesquisa e desenvolvimento e criar um ecossistema industrial baseado no desenvolvimento de tecnologia e na demanda da área médica. Este fórum é significativo porque examina as possibilidades de convergência de tecnologia médica de ponta com especialistas nas áreas médica, robótica e IA e organizações relacionadas, e estabelece uma base para a cooperação para pesquisa e desenvolvimento e industrialização de tecnologia de tratamento de precisão de doenças da retina baseada em microrobôs."
+},
+{
+"id": "d05ac4c7e01e02",
+"t": "O que é necessário para um robô apoiar as pessoas / Nova base logística da Mazda, relatório de inspeção",
+"r": "◝邱Ƃn߂郂mÂi1jF lx郍{bgɂ͉Kv@C\\[^sxfoCXJւ̓ Aǁul邱Ƃn߂郂mÂvł́Al̐ɗmAւ̗o_ɁAÁ^ɂ郍{bgxfoCX̌JɂāAMҎg ̌oȂЉB1́A`̐쌻œCtA^foCX̊JŒʂۑUԂȂAC\\[^sxfoCX̊JɎcentury̓̂グB C}hL̃tifWIi20jF făGWdCi^J[uPvɏĂI uDvu`p{－ＮＮ１１１１１１１１１１１１１１１１１１１１１１１１ }c_̐V_iOҁjF }c_̊COYxV_AASEANsւŁuL琢Eցv }c_L`onɌsւŁuL琢Eցv…",
+"u": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news048.html",
+"f": "MONOist",
+"s": "monoist.itmedia.co.jp",
+"i": "https://image.itmedia.co.jp/mn/articles/2611/17/ay4328_hitomono01_fig02_w490.jpg",
+"d": "2026-11-16T22:30-03:00",
+"c": [
+"logistica",
+"inspecao"
+],
+"l": 0,
+"to": "人を支えるロボットに必要なものとは／マツダの新物流拠点、視察レポート",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 1,
+"rx": "◝邱Ƃn߂郂mÂi1jF lx郍{bgɂ͉Kv@C\\[^sxfoCXJւ̓ Aǁul邱Ƃn߂郂mÂvł́Al̐ɗmAւ̗o_ɁAÁ^ɂ郍{bgxfoCX̌JɂāAMҎg ̌oȂЉB1́A`̐쌻œCtA^foCX̊JŒʂۑUԂȂAC\\[^sxfoCX̊JɎcentury̓̂グB C}hL̃tifWIi20jF făGWdCi^J[uPvɏĂI uDvu`p{－ＮＮ１１１１１１１１１１１１１１１１１１１１１１１１ }c_̐V_iOҁjF }c_̊COYxV_AASEANsւŁuL琢Eցv }c_L`onɌsւŁuL琢Eցv }c_L`onɌsւĂV_u}c_KDZ^[vBCOY43xAi̒{sւ̏AqA]̊CcnŐĂ1.8̃^CXڎwB J§vj[XF uAIvủۑAIvցA_b\\[fYAI헪 _b\\[EVXeÝANJt@Xu3DEXPERIENCE CONFERENCE JAPÃO 2026v̊JÂɕăvXu[tBO{B CEÕpXJE_YAAIƉȊwAlԂ̐含ZYAI헪ɂĐBo[`cC𒆊jɁAE̎dgŠAẺۑxAI̎ڎwB"
+},
+{
+"id": "bb6e0e02000991",
+"t": "O desafio LingBot-VLA 2.0 de Robbyant termina com uma final de robô real de 48 horas",
+"r": "Quinze equipes adaptaram o LingBot-VLA 2.0 em robôs reais em 48 horas. A final de Robbyant em Xangai expôs desafios em dados, percepção e execução.",
+"u": "https://pandaily.com/robbyant-lingbot-vla-2-0-challenge-final-real-robot-tars",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/robbyant_e4cb0d2da2.png",
+"d": "2026-11-16T23:07-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Robbyant's LingBot-VLA 2.0 Challenge Ends With a 48-Hour Real-Robot Final",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "Quinze equipes adaptaram o LingBot-VLA 2.0 em robôs reais em 48 horas. A final de Robbyant em Xangai expôs desafios em dados, percepção e execução."
 },
 {
 "id": "038b4623e51a5e",
@@ -3946,25 +4155,6 @@
 "cr": 2,
 "cv": "Les Numériques",
 "mx": 9
-},
-{
-"id": "b7584b0e396e1a",
-"t": "A Assembleia Nacional discutiu o futuro do “tratamento preciso de doenças da retina baseado em microrobôs” no dia 19.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02dkxMVlIwcTZqdGE0ajJNTm4yN1o5SFJMcS11a0xMaTRqVHJGZHQyYmNaNFJhSHByeUtqZUU1RzB1eDVNa254dUdiN01jZw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-16T21:58-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "국회서 19일 '마이크로로봇 기반 망막질환 정밀치료' 미래 논의",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
 }
 ],
 "2026-11-15": [
@@ -5750,6 +5940,28 @@
 "rx": "O drone com câmera autônoma F10 da Skydio pode fornecer vídeo de melhor qualidade do que qualquer outro drone de asa fixa, graças ao seu design assimétrico."
 },
 {
+"id": "0a2bcfae67595b",
+"t": "Os cartéis estabeleceram vigilância cibernética na fronteira com os EUA; Eles guiam migrantes com drones e por telefone",
+"r": "O zumbido dos dispositivos da Patrulha Fronteiriça Setorial de San Diego começa de manhã cedo e as equipes realizam trabalhos de vigilância e rastreamento dia e noite na área urbana, montanhosa e marítima dos quase 100 quilômetros que cobrem a fronteira entre Tijuana e San Diego, segundo passeio realizado pelo EL…",
+"u": "https://www.eluniversal.com.mx/nacion/carteles-montan-cibervigilancia-en-la-frontera-con-eu-guian-a-migrante-con-drones-y-por-telefono/",
+"f": "El Universal",
+"s": "eluniversal.com.mx",
+"i": "https://www.eluniversal.com.mx/resizer/v2/4EF5ZUP6RRAGVFKCX3FHYOUNNY.jpg?auth=ab3bc0e47a70643d399772caaa28baa4018fec24019f7c2824c6e0bd0ff18d38",
+"d": "2026-11-15T11:09-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 0,
+"to": "Cárteles montan cibervigilancia en la frontera con EU; guían a migrantes con drones y por teléfono",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "El Universal",
+"mx": 1,
+"rx": "O zumbido dos dispositivos da Patrulha Fronteiriça Setorial de San Diego começa de manhã cedo e as equipes realizam trabalhos de vigilância e rastreamento dia e noite na área urbana, montanhosa e marítima dos quase 100 quilômetros que cobrem a fronteira entre Tijuana e San Diego, segundo passeio realizado pelo EL UNIVERSAL. Com quase 20 anos na corporação, Gerardo Gutiérrez, porta-voz da Patrulha Fronteiriça Setorial de San Diego, revelou que os cartéis de Sinaloa, Jalisco Nueva Generación e as células Arellano Félix usam drones para monitorá-los e monitorar seus movimentos, horários de chegada, quando saem, o que fazem e até quando comem ou vão ao banheiro, a fim de identificar oportunidades para facilitar a travessia ilegal de migrantes."
+},
+{
 "id": "6b7415ace3ca3d",
 "t": "A corrida para construir robôs de guerra autônomos enfrenta um problema que os carros autônomos não enfrentam. Não existem regras de trânsito.",
 "r": "Um campo de batalha caótico é muito diferente das ruas da cidade, por isso as empresas que fabricam robôs de guerra têm de projetar para a falta de estradas e regras e em meio ao caos.",
@@ -6708,26 +6920,6 @@
 "rx": "Então aqui está no nosso laboratório, este Narwal Flow lançado há alguns meses e que podemos encontrar hoje por 899€. Equipado com um poder de sucção de 22.000 Pa, este robô limpador de pisos também conta com seu esfregão atípico para apagar os vestígios mais complicados."
 },
 {
-"id": "0a2bcfae67595b",
-"t": "Os cartéis estabeleceram vigilância cibernética na fronteira com os EUA; Eles guiam migrantes com drones e por telefone",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX01jNU93Y0EzSlFqTzBvNTlFS3dsWXRtWVdSellHSnpBWGFqLThmR2ZJeENUUHFNX3p4WDVPRFJQQ1NSbFpCektaaVJnUjY1b2hBNUJJenJDZ2FFM1U3d3dLenBfR1dIVlZKVkF3WjlzVXZ5YmRyMEJVS1FkeVk1Q0hNX24wbmxtNk5CbHhQZnFqVk9GZ19GMnpfRWtneV9SRWhwS3NFazl2UTBOX0JzNzc0ejkzbzlrLTZuMGlmUGI0TEpYSGVwT3Bob0g3dFF0?oc=5",
-"f": "El Universal",
-"s": "eluniversal.com.mx",
-"i": "",
-"d": "2026-11-15T11:09-03:00",
-"c": [
-"drones",
-"inspecao"
-],
-"l": 0,
-"to": "Cárteles montan cibervigilancia en la frontera con EU; guían a migrantes con drones y por teléfono",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "El Universal"
-},
-{
 "id": "869c9bcac11415",
 "t": "Pentágono testa caça de matilhas com robôs de guerra autônomos – DARPA experimentou quatro veículos terrestres drones que detectaram, rastrearam e enfrentaram ameaças simuladas",
 "r": "O Pentágono tem testado pacotes de veículos terrestres autônomos (UGVs) em situações simuladas de combate. Em meados de outubro, na cordilheira St. Vith de Fort Knox, em Kentucky, quatro UGVs “trabalharam em equipe, negociando e vigiando a paisagem ondulada em busca de forças inimigas”, lembra uma postagem no blog da…",
@@ -6956,6 +7148,26 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "Como se espera que a cooperação entre humanos e robôs se expanda em ambientes industriais, foi desenvolvido um display flexível que permite às pessoas verificar informações usando cores e aos robôs usando padrões invisíveis no infravermelho próximo (NIR). Ele pode ser usado como um ‘etiqueta de identificação eletrônica’ que permite que pessoas e robôs verifiquem o status do trabalho juntos. O Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST, presidente Chung-sik Bae) anunciou no dia 16 que a equipe do professor Young-min Song do Departamento de Engenharia Elétrica e Eletrônica, em colaboração com a equipe do professor Yu Ki-jun do Departamento de Engenharia Elétrica e Eletrônica da Universidade Yonsei, Instituto de Ciência e Tecnologia de Gwangju (GIST), Universidade Nacional de Chosun, Universidade Nacional de Kongju e Instituto de Tecnologia de Massachusetts (MIT), desenvolveu um display reflexivo flexível que pode transmitir informações para câmeras de pessoas e robôs. Numa fábrica onde pessoas e robôs trabalham juntos, todos devem verificar o tipo de produto ou o estado do trabalho. As pessoas observam as cores na tela e o robô verifica padrões claros e escuros com uma câmera NIR dedicada. A equipe de pesquisa aplicou eletricidade para alterar tanto a cor vista pelos humanos quanto o brilho visto por uma câmera infravermelha próxima.\nO professor Song Young-min disse: “Esperamos desenvolver uma tecnologia de exibição que possa transmitir informações de acordo com o brilho circundante ou as condições de visualização em um espaço onde pessoas e robôs trabalham juntos”, e o professor Yoo Ki-jun disse: “Esperamos expandir a tecnologia para gerar mais pixels de forma estável no futuro e usá-la para vários tipos de dispositivos de exibição curvos e vestíveis”."
+},
+{
+"id": "1918e9fcbffea8",
+"t": "Rússia mergulha negociações da ONU sobre robôs assassinos em 'impasse processual'",
+"r": "",
+"u": "https://www.france24.com/en/live-news/20261116-un-to-debate-rules-for-killer-robots",
+"f": "France 24",
+"s": "france24.com",
+"i": "",
+"d": "2026-11-15T22:49-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Russia plunges UN killer robot talks into 'procedural impasse'",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "France 24",
+"mx": 1
 },
 {
 "id": "056757d26ce1e6",
@@ -14013,7 +14225,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -19860,7 +20072,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -35823,7 +36035,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -35852,7 +36064,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
