@@ -1,5 +1,41 @@
 [
 {
+"id": "6b13010d5c1115",
+"u": "https://robohub.org/robot-swarms-trained-by-trial-and-error-in-simulation-keep-working-on-real-robots/",
+"f": "Robohub",
+"tipo": "site",
+"pais": "Internacional",
+"d": "2026-11-17T08:00-03:00",
+"i": "https://robohub.org/wp-content/uploads/2026/11/swarmACB-6-1024x683.jpg",
+"to": "Robot swarms trained by trial and error in simulation keep working on real robots",
+"ro": "Reinforcement learning lets robots learn behaviors on their own, through trial and error, usually inside a computer simulation. Moving what they learn onto physical robots is another matter. Simulated and real robots never behave quite the same way, a mismatch known as the “reality gap,” and reinforcement learning has…",
+"t": "Enxames de robôs treinados por tentativa e erro em simulação continuam funcionando em robôs reais",
+"r": "O aprendizado por reforço permite que os robôs aprendam comportamentos por conta própria, por meio de tentativa e erro, geralmente dentro de uma simulação de computador. Transferir o que aprendem para robôs físicos é outra questão. Robôs simulados e reais nunca se comportam da mesma maneira, uma incompatibilidade conhecida como “lacuna de realidade”, e o aprendizado por reforço…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia",
+"microrrobos"
+]
+},
+{
+"id": "79ceb9b5c84f6f",
+"u": "https://www.popsci.com/environment/whale-snot-drones-dna/",
+"f": "Popular Science",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-17T07:00-03:00",
+"i": "https://www.popsci.com/wp-content/uploads/2026/11/drone-whale-snot-lead.png?quality=85",
+"to": "Whale snot helps scientists sequence an entire genome",
+"ro": "Drones are getting covered in whale ‘blow’—for science.",
+"t": "Ranho de baleia ajuda cientistas a sequenciar um genoma inteiro",
+"r": "Os drones estão sendo cobertos pelo “golpe” das baleias – para a ciência.",
+"lg": "en",
+"c": [
+"drones"
+]
+},
+{
 "id": "a1cfd99fb02a83",
 "u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1865853",
 "f": "Frontiers in Robotics and AI",
