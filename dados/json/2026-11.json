@@ -10,7 +10,9 @@
 "i": "https://robotstart.info/imgs/ogp_f/109437.jpg",
 "d": "2026-11-17T00:00-03:00",
 "c": [
-"quadrupedes"
+"quadrupedes",
+"competicoes",
+"humanoides"
 ],
 "l": 0,
 "to": "四足歩行ロボット向けナビ「現場犬」を実演 NexTech Week 2026【秋】 にXNOVAが出展",
@@ -1691,6 +1693,30 @@
 "rx": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso, expandimos nossa linha para incluir o robô ambulante de quatro patas ‘NeuTrek’ e o robô humanoide híbrido ‘Billi’, ampliando nosso avanço como empresa física de IA.\nAtravés de uma entrevista com Kang Ki-hyuk, CEO da Newbility, os repórteres analisaram a competitividade da tecnologia de inteligência espacial que acumularam e a direção futura dos seus negócios. : Algumas pessoas ficaram surpresas ao ver que uma empresa focada em robôs de entrega e patrulha introduziu de repente o robô de quatro patas ‘Newtrek’ e o robô humanóide híbrido ‘Billy’. No entanto, resolvemos esta lacuna tecnológica através do nosso ‘Modelo de Fundação de Robô Espacial (RFM Espacial)’ autoconstruído. Um consultor especialista em robôs projeta um cenário personalizado no local através de uma reunião inicial 1:1 e é responsável por todo o processo, desde a configuração inicial até o treinamento de uso, monitoramento em tempo real através do sistema de controle integrado (NCC) e manutenção pós-venda, de acordo com os padrões do cliente. O campo de patrulha será expandido para a defesa nacional e ambientes especiais de terrenos acidentados através do robô ambulante de quatro patas ‘Newtrek’."
 },
 {
+"id": "ccf61be37f0672",
+"t": "A WIRobotics da Coreia do Sul faz parceria com a Ottobock para vender o robô de apoio à caminhada \"WIM S\" na América do Norte",
+"r": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.",
+"u": "https://robotstart.info/article/2026/11/17/382638.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109486.jpg",
+"d": "2026-11-16T23:00-03:00",
+"c": [
+"negocios",
+"humanoides",
+"medicina",
+"exoesqueletos"
+],
+"l": 0,
+"to": "韓国WIRobotics、歩行支援ロボット「WIM S」の北米販売でOttobockと提携",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.\nA Robostar convidará Toru Takenaka, que esteve no centro do desenvolvimento da Honda \"P2\" e \"ASIMO\", para realizar um seminário online \"Trajetória deixada para trás pela Honda \"P2\" e \"ASIMO - As origens dos humanóides e o futuro na era da IA ​​física conforme contada pelo desenvolvedor Sr. Toru Takenaka\" na quarta-feira, 25 de novembro de 2026."
+},
+{
 "id": "7405fc0ee97563",
 "t": "Cão-robô Galileo C1-W implantado em armazéns poloneses, estabelecendo referência no exterior para inteligência incorporada doméstica",
 "r": "Como principal centro logístico europeu, Poznan reúne um grande número de parques de armazéns de grande escala. As patrulhas nocturnas manuais tradicionais sofrem com elevados custos de mão-de-obra local, escassez de pessoal no turno da noite, baixa frequência de inspecção, áreas cegas generalizadas e registos de operação não rastreáveis.",
@@ -2624,27 +2650,6 @@
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. “Não invejo os perfumes europeus”… ‘Aroma de marca coreana’ que cativa Seochon [On-Site+] Quando se trata de perfumes caros e de alta qualidade, produtos de marcas europeias como França e Itália geralmente vêm primeiro à mente. Isto porque a Europa, com a sua longa tradição em perfumaria e casas de luxo, há muito se estabeleceu como o centro do mercado de perfumes. O Ministro de Terras, Infraestrutura e Transporte e o Prefeito de Seul também demonstraram... O colete robótico da Hyundai Engineering & Construction 'interessado' [Zipconomy Expo 2026] A Hyundai Engineering & Construction participou da 'Zipconomy Expo 2026' e apresentou a nova direção da marca Hillstate, que marca o 20º aniversário da introdução da marca, e apresentou a tecnologia robótica do Hyundai Motor Group, incluindo robôs vestíveis. Demorou dois dias a partir do dia 30... A empresa global de bem-estar e beleza Fresha está entrando no mercado nacional de serviços de beleza."
 },
 {
-"id": "ccf61be37f0672",
-"t": "A WIRobotics da Coreia do Sul faz parceria com a Ottobock para vender o robô de apoio à caminhada \"WIM S\" na América do Norte",
-"r": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.",
-"u": "https://robotstart.info/article/2026/11/17/382638.html",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "https://robotstart.info/imgs/ogp_f/109486.jpg",
-"d": "2026-11-16T23:00-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "韓国WIRobotics、歩行支援ロボット「WIM S」の北米販売でOttobockと提携",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 1,
-"rx": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.\nA Robostar convidará Toru Takenaka, que esteve no centro do desenvolvimento da Honda \"P2\" e \"ASIMO\", para realizar um seminário online \"Trajetória deixada para trás pela Honda \"P2\" e \"ASIMO - As origens dos humanóides e o futuro na era da IA ​​física conforme contada pelo desenvolvedor Sr. Toru Takenaka\" na quarta-feira, 25 de novembro de 2026."
-},
-{
 "id": "f963e1cc8a52d0",
 "t": "Mo Shuhan, um estudante da China Medical University, desenvolveu um robô de IA da medicina tradicional chinesa e ganhou o Prêmio LINE de Excelência em Inovação e Empreendedorismo.",
 "r": "(Serviço de Informações da Agência Central de Notícias 20261117 10:24:47) Partindo das necessidades de aprendizagem de cursos totalmente em inglês, combinando base de conhecimento de livros didáticos e IA, oferece prática de exames nacionais e treinamento profissional em inglês. Mo Shuhan, um estudante do segundo ano…",
@@ -2675,7 +2680,8 @@
 "i": "https://cassette.sphdigital.com.sg/image/straitstimes/96fba8ba25ab230deb6c1167a0b338c93978df38320345e82155fd2963465bc9?t=og",
 "d": "2026-11-16T23:29-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 0,
 "to": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
@@ -7167,7 +7173,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "France 24",
-"mx": 1
+"mx": 2
 },
 {
 "id": "056757d26ce1e6",
@@ -14225,7 +14231,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -20072,7 +20078,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -36035,7 +36041,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -36064,7 +36070,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
