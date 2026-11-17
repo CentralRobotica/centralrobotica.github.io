@@ -67,6 +67,28 @@
 "rx": "Uma empresa chinesa de comércio eletrônico desenvolveu e revelou uma bateria para robôs. De acordo com o meio de comunicação de TI chinês Quaker no dia 16, a JD.COM (京东) da China adquiriu a SUNWODA (欣旺)."
 },
 {
+"id": "f77a7307d596f2",
+"t": "Ivy Tech apresenta ‘FOURCAST’, um robô autônomo de IA equipado com um grande LCD de 38 polegadas nos 4 lados",
+"r": "A Ivy Tech, uma empresa especializada em robôs de serviço de IA, começou a expandir o mercado para instituições públicas e instalações comerciais introduzindo o ‘FOURCAST’, um robô inteligente de publicidade e orientação que combina um grande LCD de 38 polegadas de 4 lados e tecnologia de condução autônoma de IA. FOURCAST é um produto com grande estrutura de display que se diferencia dos principais robôs de orientação comercial nacional. Equipado com um LCD de 38 polegadas em cada um dos quatro lados, pode transmitir simultaneamente diferentes conteúdos publicitários e informativos aos visitantes em várias direções e fornecer informações sobre as instalações e serviços promocionais enquanto conduz de forma autônoma pelo espaço interno. Em particular, ele alterna automaticamente o conteúdo publicitário dependendo da posição do robô e fornece serviços importantes.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49651",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49651_105775_711.png",
+"d": "2026-11-17T10:31-03:00",
+"c": [
+"servico"
+],
+"l": 1,
+"to": "아이비테크, 4면 38인치 대형 LCD 탑재 AI 자율주행 로봇 ‘FOURCAST’ 선보여",
+"lg": "ko",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Ivy Tech, uma empresa especializada em robôs de serviço de IA, está lançando o ‘FOURCAST’, um robô inteligente de publicidade e informação que combina um grande LCD de 38 polegadas de 4 lados e tecnologia de direção autônoma de IA."
+},
+{
 "id": "82208e700fe3b2",
 "t": "“Cleaning Robot S30” da SwitchBot lançado no dia 18, miniaturizado com diâmetro de 28cm",
 "r": "No dia 17, a SwitchBot anunciou seu novo aspirador robô, o Cleaning Robot S30. Com aproximadamente 28 cm de diâmetro, é menor que os aspiradores robôs convencionais da empresa, o que o torna um dos menores do mundo. A estação totalmente automática coleta automaticamente o lixo coletado pelo aspirador robô, limpa os…",
@@ -160,6 +182,27 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "O DJI ROMO P2 Clean More Combo é implacável, removendo de forma independente toda a sujeira do chão: em cantos de difícil acesso, ao longo de rodapés, ao redor das pernas das cadeiras e até mesmo embaixo dos móveis. De 13 a 30 de novembro, o ROMO P2 Clean More Combo (EAN: 6937224164680) é oferecido por 999€ em vez de 1.349€, com um kit completo de acessórios que lhe garante vários meses de limpeza com total tranquilidade desde a primeira utilização.\nCom o aspirador inteligente DJI ROMO P2 Clean More Combo, o LiDAR integrado indica às áreas do braço robótico onde a limpeza profunda é necessária. O ROMO P2 Clean More Combo é vendido com um pacote de acessórios: 1 par de rolos de escova de borracha ROMO, 1 par de escovas laterais ROMO série 2, 4 pares de esfregões ROMO Wash Pad, 2 filtros de alta eficiência ROMO série 2 e 2 sacos de pó para a estação base ROMO."
+},
+{
+"id": "101c90243d44db",
+"t": "“Aspirador robô Xiaomi H50 Pro” lançado no dia 27, compatível com limpeza automática com esfregão por 69.800 ienes",
+"r": "Equipado com um “braço robótico duplo” composto por uma escova lateral e um braço esfregão que se expande e contrai automaticamente. A escova e o esfregão podem alcançar locais de difícil acesso, como cantos, paredes e embaixo de móveis e eletrodomésticos, e o braço do esfregão ajusta automaticamente sua posição para…",
+"u": "https://k-tai.watch.impress.co.jp/docs/news/2157217.html",
+"f": "ケータイ Watch",
+"s": "k-tai.watch.impress.co.jp",
+"i": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/217/01.jpg",
+"d": "2026-11-17T10:00-03:00",
+"c": [
+"casa"
+],
+"l": 1,
+"to": "「Xiaomiロボット掃除機 H50 Pro」27日発売、自動モップ洗浄対応で6万9800円",
+"lg": "ja",
+"p": 9.5,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "Equipado com um “braço robótico duplo” composto por uma escova lateral e um braço esfregão que se expande e contrai automaticamente. A escova e o esfregão podem alcançar locais de difícil acesso, como cantos, paredes e embaixo de móveis e eletrodomésticos, e o braço do esfregão ajusta automaticamente sua posição para combinar com a parede, para que não fique preso em paredes curvas ou rodapés.\nA \"estação base de limpeza automática multifuncional\" dedicada pode coletar automaticamente a poeira da unidade principal, bem como lavar automaticamente o esfregão e secá-lo com ar quente. Ao detectar um carpete, ele levanta automaticamente o esfregão em 10 mm para aumentar o poder de sucção e limpar, permitindo remover a poeira sem molhar o carpete."
 },
 {
 "id": "d182555a19889d",
@@ -379,11 +422,40 @@
 "o": [
 {
 "f": "自由財經",
-"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WUmtoM0dBWThUNXNSUWlPX3I3QWZIckFTdWVRVVIzNk5DZFc5TEQyVmsyNzhaSmF0YmJhWXFkbTlkNVI2WF96QWRoQ0ZGUHprdXJ3QXpyZTBpWm45cjJr0gFkQVVfeXFMT2ROOHhjbW12QjZWRV94NkxHVjU3OXhobmhOUEpNVFdsVVF5aFVnb0s1OFJNUDByQmtncmtkS0xhbzJVWTVFZGJ5VUpYNXhNcnRYNkdLQkRZSlNxWi1IRzd0NEQyWA?oc=5",
+"u": "https://ec.ltn.com.tw/article/breakingnews/5643946",
 "s": "ec.ltn.com.tw",
 "id": "e3753405c0ad7e"
 }
 ]
+},
+{
+"id": "5d88c2009fb0b0",
+"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
+"r": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus…",
+"u": "https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
+"f": "CNA",
+"s": "channelnewsasia.com",
+"i": "https://dam.mediacorp.sg/image/upload/s--yMi6jOI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T111844Z_1_LYNXNPEMAG0Z9_RTROPTP_3_GM-BRIGHTDROP-CANADA.JPG?itok=pnz9yXeX",
+"d": "2026-11-17T08:13-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "CNA (Singapura)",
+"o": [
+{
+"f": "Reuters",
+"u": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
+"s": "reuters.com",
+"id": "b7842a43384090"
+}
+],
+"mx": 1,
+"rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
 },
 {
 "id": "ab2474063c792a",
@@ -656,30 +728,6 @@
 "rx": "As patrulhas não conseguiram validar os avistamentos. Wright-Patterson mostrou quão facilmente a equipe de segurança da USAF poderia confundir aeronaves comuns com quadricópteros. A saga dos drones Lakenheath de novembro de 2024 começa menos como um ataque sofisticado a uma base aérea americana e mais como uma lição sobre como transformar um avistamento não verificado em um incidente de segurança. Em 20 de novembro, a história havia desenvolvido consideravelmente mais ambição, com aproximadamente sete drones supostamente sobrevoando Lakenheath.\nPoucas semanas depois, em dezembro de 2024, o pessoal de segurança da Base Aérea Wright-Patterson da USAF também denunciava supostos drones, incluindo quadricópteros. O material divulgado sob o FOIA 2025-01757-F da USAF incluía vídeos posteriormente identificados como aeronaves comuns, enquanto uma conta de segurança reconheceu explicitamente que muitos avistamentos relatados como drones eram voos comerciais."
 },
 {
-"id": "d3316cb4044118",
-"t": "ROBOTERA expande implantação de robôs humanóides em toda a rede de Guangdong da China Post, alcançando oito cidades em toda a província",
-"r": "PEQUIM, 17 de novembro de 2026 /PRNewswire/ -- A ROBOTERA implantou seus robôs humanóides em toda a rede da filial de Guangdong do China Post Group, alcançando 11 postos",
-"u": "https://www.straitstimes.com/paid-press-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-20261117",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-17T06:02-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "ROBOTERA Expands Humanoid Robot Deployment Across China Post's Guangdong Network, Reaching Eight Cities Province-Wide",
-"lg": "en",
-"p": 5.6,
-"xid": [
-"8676dc06a1e0ed"
-],
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 9,
-"rx": "PEQUIM, 17 de novembro de 2026 /PRNewswire/ -- A ROBOTERA implantou seus robôs humanóides em toda a rede da filial de Guangdong do China Post Group, alcançando 11 postos"
-},
-{
 "id": "730d87bf1d36a8",
 "t": "KLab e Trajectory do Japão introduzem tecnologia de drones de IA e anti-drones nos Emirados Árabes Unidos",
 "r": "A KLab do Japão e a empresa de tecnologia de drones Trajectory estão pressionando para entrar no mercado do Oriente Médio, introduzindo voo autônomo baseado em inteligência artificial e tecnologia de resposta de drones nos Emirados Árabes Unidos (EAU). A KLab anunciou em anúncio oficial no dia 17 que participou do evento de comemoração do Dia da Força de Autodefesa organizado pela Embaixada do Japão, realizado em Abu Dhabi, Emirados Árabes Unidos, no dia 11, com seu parceiro de negócios Trajectory. Neste evento, ambas as empresas participaram do evento com altos funcionários do Ministério da Defesa dos Emirados Árabes Unidos e de empresas de defesa locais. Tecnologia de drones baseada em IA e soluções de defesa e segurança foram apresentadas às autoridades. As principais tecnologias em exibição são o voo autônomo de drones baseado em IA e o controle de tráfego aéreo.",
@@ -857,6 +905,29 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A Locus Robotics, fornecedora especializada de sistemas de automação de armazéns, anunciou que a Penguin Random House Grupo Editorial (PRHGE), grupo editorial líder mundial em língua espanhola e parte da Bertelsmann, está usando a Locus Robotics para modernizar a distribuição de livros em sua operação em Barcelona à medida que os padrões de demanda se tornam mais fragmentados, sazonais e intensivos em SKU.\nDesde o lançamento da plataforma de orquestração LocusONE em junho de 2022, a PRHGE escalou seu ambiente Locus Robotics de uma implantação inicial de 14 robôs Locus Origin que suportam 100 locais de SKU para 40 robôs gerenciando quase 1.000 locais de SKU hoje. Hoje, a unidade processa mais de um milhão e meio de unidades por mês através da Locus Robotics, mantendo uma produtividade de separação consistente de mais de 510 unidades por hora, acima das 253 unidades por hora manualmente antes da Locus Robotics."
+},
+{
+"id": "3e70ab8d47bfc7",
+"t": "Abrindo o futuro da indústria aeroespacial com IA... A Universidade Aeroespacial da Coreia e a Cidade Especial de Goyang realizam o ‘Simpósio AeroAI 2026’",
+"r": "A Universidade Aeroespacial da Coreia (presidente Huh Hee-young) e a cidade especial de Goyang (prefeito Min Kyung-seon) realizaram o simpósio de IA, drones e futura mobilidade aérea 'AeroAI Symposium 2026' no auditório do 20º andar da Torre 1, Anexo Baekseok, Prefeitura Especial de Goyang no dia 17. O nome do evento ‘AeroAI’ é uma combinação de aviação (Aero) e inteligência artificial (IA) e captura a tendência de rápida evolução da indústria da aviação combinada com IA. Cerca de 200 pessoas da academia, institutos de pesquisa, indústria e governo participaram do evento. O tema do simpósio foi ‘Vitalização da futura indústria de mobilidade aérea e as origens da atração de um hub global de IA’. Global AI Hub é a IA de organizações internacionais",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49652",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49652_105776_215.jpg",
+"d": "2026-11-17T10:31-03:00",
+"c": [
+"ia",
+"drones"
+],
+"l": 0,
+"to": "AI로 여는 항공우주 미래… 한국항공대·고양특례시 ‘AeroAI 심포지엄 2026’ 개최",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Universidade Aeroespacial da Coreia (presidente Huh Hee-young) e a cidade especial de Goyang (prefeito Min Kyung-seon) realizaram o Simpósio de IA, Drones e Mobilidade Aérea Futura 'AeroAI S' no auditório no 20º andar da Torre 1, Anexo Baekseok, Prefeitura Especial de Goyang no dia 17."
 },
 {
 "id": "4709e1c541b9f8",
@@ -1227,6 +1298,27 @@
 "rx": "Para mais informações sobre os serviços da ANSA.it, pode consultar as nossas respostas às perguntas mais frequentes, ou contactar-nos enviando um email para [email protegido] ou ligando para o número gratuito 800 938 881. O serviço de apoio ao cliente está ativo de segunda a sexta-feira das 09h00 às 18h30, aos sábados das 09h00 às 14h00. Quer ver as notícias da ANSA.it com mais frequência em suas pesquisas no Google? Ative-nos como sua fonte preferida\nColetamos, publicamos e distribuímos informação jornalística desde 1945, com escritórios na Itália e em todo o mundo. Saiba mais sobre nossos serviços."
 },
 {
+"id": "7d978669039871",
+"t": "Paraplégicos testam um exoesqueleto para melhorar a reabilitação de lesões na medula espinhal",
+"r": "O Hospital Nacional de Paraplégicos de Toledo está testando um novo exoesqueleto que poderá melhorar a reabilitação de pessoas que sofreram lesão traumática da medula espinhal. O aparelho, mais leve e adaptável que os modelos habitualmente utilizados, permite ajustar a assistência às necessidades... de cada paciente e…",
+"u": "https://www.abc.es/espana/castilla-la-mancha/toledo/paraplejicos-prueba-exoesqueleto-mejorar-rehabilitacion-lesiones-medulares-20261117103830-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/17/Exoesqueleto%20Able%20en%20la%20Sociedad%20Espa%c3%b1ola%20de%20Paraplejia-U51352072328rEZ-1200x630@diario_abc.jpg",
+"d": "2026-11-17T06:38-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "Parapléjicos prueba un exoesqueleto para mejorar la rehabilitación de lesiones medulares",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 1,
+"rx": "O Hospital Nacional de Paraplégicos de Toledo está testando um novo exoesqueleto que poderá melhorar a reabilitação de pessoas que sofreram lesão traumática da medula espinhal. O aparelho, mais leve e adaptável que os modelos habitualmente utilizados, permite ajustar a assistência às necessidades... de cada paciente e abre novas possibilidades para iniciar este tipo de terapia durante os primeiros meses após o acidente, quando ainda se encontram em processo de recuperação.\nO centro de Toledo, dependente do Serviço de Saúde de Castela-La Mancha (Sescam), participa neste ensaio clínico juntamente com o Hospital Universitário Vall d'Hebron de Barcelona e a Universidade de Lleida. A principal novidade do estudo é que ele se concentra em pessoas com lesões traumáticas na medula espinhal na fase aguda e subaguda, ou seja, durante os primeiros seis meses após o acidente."
+},
+{
 "id": "a081418b4b575b",
 "t": "Bengaluru Tech Summit: Quantos conhecem a sensação de pilotar um drone? Este piloto de drones de 31 anos está fazendo",
 "r": "Pergunte por aí e descobrirá que a maioria das pessoas já viu um drone, muitas leram sobre um, mas muito poucas voaram um. É nesta lacuna que Devesh K Hedge, um piloto de drones de 31 anos, residente em Mahalakshmi Layout e fundador da Flycamp, construiu o seu negócio.",
@@ -1268,6 +1360,158 @@
 "cv": "CBC",
 "mx": 1,
 "rx": "Esta é uma versão abreviada do segmento da Checkup sobre carros autônomos. Desde condutores apanhados a dormir ao volante na Colúmbia Britânica até táxis sem condutor que circulam por Toronto, veículos autónomos já estão nas nossas ruas. O jornalista automotivo Greg Layson e o especialista em robótica Liam Paull explicam como a tecnologia funciona, quão segura ela é e como a indústria automobilística está investindo em veículos autônomos. Além disso, tomamos o pulso dos canadenses e ouvimos como eles se sentem em relação aos carros autônomos."
+},
+{
+"id": "6b8b61176563ef",
+"t": "Antecipe-se às suas compras de Natal: aspiradores robotizados que varrem e esfregam por menos de 200 euros para que só pense em divertir-se",
+"r": "Por isso comprei um aspirador robô que, honestamente, funciona muito bem para manter o chão brilhando sem gastar um pouco de energia. Este é o Xiaomi Robot Vacuum 5 Pro, capaz de reconhecer e evitar qualquer obstáculo através de um sistema de navegação AI, câmeras binoculares 3D, câmera RGB frontal, D-ToF LiDAR…",
+"u": "https://www.lavanguardia.com/comprar/hogar-cocina/20260921/11640137/robots-aspiradores-menos-200-euros-navidad-mkt-alie.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/image_1920_1080/files/fp/uploads/2026/09/08/6a9fe795913e1.r_d.1079-855.jpeg",
+"d": "2026-11-17T08:38-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Adelanta las compras de Navidad: robots aspiradores que barren y friegan por menos de 200 euros para que solo pienses en disfrutar",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 1,
+"rx": "Por isso comprei um aspirador robô que, honestamente, funciona muito bem para manter o chão brilhando sem gastar um pouco de energia. Este é o Xiaomi Robot Vacuum 5 Pro, capaz de reconhecer e evitar qualquer obstáculo através de um sistema de navegação AI, câmeras binoculares 3D, câmera RGB frontal, D-ToF LiDAR retrátil e sensores ultrassônicos; Você pode identificar mais de 200 objetos para ajustar sua rota sem ficar preso.\nO Xiaomi Robot Vacuum S40C é um modelo bem mais simples que o anterior, e ainda combina aspiração e esfrega num formato simples, com navegação a laser para reconhecer a disposição dos cômodos e planejar percursos organizados pela casa. É um robô aspirador e esfregão com navegação LiDAR, voltado para quem busca mapas, áreas restritas e controle por cômodo sem dar o salto para uma base com esvaziamento automático."
+},
+{
+"id": "41c9ebf196ed6f",
+"t": "Os EUA ocupam o oitavo lugar em densidade de robôs enquanto a Coreia do Sul lidera a automação global",
+"r": "FRANKFURT, Alemanha — A densidade global de robôs industriais atingiu um recorde de 152 robôs por 10.000 funcionários de produção, de acordo com o relatório World Robotics 2026 da Federação Internacional de Robótica (IFR). A Coreia do Sul lidera o mundo com 1.066 robôs industriais para cada 10.000 funcionários da…",
+"u": "https://www.assemblymag.com/articles/100590-us-ranks-eighth-in-robot-density-as-south-korea-leads-global-automation",
+"f": "Assembly Magazine",
+"s": "assemblymag.com",
+"i": "https://www.assemblymag.com/ext/resources/2026/10/07/feather-robotics-900.jpg?height=635&t=1791408448&width=1200",
+"d": "2026-11-17T09:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "U.S. Ranks Eighth in Robot Density as South Korea Leads Global Automation",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Assembly Magazine",
+"mx": 1,
+"rx": "FRANKFURT, Alemanha — A densidade global de robôs industriais atingiu um recorde de 152 robôs por 10.000 funcionários de produção, de acordo com o relatório World Robotics 2026 da Federação Internacional de Robótica (IFR). A Coreia do Sul lidera o mundo com 1.066 robôs industriais para cada 10.000 funcionários da indústria, seguida por Cingapura com 873 e pela Alemanha com 469. \"O rastreamento da densidade dos robôs cria condições equitativas para a análise global, ajustando o número de robôs industriais operacionais em relação a cada 10.000 funcionários no setor industrial\", disse Jane Heffner, presidente do IFR.\nA densidade de robôs na América do Norte aumentou aproximadamente 24% entre 2020 e 2025, atingindo 214 robôs por 10.000 funcionários de produção."
+},
+{
+"id": "ee089a2818f11c",
+"t": "WEFLO traz detecção de falhas de drones por IA para linhas de produção",
+"r": "A empresa sul-coreana de diagnóstico WEFLO anunciou seu FloONE AI Suite, que vincula o controle de qualidade de fabricação de fim de linha a verificações de saúde pré-voo e registros de manutenção. A empresa afirma que 34 plataformas de diagnóstico automatizadas estão instaladas e funcionando com programas civis de…",
+"u": "https://dronexl.co/2026/11/17/weflo-floone-ai-drone-diagnostics-manufacturing-lines/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/weflo-drqc-ai-drone-quality-control-systems.webp",
+"d": "2026-11-17T09:08-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "WEFLO Brings AI Drone Fault Detection to Production Lines",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A empresa sul-coreana de diagnóstico WEFLO anunciou seu FloONE AI Suite, que vincula o controle de qualidade de fabricação de fim de linha a verificações de saúde pré-voo e registros de manutenção. A empresa afirma que 34 plataformas de diagnóstico automatizadas estão instaladas e funcionando com programas civis de entrega de drones na Coreia do Sul. WEFLO da Coreia do Sul leva diagnósticos de drones de IA para linhas de fabricação e operações de campo\nFloONE AI Suite conecta controle de qualidade de fim de linha, detecção de falhas pré-voo e inteligência de manutenção para oferecer suporte à confiabilidade do drone durante todo o ciclo de vida da aeronave. A empresa sul-coreana de diagnósticos de IA WEFLO está enfrentando esse desafio com sistemas automatizados projetados para detectar possíveis falhas antes dos drones saírem da linha de produção e durante todo o seu ciclo de vida operacional."
+},
+{
+"id": "f35e14124c826b",
+"t": "Nomadic arrecada US$ 6 milhões para drones que pousam em linhas de energia ativas",
+"r": "A startup Nomadic de Munique arrecadou US$ 6 milhões em uma rodada de sementes liderada pela Foundamental para drones que pousam em linhas ativas de alta tensão e recarregam a partir delas. A empresa afirma que seus NOMADs de 4 kg registraram mais de 20.000 horas em linhas energizadas, trabalham em até 420 kV e cobrem…",
+"u": "https://dronexl.co/2026/11/17/nomadic-6m-seed-drones-land-charge-live-power-lines/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/nomadic-nomad-drone-live-high-voltage-power-line.webp",
+"d": "2026-11-17T09:42-03:00",
+"c": [
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "Nomadic Raises $6M for Drones That Land on Live Power Lines",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A startup Nomadic de Munique arrecadou US$ 6 milhões em uma rodada de sementes liderada pela Foundamental para drones que pousam em linhas ativas de alta tensão e recarregam a partir delas. A empresa afirma que seus NOMADs de 4 kg registraram mais de 20.000 horas em linhas energizadas, trabalham em até 420 kV e cobrem cerca de 25 km cada. Nomadic levanta sementes de US$ 6 milhões para drones que carregam em linhas de energia ativas e encontram os pontos mais fracos da rede\nA Nomadic, que constrói drones que se instalam e carregam a partir de linhas de energia ativas de alta tensão, arrecadou US$ 6 milhões em uma rodada de sementes liderada pela Foundamental, com a participação da Verve Ventures, Cyan Ventures, dos investidores existentes Outlander VC e Asia2G Capital, e investidores anjos da rede de ex-alunos sdw. A Nomadic constrói drones que pousam e carregam a partir de linhas de energia energizadas de alta tensão."
+},
+{
+"id": "5d3ed0b4406364",
+"t": "Promise Robotics de Toronto levanta US$ 40 milhões para automatizar mais construção residencial",
+"r": "A Promise Robotics Inc., uma startup de inteligência artificial com sede em Toronto, levantou US$ 40 milhões em novos financiamentos para ampliar uma abordagem automatizada para construção residencial que está atraindo o interesse de grandes incorporadores residenciais. Fundada em Setembro de 2020, a empresa está a…",
+"u": "https://www.theglobeandmail.com/business/technology/article-torontos-promise-robotics-raises-40-million-automate-homebuilding/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/resizer/v2/2A3CIOYBTVBVHOKBFNSOBGUDSQ.jpg?auth=1d9d839e1b8857c5fdfcc8d66e4397ce09d51e67cd6518f0d8a4a264af35d499&width=1200&height=800&quality=80&smart=true",
+"d": "2026-11-17T10:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Toronto’s Promise Robotics raises $40-million to automate more homebuilding",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "A Promise Robotics Inc., uma startup de inteligência artificial com sede em Toronto, levantou US$ 40 milhões em novos financiamentos para ampliar uma abordagem automatizada para construção residencial que está atraindo o interesse de grandes incorporadores residenciais. Fundada em Setembro de 2020, a empresa está a aplicar IA ao sector da construção, onde o crescimento da produtividade tem sido lento há muito tempo e há escassez de trabalhadores qualificados.\n“Não temos capacidade industrial suficiente na construção para construir todas as casas de que necessitamos”, disse Ramtin Attar, presidente-executivo e cofundador da Promise, numa entrevista. A Promise montou fábricas em Calgary e nos arredores de Edmonton. A Promise também assinou a divisão Alberta da Mattamy Homes, uma das maiores incorporadoras residenciais do Canadá."
+},
+{
+"id": "86a763acf4ee81",
+"t": "ZenaTech garante contratos de pesquisa do setor de energia que representam quase C$ 1 milhão em trabalho de projeto por meio de seu negócio de drones como serviço",
+"r": "17, 2026 (GLOBE NEWSWIRE) – ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), um provedor de soluções de tecnologia especializado em drones de IA (Inteligência Artificial), Drone como Serviço (DaaS), SaaS empresarial e soluções de computação quântica, anuncia que seu negócio Drone como Serviço…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8873864/zenatech-secures-energy-sector-survey-contracts-representing-nearly-c1-million-in-project-work-through-its-drone-as-a-service-business/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=990",
+"d": "2026-11-17T10:21-03:00",
+"c": [
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "ZenaTech Secures Energy-Sector Survey Contracts Representing Nearly C$1 Million in Project Work Through Its Drone as a Service Business",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "17, 2026 (GLOBE NEWSWIRE) – ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), um provedor de soluções de tecnologia especializado em drones de IA (Inteligência Artificial), Drone como Serviço (DaaS), SaaS empresarial e soluções de computação quântica, anuncia que seu negócio Drone como Serviço garantiu contratos de pesquisa com dois clientes estabelecidos do setor de energia.\nEstas informações prospectivas referem-se a eventos futuros ou desempenho futuro da ZenaTech e refletem as expectativas e projeções da administração em relação ao crescimento, resultados de operações, desempenho e perspectivas e oportunidades de negócios da ZenaTech, incluindo declarações sobre o trabalho de pesquisa de acompanhamento antecipado e receitas relacionadas, cronogramas de projetos, relacionamentos com clientes e a expansão de suas operações Drone as a Service e capacidades de processamento AI LiDAR."
+},
+{
+"id": "d3316cb4044118",
+"t": "ROBOTERA expande implantação de robôs humanóides em toda a rede de Guangdong da China Post, alcançando oito cidades em toda a província",
+"r": "PEQUIM, 17 de novembro de 2026 /PRNewswire/ -- A ROBOTERA implantou seus robôs humanóides em toda a rede da filial de Guangdong do China Post Group, alcançando 11 postos",
+"u": "https://www.straitstimes.com/paid-press-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-20261117",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "",
+"d": "2026-11-17T06:02-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "ROBOTERA Expands Humanoid Robot Deployment Across China Post's Guangdong Network, Reaching Eight Cities Province-Wide",
+"lg": "en",
+"p": 4.6,
+"xid": [
+"8676dc06a1e0ed"
+],
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 9,
+"rx": "PEQUIM, 17 de novembro de 2026 /PRNewswire/ -- A ROBOTERA implantou seus robôs humanóides em toda a rede da filial de Guangdong do China Post Group, alcançando 11 postos"
 },
 {
 "id": "05116898d363ce",
@@ -1716,6 +1960,91 @@
 "rx": "À medida que os robôs vestíveis, que eram usados ​​principalmente para fins industriais, estão se expandindo para bens de consumo diário, a Coway lançou oficialmente o 'Robô Vestível de Assistência à Caminhada' desenvolvido em cooperação com a Werobotics e iniciou serviços de aluguel. Um consumidor está experimentando um robô vestível na Galeria Coway em Guro-gu, Seul, no dia 17."
 },
 {
+"id": "ae5b15bf43104b",
+"t": "Wang Xingxing da Yushu Technology: Todos esperam que os robôs possam realmente trabalhar em casa, e talvez isso seja possível num futuro próximo.",
+"r": "A IT House informou em 17 de novembro que, de acordo com Knews, Wang Xingxing, CEO da Yushu Technology, apareceu hoje em Shenzhen para participar da Cúpula de Líderes Empresariais da APEC e falou sobre os desafios enfrentados atualmente pela indústria robótica. A IT House aprendeu com o relatório original que Wang…",
+"u": "https://m.ithome.com/html/1028252.htm",
+"f": "IT之家",
+"s": "m.ithome.com",
+"i": "https://img.ithome.com/m/images/logo.png",
+"d": "2026-11-17T03:47-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "宇树科技王兴兴：大家希望机器人去家里真正干活，或许不久的将来可以实现",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "A IT House informou em 17 de novembro que, de acordo com Knews, Wang Xingxing, CEO da Yushu Technology, apareceu hoje em Shenzhen para participar da Cúpula de Líderes Empresariais da APEC e falou sobre os desafios enfrentados atualmente pela indústria robótica. A IT House aprendeu com o relatório original que Wang Xingxing acredita que os avanços tecnológicos globais deste ano lhe permitiram ver um ponto crítico. Talvez num futuro próximo, os robôs possam trabalhar em sua casa.\nDe acordo com Cailian News, Wang Xingxing acredita que a indústria de robôs enfrenta vários problemas práticos. O principal problema é a falta de recursos de generalização do modelo. Os robôs muitas vezes precisam ser treinados novamente ao mudar os cenários de aplicação, dificultando a adaptação de um dispositivo a vários ambientes domésticos e de trabalho. No entanto, a evolução tecnológica global aproxima-se de um ponto crítico."
+},
+{
+"id": "dee253a1791e28",
+"t": "O investimento de risco no terceiro trimestre foi “o mais elevado de sempre”, com KRW 12,6 biliões… Muito dinheiro está a ser investido em semicondutores e robôs direcionados para a IA.",
+"r": "Investimentos em grande escala no setor industrial, como semicondutores e robôs relacionados com inteligência artificial (IA), impulsionaram o mercado de investimento de risco, resultando no desempenho cumulativo mais elevado de sempre no terceiro trimestre após o primeiro semestre do ano. Embora os fundos de…",
+"u": "https://www.etnews.com/20261117000315",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/17/news-g.v1.20261117.d88c85e0a7e1411bb3103ca3ad6ef2c9_P1.jpg",
+"d": "2026-11-17T03:50-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "3분기 벤처투자 '역대 최대' 12.6조…AI 겨냥한 반도체·로봇에 뭉칫돈",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Investimentos em grande escala no setor industrial, como semicondutores e robôs relacionados com inteligência artificial (IA), impulsionaram o mercado de investimento de risco, resultando no desempenho cumulativo mais elevado de sempre no terceiro trimestre após o primeiro semestre do ano. Embora os fundos de investimento se concentrassem em áreas relacionadas com a IA, a indústria do jogo foi a única a registar um declínio. De acordo com o Ministério das PME e Startups, no terceiro trimestre deste ano, o novo investimento de risco ascendeu a KRW 12,6248 biliões, um aumento de 28,4% em relação ao mesmo período do ano passado, e o mais elevado nos primeiros três trimestres da história. O máximo histórico anual é de 15,9 trilhões de won em 2021, que será superado se cerca de 3,3 trilhões de won forem adicionados no quarto trimestre. O Ministério das PME e Startups analisou que grandes investimentos em domínios relacionados com a IA, como semicondutores, robótica e produção avançada, impulsionaram o desempenho. A formação de fundos de risco, que servirão como fonte de investimentos futuros, também atingiu um máximo histórico de 12,9971 biliões de KRW. O investimento em jogos totalizou 83,1 bilhões de won, menos da metade do mesmo período do ano passado e o menor no mesmo período desde 2022."
+},
+{
+"id": "0660342b7fdf88",
+"t": "Wang Xingxing, da Unitree, afirma que a generalização dos robôs e a escala de fabricação continuam sendo desafios",
+"r": "Na APEC, Wang Xingxing disse que a generalização do modelo robótico continua difícil e alertou que a fabricação, a confiabilidade, o serviço e a computação também devem ser escalonados.",
+"u": "https://pandaily.com/unitree-wang-xingxing-apec-robot-generalization-manufacturing-compute",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/unitree_a42e6c165e.png",
+"d": "2026-11-17T04:02-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Unitree's Wang Xingxing Says Robot Generalization and Manufacturing Scale Remain Challenges",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "Na APEC, Wang Xingxing disse que a generalização do modelo robótico continua difícil e alertou que a fabricação, a confiabilidade, o serviço e a computação também devem ser escalonados."
+},
+{
+"id": "e5cf153283e45a",
+"t": "Da sala de cirurgia à enfermaria de reabilitação... K-Robot se aprofundando na área médica",
+"r": "“Dê-me a tesoura.” O braço do robô se moveu com as palavras do cirurgião. Os robôs cirúrgicos domésticos foram além da aprovação doméstica e entraram na fase de verificação da viabilidade comercial em hospitais estrangeiros, e robôs vestíveis que ajudam os pacientes a andar estão sendo usados ​​em enfermarias de…",
+"u": "https://zdnet.co.kr/view/?no=20261113175551",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/09/ab9c5b12aa52380d4f951b1437f0606e.jpg",
+"d": "2026-11-17T04:45-03:00",
+"c": [
+"medicina",
+"exoesqueletos"
+],
+"l": 0,
+"to": "수술실부터 재활병동까지…의료현장 파고드는 K-로봇",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "“Dê-me a tesoura.” O braço do robô se moveu com as palavras do cirurgião. Os robôs cirúrgicos domésticos foram além da aprovação doméstica e entraram na fase de verificação da viabilidade comercial em hospitais estrangeiros, e robôs vestíveis que ajudam os pacientes a andar estão sendo usados ​​em enfermarias de reabilitação. À medida que aumenta a escassez de pessoal médico essencial e a carga de funcionamento dos hospitais, o ritmo da introdução de robôs acelera. Cubis-Joint é um sistema robótico que auxilia no planejamento pré-operatório e no desempenho intra-operatório em cirurgias de articulações artificiais de joelho e quadril. Entre as empresas de robôs, a Rainbow Robotics participa do consórcio Samsung Seoul Hospital e a Neuromeka participa do consórcio Yangsan Pusan ​​​​National University Hospital e é responsável pelo desenvolvimento de hardware robótico. Juntamente com o hardware do robô de assistência cirúrgica, a Neuromeca também está desenvolvendo software que pode ser comumente usado por vários robôs de assistência cirúrgica. Lee Chi-won, CEO da Mediintech, disse: \"Para fazer crescer o negócio de robôs médicos, deve haver muitas empresas que possam demonstrar produtos. Como há uma falta de projetos governamentais na área médica na Coreia, espero que haja mais projetos importantes como o ARPA-H\"."
+},
+{
 "id": "18481a9e45b756",
 "t": "O que um centro de drones dos EUA de US$ 20 milhões não trará para as Filipinas",
 "r": "",
@@ -1737,6 +2066,27 @@
 "mx": 3
 },
 {
+"id": "51c8e20fd32bfd",
+"t": "A velocidade do desenvolvimento da lei dos robôs devido à disseminação da IA ​​física... Tarefas para resolver obstáculos à comercialização",
+"r": "À medida que a indústria robótica, incluindo a inteligência artificial física (IA) e a humanóide, cresce, projetos de lei relacionados são propostos um após o outro na Assembleia Nacional. À medida que as empresas de robótica entram no mercado e desenvolvem modelos de negócio, surge um desafio para equilibrar o…",
+"u": "https://www.etnews.com/20261117000256",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.b719f7f8ea204ae58b3441305ae81a5a_P1.jpg",
+"d": "2026-11-17T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "피지컬AI 확산에 로봇법 정비 속도…상용화 걸림돌 해소 과제",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "À medida que a indústria robótica, incluindo a inteligência artificial física (IA) e a humanóide, cresce, projetos de lei relacionados são propostos um após o outro na Assembleia Nacional. À medida que as empresas de robótica entram no mercado e desenvolvem modelos de negócio, surge um desafio para equilibrar o desenvolvimento da indústria e a gestão da segurança, para que a revisão institucional não conduza a novos encargos regulamentares. Segundo a Assembleia Nacional no dia 17, apenas foram confirmados 7 projetos de lei diretamente relacionados com robôs propostos este ano, dos quais 5 concentraram-se no segundo semestre. Em particular, desde setembro, o sistema de promoção da indústria robótica foi reorganizado e o prémio do robô móvel foi anunciado."
+},
+{
 "id": "09af237e2d62be",
 "t": "Comunicado de imprensa: [Faculdade Nacional de Tecnologia de Tsuyama] Experimente robôs, drones e IA generativa! “Technical College Festival in Okayama 2026” será realizado para alunos do ensino fundamental e médio (PR TIMES)",
 "r": "",
@@ -1756,6 +2106,48 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
+},
+{
+"id": "ed0493cd2d17dc",
+"t": "Xiaomi H50: este aspirador robot com estação autónoma perde 116€",
+"r": "Vendido e enviado pela Amazon, o aspirador robô Xiaomi H50 custa 282,99€ em comparação com os 399€ do preço recomendado, um desconto de 29%. Sua estação multifuncional lava automaticamente os esfregões e depois os seca ao ar, com uma bandeja autolimpante. Inclui um saco para o pó de 2,5 litros, que a Xiaomi anuncia…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-laveur-xiaomi-h50-avec-station-est-a-282-99-29-n267730.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/267730/d9b8382e-black-friday-2026-l-aspirateur-robot-laveur-xiaomi-h50-avec-station-est-a-282-99-29__1200_678__0-319-3000-1894.webp",
+"d": "2026-11-17T05:31-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Xiaomi H50 : cet aspirateur robot laveur avec station autonome perd 116 €",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido e enviado pela Amazon, o aspirador robô Xiaomi H50 custa 282,99€ em comparação com os 399€ do preço recomendado, um desconto de 29%. Sua estação multifuncional lava automaticamente os esfregões e depois os seca ao ar, com uma bandeja autolimpante. Inclui um saco para o pó de 2,5 litros, que a Xiaomi anuncia ser suficiente para 75 dias, e um depósito de água de 4 litros que permite lavar até 240 m².\nO robô aspira com potência de 10.000 Pa. Sua escova principal com dentes em forma de Y e sua escova lateral com garras duplas limitam o emaranhado dos cabelos, e os esfregões sobem 10 mm nos tapetes. A aplicação Xiaomi Home gere mapas de vários pisos, zonas de limpeza e horários, podendo também ser controlada com Google Assistant ou Alexa. Xiaomi anuncia até 120 minutos de autonomia."
+},
+{
+"id": "80f85284ffe19a",
+"t": "Como amigos de Coimbatore transformaram a GOAT Robotics em um negócio de Rs 8 milhões com alcance global",
+"r": "GOAT Robotics, uma startup fundada por amigos que estudaram B.E. A Engenharia de Robótica e Automação em uma faculdade privada de engenharia em Coimbatore, uma cidade de Nível 2, obteve sucesso ao fornecer serviços robóticos para vários países. “Enquanto fornecíamos serviços de automação e robótica para pequenas…",
+"u": "https://yourstory.com/2026/11/coimbatore-goat-robotics-startup-success-story-8-crore-turnover",
+"f": "YourStory.com",
+"s": "yourstory.com",
+"i": "https://images.yourstory.com/cs/2/1a70b4f0170611edbdd8b5d28d859895/4-1794900834033.jpg",
+"d": "2026-11-17T05:37-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "How friends from Coimbatore built GOAT Robotics into an Rs 8 crore business with global reach",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "YourStory",
+"mx": 1,
+"rx": "GOAT Robotics, uma startup fundada por amigos que estudaram B.E. A Engenharia de Robótica e Automação em uma faculdade privada de engenharia em Coimbatore, uma cidade de Nível 2, obteve sucesso ao fornecer serviços robóticos para vários países. “Enquanto fornecíamos serviços de automação e robótica para pequenas empresas na Índia, tivemos a oportunidade de trabalhar para algumas empresas em Cingapura.\n“Em 2023, a empresa deles e a nossa se fundiram e estabelecemos a GOAT Robotics em Coimbatore. \"Embora tenhamos iniciado nossa jornada com a GOAT Robotics em dezembro de 2023, registramos um faturamento de apenas Rs 10 lakh durante 2023-2024. \"Durante 2024-2025, a equipe da GOAT Robotics começou a trabalhar não apenas com a Toyota, mas também com várias empresas grandes e multinacionais, incluindo Volvo, Maruti, Suzuki, Pricol e Timken."
 },
 {
 "id": "197ea2093d33f1",
@@ -1796,26 +2188,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Engineer",
-"mx": 2
-},
-{
-"id": "7d978669039871",
-"t": "Paraplégicos testam um exoesqueleto para melhorar a reabilitação de lesões na medula espinhal",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUk00R1ZDMGc2UnJtQ0Q2NEZIa3pLek9NWGUxcXBUbnU4aFM3OGZWOWpqRktXRGtTdklsM2E1dlZ5ZTJXU18wMG5jeXhSYWZhWWZiV3FCNTFQM1hlRjRjZWc5ZUJ0djJrV2hQcmZrWUpzQnFBbVg1ODFYM2ZLU2NmT2pwdzhUYlh1Yng5ODUyTFBEMVpJRzZ3VG5WMS02TVcwM2I0TUpzX25hRDYzTjRnYW50SFZLczczd29xaUJKbU55aEtNYk5mTi1GSUJTUTk5VzZKcHJ3dWpfMVJGQUFfcFNWWdIB6AFBVV95cUxOYnJ5ZmhGQXRmMzhpelRDa1BERmp2V2FxSm9MdzRQcC1CRl96RXpsOERxSllFSVJOSkttUkZMN2toaWpkNXNENFRXeVNoUzV4T3NVUHoxWjB6RGdfeE1nSGx6U251TWNGbE5YQTQzUE4wREwzR3dnZTRLZjlDajRYZFF5NS1uS2VjQ2UwM1BRVndISzUxVm9mRTVZVlN0Q3Z1di1YS093dkpLZkdvOXdRQmcxX1otcDJDNU9xZWMxcWFrVGZySEE0Q2ZDZzV4NVhOU1NFYUExLVg2MEFLT3R6NG5Ta2FLSDhj?oc=5",
-"f": "ABC",
-"s": "abc.es",
-"i": "",
-"d": "2026-11-17T06:38-03:00",
-"c": [
-"exoesqueletos"
-],
-"l": 0,
-"to": "Parapléjicos prueba un exoesqueleto para mejorar la rehabilitación de lesiones medulares",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "ABC (Espanha)"
+"mx": 3
 },
 {
 "id": "0a585b6d3e845e",
@@ -1835,64 +2208,71 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
-"id": "5d88c2009fb0b0",
-"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmxXdDF2REczOXd5VU03SzFGcjc1d3pVTGNrRmJlQjZJa2RxaEpZM1ZnQzNHRUo3MlNsOVA0UHlxWkpybFpjTmRNdno2UDBNYmJRTko2SEYxTzVfSk1YZUlVWXhNbXBKN1h4MDJBaDkxZ0lmYlJ2TXhmdW9NY0VYWUdaQWVuOGY5THlUOTZNTUJQdmpEeDBfUkdncGN2c1dEdXF5SW9MT2psOFE?oc=5",
-"f": "CNA",
-"s": "channelnewsasia.com",
-"i": "",
-"d": "2026-11-17T08:13-03:00",
+"id": "b904315f11002d",
+"t": "Serviço de entrega de drones da Uber e Zipline decola em Houston",
+"r": "O Uber Eats está lançando oficialmente a entrega por drone em parceria com a Zipline a partir de terça-feira. A implementação inicial começa no subúrbio de Spring, Texas, em Houston, com Dallas sendo o próximo da fila e dezenas de cidades adicionais nos EUA planejadas. O lançamento ocorre depois que Uber e Zipline anunciaram pela primeira vez sua parceria, incluindo um…",
+"u": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+"f": "The Verge",
+"s": "theverge.com",
+"i": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&strip=all&crop=0,3.2535527299925,100,93.492894540015",
+"d": "2026-11-17T10:00-03:00",
 "c": [
-"industriais"
+"entrega",
+"drones"
 ],
 "l": 0,
-"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
+"to": "Uber and Zipline’s drone delivery service takes flight in Houston",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "The Verge",
+"mx": 1,
+"rx": "Os clientes em Spring, Texas, agora podem receber pedidos de Jersey Mike's, Zaxby's e restaurantes locais em seus quintais por meio de cápsulas amarradas - sem necessidade de gorjeta. O Uber Eats está lançando oficialmente a entrega de drones em parceria com a Zipline a partir de terça-feira. Os residentes da primavera na área de cobertura verão um novo ícone “Drone” na tela inicial do aplicativo Uber para navegar pelos restaurantes participantes.\nCom certeza, a meta de “1 milhão de entregas por dia até 2029” é muito agressiva, especialmente considerando que a Zipline atualmente realiza em média cerca de uma entrega a cada 20 segundos globalmente, ou cerca de 4.300 por dia. Ainda assim, os drones de entrega estão a tornar-se uma tecnologia mais amplamente adotada em muitas comunidades nos EUA, com a Uber a competir ao lado de outros intervenientes como a Amazon Prime Air e a Wing, apoiada pela Google."
+},
+{
+"id": "5b9af5f0b2089b",
+"t": "Uber Eats inicia entregas com drones no Texas",
+"r": "A Uber espera atingir 1 milhão de entregas diárias de drones até 2029.",
+"u": "https://www.engadget.com/2318495/uber-eats-starts-drone-deliveries-in-texas/",
+"f": "Engadget",
+"s": "engadget.com",
+"i": "https://www.engadget.com/img/gallery/uber-eats-starts-drone-deliveries-in-texas/l-intro-1794863905.jpg",
+"d": "2026-11-17T10:00-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Uber Eats starts drone deliveries in Texas",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Engadget",
+"mx": 1,
+"rx": "A Uber tem grandes ambições para o seu programa de entrega de drones. O objetivo é atingir 1 milhão de entregas de drones por dia até 2029, após parceria com a Zipline. O serviço começa hoje, já que os clientes do Uber Eats no subúrbio de Spring, Texas, em Houston, agora podem solicitar entregas por drones. Os usuários do Uber Eats podem tocar em um ícone dedicado na página inicial do aplicativo para ver restaurantes que oferecem suporte a entregas por drones. Na área de Houston, as opções incluem redes como Jersey Mike's e Zaxby's, bem como restaurantes locais, e entregas de drones estarão disponíveis das 8h às 22h, para começar. A Uber observou que os clientes não serão solicitados a dar gorjetas para entregas com drones e nem há taxas extras.\nA Rival DoorDash já oferece entregas de drones em partes de Dallas – Fort Worth e Charlotte, Carolina do Norte, com a ajuda de seus parceiros Wing, Flytrex e Manna."
+},
+{
+"id": "3f296bb1cc665a",
+"t": "Genesis AI arrecadou US$ 500 milhões para criar mãos robóticas de nível humano",
+"r": "",
+"u": "https://www.forbes.com/sites/johnkoetsier/2026/11/17/genesis-ai-raised-500-million-to-create-human-level-robot-hands/",
+"f": "Forbes",
+"s": "forbes.com",
+"i": "",
+"d": "2026-11-17T10:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Genesis AI Raised $500 Million To Create Human-Level Robot Hands",
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "CNA (Singapura)"
-},
-{
-"id": "6b8b61176563ef",
-"t": "Antecipe-se às suas compras de Natal: aspiradores robotizados que varrem e esfregam por menos de 200 euros para que só pense em divertir-se",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVJ5Yl9ZbFM3QXBISEc5RWFDODMwY2RYQ1BHRFp6NGttY3ctdTljZ0hNem5GVWVWaGZSanJVNlhSYWJuNWI2MEFsdkcxWTZ2MDFQMFpKVGtzTFg0THB5UEJMTzZwZ0ZnTmZ5dzJZRW1DZklIZ2ZwcElZdHRfd3pjWmVEY3JuYUJ4Vjc0d2x1R2pZdmZmTlItTkd2VkF3Z08wWUthTXFFUHFWOVFWLWFkcEtwMnlGNnJhd1dRa2ZlTmNtUdIBxwFBVV95cUxOR08yXzhCVjNvWmtDTVp1SEVKZkhTNWpPcGE0T0JEcGNaSVhRbVJDZm91RGd3U21XSmJmT01hYWZPZ09vNU5VT1Jfb0ZXNUpmcnh2aUYwTkw1YVB6YlREbmQzdmp5QVQ2YkttTTFhSmhWNDBQeXVtWFdocGVOTzZ4VS10VWtNbGs5MmdMUEpNdGp6cDlORGhoR1FoS2diTGJfc01MdHhvazlVTzFLRi1RUUE4TnRYX3lFM2ZYTDlkTHdiYjVKenRB?oc=5",
-"f": "La Vanguardia",
-"s": "lavanguardia.com",
-"i": "",
-"d": "2026-11-17T08:38-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Adelanta las compras de Navidad: robots aspiradores que barren y friegan por menos de 200 euros para que solo pienses en disfrutar",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "La Vanguardia"
-},
-{
-"id": "41c9ebf196ed6f",
-"t": "Os EUA ocupam o oitavo lugar em densidade de robôs enquanto a Coreia do Sul lidera a automação global",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWtEazU1ZTl6SXlSSE1tMXRCUUFsN2tSdVBMdWNqZmFwU09KejJwVFB4Qkd0X1otQ096RVlROVRTc0RidHVreWdseHhDTW5XaXU1b3hOMEU5dkpwN3kyVkNMcXVTNlFCeEpFN1BET2JFYnBvM0dyUHFnaHdyZDJ4b0RIbWo4a1FycEYwekdMc3VMQUZLZEE2d0w1RlZ6R0s2aWJtZzlUTmNTNFFJZ1hhUGZySTAtdw?oc=5",
-"f": "Assembly Magazine",
-"s": "assemblymag.com",
-"i": "",
-"d": "2026-11-17T09:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "U.S. Ranks Eighth in Robot Density as South Korea Leads Global Automation",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Assembly Magazine"
+"cv": "Forbes",
+"mx": 1
 },
 {
 "id": "37e1525d80be7b",
@@ -1914,140 +2294,6 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "Wang Xingxing, presidente da Yushu Technology Co., Ltd., disse na cúpula que a indústria doméstica e até mesmo global de robôs tem estado muito aquecida nos últimos anos. A razão é que todos têm visto o valor crescente da linguagem pura ou dos modelos de IA de texto na vida pessoal e no escritório, e todos esperam que os robôs também possam usar a IA para realmente trabalhar e resolver problemas de trabalho.\nNo entanto, ele também disse que, combinado com os avanços tecnológicos globais deste ano, já viu o ponto crítico do avanço, que pode ser relativamente rápido. Wang Xingxing disse que com o lançamento do GPT-6, a IA física já viu sinais de colapso, provavelmente nos últimos 1-2 ou 2-3 anos. O principal desafio para a inteligência incorporada passar pelo momento ChatGPT é o alinhamento da entrada e saída do modelo de IA com o robô real."
-},
-{
-"id": "ae5b15bf43104b",
-"t": "Wang Xingxing da Yushu Technology: Todos esperam que os robôs possam realmente trabalhar em casa, e talvez isso seja possível num futuro próximo.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VVN5YnBBbUtlcVJRcUxsSTRYYU1ZN2JLTl9XdkNocjhoOU4yRGJLeVYyUlZqcG9yUkJNcGlXNVNUbVNYVm0wTTNobEY2dw?oc=5",
-"f": "IT之家",
-"s": "m.ithome.com",
-"i": "",
-"d": "2026-11-17T03:47-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "宇树科技王兴兴：大家希望机器人去家里真正干活，或许不久的将来可以实现",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "IT之家 (IThome)"
-},
-{
-"id": "dee253a1791e28",
-"t": "O investimento de risco no terceiro trimestre foi “o mais elevado de sempre”, com KRW 12,6 biliões… Muito dinheiro está a ser investido em semicondutores e robôs direcionados para a IA.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdTg3NmNFaGU3Y0VkTWpqVHZLQ214cEk4S0NOUEExRHRYSEpCOHRoM05YX2dfUE1aY2Y3cDdHU1VMTFRNcGhMT3ljamxCQQ?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-17T03:50-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "3분기 벤처투자 '역대 최대' 12.6조…AI 겨냥한 반도체·로봇에 뭉칫돈",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "0660342b7fdf88",
-"t": "Wang Xingxing, da Unitree, afirma que a generalização dos robôs e a escala de fabricação continuam sendo desafios",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcW15X09ocnpLS2tzWnplYlpKa1o0bXpGZ1lXeE9XRG4yeHJHYUtfeGxSX3FteTNDZm5tNGlOVjNFU1I0Ui1lWjhOWUdCdmhxRjRVWWE1TWR4RDNBOXFPRnlQMC15b2VBTUJSSllsejVGRVBMV1U4bjVkSVN4YVhpVjBkb2pSbzFHcFhkWW9MRmxCdTFQ?oc=5",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "",
-"d": "2026-11-17T04:02-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Unitree's Wang Xingxing Says Robot Generalization and Manufacturing Scale Remain Challenges",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Pandaily"
-},
-{
-"id": "e5cf153283e45a",
-"t": "Da sala de cirurgia à enfermaria de reabilitação... K-Robot se aprofundando na área médica",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSYW95VDRxWjRXYy1yVTBQT2RPc1NLamlnTU12ckFia0xXU3g4OVRscHhxay1FekV2T0JScV9PUTRjV19COF8tYnJfOXZtYlF3UGpaWGtR?oc=5",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "",
-"d": "2026-11-17T04:45-03:00",
-"c": [
-"medicina",
-"exoesqueletos"
-],
-"l": 0,
-"to": "수술실부터 재활병동까지…의료현장 파고드는 K-로봇",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ZDNet Korea"
-},
-{
-"id": "51c8e20fd32bfd",
-"t": "A velocidade do desenvolvimento da lei dos robôs devido à disseminação da IA ​​física... Tarefas para resolver obstáculos à comercialização",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKT0M1T0EyNXNyQk9xY1JxazFTczdPb0g0UlZEaXF1Z05xTmxqUVlXQklSWU5yeEhPNUlfRlloalRTZktFZmt3X0FFZFBKQQ?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-17T05:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "피지컬AI 확산에 로봇법 정비 속도…상용화 걸림돌 해소 과제",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "ed0493cd2d17dc",
-"t": "Xiaomi H50: este aspirador robot com estação autónoma perde 116€",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRDJIeFZITkJ0LURXUFRVazZHUkF2TGNaRU9rVHBmdkRReUtRQ3Q2aWpaQlc2WGtreGZjYmp4bzF1bWc2c1FjVVEydFlHMHR3UzhMczN2TFhaejFmYWQxS3g2bV9NdzdoNHo4N1QteGZIYTJPdmNtRk5qS1pfX21pS3p4Uk9lLTg0ZnF3cmN5ak50V3JjaV9VNkJxU1FEVVlDRFgyeXQxUjVfR1YwTDJoY2s2UmNDMlVUYnpxVW5ObG9kYVhiVkdOMHg3amQycmczR0xBTmdfMHdNRzg?oc=5",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-17T05:31-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Xiaomi H50 : cet aspirateur robot laveur avec station autonome perd 116 €",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Les Numériques"
-},
-{
-"id": "80f85284ffe19a",
-"t": "Como amigos de Coimbatore transformaram a GOAT Robotics em um negócio de Rs 8 milhões com alcance global",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2x5VnE5LXVBdDA5RTJRdDZyOHptNllDSy1VR29rNlZPRkFpWkdQU1JCcDBkV0dNNm5TZmlrNEIyUno3WFJjRkVBWHNOaGJqdzRrUDg2WFV2X1lWa0dUQ20yTTdHRm1UQ2hyQXEtNDBtX2VxYlNaeHJEdzdaOG41Qnp4aHAta3pIamtDd3BRb2d2cld1NC1JVg?oc=5",
-"f": "YourStory.com",
-"s": "yourstory.com",
-"i": "",
-"d": "2026-11-17T05:37-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "How friends from Coimbatore built GOAT Robotics into an Rs 8 crore business with global reach",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "YourStory"
 },
 {
 "id": "e4febe47c74bc1",
@@ -2164,6 +2410,25 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ZDNet Korea"
+},
+{
+"id": "4485ee55c6d55f",
+"t": "Com o cortador de grama robô RockMow Z120 LiDAR, Roborock adiciona outra corda ao seu já amplo arco",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHF6WC1CVE1XZnF5Zk9HVGFpX205bDUtbnR4MnlsbFdvT2NLaHQ5cjRNb1YwaHJpMTNpdWI3N1JqaVg5US1iblp2VFRIN3BIZ1pZRXl0czI3azcwa0hvRnJWeFdZX0ItdjltLU5DdzFhMVlsQzZ1U1VlcGlMY1E3T0FB?oc=5",
+"f": "TechRadar",
+"s": "techradar.com",
+"i": "",
+"d": "2026-11-17T07:25-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "With the RockMow Z120 LiDAR robot lawn mower, Roborock adds another string to its already ample bow",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "TechRadar"
 }
 ],
 "2026-11-16": [
@@ -2559,7 +2824,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/elite-robots-expands-global-mobile-automation-offering-with-ce-compliant-mobile-manipulators-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
 "d": "2026-11-16T06:00-03:00",
 "c": [
 "geral"
@@ -2589,7 +2854,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/robotera-launches-xhand-1-pro-u-featured-in-nvidias-gr00t-2-dexumi-demonstration-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
 "d": "2026-11-16T07:10-03:00",
 "c": [
 "ia",
@@ -9628,6 +9893,25 @@
 "mx": 9
 },
 {
+"id": "af111537953df3",
+"t": "Elon Musk revela planos para liberar um Tesla Bot humanóide",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MWm5DSC1NMzhrVmstWjJYcmNOMnNWc1JYbWt3M19Nbm1DNHpkZHcybnd4a0JlWHp3OHBLdUtGVGFOdXRNR2Vwc09ZVno3UTBobEt4cnJMSjZBNUVGZ1FTd2lHMDM?oc=5",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "",
+"d": "2026-11-15T14:26-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Elon Musk reveals plans to unleash a humanoid Tesla Bot",
+"lg": "en",
+"p": 3.0,
+"cr": 2,
+"cv": "Mashable"
+},
+{
 "id": "f49d9559d04f6e",
 "t": "Entusiastas transportam Astrobot, jogo exclusivo do ano TGA 2024 da Sony PS5, para PC",
 "r": "A IT House informou em 15 de novembro que, de acordo com a mídia estrangeira ComputerBase, um entusiasta imnotsharingmyname recentemente portou o jogo TGA 2024 exclusivo do Sony PS5 \"Astro Bot\" para a plataforma PC e também adicionou NVIDIA DLSS, geração de quadros e tecnologias Reflex à versão correspondente.",
@@ -9848,6 +10132,44 @@
 ],
 "l": 0,
 "to": "Waymo to start robotaxi pilot in New York City",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Mashable"
+},
+{
+"id": "236b3416aea207",
+"t": "Tesla agora coloca seus monitores de segurança robotáxi no banco do motorista",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR09QODh4S0RyS1d3QnJrVnRuQURIZE9UeVBPc3FEQ3RkMXpJaDhUWHZIQXVLNUJUZGM2R2ozeU51eFVzSWhjTm9oR3Y5NlIxdXgxdy03eFc4M0QyelFDSVd4QkFXSWs2M3NBQXhHb0VMaS10MXRTaHhNQlBUQWxZYzItVQ?oc=5",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "",
+"d": "2026-11-15T14:26-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla now puts their robotaxi safety monitors in the driver's seat",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Mashable"
+},
+{
+"id": "59c98319858d6e",
+"t": "O robotáxi ‘Cybercab’ da Tesla está aqui, mas ainda está tão longe",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52UmhVdkhuZHZzeUdxUGZGUWU5Ykhvay16a0liU3ZDYVRkUkNGbjlfYjYzRDUzUTFTUTM2eWJvaHNXNmM1MHRneWs5cHZvUzZYcEQzb0VRUDN5LTA0OUxsRkln?oc=5",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "",
+"d": "2026-11-15T14:26-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla's 'Cybercab' robotaxi is here, and yet still so far away",
 "lg": "en",
 "p": 2.2,
 "cr": 2,
@@ -16677,7 +16999,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -22566,7 +22888,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -38571,7 +38893,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -38600,7 +38922,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -41925,7 +42247,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -41935,9 +42257,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 13.9,
+"p": 12.9,
 "esp": 1,
-"mx": 2,
+"mx": 1,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
