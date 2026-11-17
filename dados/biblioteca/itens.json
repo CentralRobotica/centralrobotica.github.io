@@ -1,5 +1,41 @@
 [
 {
+"id": "eb2945ef3ef4ed",
+"u": "https://www.popsci.com/technology/soft-robot-glows-green/",
+"f": "Popular Science",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-17T18:00-03:00",
+"i": "https://www.popsci.com/wp-content/uploads/2026/11/Soft-Green-Robot.jpg?quality=85",
+"to": "Tiny, soft robot glows green as it stretches its limbs",
+"ro": "The worm-like robot could advance artificial skin technology",
+"t": "Robô minúsculo e macio brilha em verde enquanto estica seus membros",
+"r": "O robô parecido com um verme pode avançar na tecnologia da pele artificial",
+"lg": "en",
+"c": [
+"microrrobos",
+"ia"
+]
+},
+{
+"id": "6e97e94cc651a0",
+"u": "https://www.popularmechanics.com/home/tools/a74456373/switchbot-k11-plus-pro-review/",
+"f": "Popular Mechanics",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-17T17:36-03:00",
+"i": "https://hips.hearstapps.com/hmg-prod/images/791ee781-837a-4b86-aeb9-1c438af02e6f.jpg",
+"to": "I Tested SwitchBot’s Tiny Robot Vacuum, and It Reaches Under Couches Where Bigger Bots Can’t",
+"ro": "It stands just 3.6 inches tall, picks up pet hair and cat litter, and docks in a station that’s nice enough to leave out.",
+"t": "Testei o minúsculo aspirador de robô do SwitchBot e ele chega embaixo dos sofás onde bots maiores não conseguem",
+"r": "Ele tem apenas 3,6 polegadas de altura, coleta pêlos de animais de estimação e areia de gato e atraca em uma estação que é boa o suficiente para ser deixada de fora.",
+"lg": "en",
+"c": [
+"microrrobos",
+"casa"
+]
+},
+{
 "id": "6b13010d5c1115",
 "u": "https://robohub.org/robot-swarms-trained-by-trial-and-error-in-simulation-keep-working-on-real-robots/",
 "f": "Robohub",
