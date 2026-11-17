@@ -768,6 +768,35 @@
 ]
 },
 {
+"id": "568126047a584c",
+"t": "Um pianista robô pode ofuscar um músico humano?",
+"r": "Um robô pianista de 53 dedos está enfrentando um virtuoso humano na Itália. TeoTronico possui precisão impecável e usa IA para debater suas habilidades. Mas embora os robôs possam tocar com precisão, será que conseguem replicar a emoção e a ligação humana da música ao vivo?",
+"u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician",
+"f": "Al Jazeera",
+"s": "aljazeera.com",
+"i": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794944614.jpg?resize=1620%2C1080&quality=80",
+"d": "2026-11-17T16:44-03:00",
+"c": [
+"companhia"
+],
+"l": 0,
+"to": "Can a robot pianist upstage a human musician?",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "Al Jazeera",
+"mx": 1,
+"rx": "Um robô pianista de 53 dedos está enfrentando um virtuoso humano na Itália. TeoTronico possui precisão impecável e usa IA para debater suas habilidades. Mas embora os robôs possam tocar com precisão, será que conseguem replicar a emoção e a ligação humana da música ao vivo?",
+"o": [
+{
+"f": "AP News",
+"u": "https://apnews.com/video/can-a-53-fingered-robot-pianist-outshine-a-human-musician-9bf24fd0513c47ff92063674860d0ea7",
+"s": "apnews.com",
+"id": "49daefc5addea7"
+}
+]
+},
+{
 "id": "ab2474063c792a",
 "t": "XNOVA exibe sistema de navegação “Site Dog” para robôs quadrúpedes na NexTech Week 2026 [Outono]",
 "r": "expôs na \"NexTech Week 2026 [Outono] 1st Humanoid Robot EXPO\" realizada em Makuhari Messe de quarta-feira, 11 de novembro a sexta-feira, 13 de novembro de 2026. Como um seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está…",
@@ -1422,27 +1451,6 @@
 "rx": "A indústria da construção tem sido lenta na adoção da robótica, apesar de décadas de progresso tecnológico na produção e na logística. Na primeira Groundworks Summit, em Londres, empresas de robótica, empreiteiros e investidores discutiram o que será necessário para trazer a automação para as operações diárias dos edifícios. Agora pode não ser o melhor momento para a tecnologia robótica avançada entrar e revolucionar a indústria da construção.\nEm toda a indústria, os elevados custos de financiamento, os materiais caros, a escassez de mão-de-obra e os requisitos regulamentares tornaram cada vez mais difícil justificar novos projectos de construção. “E não é apenas na indústria da construção.” “Eles trabalham na construção e acredito que os robôs são bons para a indústria.”"
 },
 {
-"id": "6ecc9fb7226c47",
-"t": "Encoder Products Company expande portfólio de medição linear com sensores Waycon Draw Wire",
-"r": "A nova linha de produtos oferece soluções versáteis de medição de posição linear para automação industrial, equipamentos móveis e aplicações exigentes.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/17/encoder-products-company-expands-linear-measurement-portfolio-with-waycon-draw-wire-sensors/27406",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-17T16:28-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Encoder Products Company Expands Linear Measurement Portfolio with Waycon Draw Wire Sensors",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
-},
-{
 "id": "706cdeb2cc31b9",
 "t": "Saiba como a IA está mudando a robótica da cadeia de suprimentos",
 "r": "Da esquerda para a direita: Lior Elazary, cofundador e CEO da inVia Robotics, Josip Cesic, cofundador e CEO da Gideon, e Jeff Mahler, cofundador e CTO da Ambi Robotics. A robótica da cadeia de suprimentos está passando por uma rápida transformação. As empresas esperam resolver a escassez de mão de obra, melhorar a eficiência e construir…",
@@ -1463,27 +1471,6 @@
 "cv": "The Robot Report",
 "mx": 1,
 "rx": "Da esquerda para a direita: Lior Elazary, cofundador e CEO da inVia Robotics, Josip Cesic, cofundador e CEO da Gideon, e Jeff Mahler, cofundador e CTO da Ambi Robotics. A robótica da cadeia de suprimentos está passando por uma rápida transformação. Saiba mais sobre todos os avanços mais recentes no webinar “Robôs na cadeia de suprimentos”. O webinar ao vivo acontecerá na quarta-feira, 18 de novembro de 2026, às 12h.\nO webinar contará com insights de três especialistas em robótica: Lior Elazary, cofundador e CEO da InVia Robotics; Josip Cesic, cofundador e CEO da Gideon; e Jeff Mahler, cofundador e CTO da Ambi Robotics. Lior Elazary é cofundador e CEO da inVia Robotics. Josip Cesic é cofundador e CEO da Gideon, uma empresa pioneira em robótica e IA. Jeff Mahler é cofundador e CTO da Ambi Robotics, anteriormente atuando como CEO da empresa."
-},
-{
-"id": "3a87805efcce3b",
-"t": "O futuro da IA ​​de fábrica está sendo moldado pela Siemens e pela NVIDIA e explorado pelas convenções da BMA em Dallas, TX",
-"r": "O uso mais interessante da IA ​​na fabricação pode não ser um robô substituindo um operador. Pode ser uma decisão tomada horas antes do início da produção: qual trabalho deve ser executado primeiro, o que acontece se um material atrasar e se uma mudança irá atrapalhar o resto da linha.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/17/the-future-of-factory-ai-is-being-shaped-by-siemens-and-nvidia-and-explored-by-bma-conventions-in-dallas-tx/27407",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-17T17:21-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "The Future of Factory AI Is Being Shaped by Siemens and NVIDIA and Explored by BMA Conventions in Dallas, TX",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
 },
 {
 "id": "8f66e788d663f6",
@@ -1517,7 +1504,8 @@
 "i": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/fb/fd/61/6afbfd6101dda0a0a0a.png",
 "d": "2026-11-17T19:00-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"industriais"
 ],
 "l": 0,
 "to": "화려한 퍼포먼스 中 휴머노이드 로봇, 현장 사업화까지 곳곳 장애물",
@@ -1546,7 +1534,30 @@
 "p": 5.6,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
+},
+{
+"id": "e9b7f1046dc729",
+"t": "Além da corrida para zero – A indústria de drones FPV dos EUA acaba de ser avisada – duas vezes no mesmo dia",
+"r": "No ano passado, um pequeno investidor e parceiro estratégico da Artemis Defense Technologies com sede na Flórida",
+"u": "https://www.suasnews.com/2026/11/beyond-the-race-to-zero-the-usas-fpv-drone-industry-just-got-put-on-notice-twice-on-the-same-day/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/your-country-needs-you.webp?fit=600%2C337&ssl=1",
+"d": "2026-11-17T19:11-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Beyond the Race to Zero – The USA’s FPV Drone Industry just got put on notice – Twice on the same Day",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "No ano passado, um pequeno investidor e parceiro estratégico da Artemis Defense Technologies, com sede na Florida, pressionou-me para dedicar o meu tempo e os recursos da minha empresa a um novo sistema de pequenas aeronaves não tripuladas (sUAS), construído a partir dos meus projectos, que eles esperavam vender ao governo dos Estados Unidos. Esse é o máximo que o Exército pagará por um drone de ataque unidirecional (OWA) do Grupo 1 com visão em primeira pessoa (FPV), uma aeronave de ataque pequena e descartável que definiu a guerra na Ucrânia.\nUm limite de preço deste tipo numa tiragem de 400 indica que o Exército acredita que as peças, a mão-de-obra e a margem de um drone de ataque podem agora ser contabilizados em dólares. O mercado de drones FPV é aquele que o aviso do Exército desta semana descreve: milhares de unidades, um limite de preço rígido, um fly-off para escolher os vencedores e a produção indo para depósitos do governo."
 },
 {
 "id": "f5f58b32ced497",
@@ -2755,6 +2766,27 @@
 "rx": "Uma das dinastias gastronômicas familiares mais queridas e confusas de Sydney entrou em um novo subúrbio com a inauguração do Chinatown Noodle Restaurant em Marrickville no mês passado. Jenny Qin, filha de Xiao Tang Qin – o violinista fundador do Chinese Noodle Restaurant em Haymarket – relançou o negócio de sua família dentro do centro comercial Marrickville Traders.\nEmbora o espaço no armazém convertido pareça mais espaçoso e moderno do que o restaurante Haymarket original de Qin, fundado em 1991, os clientes acharão a comida e as uvas penduradas em um pequeno canto do teto familiares. Jenny Qin diz que usar o garçom robô tem sido “uma experiência positiva para todos até agora”. Embora Qin empregue dois garçons humanos, a economia obtida com apenas um garçom robô de US$ 20 mil era boa demais para ser desperdiçada."
 },
 {
+"id": "e3c96212d07fca",
+"t": "A Nvidia diz às startups de robótica que elas têm seu apoio enquanto surgem dúvidas sobre sua estratégia de investimento",
+"r": "Após a saída de Jensen Huang, a Nvidia contactou startups de robótica para lhes assegurar o seu apoio, no meio de questões sobre a sua estratégia de investimento.",
+"u": "https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "https://i.insider.com/6afc9cf304834674c81c6c37?width=1200&format=jpeg",
+"d": "2026-11-17T16:03-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Nvidia tells robotics startups they have its support as questions swirl about its investment strategy",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 1,
+"rx": "Após a saída de Jensen Huang, a Nvidia contactou startups de robótica para lhes assegurar o seu apoio, no meio de questões sobre a sua estratégia de investimento."
+},
+{
 "id": "cb8ad2b8f309a7",
 "t": "Célula de gerenciamento de desastres de Kolhapur adiciona drone subaquático de Rs 10L para acelerar a busca por vítimas de afogamento",
 "r": "A administração distrital adicionou um drone subaquático de Rs 10 lakh à sua frota de gerenciamento de desastres, uma medida que deverá acelerar significativamente as buscas por vítimas de afogamento e objetos submersos.",
@@ -2799,27 +2831,6 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "A start-up de defesa de Washington, Valkryn, saiu do sigilo na terça-feira com US$ 17 milhões em financiamento, incluindo uma rodada inicial de US$ 15 milhões liderada pelo fundo American Dynamism da a16z. a16z lidera rodada inicial de US$ 15 milhões para dimensionar infraestrutura de avaliação contínua para sistemas militares autônomos 17, 2026 – Valkryn, uma empresa que constrói e opera tecnologia Battle Lab para avaliar guerra robótica e autônoma, emergiu hoje da furtividade. Fundada por tecnólogos de defesa que construíram sistemas autónomos e aos quais se juntaram veteranos militares que os operaram, a Valkryn está a desenvolver um novo modelo de avaliação independente, testando o desempenho destes sistemas definidos por software antes de serem utilizados em combate, separados das empresas que os constroem."
-},
-{
-"id": "568126047a584c",
-"t": "Um pianista robô pode ofuscar um músico humano?",
-"r": "Um robô pianista de 53 dedos está enfrentando um virtuoso humano na Itália. TeoTronico possui precisão impecável e usa IA para debater suas habilidades. Mas embora os robôs possam tocar com precisão, será que conseguem replicar a emoção e a ligação humana da música ao vivo?",
-"u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician",
-"f": "Al Jazeera",
-"s": "aljazeera.com",
-"i": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794944614.jpg?resize=1620%2C1080&quality=80",
-"d": "2026-11-17T16:44-03:00",
-"c": [
-"companhia"
-],
-"l": 0,
-"to": "Can a robot pianist upstage a human musician?",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Al Jazeera",
-"mx": 1,
-"rx": "Um robô pianista de 53 dedos está enfrentando um virtuoso humano na Itália. TeoTronico possui precisão impecável e usa IA para debater suas habilidades. Mas embora os robôs possam tocar com precisão, será que conseguem replicar a emoção e a ligação humana da música ao vivo?"
 },
 {
 "id": "17706036f4f0e3",
@@ -2980,7 +2991,7 @@
 "i": "https://www.chosun.com/resizer/v2/ORHLJZMNN5GIPPZIXCFSYBLFRU.png?auth=b78d0174a0b6ed3a2159529aee417aab835f7044dfcdeb3d37b62b9f403c2706&width=1200&height=630&smart=true",
 "d": "2026-11-17T17:57-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "U.S. Robotics Firms Source Parts in Shenzhen, Chinese Founder Notes",
@@ -3043,7 +3054,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wire-card-etamu-20261117.webp",
 "d": "2026-11-17T18:18-03:00",
 "c": [
-"drones"
+"drones",
+"educacao"
 ],
 "l": 0,
 "to": "East Texas A&M Tests AI to Spot GPS Spoofing in Drone Flights",
@@ -3074,6 +3086,28 @@
 "cv": "Korea Economic Daily",
 "mx": 1,
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Isto pode ser interpretado como o efeito do terceiro trimestre do lucro operacional deste ano anunciado no dia anterior se transformar num défice. A partir das 9h43 deste dia, Robotis estava negociando a 209.000 won, uma queda de 22.500 won (9,72%) em relação ao dia de negociação anterior... O índice KOSPI começou a cair 1% no dia 17 e está flutuando no nível de 5.000 no início das negociações. Isto pode ser interpretado como o impacto do declínio acentuado nas ações relacionadas com a inteligência artificial (IA) na Bolsa de Valores de Nova Iorque na noite passada. KOSPI despencou mais de 3% e caiu para a marca de 5.100. Com os estrangeiros vendendo mais de 1 trilhão de won, os estoques de inteligência artificial (IA) e de semicondutores entraram em colapso de uma só vez. A queda do KOSDAQ também atingiu a faixa de 4%. No dia 16, o KOSPI caiu 190 em relação ao dia anterior..."
+},
+{
+"id": "e338f635504514",
+"t": "Gangnam-gu, onde os robôs são criados… Patrulhe robôs em parques e sirva robôs em restaurantes para idosos.",
+"r": "(Seul = Yonhap News) O repórter Jeong Joon-young = Seul Gangnam-gu (prefeito do distrito Kim Hyun-ki) anunciou no dia 18 que está conduzindo um projeto de banco de testes de robôs para verificar a possibilidade de robôs serem usados ​​​​no patrulhamento de parques, distribuição de refeitórios para idosos e purificação…",
+"u": "https://www.yna.co.kr/view/AKR20261118021900004",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img5.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118021900004_02_i_P4.jpg",
+"d": "2026-11-17T19:41-03:00",
+"c": [
+"servico",
+"companhia"
+],
+"l": 0,
+"to": "로봇 키우는 강남구…공원엔 순찰로봇·경로식당엔 서빙로봇",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Seul = Yonhap News) O repórter Jeong Joon-young = Seul Gangnam-gu (prefeito do distrito Kim Hyun-ki) anunciou no dia 18 que está conduzindo um projeto de banco de testes de robôs para verificar a possibilidade de robôs serem usados ​​​​no patrulhamento de parques, distribuição de refeitórios para idosos e purificação de ar em instalações públicas. O distrito tem fornecido espaço de demonstração de robôs para empresas por meio de concurso público desde 2024. Atualmente, robôs de serviço, robôs de purificação de ar e robôs vestíveis estão em operação, e robôs de patrulha também serão operados neste e no próximo mês. Um robô de patrulha autônomo da Newability será implantado na área de 735 Yeongdong-daero este mês. Um robô de patrulha externa Guardian AI será operado no Dosan Park em meados do próximo mês. Anteriormente, o Restaurante para Idosos do Centro de Bem-Estar Comunitário de Suseo implantou um robô de atendimento da RGT para ajudar na distribuição e retirada na hora do almoço. Três robôs de bem-estar de IA da SK Intellix foram implantados na Biblioteca Motgol, nos Arquivos Gangnam-gu e no Centro de Saúde Pública de Gangnam-gu."
 },
 {
 "id": "d3316cb4044118",
@@ -3222,6 +3256,48 @@
 ],
 "l": 0,
 "to": "SiMa.ai Builds on Its Industry-First Agentic Palette Software Suite and Unlocks High Performance for Any Physical AI Model",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
+"id": "6ecc9fb7226c47",
+"t": "Encoder Products Company expande portfólio de medição linear com sensores Waycon Draw Wire",
+"r": "A nova linha de produtos oferece soluções versáteis de medição de posição linear para automação industrial, equipamentos móveis e aplicações exigentes.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/17/encoder-products-company-expands-linear-measurement-portfolio-with-waycon-draw-wire-sensors/27406",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-17T16:28-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Encoder Products Company Expands Linear Measurement Portfolio with Waycon Draw Wire Sensors",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
+"id": "3a87805efcce3b",
+"t": "O futuro da IA ​​de fábrica está sendo moldado pela Siemens e pela NVIDIA e explorado pelas convenções da BMA em Dallas, TX",
+"r": "O uso mais interessante da IA ​​na fabricação pode não ser um robô substituindo um operador. Pode ser uma decisão tomada horas antes do início da produção: qual trabalho deve ser executado primeiro, o que acontece se um material atrasar e se uma mudança irá atrapalhar o resto da linha.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/17/the-future-of-factory-ai-is-being-shaped-by-siemens-and-nvidia-and-explored-by-bma-conventions-in-dallas-tx/27407",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-17T17:21-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "The Future of Factory AI Is Being Shaped by Siemens and NVIDIA and Explored by BMA Conventions in Dallas, TX",
 "lg": "en",
 "esp": 1,
 "p": 4.6,
@@ -4539,6 +4615,26 @@
 "cr": 2,
 "cv": "Tech.eu",
 "mx": 3
+},
+{
+"id": "f51a18960afbf2",
+"t": "Califórnia proíbe Waymo Robotaxis em rodovias após incidentes",
+"r": "",
+"u": "https://gizmodo.com/waymos-banned-on-the-freeway-in-california-after-multiple-incidents-2000841324",
+"f": "Gizmodo",
+"s": "gizmodo.com",
+"i": "",
+"d": "2026-11-17T18:55-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "California Bans Waymo Robotaxis From Freeways After Incidents",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Gizmodo",
+"mx": 1
 }
 ],
 "2026-11-16": [
@@ -6497,7 +6593,7 @@
 "u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDGTCKEYWORDKEYWORDBASE",
 "f": "日経クロステック",
 "s": "xtech.nikkei.com",
-"i": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/topm.jpg?20220512",
+"i": "",
 "d": "2026-11-16T00:12-03:00",
 "c": [
 "geral"
@@ -6508,7 +6604,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 1,
+"mx": 9,
 "rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de tarefas que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
@@ -7388,6 +7484,27 @@
 "cv": "Yonhap",
 "mx": 1,
 "rx": "SÃO PAULO, 17 de novembro de 2026 /PRNewswire=YONHAP/ -- Star Plus Legend Holdings Limited (\"Star Plus Legend\", código de ações: 6683.HK) e Galaxy Corporation Co., Ltd (\"Galaxy\") assinaram um memorando de entendimento de cooperação estratégica (MOU) em Hong Kong em 16 de novembro. passeios e o desenvolvimento conjunto de brinquedos modernos de IA e robôs companheiros para os mercados chinês, coreano e global.\nFundada em 2017 e listada no Conselho Principal da Bolsa de Valores de Hong Kong em julho de 2023, a Star Plus Legend se concentra na criação e operação de IP. Em novembro de 2026, Star Plus Legend abriu o primeiro Pandabot Cafe do mundo em Tsim Sha Tsui, Hong Kong."
+},
+{
+"id": "21c0e02f4f07d2",
+"t": "MCNEX entra na cadeia de suprimentos ‘Atlas’ da Hyundai Motor Company… O negócio de robôs planeja expandir em 2027",
+"r": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49632",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49632_105752_5828.png",
+"d": "2026-11-16T22:59-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "엠씨넥스, 현대차 '아틀라스' 공급망 진입…2027년 로봇 사업 확대 나선다",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo"
 },
 {
 "id": "d99ef3acf1afba",
@@ -11951,7 +12068,7 @@
 "i": "https://img.36krcdn.com/hsossms/20261116/v2_2949223aa53940f688dfa689882e6caa@5510391_oswg77788oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
 "d": "2026-11-15T13:06-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "杨哲轩深度解读 数据编译+模型能力如何推动机器人重回真实世界",
@@ -12108,6 +12225,27 @@
 "cv": "Mashable",
 "mx": 1,
 "rx": "A partir do próximo ano, a empresa de entregas está testando um drone de carga autônomo da Elroy Air, startup de aeronaves da Bay Area. O avião híbrido-elétrico de decolagem e pouso vertical (o que significa que não precisa de fuga e é mais parecido com um helicóptero) levará pacotes entre as instalações de triagem da FedEx Express. Por enquanto, o drone autônomo se limitará à logística de meio quilômetro entre os edifícios da FedEx, em vez de deixar os pacotes na porta das pessoas ou retirá-los dos comerciantes. Elroy estava originalmente focado em táxis aéreos autônomos para passageiros, mas agora se dedica à entrega autônoma de cargas.\nOs voos de teste estão previstos para começar em meados de 2023 na aeronave autônoma Chaparral da Elroy Air, que pode transportar até 500 libras de carga e entregá-la a até 300 milhas de distância."
+},
+{
+"id": "de47c806716b34",
+"t": "Tesla expandiu a área de serviço Robotaxi em Austin. Agora tem a forma de um pênis gigante.",
+"r": "Quando a Tesla iniciou seu serviço Robotaxi em Austin, Texas, no mês passado, ele começou com cerca de 10 a 20 carros e uma área cercada geográfica bastante pequena no sul de Austin. Agora, essa área cresceu e seu formato é uma mensagem não muito sutil para os concorrentes da Tesla. Conforme revelado na segunda-feira…",
+"u": "https://mashable.com/article/tesla-robotaxi-expansion-penis",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/068lI6k6g2EZNgTxC3r1od5/hero-image.fill.size_1200x675.v1752565180.png",
+"d": "2026-11-15T14:26-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla has expanded Robotaxi service area in Austin. It is now shaped like a giant penis.",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "Quando a Tesla iniciou seu serviço Robotaxi em Austin, Texas, no mês passado, ele começou com cerca de 10 a 20 carros e uma área cercada geográfica bastante pequena no sul de Austin. Agora, essa área cresceu e seu formato é uma mensagem não muito sutil para os concorrentes da Tesla. Conforme revelado na segunda-feira pela conta oficial do Robotaxi da Tesla no X, a nova área onde os Robotaxis da Tesla operam tem o formato de um pênis gigante.\nA conta Robotaxi de Tesla no X compartilhou a imagem da nova área com a legenda: “Mais forte, melhor, mais rápido, mais forte”. Musk anunciou recentemente a expansão do projeto Robotaxi em Austin e acrescentou que o serviço Robotaxi pode se expandir para a Bay Area “em um ou dois meses”. Estremecemos ao pensar que formato a área cercada geograficamente Robotaxi pode assumir ali."
 },
 {
 "id": "f9d4b3a8938bc4",
@@ -17833,7 +17971,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBC",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d629f7491f3694",
@@ -19378,7 +19516,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -25267,7 +25405,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -27202,7 +27340,7 @@
 "u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDPHPKEYWORDWSLKEYWORD",
 "f": "日経クロステック",
 "s": "xtech.nikkei.com",
-"i": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/topm.jpg?20220512",
+"i": "",
 "d": "2026-11-11T12:33-03:00",
 "c": [
 "geral"
@@ -27213,7 +27351,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 1,
+"mx": 9,
 "rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
@@ -33457,7 +33595,7 @@
 "u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDMUMIMOKEYWORDISPKEYWORDKEYWORDRSAKEYWORDKEYWORDIoT",
 "f": "日経クロステック",
 "s": "xtech.nikkei.com",
-"i": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/topm.jpg?20220512",
+"i": "",
 "d": "2026-11-10T12:18-03:00",
 "c": [
 "geral"
@@ -33468,7 +33606,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 1,
+"mx": 9,
 "rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
@@ -41272,7 +41410,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -41301,7 +41439,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -44626,7 +44764,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -44636,9 +44774,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
