@@ -1,5 +1,24 @@
 [
 {
+"id": "a1cfd99fb02a83",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1865853",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-16T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "A dual-path scenario-guided framework for maritime object detection under heterogeneous sea conditions",
+"ro": "Maritime object detection is a critical component for Unmanned Surface Vehicles (USVs) yet faces dual challenges: target geometric deformation induced by complex sea states and the identification of sparse, small-scale objects in open waters. However, conventional “one-size-fits-all” optimization strategies often fail…",
+"t": "Uma estrutura guiada por cenário de caminho duplo para detecção de objetos marítimos sob condições marítimas heterogêneas",
+"r": "A detecção de objetos marítimos é um componente crítico para veículos de superfície não tripulados (USVs), mas enfrenta desafios duplos: deformação geométrica do alvo induzida por estados marinhos complexos e a identificação de objetos esparsos e de pequena escala em águas abertas. No entanto, as estratégias convencionais de otimização “tamanho único” muitas vezes falham…",
+"lg": "en",
+"mx": 1,
+"c": [
+"subaquaticos"
+]
+},
+{
 "id": "b062e68173e7c8",
 "u": "https://www.popularmechanics.com/technology/gear/a74388679/drone-maintenance-tips/",
 "f": "Popular Mechanics",
