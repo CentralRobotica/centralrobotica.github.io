@@ -1,5 +1,25 @@
 [
 {
+"id": "6e57e0eea444ee",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1964467",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-17T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Leveraging buffer and lookahead information for online 3D bin packing via deep reinforcement learning",
+"ro": "The 3D Bin Packing Problem (3D-BPP) is critical for optimizing automated logistics, where marginal improvements in space utilization yield significant benefits. However, existing methods often feature overly complex architectures and underutilize buffer and lookahead information. This paper proposes a novel Deep…",
+"t": "Aproveitando informações de buffer e antecipação para empacotamento de bin 3D on-line por meio de aprendizado de reforço profundo",
+"r": "O problema de empacotamento de caixas 3D (3D-BPP) é fundamental para otimizar a logística automatizada, onde melhorias marginais na utilização do espaço geram benefícios significativos. No entanto, os métodos existentes geralmente apresentam arquiteturas excessivamente complexas e subutilizam informações de buffer e de antecipação. Este artigo propõe um romance Deep…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia",
+"logistica"
+]
+},
+{
 "id": "eb2945ef3ef4ed",
 "u": "https://www.popsci.com/technology/soft-robot-glows-green/",
 "f": "Popular Science",
