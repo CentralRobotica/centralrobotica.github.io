@@ -24,6 +24,28 @@
 "rx": "A Octane baseia-se na experiência de implantação da FlytBase com mais de 20 empresas de petróleo e gás, incluindo a Shell, para ajudar os líderes do programa a transformar casos comprovados de uso de drones em programas empresariais. A FlytBase lançou hoje o Octane, uma plataforma para empresas de petróleo e gás que criam programas empresariais de drones. A Octane combina software, suporte de engenharia e recursos de implantação regional para ajudar as empresas a repetir operações bem-sucedidas de drones em locais e países.\nUm programa empresarial de drones precisa de um modelo operacional repetível que possa gerenciar esses requisitos sem reconstruir o programa para cada local ou caso de uso. Explore como a Octane ajuda as empresas de petróleo e gás a construir o modelo operacional em torno de um programa empresarial de drones em octane.flytbase.com"
 },
 {
+"id": "0229a5c07b02cf",
+"t": "Soracom lança conjunto de IA física, trazendo conectividade segura e operações remotas para robôs e máquinas autônomas",
+"r": "A suíte Soracom combina serviços de plataforma existentes para IA física, disponíveis em todo o mundo",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-18T11:41-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "Soracom Launches Physical AI Suite, Bringing Secure Connectivity and Remote Operations to Robots and Autonomous Machines",
+"lg": "en",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 1,
+"rx": "SEATTLE — 18 de novembro de 2026 — Soracom, Inc. (TSE: 147A), uma plataforma IoT nativa da nuvem que fornece conectividade, integração na nuvem e serviços de IA para a Internet das Coisas, anunciou hoje o Soracom Physical AI Suite, um conjunto de serviços da plataforma Soracom combinados para conectar, proteger e gerenciar sistemas físicos de IA, como robôs, máquinas móveis autônomas e equipamentos industriais. Cada suíte reúne os serviços da plataforma Soracom comumente utilizados para um determinado tipo de implantação, organizando-os em um único sistema. Soracom Physical AI Suite organiza seus serviços em três áreas. • Conecte-se. O Soracom Physical AI Suite coloca os serviços para isso em um só lugar, e qualquer cliente pode ativá-los no console.\" Todos os serviços do pacote estão disponíveis por meio do console Soracom e da API. O Soracom Physical AI Suite já está disponível."
+},
+{
 "id": "7d8fe5d4fd2cc5",
 "t": "Robôs chineses aprendem com humanos no centro tecnológico de Shenzhen",
 "r": "Em uma barraca de bebidas em um parque na capital tecnológica da China, Shenzhen, um robô humanóide pega um copo e puxa uma alavanca para formar uma espiral de sorvete, depois entrega o pedido ao cliente.",
@@ -146,7 +168,7 @@
 "p": 9.0,
 "cr": 2,
 "cv": "Fast Company",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3824986d078d60",
@@ -292,28 +314,6 @@
 "cv": "Humanoid.guide",
 "mx": 1,
 "rx": "A Boston Dynamics planeja começar a testar seu humanóide Atlas nas instalações de fabricação de semicondutores da GlobalFoundries no início do próximo ano, de acordo com o The Korea Daily. A colaboração, anunciada em 17 de novembro, avaliará quais tarefas o Atlas pode realizar e estabelecerá as condições operacionais e os requisitos do cliente para implantação. Os testes planejados de semicondutores da Atlas são um esforço de avaliação e treinamento, e não uma implementação na produção de rotina: identificar o trabalho adequado faz parte do próprio programa.\nA GlobalFoundries juntou-se ao programa de adoção antecipada do Atlas, informou o Chosun Daily, descrevendo-o como o primeiro cliente a avaliar o Atlas fora da fabricação automotiva. A próxima etapa do Atlas é a seleção de tarefas e o treinamento inicial nas principais instalações operacionais da GlobalFoundries, onde os parceiros planejam testar os requisitos para uso prático em instalações de semicondutores."
-},
-{
-"id": "dac23e675673ac",
-"t": "Spin-off da SCHUNK para mãos de robôs humanóides torna-se TACTILIA Robotics",
-"r": "Desde a sua fundação no início do ano, a spin-off tecnológica da SCHUNK avançou no desenvolvimento da sua plataforma manual robótica e construiu as estruturas necessárias na nova localização em Munique.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/schunk-spin-off-for-humanoid-robot-hands-becomes-tactilia-robotics/27409",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T09:34-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "SCHUNK spin-off for humanoid robot hands becomes TACTILIA Robotics",
-"lg": "en",
-"esp": 1,
-"p": 6.4,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "Desde a sua fundação no início do ano, a spin-off tecnológica da SCHUNK avançou no desenvolvimento da sua plataforma manual robótica e construiu as estruturas necessárias na nova localização em Munique. Munique, 18 de novembro de 2026 – A SCHUNK Humanoid Robotics GmbH, fundada em janeiro de 2026, agora opera como TACTILIA Robotics GmbH. A TACTILIA, com sede em Munique, está trazendo ao mercado uma mão robótica modular, robusta e flexível. É aqui que entra a TACTILIA: a empresa desenvolve mãos robóticas para aplicações industriais que podem agarrar com segurança e posicionar com precisão uma ampla variedade de componentes e objetos. Dr. Markus Netzer, CEO, TACTILIA Robotics O desenvolvimento se concentra em uma mão robótica modular que automatiza uma ampla gama de tarefas em produção e logística."
 },
 {
 "id": "35c2d4273c0513",
@@ -463,6 +463,36 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "A Humyn Labs, que fornece dados usados ​​para treinar robôs, levantou US$ 47 milhões em capital e dívida para expandir sua pesquisa e operações globais."
+},
+{
+"id": "a0134edfb7a86c",
+"t": "151 robôs humanóides atuam antes da cúpula da APEC em Shenzhen, China",
+"r": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
+"u": "https://www.straitstimes.com/videos/6408532572112",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "",
+"d": "2026-11-18T03:08-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "151 humanoid robots perform ahead of APEC summit in Shenzhen, China",
+"lg": "en",
+"p": 6.1,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 9,
+"rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
+"o": [
+{
+"f": "South China Morning Post",
+"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3ZPTXZFeWtySG1MV1ZydF9KcGZ6VGtYN3Z2N3FTaHVXVWFFWU5QanRvVGpDa05IZVl0QkJuWnlZNlkzQ2pjc1F2eTBjRGRiSnk4bU9LODJVM1BLaVBuek03SkxXdUw3dGx1bzVlWmFWZVhTcmtuUktZdlc5bFFfeDlWblNrb1NnNEI3bGdyV251aDZYMHhnc0l1SklEQzA?oc=5",
+"s": "scmp.com",
+"id": "2303a495171bd6"
+}
+]
 },
 {
 "id": "a19aa55cd9326d",
@@ -894,7 +924,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "4fe8dd8b74bdf4",
@@ -916,71 +946,6 @@
 "cv": "Assembly Magazine",
 "mx": 1,
 "rx": "TONGXIANG, China — Empresas de robótica, incluindo Unitree Robotics, AgiBot e UBTECH, demonstraram aplicações emergentes para robôs inteligentes na Conferência Mundial da Internet Wuzhen Summit, que terminou em novembro. As demonstrações destacaram os esforços para levar os robôs além dos ambientes de entretenimento e exibição para aplicações práticas, incluindo resposta a emergências, segurança pública e operações industriais.\nEntretanto, a China Mobile destacou a implantação de 15 robôs de gestão de tráfego em Hangzhou que orientam peões e veículos, respondem a perguntas e alertam sobre infrações de trânsito. O impulso em direção a aplicações robóticas práticas se estende à manufatura, onde as principais montadoras estão explorando robôs humanóides para operações de fábrica."
-},
-{
-"id": "3a85e8bbea9c49",
-"t": "Kawasaki lança controlador tipo S da série F: segurança e proteção integradas com custos de ciclo de vida mais baixos",
-"r": "O novo controlador combina software de segurança integrado e funções de segurança abrangentes como padrão, protege os investimentos existentes e mantém o desempenho e a operação familiares da Série F.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/kawasaki-launches-f-series-controller-s-type-integrated-safety-and-security-with-lower-lifecycle-costs/27408",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T09:32-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Kawasaki Launches F Series Controller S-type: Integrated Safety and Security with Lower Lifecycle Costs",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "O novo controlador combina software de segurança integrado e funções de segurança abrangentes como padrão, protege os investimentos existentes e mantém o desempenho e a operação familiares da Série F. Neuss, 12 de novembro de 2026: A Kawasaki Robotics está apresentando o Controlador Série F tipo S, uma nova versão de sua plataforma de controlador de robô estabelecida. Combinando funções de segurança integradas com recursos abrangentes de segurança cibernética, o S-type ajuda os fabricantes de máquinas a atender aos requisitos regulatórios em evolução, ao mesmo tempo que reduz o esforço de engenharia e os custos do ciclo de vida. Com o controlador da série F tipo S, combinamos segurança e proteção integradas, operação familiar e um caminho de atualização claro que protege os investimentos existentes”, afirma Shuhei Kuraoka, presidente da Kawasaki Robotics EMEA."
-},
-{
-"id": "c5034802d12737",
-"t": "Mouser expande seu negócio de distribuição aumentando estoque em automação industrial para apoiar fábricas inteligentes, IA e robótica",
-"r": "A Mouser continuará a oferecer sua ampla seleção de componentes eletrônicos (EC) de mais de 1.200 fabricantes.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/mouser-expands-its-distribution-business-by-increasing-inventory-in-industrial-automation-to-support-smart-factories-ai-and-robotics/27410",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T09:58-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Mouser Expands its Distribution Business by Increasing Inventory in Industrial Automation to Support Smart Factories, AI and Robotics",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
-},
-{
-"id": "689d84d65846f0",
-"t": "Neya Systems ganha contrato de distribuição autônoma de combustível em grande escala de US$ 6 milhões",
-"r": "Projeto avançará na distribuição autônoma de combustível e reduzirá o risco para o pessoal militar",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/neya-systems-wins-6m-large-scale-autonomous-fuel-distribution-contract-/27411",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T10:13-03:00",
-"c": [
-"negocios",
-"defesa"
-],
-"l": 0,
-"to": "Neya Systems Wins $6M Large-Scale Autonomous Fuel Distribution Contract",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
 },
 {
 "id": "5d151c19a02052",
@@ -1005,6 +970,27 @@
 "rx": "A proposta de uma infraestrutura compartilhada para transformar o conhecimento industrial italiano em dados e treinar robôs, evitando a importação de tecnologias e métodos de produção estrangeiros"
 },
 {
+"id": "57063d31c27f13",
+"t": "Defendendo a Infraestrutura Programável em Robótica Humanóide",
+"r": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs…",
+"u": "https://www.roboticstomorrow.com/article/2026/10/making-the-case-for-programmable-infrastructure-in-humanoid-robotics/27309",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-18T10:42-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Making the Case for Programmable Infrastructure in Humanoid Robotics",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 2,
+"rx": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs humanóides modernos. O desafio que os desenvolvedores enfrentam não é apenas construir robôs humanóides mais inteligentes, mas coordenar esses sistemas cada vez mais complexos em tempo real. Em última análise, esta complexidade arquitetónica exige que os programadores adotem uma abordagem mais flexível e em camadas à infraestrutura humanóide que combine a tomada de decisões inteligente com controlo determinístico, segurança e aplicação de proteção.\nOs desenvolvedores que utilizam hardware programável para resolver esse desafio de orquestração estarão em melhor posição para mover humanóides do desenvolvimento para a implantação em todos os setores."
+},
+{
 "id": "feb9672698a557",
 "t": "",
 "r": "Se você está planejando um novo site, não está apenas escolhendo cores e fontes. Você está tomando decisões que afetam a segurança, o desempenho, a visibilidade da pesquisa e quanto controle você terá daqui a seis meses. Isso é ainda mais importante se o seu site oferece suporte a um negócio, um portfólio ou qualquer…",
@@ -1025,6 +1011,30 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "Se você está planejando um novo site, não está apenas escolhendo cores e fontes. Você está tomando decisões que afetam a segurança, o desempenho, a visibilidade da pesquisa e quanto controle você terá daqui a seis meses. Isso é ainda mais importante se o seu site oferece suporte a um negócio, um portfólio ou qualquer tipo de marca voltada ao público. O desempenho da pesquisa geralmente é enquadrado como um problema de conteúdo, mas configurações técnicas fracas podem limitar sua visibilidade antes mesmo de seu texto ser indexado.\nSe você puder editar elementos de SEO na página sem vasculhar o código ou instalar ferramentas extras, é mais provável que você mantenha seu site saudável ao longo do tempo. Se o seu site pretende gerar receita, você precisa de mais do que uma vitrine bonita. Um site fácil de manter geralmente tem melhor desempenho com o tempo porque reflete o que está acontecendo em sua empresa no momento."
+},
+{
+"id": "e7b1c98c5b2843",
+"t": "Como a Faixa de Gaza se tornou o laboratório da guerra robótica",
+"r": "DESCRIPTOGRAFIA - O exército israelense está em negociações com uma start-up americana para adquirir até mil robôs humanóides capazes de inspecionar centenas de quilômetros de túneis escavados sob o enclave. Na foto divulgada por sua empresa, Mike LeBlanc posa ao lado de um robô humanoide em um túnel do Hamas, sob…",
+"u": "https://www.lefigaro.fr/international/comment-la-bande-de-gaza-est-devenue-le-laboratoire-de-la-guerre-robotisee-20261118",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/18/5cc63e102466981b4849b7631b0e58537c42040633b407238bb5170bb106a326.jpg",
+"d": "2026-11-18T11:00-03:00",
+"c": [
+"ia",
+"humanoides",
+"inspecao",
+"defesa"
+],
+"l": 0,
+"to": "Comment la bande de Gaza est devenue le laboratoire de la guerre robotisée",
+"lg": "fr",
+"p": 5.6,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "DESCRIPTOGRAFIA - O exército israelense está em negociações com uma start-up americana para adquirir até mil robôs humanóides capazes de inspecionar centenas de quilômetros de túneis escavados sob o enclave. Na foto divulgada por sua empresa, Mike LeBlanc posa ao lado de um robô humanoide em um túnel do Hamas, sob Gaza. O empresário já vê seus robôs abrindo caminho para os soldados, nessas galerias que ficam abaixo da superfície do enclave. Ele mencionou o fornecimento de até mil Phantom MK1s para inspecionar as galerias e detectar armadilhas.\nO Phantom MK1 oferece uma solução para um problema que tem acompanhado o exército israelense desde a sua entrada em Gaza: abaixo de Gaza, centenas de quilômetros de redes de túneis abrigam postos de comando e permitem combatentes…"
 },
 {
 "id": "4b5645bd141835",
@@ -1072,6 +1082,50 @@
 "rx": "O grupo de aviação geral também está pedindo à FAA uma orientação mais clara sobre se os voos VFR são cobertos durante uma parada terrestre em todo o país. A Associação de Proprietários e Pilotos de Aeronaves (AOPA) está instando o Congresso a aprovar financiamento adicional para a modernização do controle de tráfego aéreo. O apelo segue-se à parada terrestre nacional da semana passada, que interrompeu as partidas em todo o país por mais de quatro horas.\nA FAA emitiu a parada terrestre pouco antes das 16h. A interrupção ocorreu durante o que a AOPA descreveu como a maior revisão já feita do sistema ATC do país. Em 2025, o Congresso concedeu à FAA um pagamento inicial de 12,5 mil milhões de dólares para iniciar o esforço de modernização. De acordo com a AOPA, a interrupção também expôs uma lacuna na forma como a FAA se comunica com os pilotos da aviação geral durante uma parada terrestre em todo o país."
 },
 {
+"id": "3791882c0739f1",
+"t": "Hidonix Industries lança oficialmente o Hido II Rover para automatizar o mapeamento espacial interno",
+"r": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-18T11:42-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "Hidonix Industries Officially Launches Hido II Rover to Automate Indoor Spatial Mapping",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 1,
+"rx": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso. A Hidonix Industries (\"Hidonix\" ou a \"Empresa\"), uma desenvolvedora de inteligência espacial com sede nos EUA, IA centrada no ser humano e sistemas robóticos integrados, anunciou hoje o lançamento oficial do Hido II, seu rover proprietário projetado para acelerar a aquisição de dados espaciais. Apresentado pela primeira vez como um protótipo na CES 2026, o Hido II agora está sendo apresentado por meio de um programa de implantação limitado para parceiros e locais selecionados nos EUA. Desenvolvido inteiramente internamente, o rover combina mobilidade robótica avançada, navegação automatizada e tecnologia de aquisição proprietária para suportar mapeamento geomagnético para ION, a plataforma de navegação interna e externa e inteligência espacial da Hidonix."
+},
+{
+"id": "dac23e675673ac",
+"t": "Spin-off da SCHUNK para mãos de robôs humanóides torna-se TACTILIA Robotics",
+"r": "Desde a sua fundação no início do ano, a spin-off tecnológica da SCHUNK avançou no desenvolvimento da sua plataforma manual robótica e construiu as estruturas necessárias na nova localização em Munique.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/schunk-spin-off-for-humanoid-robot-hands-becomes-tactilia-robotics/27409",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T09:34-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "SCHUNK spin-off for humanoid robot hands becomes TACTILIA Robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.4,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9,
+"rx": "Desde a sua fundação no início do ano, a spin-off tecnológica da SCHUNK avançou no desenvolvimento da sua plataforma manual robótica e construiu as estruturas necessárias na nova localização em Munique. Munique, 18 de novembro de 2026 – A SCHUNK Humanoid Robotics GmbH, fundada em janeiro de 2026, agora opera como TACTILIA Robotics GmbH. A TACTILIA, com sede em Munique, está trazendo ao mercado uma mão robótica modular, robusta e flexível. É aqui que entra a TACTILIA: a empresa desenvolve mãos robóticas para aplicações industriais que podem agarrar com segurança e posicionar com precisão uma ampla variedade de componentes e objetos. Dr. Markus Netzer, CEO, TACTILIA Robotics O desenvolvimento se concentra em uma mão robótica modular que automatiza uma ampla gama de tarefas em produção e logística."
+},
+{
 "id": "76ab89f3eac7ff",
 "t": "Preço atual das ações da empresa de robôs (2026-11-18)",
 "r": "",
@@ -1110,7 +1164,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 2
+"mx": 3
 },
 {
 "id": "5707200b2b9764",
@@ -1660,27 +1714,6 @@
 "rx": "Shenzhen, 18 de novembro (askanews) - Nos parques de Shenzhen robôs equipados com inteligência artificial servem sorvetes, fazem arranjos florais e..."
 },
 {
-"id": "e7b1c98c5b2843",
-"t": "Como a Faixa de Gaza se tornou o laboratório da guerra robótica",
-"r": "DESCRIPTOGRAFIA - O exército israelense está em negociações com uma start-up americana para adquirir até mil robôs humanóides capazes de inspecionar centenas de quilômetros de túneis escavados sob o enclave. Na foto divulgada por sua empresa, Mike LeBlanc posa ao lado de um robô humanoide em um túnel do Hamas, sob…",
-"u": "https://www.lefigaro.fr/international/comment-la-bande-de-gaza-est-devenue-le-laboratoire-de-la-guerre-robotisee-20261118",
-"f": "Le Figaro",
-"s": "lefigaro.fr",
-"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/18/5cc63e102466981b4849b7631b0e58537c42040633b407238bb5170bb106a326.jpg",
-"d": "2026-11-18T11:00-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "Comment la bande de Gaza est devenue le laboratoire de la guerre robotisée",
-"lg": "fr",
-"p": 4.8,
-"cr": 3,
-"cv": "Le Figaro",
-"mx": 1,
-"rx": "DESCRIPTOGRAFIA - O exército israelense está em negociações com uma start-up americana para adquirir até mil robôs humanóides capazes de inspecionar centenas de quilômetros de túneis escavados sob o enclave. Na foto divulgada por sua empresa, Mike LeBlanc posa ao lado de um robô humanoide em um túnel do Hamas, sob Gaza. O empresário já vê seus robôs abrindo caminho para os soldados, nessas galerias que ficam abaixo da superfície do enclave. Ele mencionou o fornecimento de até mil Phantom MK1s para inspecionar as galerias e detectar armadilhas.\nO Phantom MK1 oferece uma solução para um problema que tem acompanhado o exército israelense desde a sua entrada em Gaza: abaixo de Gaza, centenas de quilômetros de redes de túneis abrigam postos de comando e permitem combatentes…"
-},
-{
 "id": "26602692ba5c3a",
 "t": "Segóvia testemunha como os drones melhoram a conservação do património",
 "r": "A Iniciativa de Conservação 3D do Património Mundial mostrou o quanto pode ser alcançado através da utilização de drones e, em particular, da criação de ambientes tridimensionais. Um evento realizado em Segóvia reconheceu 12 vídeos criados com DJI Reality que deixam claro que estes dispositivos se tornaram uma…",
@@ -1723,6 +1756,48 @@
 "rx": "Graças ao salto decisivo do Hospital Universitário Bellvitge, Barcelona posicionou-se como líder mundial ao completar pela primeira vez todas as etapas críticas da microcirurgia reconstrutiva utilizando um sistema robótico unificado. A conquista reside numa evolução substancial do robô Symani, o primeiro dispositivo projetado especificamente para microcirurgia.\nAnna López Ojeda, chefe do Serviço de Cirurgia Plástica e Reconstrutiva do Hospital Bellvitge, enfatiza com emoção: “É a tecnologia de precisão que esperávamos e estou convencida de que promoverá progressos qualitativos tanto na cirurgia do linfedema como em outros procedimentos como a dissecção de retalhos”. Atualmente, o Bellvitge é o principal hospital em cirurgia robótica do país."
 },
 {
+"id": "2c7f4f38ba8cca",
+"t": "BMA implanta drones para fortalecer a segurança nas fronteiras em meio à escassez de pessoal",
+"r": "A Autoridade de Gestão de Fronteiras (BMA) recorreu à tecnologia drone para reforçar a vigilância ao longo das fronteiras da África do Sul, à medida que combate a migração ilegal, o tráfico de drogas e o crime organizado, ao mesmo tempo que opera com significativamente menos pessoal do que o necessário. Falando na…",
+"u": "https://mg.co.za/news/south-africa/2026-11-18-bma-deploys-drones-to-strengthen-border-security-amid-staff-shortages/",
+"f": "Mail & Guardian",
+"s": "mg.co.za",
+"i": "https://images.newsteam.io/image/400/GbSdY1y2zdPar3HHh4Ys3YWTZyHtjgZEdi32VEYemhjuJTQn68CFeKYmohLQvNqtWpSuFpVPxHMW7X3PgAgjSsmhpubYDFsd9h7GvVN5p8XtUTSnh15MBiy9bC4AZafkMhzPDwEKG9A3Kh3Wqyvst",
+"d": "2026-11-18T11:16-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "BMA deploys drones to strengthen border security amid staff shortages",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Mail & Guardian",
+"mx": 2,
+"rx": "A Autoridade de Gestão de Fronteiras (BMA) recorreu à tecnologia drone para reforçar a vigilância ao longo das fronteiras da África do Sul, à medida que combate a migração ilegal, o tráfico de drogas e o crime organizado, ao mesmo tempo que opera com significativamente menos pessoal do que o necessário. Falando na terceira Conferência e Expo de Gestão de Fronteiras em Pretória na quarta-feira, o Comissário da BMA, Dr. Nakampe Michael Masiapato, disse que drones foram implantados para monitorar seções vulneráveis ​​das fronteiras do país e ajudar as equipes de resposta a identificar e interceptar pessoas que tentam entrar ilegalmente na África do Sul.\nMasiapato explicou que a introdução de drones ajudou a autoridade a reduzir os custos associados às patrulhas fronteiriças tradicionais, que anteriormente exigiam que os agentes gastassem quantias significativas de dinheiro em combustível enquanto viajavam ao longo de extensas áreas fronteiriças em busca de travessias ilegais."
+},
+{
+"id": "cabe4874ec9f23",
+"t": "Robôs assassinos, alerta da Cruz Vermelha sobre armas autônomas",
+"r": "Milão, 18 de novembro (askanews) - Cruz Vermelha alerta sobre \"robôs assassinos\", armas autônomas no centro das discussões nas Nações Unidas em...",
+"u": "https://stream24.ilsole24ore.com/video/mondo/robot-killer-allarme-croce-rossa-armi-autonome/AJD3anKC",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/TMNews/2026/11/18/large-20261118_video_14354410.jpg",
+"d": "2026-11-18T11:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robot killer, l'allarme della Croce Rossa sulle armi autonome",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 2,
+"rx": "Milão, 18 de novembro (askanews) - Cruz Vermelha alerta sobre \"robôs assassinos\", armas autônomas no centro das discussões nas Nações Unidas em..."
+},
+{
 "id": "1b37e5aadb14d2",
 "t": "",
 "r": "A HD Hyundai Robotics começou a vender o primeiro robô ultragrande de 1 tonelada desenvolvido na Coreia no dia 18. A HD Hyundai Robotics anunciou que realizou uma cerimônia para comemorar a primeira venda do robô industrial ultragrande de 1 tonelada ‘HDT1000-33’ na sede do fabricante de motores e peças Korea R&D Co…",
@@ -1732,7 +1807,7 @@
 "i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/19/135051078.1.jpg",
 "d": "2026-11-18T12:05-03:00",
 "c": [
-"geral"
+"industriais"
 ],
 "l": 0,
 "to": "HD현대로보틱스, 작업 반경 3.3m·1톤급 초대형 산업용 로봇 공급 개시",
@@ -1766,89 +1841,91 @@
 "rx": "Xiaomi Robotics 0 é um modelo de base de robô de código aberto desenvolvido pela Xiaomi, a empresa de tecnologia chinesa conhecida por smartphones e veículos elétricos. Lançado em 12 de fevereiro de 2026, representa o primeiro modelo público de IA de robô da Xiaomi e coloca a empresa no campo crescente de software robótico de uso geral. A Xiaomi publicou o modelo juntamente com ferramentas de treinamento, tornando o lançamento relevante para pesquisadores e equipes de engenharia que investigam modelos de fundação de robôs.\nA avaliação técnica de um modelo de fundação de robô deve distinguir o software publicado do sistema completo usado em um experimento. Para as equipes de pesquisa que estão considerando o Xiaomi Robotics 0, os critérios de avaliação úteis incluem qualidade da documentação, reprodutibilidade, dependências de software e os termos que regem o uso e modificação do modelo."
 },
 {
-"id": "a0134edfb7a86c",
-"t": "151 robôs humanóides atuam antes da cúpula da APEC em Shenzhen, China",
-"r": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
-"u": "https://www.straitstimes.com/videos/6408532572112",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-18T03:08-03:00",
-"c": [
-"humanoides",
-"competicoes"
-],
-"l": 0,
-"to": "151 humanoid robots perform ahead of APEC summit in Shenzhen, China",
-"lg": "en",
-"p": 4.6,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 9,
-"rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com."
-},
-{
-"id": "57063d31c27f13",
-"t": "Defendendo a Infraestrutura Programável em Robótica Humanóide",
-"r": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs…",
-"u": "https://www.roboticstomorrow.com/article/2026/10/making-the-case-for-programmable-infrastructure-in-humanoid-robotics/27309",
+"id": "3a85e8bbea9c49",
+"t": "Kawasaki lança controlador tipo S da série F: segurança e proteção integradas com custos de ciclo de vida mais baixos",
+"r": "O novo controlador combina software de segurança integrado e funções de segurança abrangentes como padrão, protege os investimentos existentes e mantém o desempenho e a operação familiares da Série F.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/kawasaki-launches-f-series-controller-s-type-integrated-safety-and-security-with-lower-lifecycle-costs/27408",
 "f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
 "i": "",
-"d": "2026-11-18T10:42-03:00",
+"d": "2026-11-18T09:32-03:00",
 "c": [
-"humanoides"
+"negocios"
 ],
 "l": 0,
-"to": "Making the Case for Programmable Infrastructure in Humanoid Robotics",
+"to": "Kawasaki Launches F Series Controller S-type: Integrated Safety and Security with Lower Lifecycle Costs",
 "lg": "en",
+"esp": 1,
 "p": 4.6,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"mx": 1,
-"rx": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs humanóides modernos. O desafio que os desenvolvedores enfrentam não é apenas construir robôs humanóides mais inteligentes, mas coordenar esses sistemas cada vez mais complexos em tempo real. Em última análise, esta complexidade arquitetónica exige que os programadores adotem uma abordagem mais flexível e em camadas à infraestrutura humanóide que combine a tomada de decisões inteligente com controlo determinístico, segurança e aplicação de proteção.\nOs desenvolvedores que utilizam hardware programável para resolver esse desafio de orquestração estarão em melhor posição para mover humanóides do desenvolvimento para a implantação em todos os setores."
+"mx": 9,
+"rx": "O novo controlador combina software de segurança integrado e funções de segurança abrangentes como padrão, protege os investimentos existentes e mantém o desempenho e a operação familiares da Série F. Neuss, 12 de novembro de 2026: A Kawasaki Robotics está apresentando o Controlador Série F tipo S, uma nova versão de sua plataforma de controlador de robô estabelecida. Combinando funções de segurança integradas com recursos abrangentes de segurança cibernética, o S-type ajuda os fabricantes de máquinas a atender aos requisitos regulatórios em evolução, ao mesmo tempo que reduz o esforço de engenharia e os custos do ciclo de vida. Com o controlador da série F tipo S, combinamos segurança e proteção integradas, operação familiar e um caminho de atualização claro que protege os investimentos existentes”, afirma Shuhei Kuraoka, presidente da Kawasaki Robotics EMEA."
 },
 {
-"id": "2c7f4f38ba8cca",
-"t": "BMA implanta drones para fortalecer a segurança nas fronteiras em meio à escassez de pessoal",
-"r": "",
-"u": "https://mg.co.za/news/south-africa/2026-11-18-bma-deploys-drones-to-strengthen-border-security-amid-staff-shortages/",
-"f": "Mail & Guardian",
-"s": "mg.co.za",
-"i": "https://images.newsteam.io/image/400/GbSdY1y2zdPar3HHh4Ys3YWTZyHtjgZEdi32VEYemhjuJTQn68CFeKYmohLQvNqtWpSuFpVPxHMW7X3PgAgjSsmhpubYDFsd9h7GvVN5p8XtUTSnh15MBiy9bC4AZafkMhzPDwEKG9A3Kh3Wqyvst",
-"d": "2026-11-18T11:16-03:00",
+"id": "c5034802d12737",
+"t": "Mouser expande seu negócio de distribuição aumentando estoque em automação industrial para apoiar fábricas inteligentes, IA e robótica",
+"r": "A Mouser continuará a oferecer sua ampla seleção de componentes eletrônicos (EC) de mais de 1.200 fabricantes.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/mouser-expands-its-distribution-business-by-increasing-inventory-in-industrial-automation-to-support-smart-factories-ai-and-robotics/27410",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T09:58-03:00",
 "c": [
-"drones"
+"industriais"
 ],
 "l": 0,
-"to": "BMA deploys drones to strengthen border security amid staff shortages",
+"to": "Mouser Expands its Distribution Business by Increasing Inventory in Industrial Automation to Support Smart Factories, AI and Robotics",
 "lg": "en",
-"p": 4.5,
+"esp": 1,
+"p": 4.6,
 "cr": 3,
-"cv": "Mail & Guardian",
-"mx": 1,
-"rx": ""
+"cv": "Robotics Tomorrow",
+"mx": 9
 },
 {
-"id": "cabe4874ec9f23",
-"t": "Robôs assassinos, alerta da Cruz Vermelha sobre armas autônomas",
-"r": "",
-"u": "https://stream24.ilsole24ore.com/video/mondo/robot-killer-allarme-croce-rossa-armi-autonome/AJD3anKC",
-"f": "Il Sole 24 ORE",
-"s": "stream24.ilsole24ore.com",
-"i": "https://i2.res.24o.it/stream/assets/img/TMNews/2026/11/18/large-20261118_video_14354410.jpg",
-"d": "2026-11-18T11:27-03:00",
+"id": "689d84d65846f0",
+"t": "Neya Systems ganha contrato de distribuição autônoma de combustível em grande escala de US$ 6 milhões",
+"r": "Projeto avançará na distribuição autônoma de combustível e reduzirá o risco para o pessoal militar",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/neya-systems-wins-6m-large-scale-autonomous-fuel-distribution-contract-/27411",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T10:13-03:00",
+"c": [
+"negocios",
+"defesa"
+],
+"l": 0,
+"to": "Neya Systems Wins $6M Large-Scale Autonomous Fuel Distribution Contract",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
+"id": "ac722532635ca3",
+"t": "Bem-vindo, Rho alfa!",
+"r": "Rho alpha é o primeiro modelo de base robótica da Microsoft Research, anunciado em 21 de janeiro de 2026. Ele pertence à camada de software da robótica, em vez de representar um robô físico ou um sistema mecânico independente. O projeto surge da família Phi da Microsoft de modelos de IA pequenos e eficientes e de locais que…",
+"u": "https://humanoid.guide/welcome-rho-alpha/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "",
+"d": "2026-11-18T12:17-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "Robot killer, l'allarme della Croce Rossa sulle armi autonome",
-"lg": "it",
-"p": 4.5,
+"to": "Welcome, Rho alpha!",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
 "cr": 3,
-"cv": "Il Sole 24 Ore",
+"cv": "Humanoid.guide",
 "mx": 1,
-"rx": ""
+"rx": "Rho alpha é o primeiro modelo de base robótica da Microsoft Research, anunciado em 21 de janeiro de 2026. Ele pertence à camada de software da robótica, em vez de representar um robô físico ou um sistema mecânico independente. O projeto surge da família Phi de modelos de IA pequenos e eficientes da Microsoft e coloca essa linhagem de pesquisa em um programa de desenvolvimento de robótica. Rho alpha se enquadra na crescente categoria de modelos básicos destinados à pesquisa robótica.\nPara as equipes técnicas, Rho alpha pertence às discussões sobre a base de software dos projetos de robótica, e não às comparações de hardware do robô. Para as organizações que seguem modelos básicos de robótica, seu significado mais amplo reside no fato de a Microsoft Research estabelecer seu primeiro modelo nesta categoria e estender a linhagem de pesquisa Phi para uma nova área de aplicação."
 },
 {
 "id": "45e4ef3500625e",
@@ -1959,6 +2036,28 @@
 "rx": "A Samsung Electronics planeja revelar dois robôs humanóides na CES 2027 em Las Vegas, em janeiro, à medida que expande seu negócio de robótica e desenvolve robôs para fabricação e outras aplicações."
 },
 {
+"id": "f18e6d71750360",
+"t": "Espera-se que o K-Robot Actuator acelere o crescimento no próximo ano",
+"r": "Robotis iniciará operação da fábrica no Uzbequistão no segundo trimestre do próximo ano... Samhyun gera vendas para humanóides. Espera-se que o crescimento das três empresas de atuadores de robôs K (dispositivos de acionamento) acelere no próximo ano. Robotis espera que os gargalos de fornecimento sejam aliviados com…",
+"u": "https://zdnet.co.kr/view/?no=20261118172907",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/03/06/27e4a28aa50c4646356423991c3559ea.jpg",
+"d": "2026-11-18T06:52-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "K-로봇 액추에이터, 내년 성장 가속 기대",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Robotis iniciará operação da fábrica no Uzbequistão no segundo trimestre do próximo ano... Samhyun gera vendas para humanóides. Espera-se que o crescimento das três empresas de atuadores de robôs K (dispositivos de acionamento) acelere no próximo ano. Robotis espera que os gargalos de fornecimento sejam aliviados com a operação de novas fábricas no exterior no próximo ano. Espera-se que Samhyun e SPG produzam em massa atuadores humanóides para clientes dos EUA. Segundo a indústria no dia 18, a Robotis irá operar uma nova fábrica no Uzbequistão no segundo trimestre do próximo ano. O robô humanóide AI Sapiens, lançado pela Robotis neste mês, será entregue aos clientes em janeiro do próximo ano. Samhyun fornecerá o primeiro lote de atuadores para empresas humanóides norte-americanas a partir do quarto trimestre deste ano."
+},
+{
 "id": "4e9acd3087cf8d",
 "t": "Robôs humanóides se tornarão uma visão comum na China",
 "r": "",
@@ -1976,7 +2075,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "The Economist",
-"mx": 2
+"mx": 3
 },
 {
 "id": "a5baf4bc8ff378",
@@ -2030,7 +2129,8 @@
 "i": "https://ascii.jp/img/2026/11/09/4549501/xl/4d39558f5ad3432c.png?20200122",
 "d": "2026-11-18T12:12-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"industriais"
 ],
 "l": 0,
 "to": "人形をリンゴに見せると、AIロボットは刃物で刺そうとする？ 安全性の弱点が実験で明らかに",
@@ -2040,6 +2140,25 @@
 "cv": "ASCII.jp",
 "mx": 1,
 "rx": "À esquerda está um ambiente experimental com uma boneca, e à direita está um vídeo processado para fazer a boneca parecer uma maçã. No dia 7 de novembro, a Robocurve, que investiga a segurança dos robôs, anunciou os resultados de um experimento de IA chamado ``RoboSpoof'' que controla um braço robótico. Ao receber instruções perigosas, a IA tentou agir 27% das vezes em filmagens não processadas.\nNo experimento, cinco tipos de modelos de IA que podem lidar com imagens e texto operaram dois braços robóticos enquanto observavam as imagens da câmera. A equipe de pesquisa preparou cinco tarefas que simulavam tarefas perigosas, como esfaquear uma boneca com uma faca."
+},
+{
+"id": "f58e782339def1",
+"t": "Por dentro da corrida incansável da China para desenvolver robôs ajudantes humanóides e colocá-los em nossas casas",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbDNBSmdHVW5nSnZoZ1VxNlQzeHlLWi1tN1NST3RNbktzZUdVRURjWVZ4OGZRZkxUTm5mQ2d1c1VpTWU5c3J3VlBJMHZXaFYxVk9vNThlTDFKR2J1eC1KOEpNY2NidVVqVW1EQlUtUUJlMGJBNGhTa0FaamI3N0E?oc=5",
+"f": "CBS News",
+"s": "cbsnews.com",
+"i": "",
+"d": "2026-11-18T12:42-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "CBS News"
 },
 {
 "id": "d52c0ed31a8e43",
@@ -2081,7 +2200,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 1,
+"mx": 2,
 "rx": "Outro tema desta semana são as startups construindo infraestrutura, desde uma empresa que lançou um produto de organização de dados até outra que vende tecnologia de reconhecimento espacial independente de hardware e muito mais. O bot de duas rodas da empresa, Eno, ainda está em desenvolvimento, enquanto a empresa anuncia uma enorme rodada da Série A de US$ 500 milhões, co-liderada por Premji Invest, Khosla Ventures e Eclipse.\nA empresa anunciou US$ 30 milhões em financiamento em uma rodada de pré-lançamento liderada por Costanoa e uma rodada de lançamento liderada por Kleiner Perkins. Falando no setor de defesa, a SE3 também arrecadou US$ 30 milhões, mas por meio de uma rodada da Série A liderada pela Accel. A startup alemã está construindo um software de reconhecimento espacial, uma tecnologia comum para sistemas autônomos compreenderem o que os rodeia.\nUma startup de software de construção que ajuda robôs com consciência espacial, uma empresa que constrói uma máquina robótica de manicure e outra"
 },
 {
@@ -2331,27 +2450,6 @@
 "mx": 3
 },
 {
-"id": "f18e6d71750360",
-"t": "Espera-se que o K-Robot Actuator acelere o crescimento no próximo ano",
-"r": "Robotis iniciará operação da fábrica no Uzbequistão no segundo trimestre do próximo ano... Samhyun gera vendas para humanóides. Espera-se que o crescimento das três empresas de atuadores de robôs K (dispositivos de acionamento) acelere no próximo ano. Robotis espera que os gargalos de fornecimento sejam aliviados com…",
-"u": "https://zdnet.co.kr/view/?no=20261118172907",
-"f": "지디넷코리아",
-"s": "zdnet.co.kr",
-"i": "https://image.zdnet.co.kr/2026/03/06/27e4a28aa50c4646356423991c3559ea.jpg",
-"d": "2026-11-18T06:52-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "K-로봇 액추에이터, 내년 성장 가속 기대",
-"lg": "ko",
-"p": 3.5,
-"cr": 2,
-"cv": "ZDNet Korea",
-"mx": 1,
-"rx": "Robotis iniciará operação da fábrica no Uzbequistão no segundo trimestre do próximo ano... Samhyun gera vendas para humanóides. Espera-se que o crescimento das três empresas de atuadores de robôs K (dispositivos de acionamento) acelere no próximo ano. Robotis espera que os gargalos de fornecimento sejam aliviados com a operação de novas fábricas no exterior no próximo ano. Espera-se que Samhyun e SPG produzam em massa atuadores humanóides para clientes dos EUA. Segundo a indústria no dia 18, a Robotis irá operar uma nova fábrica no Uzbequistão no segundo trimestre do próximo ano. O robô humanóide AI Sapiens, lançado pela Robotis neste mês, será entregue aos clientes em janeiro do próximo ano. Samhyun fornecerá o primeiro lote de atuadores para empresas humanóides norte-americanas a partir do quarto trimestre deste ano."
-},
-{
 "id": "51e63938d6d41c",
 "t": "Com os exoesqueletos, o corpo biônico se tornará popular",
 "r": "",
@@ -2369,7 +2467,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Economist",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d97c29b77bb668",
@@ -2389,7 +2487,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 2
+"mx": 3
 },
 {
 "id": "695c02b18a3385",
@@ -2409,7 +2507,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "50bdfb22198b67",
@@ -2429,7 +2527,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 2
+"mx": 3
 },
 {
 "id": "f20f343fdabed6",
@@ -2491,7 +2589,103 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
+"mx": 2
+},
+{
+"id": "df5ade973ba061",
+"t": "Hospital Bellvitge se torna o primeiro centro do mundo a operar com novo sistema de microcirurgia robótica",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEFOUjFlQmt0YjRRQl9XMDdpcEpoWS12bndZbDQzdzZYNzVtajZkSDdtd2JxZ1lpbzRhelpBU3BXNFdEVlBTZS03Y0lBVWt4ekVwTGFrTjZkcm9rTFNjbDlJRThBb1ItalBvRHFZYzVONlRTRWF4WE1kZWVyS1lvNWREZHI0MHA4MmtVRE1oQ0FkN2J2ZjNkQWgzb3lLNTZISzJlMU05ZUI0Y3JhZThJaGdiMVJzY0JTdFdtNmJlVlFHRjA5aVhVOGNFajZsQ3RHSUhDSWNwbUQ5LVJibzNZV2x30gHnAUFVX3lxTE5VY3p5VEQwZzRsRVQ2WTNDaUFsdXFaU21DOWVmZTVfZ2hsbEN3MUUzMUdvc0lrRmJCNlZBNFRnNnpGVDZJY2JkWHlIaW1DZjRjQWZBakhWRlc5Sl9nbTd5ajlyNWttcTlGODVOdUZIdXZLS1RnQ28zQXJLeTJKWnpjcy1DWnp3Ym8tVGNwWWZueHA0ODRONElUYnRyU1dGZ0kwMmVxOV9na2Y4RUw2WHA2RDdNNnpDRUJyZTU4OEQwWVlFY21FTGlveWkxNU8zSkdtOWxuTzM3YWhHUzZuNE95WXVYMWRLRQ?oc=5",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "",
+"d": "2026-11-18T12:07-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "El Hospital de Bellvitge se convierte en el primer centro del mundo en operar con un nuevo sistema robótico de microcirugía",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "La Vanguardia",
+"cur": 1
+},
+{
+"id": "6dc4b71e84ba7a",
+"t": "Vídeo. Robôs servem sorvete e café em centro tecnológico da China",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWW5JRlVIX21XVnhtRUk3cFFRd3I1NG9WZVh2NVR6bEpYLU1YOVNFQTEtcUdwV3QwR1dJSktHZzl6VzE3akJKTktHemp0dXlFUlpGTzlwTnhHUUlGRnRjdGVTV19nZzI1eHZzVHJoalljbWQ0NlI5RGJIZGVEQ2JCQjRfOHNiU1BDRUtIOXFaNF9vVWlWcGxtX2JB?oc=5",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "",
+"d": "2026-11-18T12:20-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Video. Robots serve ice cream and coffee in China's tech hub",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Euronews"
+},
+{
+"id": "c0dd56c5fe412d",
+"t": "Se você mudar o chapéu, seu papel mudará... Apenas um robô fará isso.",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTBRT3FrSElNeTBHQkppR2t1T3l6TGhTTVFyTkkyTUhnNDlYb1Z0cXAzR2RrelU1WkVlSFRVMzZjNUVSR1Y1UzY5clNhLUgtZmZQZG9sVUtwaGdtLU1hVG9yVTEyVGo0SE9Ram5fQTAxaUlqMWRHUkQzTF9ZLVMzbUx5dw?oc=5",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-18T12:34-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "모자 바꾸면 역할 달라져… 로봇 한 대면 되겠네",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Chosun Ilbo"
+},
+{
+"id": "8c2dceba23ea22",
+"t": "Este piloto de drones baseado em Bengaluru quer fazer do vôo um trabalho de cinco segundos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVDlaMHF6cXotUFVFM0UybEpLZXhOZ1poNHVpUVF6UE82dGNJMVVVbjlKU0M3TDBmcC1OeGlVNDBocmZoV1ZyeGpmRzlEeV9RVU13WTNqWU0xQ2RJd3pFZUFSc3BoZ1NfWTQzOTJTOTBudjN1TUdUM1JYcUNHV0FOcHl4eWR3R1NlZjcybzlObldxN1NORV9LdGJEaDRSV1JMVzJQVy1MdGdsZVBRNWFMOUROSDJWQnFleTRYYk5UalNFZFF3M3Z1Slh3c0wyTFNpZVRfQ3FFUFEyTktkNHlEOGhJekp4b3FsLVFFODQtY0ZqbW9SMUJVbm11aVF2RkY3X3N3OHBwQ0loN3ZjZllMTHVpbWc1ZTNmOWVpYkF6Tl9vcGd3VUY0TktwLVB4bEw3WHfSAecBQVVfeXFMT0VQaEpnMjRPNEU2XzJ2czhSMVZxNlQzazdibnNTbnNndlhEOTJSWHpaV2pLakItbXRnbkxHQmpNUy1xLUFQeEZGMXRIeFdZRmhCTy04eldOUk4xa1RoZVFiVEN5UkVmYlNvbnNlZWR6VzJpLXRabTFXZFMwZTNscEtxRnBVX25NblVEZ1RXZUt3YzBfQlE3NkY1SlRlOWJqT1Q1TTJndWhRTExuc0s5YUJsTzVFWG5CT3JhVnFISncycE5NQVBtU0xmLWVheTdUSVNBVVkxaVRCQVlhMlEwM2FISjRwOW4w?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-18T13:10-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "This Bengaluru-based drone racer wants to make flying a five-second job",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
+},
+{
+"id": "f1ead3e57506a4",
+"t": "Apollo Micro e Redon assinam MoU para colaborar em sistemas de drones conectados",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEMwampLQzJvZmhnZjlOMFNzUUZZa0p3ZnRhTHhYWlh1dWdnM0hEa0hLT3ZDUTk3TkNsa1BaNkZEMlZwbERTOFdnUHZHZmlqUGVBemhYMlRZQUVPMlJKZ1RjZjdCdUNpejl3WEpaYm9uOWczaDlGaThPVzlEdUxlRXMtTy16Q04tSkQ5VnVBWDhzbGNMbDVRcEUtTmdLb3JfVU5PYzVoc3FYRF82N1Q3UlZzR3Rjc2dNTk1OV09CZzh3cUZWeS1RWnNWVdIB0gFBVV95cUxOUkxfTkxRU1dmcDFDVld6M01hRHdISWJxZkNiZktJWWNuSnI0YjVfMVdvWm9IQVhwZHMtdjBsZ0ZRdDdLaU0tTkF6VFVpdjJzbXdSeUZNNmlhNl9WNGNfbXB3d2tvclN0UzNYR2xEOWpPdXBOZ2d1bFJPT1BRUi1IQkFEVzZvSk1TVFUxTFc3LUtZMTI2RHFwTWhtX0NMNkVkVlM0eXAzVmd4TTJmV3ZSRmMzaU9uX1pPbmZtQzlBR1JnSGEwR2lYRWJzWXNFUEt5eWc?oc=5",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "",
+"d": "2026-11-18T13:10-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Apollo Micro, Redon ink MoU to collaborate for tethered drone systems",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Hindu"
 },
 {
 "id": "9b7ace255a0f39",
@@ -2581,7 +2775,7 @@
 {
 "id": "e85b8f1150f94e",
 "t": "Fontes dizem que a Samsung Electronics planeja lançar 2 robôs humanóides na CES 2027",
-"r": "",
+"r": "A IT House informou em 18 de novembro que a mídia coreana \"The Hankyoreh\" informou ontem (horário local) que a Samsung Electronics planeja lançar dois robôs humanóides no CES 2027 Consumer Electronics Show, que será realizado em janeiro do próximo ano. Os nomes desses dois produtos são HR (Human Reference) e HE…",
 "u": "https://www.ithome.com/1/029/087.htm",
 "f": "IT之家",
 "s": "ithome.com",
@@ -2594,11 +2788,11 @@
 "l": 0,
 "to": "消息称三星电子计划在 CES 2027 发布 2 款人形机器人",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
-"rx": ""
+"mx": 2,
+"rx": "A IT House informou em 18 de novembro que a mídia coreana \"The Hankyoreh\" informou ontem (horário local) que a Samsung Electronics planeja lançar dois robôs humanóides no CES 2027 Consumer Electronics Show, que será realizado em janeiro do próximo ano. Os nomes desses dois produtos são HR (Human Reference) e HE (Humanoid Extreme), que são modelos básicos e topo de linha, respectivamente. ELE tem mais liberdade conjunta.\n\"Lee Jae-yong inspecionou a divisão de robôs RX da Samsung pela primeira vez e prestou atenção ao progresso de pesquisa e desenvolvimento de tecnologias exibidas na CES 2027\" \"É relatado que a Samsung entrou na pista de robôs humanóides e planeja fazer sua estreia na CES 2027 no próximo ano\""
 },
 {
 "id": "4e46c83eb4f8f2",
@@ -2702,7 +2896,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "O Grupo Lenovo organiza empresas de software, equipes profissionais e empresas de robótica para construir um ecossistema de IA por meio de plataformas de aplicativos, serviços de desenvolvedor e recursos de fabricação. Baiying apresenta aplicativos de parceiros e Tianxi apoia a co-construção profissional e distribuição de habilidades; a base de fabricação inteligente do sul concluiu o primeiro lote de entrega de produtos robóticos e, em outubro, atualizou os serviços de teste de pequeno e médio porte. Lenovo Baiying apresenta aplicativos de escritório de parceiros e estabelece métodos de participação, como cooperação de aplicativos e prestação de serviços. A empresa de software fornece recursos profissionais e a Lenovo fornece suporte a plataformas e equipamentos.\nEm outubro de 2026, a Southern Intelligent Manufacturing Base da Lenovo atualizou seus serviços de teste de pequeno e médio porte para fornecer suporte desde a verificação do produto até a entrega da fabricação para empresas de inovação científica e tecnológica; Benmo Technology, Daimeng Robots e Kuandimensional Intelligence possuem registros específicos de cooperação de fabricação."
 },
 {
@@ -2743,7 +2937,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "KrASIA",
-"mx": 2
+"mx": 3
 },
 {
 "id": "985d8237ab6ce1",
@@ -2801,6 +2995,26 @@
 "p": 2.2,
 "cr": 2,
 "cv": "t3n"
+},
+{
+"id": "7c9cf20e11038f",
+"t": "Botsync levanta US$ 11 milhões para conectar robôs e máquinas em fábricas",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVllzQ0EwbVNmbkdPVU00NGNIQzRZaEVJeFA5T29kZTlrY2FxQl85OEZ5VnNOeDhaa2NCbzhkUklDTWFIYnJNZEx6aUF6QzY3cWhYbzBrXzJNcGowbC03MjdhbEJLcURaUHVQRjdQNkdOWnp6LVltU1dqU0FzZlZDMXlocWJYZ21Ja0cwd29jUU11blBRR1VXRw?oc=5",
+"f": "Inc42",
+"s": "inc42.com",
+"i": "",
+"d": "2026-11-18T12:25-03:00",
+"c": [
+"industriais",
+"negocios"
+],
+"l": 0,
+"to": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Inc42"
 }
 ],
 "2026-11-17": [
@@ -3302,6 +3516,47 @@
 ]
 },
 {
+"id": "5d88c2009fb0b0",
+"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
+"r": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus…",
+"u": "https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
+"f": "CNA",
+"s": "channelnewsasia.com",
+"i": "https://dam.mediacorp.sg/image/upload/s--yMi6jOI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T111844Z_1_LYNXNPEMAG0Z9_RTROPTP_3_GM-BRIGHTDROP-CANADA.JPG?itok=pnz9yXeX",
+"d": "2026-11-17T08:13-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
+"lg": "en",
+"p": 9.3,
+"cr": 3,
+"cv": "CNA (Singapura)",
+"o": [
+{
+"f": "Reuters",
+"u": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
+"s": "reuters.com",
+"id": "b7842a43384090"
+},
+{
+"f": "ET CIO",
+"u": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/gm-plans-20-boost-in-robotics-as-factory-costs-rise/135922582",
+"s": "cio.economictimes.indiatimes.com",
+"id": "085e1d369741cd"
+},
+{
+"f": "ET Auto",
+"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVMzRGpzdTVSS3NGdVdaMHljX21LNTFKRjlRSnIzMHFwUkhCT1JxdWZGU2lFc1FnYmR0ZUVIMkpVZ1kwSk5EWGlTcWtkQVJLdGR5Q2ZpOXp4WHEtZTAtc0JUWlJ0d0pzZTZNcmJGeDhEbTZXLXYzZ1BnTENCaXAzTzVMeXU2WjlXMHVLX2xUSHpIQzkwdGhuU1JqbmtmWEM4cnNobmY1QmlPTy12Sk9reHQycHRONkNGcmU1a05Sb2pMem5sdmdpSTVQQS1WcVXSAdMBQVVfeXFMTjgyVXhSTnFqa0RXUzV5TUFibm1faW5JYVV5NHhQUXhIenN4MFQ5c1Y0MHA2UTU2U3NZZDV5MjhFOFJJbTZPQXBGWkwxamxDbi1BSXhOU3BqZ2hickxBdVVoRjdnTzl5czNQYnpqS2tyYmhhVElFOXFkTjdwczNVbTZrajBfYjR2NkxDZW1zOEhnMnpMbWtha3pYNGZFM0ZXdk1TM2pZanlMeDNKbVpLYXZqb042RndNNkt4Z01RRzhERWh2aTd3eWYzY2VzSDktWEZyOA?oc=5",
+"s": "auto.economictimes.indiatimes.com",
+"id": "95374a8ec4e404"
+}
+],
+"mx": 1,
+"rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
+},
+{
 "id": "7e42e8723b661f",
 "t": "[PRNewswire] Agile Robots levanta US$ 500 milhões com avaliação de US$ 8,5 bilhões",
 "r": "SÃO PAULO, 17 de outubro de 2026 /PRNewswire=YONHAP/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a uma avaliação de US$ 8,5 bilhões. A Agile Robots constrói e implanta IA física – robôs humanóides e móveis, braços e mãos…",
@@ -3393,41 +3648,6 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
-},
-{
-"id": "5d88c2009fb0b0",
-"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
-"r": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus…",
-"u": "https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
-"f": "CNA",
-"s": "channelnewsasia.com",
-"i": "https://dam.mediacorp.sg/image/upload/s--yMi6jOI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T111844Z_1_LYNXNPEMAG0Z9_RTROPTP_3_GM-BRIGHTDROP-CANADA.JPG?itok=pnz9yXeX",
-"d": "2026-11-17T08:13-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-"lg": "en",
-"p": 7.8,
-"cr": 3,
-"cv": "CNA (Singapura)",
-"o": [
-{
-"f": "Reuters",
-"u": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
-"s": "reuters.com",
-"id": "b7842a43384090"
-},
-{
-"f": "ET CIO",
-"u": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/gm-plans-20-boost-in-robotics-as-factory-costs-rise/135922582",
-"s": "cio.economictimes.indiatimes.com",
-"id": "085e1d369741cd"
-}
-],
-"mx": 1,
-"rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
 },
 {
 "id": "f51a18960afbf2",
@@ -4628,7 +4848,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "8f66e788d663f6",
@@ -9041,6 +9261,25 @@
 "mx": 3
 },
 {
+"id": "4d3d70195451e7",
+"t": "[PRNewswire] SANY preparada para estrear agentes de IA e máquinas robóticas",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02d2N0b2h1STVvdjBRd05qbEc2RElOcVVJOUZ0VHZoeFRTMTgzZlNtakl5dHA3dWFNUjRNWXF2dFVrX1FQNXpRZGhmWlNQUF84UVhEaWx6ZWxVT3VIT0RKd21zeFFPNVhFUU9HVjlFU05XaWFGRC1Ya3gzeDBFSFk?oc=5",
+"f": "Yonhap News Agency",
+"s": "en.yna.co.kr",
+"i": "",
+"d": "2026-11-16T21:58-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "[PRNewswire] SANY Set to Debut AI Agents and Robotic Machinery",
+"lg": "en",
+"p": 9.5,
+"cr": 3,
+"cv": "Yonhap"
+},
+{
 "id": "fe01b83d08b5d1",
 "t": "He Xiaopeng: o robô humanóide Xiaopeng IRON será lançado para clientes comerciais externos no segundo trimestre do próximo ano",
 "r": "IT House News em 16 de novembro, de acordo com o Blue Whale News, na teleconferência do relatório financeiro do terceiro trimestre de 2026 do Grupo Xpeng esta noite, seu presidente e CEO He Xiaopeng previu que no próximo Xpeng Technology Day e Guangzhou Auto Show, a versão mais recente do Xpeng IRON será revelada…",
@@ -13106,6 +13345,25 @@
 "cr": 3,
 "cv": "Axios",
 "mx": 3
+},
+{
+"id": "b68f1b97c9ffce",
+"t": "EUA pedem cinco anos à ONU para redigir regras voluntárias para robôs assassinos",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHk1OFBLZlJ2Q1JPaFVOUWMtV2dmemF2NUktd1Rfc0FPVTRXS29XeFc5eDBKUDNtNGtqUXBvanhjcGpKdkZkeXE1Q2lkRGRYdmpqZFZPTmZTdGZNanFpMFp4b0FGZ3dsMDJSemlpajY2SnRiRlpfVTBNZjYtSXoxNnVnQ3YzbVE?oc=5",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-16T19:09-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "US Asks UN For Five Years To Write Voluntary Killer Robot Rules",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DroneXL"
 },
 {
 "id": "3789ecaa413961",
@@ -19964,7 +20222,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "bbecd6309b6c6e",
@@ -20096,7 +20354,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "4a99be0b93fd7b",
@@ -24114,7 +24372,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -30003,7 +30261,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -30354,7 +30612,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b5d40ccd862ba3",
@@ -30529,7 +30787,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "f8add3e7f98754",
@@ -42697,7 +42955,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "1849aee2569724",
@@ -46090,7 +46348,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -46119,7 +46377,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -49444,7 +49702,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -49454,9 +49712,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
@@ -49708,7 +49966,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "afbb79cb706e6b",
@@ -51916,7 +52174,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "7f98bd3f415261",
