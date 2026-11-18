@@ -1534,7 +1534,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "e9b7f1046dc729",
@@ -1558,6 +1558,28 @@
 "cv": "sUAS News",
 "mx": 1,
 "rx": "No ano passado, um pequeno investidor e parceiro estratégico da Artemis Defense Technologies, com sede na Florida, pressionou-me para dedicar o meu tempo e os recursos da minha empresa a um novo sistema de pequenas aeronaves não tripuladas (sUAS), construído a partir dos meus projectos, que eles esperavam vender ao governo dos Estados Unidos. Esse é o máximo que o Exército pagará por um drone de ataque unidirecional (OWA) do Grupo 1 com visão em primeira pessoa (FPV), uma aeronave de ataque pequena e descartável que definiu a guerra na Ucrânia.\nUm limite de preço deste tipo numa tiragem de 400 indica que o Exército acredita que as peças, a mão-de-obra e a margem de um drone de ataque podem agora ser contabilizados em dólares. O mercado de drones FPV é aquele que o aviso do Exército desta semana descreve: milhares de unidades, um limite de preço rígido, um fly-off para escolher os vencedores e a produção indo para depósitos do governo."
+},
+{
+"id": "0cb882b093baa6",
+"t": "O DMV da Califórnia proíbe Waymo AVs de operar nas rodovias do estado",
+"r": "Waymo disse que a ordem do DMV se aplica apenas às rodovias e não afetará suas operações nas ruas da cidade. | Fonte: Waymo O Departamento de Veículos Motorizados da Califórnia proibiu veículos autônomos (AVs) Waymo de operar nas rodovias do estado. O DMV emitiu a ordem em 11 de novembro, após uma série de incidentes em…",
+"u": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/waymo-freeway-featured.jpg",
+"d": "2026-11-17T20:55-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "California DMV bars Waymo AVs from operating on the state’s freeways",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "O Departamento de Veículos Motorizados da Califórnia proibiu veículos autônomos (AVs) Waymo de operar nas rodovias do estado. Waymo disse que restringirá as operações nas rodovias em todas as suas áreas operacionais, como parte de sua abordagem de segurança em primeiro lugar. O DMV determinou que as operações rodoviárias da Waymo “representam um perigo iminente para a segurança pública devido às incursões recorrentes de seus veículos em zonas de construção ativas onde estão presentes trabalhadores da construção, veículos e equipamentos”. A ação impede a Waymo de operar ou testar seus veículos sem motorista em todas as rodovias da Califórnia.\nEstamos trabalhando com o DMV da Califórnia e outras autoridades estaduais de forma diligente e responsável para retomar as operações nas rodovias”, disse um porta-voz da Waymo ao The Robot Report."
 },
 {
 "id": "f5f58b32ced497",
@@ -3097,8 +3119,9 @@
 "i": "https://img5.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118021900004_02_i_P4.jpg",
 "d": "2026-11-17T19:41-03:00",
 "c": [
+"companhia",
 "servico",
-"companhia"
+"inspecao"
 ],
 "l": 0,
 "to": "로봇 키우는 강남구…공원엔 순찰로봇·경로식당엔 서빙로봇",
@@ -3603,6 +3626,26 @@
 "cv": "DigiTimes",
 "mx": 1,
 "rx": "A Huawei Cloud está a alargar as suas ambições de inteligência artificial à IA física, lançando um modelo mundial de robôs de código aberto treinado na sua plataforma de computação Ascend, ao mesmo tempo que avança na implementação comercial através de parcerias com fabricantes de robótica."
+},
+{
+"id": "9538a5ce572b75",
+"t": "Raad Labs obtém isenção nacional da FAA BVLOS para inspeções de drones",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUo3cEJtdVoyTllwLXMtbS1IZVpfN3VUdFBqUTc1R2xLaGFzdjVEb0E0dW1mcXd3ekdfNTF0TEJiZ2RaX2xDX1c5eFI1WkFfd296S0RzY1pmVXNwSllYTjZnZG9ubHgzbHdWUDk2Q2tYeVJqMVVhLUV0X216ZkRNWVdjVzdiVGIzWVUzdzFSUQ?oc=5",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-17T01:17-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 0,
+"to": "Raad Labs Gets Nationwide FAA BVLOS Waiver for Drone Inspections",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DroneXL"
 },
 {
 "id": "a8efb1c4b9c942",
@@ -4301,6 +4344,25 @@
 "mx": 3
 },
 {
+"id": "11289cf3a6ba27",
+"t": "Ver: Ladrão de telefone armado rastreado por drone em Londres",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTlha2Rub1BEVnJBaU1QRTNFZU1udExINURCYlV0SVkxWDhKNno5SnpUNDBCMURMRVJyYXhORTZ6VTVjLWc2Y3lYc3BhS3ZreURRNHpsYnAyeWh6SGFTVDBRU1JMM0c0OThyNjlWWFBXTFI2UlBVYURuZ1ZIRWlJemZLeE04UE1fUWwyTFp3?oc=5",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "",
+"d": "2026-11-17T09:30-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Watch: Armed phone snatcher tracked by drone through London",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Independent"
+},
+{
 "id": "5b9af5f0b2089b",
 "t": "Uber Eats inicia entregas com drones no Texas",
 "r": "A Uber espera atingir 1 milhão de entregas diárias de drones até 2029.",
@@ -4511,6 +4573,64 @@
 "rx": "As restrições foram feitas depois que um Waymo sem motorista foi pego tentando ultrapassar um veículo da Patrulha Rodoviária que estava diminuindo a velocidade do trânsito. O Departamento de Veículos Motorizados da Califórnia proibiu a Waymo de operar seus robotáxis nas rodovias estaduais, dizendo em comunicado ao Engadget que a operação sem motorista da empresa representa um “risco iminente à segurança pública”. A restrição está em vigor desde 11 de novembro, segundo o Detran. Em resposta, a Waymo afirma que restringiu temporariamente a condução em autoestradas em todos os seus mercados nos EUA.\nO DMV citou um incidente de três robotáxis Waymo entrando em uma zona de construção restrita perto de Burlingame, e um incidente separado de um Waymo tentando ultrapassar um carro da Patrulha Rodoviária da Califórnia que estava diminuindo a velocidade do tráfego como parte de sua justificativa."
 },
 {
+"id": "f9cb27d84898e1",
+"t": "Um drone agrícola de Indiana supostamente perdeu o controle e atingiu o braço de Lonnie Howard durante uma pulverização agrícola em 2024.",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijANBVV95cUxPMTFZekt0ZGdvd1JQQ2VkV0FjanJzVktfWHRfMEdFd0hoZk1WbEtlY1lUM1FlLWRTckFVa1lBdVJSQkZEck9UQV85X0RPTXdsU0Fqa0FBTTRrTklDdzV3SzZpdWI2WEhhZnlpdTlnVU83WE11S0lJTzhjZWRDU21qcTd4cGNkQmU2UnhOQ2ZZUmNmSlh6aElITEM2UHFFUDlyaHVuVmN1M0IzUE81RXZuUGVlaUFjbnVaZFJCaDVxRzM2X3JpZVRBYXpxQXhRblhfbFVGYXJ5Y214bFdEekh2cmVkLXJaQ05OYjdZSEx4RHRDeUJpM18xWjVPRllFRFp2Sm5wZXl2U0VFRjdDTXlNdHJWcGxOalB5b1h5SllqQS1NbHJDSGVDVUFDQ3BaSXlua1dJc0tLWExVbE81NUpMNHpiQnVnRXVra21HWldNRFhTV0lUTVVPRk1RVXd1aVdCLXhVZ0I4VXNUaWNNeEkzdW4wUHJqZnl4V2FxZlVMbDNkYWlZcnJIaG1Jb1nSAZIDQVVfeXFMTWVkNGtmd2RVTjRDWnYxLUE1Z0VBTjJtYlRVSlU0WmdKWXY3Xy1weGZLS0ZnV1ROLTduODZaOXhwd0dNZnZyWlBwY2lCRlFidEVmSTcwUjdsUHJFV2p5dnRTQWpHVDV0NGRuNGRST0E1TE12eEZHdEx6N2E2Q0VmeUxMcEtGdjlJNXVNNzNWa2w3YzB5b1pGWTZpaGloU2hpZnpuR0RibW1QbG1FaDEyaHhaNkc5akh3enhMRlpzTlp1RGo4LW9fdjVtZ2lHck9LSElvaW1Gd2hUdHRfODdFT3VNMVBySC1MZmxvWmZxbWM4czhUYkNmOGVrMHNrZWVlVXpBT2JCYXZMakxqb1h6WUttRk8yaGRiY05YX29lM1NFVFRjNGx6ZFJ6bTRyZWwtUGY1em03MEE1SXc0dll1U2lwdmVGU2lVbmNYRTdzeDZNbV9QZnpmeGJfUTFiQnZSQ3E0aThVcjNyZldLWWJEckNhRUNlQmt2SlMzZ0k0WjZTWFJRT3NGNEhHUHNUaWY0WGtR?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-17T20:28-03:00",
+"c": [
+"agricolas",
+"drones"
+],
+"l": 0,
+"to": "An Indiana farm drone allegedly lost control and struck Lonnie Howard's arm during a 2024 crop-spraying j",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
+},
+{
+"id": "8c74ecff2e7cff",
+"t": "Drone Dominion Scout do Canadá voará em um motor Pratt & Whitney",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnNNc3RVS1JjVFc1aXNnWGhMclcwV05iYm15WGozdE13dk1WSl94bmhqWlJEaU9LTW43OHMxcmZIVWtHNnJWQ1l0ZUQ0c3dEaW5rQ0xhSW1uNWRrOU1KakR4Rms5cXZkTENVM2dfcXVqN005N3F4dTcyRm5Ramh6ejNwaDk5N05xQmw5bWxodUxlOUV3WEpzOUdwVlRDQzVmQWc?oc=5",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-17T20:30-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Canada's Dominion Scout Drone to Fly on a Pratt & Whitney Engine",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DroneXL"
+},
+{
+"id": "316436c39f705e",
+"t": "Korea Medical Clinical AI Robotics Society realiza conferência internacional Coreano-Japonesa-Mongol em Tóquio, Japão",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oUWhQSzhfeWxZdUZiNDJjMW1GaFNlek1zV3o4Tk9jYUU4d0VDU2w3ZmdfSEZrX1NsSzhub0R3NDBOc2xGMnUzLWxaZ0R0RWF4Y0ZCNFRwUU12N2hqUEJCRE1iMjlRbDh0VGR4Tw?oc=5",
+"f": "월간조선",
+"s": "monthly.chosun.com",
+"i": "",
+"d": "2026-11-17T20:48-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "한국의료임상AI로봇학회, 일본 도쿄서 한·일·몽 국제학술대회 개최",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Chosun Ilbo"
+},
+{
 "id": "37e1525d80be7b",
 "t": "Yushu Wang Xingxing disse que a generalização dos modelos de robôs é o problema mais difícil no momento: ele espera poder trabalhar em milhares de residências imediatamente, sem ter que treinar novamente.",
 "r": "Wang Xingxing, presidente da Yushu Technology Co., Ltd., disse na cúpula que a indústria doméstica e até mesmo global de robôs tem estado muito aquecida nos últimos anos. A razão é que todos têm visto o valor crescente da linguagem pura ou dos modelos de IA de texto na vida pessoal e no escritório, e todos esperam que…",
@@ -4634,7 +4754,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-16": [
@@ -4857,6 +4977,48 @@
 "rx": "IT House News em 16 de novembro, de acordo com o Blue Whale News, na teleconferência do relatório financeiro do terceiro trimestre de 2026 do Grupo Xpeng esta noite, seu presidente e CEO He Xiaopeng previu que no próximo Xpeng Technology Day e Guangzhou Auto Show, a versão mais recente do Xpeng IRON será revelada publicamente e demonstrará uma série de recursos exclusivos.\nHe Xiaopeng revelou que no primeiro trimestre do próximo ano, o primeiro lote de robôs produzidos em massa entrará em algumas lojas Xpeng para uso experimental; no segundo trimestre do próximo ano, a Xpeng lançará oficialmente o Xpeng IRON para clientes comerciais externos. De acordo com a IT House, Iron é um robô humanóide de IA desenvolvido de forma independente pela Xpeng Motors. Foi lançado pela primeira vez em 6 de novembro de 2024 no Xpeng AI Technology Day."
 },
 {
+"id": "7b9e0cd19c73b0",
+"t": "Draganfly assina acordo exclusivo para fornecer fabricação de drones nas Filipinas",
+"r": "Tecnologia canadense de drones e experiência em engenharia para construir, expandir e apoiar as capacidades filipinas em drones e sistemas autônomos em segurança pública, infraestrutura e setores industriais críticos. A iniciativa combinará tecnologia de drones desenvolvida no Canadá e experiência em engenharia com…",
+"u": "https://www.thestar.com/globenewswire/draganfly-signs-exclusive-agreement-to-provide-drone-manufacturing-in-the-philippines/article_f7d31aa6-6ae9-5cff-b23a-03fd2b9a732c.html",
+"f": "Toronto Star",
+"s": "thestar.com",
+"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+"d": "2026-11-16T10:30-03:00",
+"c": [
+"drones",
+"industriais"
+],
+"l": 0,
+"to": "Draganfly Signs Exclusive Agreement to Provide Drone Manufacturing in the Philippines",
+"lg": "en",
+"p": 9.3,
+"o": [
+{
+"f": "AP News",
+"u": "https://apnews.com/article/autonomous-weapons-ai-russia-guterres-pope-1ff519255c145105360b04961d136081",
+"s": "apnews.com",
+"id": "3445724bb889ed"
+},
+{
+"f": "The Globe and Mail",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8854384/draganfly-signs-exclusive-agreement-to-provide-drone-manufacturing-in-the-philippines/",
+"s": "theglobeandmail.com",
+"id": "942093c00a1f03"
+},
+{
+"f": "DroneXL",
+"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW9EUWx5LTU3M2lBTFZRalBDZXl4S2xyZFh1eWpzWEktYzJ4bFBiZEh0aEh0N2JUMzRwTGN4dUJONXROSzNXU1A3M2NBNm5HYjlKM3YxdFF1dnNoMklYeXpQQnB2V1VpdDdRRFRGMDVtQ1hXdFdCQ1pPWUUwMTJGdENtWUVmQVNPdnB4Y0tDbXFpdw?oc=5",
+"s": "dronexl.co",
+"id": "6bd717a2ee7ed7"
+}
+],
+"cr": 3,
+"cv": "Toronto Star",
+"mx": 1,
+"rx": "Tecnologia canadense de drones e experiência em engenharia para construir, expandir e apoiar as capacidades filipinas em drones e sistemas autônomos em segurança pública, infraestrutura e setores industriais críticos. A iniciativa combinará tecnologia de drones desenvolvida no Canadá e experiência em engenharia com capacidades industriais filipinas para apoiar a resposta a desastres, bem como a produção local, agricultura, formação e sustentação de sistemas não tripulados em operações portuárias e mineiras, e protecção de infra-estruturas críticas.\nAs Filipinas representam um mercado estrategicamente importante para a Draganfly, com oportunidades para aplicar a sua tecnologia de drones e conhecimentos de engenharia em operações marítimas e portuárias, monitorização de infra-estruturas críticas, segurança pública e resposta a desastres."
+},
+{
 "id": "de4dc830758569",
 "t": "Huawei Cloud e Fulong Maguan anunciam o lançamento de pré-vendas para uma nova geração de robôs de limpeza, usando IA física para remodelar a inteligência incorporada ao saneamento",
 "r": "Em 16 de novembro, a Huawei Cloud anunciou que o novo robô de limpeza inteligente de próxima geração desenvolvido em conjunto com o Grupo Fulongma, uma empresa líder em equipamentos de saneamento, lançou oficialmente as pré-vendas. A conferência de lançamento de novos produtos está programada para ser realizada em…",
@@ -4915,42 +5077,6 @@
 "cv": "Toronto Star",
 "mx": 1,
 "rx": "16, 2026 (GLOBE NEWSWIRE) -- YYForce Inc. (NASDAQ: YFOR) (“YYForce” ou a “Empresa”), uma força de trabalho de linha de frente habilitada para IA, robótica e fornecedora de soluções de instalações, delineou hoje suas prioridades operacionais em pessoal de linha de frente, gerenciamento integrado de instalações e robótica comercial. A YYForce está focada em melhorar a equipe e a prestação de serviços, usando suas plataformas de software para simplificar as operações diárias e avaliando implantações de robôs de serviço com base na confiabilidade, nas necessidades do cliente e nos custos operacionais.\n(NASDAQ: YFOR) é um fornecedor de soluções de força de trabalho habilitadas para IA e de gerenciamento integrado de instalações que opera em toda a Ásia e além. Impulsionada pela sua missão de transformar o trabalho da linha de frente por meio de IA, robótica e soluções integradas de força de trabalho, a Empresa reúne pessoas, software inteligente e robótica comercial em um ecossistema conectado."
-},
-{
-"id": "7b9e0cd19c73b0",
-"t": "Draganfly assina acordo exclusivo para fornecer fabricação de drones nas Filipinas",
-"r": "Tecnologia canadense de drones e experiência em engenharia para construir, expandir e apoiar as capacidades filipinas em drones e sistemas autônomos em segurança pública, infraestrutura e setores industriais críticos. A iniciativa combinará tecnologia de drones desenvolvida no Canadá e experiência em engenharia com…",
-"u": "https://www.thestar.com/globenewswire/draganfly-signs-exclusive-agreement-to-provide-drone-manufacturing-in-the-philippines/article_f7d31aa6-6ae9-5cff-b23a-03fd2b9a732c.html",
-"f": "Toronto Star",
-"s": "thestar.com",
-"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-"d": "2026-11-16T10:30-03:00",
-"c": [
-"drones",
-"industriais"
-],
-"l": 0,
-"to": "Draganfly Signs Exclusive Agreement to Provide Drone Manufacturing in the Philippines",
-"lg": "en",
-"p": 7.8,
-"o": [
-{
-"f": "AP News",
-"u": "https://apnews.com/article/autonomous-weapons-ai-russia-guterres-pope-1ff519255c145105360b04961d136081",
-"s": "apnews.com",
-"id": "3445724bb889ed"
-},
-{
-"f": "The Globe and Mail",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8854384/draganfly-signs-exclusive-agreement-to-provide-drone-manufacturing-in-the-philippines/",
-"s": "theglobeandmail.com",
-"id": "942093c00a1f03"
-}
-],
-"cr": 3,
-"cv": "Toronto Star",
-"mx": 1,
-"rx": "Tecnologia canadense de drones e experiência em engenharia para construir, expandir e apoiar as capacidades filipinas em drones e sistemas autônomos em segurança pública, infraestrutura e setores industriais críticos. A iniciativa combinará tecnologia de drones desenvolvida no Canadá e experiência em engenharia com capacidades industriais filipinas para apoiar a resposta a desastres, bem como a produção local, agricultura, formação e sustentação de sistemas não tripulados em operações portuárias e mineiras, e protecção de infra-estruturas críticas.\nAs Filipinas representam um mercado estrategicamente importante para a Draganfly, com oportunidades para aplicar a sua tecnologia de drones e conhecimentos de engenharia em operações marítimas e portuárias, monitorização de infra-estruturas críticas, segurança pública e resposta a desastres."
 },
 {
 "id": "2945288edb2f24",
@@ -6487,6 +6613,28 @@
 "rx": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso, expandimos nossa linha para incluir o robô ambulante de quatro patas ‘NeuTrek’ e o robô humanoide híbrido ‘Billi’, ampliando nosso avanço como empresa física de IA.\nAtravés de uma entrevista com Kang Ki-hyuk, CEO da Newbility, os repórteres analisaram a competitividade da tecnologia de inteligência espacial que acumularam e a direção futura dos seus negócios. : Algumas pessoas ficaram surpresas ao ver que uma empresa focada em robôs de entrega e patrulha introduziu de repente o robô de quatro patas ‘Newtrek’ e o robô humanóide híbrido ‘Billy’. No entanto, resolvemos esta lacuna tecnológica através do nosso ‘Modelo de Fundação de Robô Espacial (RFM Espacial)’ autoconstruído. Um consultor especialista em robôs projeta um cenário personalizado no local através de uma reunião inicial 1:1 e é responsável por todo o processo, desde a configuração inicial até o treinamento de uso, monitoramento em tempo real através do sistema de controle integrado (NCC) e manutenção pós-venda, de acordo com os padrões do cliente. O campo de patrulha será expandido para a defesa nacional e ambientes especiais de terrenos acidentados através do robô ambulante de quatro patas ‘Newtrek’."
 },
 {
+"id": "21c0e02f4f07d2",
+"t": "MCNEX entra na cadeia de suprimentos ‘Atlas’ da Hyundai Motor Company… O negócio de robôs planeja expandir em 2027",
+"r": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49632",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49632_105752_5828.png",
+"d": "2026-11-16T22:59-03:00",
+"c": [
+"logistica",
+"humanoides"
+],
+"l": 0,
+"to": "엠씨넥스, 현대차 '아틀라스' 공급망 진입…2027년 로봇 사업 확대 나선다",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo"
+},
+{
 "id": "ccf61be37f0672",
 "t": "A WIRobotics da Coreia do Sul faz parceria com a Ottobock para vender o robô de apoio à caminhada \"WIM S\" na América do Norte",
 "r": "A WIRobotics USA, empresa sul-coreana que também produz o robô humanóide \"ALLEX\", anunciou em 15 de outubro que assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP, subsidiária americana da Ottobock, uma importante empresa de próteses e órteses.",
@@ -6585,27 +6733,6 @@
 "id": "8ad1fd6beb4a6b"
 }
 ]
-},
-{
-"id": "49587a3968e3a7",
-"t": "Lista de peças de robôs AI",
-"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de tarefas que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
-"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDGTCKEYWORDKEYWORDBASE",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-16T00:12-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AIロボット部品録",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 9,
-"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de tarefas que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
 "id": "843036433818e7",
@@ -7486,27 +7613,6 @@
 "rx": "SÃO PAULO, 17 de novembro de 2026 /PRNewswire=YONHAP/ -- Star Plus Legend Holdings Limited (\"Star Plus Legend\", código de ações: 6683.HK) e Galaxy Corporation Co., Ltd (\"Galaxy\") assinaram um memorando de entendimento de cooperação estratégica (MOU) em Hong Kong em 16 de novembro. passeios e o desenvolvimento conjunto de brinquedos modernos de IA e robôs companheiros para os mercados chinês, coreano e global.\nFundada em 2017 e listada no Conselho Principal da Bolsa de Valores de Hong Kong em julho de 2023, a Star Plus Legend se concentra na criação e operação de IP. Em novembro de 2026, Star Plus Legend abriu o primeiro Pandabot Cafe do mundo em Tsim Sha Tsui, Hong Kong."
 },
 {
-"id": "21c0e02f4f07d2",
-"t": "MCNEX entra na cadeia de suprimentos ‘Atlas’ da Hyundai Motor Company… O negócio de robôs planeja expandir em 2027",
-"r": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo",
-"u": "https://www.irobotnews.com/news/articleView.html?idxno=49632",
-"f": "로봇신문",
-"s": "irobotnews.com",
-"i": "https://cdn.irobotnews.com/news/photo/202611/49632_105752_5828.png",
-"d": "2026-11-16T22:59-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "엠씨넥스, 현대차 '아틀라스' 공급망 진입…2027년 로봇 사업 확대 나선다",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Robot Newspaper",
-"mx": 1,
-"rx": "A empresa de módulos de câmera MCNEX está expandindo seu negócio de robôs entrando na cadeia de suprimentos do robô humanóide 'Atlas' do Hyundai Motor Group Boston Dynamics. Daishin Securities anunciada no dia 16 Lippo"
-},
-{
 "id": "d99ef3acf1afba",
 "t": "Ainstein abre fábrica no Kansas para 44.000 radares drones por ano",
 "r": "A fabricante de sensores de radar Ainstein abriu uma fábrica em Lenexa, Kansas, com capacidade para 44.000 sensores por ano. LENEXA, Kansas – Ainstein, uma empresa global de sensores e soluções de radar, inaugurou sua nova fábrica em Lenexa, Kansas, na sexta-feira com uma cerimônia de inauguração. A expansão marca um…",
@@ -7784,6 +7890,27 @@
 "cv": "Ars Technica",
 "mx": 1,
 "rx": "Uma empresa de robótica humanóide apoiada e aconselhada pelo filho do presidente Donald Trump, Eric Trump, teria perdido a folha de pagamento e pode estar à beira do colapso após um déficit de financiamento. A startup do Vale do Silício, Foundation Future Industries, afirma estar desenvolvendo e testando robôs para funções militares em campos de batalha da Ucrânia a Gaza. Eric Trump detém uma participação acionária na Foundation e foi anunciado como seu principal consultor estratégico em março de 2026, de acordo com o Financial Times. Os fundos de investimento ligados a Eric Trump e Donald Trump Jr. estão envolvidos com várias empresas de tecnologia militar que receberam empréstimos e contratos do Pentágono no valor de mais de 3,2 mil milhões de dólares em julho de 2026, de acordo com o The Washington Post."
+},
+{
+"id": "49587a3968e3a7",
+"t": "Lista de peças de robôs AI",
+"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de tarefas que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
+"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDGTCKEYWORDKEYWORDBASE",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "",
+"d": "2026-11-16T00:12-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AIロボット部品録",
+"lg": "ja",
+"p": 3.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 9,
+"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de tarefas que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
 "id": "fcdbb93c84b7ad",
@@ -8662,6 +8789,26 @@
 "cv": "36Kr",
 "mx": 1,
 "rx": "Em 16 de novembro, o Grupo Xpeng anunciou seu relatório financeiro do terceiro trimestre para 2026. O relatório financeiro mostra que no terceiro trimestre, o Grupo Xpeng entregou um total de 118.400 carros novos, um aumento anual de 2,1% e um aumento mensal de 14,6%; impulsionada por fortes resultados de entrega, a receita total no terceiro trimestre de 2026 foi de 24,28 bilhões, um aumento anual de 19,1% e um aumento mensal de 23,0%.\nDe janeiro a setembro deste ano, a Xpeng entregou um total de 59.500 veículos no exterior, dobrando ano a ano. O objetivo dado por He Xiaopeng é muito claro. As vendas no exterior ultrapassarão 40.000 unidades no quarto trimestre e ultrapassarão 100.000 unidades pela primeira vez em 2026. He Xiaopeng disse na teleconferência de relatório financeiro que esteve profundamente envolvido na pesquisa e desenvolvimento de tecnologia e gerenciamento de sistemas de robôs nos últimos meses, e sua confiança continua a aumentar."
+},
+{
+"id": "1ef5a9dc68ad5d",
+"t": "Swarmer fecha negócio de drone Vataga, adicionando FPV e hardware de interceptor",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1Fkb1dLYUhEUjhwMzRfRG1xUzdCaUhDMGY2R1JIcnhUYlVYTnotcDhUdzZrQlN6NWc5NFV1R3VjdTVibHc5cW80dWxaSnlGdUJrYkFjUnhFak9IRVR6NVNYN1VGeS1uMmZncnFhZ2RLcXVnTUtYbWNIMFRhV3dpNEN1WG80cTQ?oc=5",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-16T14:27-03:00",
+"c": [
+"drones",
+"microrrobos"
+],
+"l": 0,
+"to": "Swarmer Closes Vataga Drone Deal, Adding FPV And Interceptor Hardware",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DroneXL"
 },
 {
 "id": "247e1958472284",
@@ -12660,6 +12807,25 @@
 "cr": 2,
 "cv": "Gizmodo",
 "mx": 3
+},
+{
+"id": "ded0000e586157",
+"t": "O serviço Robotaxi da Tesla entra em operação em Austin. Preço? $ 4,20 por viagem.",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11X2o1TUdROGotR2FsVTVBaXk5Q2JKWG1DS3Nwa2FLeXYwUlhUSExVZW9uRmVRcllwSW53cFRuRXdqbjlfWnRlQmx4OTN1OUFBa3hnXzFTNUpWT0s4YUVNRm1nTE12Wi1seWdwSVNYTjU?oc=5",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "",
+"d": "2026-11-15T14:26-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla's Robotaxi service goes live in Austin. Price? $4.20 per ride.",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Mashable"
 }
 ],
 "2026-11-14": [
@@ -14971,6 +15137,36 @@
 "rx": "Sua seleção semanal de vídeos incríveis de robôs"
 },
 {
+"id": "1c6a0d2083935a",
+"t": "Tecnologia e IA - Quando o robô faz compras no supermercado - Baviera - SZ.de",
+"r": "Regenstauf (dpa/lby) - Pela primeira vez, um robô de entrega está circulando nas vias públicas da Baviera. O projeto piloto de seis meses do fabricante de robôs Innok Robotics foi iniciado em Regenstauf, no distrito de Regensburg, juntamente com o mercado local de Rewe. “Este é um passo realmente inovador para a…",
+"u": "https://www.sueddeutsche.de/bayern/technik-und-ki-wenn-der-roboter-den-supermarkt-einkauf-erledigt-dpa.urn-newsml-dpa-com-20090101-261113-930-991687",
+"f": "SZ.de",
+"s": "sueddeutsche.de",
+"i": "https://www.sueddeutsche.de/2026/11/13/6f5d77ec-3998-44e4-a415-915b1783b015.jpg?q=60&fm=webp&width=1200&rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+"d": "2026-11-13T11:37-03:00",
+"c": [
+"servico",
+"entrega"
+],
+"l": 0,
+"to": "Technik und KI - Wenn der Roboter den Supermarkt-Einkauf erledigt - Bayern - SZ.de",
+"lg": "de",
+"p": 6.3,
+"cr": 3,
+"cv": "Süddeutsche Zeitung",
+"mx": 1,
+"rx": "Regenstauf (dpa/lby) - Pela primeira vez, um robô de entrega está circulando nas vias públicas da Baviera. O projeto piloto de seis meses do fabricante de robôs Innok Robotics foi iniciado em Regenstauf, no distrito de Regensburg, juntamente com o mercado local de Rewe. “Este é um passo realmente inovador para a Baviera”, disse Gotthardt. “A robótica autônoma sai do chão de fábrica e chega no meio do nosso dia a dia.\nAté agora, os veículos robóticos autônomos só foram autorizados a ser usados dentro das instalações da empresa, disse Alwin Heerklotz, CEO e fundador da Innok Robotics. Segundo Heerklotz, o objetivo é que o supermercado envie o robô autônomo diretamente aos seus clientes locais, a fim de entregar compras e mantimentos em suas casas de forma totalmente automática e livre de emissões.",
+"o": [
+{
+"f": "DIE ZEIT",
+"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1V4Q3NMVkZ4aG5RUklvQnhSd3NJVGdtc00zaERsdG8wcEYwd2ZWV253WUxVbDhCS1VRZGVzdWgzQWJ0ZUdZX2lScTk0X2dGYnVTZWtBZVJNbG5qWkdaNHp2ZFE1dF80WHZlUjRZNjJvN05JZzJhWTlDWk1pY3ZZMDZHSGtVSERWcHp0MQ?oc=5",
+"s": "zeit.de",
+"id": "6c20d311c319ab"
+}
+]
+},
+{
 "id": "6907f136b5d70c",
 "t": "Arcanus levanta mais de US$ 27 milhões para trazer tecnologias aliadas de drones para a produção canadense",
 "r": "“Nosso negócio é construído em torno da integração de tecnologias licenciadas e de parceiros aliados em sistemas que podemos produzir e oferecer suporte no Canadá”, disse Rahim Rajwani, CEO da Arcanus Aerial Systems. “Este financiamento fortalecerá as equipes de engenharia, produção e programas responsáveis ​​por…",
@@ -16814,28 +17010,6 @@
 "rx": "O candidato a prefeito do KMT Taichung, Jiang Qichen, realizou uma manifestação em grande escala pela \"Grande atualização industrial! Novo distrito Kaixin Bureau\" no distrito de Taiping esta noite (13). Os moradores correram para apoiar o evento. Jiang Qichen usou \"123, Central Taiwan\" como eixo principal e propôs um plano político de \"uma grande área residencial, dois melhores cuidados e três grandes desenvolvimentos\". Ele disse emocionado: “Os 5 milhões de pessoas investidas em Zhongchang são como uma família.\n\"No futuro, levaremos Taichung a se tornar a capital da fabricação de robôs de IA, conectaremos a agricultura inteligente e a economia de exposição 168 com Changhua e Nantou e \"acrescentaremos a agricultura à tecnologia e à manufatura para criar outra montanha sagrada que protege o país no centro de Taiwan\". Em relação ao cuidado de jovens e idosos, Jiang Qichen disse que mais de 10 mil unidades de habitação social foram construídas em Taichung. Confrontado com o apelo do governo central para acabar com os subsídios, \"Não há outra maneira. Vamos derrubá-lo. Continuarei a construir unidades de habitação social até que 18.000 famílias sejam construídas!\""
 },
 {
-"id": "1c6a0d2083935a",
-"t": "Tecnologia e IA - Quando o robô faz compras no supermercado - Baviera - SZ.de",
-"r": "Regenstauf (dpa/lby) - Pela primeira vez, um robô de entrega está circulando nas vias públicas da Baviera. O projeto piloto de seis meses do fabricante de robôs Innok Robotics foi iniciado em Regenstauf, no distrito de Regensburg, juntamente com o mercado local de Rewe. “Este é um passo realmente inovador para a…",
-"u": "https://www.sueddeutsche.de/bayern/technik-und-ki-wenn-der-roboter-den-supermarkt-einkauf-erledigt-dpa.urn-newsml-dpa-com-20090101-261113-930-991687",
-"f": "SZ.de",
-"s": "sueddeutsche.de",
-"i": "https://www.sueddeutsche.de/2026/11/13/6f5d77ec-3998-44e4-a415-915b1783b015.jpg?q=60&fm=webp&width=1200&rect=undefined%2Cundefined%2Cundefined%2Cundefined",
-"d": "2026-11-13T11:37-03:00",
-"c": [
-"servico",
-"entrega"
-],
-"l": 0,
-"to": "Technik und KI - Wenn der Roboter den Supermarkt-Einkauf erledigt - Bayern - SZ.de",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Süddeutsche Zeitung",
-"mx": 1,
-"rx": "Regenstauf (dpa/lby) - Pela primeira vez, um robô de entrega está circulando nas vias públicas da Baviera. O projeto piloto de seis meses do fabricante de robôs Innok Robotics foi iniciado em Regenstauf, no distrito de Regensburg, juntamente com o mercado local de Rewe. “Este é um passo realmente inovador para a Baviera”, disse Gotthardt. “A robótica autônoma sai do chão de fábrica e chega no meio do nosso dia a dia.\nAté agora, os veículos robóticos autônomos só foram autorizados a ser usados dentro das instalações da empresa, disse Alwin Heerklotz, CEO e fundador da Innok Robotics. Segundo Heerklotz, o objetivo é que o supermercado envie o robô autônomo diretamente aos seus clientes locais, a fim de entregar compras e mantimentos em suas casas de forma totalmente automática e livre de emissões."
-},
-{
 "id": "1f5d0610c132c4",
 "t": "Quão autônomos são os robôs, realmente?",
 "r": "Táxis sem motorista, robôs empilhadores de prateleiras, assistentes domésticos. Eles parecem autônomos. No entanto, muitos dependem de operadores humanos ocultos nos bastidores. Aqui está o que a indústria de robôs nem sempre mostra.",
@@ -17971,7 +18145,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBC",
-"mx": 2
+"mx": 3
 },
 {
 "id": "d629f7491f3694",
@@ -19516,7 +19690,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -25405,7 +25579,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -27334,27 +27508,6 @@
 "rx": "Sejong Smart City El Sujain, com 2.316 famílias, localizada na área residencial 5-1 em Hapgang-dong, cidade de Sejong, será vendida. Como o primeiro distrito de grande escala na cidade piloto nacional de cidade inteligente, espera-se que se beneficie de serviços de ponta, como entrega e patrulhamento de robôs, bem como redes de transporte melhoradas, como o fortalecimento da função da capital administrativa e da ferrovia expressa metropolitana da região de Chungcheong."
 },
 {
-"id": "00a039880f1b8d",
-"t": "Lista de peças de robôs AI",
-"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
-"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDPHPKEYWORDWSLKEYWORD",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-11T12:33-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AIロボット部品録",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 9,
-"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
-},
-{
 "id": "a9f946c4614e5c",
 "t": "Em 2007, os pesquisadores usaram um robô para recuperar mais de 500 artefatos de um naufrágio a 1.200 metros de profundidade.",
 "r": "Não venderemos nem compartilharemos suas informações pessoais para informar os anúncios que você vê. Você ainda poderá ver anúncios com base em interesses se suas informações forem vendidas ou compartilhadas por outras empresas ou se tiverem sido vendidas ou compartilhadas anteriormente. Representação de IA: Os…",
@@ -28718,6 +28871,27 @@
 "rx": "11, 2026 (GLOBE NEWSWIRE) -- ZJK Industrial Co., Ltd. (NASDAQ: ZJK) (“ZJK” ou a “Empresa”), um fabricante de peças de precisão e hardware de alta tecnologia que atende infraestrutura de inteligência artificial (IA), eletrônicos de consumo, veículos elétricos, aeroespacial e outras tecnologias inteligentes, anunciou hoje que estabeleceu um portfólio central de produtos de componentes de precisão que compreende seis séries de produtos para a indústria de robótica para atender à crescente demanda do mercado.\nA administração da ZJK declarou: \"Uma cadeia de fornecimento de componentes de precisão upstream madura é crítica para o desenvolvimento contínuo da indústria robótica. Sobre a ZJK Industrial Co., Ltd. A ZJK Industrial Co., Ltd. é uma fabricante de peças e hardware de precisão de alta tecnologia que atende infraestrutura de inteligência artificial (IA), eletrônicos de consumo, veículos elétricos, aeroespacial e outras tecnologias inteligentes."
 },
 {
+"id": "00a039880f1b8d",
+"t": "Lista de peças de robôs AI",
+"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
+"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDPHPKEYWORDWSLKEYWORD",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "",
+"d": "2026-11-11T12:33-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AIロボット部品録",
+"lg": "ja",
+"p": 3.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 9,
+"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
+},
+{
 "id": "1a9e76bb96b695",
 "t": "Drone+voos+na+índia",
 "r": "Veja notícias e artigos com a tag \"drone+flights+in+india\" sobre fabricação.",
@@ -29206,6 +29380,25 @@
 "cv": "Tom's Hardware",
 "mx": 1,
 "rx": "Os robôs laser submarinos de IA têm sido um sucesso infalível para os criadores de salmão noruegueses, de acordo com o relatório anual mais recente da apropriadamente chamada Stingray Marine Solutions. A empresa sediada em Oslo, na Noruega, tem agora mais de 3.500 unidades instaladas em torno dos recintos de salmão ao longo da costa norueguesa, protegendo mais de 112 milhões de peixes. Os piolhos do mar são um grande problema para os piscicultores, sendo o controlo destes parasitas um desafio central para a indústria.\nEm contraste, o sistema de laser Stingray AI identifica e ataca apenas piolhos do mar, funciona continuamente 24 horas por dia, 7 dias por semana, enquanto os peixes circulam normalmente em seus currais e evita qualquer introdução de produtos químicos ou problemas de resistência. A redução dos piolhos marinhos em torno da área de cultivo também é melhor para outras populações de peixes selvagens nas proximidades."
+},
+{
+"id": "c0ce52a12e9e4c",
+"t": "Indústria: é assim que a Trumpf está expandindo sua área de negócios de robótica com IA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWtwUXNzNmtWYnlFZ0FmM000WTVkRWdjNkJ3OWlRcUlKcmdsQTNldW44Qy1vanNJdDVGaUYtbGRwVWl1YVBqU0ItUllmUTVCWThzSXRpSk1mV243bU1ZaWZ1S2pfdDZZU0ZGRGxkbDhOLVhXbUNvSS0xakJ2QjF6XzJxU2ZiUWY2UnFkUTdRbUlNa0lNeXcxeWtOZkZsSWJhS2NVSVkzRlAzZk8zQjFxUGY2czJheS1XSWNobVozOHhrTVlrWUhnbEZn?oc=5",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-11T07:02-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Industrie: So erweitert Trumpf mit KI sein Robotik-Geschäftsfeld",
+"lg": "de",
+"p": 3.5,
+"cr": 3,
+"cv": "Handelsblatt"
 },
 {
 "id": "7626aa3d4c6156",
@@ -33589,27 +33782,6 @@
 "rx": "Enquanto a indústria aguarda a regra Parte 108 proposta pela FAA para operações de drones além da linha de visão visual (BVLOS), permanece um desafio importante: como garantir que os drones possam detectar e evitar outras aeronaves com segurança. No Simpósio de Política AUVSI Drone e AAM, que acontecerá nos dias 9 e 10 de novembro no Nationals Park em Washington, DC, representantes da FAA, NASA e uAvionix discutiram o estado atual da tecnologia detectar e evitar (DAA).\nA sessão, moderada por Dallas Brooks da Wing, explorou os pontos fortes e as limitações das tecnologias disponíveis, o papel dos equipamentos da aeronave e os padrões necessários para apoiar operações generalizadas de BVLOS. Enquanto a indústria aguarda um quadro regulamentar para as operações rotineiras de BVLOS, o desafio será traduzir esses avanços em soluções que os operadores possam implementar de forma consistente em diferentes missões e ambientes."
 },
 {
-"id": "853eb5166e3e3b",
-"t": "Lista de peças de robôs AI",
-"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
-"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDMUMIMOKEYWORDISPKEYWORDKEYWORDRSAKEYWORDKEYWORDIoT",
-"f": "日経クロステック",
-"s": "xtech.nikkei.com",
-"i": "",
-"d": "2026-11-10T12:18-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "AIロボット部品録",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 9,
-"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
-},
-{
 "id": "307015af66be75",
 "t": "Drones autônomos - salvadores de cima?",
 "r": "Os drones autónomos poderão em breve transformar as operações de busca e salvamento, ajudando a localizar pessoas desaparecidas, a entregar suprimentos médicos e a navegar em ambientes perigosos onde o acesso humano é difícil ou impossível. Numa competição tecnológica organizada pela Agência Federal Alemã para…",
@@ -34892,6 +35064,27 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "A Path Robotics acaba de levantar US$ 300 milhões da Série E. O acordo, que avalia a empresa de soldagem automatizada em US$ 2,45 bilhões, foi precedido por negócios de soldagem naval de alto perfil, como observa a US Path em um comunicado: \"O investimento segue um período de rápida expansão comercial para a Path Robotics, com a receita recorrente anual (ARR) crescendo 17 vezes nos últimos 18 meses, à medida que a empresa dimensiona implantações nos principais clientes industriais da América do Norte\".\n“Começamos com a soldagem porque é um dos trabalhos mais difíceis de automatizar no chão de fábrica e provamos que nossa tecnologia pode ter sucesso em ambientes de produção reais”, disse o CEO Andrew Lonsberry em um comunicado. Parte do novo capital será investido na expansão “além da soldagem em novas tarefas de fabricação e formatos robóticos, juntamente com maior investimento no treinamento de modelos de IA”."
+},
+{
+"id": "853eb5166e3e3b",
+"t": "Lista de peças de robôs AI",
+"r": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a…",
+"u": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDMUMIMOKEYWORDISPKEYWORDKEYWORDRSAKEYWORDKEYWORDIoT",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "",
+"d": "2026-11-10T12:18-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "AIロボット部品録",
+"lg": "ja",
+"p": 3.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 9,
+"rx": "Com a aceleração da IA ​​física (inteligência artificial), os robôs estão expandindo rapidamente a gama de trabalhos que podem realizar. Embora o desempenho da IA, responsável pelo cérebro, tenha melhorado dramaticamente, o desenvolvimento de hardware ideal para robôs de IA não acompanhou o ritmo. Entretanto, a concorrência para desenvolver peças para robôs de IA, como atuadores e mãos robóticas, começou a acelerar novamente, liderada por empresas que têm atuado na indústria automóvel. Investigamos os elementos tecnológicos necessários para peças de robôs de IA, como robôs humanóides, e acompanhamos as tendências de desenvolvimento."
 },
 {
 "id": "e41ab0475d5078",
@@ -41410,7 +41603,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -41439,7 +41632,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
