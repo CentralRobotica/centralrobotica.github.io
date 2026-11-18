@@ -381,7 +381,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "1e157a909446c3",
@@ -495,6 +495,38 @@
 "rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
 },
 {
+"id": "d826fc0fed4927",
+"t": "HD Hyundai Robotics começa a fornecer robôs industriais de uma tonelada",
+"r": "A HD Hyundai Robotics tem como alvo o mercado de automação para serviços pesados ​​com seu robô industrial desenvolvido de forma independente. A HD Hyundai Robotics disse em 18 de novembro que realizou uma cerimônia em sua sede de P&D na Coreia para marcar a primeira venda de seu HDT1000-33, um robô industrial…",
+"u": "https://biz.chosun.com/en/en-industry/2026/11/18/QGPHHSHMKFF6ROOBSZX27Z6DB4/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://cdn.thelec.net/news/photo/202611/15730_16108_1736.jpg",
+"d": "2026-11-18T05:46-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "HD Hyundai Robotics Begins Supplying One-Ton Industrial Robots",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A HD Hyundai Robotics tem como alvo o mercado de automação para serviços pesados ​​com seu robô industrial desenvolvido de forma independente. A HD Hyundai Robotics disse em 18 de novembro que realizou uma cerimônia em sua sede de P&D na Coreia para marcar a primeira venda de seu HDT1000-33, um robô industrial ultragrande com capacidade de carga útil de uma tonelada. O HDT1000-33 é um robô articulado de seis eixos capaz de levantar e mover objetos pesando até uma tonelada. Além de manusear componentes grandes e pesados, ele pode realizar diversas tarefas, incluindo carregar peças em equipamentos de processamento e transferi-las para etapas de produção subsequentes.\nA HD Hyundai Robotics planeja expandir as aplicações de seus robôs ultragrandes para indústrias que frequentemente lidam com componentes grandes e pesados, incluindo equipamentos de construção naval, grandes peças automotivas e baterias de veículos elétricos.",
+"o": [
+{
+"f": "THE ELEC, Korea Electronics Industry Media",
+"u": "https://www.thelec.net/news/articleView.html?idxno=15730",
+"s": "thelec.net",
+"id": "d826fc0fed4927"
+}
+],
+"xid": [
+"d3077bc0b944bd"
+]
+},
+{
 "id": "20d5de051b0307",
 "t": "O robô ‘Atlas’ do Hyundai Motor Group é implantado pela primeira vez em uma fábrica de semicondutores",
 "r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Este artigo foi publicado no ‘Hankyung Premium 9’, uma plataforma de investimento paga do Korea Economic Daily. Se você assinar o Hankyung Premium 9 (www.hankyung.com/premium9), poderá encontrar mais artigos de investimento…",
@@ -562,7 +594,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -573,7 +605,7 @@
 "p": 6.3,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 2,
+"mx": 1,
 "rx": "Jialianyi (6153) deu entrevista coletiva ontem (18). A empresa afirmou que à medida que os clientes continuarem a se aproximar do campo de IA e novos projetos de aplicação de robôs entrarem em produção em massa no próximo ano, isso adicionará um novo impulso às operações. A empresa afirmou que o desempenho do lucro bruto e do lucro operacional nos três primeiros trimestres aumentou significativamente em comparação com o mesmo período do ano passado, principalmente devido ao aumento da receita e à melhoria do mix de vendas. Novos modelos de produtos foram lançados um após o outro e a margem de lucro bruto aumentou. A terceira é a otimização da alocação de ativos e a redução das despesas de depreciação. Além disso, houve ajustes na estrutura operacional, na organização enxuta e na mão de obra, e a eficiência e a competitividade gerais melhoraram bastante.\nQuanto às aplicações relacionadas com mãos hábeis de robôs, a empresa também está cooperando com unidades de pesquisa governamentais. Atualmente, os clientes europeus e americanos estão realizando verificações de produtos e iniciaram a produção em pequena escala. Novos projetos realizados entrarão em produção em massa no próximo ano.",
 "o": [
 {
@@ -1181,6 +1213,28 @@
 "rx": "O grupo de aviação geral também está pedindo à FAA uma orientação mais clara sobre se os voos VFR são cobertos durante uma parada terrestre em todo o país. A Associação de Proprietários e Pilotos de Aeronaves (AOPA) está instando o Congresso a aprovar financiamento adicional para a modernização do controle de tráfego aéreo. O apelo segue-se à parada terrestre nacional da semana passada, que interrompeu as partidas em todo o país por mais de quatro horas.\nA FAA emitiu a parada terrestre pouco antes das 16h. A interrupção ocorreu durante o que a AOPA descreveu como a maior revisão já feita do sistema ATC do país. Em 2025, o Congresso concedeu à FAA um pagamento inicial de 12,5 mil milhões de dólares para iniciar o esforço de modernização. De acordo com a AOPA, a interrupção também expôs uma lacuna na forma como a FAA se comunica com os pilotos da aviação geral durante uma parada terrestre em todo o país."
 },
 {
+"id": "0909e509875aa4",
+"t": "Robôs humanóides dançantes dão as boas-vindas aos líderes mundiais na cúpula da China",
+"r": "Robôs dançantes deram as boas-vindas aos líderes mundiais em Shenzhen, China, durante a cúpula da APEC na terça-feira (17 de novembro). Mais de 100 humanóides realizaram uma rotina em grupo, atraindo multidões de moradores e turistas que filmaram a exibição em seus telefones. Aconteceu antes da chegada de Donald Trump…",
+"u": "https://www.independent.co.uk/tv/news/china-robots-dancing-trump-summit-b3087218.html",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/4a2f4f72-e5e4-418f-9cc1-43dfb26f5968-thumbnail.jpeg?cb=1795003035397",
+"d": "2026-11-18T11:38-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Dancing humanoid robots welcome world leaders to China summit",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "The Independent",
+"mx": 1,
+"rx": "Robôs dançantes deram as boas-vindas aos líderes mundiais em Shenzhen, China, durante a cúpula da APEC na terça-feira (17 de novembro). Mais de 100 humanóides realizaram uma rotina em grupo, atraindo multidões de moradores e turistas que filmaram a exibição em seus telefones. Aconteceu antes da chegada de Donald Trump ao país para a sua cimeira tripartida sem precedentes com Vladimir Putin e Xi Jinping.\nO presidente da China deu as boas-vindas pessoalmente ao seu homólogo norte-americano à sua chegada ao aeroporto de Shenzhen na quarta-feira, uma rara honra para um líder estrangeiro visitante, cumprimentando-o com um abraço."
+},
+{
 "id": "6dc4b71e84ba7a",
 "t": "Vídeo. Robôs servem sorvete e café em centro tecnológico da China",
 "r": "Vídeo. Em Shenzhen, na China, robôs humanóides servem café e sorvete, enquanto os desenvolvedores de IA usam movimentos registrados por humanos para treinar máquinas para as tarefas diárias.",
@@ -1425,7 +1479,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9cdcf13b1b7c7a",
@@ -1449,6 +1503,27 @@
 "cv": "The Robot Report",
 "mx": 1,
 "rx": "O portfólio refletiu uma direção estratégica mais ampla: conectar a experiência da empresa em robótica comercial com seu trabalho em expansão em inteligência incorporada por meio de One Brain, Multiple Embodiments. Para a indústria robótica, isto realça uma relação importante entre dois desenvolvimentos muitas vezes considerados separadamente: a experiência de implementação de robôs especializados em escala e a procura de uma inteligência mais adaptável em diferentes máquinas.\nA Pudu Robotics, líder global em robótica comercial, já enviou mais de 130.000 robôs para mais de 85 países e regiões, atendendo a mais de 50.000 clientes em mais de 1.000 cidades. Ao combinar capacidades comprovadas de engenharia e comercialização com avanços na inteligência incorporada, a Pudu está trabalhando para estender a robótica a mais formas, tarefas e ambientes."
+},
+{
+"id": "8e9cb141eae6d2",
+"t": "Em Shenzhen, a China treina seus robôs para incorporá-los ao mercado de trabalho",
+"r": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência…",
+"u": "https://www.clarin.com/mundo/shenzhen-china-entrena-robots-incorporarlos-mercado-laboral_0_XkpocGOyCI.html",
+"f": "Clarin.com",
+"s": "clarin.com",
+"i": "https://www.clarin.com/img/2026/11/18/733GtuQRE_2000x1500__1.jpg",
+"d": "2026-11-18T15:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "En Shenzhen, China entrena a sus robots para incorporarlos al mercado laboral",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "Clarín",
+"mx": 1,
+"rx": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência artificial estão a trabalhar para que possam entrar no mercado de trabalho.\nOs movimentos de ambos os robôs são controlados por um modelo de inteligência artificial, segundo seu fabricante, AI² Robotics, embora um ser humano deva reabastecer regularmente os grãos de café e esvaziar o pó da cafeteira. O Strange Attractor registra e processa seus movimentos para vender os dados a empresas que desenvolvem modelos de inteligência artificial destinados a controlar robôs."
 },
 {
 "id": "cf6f5eb947fd0f",
@@ -1628,7 +1703,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "ed7c50a30b4f87",
@@ -1650,7 +1725,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "1b8af947409d70",
@@ -1673,6 +1748,96 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A PIX Moving, empresa de mobilidade urbana autônoma, anunciou “seis novas parcerias estratégicas e iniciativas de colaboração”, que foram reveladas durante o Salão Automóvel de Paris de 2026. As colaborações com One-Board, Comobi, NIT Institute, CaiiTech, uma operadora francesa de mobilidade autônoma, e uma colaboração tripartida envolvendo a Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) e a Move Robotic expandem a rede global de parceiros da PIX Moving e abrem novos caminhos para trazer soluções de mobilidade autônoma desde o desenvolvimento e teste para uso no mundo real.\nAngelo (Chuan) Yu, fundador e CEO da PIX Moving, afirma: “Transformar a tecnologia de veículos autônomos em serviços de mobilidade práticos requer forte conhecimento local, capacidades de engenharia e suporte operacional."
+},
+{
+"id": "9b31b1a76eba40",
+"t": "Agility Robotics abriu em US$ 11,26 e caiu para US$ 6. Aqui está o preço onde eu compraria o primeiro estoque de robô humanóide.",
+"r": "Agility Robotics (NASDAQ:AGLT), desenvolvedora de robôs humanóides para armazéns, centros logísticos e fábricas, abriu o capital por meio de uma fusão com uma empresa de aquisição de propósito específico (SPAC) em novembro. Vamos ver por que a Agility fracassou - e que preço a tornaria uma compra atraente. A Agility…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/8903241/agility-robotics-opened-at-11-26-and-dropped-to-6-heres-the-price-where-id-buy-the-first-humanoid-robot-stock/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=994",
+"d": "2026-11-18T16:20-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Agility Robotics Opened at $11.26 and Dropped to $6. Here’s the Price Where I’d Buy the First Humanoid Robot Stock.",
+"lg": "en",
+"p": 5.6,
+"xid": [
+"406cf5675b7c54"
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "Agility Robotics (NASDAQ:AGLT), desenvolvedora de robôs humanóides para armazéns, centros logísticos e fábricas, abriu o capital por meio de uma fusão com uma empresa de aquisição de propósito específico (SPAC) em novembro. Vamos ver por que a Agility fracassou - e que preço a tornaria uma compra atraente. A Agility já assinou contratos plurianuais com Toyota (NYSE:TM), GXO Logistics (NYSE:GXO), MercadoLibre (NASDAQ:MELI) e Schaeffler, e sua carteira de pedidos aumentou para mais de US$ 300 milhões em pedidos confirmados para seu mais novo robô, o Digit v5.\nA equipe de analistas do Motley Fool Stock Advisor acaba de identificar o que eles acreditam serem as 10 melhores ações para os investidores comprarem agora… e a Agility Robotics não era uma delas. The Motley Fool tem posições e recomenda Amazon, MercadoLibre, Nvidia e Tesla."
+},
+{
+"id": "024847c62ed25f",
+"t": "Imagry e Endera fazem parceria para trazer ônibus autônomos fabricados nos EUA para o trânsito nos EUA",
+"r": "A Imagry, fornecedora de tecnologia de transporte público autônomo, e a Endera, fabricante americana de ônibus especializados premium, anunciaram uma parceria para “entregar os primeiros ônibus e ônibus autônomos compatíveis com Buy America para o transporte público dos EUA”. Ao emparelhar o sistema de direção autônoma Nível 4 da Imagry com o da Endera…",
+"u": "https://roboticsandautomationnews.com/2026/11/18/imagry-and-endera-partner-to-bring-american-made-autonomous-buses-to-us-transit/107304/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/imagry-endera-1.jpg",
+"d": "2026-11-18T16:27-03:00",
+"c": [
+"autonomos",
+"negocios"
+],
+"l": 0,
+"to": "Imagry and Endera partner to bring American-made autonomous buses to US transit",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Imagry, fornecedora de tecnologia de transporte público autônomo, e a Endera, fabricante americana de ônibus especializados premium, anunciaram uma parceria para “entregar os primeiros ônibus e ônibus autônomos compatíveis com Buy America para o transporte público dos EUA”. Ao combinar o sistema de condução autônoma de nível 4 da Imagry com os veículos da Endera fabricados nos Estados Unidos, a parceria oferece a todos os operadores de transporte público do país, desde autoridades de transporte estaduais até agências municipais e regionais, uma opção de direção autônoma que pode ser comprada com fundos federais de trânsito.\nA Imagry e a Endera construíram a parceria em torno de dois objetivos: dar a qualquer operador dos EUA que pretenda um autocarro ou vaivém autónomo uma opção de fabrico americano e manter os dólares do trânsito federal em casa, onde apoiam os fabricantes, fornecedores e trabalhadores americanos."
+},
+{
+"id": "2236d784b495a4",
+"t": "Einride relata crescimento de 76% na receita contratada à medida que as operações autônomas de frete se expandem",
+"r": "Einride, a empresa sueca de tecnologia de frete autônomo e elétrico, relatou um aumento de 76 por cento na receita recorrente anual contratada (CARR), atingindo US$ 167 milhões em novembro de 2026, em comparação com US$ 95 milhões no final de junho. Em sua atualização de negócios do terceiro trimestre, a empresa listada na Nasdaq disse que a receita…",
+"u": "https://roboticsandautomationnews.com/2026/11/18/einride-reports-76-percent-growth-in-contracted-revenue-as-autonomous-freight-operations-expand/107308/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/einride-truck-on-road-1.jpg",
+"d": "2026-11-18T16:35-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Einride reports 76 percent growth in contracted revenue as autonomous freight operations expand",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "Einride, a empresa sueca de tecnologia de frete autônomo e elétrico, relatou um aumento de 76 por cento na receita recorrente anual contratada (CARR), atingindo US$ 167 milhões em novembro de 2026, em comparação com US$ 95 milhões no final de junho. Em sua atualização de negócios do terceiro trimestre, a empresa listada na Nasdaq disse que a receita aumentou 27% sequencialmente em moeda constante, para US$ 18,3 milhões, apoiada pela expansão dos volumes de frete e operações adicionais de clientes.\nA Einride também reafirmou sua orientação de receita para o segundo semestre de 2026 de US$ 39 milhões a US$ 42 milhões e introduziu uma meta de aproximadamente US$ 250 milhões em receita anualizada até dezembro de 2027. Aumentamos nossa receita recorrente anual contratada em 76% desde junho, expandimos as operações com grandes clientes globais e alcançamos marcos importantes em frete autônomo."
+},
+{
+"id": "e97e78a80a76f7",
+"t": "Esta é a nova casa do ‘Big Brother VIP’: jacuzzi, câmeras escondidas e um cachorro-robô que grava tudo",
+"r": "Ao entrar na casa do ‘Big Brother’ espera encontrar a sala de nomeações, a cozinha, o sofá onde tantas vezes foram vividos momentos históricos da televisão ou, com um pouco de sorte, algum concorrente distraído. Porque, embora durante meses aquelas paredes se tornem a casa dos seus habitantes e acabemos por esquecer…",
+"u": "https://www.abc.es/play/television/noticias/nueva-casa-gran-hermano-vip-jacuzzi-camaras-20261117205142-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/17/visita-casa-U18172632000jgS-1200x630@diario_abc.jpg",
+"d": "2026-11-18T16:51-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Así es la nueva casa de 'Gran Hermano VIP': un jacuzzi, cámaras ocultas y un perro robot que todo lo graba",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 1,
+"rx": "Ao entrar na casa do ‘Big Brother’ espera encontrar a sala de nomeações, a cozinha, o sofá onde tantas vezes foram vividos momentos históricos da televisão ou, com um pouco de sorte, algum concorrente distraído. Porque, embora durante meses aquelas paredes se tornem a casa dos seus habitantes e acabemos por esquecer que tudo o que ali acontece está a ser observado, a verdade é que se trata de um cenário de filme.\nO 'Big Brother VIP', que estreia esta quarta-feira uma nova temporada na Telecinco, fará destas instalações a casa de concorrentes como Belén Esteban, Raquel Bollo ou Raquel Mosquera. Aqui o espaço é partilhado, as intimidades são partilhadas e as noites prometem ser longas. “A casa tem muitos segredos”, confessou María Zambrano, diretora de formatos Reality e Dating da Mediaset."
 },
 {
 "id": "dac23e675673ac",
@@ -2414,27 +2579,6 @@
 "cur": 1
 },
 {
-"id": "c0dd56c5fe412d",
-"t": "Se você mudar o chapéu, seu papel mudará... Apenas um robô fará isso.",
-"r": "A tecnologia para mudar o papel e a personalidade de um robô, substituindo seus chapéus, roupas ou ferramentas de trabalho, está se espalhando. O robô reconhece automaticamente a função através da etiqueta integrada, que é uma abordagem eficiente voltada para a era dos robôs N-jobber, onde um único robô pode realizar…",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/19/VDJMWA6HJZA4RJSJKARYIUFFGE/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-18T12:34-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "모자 바꾸면 역할 달라져… 로봇 한 대면 되겠네",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "A tecnologia para mudar o papel e a personalidade de um robô, substituindo seus chapéus, roupas ou ferramentas de trabalho, está se espalhando. O robô reconhece automaticamente a função através da etiqueta integrada, que é uma abordagem eficiente voltada para a era dos robôs N-jobber, onde um único robô pode realizar várias tarefas sem programação separada."
-},
-{
 "id": "8c2dceba23ea22",
 "t": "Este piloto de drones baseado em Bengaluru quer fazer do vôo um trabalho de cinco segundos",
 "r": "A maioria das pessoas já viu um drone, mas poucas realmente pilotaram um. Devesh K Hedge, um piloto de drones de 31 anos de Mahalakshmi Layout e fundador da Flycamp, está construindo um negócio para mudar isso.",
@@ -2565,27 +2709,6 @@
 "rx": "DESCRIÇÃO – Veículos da subsidiária Alphabet estiveram envolvidos em uma série de incidentes na Califórnia nos últimos meses. A subsidiária da Alphabet (dona do Google), pioneira e líder mundial em táxis-robôs com uma frota de 2.500 veículos e quase meio milhão de viagens por semana, planeja lançar no próximo ano em Londres, Munique e Tóquio. O Departamento de Veículos Motorizados da Califórnia (DMV) proibiu na terça-feira a operação de seus carros autônomos nas rodovias da Califórnia, após uma série de incidentes em zonas de construção. “O departamento determinou que as operações rodoviárias sem motorista da Waymo representam uma ameaça iminente à segurança pública”, disse ele."
 },
 {
-"id": "8e9cb141eae6d2",
-"t": "Em Shenzhen, a China treina seus robôs para incorporá-los ao mercado de trabalho",
-"r": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência…",
-"u": "https://www.clarin.com/mundo/shenzhen-china-entrena-robots-incorporarlos-mercado-laboral_0_XkpocGOyCI.html",
-"f": "Clarin.com",
-"s": "clarin.com",
-"i": "https://www.clarin.com/img/2026/11/18/733GtuQRE_2000x1500__1.jpg",
-"d": "2026-11-18T15:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "En Shenzhen, China entrena a sus robots para incorporarlos al mercado laboral",
-"lg": "es",
-"p": 4.8,
-"cr": 3,
-"cv": "Clarín",
-"mx": 1,
-"rx": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência artificial estão a trabalhar para que possam entrar no mercado de trabalho.\nOs movimentos de ambos os robôs são controlados por um modelo de inteligência artificial, segundo seu fabricante, AI² Robotics, embora um ser humano deva reabastecer regularmente os grãos de café e esvaziar o pó da cafeteira. O Strange Attractor registra e processa seus movimentos para vender os dados a empresas que desenvolvem modelos de inteligência artificial destinados a controlar robôs."
-},
-{
 "id": "eed862bfac65b2",
 "t": "O robô de IA 'Suman Didi' auxilia mulheres Jhansi na campanha de conscientização dos eleitores",
 "r": "O robô de IA ‘Suman Didi’ ajuda com dúvidas relacionadas aos procedimentos eleitorais durante a campanha de conscientização dos eleitores em Jhansi",
@@ -2605,6 +2728,154 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "O robô de IA ‘Suman Didi’ ajuda com dúvidas relacionadas aos procedimentos eleitorais durante a campanha de conscientização dos eleitores em Jhansi"
+},
+{
+"id": "136aa34610d1a3",
+"t": "Waymo robotaxi tenta ultrapassar veículos de patrulha rodoviária – vídeo",
+"r": "O vídeo gravado em 6 de novembro mostra um robotáxi sem motorista da Waymo tentando ultrapassar dois veículos de patrulha rodoviária da Califórnia realizando uma interrupção no trânsito em São Francisco. Em 11 de novembro, o departamento de veículos motorizados da Califórnia os proibiu de circular nas rodovias…",
+"u": "https://www.theguardian.com/us-news/video/2026/nov/18/waymo-robotaxi-attempts-to-overtake-highway-patrol-vehicles-video",
+"f": "The Guardian",
+"s": "theguardian.com",
+"i": "https://i.guim.co.uk/img/media/71f1e2c6fdec1bc59e2d5359b211f60738003ac1/143_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e0c9373acef818dba361a45544b40dc",
+"d": "2026-11-18T16:28-03:00",
+"c": [
+"autonomos",
+"inspecao"
+],
+"l": 0,
+"to": "Waymo robotaxi attempts to overtake highway patrol vehicles - video",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Guardian",
+"mx": 1,
+"rx": "O vídeo gravado em 6 de novembro mostra um robotáxi sem motorista da Waymo tentando ultrapassar dois veículos de patrulha rodoviária da Califórnia realizando uma interrupção no trânsito em São Francisco. Em 11 de novembro, o departamento de veículos motorizados da Califórnia os proibiu de circular nas rodovias estaduais, alegando que representavam um “perigo iminente”."
+},
+{
+"id": "a5fd3868f6442e",
+"t": "Pontos fortes da IA ​​física do desenvolvimento de robôs japoneses que podem mostrar sua presença no mundo",
+"r": "A AI Robot Association, uma associação geral incorporada que coleta dados, desenvolve infraestrutura e fornece suporte de desenvolvimento para empresas e instituições de pesquisa, é comumente conhecida como AIRoA. Como a AIRoA prevê o futuro dos robôs e que direção deve tomar o Japão, que está atrás dos EUA e da China…",
+"u": "https://bookplus.nikkei.com/atcl/column/110600809/110600001/",
+"f": "日経BOOKプラス",
+"s": "bookplus.nikkei.com",
+"i": "https://bookplus.nikkei.com/atcl/column/110600809/110600001/top_m.jpg",
+"d": "2026-11-18T17:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "フィジカルAI 世界に存在感を示せる日本のロボット開発の強み",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "A AI Robot Association, uma associação geral incorporada que coleta dados, desenvolve infraestrutura e fornece suporte de desenvolvimento para empresas e instituições de pesquisa, é comumente conhecida como AIRoA. Como a AIRoA prevê o futuro dos robôs e que direção deve tomar o Japão, que está atrás dos EUA e da China em termos de desenvolvimento?\nAcredito que um desenvolvimento semelhante ocorrerá com a IA física. Com os Estados Unidos e a China liderando o desenvolvimento de robôs, muitas vezes me perguntam: “O Japão tem chance de vencer?” Eu sempre respondo: “Não precisamos”."
+},
+{
+"id": "ec798052c20dfa",
+"t": "Navegação autônoma de navios ``Não é necessário E2E'' Oito nós são compatíveis com robôs - Nikkei Tech Foresight",
+"r": "Um navio equipado com o sistema de navegação autônoma da Eight-Knot (Fonte: Eight-Knot) A Eight-Knot (Osaka City), startup que desenvolve tecnologia de navegação autônoma para navios, está assumindo o desafio de mudar a estrutura da indústria. No mundo dos navios, é prática comum o desenvolvimento ser dividido por…",
+"u": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC184BA0Y6A111C2000000",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3898276018112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.26&fp-y=0.27&h=630&w=1200&s=0017257b254203cdeed073848b685fe8",
+"d": "2026-11-18T17:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "船の自律航行「E2E不要」 エイトノット、ロボットとは親和性 - 日経テックフォーサイト",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "Um navio equipado com o sistema de navegação autônoma da Eight-Knot (Fonte: Eight-Knot) A Eight-Knot (Osaka City), startup que desenvolve tecnologia de navegação autônoma para navios, está assumindo o desafio de mudar a estrutura da indústria. No mundo dos navios, é prática comum o desenvolvimento ser dividido por tipo de componente ou software. Além de diversos softwares produzidos internamente, a empresa fornecerá sensores, unidades de controle, etc. como sistema de navegação autônomo. A empresa pretende assumir uma posição semelhante à de “Tier 1 (fabricante de peças primárias)” na indústria automobilística e expandir as vendas de tecnologia de navegação autônoma para uma ampla gama de empresas. Três pontos deste artigo: ・Entrevista com o CTO Yokoyama da Eight Knot, que desenvolve tecnologia de navegação autônoma para navios. ・Dos engenheiros robóticos ao mundo dos navios, as tecnologias têm algumas semelhanças surpreendentes..."
+},
+{
+"id": "9d1bcf827367e9",
+"t": "O Japão avança em direção à IA soberana: o desafio de proteger a infraestrutura produzida internamente e a soberania dos dados na era dos robôs",
+"r": "IA soberana é a ideia de desenvolver e operar IA (inteligência artificial) de acordo com os interesses e valores do próprio país, sem depender de grandes empresas de tecnologia estrangeiras. Neste artigo resumido, utilizaremos artigos anteriores para fornecer uma visão geral multifacetada do contexto por trás da…",
+"u": "https://business.nikkei.com/atcl/gen/19/00081/102800990/",
+"f": "日経ビジネス電子版",
+"s": "business.nikkei.com",
+"i": "https://business.nikkei.com/atcl/gen/19/00081/102800990/fb.jpg",
+"d": "2026-11-18T17:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ソブリンAIへ動く日本 ロボット時代の国産基盤とデータ主権守る挑戦",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "IA soberana é a ideia de desenvolver e operar IA (inteligência artificial) de acordo com os interesses e valores do próprio país, sem depender de grandes empresas de tecnologia estrangeiras. Neste artigo resumido, utilizaremos artigos anteriores para fornecer uma visão geral multifacetada do contexto por trás da necessidade de IA soberana e das tendências políticas, os desafios enfrentados pelas principais empresas de robôs, como a Noetra, responsável pelo modelo básico produzido internamente, e os preparativos que as empresas precisam fazer para enfrentar a IA.\nNo Japão, com o apoio do governo, a Noetra começou a desenvolver um modelo básico produzido internamente, e as principais empresas de robótica também começaram a organizar os dados dos seus próprios locais de produção."
+},
+{
+"id": "05be139da4009f",
+"t": "ASEAN e APEC, imagens de vídeo dos bastidores: Manila, Filipinas sob estrita segurança, Shenzhen, China, onde robôs de IA saltam",
+"r": "Se você quiser compartilhar o artigo dentro de sua empresa, reimprimi-lo/duplicá-lo em materiais de conferências, solicitar impressão, etc., consulte o link.",
+"u": "https://www.nikkei.com/article/DGXZQOCB175ZV0X11C26A1000000/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3901030018112026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=cc06bd23182062a087f628cb8b5d3c3c",
+"d": "2026-11-18T17:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ASEANとAPEC、動画で迫る舞台裏 厳戒フィリピン・マニラやAIロボット跳ねる中国・深圳",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "Se você quiser compartilhar o artigo dentro de sua empresa, reimprimi-lo/duplicá-lo em materiais de conferências, solicitar impressão, etc., consulte o link."
+},
+{
+"id": "e00276316d359e",
+"t": "Armas autônomas, soldados robôs... A vertigem de uma guerra sem homens",
+"r": "INVESTIGAÇÃO - Enquanto se desenvolvem sistemas autónomos, impulsionados pelo progresso da inteligência artificial, os estados membros das Nações Unidas, reunidos em Genebra, questionam a regulamentação destas novas armas. Em apenas alguns meses, o número de operações realizadas por drones terrestres triplicou na…",
+"u": "https://www.lefigaro.fr/international/armes-autonomes-soldats-robots-le-vertige-d-une-guerre-sans-hommes-20261118",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/18/ad89eec9daa722d4f189a40192e57e53cbbed1ed7e26635d04292dcce293c942.jpg",
+"d": "2026-11-18T17:03-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Armes autonomes, soldats robots... Le vertige d’une guerre sans hommes",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "INVESTIGAÇÃO - Enquanto se desenvolvem sistemas autónomos, impulsionados pelo progresso da inteligência artificial, os estados membros das Nações Unidas, reunidos em Genebra, questionam a regulamentação destas novas armas. Em apenas alguns meses, o número de operações realizadas por drones terrestres triplicou na Ucrânia. Em agosto, foram realizadas 25.143 missões por “UGVs”, para “veículos terrestres não tripulados”, face às 7.500 em janeiro, ou “112 mil missões logísticas ou de evacuação” desde o início do ano, indicou o Ministério da Defesa. Para compensar o desafio humano de uma guerra que já dura quase cinco anos contra a Rússia, as forças ucranianas estão a tornar-se robóticas. A guerra robótica, galvanizada pelo desenvolvimento da inteligência artificial, está ao nosso alcance."
+},
+{
+"id": "50f10977346649",
+"t": "Disparos de drones, uso de armas pesadas, policiais e civis mortos… Caxemira paquistanesa ameaça deslizar para a insurgência",
+"r": "HISTÓRIA – As forças de segurança intensificam a repressão à medida que protestos populares agitam a região. Esta cena, captada por apoiantes do Comité de Acção Conjunta Popular (JAAC), uma organização civil na Caxemira Paquistanesa, tornou-se comum na região. Kashif Mir testemunhou um desses incidentes no dia 5 de…",
+"u": "https://www.lefigaro.fr/international/tirs-de-drones-usage-d-armes-lourdes-policiers-et-civils-tues-le-cachemire-pakistanais-menace-de-basculer-dans-l-insurrection-20261118",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/18/027bc6f5cee9bdbecfe7663cd4fb244db180daf60b2c5634f80eda2966fdb393.jpg",
+"d": "2026-11-18T17:15-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Tirs de drones, usage d’armes lourdes, policiers et civils tués… Le Cachemire pakistanais menace de basculer dans l’insurrection",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "HISTÓRIA – As forças de segurança intensificam a repressão à medida que protestos populares agitam a região. Esta cena, captada por apoiantes do Comité de Acção Conjunta Popular (JAAC), uma organização civil na Caxemira Paquistanesa, tornou-se comum na região. Kashif Mir testemunhou um desses incidentes no dia 5 de novembro. “Eu tinha vindo a um funeral em Rawalakot quando vi um avião não tripulado sobrevoando a cidade e depois dirigindo-se para uma floresta vizinha”, diz este jornalista independente. O drone então retornou a Rawalakot, onde as forças de segurança estão posicionadas. »\nHá cinco meses que esta cidade vive ao ritmo das manifestações e da repressão da polícia e dos guardas-florestais, uma força paramilitar."
 },
 {
 "id": "6b06f0b6e8faf7",
@@ -3016,6 +3287,27 @@
 "rx": "Outro tema desta semana são as startups construindo infraestrutura, desde uma empresa que lançou um produto de organização de dados até outra que vende tecnologia de reconhecimento espacial independente de hardware e muito mais. O bot de duas rodas da empresa, Eno, ainda está em desenvolvimento, enquanto a empresa anuncia uma enorme rodada da Série A de US$ 500 milhões, co-liderada por Premji Invest, Khosla Ventures e Eclipse.\nA empresa anunciou US$ 30 milhões em financiamento em uma rodada de pré-lançamento liderada por Costanoa e uma rodada de lançamento liderada por Kleiner Perkins. Falando no setor de defesa, a SE3 também arrecadou US$ 30 milhões, mas por meio de uma rodada da Série A liderada pela Accel. A startup alemã está construindo um software de reconhecimento espacial, uma tecnologia comum para sistemas autônomos compreenderem o que os rodeia.\nUma startup de software de construção que ajuda robôs com consciência espacial, uma empresa que constrói uma máquina robótica de manicure e outra"
 },
 {
+"id": "c0dd56c5fe412d",
+"t": "Se você mudar o chapéu, seu papel mudará... Apenas um robô fará isso.",
+"r": "A tecnologia para mudar o papel e a personalidade de um robô, substituindo seus chapéus, roupas ou ferramentas de trabalho, está se espalhando. O robô reconhece automaticamente a função através da etiqueta integrada, que é uma abordagem eficiente voltada para a era dos robôs N-jobber, onde um único robô pode realizar…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/19/VDJMWA6HJZA4RJSJKARYIUFFGE/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-18T12:34-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "모자 바꾸면 역할 달라져… 로봇 한 대면 되겠네",
+"lg": "ko",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "A tecnologia para mudar o papel e a personalidade de um robô, substituindo seus chapéus, roupas ou ferramentas de trabalho, está se espalhando. O robô reconhece automaticamente a função através da etiqueta integrada, que é uma abordagem eficiente voltada para a era dos robôs N-jobber, onde um único robô pode realizar várias tarefas sem programação separada."
+},
+{
 "id": "ede72a2281e459",
 "t": "Ladrão empunhando facão é caçado por drone em imagens incríveis",
 "r": "",
@@ -3158,27 +3450,6 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "“Você deveria tentar você mesmo.” O salão de exposições 'Semana de Inovação para Pequenas e Médias Empresas de 2026 (K-INNO WEEK)' será realizado na OSCO em Cheongju, província de Chungcheong do Norte, no dia 18. Lee So-young, Ministro de PMEs e Startups, visitou o estande da Tesolo, uma empresa especializada em mãos robóticas, e assumiu pessoalmente o controle do robô. O Ministro Lee demonstrou grande interesse em tecnologia, inclusive verificando o movimento da mão do robô alterando os movimentos de sua mão. Enquanto os funcionários da SH&B explicavam e demonstravam o princípio de funcionamento e a tecnologia de resfriamento do dispositivo, o Ministro Lee aproximou a mão para ver se o ar frio estava saindo. Introduzimos uma fábrica digital virtual que pode gerenciar as operações da fábrica sem visitar pessoalmente o local, incluindo um sistema no local que reconhece automaticamente o comportamento do trabalhador e insere detalhes do trabalho por meio de comandos de voz.\nEm particular, eles demonstraram um sistema robótico que reconhece o objeto de trabalho através de uma câmera e seleciona a tarefa por conta própria, uma máquina de inspeção AX que altera automaticamente o método de inspeção dependendo do alvo da inspeção e relata os resultados, e uma máquina de processamento AX que combina reconhecimento visual e funções de inspeção. O Ministro Lee analisou as conquistas de desenvolvimento de produtos de pequenas e médias empresas na área de eletrodomésticos, verificando pessoalmente a estrutura externa e interna do produto."
-},
-{
-"id": "d826fc0fed4927",
-"t": "HD Hyundai Robotics começa a fornecer robôs industriais de uma tonelada",
-"r": "A HD Hyundai Robotics tem como alvo o mercado de automação para serviços pesados ​​com seu robô industrial desenvolvido de forma independente. A HD Hyundai Robotics disse em 18 de novembro que realizou uma cerimônia em sua sede de P&D na Coreia para marcar a primeira venda de seu HDT1000-33, um robô industrial…",
-"u": "https://www.thelec.net/news/articleView.html?idxno=15730",
-"f": "THE ELEC, Korea Electronics Industry Media",
-"s": "thelec.net",
-"i": "https://cdn.thelec.net/news/photo/202611/15730_16108_1736.jpg",
-"d": "2026-11-18T05:46-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "HD Hyundai Robotics Begins Supplying One-Ton Industrial Robots",
-"lg": "en",
-"p": 3.5,
-"cr": 2,
-"cv": "The Elec",
-"mx": 1,
-"rx": "A HD Hyundai Robotics tem como alvo o mercado de automação para serviços pesados ​​com seu robô industrial desenvolvido de forma independente. A HD Hyundai Robotics disse em 18 de novembro que realizou uma cerimônia em sua sede de P&D na Coreia para marcar a primeira venda de seu HDT1000-33, um robô industrial ultragrande com capacidade de carga útil de uma tonelada. O HDT1000-33 é um robô articulado de seis eixos capaz de levantar e mover objetos pesando até uma tonelada. Além de manusear componentes grandes e pesados, ele pode realizar diversas tarefas, incluindo carregar peças em equipamentos de processamento e transferi-las para etapas de produção subsequentes.\nA HD Hyundai Robotics planeja expandir as aplicações de seus robôs ultragrandes para indústrias que frequentemente lidam com componentes grandes e pesados, incluindo equipamentos de construção naval, grandes peças automotivas e baterias de veículos elétricos."
 },
 {
 "id": "c4644538a053ab",
@@ -3476,8 +3747,8 @@
 "i": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/File-3.jpg",
 "d": "2026-11-18T12:25-03:00",
 "c": [
-"industriais",
-"negocios"
+"negocios",
+"industriais"
 ],
 "l": 0,
 "to": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
@@ -3527,7 +3798,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9b7ace255a0f39",
@@ -4917,6 +5188,35 @@
 ]
 },
 {
+"id": "63a63698b0d52c",
+"t": "As empresas de GPU estão competindo para fabricar chips robóticos. Por que os fabricantes de máquinas ainda querem fabricar as suas próprias? -36 criptônio",
+"r": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro…",
+"u": "https://www.36kr.com/p/4074892228335236",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261118/v2_d32d23a0a3224f55bc5bc8eae13ef111@46958@ai_oswg755267oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-17T15:54-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
+"lg": "zh",
+"p": 5.8,
+"cr": 2,
+"cv": "36Kr",
+"o": [
+{
+"f": "36氪",
+"u": "https://m.36kr.com/p/4074892228335236",
+"s": "m.36kr.com",
+"id": "03b44897544a42"
+}
+],
+"mx": 1,
+"rx": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro produto é voltado para a computação final de robôs. A empresa de inteligência incorporada Galaxy General Motors assinou um contrato com o fabricante de chips automotivos Xinchi Technology em novembro de 2025 para desenvolver em conjunto chips robóticos de próxima geração.\nAs empresas que produzem carros e robôs ao mesmo tempo estão bem posicionadas para alocar custos de pesquisa e desenvolvimento de chips aos dois tipos de produtos. Para empresas de inteligência incorporada que dependem principalmente de remessas de robôs para compartilhar custos de pesquisa e desenvolvimento, fabricar um chip que atenda às necessidades de toda a máquina é um problema de engenharia que pode ser resolvido por meio de investimentos contínuos."
+},
+{
 "id": "8019a59c3f54a0",
 "t": "Alguns dos primeiros robôs humanóides a trabalhar já estão desempregados - 36 Krypton",
 "r": "Por outro lado, fabricantes de inteligência incorporada, como a Galaxy General e a Yushu Technology, também estão a enviar os seus produtos para lojas de conveniência para formação adicional, permitindo que robôs substituam os funcionários das lojas de conveniência. Os fabricantes de inteligência incorporada estão…",
@@ -5880,35 +6180,6 @@
 "id": "25272390f16c7a"
 }
 ]
-},
-{
-"id": "63a63698b0d52c",
-"t": "As empresas de GPU estão competindo para fabricar chips robóticos. Por que os fabricantes de máquinas ainda querem fabricar as suas próprias? -36 criptônio",
-"r": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro…",
-"u": "https://www.36kr.com/p/4074892228335236",
-"f": "36kr",
-"s": "36kr.com",
-"i": "https://img.36krcdn.com/hsossms/20261118/v2_d32d23a0a3224f55bc5bc8eae13ef111@46958@ai_oswg755267oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-"d": "2026-11-17T15:54-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
-"lg": "zh",
-"p": 5.0,
-"cr": 2,
-"cv": "36Kr",
-"o": [
-{
-"f": "36氪",
-"u": "https://m.36kr.com/p/4074892228335236",
-"s": "m.36kr.com",
-"id": "03b44897544a42"
-}
-],
-"mx": 1,
-"rx": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro produto é voltado para a computação final de robôs. A empresa de inteligência incorporada Galaxy General Motors assinou um contrato com o fabricante de chips automotivos Xinchi Technology em novembro de 2025 para desenvolver em conjunto chips robóticos de próxima geração.\nAs empresas que produzem carros e robôs ao mesmo tempo estão bem posicionadas para alocar custos de pesquisa e desenvolvimento de chips aos dois tipos de produtos. Para empresas de inteligência incorporada que dependem principalmente de remessas de robôs para compartilhar custos de pesquisa e desenvolvimento, fabricar um chip que atenda às necessidades de toda a máquina é um problema de engenharia que pode ser resolvido por meio de investimentos contínuos."
 },
 {
 "id": "59ffe3e93b92fd",
@@ -7309,48 +7580,6 @@
 "rx": "Até mesmo empresas de robótica dos EUA compram peças em Shenzhen: por que um jovem fundador chinês voltou para casa Nunca me preocupei em levantar capital. Em dois anos, sua startup construiu capacidade para produzir cinco milhões de sensores anualmente"
 },
 {
-"id": "997dbfadb575bd",
-"t": "Se você usa uma coroa, você é um rei, se você usa um capacete, você é um trabalhador... A era dos ‘robôs N-jobber’",
-"r": "Surgiu uma tecnologia que muda instantaneamente a personalidade e o papel de um robô, vestindo-o com acessórios como chapéus ou roupas. As etiquetas NFC e RFID são usadas para alternar funções do dispositivo sem programação complexa e, em locais industriais, os robôs de troca de ferramentas aumentam a eficiência da…",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/18/4WNE7LOXCNBGBG2QRPCBX6AAVY/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-17T18:03-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "왕관 쓰면 왕, 안전모 쓰면 작업자… ‘N잡러 로봇’ 시대",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "Surgiu uma tecnologia que muda instantaneamente a personalidade e o papel de um robô, vestindo-o com acessórios como chapéus ou roupas. As etiquetas NFC e RFID são usadas para alternar funções do dispositivo sem programação complexa e, em locais industriais, os robôs de troca de ferramentas aumentam a eficiência da produção. Esta é uma abordagem inovadora que amplia a versatilidade dos robôs e permite uma utilização personalizada."
-},
-{
-"id": "99030d98add752",
-"t": "Robôs trocam de função por meio de acessórios",
-"r": "Robôs trocam de função por meio de acessórios, abraçando a era da multitarefa Chapéus, ferramentas e máscaras desencadeiam mudanças de função em robôs, permitindo diversas aplicações, do turismo à indústria",
-"u": "https://www.chosun.com/english/industry-en/2026/11/18/XLPW2E6BG5DZ3BLNDU727BK3D4/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "",
-"d": "2026-11-17T18:08-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Robots Switch Roles via Accessories",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 9,
-"rx": "Robôs trocam de função por meio de acessórios, abraçando a era da multitarefa Chapéus, ferramentas e máscaras desencadeiam mudanças de função em robôs, permitindo diversas aplicações, do turismo à indústria"
-},
-{
 "id": "323114746bd829",
 "t": "“Eu cresci em tamanho, mas e se ainda estiver perdendo peso?”… ‘banco de testes’ de estoque de robôs KOSDAQ [Análise +]",
 "r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Isto pode ser interpretado como o efeito do terceiro trimestre do lucro operacional deste ano anunciado no dia anterior se transformar num défice. A partir das 9h43 deste dia, Robotis estava negociando a 209.000 won, uma queda de…",
@@ -8386,6 +8615,48 @@
 "rx": "O governo do Rajastão libera veículos anti-drones para a polícia; Unidade ATS planejada em Sriganganagar para combater invasões de drones paquistaneses e contrabando de armas e drogas na fronteira."
 },
 {
+"id": "997dbfadb575bd",
+"t": "Se você usa uma coroa, você é um rei, se você usa um capacete, você é um trabalhador... A era dos ‘robôs N-jobber’",
+"r": "Surgiu uma tecnologia que muda instantaneamente a personalidade e o papel de um robô, vestindo-o com acessórios como chapéus ou roupas. As etiquetas NFC e RFID são usadas para alternar funções do dispositivo sem programação complexa e, em locais industriais, os robôs de troca de ferramentas aumentam a eficiência da…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/18/4WNE7LOXCNBGBG2QRPCBX6AAVY/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-17T18:03-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "왕관 쓰면 왕, 안전모 쓰면 작업자… ‘N잡러 로봇’ 시대",
+"lg": "ko",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "Surgiu uma tecnologia que muda instantaneamente a personalidade e o papel de um robô, vestindo-o com acessórios como chapéus ou roupas. As etiquetas NFC e RFID são usadas para alternar funções do dispositivo sem programação complexa e, em locais industriais, os robôs de troca de ferramentas aumentam a eficiência da produção. Esta é uma abordagem inovadora que amplia a versatilidade dos robôs e permite uma utilização personalizada."
+},
+{
+"id": "99030d98add752",
+"t": "Robôs trocam de função por meio de acessórios",
+"r": "Robôs trocam de função por meio de acessórios, abraçando a era da multitarefa Chapéus, ferramentas e máscaras desencadeiam mudanças de função em robôs, permitindo diversas aplicações, do turismo à indústria",
+"u": "https://www.chosun.com/english/industry-en/2026/11/18/XLPW2E6BG5DZ3BLNDU727BK3D4/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "",
+"d": "2026-11-17T18:08-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robots Switch Roles via Accessories",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 9,
+"rx": "Robôs trocam de função por meio de acessórios, abraçando a era da multitarefa Chapéus, ferramentas e máscaras desencadeiam mudanças de função em robôs, permitindo diversas aplicações, do turismo à indústria"
+},
+{
 "id": "79757ba16f1695",
 "t": "Siling Robotics, líder de física em IA, concluiu US$ 500 milhões em financiamento da Série F",
 "r": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A…",
@@ -9376,7 +9647,70 @@
 "p": 3.5,
 "cr": 3,
 "cv": "USA Today",
-"mx": 1
+"mx": 2
+},
+{
+"id": "c7b5b0a4ae0015",
+"t": "A Special Zone Foundation busca cooperação na comercialização de tecnologia com Odense, a base da indústria robótica da Dinamarca",
+"r": "A Fundação de Promoção da Zona Especial de Pesquisa e Desenvolvimento (Presidente Jeong Hee-kwon) fortalecerá a cooperação de comercialização de tecnologia com Odense, o centro da indústria de robôs e automação da Dinamarca, e apoiará a entrada de empresas de zonas especiais no mercado europeu. A Fundação Zona…",
+"u": "https://www.etnews.com/20261118000103",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.4a0e9af626914d1ea0b9f7579884b0d7_P1.jpg",
+"d": "2026-11-17T22:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "특구재단, 덴마크 로봇산업 거점 오덴세와 기술사업화 협력 모색",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "A Fundação de Promoção da Zona Especial de Pesquisa e Desenvolvimento (Presidente Jeong Hee-kwon) fortalecerá a cooperação de comercialização de tecnologia com Odense, o centro da indústria de robôs e automação da Dinamarca, e apoiará a entrada de empresas de zonas especiais no mercado europeu. A Fundação Zona Especial anunciou no dia 18 que visitou Odense, na Dinamarca, no dia 17 (hora local) e discutiu com o prefeito Peter Rahbæk Juel a cooperação na comercialização de tecnologia na área de robôs e automação e formas de entrada de empresas de zonas especiais no mercado europeu. Odense é um centro global da indústria robótica onde estão concentradas empresas, institutos de pesquisa e empresas de investimento nas áreas de robótica, automação e drones, centrado na Universidade do Sul da Dinamarca e na Odense Robotics, o cluster nacional da indústria robótica da Dinamarca. Na reunião deste dia, as duas partes partilharam o ecossistema de inovação e o sistema de apoio à comercialização de tecnologia da zona especial de I&D e Odense, e discutiram formas de descobrir a procura local de tecnologia para as empresas da zona especial entrarem no mercado europeu, a cooperação entre empresas e planos de ligação de investimento. O prefeito Peter Labeck disse: \"Esperamos criar uma grande sinergia combinando a excelente tecnologia da zona especial de pesquisa e desenvolvimento da Coreia com a competitividade de Odense na indústria de robôs e automação. Expandiremos a cooperação tecnológica e o intercâmbio entre empresas e institutos de pesquisa em ambas as regiões\". Hee-kwon Jeong, presidente da Fundação Zona Especial, disse: \"Para que as empresas de tecnologia profunda avancem no mercado global, é importante não apenas ter competitividade tecnológica, mas também conectar a demanda industrial local e as redes corporativas. Ao vincular a excelente tecnologia da zona especial com as capacidades industriais de Odense, apoiaremos as empresas da zona especial para descobrir parceiros de cooperação no exterior e entrar no mercado europeu\"."
+},
+{
+"id": "e1b7295c9307a2",
+"t": "Os veículos particulares podem ingressar no serviço Tesla Robotaxi para ganhar de forma independente no próximo mês? A última promessa irreal de Elon Musk",
+"r": "Ele não queria mais dirigir pessoalmente e esperava adicionar seu Modelo Y diretamente à rede Robotaxi da Tesla para permitir que o carro recebesse pedidos e ganhasse dinheiro por conta própria. A Tesla receberá uma parte dos pedidos de Robotaxi de proprietários de automóveis individuais e que porcentagem será…",
+"u": "https://eu.36kr.com/en/p/4074478339363975",
+"f": "36Kr",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261118/v2_0e3584e4d69d4cafa7100823f7f8c4d4@5091053@ai_oswg815869oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-17T22:02-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Can Private Vehicles Join Tesla Robotaxi Service to Earn Independently Next Month? Elon Musk’s Latest Unrealistic Promise",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Ele não queria mais dirigir pessoalmente e esperava adicionar seu Modelo Y diretamente à rede Robotaxi da Tesla para permitir que o carro recebesse pedidos e ganhasse dinheiro por conta própria. A Tesla receberá uma parte dos pedidos de Robotaxi de proprietários de automóveis individuais e que porcentagem será necessária? Em 2016, Musk propôs pela primeira vez o conceito de Robotaxi no \"Master Plan Part Deux\", planejando desenvolver tecnologia de direção autônoma que seja 10 vezes mais segura do que a direção manual por humanos; operar frotas Robotaxi em cidades com alta demanda de viagens e incluir veículos Tesla com tecnologia totalmente autônoma em uma rede de serviços de táxi chamada \"Rede Tesla\", que inclui não apenas os próprios veículos da Tesla, mas também veículos ociosos que os proprietários de carros particulares da Tesla estão dispostos a compartilhar."
+},
+{
+"id": "87b0f0479b4e6c",
+"t": "Análise CoRL 2026: Quando os robôs autônomos estarão prontos para trabalhos como robotáxis?",
+"r": "Participei da Conferência sobre Aprendizagem de Robôs (CoRL 2026) em Austin, Texas, no início de novembro...",
+"u": "https://www.digitimes.com/news/a20261117PD217/robot-robotaxi-foundation-models-data-2026.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261117pd217_files/2_b.jpg",
+"d": "2026-11-17T22:11-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "CoRL 2026 analysis: When will autonomous robots be ready for work like robotaxis?",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "Participei da Conferência sobre Aprendizagem de Robôs (CoRL 2026) em Austin, Texas, no início de novembro..."
 },
 {
 "id": "0139be6066b2b7",
@@ -9397,6 +9731,69 @@
 "cr": 3,
 "cv": "Nikkei Asia",
 "mx": 3
+},
+{
+"id": "6204c2c9be22b1",
+"t": "'Hi Robot', apoiado pela Jeonbuk TP, desenvolve protótipo de módulo de acionamento de desvio de 200 W... Promoção de pedido de patente",
+"r": "Jeonbuk Techno Park (TP, Diretor Gyu-taek Lee) anunciou no dia 18 que alcançou o resultado de apoiar o desenvolvimento de tecnologia de condução central para HiRobot, uma empresa local especializada em robôs, e estabelecer as bases para a comercialização de tecnologia no campo de robôs móveis para agricultura e…",
+"u": "https://www.etnews.com/20261118000134",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.f50a2f7273b6478897dab61c10b4119d_P1.png",
+"d": "2026-11-17T22:29-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "전북TP 지원 '하이로봇', 200W급 스워브 드라이브 모듈 시제품 개발…특허 출원 추진",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Jeonbuk Techno Park (TP, Diretor Gyu-taek Lee) anunciou no dia 18 que alcançou o resultado de apoiar o desenvolvimento de tecnologia de condução central para HiRobot, uma empresa local especializada em robôs, e estabelecer as bases para a comercialização de tecnologia no campo de robôs móveis para agricultura e logística por meio do projeto de apoio ao pacote de avanço tecnológico 'Industry-Academia-Research Collaborative Program (K-ILP)'. O Programa Colaborativo Indústria-Academia-Pesquisa (K-ILP) está promovendo projetos de apoio corporativo para fortalecer as capacidades de comercialização de tecnologia de pequenas e médias empresas locais e estabelecer as bases para a entrada no mercado global. Baseado num sistema cooperativo com institutos de investigação e universidades, apoia as empresas na resolução de dificuldades tecnológicas, na actualização tecnológica e na comercialização. Hi Robot Co., Ltd., localizada em Wanju-gun, Província Autônoma Especial de Jeonbuk, que participou deste projeto, desenvolveu um módulo de acionamento central aplicável a robôs móveis para agricultura e logística, realizando a tarefa de 'produção de um protótipo de módulo de acionamento de desvio de 200 W' e concluiu uma demonstração de direção interna usando um robô de teste. Através deste projeto de avanço tecnológico, a HiRobot aplicou um motor de tração de 200 W e um sistema de direção independente, e projetou um sistema de suspensão independente para cada roda para permitir uma condução estável mesmo em ambientes irregulares de estradas agrícolas. O Jeonbuk Techno Park planeja continuar a fortalecer o apoio à ligação do desenvolvimento tecnológico, avanço tecnológico, produção de protótipos, verificação de tecnologia e comercialização de empresas locais por meio do Programa de Colaboração Indústria-Academia-Pesquisa (K-ILP), e expandir continuamente o sistema de apoio à comercialização de tecnologia sob medida para a empresa. Um funcionário do Jeonbuk Techno Park disse: “Esta conquista é um exemplo de criação de resultados práticos de avanço tecnológico ao vincular as capacidades tecnológicas das empresas locais às demandas de campo”. Ele acrescentou: “Continuaremos a fortalecer a competitividade tecnológica das pequenas e médias empresas locais através de projetos de apoio corporativo baseados na cooperação indústria-academia-pesquisa e apoiaremos ativamente a sua entrada no mercado e a criação de resultados de comercialização em novos campos industriais”."
+},
+{
+"id": "2ad2ca0e40576b",
+"t": "Roborock ocupa o primeiro lugar em participação de mercado de aspiradores de pó e esfregões, atrás dos aspiradores robôs na Coreia",
+"r": "Roborock também ficou em primeiro lugar em participação de mercado no mercado doméstico de aspiradores de pó. De acordo com a empresa de pesquisa de mercado Euromonitor, a Roborock registrou uma participação de mercado de 14,3% no mercado doméstico de aspiradores de pó domésticos no primeiro semestre do ano…",
+"u": "https://www.etnews.com/20261118000143",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.98f6e737e5694d2589064f417bbab518_P1.jpg",
+"d": "2026-11-17T22:37-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "로보락, 韓 로봇청소기 이어 진공 물걸레 청소기 점유율 1위",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Roborock também ficou em primeiro lugar em participação de mercado no mercado doméstico de aspiradores de pó. De acordo com a empresa de pesquisa de mercado Euromonitor, a Roborock registrou uma participação de mercado de 14,3% no mercado doméstico de aspiradores de pó domésticos no primeiro semestre do ano. Classificada em primeiro lugar entre as grandes empresas, as vendas no varejo durante o mesmo período foram registradas em 148,8 bilhões de won. Depois dos aspiradores robóticos, a Roborock ficou em primeiro lugar no mercado de aspiradores de pó. Roborock está expandindo sua série de aspiradores de pó ‘F25’. O F25 implementa funções de sucção de poeira, limpeza com esfregão e limpeza automática em um único dispositivo e possui forte poder de sucção e tecnologia de prevenção de emaranhados de cabelo. Um funcionário da Roborock disse: “É significativo que a tecnologia e a competitividade dos produtos da Roborock estejam sendo reconhecidas no mercado de aspiradores de pó após os aspiradores robôs”, e acrescentou: “Continuaremos a fornecer uma experiência de limpeza mais conveniente e eficiente aos consumidores domésticos através do desenvolvimento de tecnologias inovadoras e produtos centrados no usuário”."
+},
+{
+"id": "60188789b8c706",
+"t": "Lightwheel detalha ambientes RoboFinals RL para treinamento de robôs de longo horizonte",
+"r": "Lightwheel detalha o treinamento de robôs de longo horizonte em simulação calibrada, com instâncias de avaliação independentes e disponibilidade de acesso antecipado.",
+"u": "https://pandaily.com/lightwheel-robofinals-rl-environments-long-horizon-robot-training",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/lightwheel_7a247f1eee.png",
+"d": "2026-11-17T22:48-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Lightwheel Details RoboFinals RL Environments for Long-Horizon Robot Training",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "Lightwheel detalha o treinamento de robôs de longo horizonte em simulação calibrada, com instâncias de avaliação independentes e disponibilidade de acesso antecipado."
 },
 {
 "id": "37e1525d80be7b",
@@ -9514,7 +9911,7 @@
 "i": "",
 "d": "2026-11-17T18:35-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场",
@@ -9522,8 +9919,29 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "f411ac5dbe0ffe",
+"t": "Um dos maiores financiamentos da indústria robótica europeia: Genesis AI concluiu US$ 500 milhões em financiamento da Série A, com uma avaliação de US$ 3,5 bilhões",
+"r": "A IT House informou em 18 de novembro que, de acordo com a Reuters, a empresa francesa de robótica geral Genesis AI concluiu agora um financiamento Série A de US$ 500 milhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 3,34 bilhões de yuans), com uma avaliação de US$ 3,5 bilhões (a taxa de câmbio…",
+"u": "https://www.ithome.com/1/028/605.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-17T21:44-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "A IT House informou em 18 de novembro que, de acordo com a Reuters, a empresa francesa de robótica geral Genesis AI concluiu agora um financiamento Série A de US$ 500 milhões (nota da IT House: a taxa de câmbio atual é de aproximadamente 3,34 bilhões de yuans), com uma avaliação de US$ 3,5 bilhões (a taxa de câmbio atual é de aproximadamente 23,38 bilhões de yuans).\nA Genesis, cofundada pelo ex-pesquisador de IA da Mistral, Théophile Gervet, é uma das empresas europeias de robótica com uma avaliação de mais de mil milhões de dólares (cerca de 6,68 mil milhões de yuan à taxa de câmbio atual) visando aplicações industriais."
 },
 {
 "id": "e4febe47c74bc1",
@@ -9547,67 +9965,10 @@
 "mx": 3
 },
 {
-"id": "f411ac5dbe0ffe",
-"t": "Um dos maiores financiamentos da indústria robótica europeia: Genesis AI concluiu US$ 500 milhões em financiamento da Série A, com uma avaliação de US$ 3,5 bilhões",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtZEdxMVppM0d4OVBOYmpVUFVRQmhiOHhGYkMwTEtiZ2hNbjY5ZEZqVUVwWUMtNDFWQ19aUTRmdFI2NVZJcUF3a2FuTFg?oc=5",
-"f": "IT之家",
-"s": "ithome.com",
-"i": "",
-"d": "2026-11-17T21:44-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "IT之家 (IThome)"
-},
-{
-"id": "c7b5b0a4ae0015",
-"t": "A Special Zone Foundation busca cooperação na comercialização de tecnologia com Odense, a base da indústria robótica da Dinamarca",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JSTgtNmlGVzRsUWhFWHBtQjBCdjkzZUdiVXVqRjc5QU5KdFRRenJjblg0Mnh1YmRMRU1fSnNzakROMnZKZGNxcWd0VHlEdw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-17T22:01-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "특구재단, 덴마크 로봇산업 거점 오덴세와 기술사업화 협력 모색",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "e1b7295c9307a2",
-"t": "Os veículos particulares podem ingressar no serviço Tesla Robotaxi para ganhar de forma independente no próximo mês? A última promessa irreal de Elon Musk",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QanJMX25IVkRUdnJjVDdqTEpIM0JXek0wZFBkT3ZyT0FZejgyM0NsOHR0TFFjazlqdFNGRk01MHhkMklzSzAxejJ0WVZIMWNVRzRR?oc=5",
-"f": "36Kr",
-"s": "eu.36kr.com",
-"i": "",
-"d": "2026-11-17T22:02-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Can Private Vehicles Join Tesla Robotaxi Service to Earn Independently Next Month? Elon Musk’s Latest Unrealistic Promise",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "36Kr"
-},
-{
 "id": "5d29d9da629e55",
 "t": "Fabricante chinesa de robótica DH-Robotics dá passo em direção a IPO",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTE9tLXZtWGF4eFpWa0NwaTdDX01Ga1ljVEwyWFN5dUpWeWtpenI0ZFV1cVRDbmpFNlZvZTdWdlhIU2JqT1JfR3ZiS0xodDVDMTAycEV2dWgxeTBXY0xHVGMwTmQwT3VfUzF6NXFsdkZBaFlnWUh1T05kNUpzQ3BNTkRXcy1yN00?oc=5",
+"u": "https://www.techinasia.com/news/chinese-robotics-maker-dhrobotics-takes-step-ipo",
 "f": "Tech in Asia",
 "s": "techinasia.com",
 "i": "",
@@ -9620,83 +9981,8 @@
 "lg": "en",
 "p": 2.2,
 "cr": 2,
-"cv": "Tech in Asia"
-},
-{
-"id": "87b0f0479b4e6c",
-"t": "Análise CoRL 2026: Quando os robôs autônomos estarão prontos para trabalhos como robotáxis?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHdGa3A4eU5TQ0NiSXJSZHZWOEdHYmkxeS1VS3U1ZHdPYUJpaU44bjU3d1RNZVNmdXJUTW55Y2dsandrbmozNzFlcWtLNzJCMWR6WXFRcGFJLTg1SERqWlZOOUdnd2xGcVZrS2RIWEpPQ2xscHU3dTFrRlpVdE9HYmtVQWxyX1dLMXZpM3BXWU9KSHoxdGRoeQ?oc=5",
-"f": "digitimes",
-"s": "digitimes.com",
-"i": "",
-"d": "2026-11-17T22:11-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "CoRL 2026 analysis: When will autonomous robots be ready for work like robotaxis?",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "DigiTimes"
-},
-{
-"id": "6204c2c9be22b1",
-"t": "'Hi Robot', apoiado pela Jeonbuk TP, desenvolve protótipo de módulo de acionamento de desvio de 200 W... Promoção de pedido de patente",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TWkxwbjNvcGxqR21MTm1LM3B2ZmtwSVJuMWVSREVOWGlGa090VEZKS2l1UmJHT0ZEUUwxZjl5SlN4SFRRbWx1Q3VUbUJDdw?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-17T22:29-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "전북TP 지원 '하이로봇', 200W급 스워브 드라이브 모듈 시제품 개발…특허 출원 추진",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "2ad2ca0e40576b",
-"t": "Roborock ocupa o primeiro lugar em participação de mercado de aspiradores de pó e esfregões, atrás dos aspiradores robôs na Coreia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RVUNpZkVfVHR2SkdxQkhXUmlPT0MtYm1KTUktY1k0cFB5WUZVNFRTX01NRmdyVGZ0LXZBVDVfcEJxLTIxbDZZQ2t1RFloUQ?oc=5",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "",
-"d": "2026-11-17T22:37-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "로보락, 韓 로봇청소기 이어 진공 물걸레 청소기 점유율 1위",
-"lg": "ko",
-"p": 2.2,
-"cr": 2,
-"cv": "ETNews"
-},
-{
-"id": "60188789b8c706",
-"t": "Lightwheel detalha ambientes RoboFinals RL para treinamento de robôs de longo horizonte",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUy1SWW5UV0Z1aEVfQnREakRfNHZYcU5FNjhOa1p4U0xWY2dqUVVlel9EbG9EelBnbEM3YjVLZ29DUDFOWG5OeWdtSHN3WC1qcmVGMWR2bTdFTV92ajhZekFpZV9QZHhZSS1vRnR1M25palZkZm5JdFYyT2Etend3VG9TakEybVJqTjQzREVXZw?oc=5",
-"f": "Pandaily",
-"s": "pandaily.com",
-"i": "",
-"d": "2026-11-17T22:48-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Lightwheel Details RoboFinals RL Environments for Long-Horizon Robot Training",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Pandaily"
+"cv": "Tech in Asia",
+"mx": 1
 },
 {
 "id": "504710ee24c8b3",
@@ -25181,7 +25467,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -31070,7 +31356,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -47157,7 +47443,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -47186,7 +47472,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
