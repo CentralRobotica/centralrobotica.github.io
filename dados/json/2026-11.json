@@ -24,26 +24,27 @@
 "rx": "A Octane baseia-se na experiência de implantação da FlytBase com mais de 20 empresas de petróleo e gás, incluindo a Shell, para ajudar os líderes do programa a transformar casos comprovados de uso de drones em programas empresariais. A FlytBase lançou hoje o Octane, uma plataforma para empresas de petróleo e gás que criam programas empresariais de drones. A Octane combina software, suporte de engenharia e recursos de implantação regional para ajudar as empresas a repetir operações bem-sucedidas de drones em locais e países.\nUm programa empresarial de drones precisa de um modelo operacional repetível que possa gerenciar esses requisitos sem reconstruir o programa para cada local ou caso de uso. Explore como a Octane ajuda as empresas de petróleo e gás a construir o modelo operacional em torno de um programa empresarial de drones em octane.flytbase.com"
 },
 {
-"id": "0229a5c07b02cf",
-"t": "Soracom lança conjunto de IA física, trazendo conectividade segura e operações remotas para robôs e máquinas autônomas",
-"r": "A suíte Soracom combina serviços de plataforma existentes para IA física, disponíveis em todo o mundo",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T11:41-03:00",
+"id": "117df98d55b953",
+"t": "BRINC Drones lança novo aplicativo iOS para melhorar a consciência situacional dos socorristas",
+"r": "O novo aplicativo móvel BRINC LiveOps oferece aos socorristas acesso instantâneo aos feeds dos drones da agência e",
+"u": "https://www.suasnews.com/2026/11/brinc-drones-launches-new-ios-app-to-improve-first-responder-situational-awareness/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/brinc-live-ops.webp?fit=600%2C338&ssl=1",
+"d": "2026-11-18T15:31-03:00",
 "c": [
-"ia"
+"drones",
+"resgate"
 ],
 "l": 1,
-"to": "Soracom Launches Physical AI Suite, Bringing Secure Connectivity and Remote Operations to Robots and Autonomous Machines",
+"to": "BRINC Drones Launches New iOS App to Improve First Responder Situational Awareness",
 "lg": "en",
 "esp": 1,
 "p": 11.6,
 "cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "SEATTLE — 18 de novembro de 2026 — Soracom, Inc. (TSE: 147A), uma plataforma IoT nativa da nuvem que fornece conectividade, integração na nuvem e serviços de IA para a Internet das Coisas, anunciou hoje o Soracom Physical AI Suite, um conjunto de serviços da plataforma Soracom combinados para conectar, proteger e gerenciar sistemas físicos de IA, como robôs, máquinas móveis autônomas e equipamentos industriais. Cada suíte reúne os serviços da plataforma Soracom comumente utilizados para um determinado tipo de implantação, organizando-os em um único sistema. Soracom Physical AI Suite organiza seus serviços em três áreas. • Conecte-se. O Soracom Physical AI Suite coloca os serviços para isso em um só lugar, e qualquer cliente pode ativá-los no console.\" Todos os serviços do pacote estão disponíveis por meio do console Soracom e da API. O Soracom Physical AI Suite já está disponível."
+"cv": "sUAS News",
+"mx": 1,
+"rx": "O novo aplicativo móvel BRINC LiveOps oferece aos socorristas acesso instantâneo a feeds de drones da agência e outros dados. A BRINC, líder em tecnologia de drones de segurança pública, anunciou hoje o aplicativo BRINC LiveOps para iOS, trazendo consciência situacional alimentada por drones diretamente aos socorristas, onde quer que estejam. O novo aplicativo dá aos usuários autorizados acesso a vídeos de drones ao vivo, operações de drones em toda a agência, condições do espaço aéreo em tempo real e muito mais, diretamente de seu iPhone ou iPad.\n\"Com o aplicativo LiveOps para iOS, estamos colocando essa inteligência diretamente nas mãos dos socorristas. À medida que as agências expandem de implantações individuais de drones para programas DFR em toda a organização, o LiveOps fornece uma camada operacional comum que conecta drones, dados, conscientização do espaço aéreo e socorristas em toda a agência."
 },
 {
 "id": "7d8fe5d4fd2cc5",
@@ -159,7 +160,9 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/pulsed-jet-rice-seeding-drone-guangzhou-paddy.webp",
 "d": "2026-11-18T13:16-03:00",
 "c": [
-"drones"
+"drones",
+"logistica",
+"agricolas"
 ],
 "l": 1,
 "to": "Chinese Drone Shoots Rice Seeds Into Mud, Lifts Yield 11% in Trial",
@@ -169,6 +172,28 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "Pesquisadores da Universidade Agrícola do Sul da China, em Guangzhou, construíram um sistema de semeadura por drones que lança arroz germinado em fileiras em um arrozal, em vez de espalhá-lo. Num ensaio de campo colhido em Novembro de 2025, as parcelas semeadas desta forma renderam 6.731 kg por hectare (cerca de 6.000 libras por acre), contra 6.040 kg das parcelas semeadas por um drone de transmissão convencional.\nO drone voou a 4,5 mph (2 m/s), 6,6 pés (2 metros) acima da lama, e atingiu suas fileiras com mais força do que o mesmo equipamento operando uma bomba comprada em loja. A solução da equipe SCAU é a velocidade: uma bomba pressuriza uma pasta de sementes e a dispara em pulsos de 10 Hz, rápido o suficiente para limitar até que ponto a lavagem empurra as sementes para fora da linha. Essa bomba movimentou 1,12 kg de chorume por segundo e quebrou 0,74% das sementes, abaixo do teto de 0,8% estabelecido pelo padrão nacional da China para a semeadura de arroz com drones."
+},
+{
+"id": "0229a5c07b02cf",
+"t": "Soracom lança conjunto de IA física, trazendo conectividade segura e operações remotas para robôs e máquinas autônomas",
+"r": "A suíte Soracom combina serviços de plataforma existentes para IA física, disponíveis em todo o mundo",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T11:41-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "Soracom Launches Physical AI Suite, Bringing Secure Connectivity and Remote Operations to Robots and Autonomous Machines",
+"lg": "en",
+"esp": 1,
+"p": 10.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9,
+"rx": "SEATTLE — 18 de novembro de 2026 — Soracom, Inc. (TSE: 147A), uma plataforma IoT nativa da nuvem que fornece conectividade, integração na nuvem e serviços de IA para a Internet das Coisas, anunciou hoje o Soracom Physical AI Suite, um conjunto de serviços da plataforma Soracom combinados para conectar, proteger e gerenciar sistemas físicos de IA, como robôs, máquinas móveis autônomas e equipamentos industriais. Cada suíte reúne os serviços da plataforma Soracom comumente utilizados para um determinado tipo de implantação, organizando-os em um único sistema. Soracom Physical AI Suite organiza seus serviços em três áreas. • Conecte-se. O Soracom Physical AI Suite coloca os serviços para isso em um só lugar, e qualquer cliente pode ativá-los no console.\" Todos os serviços do pacote estão disponíveis por meio do console Soracom e da API. O Soracom Physical AI Suite já está disponível."
 },
 {
 "id": "3c3651a6f16ff6",
@@ -356,7 +381,7 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "1e157a909446c3",
@@ -529,6 +554,35 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "A Humyn Labs, que fornece dados usados ​​para treinar robôs, levantou US$ 47 milhões em capital e dívida para expandir sua pesquisa e operações globais."
+},
+{
+"id": "7825caab168b6e",
+"t": "Projeto Jialian Yigong Robot será produzido em massa no próximo ano",
+"r": "Jialianyi (6153) deu entrevista coletiva ontem (18). A empresa afirmou que à medida que os clientes continuarem a se aproximar do campo de IA e novos projetos de aplicação de robôs entrarem em produção em massa no próximo ano, isso adicionará um novo impulso às operações. A empresa afirmou que o desempenho do lucro…",
+"u": "https://money.udn.com/money/story/5710/9887349",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"d": "2026-11-18T13:21-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "嘉聯益攻機器人 專案明年量產",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 2,
+"rx": "Jialianyi (6153) deu entrevista coletiva ontem (18). A empresa afirmou que à medida que os clientes continuarem a se aproximar do campo de IA e novos projetos de aplicação de robôs entrarem em produção em massa no próximo ano, isso adicionará um novo impulso às operações. A empresa afirmou que o desempenho do lucro bruto e do lucro operacional nos três primeiros trimestres aumentou significativamente em comparação com o mesmo período do ano passado, principalmente devido ao aumento da receita e à melhoria do mix de vendas. Novos modelos de produtos foram lançados um após o outro e a margem de lucro bruto aumentou. A terceira é a otimização da alocação de ativos e a redução das despesas de depreciação. Além disso, houve ajustes na estrutura operacional, na organização enxuta e na mão de obra, e a eficiência e a competitividade gerais melhoraram bastante.\nQuanto às aplicações relacionadas com mãos hábeis de robôs, a empresa também está cooperando com unidades de pesquisa governamentais. Atualmente, os clientes europeus e americanos estão realizando verificações de produtos e iniciaram a produção em pequena escala. Novos projetos realizados entrarão em produção em massa no próximo ano.",
+"o": [
+{
+"f": "UDN",
+"u": "https://udn.com/news/story/7252/9887349",
+"s": "udn.com",
+"id": "622a48640b8ccd"
+}
+]
 },
 {
 "id": "a0134edfb7a86c",
@@ -1036,27 +1090,6 @@
 "rx": "A proposta de uma infraestrutura compartilhada para transformar o conhecimento industrial italiano em dados e treinar robôs, evitando a importação de tecnologias e métodos de produção estrangeiros"
 },
 {
-"id": "57063d31c27f13",
-"t": "Defendendo a Infraestrutura Programável em Robótica Humanóide",
-"r": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs…",
-"u": "https://www.roboticstomorrow.com/article/2026/10/making-the-case-for-programmable-infrastructure-in-humanoid-robotics/27309",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T10:42-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "Making the Case for Programmable Infrastructure in Humanoid Robotics",
-"lg": "en",
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs humanóides modernos. O desafio que os desenvolvedores enfrentam não é apenas construir robôs humanóides mais inteligentes, mas coordenar esses sistemas cada vez mais complexos em tempo real. Em última análise, esta complexidade arquitetónica exige que os programadores adotem uma abordagem mais flexível e em camadas à infraestrutura humanóide que combine a tomada de decisões inteligente com controlo determinístico, segurança e aplicação de proteção.\nOs desenvolvedores que utilizam hardware programável para resolver esse desafio de orquestração estarão em melhor posição para mover humanóides do desenvolvimento para a implantação em todos os setores."
-},
-{
 "id": "feb9672698a557",
 "t": "",
 "r": "Se você está planejando um novo site, não está apenas escolhendo cores e fontes. Você está tomando decisões que afetam a segurança, o desempenho, a visibilidade da pesquisa e quanto controle você terá daqui a seis meses. Isso é ainda mais importante se o seu site oferece suporte a um negócio, um portfólio ou qualquer…",
@@ -1148,26 +1181,25 @@
 "rx": "O grupo de aviação geral também está pedindo à FAA uma orientação mais clara sobre se os voos VFR são cobertos durante uma parada terrestre em todo o país. A Associação de Proprietários e Pilotos de Aeronaves (AOPA) está instando o Congresso a aprovar financiamento adicional para a modernização do controle de tráfego aéreo. O apelo segue-se à parada terrestre nacional da semana passada, que interrompeu as partidas em todo o país por mais de quatro horas.\nA FAA emitiu a parada terrestre pouco antes das 16h. A interrupção ocorreu durante o que a AOPA descreveu como a maior revisão já feita do sistema ATC do país. Em 2025, o Congresso concedeu à FAA um pagamento inicial de 12,5 mil milhões de dólares para iniciar o esforço de modernização. De acordo com a AOPA, a interrupção também expôs uma lacuna na forma como a FAA se comunica com os pilotos da aviação geral durante uma parada terrestre em todo o país."
 },
 {
-"id": "3791882c0739f1",
-"t": "Hidonix Industries lança oficialmente o Hido II Rover para automatizar o mapeamento espacial interno",
-"r": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-18T11:42-03:00",
+"id": "6dc4b71e84ba7a",
+"t": "Vídeo. Robôs servem sorvete e café em centro tecnológico da China",
+"r": "Vídeo. Em Shenzhen, na China, robôs humanóides servem café e sorvete, enquanto os desenvolvedores de IA usam movimentos registrados por humanos para treinar máquinas para as tarefas diárias.",
+"u": "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub",
+"f": "Euronews.com",
+"s": "euronews.com",
+"i": "https://images.euronews.com/articles/stories/09/99/76/80/1200x675_cmsv2_fe7a7adc-9f30-5f15-a6ce-1798aa42c10a-9997680.jpg",
+"d": "2026-11-18T12:20-03:00",
 "c": [
-"espaco"
+"humanoides"
 ],
 "l": 0,
-"to": "Hidonix Industries Officially Launches Hido II Rover to Automate Indoor Spatial Mapping",
+"to": "Video. Robots serve ice cream and coffee in China's tech hub",
 "lg": "en",
-"esp": 1,
 "p": 5.6,
 "cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso. A Hidonix Industries (\"Hidonix\" ou a \"Empresa\"), uma desenvolvedora de inteligência espacial com sede nos EUA, IA centrada no ser humano e sistemas robóticos integrados, anunciou hoje o lançamento oficial do Hido II, seu rover proprietário projetado para acelerar a aquisição de dados espaciais. Apresentado pela primeira vez como um protótipo na CES 2026, o Hido II agora está sendo apresentado por meio de um programa de implantação limitado para parceiros e locais selecionados nos EUA. Desenvolvido inteiramente internamente, o rover combina mobilidade robótica avançada, navegação automatizada e tecnologia de aquisição proprietária para suportar mapeamento geomagnético para ION, a plataforma de navegação interna e externa e inteligência espacial da Hidonix."
+"cv": "Euronews",
+"mx": 1,
+"rx": "Vídeo. Em Shenzhen, na China, robôs humanóides servem café e sorvete, enquanto os desenvolvedores de IA usam movimentos registrados por humanos para treinar máquinas para as tarefas diárias."
 },
 {
 "id": "f58e782339def1",
@@ -1393,7 +1425,30 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
+},
+{
+"id": "9cdcf13b1b7c7a",
+"t": "Da escala comercial à inteligência incorporada: o próximo desafio para a robótica",
+"r": "A robótica está avançando rapidamente. Novos modelos de IA e hardware cada vez mais capaz estão expandindo o que as máquinas podem perceber, compreender e fazer, aproximando robôs mais adaptáveis ​​e de uso geral do uso prático. Mas uma maior capacidade não se traduz automaticamente numa prontidão comercial. Nos supermercados…",
+"u": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/pudurobotics-sponsored-image1-november2026.jpg",
+"d": "2026-11-18T15:00-03:00",
+"c": [
+"ia",
+"servico"
+],
+"l": 0,
+"to": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "O portfólio refletiu uma direção estratégica mais ampla: conectar a experiência da empresa em robótica comercial com seu trabalho em expansão em inteligência incorporada por meio de One Brain, Multiple Embodiments. Para a indústria robótica, isto realça uma relação importante entre dois desenvolvimentos muitas vezes considerados separadamente: a experiência de implementação de robôs especializados em escala e a procura de uma inteligência mais adaptável em diferentes máquinas.\nA Pudu Robotics, líder global em robótica comercial, já enviou mais de 130.000 robôs para mais de 85 países e regiões, atendendo a mais de 50.000 clientes em mais de 1.000 cidades. Ao combinar capacidades comprovadas de engenharia e comercialização com avanços na inteligência incorporada, a Pudu está trabalhando para estender a robótica a mais formas, tarefas e ambientes."
 },
 {
 "id": "cf6f5eb947fd0f",
@@ -1413,9 +1468,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Il Sole 24 Ore",
-"cur": 1,
 "mx": 1,
-"rx": "Em Shenzhen, o centro tecnológico chinês, 151 robôs humanóides estabeleceram ontem o Recorde Mundial do Guinness para o maior número de robôs humanóides..."
+"rx": "Em Shenzhen, o centro tecnológico chinês, 151 robôs humanóides estabeleceram ontem o Recorde Mundial do Guinness para o maior número de robôs humanóides...",
+"cur": 1
 },
 {
 "id": "0338cd0f504de9",
@@ -1529,6 +1584,95 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "A Flexlink da Suécia projetou uma paletizadora robótica que equilibra segurança e rendimento, informou a Automated Warehouse no dia 13 (horário local). Nas instalações de produção, o espaço físico é muito limitado."
+},
+{
+"id": "7ab2acfbea7407",
+"t": "Seasats expande capacidades de ataque Quickfish com Altius da Anduril",
+"r": "A Seasats anunciou hoje a integração e o lançamento bem-sucedidos da munição ociosa Altius-600M da Anduril Industries de",
+"u": "https://www.suasnews.com/2026/11/seasats-expands-quickfish-strike-capabilities-with-andurils-altius/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/12/altius-700.jpg?fit=1200%2C797&ssl=1",
+"d": "2026-11-18T15:28-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Seasats Expands Quickfish Strike Capabilities with Anduril’s Altius",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "A Seasats anunciou hoje a integração e o lançamento bem-sucedidos da munição de vadiagem Altius-600M da Anduril Industries da Quickfish, a embarcação de superfície não tripulada (USV) de resposta rápida da empresa. A integração equipa o Quickfish com capacidade de ataque de longo alcance contra alvos marítimos de alto nível. A integração do Altius amplia o alcance de ataque do Quickfish e permite combates contra plataformas marítimas de ponta, aumentando o impacto operacional potencial de cada embarcação.\nAltius-600M apoia missões de ataque marítimo contra alvos de superfície maiores. Altius é a família de veículos aéreos autônomos da Anduril projetados para lançamento a partir de plataformas aéreas, terrestres e marítimas, com configurações de apoio à inteligência, vigilância e reconhecimento, guerra eletrônica e ataque."
+},
+{
+"id": "f712317b2e5541",
+"t": "O robô macio mais rápido já construído não precisa de eletrônicos para funcionar",
+"r": "O robô mais rápido feito inteiramente de materiais macios pode atingir velocidades de até 4,72 metros – um pouco mais de 5 jardas – por segundo, mostraram engenheiros da Universidade da Califórnia em San Diego. O robô de seis pernas pode funcionar em uma ampla variedade de terrenos, desde areia até cobertura morta e concreto. Ele também pode nadar na água e…",
+"u": "https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html",
+"f": "Tech Xplore",
+"s": "techxplore.com",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fastest-soft-robot.jpg",
+"d": "2026-11-18T16:00-03:00",
+"c": [
+"ia",
+"microrrobos",
+"construcao"
+],
+"l": 0,
+"to": "The fastest soft robot ever built doesn't need electronics to function",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Tech Xplore",
+"mx": 1
+},
+{
+"id": "ed7c50a30b4f87",
+"t": "Robô voador leve carrega seus próprios sensores e computadores",
+"r": "Na última década, os pesquisadores do MIT desenvolveram microrobôs aéreos com velocidade, agilidade e durabilidade semelhantes às de uma abelha, para tarefas como agricultura de precisão ou busca e salvamento. Mas esses microrobôs leves não conseguiam transportar os componentes eletrônicos necessários para a navegação, forçando-os a permanecer conectados a um…",
+"u": "https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html",
+"f": "Tech Xplore",
+"s": "techxplore.com",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-featherweight-fly.jpg",
+"d": "2026-11-18T16:00-03:00",
+"c": [
+"agricolas",
+"resgate"
+],
+"l": 0,
+"to": "Featherweight flying robot carries its own sensors and computers",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Tech Xplore",
+"mx": 1
+},
+{
+"id": "1b8af947409d70",
+"t": "PIX Moving anuncia seis parcerias para ampliar a mobilidade autônoma em todo o mundo",
+"r": "A PIX Moving, empresa de mobilidade urbana autônoma, anunciou “seis novas parcerias estratégicas e iniciativas de colaboração”, que foram reveladas durante o Salão Automóvel de Paris de 2026. As colaborações com One-Board, Comobi, NIT Institute, CaiiTech, uma operadora francesa de mobilidade autônoma, e uma colaboração tripartida…",
+"u": "https://roboticsandautomationnews.com/2026/11/18/pix-moving-announces-six-partnerships-to-expand-autonomous-mobility-worldwide/107300/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/pix-moving-image-1.jpg",
+"d": "2026-11-18T16:16-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "PIX Moving announces six partnerships to expand autonomous mobility worldwide",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A PIX Moving, empresa de mobilidade urbana autônoma, anunciou “seis novas parcerias estratégicas e iniciativas de colaboração”, que foram reveladas durante o Salão Automóvel de Paris de 2026. As colaborações com One-Board, Comobi, NIT Institute, CaiiTech, uma operadora francesa de mobilidade autônoma, e uma colaboração tripartida envolvendo a Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) e a Move Robotic expandem a rede global de parceiros da PIX Moving e abrem novos caminhos para trazer soluções de mobilidade autônoma desde o desenvolvimento e teste para uso no mundo real.\nAngelo (Chuan) Yu, fundador e CEO da PIX Moving, afirma: “Transformar a tecnologia de veículos autônomos em serviços de mobilidade práticos requer forte conhecimento local, capacidades de engenharia e suporte operacional."
 },
 {
 "id": "dac23e675673ac",
@@ -2265,30 +2409,9 @@
 "p": 4.8,
 "cr": 3,
 "cv": "La Vanguardia",
-"cur": 1,
 "mx": 1,
-"rx": "O Hospital Bellvitge (Barcelona) realizou a primeira intervenção completa do mundo com um novo sistema robótico de microcirurgia que permite realizar operações em minúsculas estruturas anatômicas que normalmente teriam que ser feitas com um microscópio. A operação realizada na semana passada tratou o linfedema (inflamação devido ao acúmulo de líquido linfático) por meio de uma ‘anastomose linfático-venosa’, que tenta conectar os pequenos vasos linfáticos obstruídos com veias superficiais próximas para que a linfa estagnada possa circular novamente.\nA tecnologia baseada em energia permite ao robô suturar, dissecar tecidos e coagular pequenos vasos linfáticos durante a operação."
-},
-{
-"id": "6dc4b71e84ba7a",
-"t": "Vídeo. Robôs servem sorvete e café em centro tecnológico da China",
-"r": "Vídeo. Em Shenzhen, na China, robôs humanóides servem café e sorvete, enquanto os desenvolvedores de IA usam movimentos registrados por humanos para treinar máquinas para as tarefas diárias.",
-"u": "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub",
-"f": "Euronews.com",
-"s": "euronews.com",
-"i": "https://images.euronews.com/articles/stories/09/99/76/80/1200x675_cmsv2_fe7a7adc-9f30-5f15-a6ce-1798aa42c10a-9997680.jpg",
-"d": "2026-11-18T12:20-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Video. Robots serve ice cream and coffee in China's tech hub",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Euronews",
-"mx": 1,
-"rx": "Vídeo. Em Shenzhen, na China, robôs humanóides servem café e sorvete, enquanto os desenvolvedores de IA usam movimentos registrados por humanos para treinar máquinas para as tarefas diárias."
+"rx": "O Hospital Bellvitge (Barcelona) realizou a primeira intervenção completa do mundo com um novo sistema robótico de microcirurgia que permite realizar operações em minúsculas estruturas anatômicas que normalmente teriam que ser feitas com um microscópio. A operação realizada na semana passada tratou o linfedema (inflamação devido ao acúmulo de líquido linfático) por meio de uma ‘anastomose linfático-venosa’, que tenta conectar os pequenos vasos linfáticos obstruídos com veias superficiais próximas para que a linfa estagnada possa circular novamente.\nA tecnologia baseada em energia permite ao robô suturar, dissecar tecidos e coagular pequenos vasos linfáticos durante a operação.",
+"cur": 1
 },
 {
 "id": "c0dd56c5fe412d",
@@ -2297,10 +2420,10 @@
 "u": "https://www.chosun.com/economy/tech_it/2026/11/19/VDJMWA6HJZA4RJSJKARYIUFFGE/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/O66J7YYS7FGB5B7RYZLCD6OJTY.jpg?auth=10dee1b673c5927fe01413862bf30b0b7fb3974769b267eeb98ad322c059213c&width=920&height=483&focal=527,258",
+"i": "",
 "d": "2026-11-18T12:34-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "모자 바꾸면 역할 달라져… 로봇 한 대면 되겠네",
@@ -2308,7 +2431,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "A tecnologia para mudar o papel e a personalidade de um robô, substituindo seus chapéus, roupas ou ferramentas de trabalho, está se espalhando. O robô reconhece automaticamente a função através da etiqueta integrada, que é uma abordagem eficiente voltada para a era dos robôs N-jobber, onde um único robô pode realizar várias tarefas sem programação separada."
 },
 {
@@ -2365,7 +2488,8 @@
 "c": [
 "drones",
 "negocios",
-"industriais"
+"industriais",
+"defesa"
 ],
 "l": 0,
 "to": "Sentinel AMS and Phillips Federal announce strategic partnership to bring deployable drone manufacturing to U.S. armed forces",
@@ -2407,7 +2531,8 @@
 "i": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3898893018112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=260ceb31ca1d32fcb23cae6326fec678",
 "d": "2026-11-18T14:00-03:00",
 "c": [
-"espaco"
+"espaco",
+"negocios"
 ],
 "l": 0,
 "to": "中国・弦引未来、人工衛星の燃料補給・修理をソフトロボットで",
@@ -2438,6 +2563,27 @@
 "cv": "Le Figaro",
 "mx": 1,
 "rx": "DESCRIÇÃO – Veículos da subsidiária Alphabet estiveram envolvidos em uma série de incidentes na Califórnia nos últimos meses. A subsidiária da Alphabet (dona do Google), pioneira e líder mundial em táxis-robôs com uma frota de 2.500 veículos e quase meio milhão de viagens por semana, planeja lançar no próximo ano em Londres, Munique e Tóquio. O Departamento de Veículos Motorizados da Califórnia (DMV) proibiu na terça-feira a operação de seus carros autônomos nas rodovias da Califórnia, após uma série de incidentes em zonas de construção. “O departamento determinou que as operações rodoviárias sem motorista da Waymo representam uma ameaça iminente à segurança pública”, disse ele."
+},
+{
+"id": "8e9cb141eae6d2",
+"t": "Em Shenzhen, a China treina seus robôs para incorporá-los ao mercado de trabalho",
+"r": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência…",
+"u": "https://www.clarin.com/mundo/shenzhen-china-entrena-robots-incorporarlos-mercado-laboral_0_XkpocGOyCI.html",
+"f": "Clarin.com",
+"s": "clarin.com",
+"i": "https://www.clarin.com/img/2026/11/18/733GtuQRE_2000x1500__1.jpg",
+"d": "2026-11-18T15:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "En Shenzhen, China entrena a sus robots para incorporarlos al mercado laboral",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Clarín",
+"mx": 1,
+"rx": "Numa barraca de comida num parque em Shenzhen, capital tecnológica da China, um robô humanoide pega um copo e aciona uma alavanca para formar uma espiral de sorvete, antes de entregar o pedido ao cliente. Os robôs chineses são conhecidos pelas suas danças espetaculares, mas engenheiros especializados em inteligência artificial estão a trabalhar para que possam entrar no mercado de trabalho.\nOs movimentos de ambos os robôs são controlados por um modelo de inteligência artificial, segundo seu fabricante, AI² Robotics, embora um ser humano deva reabastecer regularmente os grãos de café e esvaziar o pó da cafeteira. O Strange Attractor registra e processa seus movimentos para vender os dados a empresas que desenvolvem modelos de inteligência artificial destinados a controlar robôs."
 },
 {
 "id": "eed862bfac65b2",
@@ -2548,6 +2694,49 @@
 "mx": 9
 },
 {
+"id": "57063d31c27f13",
+"t": "Defendendo a Infraestrutura Programável em Robótica Humanóide",
+"r": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs…",
+"u": "https://www.roboticstomorrow.com/article/2026/10/making-the-case-for-programmable-infrastructure-in-humanoid-robotics/27309",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T10:42-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Making the Case for Programmable Infrastructure in Humanoid Robotics",
+"lg": "en",
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9,
+"rx": "Os humanóides modernos são sistemas multiprocessadores cada vez mais complexos que devem equilibrar desempenho, confiabilidade, adaptabilidade, segurança e longevidade operacional. Os avanços na inteligência artificial (IA), na tecnologia de sensores e no design robótico geral aceleraram a implantação de robôs humanóides modernos. O desafio que os desenvolvedores enfrentam não é apenas construir robôs humanóides mais inteligentes, mas coordenar esses sistemas cada vez mais complexos em tempo real. Em última análise, esta complexidade arquitetónica exige que os programadores adotem uma abordagem mais flexível e em camadas à infraestrutura humanóide que combine a tomada de decisões inteligente com controlo determinístico, segurança e aplicação de proteção.\nOs desenvolvedores que utilizam hardware programável para resolver esse desafio de orquestração estarão em melhor posição para mover humanóides do desenvolvimento para a implantação em todos os setores."
+},
+{
+"id": "3791882c0739f1",
+"t": "Hidonix Industries lança oficialmente o Hido II Rover para automatizar o mapeamento espacial interno",
+"r": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-18T11:42-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "Hidonix Industries Officially Launches Hido II Rover to Automate Indoor Spatial Mapping",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9,
+"rx": "Após sua estreia na CES 2026, o Hido II entra no mercado por meio de um programa de implantação limitado para parceiros selecionados, projetado para fornecer mapeamento interno mais rápido e preciso. A Hidonix Industries (\"Hidonix\" ou a \"Empresa\"), uma desenvolvedora de inteligência espacial com sede nos EUA, IA centrada no ser humano e sistemas robóticos integrados, anunciou hoje o lançamento oficial do Hido II, seu rover proprietário projetado para acelerar a aquisição de dados espaciais. Apresentado pela primeira vez como um protótipo na CES 2026, o Hido II agora está sendo apresentado por meio de um programa de implantação limitado para parceiros e locais selecionados nos EUA. Desenvolvido inteiramente internamente, o rover combina mobilidade robótica avançada, navegação automatizada e tecnologia de aquisição proprietária para suportar mapeamento geomagnético para ION, a plataforma de navegação interna e externa e inteligência espacial da Hidonix."
+},
+{
 "id": "ac722532635ca3",
 "t": "Bem-vindo, Rho alfa!",
 "r": "Rho alpha é o primeiro modelo de base robótica da Microsoft Research, anunciado em 21 de janeiro de 2026. Ele pertence à camada de software da robótica, em vez de representar um robô físico ou um sistema mecânico independente. O projeto surge da família Phi da Microsoft de modelos de IA pequenos e eficientes e de locais que…",
@@ -2566,7 +2755,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 2,
+"mx": 3,
 "rx": "Rho alpha é o primeiro modelo de base robótica da Microsoft Research, anunciado em 21 de janeiro de 2026. Ele pertence à camada de software da robótica, em vez de representar um robô físico ou um sistema mecânico independente. O projeto surge da família Phi de modelos de IA pequenos e eficientes da Microsoft e coloca essa linhagem de pesquisa em um programa de desenvolvimento de robótica. Rho alpha se enquadra na crescente categoria de modelos básicos destinados à pesquisa robótica.\nPara as equipes técnicas, Rho alpha pertence às discussões sobre a base de software dos projetos de robótica, e não às comparações de hardware do robô. Para as organizações que seguem modelos básicos de robótica, seu significado mais amplo reside no fato de a Microsoft Research estabelecer seu primeiro modelo nesta categoria e estender a linhagem de pesquisa Phi para uma nova área de aplicação."
 },
 {
@@ -2825,27 +3014,6 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "Outro tema desta semana são as startups construindo infraestrutura, desde uma empresa que lançou um produto de organização de dados até outra que vende tecnologia de reconhecimento espacial independente de hardware e muito mais. O bot de duas rodas da empresa, Eno, ainda está em desenvolvimento, enquanto a empresa anuncia uma enorme rodada da Série A de US$ 500 milhões, co-liderada por Premji Invest, Khosla Ventures e Eclipse.\nA empresa anunciou US$ 30 milhões em financiamento em uma rodada de pré-lançamento liderada por Costanoa e uma rodada de lançamento liderada por Kleiner Perkins. Falando no setor de defesa, a SE3 também arrecadou US$ 30 milhões, mas por meio de uma rodada da Série A liderada pela Accel. A startup alemã está construindo um software de reconhecimento espacial, uma tecnologia comum para sistemas autônomos compreenderem o que os rodeia.\nUma startup de software de construção que ajuda robôs com consciência espacial, uma empresa que constrói uma máquina robótica de manicure e outra"
-},
-{
-"id": "7825caab168b6e",
-"t": "Projeto Jialian Yigong Robot será produzido em massa no próximo ano",
-"r": "Jialianyi (6153) deu entrevista coletiva ontem (18). A empresa afirmou que à medida que os clientes continuarem a se aproximar do campo de IA e novos projetos de aplicação de robôs entrarem em produção em massa no próximo ano, isso adicionará um novo impulso às operações. A empresa afirmou que o desempenho do lucro…",
-"u": "https://money.udn.com/money/story/5710/9887349",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-18T13:21-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "嘉聯益攻機器人 專案明年量產",
-"lg": "en",
-"p": 3.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 1,
-"rx": "Jialianyi (6153) deu entrevista coletiva ontem (18). A empresa afirmou que à medida que os clientes continuarem a se aproximar do campo de IA e novos projetos de aplicação de robôs entrarem em produção em massa no próximo ano, isso adicionará um novo impulso às operações. A empresa afirmou que o desempenho do lucro bruto e do lucro operacional nos três primeiros trimestres aumentou significativamente em comparação com o mesmo período do ano passado, principalmente devido ao aumento da receita e à melhoria do mix de vendas. Novos modelos de produtos foram lançados um após o outro e a margem de lucro bruto aumentou. A terceira é a otimização da alocação de ativos e a redução das despesas de depreciação. Além disso, houve ajustes na estrutura operacional, na organização enxuta e na mão de obra, e a eficiência e a competitividade gerais melhoraram bastante.\nQuanto às aplicações relacionadas com mãos hábeis de robôs, a empresa também está cooperando com unidades de pesquisa governamentais. Atualmente, os clientes europeus e americanos estão realizando verificações de produtos e iniciaram a produção em pequena escala. Novos projetos realizados entrarão em produção em massa no próximo ano."
 },
 {
 "id": "ede72a2281e459",
@@ -3278,6 +3446,49 @@
 "rx": "Sopa cremosa de abóbora, massa de brioche, risoto que se mexe: o Monsieur Cuisine é o robô de cozinha que o Lidl vende sob a sua marca própria Silvercrest. Sua versão Smart Black Edition, conectada ao Wi-Fi, cai de preço. Para a Black Friday, o Lidl apresenta o seu robô de cozinha por 399 euros em vez de 549 euros, ou 150 euros menos. Um processador de alimentos aquece e mistura na mesma tigela.\nCom um desconto de 150€, o robô perde pouco mais de um quarto do seu preço e cai abaixo dos 400€. Este é um preço muito bom para um aparelho que substitui o liquidificador, a balança de cozinha e a panela a vapor. Se cozinha frequentemente em casa, os 150€ poupados vão mais do que cobrir as primeiras compras para grandes refeições de fim de ano."
 },
 {
+"id": "3ff1da7368e553",
+"t": "",
+"r": "Em Munique, clientes selecionados da Uber podem viajar num robotáxi autónomo pela primeira vez – inicialmente com pessoal de segurança a bordo. Na corrida pelos táxis autónomos na Alemanha, duas regiões – Munique e Berlim – estão envolvidas numa competição emocionante. Enquanto o fabricante norte-americano de carros…",
+"u": "https://t3n.de/news/robotaxi-premiere-in-muenchen-so-kommst-du-jetzt-in-ein-selbstfahrendes-uber-1774184/",
+"f": "t3n",
+"s": "t3n.de",
+"i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/uber-robotaxi.jpg?class=content",
+"d": "2026-11-18T12:00-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Robotaxi-Premiere in München: So kommst du jetzt in ein selbstfahrendes Uber",
+"lg": "?",
+"p": 3.5,
+"cr": 2,
+"cv": "t3n",
+"mx": 1,
+"rx": "Em Munique, clientes selecionados da Uber podem viajar num robotáxi autónomo pela primeira vez – inicialmente com pessoal de segurança a bordo. Na corrida pelos táxis autónomos na Alemanha, duas regiões – Munique e Berlim – estão envolvidas numa competição emocionante. Enquanto o fabricante norte-americano de carros eléctricos Tesla pretende construir uma fábrica de mil milhões de dólares para futuros robotáxis nos arredores de Berlim, frotas de teste já estão a circular no trânsito da cidade da capital bávara: hoje, a empresa de transporte de passageiros Uber e o especialista chinês em IA Momenta iniciaram um projecto-piloto conjunto para viagens autónomas em Munique.\nOs passageiros em Munique agora podem ser adicionados a uma lista de interessados ​​através do aplicativo Uber."
+},
+{
+"id": "7c9cf20e11038f",
+"t": "Botsync levanta US$ 11 milhões para conectar robôs e máquinas em fábricas",
+"r": "A startup de robótica Botsync levantou US$ 11 milhões em uma rodada liderada pela IvyCap Ventures, elevando seu financiamento total para mais de US$ 20 milhões. O software Botsync permite que os fabricantes coordenem robôs de diferentes fornecedores junto com as máquinas existentes, ajudando-os a automatizar mais o…",
+"u": "https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/",
+"f": "Inc42",
+"s": "inc42.com",
+"i": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/File-3.jpg",
+"d": "2026-11-18T12:25-03:00",
+"c": [
+"industriais",
+"negocios"
+],
+"l": 0,
+"to": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Inc42",
+"mx": 1,
+"rx": "A startup de robótica Botsync levantou US$ 11 milhões em uma rodada liderada pela IvyCap Ventures, elevando seu financiamento total para mais de US$ 20 milhões. O software Botsync permite que os fabricantes coordenem robôs de diferentes fornecedores junto com as máquinas existentes, ajudando-os a automatizar mais o chão de fábrica sem substituir equipamentos. A Botsync planeja adicionar manutenção preditiva e outros recursos de IA ao SyncOS, melhorar seus robôs móveis e expandir sua equipe na Índia para oferecer suporte a implantações globalmente.\nA Botsync, startup de robótica com sede em Cingapura, levantou US$ 11 milhões (cerca de ₹ 103 bilhões) em uma rodada de financiamento liderada pela IvyCap Ventures para atualizar seu software de automação de fábrica e robôs móveis. A maior parte do novo capital irá para a atualização dos robôs móveis MAG da Botsync e para a adição de recursos de IA ao SyncOS, seu software para coordenação de robôs e outros equipamentos de fábrica."
+},
+{
 "id": "2e68969c927558",
 "t": "Waymo impediu que seus robotáxis circulassem na rodovia – aqui está o porquê",
 "r": "A Waymo está atualmente restringindo sua frota de robotáxis às ruas de superfície depois de entrar em apuros com a Califórnia por causa do comportamento de direção de seus carros nas rodovias. Especificamente, o software tende a entrar em zonas de construção em alta velocidade. Conforme relatado pela primeira vez pelo San Francisco Business Times, esse comportamento na verdade…",
@@ -3316,7 +3527,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
+"mx": 2
 },
 {
 "id": "9b7ace255a0f39",
@@ -3569,45 +3780,6 @@
 "cr": 2,
 "cv": "KrASIA",
 "mx": 3
-},
-{
-"id": "3ff1da7368e553",
-"t": "",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0xqeVVrMnd6R2JIS0hGRXU4aHEzdGF6VGRwdGlMZ2Z4OFRSdV9IeXhiTWhwNUNOenNlbVc0UHRLemJLcGZoZnphbHc0dkFneFphdFNCRFo5dmdPd05IOU9vbFBWSTg2aHAyTEhSX1gwMS1pejFLdlRLOGJWbE9NMEVCZjkwS3JGTDJYcEpKVU1rV3RWWDRJVWw0eHg5MWlWQ0t3T1BvUHA?oc=5",
-"f": "t3n",
-"s": "t3n.de",
-"i": "",
-"d": "2026-11-18T12:00-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Robotaxi-Premiere in München: So kommst du jetzt in ein selbstfahrendes Uber",
-"lg": "?",
-"p": 2.2,
-"cr": 2,
-"cv": "t3n"
-},
-{
-"id": "7c9cf20e11038f",
-"t": "Botsync levanta US$ 11 milhões para conectar robôs e máquinas em fábricas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVllzQ0EwbVNmbkdPVU00NGNIQzRZaEVJeFA5T29kZTlrY2FxQl85OEZ5VnNOeDhaa2NCbzhkUklDTWFIYnJNZEx6aUF6QzY3cWhYbzBrXzJNcGowbC03MjdhbEJLcURaUHVQRjdQNkdOWnp6LVltU1dqU0FzZlZDMXlocWJYZ21Ja0cwd29jUU11blBRR1VXRw?oc=5",
-"f": "Inc42",
-"s": "inc42.com",
-"i": "",
-"d": "2026-11-18T12:25-03:00",
-"c": [
-"industriais",
-"negocios"
-],
-"l": 0,
-"to": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Inc42"
 }
 ],
 "2026-11-17": [
@@ -3849,6 +4021,53 @@
 "mx": 1,
 "rx": "A Black Friday começou bem no Roborock! Aproveite descontos até 500 euros numa seleção de aspiradores robotizados de alto desempenho para simplificar a sua casa e encontrar pavimentos impecáveis ​​sem esforço. A Black Friday Roborock é o momento perfeito para investir num aspirador robô, a um preço imbatível. Para simplificar a sua pesquisa, aqui estão 2 robôs aspiradores Roborock que já conquistaram milhares de lares e que encontrarão facilmente um lugar na sua casa.\nPara a Black Friday, o Qrevo S Pro Set vai para 299,99 euros em vez de 599 euros na Amazon e no site oficial. Clique aqui para aproveitar a oferta da Amazon no aspirador robô Roborock Qrevo S Pro Set. Confie a manutenção dos seus pisos inteiramente ao robô Roborock Saros 20 Set.",
 "cur": 1
+},
+{
+"id": "5d88c2009fb0b0",
+"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
+"r": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus…",
+"u": "https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
+"f": "CNA",
+"s": "channelnewsasia.com",
+"i": "https://dam.mediacorp.sg/image/upload/s--yMi6jOI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T111844Z_1_LYNXNPEMAG0Z9_RTROPTP_3_GM-BRIGHTDROP-CANADA.JPG?itok=pnz9yXeX",
+"d": "2026-11-17T08:13-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "CNA (Singapura)",
+"o": [
+{
+"f": "Reuters",
+"u": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
+"s": "reuters.com",
+"id": "b7842a43384090"
+},
+{
+"f": "ET CIO",
+"u": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/gm-plans-20-boost-in-robotics-as-factory-costs-rise/135922582",
+"s": "cio.economictimes.indiatimes.com",
+"id": "085e1d369741cd"
+},
+{
+"f": "ET Auto",
+"u": "https://auto.economictimes.indiatimes.com/news/auto-technology/exclusive-gm-plans-20-boost-in-robotics-as-factory-costs-rise/135966488",
+"s": "auto.economictimes.indiatimes.com",
+"id": "95374a8ec4e404"
+},
+{
+"f": "ETHRWorld.com",
+"u": "https://hr.economictimes.indiatimes.com/news/talent-acquisition-management/gm-plans-20-boost-in-robotics-as-factory-costs-rise/135969110?utm_source=portal_category_widget&utm_medium=homepage",
+"s": "hr.economictimes.indiatimes.com",
+"id": "35ed980e496aba"
+}
+],
+"mx": 1,
+"rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
 },
 {
 "id": "05b00bd9255a62",
@@ -4096,58 +4315,17 @@
 "o": [
 {
 "f": "조선일보",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamt2VmhiaFlBdjNfSGcyX01zQ2hld1RUaVp2RmJhTUM3LXo4VnhiV1hrOV8xaTRzM2l3NHVaUFBOdE85c25TclBzZkc2VEZjbkpLSmdESEd6djgwMU5ndG5DUW9qTk9weTlxNy1COG1jU1pFTmVwUGs4Sk5lTzRpeXZfVUVrNFc0?oc=5",
+"u": "https://www.chosun.com/english/industry-en/2026/11/18/N5M2BM7GR5BBXPADHDF7WGTIN4/",
 "s": "chosun.com",
 "id": "0921787af12942"
 },
 {
 "f": "IT조선",
-"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMEJkelBaNmhOWW1DMWdNbUdKN1dEUHlUUlRVVi1IQmZ5OXZEalBCWnlxSGpseTdXcnRxRGNyeUdJYVVzTkFoMlVEOUN4aDUya0tlMEwxS2pPZ1JBS05rMGR1VV9zSF9XcFYwQjBwZXHSAXRBVV95cUxPcktDd1NHLWtUemQ2T2x3N1VDQXdOcGtOcGtaMk96ZzM3Tmx6bXU5MnljQTdzdU9ieXBWUEc3dVlFbGZUcDFhRzBSNm1hQlhod0FqakZxdGI4X0pVQnM2SkFTUTNQLUkwVS10eWItYm0wOHlzQg?oc=5",
+"u": "https://it.chosun.com/news/articleView.html?idxno=3000000001342",
 "s": "it.chosun.com",
 "id": "b94a052d8864ae"
 }
 ]
-},
-{
-"id": "5d88c2009fb0b0",
-"t": "GM exclusiva planeja aumento de 20% em robótica à medida que os custos de fábrica aumentam",
-"r": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus…",
-"u": "https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
-"f": "CNA",
-"s": "channelnewsasia.com",
-"i": "https://dam.mediacorp.sg/image/upload/s--yMi6jOI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T111844Z_1_LYNXNPEMAG0Z9_RTROPTP_3_GM-BRIGHTDROP-CANADA.JPG?itok=pnz9yXeX",
-"d": "2026-11-17T08:13-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-"lg": "en",
-"p": 9.3,
-"cr": 3,
-"cv": "CNA (Singapura)",
-"o": [
-{
-"f": "Reuters",
-"u": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
-"s": "reuters.com",
-"id": "b7842a43384090"
-},
-{
-"f": "ET CIO",
-"u": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/gm-plans-20-boost-in-robotics-as-factory-costs-rise/135922582",
-"s": "cio.economictimes.indiatimes.com",
-"id": "085e1d369741cd"
-},
-{
-"f": "ET Auto",
-"u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVMzRGpzdTVSS3NGdVdaMHljX21LNTFKRjlRSnIzMHFwUkhCT1JxdWZGU2lFc1FnYmR0ZUVIMkpVZ1kwSk5EWGlTcWtkQVJLdGR5Q2ZpOXp4WHEtZTAtc0JUWlJ0d0pzZTZNcmJGeDhEbTZXLXYzZ1BnTENCaXAzTzVMeXU2WjlXMHVLX2xUSHpIQzkwdGhuU1JqbmtmWEM4cnNobmY1QmlPTy12Sk9reHQycHRONkNGcmU1a05Sb2pMem5sdmdpSTVQQS1WcVXSAdMBQVVfeXFMTjgyVXhSTnFqa0RXUzV5TUFibm1faW5JYVV5NHhQUXhIenN4MFQ5c1Y0MHA2UTU2U3NZZDV5MjhFOFJJbTZPQXBGWkwxamxDbi1BSXhOU3BqZ2hickxBdVVoRjdnTzl5czNQYnpqS2tyYmhhVElFOXFkTjdwczNVbTZrajBfYjR2NkxDZW1zOEhnMnpMbWtha3pYNGZFM0ZXdk1TM2pZanlMeDNKbVpLYXZqb042RndNNkt4Z01RRzhERWh2aTd3eWYzY2VzSDktWEZyOA?oc=5",
-"s": "auto.economictimes.indiatimes.com",
-"id": "95374a8ec4e404"
-}
-],
-"mx": 1,
-"rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
 },
 {
 "id": "7e42e8723b661f",
@@ -4270,7 +4448,7 @@
 },
 {
 "f": "WSJ",
-"u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjZYT0NJOTQ0cFNycUFXRjNPeC1mVjFOeXZUYi1zVng0S1JkUmcxZGNtS1huZFJ1dkxfNDR2czBrSXNROEh1cGFsdkVvcWlobTlzOGphLUt3YzlxLW5TYTEtbzhiSFZtNDFKRGZpNEJmNXR4ZzJfOWVJQXJuTExnVDhhTldoZzhkS09NN2FIVzVjUkRjdXoteEVYLUJiLTVl?oc=5",
+"u": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad",
 "s": "wsj.com",
 "id": "f371cd463df2a1"
 }
@@ -5637,7 +5815,7 @@
 "o": [
 {
 "f": "こどもとIT",
-"u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sRm4zQnV5YXlGT18waTViWlZfaVI4MnBYVnB1X01leW9GRmVuQWtUUlQ0d1g5MHhLaklabnc4RDBnS05jeE5qeXM4ZG5VdjctdkZwdDVhUTE4X1IwTXdUQTVySEU?oc=5",
+"u": "https://edu.watch.impress.co.jp/docs/news/2157381.html",
 "s": "edu.watch.impress.co.jp",
 "id": "0257f206a5b2c6"
 }
@@ -5702,6 +5880,35 @@
 "id": "25272390f16c7a"
 }
 ]
+},
+{
+"id": "63a63698b0d52c",
+"t": "As empresas de GPU estão competindo para fabricar chips robóticos. Por que os fabricantes de máquinas ainda querem fabricar as suas próprias? -36 criptônio",
+"r": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro…",
+"u": "https://www.36kr.com/p/4074892228335236",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261118/v2_d32d23a0a3224f55bc5bc8eae13ef111@46958@ai_oswg755267oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-17T15:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
+"lg": "zh",
+"p": 5.0,
+"cr": 2,
+"cv": "36Kr",
+"o": [
+{
+"f": "36氪",
+"u": "https://m.36kr.com/p/4074892228335236",
+"s": "m.36kr.com",
+"id": "03b44897544a42"
+}
+],
+"mx": 1,
+"rx": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro produto é voltado para a computação final de robôs. A empresa de inteligência incorporada Galaxy General Motors assinou um contrato com o fabricante de chips automotivos Xinchi Technology em novembro de 2025 para desenvolver em conjunto chips robóticos de próxima geração.\nAs empresas que produzem carros e robôs ao mesmo tempo estão bem posicionadas para alocar custos de pesquisa e desenvolvimento de chips aos dois tipos de produtos. Para empresas de inteligência incorporada que dependem principalmente de remessas de robôs para compartilhar custos de pesquisa e desenvolvimento, fabricar um chip que atenda às necessidades de toda a máquina é um problema de engenharia que pode ser resolvido por meio de investimentos contínuos."
 },
 {
 "id": "59ffe3e93b92fd",
@@ -7108,7 +7315,7 @@
 "u": "https://www.chosun.com/economy/tech_it/2026/11/18/4WNE7LOXCNBGBG2QRPCBX6AAVY/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/O66J7YYS7FGB5B7RYZLCD6OJTY.jpg?auth=10dee1b673c5927fe01413862bf30b0b7fb3974769b267eeb98ad322c059213c&width=920&height=483&focal=527,258",
+"i": "",
 "d": "2026-11-17T18:03-03:00",
 "c": [
 "geral"
@@ -7119,7 +7326,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "Surgiu uma tecnologia que muda instantaneamente a personalidade e o papel de um robô, vestindo-o com acessórios como chapéus ou roupas. As etiquetas NFC e RFID são usadas para alternar funções do dispositivo sem programação complexa e, em locais industriais, os robôs de troca de ferramentas aumentam a eficiência da produção. Esta é uma abordagem inovadora que amplia a versatilidade dos robôs e permite uma utilização personalizada."
 },
 {
@@ -7129,7 +7336,7 @@
 "u": "https://www.chosun.com/english/industry-en/2026/11/18/XLPW2E6BG5DZ3BLNDU727BK3D4/",
 "f": "조선일보",
 "s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/O66J7YYS7FGB5B7RYZLCD6OJTY.jpg?auth=10dee1b673c5927fe01413862bf30b0b7fb3974769b267eeb98ad322c059213c&width=920&height=483&focal=527,258",
+"i": "",
 "d": "2026-11-17T18:08-03:00",
 "c": [
 "geral"
@@ -7140,7 +7347,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Chosun Ilbo",
-"mx": 1,
+"mx": 9,
 "rx": "Robôs trocam de função por meio de acessórios, abraçando a era da multitarefa Chapéus, ferramentas e máscaras desencadeiam mudanças de função em robôs, permitindo diversas aplicações, do turismo à indústria"
 },
 {
@@ -7596,6 +7803,27 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "A indústria global de robôs de IA está inaugurando uma nova onda de competição. A Vibe Robotics foi cofundada pelos jovens taiwaneses Lin Qi, Chen Weihan e outros. Os quatro fundadores têm apenas 19 a 24 anos. Eles receberam investimento da Y Combinator (YC), uma conhecida aceleradora empreendedora do Vale do Silício. Eles partiram oficialmente de uma toalha em um hotel da marca Hilton, nos Estados Unidos, para desafiar o mercado global de robôs.\nO Vibe 01, o primeiro robô humanóide com rodas desenvolvido pela Vibe Robotics, já pode dobrar toalhas de forma autônoma por meio de aprendizado de IA, com um tempo de operação único de 23,8 segundos. Desde dobrar uma toalha em 23,8 segundos até permitir que os robôs trabalhem de forma estável todos os dias e entrar em empresas globais, a Vibe Robotics está tentando provar que a próxima marca de robôs de classe mundial também tem a oportunidade de ser construída por jovens taiwaneses."
+},
+{
+"id": "0a002e0a253eed",
+"t": "WIRobotics e Ottobock unem forças para expandir o acesso a robôs vestíveis em toda a América do Norte",
+"r": "・O acordo de distribuição abrange os Estados Unidos e o Canadá, com vendas começando nos EUA. ・WIM S estará disponível na plataforma online da Ottobock e na loja online da WIRobotics USA. ・Os consumidores poderão experimentar o WIM S em clínicas selecionadas de órteses e próteses dos EUA. WIRobotics, uma empresa…",
+"u": "https://english.kyodonews.net/articles/-/91784",
+"f": "Japan Wire by Kyodo News",
+"s": "english.kyodonews.net",
+"i": "https://kyodonewsprwire.jp/prwfile/release/M107864/202611180418/_prw_OI2ic_x8J98mta.jpg",
+"d": "2026-11-17T23:02-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "WIRobotics and Ottobock Join Forces to Expand Access to Wearable Robots Across North America",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Kyodo News",
+"mx": 1,
+"rx": "・O acordo de distribuição abrange os Estados Unidos e o Canadá, com vendas começando nos EUA. ・WIM S estará disponível na plataforma online da Ottobock e na loja online da WIRobotics USA. ・Os consumidores poderão experimentar o WIM S em clínicas selecionadas de órteses e próteses dos EUA. WIRobotics, uma empresa global de robótica liderada pelos co-CEOs Younbaek Lee e Yongjae Kim, anunciou que sua subsidiária, WIRobotics USA Inc., assinou um acordo de distribuição e vendas com a Otto Bock HealthCare LP em 15 de outubro. A WIRobotics USA fornecerá o WIM S, seu robô de mobilidade vestível, com a Ottobock atuando como parceira de distribuição nos Estados Unidos e no Canadá.\n“Estamos ansiosos para apresentar o WIM S aos consumidores em toda a América do Norte, começando com um lançamento focado nos EUA, enquanto exploramos novas maneiras para as pessoas experimentarem em primeira mão a tecnologia de mobilidade vestível”."
 },
 {
 "id": "e031852b4859c9",
@@ -8178,33 +8406,6 @@
 "cv": "United Daily News",
 "mx": 9,
 "rx": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A Siling Robotics desenvolve e implanta tecnologia física de IA. Seus produtos incluem robôs humanóides, robôs móveis, braços robóticos e mãos hábeis, bem como software de suporte e modelos de IA, ajudando os clientes industriais a realizar a automação de operações que antes dependiam da operação hábil de mãos humanas e do julgamento manual.\nA Siling Robotics foi desmembrada do Centro Aeroespacial Alemão (DLR) em 2018 e até agora implantou 20.000 conjuntos de soluções de robôs industriais para clientes dos setores automotivo, eletrônico de consumo, logística e outros setores."
-},
-{
-"id": "63a63698b0d52c",
-"t": "As empresas de GPU estão competindo para fabricar chips robóticos. Por que os fabricantes de máquinas ainda querem fabricar as suas próprias? -36 criptônio",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rOGpwQy1KcUpDXzQ2Tm56WExubVFHUGRGeHZJRDc0YjFNQ0RKVGxMc0VyRUdDc0l0SHpaMldFY0p6MG1oUk5ONkhyQTBlSllU?oc=5",
-"f": "36kr",
-"s": "36kr.com",
-"i": "",
-"d": "2026-11-17T15:54-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
-"lg": "zh",
-"p": 3.7,
-"cr": 2,
-"cv": "36Kr",
-"o": [
-{
-"f": "36氪",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQ2xOY3NTREtlcnBPMlFuazlmLXd2UFFRV2ItWFpYOGk5NnpoYlRoOGJER3gyZGVxMGhjRE96VGFwQmE5NThLd29udF9XUQ?oc=5",
-"s": "m.36kr.com",
-"id": "03b44897544a42"
-}
-]
 },
 {
 "id": "3fffe58918373f",
@@ -9092,6 +9293,27 @@
 "rx": "Um robô logístico de IA que se aproxima sozinho com um único gesto de mão está atraindo a atenção. O robô autônomo ‘Carter’ desenvolvido pela empresa americana de robótica Robust AI pode reconhecer gestos humanos e abordar o chamador. Ele reconhece o ambiente ao seu redor com um sistema de visão de IA e está equipado com rodas que podem se mover em todas as direções. Você também pode controlar os movimentos do robô segurando a alça e empurrando ou puxando. Pode transportar itens com peso de até 100kg e funciona por até 18 horas. Atualmente está sendo usado em locais de logística reais, e a empresa anunciou que havia implantado mais de 100 robôs Carter em agosto passado. Repórter Lee Chang-min re34521@etnews.com"
 },
 {
+"id": "c588ae54f384b4",
+"t": "Li Xiang anunciou oficialmente que o Mach M100 será gradualmente aberto ao fornecimento externo. Houve consultas de empresas de robôs. O negócio de chips da Li Auto abriu um novo mercado.",
+"r": "Em 17 de novembro, Li Xiang, presidente e CEO da Li Auto, postou em plataformas sociais que muitas empresas de robótica perguntaram se poderiam fornecer Mach M100, e Li Xiang abrirá gradualmente o fornecimento externo deste chip de desenvolvimento próprio. Em outubro, a Shanghai Mahxin Technology Co., Ltd., entidade…",
+"u": "https://eu.36kr.com/zh/p/4075207322440578",
+"f": "eu.36kr.com",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261118/v2_0518492ddba9424ab84a17aa7eb7117c@46958@ai_oswg746548oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-17T18:35-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "李想官宣马赫M100逐步开放外供 已有机器人企业问询 理想汽车芯片业务开拓全新市场",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Em 17 de novembro, Li Xiang, presidente e CEO da Li Auto, postou em plataformas sociais que muitas empresas de robótica perguntaram se poderiam fornecer Mach M100, e Li Xiang abrirá gradualmente o fornecimento externo deste chip de desenvolvimento próprio. Em outubro, a Shanghai Mahxin Technology Co., Ltd., entidade comercial de chips e controladores de domínio da Ideal, assinou um acordo de financiamento de capital de primeira rodada com uma subscrição total de 1,625 bilhão de yuans. Os fundos serão usados ​​para apoiar a pesquisa, desenvolvimento e comercialização de chips.\nDesde a instalação de modelos internos, passando pela introdução de capital externo, até a abertura clara e gradual da oferta externa, a Ideal espera ampliar o escopo de aplicação de chips autodesenvolvidos. É claro que as consultas das empresas de robôs ainda não podem ser equiparadas a pedidos. Se os chips montados em veículos podem ser convertidos em produtos que os clientes externos estejam dispostos a comprar, ainda precisa ser verificado por meio de adaptação e entrega."
+},
+{
 "id": "5ed8d7adf70817",
 "t": "Waymo está pausando todas as viagens nas rodovias depois que o DMV da Califórnia diz que os robotáxis são “um perigo iminente para a segurança pública”",
 "r": "As restrições foram feitas pelo DMV da Califórnia depois que um Waymo sem motorista foi pego tentando ultrapassar um veículo da patrulha rodoviária que estava diminuindo a velocidade do tráfego.",
@@ -9140,7 +9362,7 @@
 "id": "70f82beab02c4b",
 "t": "Waymo robotaxi fica preso nos trilhos e bate na barreira",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHFZcHdSX2JGa0JQN0pFbldzOG5yaDNwRjFQa2NJRFIzYS1mRnZTQXpkdzAxUDBYN2hhQlJYZERHLXdFTXhnTDhaajhNeU1zQXc4V0pzRGs3Q0ZheDB5VEVEdFJNa3pTaHZvTDBnYklfaHZlSkdTUzhNcXlsV0Voc3JMTU8yWERjTlU3THRXdVF5YlE0bUQxYTM4ZUU5ZG1EUm56bXFZU0lxWjZWRjBKVWJXVkZDYTB6TTR6cm5DU2ZzajJHNEJiQ1dzLWlDUQ?oc=5",
+"u": "https://www.usatoday.com/videos/news/california/2026/11/17/waymo-robotaxi-gets-trapped-on-tracks-crashes-through-barrier/92834662007/",
 "f": "USA Today",
 "s": "usatoday.com",
 "i": "",
@@ -9153,7 +9375,8 @@
 "lg": "en",
 "p": 3.5,
 "cr": 3,
-"cv": "USA Today"
+"cv": "USA Today",
+"mx": 1
 },
 {
 "id": "0139be6066b2b7",
@@ -9174,25 +9397,6 @@
 "cr": 3,
 "cv": "Nikkei Asia",
 "mx": 3
-},
-{
-"id": "0a002e0a253eed",
-"t": "WIRobotics e Ottobock unem forças para expandir o acesso a robôs vestíveis em toda a América do Norte",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RTUVfZVVJT3FrRmllX1RDeFlGVndjcHo4RDJCRDdEdTlpYlRqQlZVQ2ZYY1ZKYW55UEphLWc0RjdhZXc2SjlZWWVoNjJrRVEtd2FKeW1BNXNvZw?oc=5",
-"f": "Japan Wire by Kyodo News",
-"s": "english.kyodonews.net",
-"i": "",
-"d": "2026-11-17T23:02-03:00",
-"c": [
-"exoesqueletos"
-],
-"l": 0,
-"to": "WIRobotics and Ottobock Join Forces to Expand Access to Wearable Robots Across North America",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Kyodo News"
 },
 {
 "id": "37e1525d80be7b",
@@ -9301,6 +9505,27 @@
 "rx": "As inovações de IA do Grupo Lenovo, Alibaba e MiniMax envolvem engenharia de sistemas industriais de IA, treinamento de modelos de operação de robôs e otimização de mecanismos de atenção de modelos grandes. A Lenovo usa o iMCT para realizar manutenção preditiva, lança uma fábrica completa de palavras mistas e usa robôs com rodas MX e MC para inspeções autônomas; Alibaba Qwen-RobotManip alinha o status e as ações de diferentes robôs, e o MiniMax MSA usa atenção esparsa para otimizar o raciocínio de textos longos.\nQwen-RobotManip, lançado pela equipe Qwen do Alibaba em junho de 2026, usa dados de operação de diferentes robôs para o mesmo treinamento de modelo."
 },
 {
+"id": "7d7681dfbe6637",
+"t": "Li Xiang afirmou que o Mach M100 se abrirá gradualmente ao fornecimento externo. Houve consultas de empresas de robôs, e o negócio de chips ideal está em busca de novos mercados.",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4075207322440578",
+"f": "36氪",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-17T18:35-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
 "id": "e4febe47c74bc1",
 "t": "Nomadic arrecada US$ 6 milhões para implantar drones autocarregáveis ​​que detectam pontos fracos nas redes elétricas",
 "r": "",
@@ -9320,44 +9545,6 @@
 "cr": 2,
 "cv": "Tech.eu",
 "mx": 3
-},
-{
-"id": "7d7681dfbe6637",
-"t": "Li Xiang afirmou que o Mach M100 se abrirá gradualmente ao fornecimento externo. Houve consultas de empresas de robôs, e o negócio de chips ideal está em busca de novos mercados.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4SGtxekIyZE9nM21VQjVjSU1nR2lfT25oUXl5Q2RUd09wREx6YmV6N1RTTTl5Mmt4TDVjTFRWcTlhZlFMWU9yVXpWbk5EZw?oc=5",
-"f": "36氪",
-"s": "m.36kr.com",
-"i": "",
-"d": "2026-11-17T18:35-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "36Kr"
-},
-{
-"id": "c588ae54f384b4",
-"t": "Li Xiang anunciou oficialmente que o Mach M100 será gradualmente aberto ao fornecimento externo. Houve consultas de empresas de robôs. O negócio de chips da Li Auto abriu um novo mercado.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SMkQwYVdjRWJPQ3J3ZmZFTUFLNklZbHpOR1ZMU29lUHJtaWNWUTh5UklNam00dE4yc0NvYmo0MlMtd3FsZUx5UzVYWVFvdnlYNVpF?oc=5",
-"f": "eu.36kr.com",
-"s": "eu.36kr.com",
-"i": "",
-"d": "2026-11-17T18:35-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "李想官宣马赫M100逐步开放外供 已有机器人企业问询 理想汽车芯片业务开拓全新市场",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "36Kr"
 },
 {
 "id": "f411ac5dbe0ffe",
@@ -9841,7 +10028,7 @@
 "i": "https://img0.yna.co.kr/etc/inner/PR/2026/11/17/RPR20261117000200353_01_i_P4.jpg",
 "d": "2026-11-16T21:58-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 1,
 "to": "[PRNewswire] SANY Set to Debut AI Agents and Robotic Machinery",
@@ -24994,7 +25181,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -30883,7 +31070,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -46970,7 +47157,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -46999,7 +47186,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -50324,7 +50511,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -50334,9 +50521,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [

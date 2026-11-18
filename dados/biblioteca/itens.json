@@ -1,5 +1,65 @@
 [
 {
+"id": "62626f8cbcfd5b",
+"u": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+"f": "MIT News — Robótica",
+"tipo": "universidade",
+"pais": "EUA",
+"d": "2026-11-18T16:00-03:00",
+"i": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Onboard-Microbot-A1-press.jpg?itok=-TluzTJd",
+"inst": "MIT",
+"to": "This featherweight, flying robot carries its own sensors and computers",
+"ro": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+"t": "Este robô voador leve carrega seus próprios sensores e computadores",
+"r": "O rápido microrobô voa sem um sistema de captura de movimento conectado, aproximando-o de aplicações como agricultura ou vigilância industrial.",
+"lg": "en",
+"c": [
+"agricolas",
+"inspecao",
+"microrrobos"
+]
+},
+{
+"id": "ed7c50a30b4f87",
+"u": "https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-18T16:00-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-featherweight-fly.jpg",
+"to": "Featherweight flying robot carries its own sensors and computers",
+"ro": "Over the past decade, MIT researchers have developed aerial microrobots with bumblebee-like speed, agility and durability for tasks like precision agriculture or search and rescue. But these featherweight microrobots couldn't carry the electronics needed for navigation, forcing them to remain connected to a…",
+"t": "Robô voador leve carrega seus próprios sensores e computadores",
+"r": "Na última década, os pesquisadores do MIT desenvolveram microrobôs aéreos com velocidade, agilidade e durabilidade semelhantes às de uma abelha, para tarefas como agricultura de precisão ou busca e salvamento. Mas esses microrobôs leves não conseguiam transportar os componentes eletrônicos necessários para a navegação, forçando-os a permanecer conectados a um…",
+"lg": "en",
+"c": [
+"ia",
+"agricolas",
+"resgate",
+"microrrobos"
+]
+},
+{
+"id": "f712317b2e5541",
+"u": "https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-18T16:00-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fastest-soft-robot.jpg",
+"to": "The fastest soft robot ever built doesn't need electronics to function",
+"ro": "The fastest robot to be made entirely of soft materials can reach speeds of up to 4.72 meters—a little more than 5 yards—per second, engineers at the University of California San Diego have shown. The six-legged robot can run on a wide range of terrain, from sand to mulch to concrete. It can also swim in water and…",
+"t": "O robô macio mais rápido já construído não precisa de eletrônicos para funcionar",
+"r": "O robô mais rápido feito inteiramente de materiais macios pode atingir velocidades de até 4,72 metros – um pouco mais de 5 jardas – por segundo, mostraram engenheiros da Universidade da Califórnia em San Diego. O robô de seis pernas pode funcionar em uma ampla variedade de terrenos, desde areia até cobertura morta e concreto. Ele também pode nadar na água e…",
+"lg": "en",
+"c": [
+"ia",
+"microrrobos",
+"construcao",
+"quadrupedes"
+]
+},
+{
 "id": "1f4f2fe9a40f69",
 "u": "https://techxplore.com/news/2026-11-haptic-feedback-virtual-reality-users.html",
 "f": "Phys.org",
@@ -160,6 +220,24 @@
 "lg": "en",
 "c": [
 "drones"
+]
+},
+{
+"id": "4208d93b2345ea",
+"u": "https://www.popularmechanics.com/science/environment/a74431774/nodule-sea-life/",
+"f": "Popular Mechanics",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-17T10:30-03:00",
+"i": "https://hips.hearstapps.com/hmg-prod/images/43db5f52-1c4f-4814-b0e3-5a388054d7e2.jpeg",
+"to": "China Just Sent a Robot to Harvest Rocks From the Pacific Abyss. Something Is Living Inside Them.",
+"ro": "Beijing’s robot crawled the seafloor to scoop up metal-rich rocks that shelter hundreds of lifeforms—and the U.S. wants them, too.",
+"t": "A China acaba de enviar um robô para colher rochas do abismo do Pacífico. Algo está vivendo dentro deles.",
+"r": "O robô de Pequim rastejou pelo fundo do mar para recolher rochas ricas em metal que abrigam centenas de formas de vida – e os EUA também as querem.",
+"lg": "en",
+"c": [
+"agricolas",
+"subaquaticos"
 ]
 },
 {
