@@ -464,6 +464,41 @@
 "rx": "17 de novembro: A General Motors pretende aumentar o uso de robôs e outras automações em 20% em suas fábricas na América do Norte até 2028, disseram duas pessoas familiarizadas com o assunto, enquanto a montadora enfrenta custos mais elevados de mão de obra e de onshore. A montadora de Detroit está desenvolvendo seus próprios robôs e montando-os em sua fábrica em Kokomo, Indiana, disseram as fontes e duas outras pessoas, e está focada no uso de robôs móveis autônomos para mover peças em suas fábricas.\nA meta de 20% de automação e produção de robôs em Indiana não havia sido informada anteriormente. As montadoras dos EUA aumentaram a automação para conter os custos de fabricação desde que o United Auto Workers obteve ganhos recordes de contratos em 2023 e o esforço do presidente Donald Trump para trazer mais trabalho de fábrica para casa pressionou os custos de produção."
 },
 {
+"id": "7c178d59a5210d",
+"t": "Boston Dynamics implantará robôs nas fábricas de chips da GlobalFoundries",
+"r": "18 (Yonhap) -- A Boston Dynamics, uma subsidiária norte-americana de robótica do Hyundai Motor Group, disse que planeja implantar seu robô de quatro patas Spot em fábricas de semicondutores operadas pela fabricante de chips norte-americana GlobalFoundries (GF) em todo o mundo. Pelo acordo, o Spot será implantado nas…",
+"u": "https://en.yna.co.kr/view/AEN20261118002700320",
+"f": "Yonhap News Agency",
+"s": "en.yna.co.kr",
+"i": "https://img2.yna.co.kr/etc/inner/EN/2026/11/18/AEN20261118002700320_03_i_P4.jpg",
+"d": "2026-11-17T21:48-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Boston Dynamics to deploy robots at GlobalFoundries' chip plants",
+"lg": "en",
+"p": 7.8,
+"cr": 3,
+"cv": "Yonhap",
+"o": [
+{
+"f": "The Korea Herald",
+"u": "https://www.koreaherald.com/article/10940963",
+"s": "koreaherald.com",
+"id": "5581410c62ce04"
+},
+{
+"f": "Korea JoongAng Daily",
+"u": "https://www.koreajoongangdaily.com/business/boston-dynamics-to-deploy-robots-at-globalfoundries-chip-plants/12978649",
+"s": "koreajoongangdaily.com",
+"id": "59d2e8fa5b99fe"
+}
+],
+"mx": 1,
+"rx": "18 (Yonhap) -- A Boston Dynamics, uma subsidiária norte-americana de robótica do Hyundai Motor Group, disse que planeja implantar seu robô de quatro patas Spot em fábricas de semicondutores operadas pela fabricante de chips norte-americana GlobalFoundries (GF) em todo o mundo. Pelo acordo, o Spot será implantado nas instalações da GF nos estados norte-americanos de Nova York e Vermont, bem como na Alemanha e Cingapura, disse a Boston Dynamics na quarta-feira (horário local).\nAs duas empresas também começarão a testar o robô humanóide Atlas da Boston Dynamics nas instalações da GF no início de 2027, marcando seu primeiro teste fora da indústria automotiva. A GF será a primeira empresa fora da indústria automobilística a aderir ao programa de testes Atlas da Boston Dynamics para explorar como robôs humanóides poderiam ser usados ​​na fabricação de chips."
+},
+{
 "id": "bb01b8652401df",
 "t": "A próxima parada para a implementação da IA ​​é o mundo físico. Lei Jun: A escala da indústria de robôs humanóides excede a dos automóveis.",
 "r": "A indústria da inteligência artificial (IA) está a passar das aplicações de software para o mundo físico, com robôs humanóides, carros de IA e produção inteligente a tornarem-se a próxima onda de oportunidades de negócio. Lei Jun, fundador, presidente e CEO do Grupo Xiaomi, disse que a tecnologia de IA se desenvolveu…",
@@ -519,6 +554,42 @@
 "u": "https://www.etnews.com/20261117000421",
 "s": "etnews.com",
 "id": "0a035a2399e967"
+}
+]
+},
+{
+"id": "4709e1c541b9f8",
+"t": "Líder de IA física, Agile Robots levanta US$ 500 milhões na Série F com avaliação de US$ 8,5 bilhões para acelerar o crescimento global",
+"r": "MUNIQUE, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a um valor",
+"u": "https://www.straitstimes.com/paid-press-releases/physical-ai-leader-agile-robots-raises-500-million-series-f-at-85-billion-valuation-to-accelerate-global-growth-20261117",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "",
+"d": "2026-11-17T00:25-03:00",
+"c": [
+"negocios",
+"ia"
+],
+"l": 0,
+"to": "Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth",
+"lg": "en",
+"p": 6.8,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 9,
+"rx": "MUNIQUE, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a um valor",
+"o": [
+{
+"f": "Japan Wire by Kyodo News",
+"u": "https://english.kyodonews.net/articles/-/91666",
+"s": "english.kyodonews.net",
+"id": "5f2a427a66c6ed"
+},
+{
+"f": "지디넷코리아",
+"u": "https://zdnet.co.kr/view/?no=20261118111002",
+"s": "zdnet.co.kr",
+"id": "c564de9ea5de47"
 }
 ]
 },
@@ -1682,36 +1753,6 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "O Quanta X1 Pro é uma plataforma de pesquisa humanóide com rodas desenvolvida pela X Square Robot em Shenzhen, China. Ele combina uma base móvel com dois braços, uma cabeça móvel e um extenso conjunto de câmeras, enfatizando a manipulação móvel em vez do movimento das pernas. Sua pontuação geral de habilidade de 4 em 10 o coloca na categoria de desenvolvimento, com manipulação avaliada em 3 em 5 e navegação em 1 em 5.\nA sua combinação de computação integrada, modelos de IA integrados e suporte ROS2 posiciona-o como uma plataforma de investigação e não simplesmente como uma montagem mecânica. Sua pontuação geral em desenvolvimento também fornece um contexto útil para as expectativas: esta é uma plataforma para experimentação contínua e desenvolvimento de capacidades, com uma classificação de manipulação mais forte do que uma classificação de navegação, em vez de um humanóide de nível superior em ambas as categorias."
-},
-{
-"id": "4709e1c541b9f8",
-"t": "Líder de IA física, Agile Robots levanta US$ 500 milhões na Série F com avaliação de US$ 8,5 bilhões para acelerar o crescimento global",
-"r": "MUNIQUE, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a um valor",
-"u": "https://www.straitstimes.com/paid-press-releases/physical-ai-leader-agile-robots-raises-500-million-series-f-at-85-billion-valuation-to-accelerate-global-growth-20261117",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-17T00:25-03:00",
-"c": [
-"negocios",
-"ia"
-],
-"l": 0,
-"to": "Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth",
-"lg": "en",
-"p": 5.3,
-"cr": 3,
-"cv": "The Straits Times",
-"mx": 9,
-"rx": "MUNIQUE, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a um valor",
-"o": [
-{
-"f": "Japan Wire by Kyodo News",
-"u": "https://english.kyodonews.net/articles/-/91666",
-"s": "english.kyodonews.net",
-"id": "5f2a427a66c6ed"
-}
-]
 },
 {
 "id": "b904315f11002d",
@@ -3266,7 +3307,8 @@
 "i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-17-2026%2Ft_8bf47ded70704d89ae5b740fcd25fdc9_name_NCSG111726_CHRISTOPER_COATES.jpg?smart=true&auth=76c43a444afd5bff7d08399fc02fe58259737d9b353325ad936cfc5ab9a92a7b&width=1200&height=630",
 "d": "2026-11-17T18:30-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "'We're really vulnerable': Retired RCAF Lt.-Gen. on Canada's ability to defend itself against drones",
@@ -3332,7 +3374,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wire-card-dominion-dynamics-20261117.webp",
 "d": "2026-11-17T20:30-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Canada's Dominion Scout Drone to Fly on a Pratt & Whitney Engine",
@@ -3342,6 +3385,28 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "A Dominion Dynamics afirma que a Pratt & Whitney Canada fornecerá o motor para o Dominion Scout, uma aeronave não tripulada destinada a voar ao lado de caças tripulados no Ártico. O motor construído no Canadá coloca a experiência aeroespacial doméstica no centro de uma nova aeronave autônoma para a defesa do Ártico e mercados aliados 17, 2026 /PRNewswire/ — A Dominion Dynamics anunciou hoje uma colaboração com a Pratt & Whitney Canada para promover o Dominion Scout, uma Plataforma Colaborativa Autônoma (ACP) que está sendo desenvolvida para as necessidades de defesa do Canadá e mercados aliados. A Dominion está liderando o desenvolvimento do Scout, que será movido por um motor da série PW300 fabricado no Canadá.\n“A colaboração com a Pratt & Whitney Canada coloca a comprovada experiência e confiabilidade aeroespacial canadense no coração do Scout”, disse Eliot Pence, fundador e CEO da Dominion Dynamics."
+},
+{
+"id": "01f52359f40e8e",
+"t": "Empresa de defesa de Ottawa mira em drones desonestos",
+"r": "A AirShare de Ottawa está desenvolvendo tecnologia que afirma ser capaz de derrubar um drone inimigo sem uma explosão ou mesmo um ataque direto. Relatórios de Tyler Fleming da CTV.",
+"u": "https://www.ctvnews.ca/ottawa/video/2026/11/17/ottawa-defence-company-takes-aim-at-rogue-drones/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-17-2026%2Ft_0b1fce3a956b4548a9d71d11374e61d4_name_CTVNews_3496900_CJOH111726_DRONES2_5.jpg?smart=true&auth=4c00544cf4b8eb1438c0c21a6d7c7132d682f572f0d34ab4bbc4147134a67244&width=1200&height=630",
+"d": "2026-11-17T20:34-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Ottawa defence company takes aim at rogue drones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "A AirShare de Ottawa está desenvolvendo tecnologia que afirma ser capaz de derrubar um drone inimigo sem uma explosão ou mesmo um ataque direto. Relatórios de Tyler Fleming da CTV."
 },
 {
 "id": "316436c39f705e",
@@ -3374,7 +3439,7 @@
 "i": "https://static.ffx.io/images/$zoom_0.1561%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/abeeef0b269fb2207473eb78b7c105458c7aa9b7",
 "d": "2026-11-17T21:00-03:00",
 "c": [
-"geral"
+"subaquaticos"
 ],
 "l": 0,
 "to": "Audience in driver’s seat as robo-fish swim into Powerhouse for new summer festival",
@@ -3395,7 +3460,7 @@
 "i": "https://robotstart.info/imgs/ogp_f/109513.jpg",
 "d": "2026-11-17T21:00-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Thinker、手探りできるロボットハンドで小型コネクタ嵌合やバラ積みピッキングを実演予定「第9回 名古屋 ロボデックス」",
@@ -3405,6 +3470,155 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "irá expor na 9ª Nagoya Robodex, que será realizada na Aichi Sky Expo de 25 de novembro (quarta-feira) a 27 de novembro (sexta-feira) de 2026. Usando uma mão robótica equipada com seu próprio sensor de proximidade que pode ser sentido ao redor, a empresa realizará demonstrações de acoplamento de pequenos conectores e coleta e ensacamento de pequenas peças em conjunto com uma máquina de embalagem. Ao mesmo tempo, apresentaremos novas tecnologias que combinam simulação e aprendizagem com máquinas reais para otimizar o movimento e a força do robô."
+},
+{
+"id": "541480f7d35681",
+"t": "AL Robot despenca 20% no primeiro dia de listagem na KOSDAQ",
+"r": "Eu acreditava em uma perspectiva otimista... Formigas 'chocadas' com a queda das ações de robôs em 8% [Análise +] As ações de robôs domésticos listadas no mercado KOSDAQ caíram juntas no dia 17. O sentimento de investimento piorou quando a Robotis, considerada uma das principais ações de robôs, despencou mais de 8%…",
+"u": "https://www.hankyung.com/article/2026111836646",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46461830.1.jpg",
+"d": "2026-11-17T21:07-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "에이엘로봇, 코스닥 상장 첫날 20% 급락",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Eu acreditava em uma perspectiva otimista... Formigas 'chocadas' com a queda das ações de robôs em 8% [Análise +] As ações de robôs domésticos listadas no mercado KOSDAQ caíram juntas no dia 17. O sentimento de investimento piorou quando a Robotis, considerada uma das principais ações de robôs, despencou mais de 8% com a notícia de que registrou prejuízo operacional no terceiro trimestre. O índice KOSPI começou a cair 1% no dia 17 e está flutuando no nível 5.000 no início das negociações. Isto pode ser interpretado como o impacto do declínio acentuado nas ações relacionadas com a inteligência artificial (IA) na Bolsa de Valores de Nova Iorque na noite passada. KOSPI despencou mais de 3% e foi empurrado para a marca de 5.100. Com os estrangeiros vendendo mais de 1 trilhão de won, os estoques de inteligência artificial (IA) e de semicondutores entraram em colapso de uma só vez."
+},
+{
+"id": "d88b1a948edc36",
+"t": "[Ações em destaque] AL Robot, queda de 18% no início das negociações no primeiro dia de listagem na KOSDAQ",
+"r": "(Seoul = Yonhap News) O repórter Lim Eun-jin = AL Robot [471800], que foi recentemente listado no mercado KOSDAQ no dia 18, começou a operar. De acordo com a Korea Exchange, a partir das 9h01 deste dia, AL Robot está sendo negociado a 14.370 won, uma queda de 18,35% em relação ao preço de oferta pública de 17.600 won…",
+"u": "https://www.yna.co.kr/view/AKR20261118041300008",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img0.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111806450001300_P4.jpg",
+"d": "2026-11-17T21:07-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "[특징주] 에이엘로봇, 코스닥 상장 첫날 장초반 18% 하락",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Seoul = Yonhap News) O repórter Lim Eun-jin = AL Robot [471800], que foi recentemente listado no mercado KOSDAQ no dia 18, começou a operar. De acordo com a Korea Exchange, a partir das 9h01 deste dia, AL Robot está sendo negociado a 14.370 won, uma queda de 18,35% em relação ao preço de oferta pública de 17.600 won. AL Robot é uma empresa que desenvolve e produz sensores que medem a força aplicada a robôs e controlam dispositivos que controlam o movimento. A taxa de concorrência para a subscrição geral realizada anteriormente foi de 834,73 para 1, e cerca de 4,4 trilhões de won foram coletados como margem. (Seul = Yonhap News) Autoridades estão tirando uma foto comemorativa após entregar a placa comemorativa da listagem na cerimônia de listagem do mercado AL Robot KOSDAQ realizada na Korea Exchange em Yeongdeungpo-gu, Seul, no dia 18. A partir da esquerda, Park Jong-sik, vice-presidente do Conselho de RI da Coreia, Choi Ji-woo, chefe assistente da divisão de mercado KOSDAQ da Bolsa da Coreia, Kang Dae-hee, CEO da AL Robot, Jin Seung-wook, CEO da Daishin Securities, e Ahn Seung-geun, vice-presidente da Associação KOSDAQ. Revenda e DB proibidos] photo@yna.co.kr"
+},
+{
+"id": "208137d2d6c686",
+"t": "[Ações em destaque] AL Robot, despencou 20% em relação ao preço da oferta pública no primeiro dia de listagem na KOSDAQ",
+"r": "A empresa de peças de robôs AL Robot (471800) está registrando um declínio de dois dígitos no primeiro dia de sua listagem na KOSDAQ. Embora mais de 4 trilhões de won em margem tenham sido arrecadados na subscrição geral, o preço das ações na data de listagem está significativamente abaixo do preço da oferta pública…",
+"u": "https://biz.chosun.com/stock/stock_general/2026/11/18/VDFPCBZEK5D5BOEVJYXQZY2JKE/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/XMUUNIWHDNBW5B54BQUK2HA63Y.webp?auth=a7b5475bdbd069f0e4c0fb1523ddfd70b465e7080765b5e63a5560cb0e0b4a69&width=960&height=504&smart=true",
+"d": "2026-11-17T21:10-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "[특징주] 에이엘로봇, 코스닥 상장 첫날 공모가 대비 20% 급락",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A empresa de peças de robôs AL Robot (471800) está registrando um declínio de dois dígitos no primeiro dia de sua listagem na KOSDAQ. Embora mais de 4 trilhões de won em margem tenham sido arrecadados na subscrição geral, o preço das ações na data de listagem está significativamente abaixo do preço da oferta pública. Às 9h09 do dia 18, no mercado KOSDAQ, AL Robot está sendo negociado a 14.050 won, uma queda de 3.550 won (20,17%) em relação ao preço de oferta pública de 17.600 won. Desde março deste ano, produzimos e fornecemos sensores de torque articulados em massa para fabricantes japoneses de robôs. Anteriormente, 2.227 instituições nacionais e estrangeiras participaram da previsão de demanda institucional, registrando uma taxa de concorrência de 871,74 para 1. A taxa geral de competição de subscrição realizada de 6 a 9 deste mês foi de 834,73 para 1, e aproximadamente 4,4074 trilhões de won em margem foram arrecadados. No primeiro semestre deste ano, registou vendas de 8,4 mil milhões de won e um prejuízo operacional de 600 milhões de won."
+},
+{
+"id": "eb2dc9a13ce22a",
+"t": "[AI Pick] Brincando com pacientes infantis e fornecendo orientação sobre testes… KT demonstra robô de IA hospitalar",
+"r": "(Seoul = Yonhap News) O repórter Park Hyeong-bin = KT [030200] anunciou no dia 18 que iniciará uma demonstração do uso de robôs de inteligência artificial (IA) para cuidar de pacientes infantis e apoiar o trabalho da equipe médica no Hospital da Universidade Nacional de Seul. Esta demonstração centrou-se em serviços…",
+"u": "https://www.yna.co.kr/view/AKR20261118056600017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img4.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102709080001300_P4.jpg",
+"d": "2026-11-17T21:59-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "[AI픽] 어린이 환자와 놀고 검사 안내까지…KT, 병원 AI 로봇 실증",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Seoul = Yonhap News) O repórter Park Hyeong-bin = KT [030200] anunciou no dia 18 que iniciará uma demonstração do uso de robôs de inteligência artificial (IA) para cuidar de pacientes infantis e apoiar o trabalho da equipe médica no Hospital da Universidade Nacional de Seul. Esta demonstração centrou-se em serviços não clínicos que podem aliviar a tensão e a ansiedade dos pacientes infantis e reduzir as tarefas repetitivas do pessoal médico. O robô AI é responsável por conversar ou brincar com pacientes infantis que aguardam antes e depois do tratamento e explicar o processo de exame e tratamento no nível da criança. Também planejamos examinar a possibilidade de aplicação em campo de IA física para apoiar o trabalho repetitivo da equipe médica. A KT supervisiona o projeto e a operação de cenários empíricos usando sua própria conversação coreana e tecnologia de agente de IA, e o Hospital Universitário Nacional de Seul é responsável por fornecer conteúdo médico, inspeção e preparação de um ambiente operacional, como segurança e controle de infecções.\nAs duas empresas planejam verificar a satisfação dos pacientes infantis e seus responsáveis, a avaliação da equipe médica e a estabilidade operacional, e expandir a aplicação da IA ​​física às áreas médicas e de cuidados, vinculando a IA e a cooperação em nuvem entre a KT e o Google Cloud no futuro. (Seul = Yonhap News) Repórter Jin Yeon-soo = No dia 27, a 'Conferência de Imprensa de Estratégia de Negócios KT AX (Transformação de IA)' será realizada no Edifício KT Gwanghwamun WEST em Jongno-gu, Seul."
+},
+{
+"id": "522b3f83e172d9",
+"t": "Eid [6038]: Robostar e Toda Corporation realizarão \"ROBOT FRONTIER 2027\" em 30 de março de 2027 para promover a implementação social por meio de exposição real de robôs e intercâmbio corporativo em 18 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
+"r": "18 de novembro de 2026 O documento de divulgação do EID [6038] ``ROBOT FRONTIER 2027, em conjunto com Toda Construction para promover a implementação social por meio de exposição real de robôs e intercâmbio corporativo, a ser realizado em 30 de março de 2027'' pode ser visualizado. Os materiais podem ser baixados em…",
+"u": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8j04t&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261117582381/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://www.nikkei.com/nkd/disclosure/tdnr/20261117582381/thumbnail/?ttype=ogp",
+"d": "2026-11-17T22:00-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "イード[6038]：ロボスタ、戸田建設と共同でロボットの実機展示と企業交流を通じて社会実装を促進する「ROBOT FRONTIER 2027」を2027年3月30日に開催 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "18 de novembro de 2026 O documento de divulgação do EID [6038] ``ROBOT FRONTIER 2027, em conjunto com Toda Construction para promover a implementação social por meio de exposição real de robôs e intercâmbio corporativo, a ser realizado em 30 de março de 2027'' pode ser visualizado. Os materiais podem ser baixados em PDF"
+},
+{
+"id": "e0d9fc2a988879",
+"t": "Gangnam-gu, robôs patrulhando parques, servindo robôs em restaurantes para idosos… Robôs vagando pela vida cotidiana",
+"r": "\" Gangnam-gu (Chefe Kim Hyun-ki) está verificando a usabilidade de robôs, implantando-os em locais que estão intimamente relacionados à vida dos residentes, desde patrulhas em parques e estradas até distribuição de refeitórios para idosos, purificação de ar em instalações públicas e trabalho de saneamento ambiental. O…",
+"u": "https://www.yna.co.kr/view/RPR20261118002600353",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img8.yna.co.kr/etc/inner/PR/2026/11/18/RPR20261118002600353_01_i_P4.jpg",
+"d": "2026-11-17T22:16-03:00",
+"c": [
+"servico",
+"companhia",
+"inspecao"
+],
+"l": 0,
+"to": "강남구, 공원엔 순찰로봇·경로식당엔 서빙로봇…생활현장 누비는 로봇들",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "\" Gangnam-gu (Chefe Kim Hyun-ki) está verificando a usabilidade de robôs, implantando-os em locais que estão intimamente relacionados à vida dos residentes, desde patrulhas em parques e estradas até distribuição de refeitórios para idosos, purificação de ar em instalações públicas e trabalho de saneamento ambiental. O Gangnam-gu Robot (AI) Test Bed é um projeto para verificar robôs que completaram o desenvolvimento tecnológico em um ambiente urbano real. O distrito tem fornecido instalações públicas e locais de convivência como espaços de demonstração para empresas por meio de um concurso público começando em 2024, e este ano, cinco empresas foram selecionadas. Até 30 milhões de won serão fornecidos a cada empresa No refeitório para idosos do Centro de Bem-Estar Comunitário de Suseo, um robô de serviço da RGT será implantado na área de Yeongdong-daero 735, e um dos robôs de patrulha ao ar livre da Guardian AI será implantado no Parque Dosan."
+},
+{
+"id": "b3af17244257de",
+"t": "Em 1940, um cachorro chamado Robot tropeçou em um buraco perto de uma árvore arrancada na França; aquele buraco escondido foi encontrado",
+"r": "Imagine levar seu cachorro para passear e ele acabar descobrindo algo que pertence à era pré-histórica!",
+"u": "https://timesofindia.indiatimes.com/etimes/trending/in-1940-a-dog-named-robot-stumbled-upon-a-hole-by-an-uprooted-tree-in-france-that-hidden-hole-was-found-to-be-a-cave-with-nearly-600-prehistoric-paintings-that-are-more-than-17000-years-old/articleshow/135944527.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-135944588,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-17T22:28-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "In 1940, a dog named Robot stumbled upon a hole by an uprooted tree in France; that hidden hole was found",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Imagine levar seu cachorro para passear e ele acabar descobrindo algo que pertence à era pré-histórica!"
 },
 {
 "id": "d3316cb4044118",
@@ -4783,7 +4997,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "4b926024a6bc75",
@@ -4829,67 +5043,10 @@
 "rx": "As restrições foram feitas depois que um Waymo sem motorista foi pego tentando ultrapassar um veículo da Patrulha Rodoviária que estava diminuindo a velocidade do trânsito. O Departamento de Veículos Motorizados da Califórnia proibiu a Waymo de operar seus robotáxis nas rodovias estaduais, dizendo em comunicado ao Engadget que a operação sem motorista da empresa representa um “risco iminente à segurança pública”. A restrição está em vigor desde 11 de novembro, segundo o Detran. Em resposta, a Waymo afirma que restringiu temporariamente a condução em autoestradas em todos os seus mercados nos EUA.\nO DMV citou um incidente de três robotáxis Waymo entrando em uma zona de construção restrita perto de Burlingame, e um incidente separado de um Waymo tentando ultrapassar um carro da Patrulha Rodoviária da Califórnia que estava diminuindo a velocidade do tráfego como parte de sua justificativa."
 },
 {
-"id": "541480f7d35681",
-"t": "AL Robot despenca 20% no primeiro dia de listagem na KOSDAQ",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ejh0b0VDZHliWHk3SlVfTEEwd2FfQzI1OXotQzY5UWNJdFNWUE1CdWZ4c0V5ajBiQ1FUUlgySi1KVXhMeFJEeWpXMmlVVVdvMmVNUG1Vckp3QQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-17T21:07-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "에이엘로봇, 코스닥 상장 첫날 20% 급락",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily"
-},
-{
-"id": "d88b1a948edc36",
-"t": "[Ações em destaque] AL Robot, queda de 18% no início das negociações no primeiro dia de listagem na KOSDAQ",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyemNlZk1nenFLSjVDYi0zWG5TVFJhbjhxTjhpMm5WSVNyd2pvRWcxX1N3WUtuQ3U5dGtkcUZLY282NkJOZFZHYk9USVB5a1pGRXFoMnVkRElFTlHSAWBBVV95cUxPVm9sRUtOZkQtclZBRE51RkpLZWs1MVV1WVpTNzlYaG4tbUttQjhnUHU0LWs3WFFzUmZIZnY4TDhTUmNnczg0WklQb29BUlVUVzhBZlZHYk5EdG1halVjZnE?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-17T21:07-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "[특징주] 에이엘로봇, 코스닥 상장 첫날 장초반 18% 하락",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap"
-},
-{
-"id": "208137d2d6c686",
-"t": "[Ações em destaque] AL Robot, despencou 20% em relação ao preço da oferta pública no primeiro dia de listagem na KOSDAQ",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEl2QUM2UnFOZlA1bnhwdjBDTlJLbEFWY3ZLc0xPVVFtbUEzWFBtWEM3MjRLeDhDY0NNR0E0Y0tnUlplZzJ6ZGtsSU9QWFRLOVZINkhBdS1CcnlMNS1XUklFMFU4cVAtajFSLXVlSWRVaXNEOTBoMjRQQ1FuVWFzOWFZU1dUeFFY?oc=5",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "",
-"d": "2026-11-17T21:10-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "[특징주] 에이엘로봇, 코스닥 상장 첫날 공모가 대비 20% 급락",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Chosun Ilbo"
-},
-{
 "id": "0d2357b87e64de",
 "t": "Waymo interrompe passeios de robotáxi nas rodovias dos EUA após proibição na Califórnia",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5",
+"u": "https://www.reuters.com/business/autos-transportation/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-2026-11-18/",
 "f": "Reuters",
 "s": "reuters.com",
 "i": "",
@@ -4905,104 +5062,238 @@
 "8ca91fb9cfe5f3"
 ],
 "cr": 3,
-"cv": "Reuters"
+"cv": "Reuters",
+"mx": 1
 },
 {
-"id": "7c178d59a5210d",
-"t": "Boston Dynamics implantará robôs nas fábricas de chips da GlobalFoundries",
+"id": "0139be6066b2b7",
+"t": "A Robostar colabora com a Toda Construction para promover a implementação social através de exposições de robôs e intercâmbios corporativos.",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lQmx6UjRMT2YwYVBubC05ME5UU2tkVmxFd3RjNndDYU5qQWMyY2FZdldwSGx2RFhhMlNRWGVpQjJVclFkNEl2Sk5Qd3BDUVVIZEZyVk1WWG5qdw?oc=5",
-"f": "Yonhap News Agency",
-"s": "en.yna.co.kr",
-"i": "",
-"d": "2026-11-17T21:48-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "Boston Dynamics to deploy robots at GlobalFoundries' chip plants",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap"
-},
-{
-"id": "eb2dc9a13ce22a",
-"t": "[AI Pick] Brincando com pacientes infantis e fornecendo orientação sobre testes… KT demonstra robô de IA hospitalar",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84ZEsxYWZudW5DVTA4Sy1CMVROX2pUQmQ2bHZFaExRUzZEQkNPSE90akF4RWZOMUszNjlTa0VKWHAwWm92UzRHVFFZRG0wc055LWEwWVFkUl9mQ2_SAWBBVV95cUxNNWRsLWhzaGs1eHJSV294Zl9zazY2ajRDRjM4MFV2MW9RZml5eDhpTFRHNk41RGRCVzQyYnF6WlNLRWdGbENaRFEtOVBWMVFJYnBRcHl1SmJ4ekg1aGZ4X2c?oc=5",
-"f": "연합뉴스",
-"s": "yna.co.kr",
-"i": "",
-"d": "2026-11-17T21:59-03:00",
-"c": [
-"medicina"
-],
-"l": 0,
-"to": "[AI픽] 어린이 환자와 놀고 검사 안내까지…KT, 병원 AI 로봇 실증",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Yonhap"
-},
-{
-"id": "522b3f83e172d9",
-"t": "Eid [6038]: Robostar e Toda Corporation realizarão \"ROBOT FRONTIER 2027\" em 30 de março de 2027 para promover a implementação social por meio de exposição real de robôs e intercâmbio corporativo em 18 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVnEyU1M4TWctQWFUN09vaFZUT2RYcmJicjlVYjVXaERQWGE0WWNtVzRCTjhVdWpza3JXVlM1cjdqS2dLeWo0c1NIMGppU2t1anZzNmp0Zm0wR0p2NU91d0FkVDFuWXVOdnJOQk9hWVRONjd5cnFXbmMzZkV3cjQ5N3FGUWVaczZ3ekJpZGRySTFqRmE4U0NuOXpmWnZCU2dZSEMtaW1HSzBJNmZCRDVCZ2hRTkVKOXU5N3FjUUZpUWgyaEgxYXFpRDJRX1E?oc=5",
+"u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhYN0NEU1FHSzItemFUX3d1QWRBQlJtVUhnUlF5ZXIxeVJwS3VJcnI4RUgyV1FOWXBpUDgyMTg1OFJwam9RQUQ5M1NoVTRhbmEwQkFwQVZRM1dhcHp4Y3B5MTU5clZ1TXA0b3NZUVg5ci0zNVMxdzI2QWlmaVptUHpXb3BCcTFCTE9ycnlpcE5tbVVnSllEVDcxMUw?oc=5",
 "f": "日本経済新聞",
 "s": "nikkei.com",
 "i": "",
-"d": "2026-11-17T22:00-03:00",
+"d": "2026-11-17T22:23-03:00",
 "c": [
-"competicoes"
+"construcao"
 ],
 "l": 0,
-"to": "イード[6038]：ロボスタ、戸田建設と共同でロボットの実機展示と企業交流を通じて社会実装を促進する「ROBOT FRONTIER 2027」を2027年3月30日に開催 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
+"to": "ロボスタ、戸田建設と共同でロボットの実機展示と企業交流を通じて社会実装を促進する「ROBOT",
 "lg": "ja",
 "p": 3.5,
 "cr": 3,
 "cv": "Nikkei Asia"
 },
 {
-"id": "e0d9fc2a988879",
-"t": "Gangnam-gu, robôs patrulhando parques, servindo robôs em restaurantes para idosos… Robôs vagando pela vida cotidiana",
+"id": "e4088aecc429ca",
+"t": "KT e Hospital Universitário Nacional de Seul demonstram robôs de IA para atendimento de pacientes infantis",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wX0ZBTXFzUlVFV0p6aDBWaDExZjZtREwwUUF3SW1WYlVCWjdGdy1tQUE1blMwY2x1b2xVVTRlOXMwUm8xaDNXQzBDMTA4dzMybWloNENDUmZTWEk?oc=5",
+"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85UHp4QndCbnp2Uno1TWNaNERManppT29Sa01nelNseGZrdlM5enAzclNCOXN1WDQzOVZjRktPVmpQQVJTclM2MktJUm5RV2d2QW9Pckl6RGxpa005bnFoWlA0MWQxRmtDUkdjNkY2b1jSAXRBVV95cUxPbFlrMU1NWkxrNjQ5NDNFV29sRnhWTFdWdUM3OGk3MFFnTHBJMHVsSklhdTF3V2xlM1BHeVlMaU01ZVBEeEx5YVVxSXltZk8wcG1iSTBrMU9RYi0wRHBCSDd1N1Z2dHNUNGgwZUk3QklQSUxxaQ?oc=5",
+"f": "IT조선",
+"s": "it.chosun.com",
+"i": "",
+"d": "2026-11-17T22:26-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "KT·서울대병원, 어린이 환자 돌봄 AI 로봇 실증",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Chosun Ilbo"
+},
+{
+"id": "d806856e53147b",
+"t": "SK Intellix recebe elogios do primeiro-ministro no 'Dia da Segurança do Produto'... Reconhecimento de gerenciamento de segurança de robôs de IA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wQ3A4cThueTBTcHJMcEFUcjV5blJFQlVRaHplWVc0dlBPZ3dXVlpKbDJpbXVRT0NuRXl4b213MGF1cFAxUW5UWDU5LVpqc1ZTZXRfS3c0T1Rjdw?oc=5",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "",
+"d": "2026-11-17T22:36-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "SK인텔릭스, '제품안전의 날' 국무총리 표창…AI 로봇 안전관리 인정",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Korea Economic Daily"
+},
+{
+"id": "ab30108d656586",
+"t": "KT·Seoul National University Hospital cuida de pacientes infantis com robôs de IA... Início da demonstração no campo médico",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXJUaGpfRlpsTEthMDVWX2JpdENvUXRiTm1obVFCZENzeElJTFBhRnItQWlhaHZKSUpybzk2R1huWUxVVTJ3aFBNUFZsOVNpaEJSSkk3WlZTc1RVUjVhdmFjVjhXb1JJajFJRXl0ejZKNHZhMXhNQzhmaDQ2OFV6cnB30gGWAUFVX3lxTE0yY2hhQktiblU4R3l4VFktVDV4a3pxSzJKZUVYcDFVMExnWDBNNHF5MUNWY2xFa21kN1lMZjk0cXRFWUdfREttMDEzYy1TXzdBWEFGc3NiaHQ5Q29IdzlXRVducFA0dmszTzZZYXR3dHIyTlBKYVc4UlZSUXQzeDZRQXI5VElIMkRIWUNZbEsyZzVSYmkyQQ?oc=5",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "",
+"d": "2026-11-17T22:40-03:00",
+"c": [
+"medicina",
+"ia"
+],
+"l": 0,
+"to": "KT·서울대병원, AI 로봇으로 어린이 환자 돌본다…의료 현장 실증 착수",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Chosun Ilbo"
+},
+{
+"id": "7a44b8cc1c3ecf",
+"t": "De robôs de IA a comunicações por satélite... Tecnologia de rádio de ponta em um só lugar",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52c1dyVVRVS0Zobmd6U2YyTE9QSmk5ZGRPblp5c3J2NXRQZWpodTBlN0t5WWRGV09PNTh0S0pSUXNseThXZEl0NjB6aC00RU5JemxES1EzeGlORFXSAWBBVV95cUxOWVRkdEpINllYbHhHOWlsZWg0WjFaX3BwY3dKbjdKQkVJbEZadzlPYWt3VkZTR1JxZGJwM0lYdDhJMmNQTTI2S2pLNzBCM09BNE5RaUF6aTFQd3JoSi1KRnA?oc=5",
 "f": "연합뉴스",
 "s": "yna.co.kr",
 "i": "",
-"d": "2026-11-17T22:16-03:00",
+"d": "2026-11-17T23:00-03:00",
 "c": [
-"servico",
-"companhia",
-"inspecao"
+"espaco"
 ],
 "l": 0,
-"to": "강남구, 공원엔 순찰로봇·경로식당엔 서빙로봇…생활현장 누비는 로봇들",
+"to": "AI 로봇부터 위성통신까지…첨단 전파기술 한자리에",
 "lg": "ko",
 "p": 3.5,
 "cr": 3,
 "cv": "Yonhap"
 },
 {
-"id": "b3af17244257de",
-"t": "Em 1940, um cachorro chamado Robot tropeçou em um buraco perto de uma árvore arrancada na França; aquele buraco escondido foi encontrado",
+"id": "79757ba16f1695",
+"t": "Siling Robotics, líder de física em IA, concluiu US$ 500 milhões em financiamento da Série F",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMigANBVV95cUxNU3NRaFNzUzZLcElUVWVJdjdpbDFtV2xFNTFpYVpkdUVwd21SSldoS19IeWZOWWNqVlFLNzkwSzJ1aGZrUGU3ZUZ1X0wtQmRoamM4LVh0NXhhdmExYkNtZTZ6UmtRRF8tZTV6WHl2MjFZZWZiLWVSRzJWbTgyakdZa2tkN3I1eHZjekZQV0ZPamp6M1E2dE5WcFI2TlZsSkJaVC1IbC1na0NLS1I1MnQyMjBDSC1vcHVhQjUwaENIVmo0TTQ1Q0NGTHpoR2pDTjlYRTZfNEhnSVdXRXhJdGk3Wmc2TXRnMXVMY2FHS2phY0dHTzNmYldBUUczZW1iX0hHVklJdFpMbHpNSWZpRF93SE1oVFRKbmFGdjNoRlRHQ2tqMzlqcnJLdU9aY3M5X1RyVFY5RG9ENWxFQkFxZWxNQ0dQbkkyUHZzYWJCMUtyaDEzUDJlTlR4bl92dWZuSmg5TVRvWTBzWVFNbE5EajBKYjVJeVJ4bU05TUtWV0U5UmbSAYYDQVVfeXFMT0tVYXk3WjlJZG4taDlUaWxzMTNFVFlyc3JUemJzUW9xODhBcTZzaHZYOTlBY3JHaWZOSm5leWxYSVpCaUlCZTBhbkp6WHdwcUlXUWRBWHp0ck1xWkl5MzNBU1JHM3hFekpMZEZzVllEZi1nVTl0Tk9kcXQzV1NLcHZWRkJPeVpaZG02X0FNMW5PTnVidDlTMnM0b2FTU1F1QllCT25VV25zUlk4NUFQT2FXTm9iaXNyTkN0VTQ4ZmE1RWw2Q19RSUFiWWEtT3piUFNHcVo4YURFa3RscEpzdTFtamljRTZPQURaQkFoQlVTbTlOS09Kc0JGS1MxRllLYzdtc1hXZzhZQjZxdk9BbXRwZEttX2FzZ3BaZ01lQUdPNWhDSVJnTWpGVzhKUi10OGN5UER3OENnc0VXMVdnNlZJRXNMaTJja1Bvdi1sRlFfOF9VYlcxYjFpM1N3dlY5aVMyMUVqbDhpUThqRGZBd19BRHhvY0ItMGxLNzlkUUhIUkxSdkZB?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
+"u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFNfVnI2Y2k4Y2NJV09IQzZmOWJqZzZrSWttWlVHeGlranl2ZXdEUkNEZTV4bnp6Sk5Ra2J1WXFMOFk0R0xZaDBJZEdGVllaT2VxajlfdjZ0QnY5MzZiQk9jMnJRRy1EQ0RSeFlJYnRCOHFvVlFWV0FYUzNvQm9HUW8tc9IBYkFVX3lxTE1Yd2NqWEdGaG1fdjBFRkQ5ODYycEkwYUVvRlBLUDNId0puZS1jbzBHOV9JQlg4eEg0N0JlYmp4dVhRMk9zMzB5TFFVVW1ieFktS253NWZsUE4yWTgzSk1ZQUxR?oc=5",
+"f": "經濟日報",
+"s": "money.udn.com",
 "i": "",
-"d": "2026-11-17T22:28-03:00",
+"d": "2026-11-17T23:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "物理AI領軍企業思靈機器人完成5億美元F輪融資",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "United Daily News"
+},
+{
+"id": "566a742332889c",
+"t": "A idade média é de 22 anos, desafiando o mercado global de robôs. Jovens taiwaneses fundaram a Vibe Robotics e receberam investimento da YC | Destaques quentes | Informações comerciais",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JdEtLa25BQTlrNmU5NWQ5VXBfN0RfM2kwZ0VZNGRYS0ZwQjYxOHNvdFFNbnA1U19QQURtUXl5TFBCSjJYdEEwVUpiLVdDOFAyay0wT3JmcjdTZw?oc=5",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-17T23:02-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "平均22歲挑戰全球機器人市場 台灣青年創辦Vibe Robotics獲YC投資 | 熱門亮點 | 商情",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "United Daily News"
+},
+{
+"id": "e031852b4859c9",
+"t": "Humanos ensinam robôs de IA a dobrar roupas: “Os dados são a coisa mais importante” para um salto adiante [Era da IA]",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3VURuOTJ3bEc1bktlLWpoWlVtOVBZLW8wdjd0UUs5OHdaWHNmYU1QUkZJZlBVQ2RzcHYwUEg2MW9tLS1OMkE4akhRV2ZtOUsyMldQNUdISVRpOG01dy1yOUhmeWVMOVU?oc=5",
+"f": "朝日新聞",
+"s": "asahi.com",
+"i": "",
+"d": "2026-11-17T23:30-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "AIロボットに人が教える洗濯物のたたみ方 飛躍へ「データ最重要」 [AIの時代]",
+"lg": "ja",
+"p": 3.5,
+"cr": 3,
+"cv": "Asahi Shimbun"
+},
+{
+"id": "dc6a6b2d5e8318",
+"t": "ONU discute regulamentação de 'robôs assassinos'... Não está claro se as negociações começarão devido à oposição dos EUA e da Rússia.",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Dd3pMb2FfbUR4TVkyUTdzRGJId2o5UzI1NHFpYjE0YkhLOXhydDE1X05TNWNCSlRrd2hGTldUUHRmUkRpR0xnUjUxUGtuZTdnelpIQWZMWnpWZw?oc=5",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "",
+"d": "2026-11-17T23:33-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "In 1940, a dog named Robot stumbled upon a hole by an uprooted tree in France; that hidden hole was found",
+"to": "UN '킬러 로봇' 규제 논의…美·러 반대에 협상 개시 불투명",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Korea Economic Daily"
+},
+{
+"id": "5849194d6ff8fe",
+"t": "Hanwha Systems ganha primeiro acordo com os EUA para radar de detecção de drones",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDdVZENXhLUjRXeEZCQ3ZhYmZ0MU5JenBOaVhXXzBXUlNVelROTC1kS185MzhJcVBYMTZlWnU4TUxFRGsxcGpUSGZ6UHF2Q0V5blJ5MG5uaw?oc=5",
+"f": "The Korea Herald",
+"s": "koreaherald.com",
+"i": "",
+"d": "2026-11-17T23:37-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Hanwha Systems wins first US deal for drone-detection radar",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Korea Herald"
+},
+{
+"id": "05311e470261f3",
+"t": "6 filhotes de baleia cinzenta foram vistos copiando as táticas de alimentação de suas mães em imagens de drones; pesquisadores dizem que",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOWlh0YTNQQjdxbVJpOE5WYUoyZmpIY25LVE5tQ1plNC1VaW9FSkhYZTJ2dW0zejVVRUZlOVU1NnZvb2JNanRNS0JfcldoWDh1SHhfdUZjRUdWTkU1bDV1RDAwQWV3SkljcllZN1pheWw5a2YwUnlqNm1MangzU3lZemlEUXVPM01Pai1SNUNJaExnVDAyVlZFcUFobzJwY0NXV1Jwalo5c0FVX0JsTWFHMVVsQlk2LVZlTVFPRnNYR1RaODh0QzNTOFo5YWowTkdHamxMXzZXbXBxR3BkR2g4Rko4SDBPYm1wSlZXQk1RNU5JRTc1bExnTHRrNjdFWE9RQ3RFMkVOdVA3SGR3b1lIX0RnRnRIMWxjSF9XVTF3RF9sTkVsdEZaYlRYbXdldUIzSXd0bmc0Mi1HZml3OGh2bGxkQXY0cG1sajRuODhuaFJjRm80anRzVmRoel9VLXhReGdXSnZHX041Njhod3BLZzhZQk14N0plaDNNamJnVVBPQ3J1YklXbC1BbC1RM1pibGfSAZcDQVVfeXFMTVRRaFZSN3Z2ZFBFSk96SjM0UFVFTHl3dlBNa3JwbmNaRGh3MkVKdEJFMTdLV0Q4ZGpfS0FxWHZsN3hObDJiNFRZaHllVE84QzVQQndYeG15T1RVYUN3dUtuS0U3MHRLTldPaU04Rnd4Z3FtWUtCeTNYczhqTklYaU9vdmNwUzhOV0lic21waGxJbGxDaVgwNUxtOExYQjJFY0d0SnVkTktwMEVzbFJfU0Zrd2pDS01ZR01qTENjUGJZR084eHlSNEJ1SlhqUG9aUFprbHVVdk9QYWJtTFNGdEc2bktORGhMazgzb3F1S2x2WklzNjR2SFAtWGM3Z2I5emhzN3dWaHAyeExQVHlZYzl6aTR0U01UY3hMY2NOclJFMXlhTmc0d2hzQlAyY3ktZzFMeVBXZnNJd2FxbDRNRWg2QXNSaHN1WDRVZHhrVHE3OHFELUwtbGZTXzRMTXl0UlJvUy1xUWQ4elJqZFk3Rl9qTWM3Q0NSVVV2eEp5bUVfYUZkVVRacG1GRm5SSG5MVlR1NW8wVUU?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-17T23:45-03:00",
+"c": [
+"drones",
+"ia"
+],
+"l": 0,
+"to": "6 grey whale calves were seen copying their mothers’ feeding tactics in drone footage; researchers say th",
 "lg": "en",
 "p": 3.5,
 "cr": 3,
 "cv": "The Times of India"
+},
+{
+"id": "8019a59c3f54a0",
+"t": "Alguns dos primeiros robôs humanóides a trabalhar já estão desempregados - 36 Krypton",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRHczMVJzcUNVNnRPUFhNNy1oNnlGOTIyeEdRanJEVHB6Vy1QaG9jRG1JNmhzRGk3Y0xPTlRlXy12SWlUN2FIaFZudWwtUHJD?oc=5",
+"f": "36kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-17T23:53-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "第一批打工的人形机器人，有的已经失业了-36氪",
+"lg": "zh",
+"p": 3.0,
+"cr": 2,
+"cv": "36Kr"
 },
 {
 "id": "37e1525d80be7b",
@@ -5168,6 +5459,44 @@
 "cv": "36Kr"
 },
 {
+"id": "5d29d9da629e55",
+"t": "Fabricante chinesa de robótica DH-Robotics dá passo em direção a IPO",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTE9tLXZtWGF4eFpWa0NwaTdDX01Ga1ljVEwyWFN5dUpWeWtpenI0ZFV1cVRDbmpFNlZvZTdWdlhIU2JqT1JfR3ZiS0xodDVDMTAycEV2dWgxeTBXY0xHVGMwTmQwT3VfUzF6NXFsdkZBaFlnWUh1T05kNUpzQ3BNTkRXcy1yN00?oc=5",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-17T22:08-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Chinese robotics maker DH-Robotics takes step toward IPO",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Tech in Asia"
+},
+{
+"id": "87b0f0479b4e6c",
+"t": "Análise CoRL 2026: Quando os robôs autônomos estarão prontos para trabalhos como robotáxis?",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHdGa3A4eU5TQ0NiSXJSZHZWOEdHYmkxeS1VS3U1ZHdPYUJpaU44bjU3d1RNZVNmdXJUTW55Y2dsandrbmozNzFlcWtLNzJCMWR6WXFRcGFJLTg1SERqWlZOOUdnd2xGcVZrS2RIWEpPQ2xscHU3dTFrRlpVdE9HYmtVQWxyX1dLMXZpM3BXWU9KSHoxdGRoeQ?oc=5",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "",
+"d": "2026-11-17T22:11-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "CoRL 2026 analysis: When will autonomous robots be ready for work like robotaxis?",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "DigiTimes"
+},
+{
 "id": "6204c2c9be22b1",
 "t": "'Hi Robot', apoiado pela Jeonbuk TP, desenvolve protótipo de módulo de acionamento de desvio de 200 W... Promoção de pedido de patente",
 "r": "",
@@ -5181,6 +5510,122 @@
 ],
 "l": 0,
 "to": "전북TP 지원 '하이로봇', 200W급 스워브 드라이브 모듈 시제품 개발…특허 출원 추진",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
+"id": "2ad2ca0e40576b",
+"t": "Roborock ocupa o primeiro lugar em participação de mercado de aspiradores de pó e esfregões, atrás dos aspiradores robôs na Coreia",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RVUNpZkVfVHR2SkdxQkhXUmlPT0MtYm1KTUktY1k0cFB5WUZVNFRTX01NRmdyVGZ0LXZBVDVfcEJxLTIxbDZZQ2t1RFloUQ?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-17T22:37-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "로보락, 韓 로봇청소기 이어 진공 물걸레 청소기 점유율 1위",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
+"id": "60188789b8c706",
+"t": "Lightwheel detalha ambientes RoboFinals RL para treinamento de robôs de longo horizonte",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUy1SWW5UV0Z1aEVfQnREakRfNHZYcU5FNjhOa1p4U0xWY2dqUVVlel9EbG9EelBnbEM3YjVLZ29DUDFOWG5OeWdtSHN3WC1qcmVGMWR2bTdFTV92ajhZekFpZV9QZHhZSS1vRnR1M25palZkZm5JdFYyT2Etend3VG9TakEybVJqTjQzREVXZw?oc=5",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "",
+"d": "2026-11-17T22:48-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Lightwheel Details RoboFinals RL Environments for Long-Horizon Robot Training",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Pandaily"
+},
+{
+"id": "504710ee24c8b3",
+"t": "Fontes dizem que a Nvidia tranquiliza os parceiros do ecossistema robótico de que o investimento em “IA física” não será interrompido repentinamente",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UYTJDZDRwd2lYNWtmWWJzOF90R0NXY3lSTGtTZTZvUU03MGVuRElBRUtJUmNEVHdhdkNXdUNlM0UzZWltQkZuYWNMb0g?oc=5",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-17T23:14-03:00",
+"c": [
+"ia",
+"negocios"
+],
+"l": 0,
+"to": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "IT之家 (IThome)"
+},
+{
+"id": "89ea90032eaac2",
+"t": "Brinque com seu filho e explique o procedimento de teste... KT·Seoul National University Hospital, demonstração de robô de IA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxOHVJSENybTlZWkg1OUJ2SmdkZFB0OWtDejZPSzVkaFhtc0dGc29JYW5sLW56NHFreTBXemM2ampOa0luQlAxVHBZbDl1RklxMlMtU0h3?oc=5",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "",
+"d": "2026-11-17T23:17-03:00",
+"c": [
+"medicina",
+"ia"
+],
+"l": 0,
+"to": "아이와 놀고 검사 절차 설명…KT·서울대병원, AI 로봇 실증",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ZDNet Korea"
+},
+{
+"id": "ffa24dfa754196",
+"t": "Samsung, SK Hynix e Micron uniram forças para unificar os padrões de cobrança para robôs em fábricas de chips",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KQ3NQZjJIQzhva2I1TXBUZUs1MERvWllKZ0YyQmxOM0tKa3NjcXQ5aHBnZ3FiNEd5QVR2bzBSbmNSVEVfRlJ1LUVYckU?oc=5",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-17T23:23-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "三星、SK 海力士、美光罕见联手，要给芯片工厂的机器人统一充电标准",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "IT之家 (IThome)"
+},
+{
+"id": "8f41ca56e84834",
+"t": "“Do gás lacrimogêneo aos lançadores de granadas”... A identidade dos robôs de controle de distúrbios da China",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NMVZjaFlteXFKY1J0WTJNM3NIMDhscnFiRGY2QmlsZkl2RWFfWWpaNERsUUhiOGJGWEx6c3VBNHBGRzdpVGZJVkFadkQ3dw?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-17T23:55-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“최루탄에 유탄발사기까지”…中 폭동 진압 로봇의 정체",
 "lg": "ko",
 "p": 2.2,
 "cr": 2,
@@ -5795,6 +6240,37 @@
 }
 ],
 "esp": 1
+},
+{
+"id": "1cf526aad240eb",
+"t": "Novidade “Expande a inteligência espacial construída com robôs de entrega e patrulha para setores humanóides e de manufatura”",
+"r": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso…",
+"u": "https://it.donga.com/109937/",
+"f": "IT동아",
+"s": "it.donga.com",
+"i": "https://it.donga.com/media/__sized__/images/2026/11/17/65ad0cd9815a44d8-thumbnail-960x540-70.jpg",
+"d": "2026-11-16T21:58-03:00",
+"c": [
+"humanoides",
+"inspecao",
+"entrega"
+],
+"l": 0,
+"to": "뉴빌리티 “배달·순찰 로봇으로 쌓은 공간 지능, 휴머노이드·제조 부문까지 확장”",
+"lg": "ko",
+"p": 7.1,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"rx": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso, expandimos nossa linha para incluir o robô ambulante de quatro patas ‘NeuTrek’ e o robô humanoide híbrido ‘Billi’, ampliando nosso avanço como empresa física de IA.\nAtravés de uma entrevista com Kang Ki-hyuk, CEO da Newbility, os repórteres analisaram a competitividade da tecnologia de inteligência espacial que acumularam e a direção futura dos seus negócios. : Algumas pessoas ficaram surpresas ao ver que uma empresa focada em robôs de entrega e patrulha introduziu de repente o robô de quatro patas ‘Newtrek’ e o robô humanóide híbrido ‘Billy’. No entanto, resolvemos esta lacuna tecnológica através do nosso ‘Modelo de Fundação de Robô Espacial (RFM Espacial)’ autoconstruído. Um consultor especialista em robôs projeta um cenário personalizado no local através de uma reunião inicial 1:1 e é responsável por todo o processo, desde a configuração inicial até o treinamento de uso, monitoramento em tempo real através do sistema de controle integrado (NCC) e manutenção pós-venda, de acordo com os padrões do cliente. O campo de patrulha será expandido para a defesa nacional e ambientes especiais de terrenos acidentados através do robô ambulante de quatro patas ‘Newtrek’.",
+"o": [
+{
+"f": "동아일보",
+"u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUVVPTnU0QUlMYmZjRWpoeVJ3WE5BWW54aTlpbWpGNkxIWTBHZjBZdno3VThRVENFWFNPcVd2R21vSlpPLWdUcHdockh6U243Qi13ZklVZVBWa0RFWFlrUjRDZ3MteDE2TGNQX3lSY9IBZkFVX3lxTE85WEdtQkxVZFh0cVhRbElQckNLWHNEUzhkbFlLMzNvdlI2TXgwdUp4MWpTSjZvdnVZY0ZWVHZwZ1ZWR3dqazIzQTBZbVhkZFVoeWhXSWJDSXQ3Z1BrMm56MVFwd1ZEdw?oc=5",
+"s": "donga.com",
+"id": "27c9ed87a9ad15"
+}
+]
 },
 {
 "id": "bebff6fa7f1751",
@@ -7018,29 +7494,6 @@
 "cv": "The Robot Report",
 "mx": 1,
 "rx": "No episódio 270 do The Robot Report Podcast, conversamos com Evan Beard, cofundador, CEO e engenheiro-chefe da Standard Bots. A Standard Bots é um dos maiores fabricantes de robôs industriais nativos de IA da América. A Standard Bots desenvolve internamente toda a sua pilha de robótica, desde hardware e software até IA. Sua visão de longo prazo é construir uma operação de fabricação totalmente nacional, desde metal bruto até robôs acabados.\nEvan fundou a Standard Bots com base em uma premissa simples: o país que construir os robôs do futuro construirá tudo no futuro. Da automação inteligente à IA física avançada, a Intel fornece computação, software e ecossistema para ajudar a transformar a inovação robótica em impacto no mundo real. Para saber como você pode patrocinar um episódio futuro do The Robot Report Podcast, entre em contato com Jami Brownlee em [email protegido]"
-},
-{
-"id": "1cf526aad240eb",
-"t": "Novidade “Expande a inteligência espacial construída com robôs de entrega e patrulha para setores humanóides e de manufatura”",
-"r": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso…",
-"u": "https://it.donga.com/109937/",
-"f": "IT동아",
-"s": "it.donga.com",
-"i": "https://it.donga.com/media/__sized__/images/2026/11/17/65ad0cd9815a44d8-thumbnail-960x540-70.jpg",
-"d": "2026-11-16T21:58-03:00",
-"c": [
-"humanoides",
-"inspecao",
-"entrega"
-],
-"l": 0,
-"to": "뉴빌리티 “배달·순찰 로봇으로 쌓은 공간 지능, 휴머노이드·제조 부문까지 확장”",
-"lg": "ko",
-"p": 5.6,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 1,
-"rx": "[Gyeonggi Creative Economy Innovation Center Apresentamos startups promissoras que estabeleceram as bases para o crescimento por meio do Bridge. Acumulamos dados reais de condução fornecendo cerca de 400 robôs autônomos de entrega e patrulha ‘Neubi’ para 150 locais no país e no exterior. Recentemente, com base nisso, expandimos nossa linha para incluir o robô ambulante de quatro patas ‘NeuTrek’ e o robô humanoide híbrido ‘Billi’, ampliando nosso avanço como empresa física de IA.\nAtravés de uma entrevista com Kang Ki-hyuk, CEO da Newbility, os repórteres analisaram a competitividade da tecnologia de inteligência espacial que acumularam e a direção futura dos seus negócios. : Algumas pessoas ficaram surpresas ao ver que uma empresa focada em robôs de entrega e patrulha introduziu de repente o robô de quatro patas ‘Newtrek’ e o robô humanóide híbrido ‘Billy’. No entanto, resolvemos esta lacuna tecnológica através do nosso ‘Modelo de Fundação de Robô Espacial (RFM Espacial)’ autoconstruído. Um consultor especialista em robôs projeta um cenário personalizado no local através de uma reunião inicial 1:1 e é responsável por todo o processo, desde a configuração inicial até o treinamento de uso, monitoramento em tempo real através do sistema de controle integrado (NCC) e manutenção pós-venda, de acordo com os padrões do cliente. O campo de patrulha será expandido para a defesa nacional e ambientes especiais de terrenos acidentados através do robô ambulante de quatro patas ‘Newtrek’."
 },
 {
 "id": "21c0e02f4f07d2",
@@ -9383,6 +9836,25 @@
 "cr": 3,
 "cv": "Axios",
 "mx": 3
+},
+{
+"id": "3789ecaa413961",
+"t": "A nave espacial circulou a Terra 14 vezes e o braço do robô ‘bate!’",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RVW0xdTVCclRQTl9KeUVJWXJqSHA1NzFGSFk0SVVyaHhTT1FlZmZGOW1LMmI0ZDBpWk9mbWN3eUlGQWZHWEs0aVVqbzd2S1Y4LWNPRzNPMDBNVnFSVHZ5Z2gzeTVzWFJ6?oc=5",
+"f": "어린이동아",
+"s": "kids.donga.com",
+"i": "",
+"d": "2026-11-16T20:00-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "지구 14바퀴 돌고 온 우주선, 로봇 팔이 ‘착!’",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Dong-A Ilbo"
 },
 {
 "id": "3d7b91954e6ce5",
@@ -12884,6 +13356,25 @@
 "cv": "Tom's Hardware",
 "mx": 1,
 "rx": "Poucos dias depois de Jensen Huang renunciar repentinamente ao seu cargo na Nvidia, um engenheiro de pesquisa de robôs da Nvidia disse que também deixaria a empresa. Mas mais do que apenas mostrar apoio ao ex-CEO com uma mensagem genérica “Estou com Jensen”, Darrel Dai expôs vários motivos para a decisão sobre X. Parece que Jensen Huang ganhou o respeito das pessoas que trabalham sob ele, com muitos a pedirem a sua reintegração, apesar das muitas controvérsias que enfrenta atualmente. Há também uma petição online exigindo que o conselho da Nvidia “traga Jensen de volta”, com mais de 150.000 assinaturas no momento da redação.\nA Nvidia está centrada em Jensen Huang, com o ex-presidente-executivo supostamente tendo um pequeno exército de 60 pessoas subordinadas diretamente a ele. Ainda não está claro o que o ex-CEO da Nvidia fará depois de todos esses problemas."
+},
+{
+"id": "f2c9dc555e86e8",
+"t": "Se você remover sua mão, ela se tornará uma mão robótica? ‘Luva mágica’ que ensina habilidades manuais humanas",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14VVIzR3Q1YnVuaTlNdFY5eTNqU0d6OWdRVUxRNnNVVEhOMThCWG9UMEl6R01BenhWSDZLRkFobEROeGs3Rm9SdkdPRnpMdk9aRmFIVkhNVU1pOTJPWDBBT1lPREpSS0tj?oc=5",
+"f": "어린이동아",
+"s": "kids.donga.com",
+"i": "",
+"d": "2026-11-15T20:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "손을 빼면 로봇 손으로? 사람 손기술 배우는 ‘마법 장갑’",
+"lg": "ko",
+"p": 3.5,
+"cr": 3,
+"cv": "Dong-A Ilbo"
 },
 {
 "id": "4249f167f87078",
@@ -20120,7 +20611,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -26009,7 +26500,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -42033,7 +42524,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -42062,7 +42553,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
