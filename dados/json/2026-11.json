@@ -22,6 +22,35 @@
 "rx": "Um robô desenvolvido por pesquisadores do Instituto de Tecnologia da Califórnia (Caltech) montou com sucesso parte de uma estrutura no espaço sem que astronautas realizassem a construção. Lançado em órbita em março de 2026, o sistema robótico uniu componentes individuais para construir uma seção de um experimento…"
 },
 {
+"id": "3824986d078d60",
+"t": "Humanóide percorre linha de semicondutores... Boston Dynamics acelera demonstração física de IA",
+"r": "A subsidiária de robótica do Hyundai Motor Group, Boston Dynamics, uniu-se à GlobalFoundries, uma empresa global de fundição de semicondutores (fabricação em consignação), para expandir a avaliação empírica do robô humanóide ‘Atlas’ e a implantação em campo do robô quadrúpede ‘Spot’.",
+"u": "https://www.donga.com/news/Economy/article/all/20261118/135048951/1",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/18/135048909.1.jpg",
+"d": "2026-11-18T05:22-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "휴머노이드가 반도체 라인 누빈다…보스턴다이나믹스, 피지컬 AI 실증 가속",
+"lg": "ko",
+"p": 7.1,
+"o": [
+{
+"f": "EV라운지",
+"u": "https://evlounge.donga.com/FOREV/article/all/20261118/135048951/2",
+"s": "evlounge.donga.com",
+"id": "1f91c6e0c53681"
+}
+],
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"rx": "A subsidiária de robótica do Hyundai Motor Group, Boston Dynamics, uniu-se à GlobalFoundries, uma empresa global de fundição de semicondutores (fabricação em consignação), para expandir a avaliação empírica do robô humanóide ‘Atlas’ e a implantação em campo do robô quadrúpede ‘Spot’."
+},
+{
 "id": "7d8fe5d4fd2cc5",
 "t": "Robôs chineses aprendem com humanos no centro tecnológico de Shenzhen",
 "r": "",
@@ -179,9 +208,9 @@
 ],
 "cr": 3,
 "cv": "Le Figaro",
-"cur": 1,
 "mx": 1,
-"rx": "151 robôs dançaram nas ruas de Shenzen, na China, em 17 de novembro, enquanto acontecia lá a 33ª cúpula da Apec. A performance permitiu assim estabelecer um novo recorde mundial do Guinness para dança sincronizada de robôs. Leia também Vladimir Putin chegou à China, onde se encontrará com Donald Trump e Xi Jinping"
+"rx": "151 robôs dançaram nas ruas de Shenzen, na China, em 17 de novembro, enquanto acontecia lá a 33ª cúpula da Apec. A performance permitiu assim estabelecer um novo recorde mundial do Guinness para dança sincronizada de robôs. Leia também Vladimir Putin chegou à China, onde se encontrará com Donald Trump e Xi Jinping",
+"cur": 1
 },
 {
 "id": "ff424f0996b2c0",
@@ -211,7 +240,7 @@
 "u": "https://www.straitstimes.com/videos/6408532572112",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "",
 "d": "2026-11-18T03:08-03:00",
 "c": [
 "humanoides",
@@ -223,7 +252,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "The Straits Times",
-"mx": 1,
+"mx": 9,
 "rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com."
 },
 {
@@ -236,7 +265,8 @@
 "i": "https://wimg.heraldcorp.com/news/cms/2026/11/18/my-p.v1.20261118.f967132a398b4fb8969e354721775d4f_P1.jpg",
 "d": "2026-11-18T03:24-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"defesa"
 ],
 "l": 0,
 "to": "Humanoid dominance: China’s tight ecosystem model takes on Hyundai’s tech alliances",
@@ -279,7 +309,8 @@
 "d": "2026-11-18T04:22-03:00",
 "c": [
 "humanoides",
-"industriais"
+"industriais",
+"quadrupedes"
 ],
 "l": 0,
 "to": "현대차 휴머노이드 '아틀라스', 반도체 공장으로 진출…2027년 첫 현장 테스트",
@@ -359,6 +390,52 @@
 "rx": "A Miracom I&C combina recursos de TI de fabricação, MES e IA com a tecnologia robótica da Rainbow Robotics para criar um negócio RX (Transformação Robótica) integrado que abrange todo o negócio RX (Transformação Robótica) de fabricação."
 },
 {
+"id": "3868689d716c98",
+"t": "Elroy Air fecha acordo de US$ 70 milhões para 20 drones de carga autônomos",
+"r": "A Elroy Air está levando seus drones de carga pesada para o Oriente Médio em grande estilo. A empresa norte-americana assinou um acordo de compra de aeronaves com o Barq Group, com sede em Abu Dhabi, para até 20 aeronaves de carga autônomas Chaparral, em um negócio avaliado em até US$ 70 milhões. mais…",
+"u": "https://dronedj.com/2026/11/18/elroy-air-drone-abu-dhabi/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/elroy-air-drone-abu-dhabi.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-18T05:04-03:00",
+"c": [
+"drones",
+"negocios",
+"autonomos"
+],
+"l": 0,
+"to": "Elroy Air lands $70 million deal for 20 autonomous cargo drones",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"mx": 1,
+"rx": "A Elroy Air está levando seus drones de carga pesada para o Oriente Médio em grande escala, com um acordo avaliado em até US$ 70 milhões."
+},
+{
+"id": "89e1fcf9b471ef",
+"t": "A maior atualização de drone do Skyrover já chegou e está carregada",
+"r": "Se você está procurando um motivo para atualizar seu drone ou finalmente entrar na fotografia aérea, o Skyrover tem um novo carro-chefe que merece uma olhada mais de perto. O Skyrover V1 é um drone com câmera compacta que promete voos mais longos, prevenção de obstáculos mais inteligente, capacidades de imagem impressionantes e alguns recursos práticos…",
+"u": "https://dronedj.com/2026/11/18/skyrover-v1-drone-us-price/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/skyrover-v1-drone-us-price-features-new-dji-alternative.jpg?quality=82&strip=all&w=1504",
+"d": "2026-11-18T06:11-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Skyrover’s biggest drone upgrade yet is here, and it’s loaded",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"mx": 1,
+"rx": "Skyrover vem construindo um nome para si mesmo como uma das alternativas DJI mais reconhecidas. Aqui está o que faz seu novo drone V1 funcionar..."
+},
+{
 "id": "76ab89f3eac7ff",
 "t": "Preço atual das ações da empresa de robôs (2026-11-18)",
 "r": "",
@@ -377,7 +454,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1
+"mx": 2
 },
 {
 "id": "06be1c23ca1f83",
@@ -516,7 +593,8 @@
 "i": "https://wimg.heraldcorp.com/news/cms/2026/11/18/news-p.v1.20261118.c73de20fd4744a5fa7f5926dc241d020_P1.jpg",
 "d": "2026-11-18T03:00-03:00",
 "c": [
-"geral"
+"industriais",
+"espaco"
 ],
 "l": 0,
 "to": "HD Hyundai Robotics sells first 1-ton-class robot",
@@ -558,9 +636,10 @@
 "i": "https://robotstart.info/imgs/ogp_f/109546.jpg",
 "d": "2026-11-18T03:25-03:00",
 "c": [
+"competicoes",
 "industriais",
 "logistica",
-"competicoes"
+"cobots"
 ],
 "l": 0,
 "to": "双腕ロボットとAMR連携の操作を実演 テックマンロボットがSSIと「ファクトリーイノベーションWeek 名古屋 2026」に出展予定",
@@ -582,7 +661,9 @@
 "d": "2026-11-18T03:30-03:00",
 "c": [
 "defesa",
-"competicoes"
+"competicoes",
+"ia",
+"educacao"
 ],
 "l": 0,
 "to": "해양AI 대회 참가한 옥스퍼드 로봇 천재들…부산 바다서 도전",
@@ -592,6 +673,197 @@
 "cv": "Yonhap",
 "mx": 1,
 "rx": "(Busan = Yonhap News) Son Hyeong-ju = Na Competição Internacional de Mobilidade de IA Marinha realizada na Universidade Marítima Nacional em Busan, estudantes e pesquisadores da Universidade de Oxford, no Reino Unido, que mostram pontos fortes na pesquisa de 'IA Física', participaram e chamaram a atenção. Nos encontramos com participantes da Universidade de Oxford, no Reino Unido, na 2ª Competição Internacional de Mobilidade de IA Marítima (Regatta X2026), realizada na Universidade Nacional Marítima e Oceânica da Coreia no dia 18. A razão pela qual os chamados “génios robóticos” participaram na Competição de Mobilidade de IA Marinha realizada na Coreia deve-se ao potencial de crescimento da indústria de IA marinha e ao seu sentido de desafio em novos campos. Mazi Zarrehparvar, diretor de programa da Universidade de Oxford, disse em entrevista à Yonhap News: \"A Universidade de Oxford é forte em robótica, mas fraca em marítima\", e acrescentou: \"Decidi participar da competição porque pensei que combinar o campo físico da IA, que é o ponto forte da Universidade de Oxford, com os dados (marinhos) da Universidade Marítima produziria bons resultados\".\nEle acrescentou: \"A Universidade Marítima e Oceânica da Coreia, que sonha em se tornar o Vale Oceânico da Coreia, tem potencial no campo da IA ​​​​marinha, e a Universidade de Oxford, que é forte em IA física, parece ser de grande ajuda\". Ele acrescentou: “Esta competição não era para ser uma competição, mas para trocar conhecimentos de IA com estudantes coreanos”. Mesmo os estudantes que estudam e pesquisam no campo da IA ​​física em uma universidade de prestígio no Reino Unido não estão familiarizados com a IA marinha. (Busan = Yonhap News) Repórter Park Seong-je = Corridas autônomas de drones aquáticos não tripulados estão acontecendo durante a 'Regata"
+},
+{
+"id": "12be735c544e42",
+"t": "[Situação de mercado fechado] KOSPI recupera 5.000 pontos… Os estoques de semicondutores e robôs estão fortes, os estoques de biograndes estão fracos.",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Graças ao anúncio surpreendente de lucros da Nvidia, grandes ações de semicondutores se recuperaram e as compras líquidas institucionais fluíram, fazendo com que o índice KOSPI se recuperasse para a marca de 5.000 em um dia…",
+"u": "https://www.hankyung.com/article/202611185077i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46467897.1.jpg",
+"d": "2026-11-18T03:45-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[마감시황]코스피 5000선 탈환…반도체·로봇주 강세, 바이오 대형주 약세",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Graças ao anúncio surpreendente de lucros da Nvidia, grandes ações de semicondutores se recuperaram e as compras líquidas institucionais fluíram, fazendo com que o índice KOSPI se recuperasse para a marca de 5.000 em um dia. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
+},
+{
+"id": "6151f0256604c0",
+"t": "5.000 sangue recuperado pela brisa quente da Nvidia... Robô/Entretenimento ‘Fly’",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação…",
+"u": "https://www.hankyung.com/article/2026111851106",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/ZA.46467975.1.jpg",
+"d": "2026-11-18T03:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "엔비디아 훈풍에 5000피 회복…로봇·엔터주 '훨훨'",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
+},
+{
+"id": "d7317533619050",
+"t": "Image One [2667]: Abertura da exposição de robôs e base de demonstração \"IMO Robotics LAB\" para promover negócios físicos de IA em 18 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
+"r": "18 de novembro de 2026 O documento de divulgação da Image One [2667] ``Estabelecimento de base de exposição e demonstração de robôs ``IMO Robotics LAB'' para promover negócios físicos de IA'' pode ser visualizado. Os materiais podem ser baixados em PDF",
+"u": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582779/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582779/thumbnail/?ttype=ogp",
+"d": "2026-11-18T04:00-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "イメージワン[2667]：フィジカルAI事業の推進に向け、ロボット展示・実証拠点 「IMOロボティクスLAB」を開設 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "18 de novembro de 2026 O documento de divulgação da Image One [2667] ``Estabelecimento de base de exposição e demonstração de robôs ``IMO Robotics LAB'' para promover negócios físicos de IA'' pode ser visualizado. Os materiais podem ser baixados em PDF"
+},
+{
+"id": "a9cb2aecb2a5a3",
+"t": "Square, atraindo investimento estratégico da DRB Dongil... Expandindo a cooperação de controle de IA do robô logístico",
+"r": "SAKAK (CEO Geon-gyu Bae), uma empresa de inteligência artificial (IA) hiperpersonalizada, anunciou que atraiu investimento estratégico Série A de DRB Dongil (CEO Hyun-min Cho). Fundada em abril de 2022, a principal solução da Sasak é o 'CANDiY AI', um agente de IA hiperpersonalizado. Este investimento é um…",
+"u": "https://biz.chosun.com/industry/business_info/2026/11/18/YQPRAFYSMJBENH7NYNW6BDKQS4/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/4VL4ZU3UR5GDPESIWCM5XBL3VU.jpg?auth=fd43fd0a67681c472da150bbb27143bd0bc1ebc3cee3a8e53012b49b9b86d6a6&width=1200&height=630&smart=true",
+"d": "2026-11-18T04:10-03:00",
+"c": [
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "사각, DRB동일서 전략적 투자 유치…물류로봇 AI 제어 협력 확대",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "SAKAK (CEO Geon-gyu Bae), uma empresa de inteligência artificial (IA) hiperpersonalizada, anunciou que atraiu investimento estratégico Série A de DRB Dongil (CEO Hyun-min Cho). Fundada em abril de 2022, a principal solução da Sasak é o 'CANDiY AI', um agente de IA hiperpersonalizado. Este investimento é um investimento estratégico (IS) baseado na cooperação tecnológica existente entre as duas empresas. Antes do investimento, a Square conduziu uma prova de conceito (PoC) de tecnologia de controle de veículo guiado automaticamente (AGV) usando comandos de voz com a equipe de pesquisa de tecnologia inteligente DRB Dong-il. Em outubro passado, DRB Dongil também assinou um acordo comercial com a Fundação de Promoção da Zona Especial de Pesquisa e Desenvolvimento para cooperação na verificação de tecnologia e comercialização da indústria manufatureira de base tecnológica profunda. As duas empresas planeiam utilizar este investimento como uma oportunidade para expandir a cooperação na área de interfaces de linguagem natural e agentes de IA.\nBaek Geon-gyu, CEO da Sasak, disse: \"Através da cooperação tecnológica com DRB Dongil, confirmamos a possibilidade de aplicar agentes de IA em locais industriais. Com este investimento, avançaremos a tecnologia de controle de equipamentos baseada em linguagem natural e expandiremos o escopo da cooperação para as áreas de automação logística e IA física\"."
+},
+{
+"id": "31332e6ef29c31",
+"t": "Depois de Atlas, outro personagem principal da CES?... Os estoques de robôs disparam, vão subir ainda mais?",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. As ações domésticas relacionadas com a robótica estão a subir ao mesmo tempo devido às expectativas da revelação de robôs humanóides na CES 2027 e à perspetiva de benefícios negativos das regulamentações dos EUA sobre a China…",
+"u": "https://www.hankyung.com/article/202611185064i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/99.44947854.1.jpg",
+"d": "2026-11-18T04:43-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. As ações domésticas relacionadas com a robótica estão a subir ao mesmo tempo devido às expectativas da revelação de robôs humanóides na CES 2027 e à perspetiva de benefícios negativos das regulamentações dos EUA sobre a China, aumentando as expectativas para um florescimento completo do mercado. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
+},
+{
+"id": "a208e743261834",
+"t": "Lutas em gaiolas de robôs e cheirando nanopartículas: notas do “campo de distorção da realidade” da fronteira de IA do Vale do Silício",
+"r": "Um antigo showroom de colchões na Avenida Van Ness, em São Francisco, ganhou recentemente uma nova vida. Esse escrúpulo é o que os técnicos do Vale do Silício chamam de “barreira à adoção”. E é por isso que a Subsense está desenvolvendo uma abordagem diferente: cheirar nanopartículas pelo nariz, para serem controladas…",
+"u": "https://fortune.com/2026/11/18/san-francisco-silicon-valley-ai-boom-humanoid-robots-brain-computer-interfaces/",
+"f": "Fortune",
+"s": "fortune.com",
+"i": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Fortune_AI-Boom-animated-web-smaller-1.gif?resize=1200,600",
+"d": "2026-11-18T05:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robot cage fights and snorting nanoparticles: Notes from the ‘reality distortion field’ of Silicon Valley’s AI frontier",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Fortune",
+"mx": 1,
+"rx": "Um antigo showroom de colchões na Avenida Van Ness, em São Francisco, ganhou recentemente uma nova vida. Esse escrúpulo é o que os técnicos do Vale do Silício chamam de “barreira à adoção”. E é por isso que a Subsense está desenvolvendo uma abordagem diferente: cheirar nanopartículas pelo nariz, para serem controladas por meio de receptores de metal em um boné que parece um cruzamento entre um boné de beisebol e um capacete de bicicleta.\nHá um futurismo de desenho animado na vida cotidiana – tornando cada vez mais difícil encontrar a linha entre o Vale do Silício e uma sátira do Vale do Silício. Algumas das pessoas mais inteligentes do planeta estão aqui em São Francisco, trabalhando na OpenAI, na Anthropic e em outras empresas que constroem os grandes modelos de linguagem que sustentam a IA generativa. Esse fato desconcertante explica muito sobre a distorção da realidade que afeta a vida em São Francisco atualmente."
+},
+{
+"id": "b16d415a352eaf",
+"t": "Hansae Industry e Hansae Yes24 Holdings receberam prêmio de relações públicas por ‘roupas de robô’",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A Hansae Corporation, uma empresa global de fabricação e desenvolvimento (ODM), e a Hansae Mobility, uma empresa especializada em peças automotivas, receberam prêmios juntos no Employment Awards for the Disabled. A Hansae…",
+"u": "https://www.hankyung.com/article/202611185399i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46468907.1.jpg",
+"d": "2026-11-18T05:12-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "한세실업·한세예스24홀딩스, '로봇 옷'으로 PR 상 받았다",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A Hansae Corporation, uma empresa global de fabricação e desenvolvimento (ODM), e a Hansae Mobility, uma empresa especializada em peças automotivas, receberam prêmios juntos no Employment Awards for the Disabled. A Hansae Corporation e a Hansae Mobility são hospedadas pela VDream, uma empresa especializada em soluções de gestão de recursos humanos (RH) para pessoas com deficiência... Por que a Louis Vuitton fabrica roupas e a Ferrari fabrica carros elétricos [Inside & Behind, de Lee Yun-jeong] Uma das 'verdades' que aprendi ao cobrir inúmeras marcas e produtos é 'inalterada'. empresas [Pessoa +] Como é?\"Ji Min-joo, CEO da Janidle, apontou para as roupas e sapatos que ela usava. Uma saia costurada com várias camadas de tecido colorido..."
+},
+{
+"id": "3ff2f5d2a6fe71",
+"t": "Bengaluru Tech Summit mostra as ambições robóticas da Índia enquanto startups olham para o mercado global",
+"r": "De robôs de quatro patas a humanóides, a inteligência artificial está em alta no Bengaluru Tech Summit deste ano. O Vale do Silício da Índia viu startups e inovadores de todo o mundo apresentarem suas mais recentes criações. Relatórios Priyata Brajabasi da CNA.",
+"u": "https://www.channelnewsasia.com/watch/bengaluru-tech-summit-showcases-indias-robotics-ambitions-startups-eye-global-market-6561611",
+"f": "CNA",
+"s": "channelnewsasia.com",
+"i": "https://dam.mediacorp.sg/image/upload/s--46yfvJdy--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/18/bengaluru.png?itok=34m9b1w3",
+"d": "2026-11-18T05:35-03:00",
+"c": [
+"competicoes",
+"negocios"
+],
+"l": 0,
+"to": "Bengaluru Tech Summit showcases India's robotics ambitions as startups eye global market",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNA (Singapura)",
+"mx": 1,
+"rx": "De robôs de quatro patas a humanóides, a inteligência artificial está em alta no Bengaluru Tech Summit deste ano. O Vale do Silício da Índia viu startups e inovadores de todo o mundo apresentarem suas mais recentes criações. Relatórios Priyata Brajabasi da CNA."
+},
+{
+"id": "2e48e59dd3b75b",
+"t": "Equipe de treinamento DDD da Carbon Black fica em segundo lugar na competição de IA de robôs da NVIDIA... Prêmio de Inovação Industrial",
+"r": "Uma equipe inicial preliminar no campo de inteligência artificial física (IA) doméstica ganhou o Prêmio de Inovação Industrial na Competição Internacional de Tecnologia de IA de Robôs organizada pela NVIDIA. A empresa ganhou um prêmio por desenvolver tecnologia para converter vídeos de pessoas trabalhando em dados 3D…",
+"u": "https://biz.chosun.com/it-science/ict/2026/11/18/W6WZNVNAKRCCXHRSGMQIUTOOW4/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/TCIQXAPZ5ZDAZKFXSKRLQEY7SM.png?auth=abe3aa4438bcd6f5232a23631d316b3b4784697e10a72b88f05879536f7645fc&width=946&height=496&smart=true",
+"d": "2026-11-18T05:47-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "카본블랙 육성팀 DDD, 엔비디아 로봇 AI 대회서 2위… 산업혁신상 수상",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Uma equipe inicial preliminar no campo de inteligência artificial física (IA) doméstica ganhou o Prêmio de Inovação Industrial na Competição Internacional de Tecnologia de IA de Robôs organizada pela NVIDIA. A empresa ganhou um prêmio por desenvolver tecnologia para converter vídeos de pessoas trabalhando em dados 3D necessários para o aprendizado do robô. Carbon Black, um estúdio de risco especializado em IA física, anunciou no dia 18 que a equipe de pré-startup que promove, 'DDD', ganhou o Prêmio de Inovação Industrial no 'Desafio Video to Data (V2D)' da Nvidia e ficou em segundo lugar na final. O Desafio V2D, realizado pela primeira vez pela NVIDIA este ano, é uma competição internacional que avalia a precisão com que vídeos de pessoas trabalhando são convertidos em dados que podem ser usados ​​para aprendizagem de robôs. O DDD está desenvolvendo tecnologia para restaurar a forma e o movimento de objetos que aparecem em vídeos em três dimensões e conectá-los a simulações para aprendizado de robôs.\nA administração e os juízes da NVIDIA descreveram a tecnologia DDD como \"uma abordagem inovadora e amplamente automatizada que demonstrou a mais alta qualidade visual entre as entradas da Faixa 3 analisadas\". Dr. Choi disse: \"Estou feliz que a praticidade e a precisão da tecnologia de reconhecimento 3D que venho pesquisando tenham sido reconhecidas no cenário mundial\". Ele acrescentou: “A tecnologia que pode proteger os dados de aprendizagem do robô usando apenas imagens gerais, sem equipamentos dedicados caros, contribuirá para reduzir os custos e o tempo de coleta de dados”."
 },
 {
 "id": "6b06f0b6e8faf7",
@@ -612,7 +884,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 1,
+"mx": 2,
 "rx": "Xiaomi Robotics 0 é um modelo de base de robô de código aberto desenvolvido pela Xiaomi, a empresa de tecnologia chinesa conhecida por smartphones e veículos elétricos. Lançado em 12 de fevereiro de 2026, representa o primeiro modelo público de IA de robô da Xiaomi e coloca a empresa no campo crescente de software robótico de uso geral. A Xiaomi publicou o modelo juntamente com ferramentas de treinamento, tornando o lançamento relevante para pesquisadores e equipes de engenharia que investigam modelos de fundação de robôs.\nA avaliação técnica de um modelo de fundação de robô deve distinguir o software publicado do sistema completo usado em um experimento. Para as equipes de pesquisa que estão considerando o Xiaomi Robotics 0, os critérios de avaliação úteis incluem qualidade da documentação, reprodutibilidade, dependências de software e os termos que regem o uso e modificação do modelo."
 },
 {
@@ -660,6 +932,27 @@
 "rx": "2026 Manufacturing Innovation Korea foi realizada no aT Center em Seocho-gu, Seul, no dia 18. No estande da Sainte, os visitantes examinam um robô bípede altamente móvel, capaz de lidar com terrenos acidentados."
 },
 {
+"id": "a19aa55cd9326d",
+"t": "Corra, caminhe e carregue você mesmo as baterias! Apresentando um robô ambulante quadrúpede evoluído [Recurso especial Inter BEE 2026]",
+"r": "No estande da Elsa Japão, foi apresentado o robô ambulante de quatro patas da DEEPRobotics \"Lynx M20 Pro\". Lynx M20 Pro é um robô industrial destinado ao uso em inspeções de fábricas e equipamentos de infraestrutura, segurança, locais de desastres, etc.",
+"u": "https://ascii.jp/elem/000/004/452/4452781/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2026/11/18/4553666/xl/284aab5bedf5f34c.png?20200122",
+"d": "2026-11-18T03:10-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "走る、歩く、充電も自分でやる！ 進化した4足歩行ロボットが登場【Inter BEE 2026特集】",
+"lg": "ja",
+"p": 4.3,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "No estande da Elsa Japão, foi apresentado o robô ambulante de quatro patas da DEEPRobotics \"Lynx M20 Pro\". Lynx M20 Pro é um robô industrial destinado ao uso em inspeções de fábricas e equipamentos de infraestrutura, segurança, locais de desastres, etc.\nNeste estande também realizamos uma demonstração em que uma câmera e um dispositivo de transmissão de vídeo são montados na parte traseira de um robô, e as imagens capturadas são transmitidas via Wi-Fi. Também foi apresentado um sistema que usa o kit de desenvolvimento Jetson Thor da NVIDIA para analisar imagens de câmeras de robôs usando IA."
+},
+{
 "id": "c3e1029f253798",
 "t": "Genesis AI, Wandercraft, Uma… A tecnologia francesa está pegando fogo por robôs humanóides",
 "r": "",
@@ -677,7 +970,50 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
+"mx": 2
+},
+{
+"id": "9dfab264314acc",
+"t": "KIRO·KIRIA realiza ‘Reunião de Intercâmbio de Tecnologia de P&D do Projeto Humanoid AX 2026’",
+"r": "O Instituto Coreano de Robótica e Convergência (KIRO, Presidente Kang Ki-won) realizou a 'Reunião de Intercâmbio de Tecnologia de P&D do Projeto Humanoid AX 2026' no Grand Chosun Hotel em Busan por dois dias, nos dias 17 e 18, junto com a Agência de Promoção da Indústria de Robôs da Coreia (KIRIA, Presidente Cho…",
+"u": "https://www.etnews.com/20261118000447",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.f0ad783717014df8a2f401e57953545a_P1.jpg",
+"d": "2026-11-18T05:29-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "KIRO·KIRIA, '2026년 휴머노이드 AX 프로젝트 R&D 기술교류회' 개최",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "O Instituto Coreano de Robótica e Convergência (KIRO, Presidente Kang Ki-won) realizou a 'Reunião de Intercâmbio de Tecnologia de P&D do Projeto Humanoid AX 2026' no Grand Chosun Hotel em Busan por dois dias, nos dias 17 e 18, junto com a Agência de Promoção da Indústria de Robôs da Coreia (KIRIA, Presidente Cho Young-hoon) e a Associação da Indústria de Robôs e IA da Coreia (Presidente Oh Jun-ho). Este evento faz parte do 'Projeto de Expansão do Projeto Humanoid AX Aplicável aos Locais de Fabricação e à Vida Diária' promovido pelo Ministério do Comércio, Indústria e Energia e pelo Instituto Coreano de Planejamento e Avaliação de Tecnologia Industrial. No primeiro dia, KEIT Robot PD Park Il-woo apresentou '2027 Robot Industry Technology Development R&D Planning Direction' e o professor da Universidade Kyung Hee, Kim Dong-han, apresentou 'Humanoid Robot Learning Dataset Standard Trends', seguido por apresentações de tarefas detalhadas por campo. No campo da IA ​​e dos dados, a Tomorrow Robotics (modelo de base do robô humanóide AI) e o Korea Electronics Technology Institute (fábrica escura humanóide baseada na aprendizagem de conhecimento tácito) apresentaram tecnologias básicas comuns e orientações para a utilização de dados.\nEsta reunião de intercâmbio é significativa na medida em que partilhou experiências de desenvolvimento humanóide em vários campos, como a produção, os serviços, o lar e a medicina, e confirmou a possibilidade de interligar tecnologias de base comuns. O diretor da KIRIA, Cho Young-hoon, disse: “Esta reunião de intercâmbio é uma oportunidade para expandir o escopo da cooperação, compartilhando tecnologias e experiências entre projetos humanóides promovidos em cada local”. Ele acrescentou: “Trabalharemos em estreita colaboração com as organizações participantes para garantir que a ligação entre os projetos possa levar a resultados em instalações industriais reais”. O diretor da KIRO, Kang Ki-won, disse: “Para que os humanóides se estabeleçam em locais industriais reais, a cooperação para compartilhar dados, modelos e experiências empíricas, juntamente com o avanço tecnológico para tarefas individuais, é essencial”. Ele acrescentou: “Aproveitando esta reunião de intercâmbio como uma oportunidade, fortaleceremos a ligação entre as tarefas e apoiaremos ativamente os K-Humanóides para que possam alcançar resultados práticos no campo”."
+},
+{
+"id": "e89a4068acf91c",
+"t": "Samsung supostamente planeja dois robôs humanóides para CES 2027",
+"r": "A Samsung Electronics planeja revelar dois robôs humanóides na CES 2027 em Las Vegas, em janeiro, à medida que expande seu negócio de robótica e desenvolve robôs para fabricação e outras aplicações.",
+"u": "https://www.digitimes.com/news/a20261118VL222/samsung-ces-2027-manufacturing-design.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261118vl222_files/2_2b.jpg",
+"d": "2026-11-18T05:55-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Samsung reportedly plans two humanoid robots for CES 2027",
+"lg": "en",
+"p": 4.3,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "A Samsung Electronics planeja revelar dois robôs humanóides na CES 2027 em Las Vegas, em janeiro, à medida que expande seu negócio de robótica e desenvolve robôs para fabricação e outras aplicações."
 },
 {
 "id": "4e46c83eb4f8f2",
@@ -718,28 +1054,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Australian",
-"mx": 2
-},
-{
-"id": "567ec50ab23da2",
-"t": "Tecnologia Longqi: Equipamentos robóticos incorporados de mineração de dados foram produzidos e entregues em massa, representando não mais que 1% da receita - 36 Krypton",
-"r": "Ao meio-dia de 18 de Novembro, o Presidente Xi Jinping reuniu-se em Shenzhen com o Presidente Russo, Vladimir Putin, que estava na China para participar na Reunião Informal dos Líderes da APEC.",
-"u": "https://www.36kr.com/newsflashes/4074749107524740",
-"f": "www.36kr.com",
-"s": "36kr.com",
-"i": "",
-"d": "2026-11-18T01:31-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "龙旗科技：具身机器人数采设备已量产交付，收入占比不超1%-36氪",
-"lg": "zh",
-"p": 3.5,
-"cr": 2,
-"cv": "36Kr",
-"mx": 9,
-"rx": "Ao meio-dia de 18 de Novembro, o Presidente Xi Jinping reuniu-se em Shenzhen com o Presidente Russo, Vladimir Putin, que estava na China para participar na Reunião Informal dos Líderes da APEC."
+"mx": 3
 },
 {
 "id": "5707200b2b9764",
@@ -759,7 +1074,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "24432039ab5c61",
@@ -779,7 +1094,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "FAZ",
-"mx": 1
+"mx": 2
 },
 {
 "id": "5346cc2846631d",
@@ -799,84 +1114,27 @@
 "p": 3.5,
 "cr": 3,
 "cv": "FAZ",
+"mx": 2
+},
+{
+"id": "c4644538a053ab",
+"t": "Do café às encomendas, os robôs chineses estão migrando para a IA",
+"r": "",
+"u": "https://www.france24.com/fr/info-en-continu/20261118-du-caf%C3%A9-aux-colis-les-robots-chinois-passent-%C3%A0-l-ia",
+"f": "France 24",
+"s": "france24.com",
+"i": "",
+"d": "2026-11-18T06:15-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Du café aux colis, les robots chinois passent à l'IA",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "France 24",
 "mx": 1
-},
-{
-"id": "12be735c544e42",
-"t": "[Situação de mercado fechado] KOSPI recupera 5.000 pontos… Os estoques de semicondutores e robôs estão fortes, os estoques de biograndes estão fracos.",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRanhNNko2Vzl0b2MyVklvMVMyRDFEU2dEcHhWdGxJcUk1RVZ6TG9vekJ2YU1ySFJLbkJEb1ZlYUJxR2d1UDM3Zzl0VklxOHVfTzhleW1EeXBYZw?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-18T03:45-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "[마감시황]코스피 5000선 탈환…반도체·로봇주 강세, 바이오 대형주 약세",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily"
-},
-{
-"id": "6151f0256604c0",
-"t": "5.000 sangue recuperado pela brisa quente da Nvidia... Robô/Entretenimento ‘Fly’",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40X2JVVDlmYUM0R3UtQXRUeVlBRGg1S2wyV1lta1Y1cjFyd3BzXy1RWTc4WURGTWpaRWQxaUlHQ1BSZVloSFc5UzQ0V185VU9GS1NFWFkxNEhnUQ?oc=5",
-"f": "한국경제",
-"s": "hankyung.com",
-"i": "",
-"d": "2026-11-18T03:54-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "엔비디아 훈풍에 5000피 회복…로봇·엔터주 '훨훨'",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Korea Economic Daily"
-},
-{
-"id": "d7317533619050",
-"t": "Image One [2667]: Abertura da exposição de robôs e base de demonstração \"IMO Robotics LAB\" para promover negócios físicos de IA em 18 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBORi10OGwtd2VVY2NpWmFFQUlxNDgyS2l1MzVjUnpQT0VINUJrUUdHX1QxZ2NJNWZtUndsMW9iaXhtM0tHUWM2eV90NmU4RmlUc3FXb3lUdkZacTgwSmdXMXZRT0FMQjZWb3c?oc=5",
-"f": "日本経済新聞",
-"s": "nikkei.com",
-"i": "",
-"d": "2026-11-18T04:00-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "イメージワン[2667]：フィジカルAI事業の推進に向け、ロボット展示・実証拠点 「IMOロボティクスLAB」を開設 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Nikkei Asia"
-},
-{
-"id": "a9cb2aecb2a5a3",
-"t": "Square, atraindo investimento estratégico da DRB Dongil... Expandindo a cooperação de controle de IA do robô logístico",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1ZuNjNJa3c5V1dvalFkbFBDTndtUkNlSFZPc2RJV1hwaHRIUG51WnFocHVhNlpSR2duVVI4OUs2WmhJUWJoTEgxSTFGQzh5U1JLZXFlS18zZlFya3lJZlJWekdKQjZLSHdRSklzS2JlelV6RW5YcEcyQ1Z5N0hEdXRYOFdfNm9mNHBzWdIBoAFBVV95cUxNYzhJUlduQkgxSTdmOHlzOXdaV2ZaYWlQbl9ZZF9RXzhIR3RSZjM5ejREZk5iWWZ6NjNCeGlTak00VHJ2MFdKSlUycktsU2NKbHVzNVNBZTNQaE1HRlhHU09IX3FiR2FoOU1maWZObXJpTWVrYm43TXdRSmNvUDhDUjQyUndTNFlGaEtrS3djRXlUbjFIWWdEQkhZQ0VhbVBW?oc=5",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "",
-"d": "2026-11-18T04:10-03:00",
-"c": [
-"logistica",
-"negocios"
-],
-"l": 0,
-"to": "사각, DRB동일서 전략적 투자 유치…물류로봇 AI 제어 협력 확대",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Chosun Ilbo"
 },
 {
 "id": "9b7ace255a0f39",
@@ -897,14 +1155,14 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "IT House News em 18 de novembro, a mídia estrangeira Interesting Engineering informou ontem que o robô humanóide Atlas da Boston Dynamics está prestes a entrar no campo de fabricação de semicondutores pela primeira vez, e a GlobalFoundries está se preparando para testar o Atlas em suas fábricas a partir do início de 2027.\nA IT House soube pelo relatório original que o robô quadrúpede Spot da Boston Dynamics foi colocado em operação na fábrica da GlobalFoundries. Nesta cooperação, as duas partes avaliarão os potenciais cenários de aplicação de robôs humanóides “trabalhando em fábricas” e planearão realizar testes iniciais em tarefas específicas."
 },
 {
 "id": "27bf3ab43f2f12",
 "t": "Ministério da Indústria e Tecnologia da Informação divulga 5 padrões para robôs humanóides",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zcEFDZktwYlNmSGtRaXFGX1FJU29XQ2djUnZlUElmWEVFYlhYV1BxeERNV3NRS05ucFl3T2ZKZ2N0a3dBR1RibXhSTy0?oc=5",
+"r": "Este conjunto de padrões abrange três áreas principais: avaliação de capacidade inteligente, componentes-chave e treinamento de robôs humanóides, fornecendo orientação para pesquisa e desenvolvimento, testes e aplicação de robôs humanóides. Os cinco padrões neste lote incluem \"Especificações técnicas para juntas…",
+"u": "https://www.ithome.com/1/028/746.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -915,28 +1173,32 @@
 "l": 0,
 "to": "工信部发布5项人形机器人标准",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
-"cv": "IT之家 (IThome)"
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Este conjunto de padrões abrange três áreas principais: avaliação de capacidade inteligente, componentes-chave e treinamento de robôs humanóides, fornecendo orientação para pesquisa e desenvolvimento, testes e aplicação de robôs humanóides. Os cinco padrões neste lote incluem \"Especificações técnicas para juntas integradas eletricamente acionadas de robôs humanóides\" (SJ/T 12356-2026), \"Especificações técnicas para robôs humanóides e mãos hábeis inteligentes incorporadas\" (SJ/T 12357-2026), \"Especificações técnicas para a construção de campos de treinamento de robôs humanóides\" (SJ/T 12353-2026), \"Requisitos de gerenciamento de dados de treinamento de robôs humanóides\" (SJ/T 12354-2026) e \"Classificação de capacidade inteligente de robôs humanóides\" (SJ/T 12355-2026), ambos os quais serão implementados a partir da data de lançamento."
 },
 {
-"id": "a19aa55cd9326d",
-"t": "Corra, caminhe e carregue você mesmo as baterias! Apresentando um robô ambulante quadrúpede evoluído [Recurso especial Inter BEE 2026]",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FbnhOUmRvZld1bGQtS0R0RVFlRjY0b3VEdGsyT0xKUnY2WnQ4T0FDaHA2OC1WMnlZVDkwN1k5V0ZRMkY1WXlLSWwxQ2ZaTjVHbG5zUA?oc=5",
-"f": "ASCII.jp",
-"s": "ascii.jp",
+"id": "567ec50ab23da2",
+"t": "Tecnologia Longqi: Equipamentos robóticos incorporados de mineração de dados foram produzidos e entregues em massa, representando não mais que 1% da receita - 36 Krypton",
+"r": "Ao meio-dia de 18 de Novembro, o Presidente Xi Jinping reuniu-se em Shenzhen com o Presidente Russo, Vladimir Putin, que estava na China para participar na Reunião Informal dos Líderes da APEC.",
+"u": "https://www.36kr.com/newsflashes/4074749107524740",
+"f": "www.36kr.com",
+"s": "36kr.com",
 "i": "",
-"d": "2026-11-18T03:10-03:00",
+"d": "2026-11-18T01:31-03:00",
 "c": [
-"quadrupedes"
+"negocios"
 ],
 "l": 0,
-"to": "走る、歩く、充電も自分でやる！ 進化した4足歩行ロボットが登場【Inter BEE 2026特集】",
-"lg": "ja",
-"p": 3.0,
+"to": "龙旗科技：具身机器人数采设备已量产交付，收入占比不超1%-36氪",
+"lg": "zh",
+"p": 2.5,
 "cr": 2,
-"cv": "ASCII.jp"
+"cv": "36Kr",
+"mx": 9,
+"rx": "Ao meio-dia de 18 de Novembro, o Presidente Xi Jinping reuniu-se em Shenzhen com o Presidente Russo, Vladimir Putin, que estava na China para participar na Reunião Informal dos Líderes da APEC."
 },
 {
 "id": "7e053b2e90225a",
@@ -956,7 +1218,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "IT House News em 18 de novembro. De acordo com Kankan News, em 17 de novembro, foi realizada a Cúpula de Líderes Empresariais da APEC 2026. Dong Mingzhu, presidente da Gree Electric Appliances, tomou a iniciativa de procurar oportunidades de cooperação na área da robótica. Dong Mingzhu disse que os robôs inteligentes incorporados requerem componentes essenciais, como redutores, acionamentos e servomotores. Gree desenvolve robôs há mais de dez anos. Atualmente, todos os robôs da linha de produção de automação elétrica da Gree são concluídos pela Gree de forma independente.\nO CMO da Gree Electric, Zhu Lei, disse em uma entrevista em abril deste ano que a empresa agora tem a capacidade de fabricar \"robôs humanóides\" e que todas as peças do robô podem ser desenvolvidas e produzidas de forma independente."
 },
 {
@@ -1036,6 +1298,25 @@
 "cv": "ETNews"
 },
 {
+"id": "fcd973bf70ebe8",
+"t": "Xpeng visa entregas de robôs Iron no segundo trimestre de 2027",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWllzSWs3bEZfMS1TM3FQUzlLNEkxSmdqM0d6a0V3bnBqa2FvSzFrb2Z3TUlnRDdFakFfbW1DMWl1ekE0SXBNcDZ4NmhPVC1ULU5ucE9UbUs4a3V4M2M0OUstT0tRSmtyNHFKYzM3NkNGTVhaTE1zajRBOWlUVVc1bHp6MUNSUjZIWmxKSm5B?oc=5",
+"f": "KrASIA",
+"s": "amp.kr-asia.com",
+"i": "",
+"d": "2026-11-18T02:59-03:00",
+"c": [
+"entrega"
+],
+"l": 0,
+"to": "Xpeng targets Iron robot deliveries in second quarter of 2027",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "KrASIA"
+},
+{
 "id": "6cadc4fcd286f5",
 "t": "HD Hyundai Robotics fornece robôs ultragrandes de 1 tonelada para instalações industriais",
 "r": "",
@@ -1053,6 +1334,63 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ETNews"
+},
+{
+"id": "27e58c8f03b025",
+"t": "“Oh, você reage com tanta delicadeza”… O Ministro Lee So-young experimenta a tecnologia inovadora da China controlando diretamente a mão do robô",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pVHhOX0JsX3VfdDJEWHczRFk4R3dpUFVRa3pkdE1ZNVM4ZUlxR2FrbFFpV1VFNDRNeW5ybEdLNlJnNjRyS3Jnam1ZcU5iQQ?oc=5",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-18T04:55-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“오우~ 섬세하게 반응하네요”…이소영 장관, 로봇핸드 직접 조종하며 中企 혁신기술 체험",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews"
+},
+{
+"id": "cac630a9173da1",
+"t": "Desde aplicações industriais de IA até a fabricação de robôs, o Grupo Lenovo constrói em conjunto um ecossistema aberto de IA",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aRlluZmRIM25iT0tsYTJmcDh6d1FVczhncDRfSlNRWDAzN3hscVBHOHhRaHo2Tm8zV2RsYkFrZm9XZ0YyQklQQkg4ZFg?oc=5",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-18T05:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "从行业AI应用到机器人制造，联想集团共建开放的AI生态",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "IT之家 (IThome)"
+},
+{
+"id": "4a6e9110275ab4",
+"t": "HD Hyundai Robotics fornece robô articulado ultragrande de 1 tonelada para pesquisa e desenvolvimento na Coreia",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XcVVfcVJISGxUbHo1MWNqeWJ5ektuSlNkRURaNDNJNzBsb25yLVpTMzZwcGRWV0FWQmxUWGtWbU1PYXlGTXpYS3BaaThpTXAxbms2bnlR?oc=5",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "",
+"d": "2026-11-18T06:15-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "HD현대로보틱스, 1톤급 초대형 다관절 로봇 한국R&D에 공급",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ZDNet Korea"
 }
 ],
 "2026-11-17": [
@@ -1492,6 +1830,47 @@
 "rx": "Equipado com um “braço robótico duplo” composto por uma escova lateral e um braço esfregão que se expande e contrai automaticamente. A escova e o esfregão podem alcançar locais de difícil acesso, como cantos, paredes e embaixo de móveis e eletrodomésticos, e o braço do esfregão ajusta automaticamente sua posição para combinar com a parede, para que não fique preso em paredes curvas ou rodapés.\nA \"estação base de limpeza automática multifuncional\" dedicada pode coletar automaticamente a poeira da unidade principal, bem como lavar automaticamente o esfregão e secá-lo com ar quente. Ao detectar um carpete, ele levanta automaticamente o esfregão em 10 mm para aumentar o poder de sucção e limpar, permitindo remover a poeira sem molhar o carpete."
 },
 {
+"id": "3ad23a82b60e19",
+"t": "Boston Dynamics Atlas – Robô humanóide da Hyundai implantado em fábrica de semicondutores",
+"r": "A GlobalFoundries testará o humanóide Atlas da Boston Dynamics em 2027, à medida que os robôs Spot se expandem em suas fábricas de semicondutores.",
+"u": "https://interestingengineering.com/ai-robotics/atlas-humanoid-semiconductor-manufacturing",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/atlas-boston-dynamics.jpg",
+"d": "2026-11-17T23:43-03:00",
+"c": [
+"humanoides",
+"industriais",
+"quadrupedes"
+],
+"l": 0,
+"to": "Boston Dynamics Atlas — Hyundai’s Humanoid Robot Deployed to Semiconductor Factory",
+"lg": "en",
+"p": 9.4,
+"esp": 1,
+"xid": [
+"094d9bc9134e0a"
+],
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "A GlobalFoundries testará o humanóide Atlas da Boston Dynamics em 2027, à medida que os robôs Spot se expandem em suas fábricas de semicondutores.",
+"o": [
+{
+"f": "조선일보",
+"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamt2VmhiaFlBdjNfSGcyX01zQ2hld1RUaVp2RmJhTUM3LXo4VnhiV1hrOV8xaTRzM2l3NHVaUFBOdE85c25TclBzZkc2VEZjbkpLSmdESEd6djgwMU5ndG5DUW9qTk9weTlxNy1COG1jU1pFTmVwUGs4Sk5lTzRpeXZfVUVrNFc0?oc=5",
+"s": "chosun.com",
+"id": "0921787af12942"
+},
+{
+"f": "IT조선",
+"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMEJkelBaNmhOWW1DMWdNbUdKN1dEUHlUUlRVVi1IQmZ5OXZEalBCWnlxSGpseTdXcnRxRGNyeUdJYVVzTkFoMlVEOUN4aDUya0tlMEwxS2pPZ1JBS05rMGR1VV9zSF9XcFYwQjBwZXHSAXRBVV95cUxPcktDd1NHLWtUemQ2T2x3N1VDQXdOcGtOcGtaMk96ZzM3Tmx6bXU5MnljQTdzdU9ieXBWUEc3dVlFbGZUcDFhRzBSNm1hQlhod0FqakZxdGI4X0pVQnM2SkFTUTNQLUkwVS10eWItYm0wOHlzQg?oc=5",
+"s": "it.chosun.com",
+"id": "b94a052d8864ae"
+}
+]
+},
+{
 "id": "7e42e8723b661f",
 "t": "[PRNewswire] Agile Robots levanta US$ 500 milhões com avaliação de US$ 8,5 bilhões",
 "r": "SÃO PAULO, 17 de outubro de 2026 /PRNewswire=YONHAP/ -- A Agile Robots, empresa de IA física com sede em Munique, fechou uma rodada de financiamento da Série F, levantando US$ 500 milhões a uma avaliação de US$ 8,5 bilhões. A Agile Robots constrói e implanta IA física – robôs humanóides e móveis, braços e mãos…",
@@ -1562,41 +1941,6 @@
 ],
 "mx": 1,
 "rx": "18 (Yonhap) -- A Boston Dynamics, uma subsidiária norte-americana de robótica do Hyundai Motor Group, disse que planeja implantar seu robô de quatro patas Spot em fábricas de semicondutores operadas pela fabricante de chips norte-americana GlobalFoundries (GF) em todo o mundo. Pelo acordo, o Spot será implantado nas instalações da GF nos estados norte-americanos de Nova York e Vermont, bem como na Alemanha e Cingapura, disse a Boston Dynamics na quarta-feira (horário local).\nAs duas empresas também começarão a testar o robô humanóide Atlas da Boston Dynamics nas instalações da GF no início de 2027, marcando seu primeiro teste fora da indústria automotiva. A GF será a primeira empresa fora da indústria automobilística a aderir ao programa de testes Atlas da Boston Dynamics para explorar como robôs humanóides poderiam ser usados ​​na fabricação de chips."
-},
-{
-"id": "3ad23a82b60e19",
-"t": "Boston Dynamics Atlas – Robô humanóide da Hyundai implantado em fábrica de semicondutores",
-"r": "A GlobalFoundries testará o humanóide Atlas da Boston Dynamics em 2027, à medida que os robôs Spot se expandem em suas fábricas de semicondutores.",
-"u": "https://interestingengineering.com/ai-robotics/atlas-humanoid-semiconductor-manufacturing",
-"f": "Interesting Engineering",
-"s": "interestingengineering.com",
-"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/atlas-boston-dynamics.jpg",
-"d": "2026-11-17T23:43-03:00",
-"c": [
-"humanoides",
-"industriais",
-"quadrupedes"
-],
-"l": 0,
-"to": "Boston Dynamics Atlas — Hyundai’s Humanoid Robot Deployed to Semiconductor Factory",
-"lg": "en",
-"p": 7.9,
-"esp": 1,
-"xid": [
-"094d9bc9134e0a"
-],
-"cr": 3,
-"cv": "Interesting Engineering",
-"mx": 1,
-"rx": "A GlobalFoundries testará o humanóide Atlas da Boston Dynamics em 2027, à medida que os robôs Spot se expandem em suas fábricas de semicondutores.",
-"o": [
-{
-"f": "조선일보",
-"u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamt2VmhiaFlBdjNfSGcyX01zQ2hld1RUaVp2RmJhTUM3LXo4VnhiV1hrOV8xaTRzM2l3NHVaUFBOdE85c25TclBzZkc2VEZjbkpLSmdESEd6djgwMU5ndG5DUW9qTk9weTlxNy1COG1jU1pFTmVwUGs4Sk5lTzRpeXZfVUVrNFc0?oc=5",
-"s": "chosun.com",
-"id": "0921787af12942"
-}
-]
 },
 {
 "id": "5d88c2009fb0b0",
@@ -4931,28 +5275,6 @@
 "rx": "(Seul = Yonhap News) Repórter Park Hyeong-bin = O Ministério da Ciência e TIC anunciou no dia 18 que realizará a 'Semana de Promoção da Indústria de Radiodifusão de 2026' no COEX em Seul por três dias até o dia 20. Este evento, que marca seu 27º aniversário este ano, é composto pelo Dia do Pessoal da Indústria de Rádio, pelo Korea Radio Industry Show (KRS 2026) e pela Conferência da Indústria de Rádio sob o tema 'O futuro das indústrias de IA, energia, satélite e superconvergência de defesa lideradas por ondas de rádio'. No 'Dia da Pessoa da Indústria do Rádio', realizado no Westin Seoul Parnas no dia 18, cerca de 300 pessoas da indústria, da academia e de institutos de pesquisa comparecerão e concederão prêmios àqueles que contribuíram para o desenvolvimento da indústria do rádio e de tecnologias de excelência. A Korea Electric Power Corporation recebe o Prêmio do Primeiro Ministro por sua solução sem fio de monitoramento e controle de instalações de energia. Na Exposição da Indústria de Rádio da Coreia, realizada no COEX, 59 empresas e organizações participarão e apresentarão tecnologias de rádio de ponta, como operação especializada de robôs baseados em rede, carregamento sem fio de veículos elétricos, antena de comunicação via satélite e sistema anti-drone.\nNa conferência da indústria de rádio realizada durante o mesmo período, serão realizados 17 fóruns, seminários e conferências acadêmicas sobre temas como convergência de redes especializadas AI/5G, transmissão de energia sem fio, comunicação por satélite e política de rádio de defesa. Ryu Je-myeong, segundo vice-ministro de Ciência e TIC, disse: \"A tecnologia de rádio é uma ferramenta essencial em indústrias de alta tecnologia, como controle físico de IA, carregamento sem fio, comunicação por satélite e detecção de drones, e sua área de uso está se expandindo. O governo também apoiará os esforços das indústrias e pesquisadores que lideraram a inovação tecnológica e apoiará ativamente o desenvolvimento de tecnologia e a revitalização industrial para que nossa indústria de ondas de rádio possa criar novos mercados e serviços\"."
 },
 {
-"id": "79757ba16f1695",
-"t": "Siling Robotics, líder de física em IA, concluiu US$ 500 milhões em financiamento da Série F",
-"r": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A…",
-"u": "https://money.udn.com/money/story/123828/9885717?from=edn_related_storybottom",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-17T23:00-03:00",
-"c": [
-"negocios",
-"ia"
-],
-"l": 0,
-"to": "物理AI領軍企業思靈機器人完成5億美元F輪融資",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 9,
-"rx": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A Siling Robotics desenvolve e implanta tecnologia física de IA. Seus produtos incluem robôs humanóides, robôs móveis, braços robóticos e mãos hábeis, bem como software de suporte e modelos de IA, ajudando os clientes industriais a realizar a automação de operações que antes dependiam da operação hábil de mãos humanas e do julgamento manual.\nA Siling Robotics foi desmembrada do Centro Aeroespacial Alemão (DLR) em 2018 e até agora implantou 20.000 conjuntos de soluções de robôs industriais para clientes dos setores automotivo, eletrônico de consumo, logística e outros setores."
-},
-{
 "id": "566a742332889c",
 "t": "A idade média é de 22 anos, desafiando o mercado global de robôs. Jovens taiwaneses fundaram a Vibe Robotics e receberam investimento da YC | Destaques quentes | Informações comerciais",
 "r": "A indústria global de robôs de IA está inaugurando uma nova onda de competição. A Vibe Robotics foi cofundada pelos jovens taiwaneses Lin Qi, Chen Weihan e outros. Os quatro fundadores têm apenas 19 a 24 anos. Eles receberam investimento da Y Combinator (YC), uma conhecida aceleradora empreendedora do Vale do Silício…",
@@ -5535,6 +5857,28 @@
 "rx": "O governo do Rajastão libera veículos anti-drones para a polícia; Unidade ATS planejada em Sriganganagar para combater invasões de drones paquistaneses e contrabando de armas e drogas na fronteira."
 },
 {
+"id": "79757ba16f1695",
+"t": "Siling Robotics, líder de física em IA, concluiu US$ 500 milhões em financiamento da Série F",
+"r": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A…",
+"u": "https://money.udn.com/money/story/123828/9885717?from=edn_related_storybottom",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-17T23:00-03:00",
+"c": [
+"negocios",
+"ia"
+],
+"l": 0,
+"to": "物理AI領軍企業思靈機器人完成5億美元F輪融資",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9,
+"rx": "A empresa está avaliada em US$ 8,5 bilhões, acelerando a globalização Munique, 17 de novembro de 2026 /PRNewswire/ -- A Agile Robots, uma empresa de IA física com sede em Munique, concluiu o financiamento da Série F com um valor de financiamento de US$ 500 milhões e uma avaliação pós-monetária de US$ 8,5 bilhões. A Siling Robotics desenvolve e implanta tecnologia física de IA. Seus produtos incluem robôs humanóides, robôs móveis, braços robóticos e mãos hábeis, bem como software de suporte e modelos de IA, ajudando os clientes industriais a realizar a automação de operações que antes dependiam da operação hábil de mãos humanas e do julgamento manual.\nA Siling Robotics foi desmembrada do Centro Aeroespacial Alemão (DLR) em 2018 e até agora implantou 20.000 conjuntos de soluções de robôs industriais para clientes dos setores automotivo, eletrônico de consumo, logística e outros setores."
+},
+{
 "id": "3fffe58918373f",
 "t": "Huawei visa a próxima fronteira da robótica com modelo mundial movido pela Ascend e impulso CloudRobo",
 "r": "A Huawei Cloud está a alargar as suas ambições de inteligência artificial à IA física, lançando um modelo mundial de robôs de código aberto treinado na sua plataforma de computação Ascend, ao mesmo tempo que avança na implementação comercial através de parcerias com fabricantes de robótica.",
@@ -5661,27 +6005,6 @@
 "cr": 3,
 "cv": "Financial Times",
 "mx": 3
-},
-{
-"id": "9d09d6de8e44a1",
-"t": "Wang Xingxing, presidente e CEO da Yushu Technology: Oportunidades atuais e desafios práticos na indústria robótica-36氪",
-"r": "Foi informado pela China Railway Kunming Bureau Group Co., Ltd. que, até 16 de novembro, a Ferrovia China-Laos transportou um total de 300.600 passageiros transfronteiriços este ano, ultrapassando 300.000 pela primeira vez na história. Alcançou outro sucesso depois de superar o volume anual de transporte…",
-"u": "https://www.36kr.com/newsflashes/4073367160083329",
-"f": "36kr",
-"s": "36kr.com",
-"i": "",
-"d": "2026-11-17T02:15-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战-36氪",
-"lg": "zh",
-"p": 3.5,
-"cr": 2,
-"cv": "36Kr",
-"mx": 9,
-"rx": "Foi informado pela China Railway Kunming Bureau Group Co., Ltd. que, até 16 de novembro, a Ferrovia China-Laos transportou um total de 300.600 passageiros transfronteiriços este ano, ultrapassando 300.000 pela primeira vez na história. Alcançou outro sucesso depois de superar o volume anual de transporte transfronteiriço de passageiros em 2025, 71 dias antes do previsto em 21 de outubro. Desde o lançamento dos trens internacionais de passageiros em 13 de abril de 2023, o número de trens de Kunming para Vientiane aumentou de 2 para 4 por dia, o número de assentos transfronteiriços em uma única viagem foi ampliado de 250 para 420, e o tempo de desembaraço aduaneiro no porto de Mohan foi reduzido. a cerca de 50 minutos. Um total de 978.000 passageiros transfronteiriços de mais de 120 países e regiões foram enviados, fazendo com que o consumo em pontos turísticos, hotéis, restaurantes e outras indústrias ao longo da rota aumentasse em mais de 35%."
 },
 {
 "id": "01abddc62b5b60",
@@ -6565,6 +6888,27 @@
 "rx": "Wang Xingxing, presidente da Yushu Technology Co., Ltd., disse na cúpula que a indústria doméstica e até mesmo global de robôs tem estado muito aquecida nos últimos anos. A razão é que todos têm visto o valor crescente da linguagem pura ou dos modelos de IA de texto na vida pessoal e no escritório, e todos esperam que os robôs também possam usar a IA para realmente trabalhar e resolver problemas de trabalho.\nNo entanto, ele também disse que, combinado com os avanços tecnológicos globais deste ano, já viu o ponto crítico do avanço, que pode ser relativamente rápido. Wang Xingxing disse que com o lançamento do GPT-6, a IA física já viu sinais de colapso, provavelmente nos últimos 1-2 ou 2-3 anos. O principal desafio para a inteligência incorporada passar pelo momento ChatGPT é o alinhamento da entrada e saída do modelo de IA com o robô real."
 },
 {
+"id": "9d09d6de8e44a1",
+"t": "Wang Xingxing, presidente e CEO da Yushu Technology: Oportunidades atuais e desafios práticos na indústria robótica-36氪",
+"r": "Foi informado pela China Railway Kunming Bureau Group Co., Ltd. que, até 16 de novembro, a Ferrovia China-Laos transportou um total de 300.600 passageiros transfronteiriços este ano, ultrapassando 300.000 pela primeira vez na história. Alcançou outro sucesso depois de superar o volume anual de transporte…",
+"u": "https://www.36kr.com/newsflashes/4073367160083329",
+"f": "36kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-17T02:15-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战-36氪",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 9,
+"rx": "Foi informado pela China Railway Kunming Bureau Group Co., Ltd. que, até 16 de novembro, a Ferrovia China-Laos transportou um total de 300.600 passageiros transfronteiriços este ano, ultrapassando 300.000 pela primeira vez na história. Alcançou outro sucesso depois de superar o volume anual de transporte transfronteiriço de passageiros em 2025, 71 dias antes do previsto em 21 de outubro. Desde o lançamento dos trens internacionais de passageiros em 13 de abril de 2023, o número de trens de Kunming para Vientiane aumentou de 2 para 4 por dia, o número de assentos transfronteiriços em uma única viagem foi ampliado de 250 para 420, e o tempo de desembaraço aduaneiro no porto de Mohan foi reduzido. a cerca de 50 minutos. Um total de 978.000 passageiros transfronteiriços de mais de 120 países e regiões foram enviados, fazendo com que o consumo em pontos turísticos, hotéis, restaurantes e outras indústrias ao longo da rota aumentasse em mais de 35%."
+},
+{
 "id": "ae5b15bf43104b",
 "t": "Wang Xingxing da Yushu Technology: Todos esperam que os robôs possam realmente trabalhar em casa, e talvez isso seja possível num futuro próximo.",
 "r": "A IT House informou em 17 de novembro que, de acordo com Knews, Wang Xingxing, CEO da Yushu Technology, apareceu hoje em Shenzhen para participar da Cúpula de Líderes Empresariais da APEC e falou sobre os desafios enfrentados atualmente pela indústria robótica. A IT House aprendeu com o relatório original que Wang…",
@@ -7375,7 +7719,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/elite-robots-expands-global-mobile-automation-offering-with-ce-compliant-mobile-manipulators-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-16T06:00-03:00",
 "c": [
 "geral"
@@ -7405,7 +7749,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/robotera-launches-xhand-1-pro-u-featured-in-nvidias-gr00t-2-dexumi-demonstration-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-16T07:10-03:00",
 "c": [
 "ia",
@@ -7875,6 +8219,35 @@
 "u": "https://money.udn.com/money/story/5604/9882670",
 "s": "money.udn.com",
 "id": "e45f2c0a51edd1"
+}
+]
+},
+{
+"id": "c2c227441508f0",
+"t": "O conceito de robôs humanóides flutuou e caiu, a tecnologia Yushu caiu mais de 10% -36 Krypton",
+"r": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He…",
+"u": "https://www.36kr.com/newsflashes/4073222350017413",
+"f": "www.36kr.com",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+"d": "2026-11-16T23:20-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "人形机器人概念震荡下挫，宇树科技跌超10%-36氪",
+"lg": "zh",
+"p": 5.8,
+"cr": 2,
+"cv": "36Kr",
+"mx": 2,
+"rx": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He Chaoqiong, Dong Mingzhu, Li Dongsheng, Zhou Qunfei e outros empresários chineses participarão do seminário; em termos de empresas estrangeiras, estarão presentes CEOs globais da Visa, Mastercard e outras empresas, bem como executivos seniores do Citigroup, Google, Boeing e outras empresas. Empresas de Shenzhen como BYD, ZTE e UBTECH também subirão ao palco para fazer ouvir suas vozes “na porta de casa”.\n8:01 Krypton丨DeepSeek devido ao poder de computação insuficiente; O conselho de administração da Nvidia não considerou deixar Huang Renxun retornar à empresa como CEO; Atores de IA foram multados em 68.200 por endosso de anúncios de lentes de contato cosméticas",
+"o": [
+{
+"f": "36kr",
+"u": "https://36kr.com/newsflashes/4073222350017413",
+"s": "36kr.com",
+"id": "4687d7d49766e5"
 }
 ]
 },
@@ -9796,35 +10169,6 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "A fabricante de sensores de radar Ainstein abriu uma fábrica em Lenexa, Kansas, com capacidade para 44.000 sensores por ano. LENEXA, Kansas – Ainstein, uma empresa global de sensores e soluções de radar, inaugurou sua nova fábrica em Lenexa, Kansas, na sexta-feira com uma cerimônia de inauguração. A expansão marca um marco significativo na estratégia de crescimento da empresa e traz nova capacidade de produção para o Kansas, onde a Ainstein foi fundada em 2015.\nAinstein construiu as instalações de Lenexa para atender a essa demanda, acrescentando capacidade para 44.000 sensores de radar por ano, como o primeiro de muitos passos em seu investimento estratégico em capacidades de produção de longo prazo. Fundada em Lawrence, Kansas, em 2015, a Ainstein é líder global em soluções de detecção de radar de ondas milimétricas para os mercados aeroespacial, automotivo e industrial."
-},
-{
-"id": "c2c227441508f0",
-"t": "O conceito de robôs humanóides flutuou e caiu, a tecnologia Yushu caiu mais de 10% -36 Krypton",
-"r": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He…",
-"u": "https://www.36kr.com/newsflashes/4073222350017413",
-"f": "www.36kr.com",
-"s": "36kr.com",
-"i": "",
-"d": "2026-11-16T23:20-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "人形机器人概念震荡下挫，宇树科技跌超10%-36氪",
-"lg": "zh",
-"p": 4.8,
-"cr": 2,
-"cv": "36Kr",
-"mx": 1,
-"rx": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi inaugurada no Centro Internacional de Conferências Qianhai, em Shenzhen. A julgar pela agenda detalhada anunciada pelo organizador, empresários chineses como Zeng Yuqun, Robin Li, Wang Xingxing, Wang Chuanfu, Lei Jun, He Chaoqiong, Dong Mingzhu, Li Dongsheng, Zhou Qunfei e outros empresários chineses participarão do seminário; em termos de empresas estrangeiras, estarão presentes CEOs globais da Visa, Mastercard e outras empresas, bem como executivos seniores do Citigroup, Google, Boeing e outras empresas. Empresas de Shenzhen como BYD, ZTE e UBTECH também subirão ao palco para fazer ouvir suas vozes “na porta de casa”.\n8:01 Krypton丨DeepSeek devido ao poder de computação insuficiente; O conselho de administração da Nvidia não considerou deixar Huang Renxun retornar à empresa como CEO; Atores de IA foram multados em 68.200 por endosso de anúncios de lentes de contato cosméticas",
-"o": [
-{
-"f": "36kr",
-"u": "https://36kr.com/newsflashes/4073222350017413",
-"s": "36kr.com",
-"id": "4687d7d49766e5"
-}
-]
 },
 {
 "id": "f963e1cc8a52d0",
@@ -16798,6 +17142,25 @@
 "mx": 9
 },
 {
+"id": "d1a132be5e4b8d",
+"t": "Supressão de vibração residual em um robô cirúrgico de junta flexível usando parâmetros modais identificados e modelagem de entrada",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rMGl0THZ6RWVhWWlnbExiUjFvbEJ6WWFtTXdFRmNGTmRHbFk3dVdfRGpKZ3ZsajZNcVpxZUVMZFZtd2hxTkczcFlrY2xNNGV3SG4xc0NpMVR0X2JOSnZZ?oc=5",
+"f": "Nature",
+"s": "nature.com",
+"i": "",
+"d": "2026-11-14T15:51-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Residual vibration suppression in a flexible-joint surgical robot using identified modal parameters and input shaping",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Nature"
+},
+{
 "id": "a79578bac70f2d",
 "t": "Robô AI, carregamento sem fio, anti-drone... Exposição da indústria de rádio abre no dia 18",
 "r": "59 empresas nacionais e estrangeiras de ondas de rádio apresentarão tecnologias de rádio de ponta, como robôs de IA, carregamento sem fio de veículos elétricos, comunicação por satélite e anti-drone. A Associação de Promoção de Rádio da Coreia será co-anfitriã do ‘2026 Korea Radio Industry Show (KRS 2026)’ no salão de…",
@@ -22004,7 +22367,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -27893,7 +28256,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -43917,7 +44280,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -43946,7 +44309,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
