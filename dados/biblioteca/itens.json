@@ -1,5 +1,22 @@
 [
 {
+"id": "67898ef1ae47e5",
+"u": "https://techxplore.com/news/2026-11-robots-human-movement-patterns-paths.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-18T09:00-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/dense-crowds.jpg",
+"to": "Robots learn human movement patterns to find paths through dense crowds",
+"ro": "Navigating a bustling train station or airport is a major challenge for people with visual impairments. New research from Örebro University teaches robots to follow the \"unwritten rules\" of human movement and make their way through dense crowds. In the long term, the technology could serve as a digital complement to…",
+"t": "Robôs aprendem padrões de movimento humano para encontrar caminhos em meio a multidões densas",
+"r": "Navegar em uma estação de trem ou aeroporto movimentado é um grande desafio para pessoas com deficiência visual. Uma nova pesquisa da Universidade de Örebro ensina os robôs a seguir as “regras não escritas” do movimento humano e a abrir caminho através de multidões densas. No longo prazo, a tecnologia poderá servir como um complemento digital para…",
+"lg": "en",
+"c": [
+"servico"
+]
+},
+{
 "id": "cc7152d76dc133",
 "u": "https://techxplore.com/news/2026-11-chinese-robots-humans-tech-hub.html",
 "f": "Phys.org",
@@ -70,6 +87,23 @@
 "c": [
 "microrrobos",
 "casa"
+]
+},
+{
+"id": "f2439682da47ff",
+"u": "https://techxplore.com/news/2026-11-propeller-drone-scan.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-17T17:00-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-engineering-team-d.jpg",
+"to": "Single-propeller drone uses its own spin to scan surroundings in all directions",
+"ro": "A research team from the Department of Mechanical Engineering in the Faculty of Engineering at The University of Hong Kong (HKU) has developed a single-propeller autonomous drone powered by only one motor. It can not only fly at high speed in complex environments such as forests and underground parking lots, but also…",
+"t": "Drone de hélice única usa seu próprio giro para escanear os arredores em todas as direções",
+"r": "Uma equipe de pesquisa do Departamento de Engenharia Mecânica da Faculdade de Engenharia da Universidade de Hong Kong (HKU) desenvolveu um drone autônomo de hélice única movido por apenas um motor. Ele não só pode voar em alta velocidade em ambientes complexos, como florestas e estacionamentos subterrâneos, mas também…",
+"lg": "en",
+"c": [
+"drones"
 ]
 },
 {
@@ -343,6 +377,23 @@
 "lg": "en"
 },
 {
+"id": "21b418c8c36d89",
+"u": "https://techxplore.com/news/2026-11-high-resolution-bionic-eye-combines.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-13T12:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-hi-4.jpg",
+"to": "High-resolution bionic eye combines color imaging with more efficient motion detection",
+"ro": "Researchers at The Hong Kong University of Science and Technology (HKUST) have developed a high-resolution bionic eye that integrates full-color imaging, an aberration-corrected field of view exceeding 160 degrees and event-driven motion detection.",
+"t": "Olho biônico de alta resolução combina imagens coloridas com detecção de movimento mais eficiente",
+"r": "Pesquisadores da Universidade de Ciência e Tecnologia de Hong Kong (HKUST) desenvolveram um olho biônico de alta resolução que integra imagens coloridas, um campo de visão corrigido de aberrações superior a 160 graus e detecção de movimento orientada por eventos.",
+"lg": "en",
+"c": [
+"ia"
+]
+},
+{
 "id": "dd308f550833ec",
 "u": "https://robohub.org/robot-talk-episode-170-robots-in-the-real-world-with-daniela-shchegelskaya/",
 "f": "Robohub",
@@ -359,6 +410,25 @@
 "ia"
 ],
 "lg": "en"
+},
+{
+"id": "d5ffb12f9151fb",
+"u": "https://techxplore.com/news/2026-11-autonomous-drones-concrete-bridges.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-13T09:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/autonomous-drones-dete.jpg",
+"to": "Autonomous drones detect cracks in concrete bridges",
+"ro": "A research team at Ruhr University Bochum is developing an autonomous flying drone that detects cracks in concrete bridges. The drone is intended to make costly, labor-intensive bridge inspections more efficient, safer and more affordable. It is being developed by David Müller and Dr. Raphael Dyrska from the…",
+"t": "Drones autônomos detectam rachaduras em pontes de concreto",
+"r": "Uma equipe de pesquisa da Ruhr University Bochum está desenvolvendo um drone voador autônomo que detecta rachaduras em pontes de concreto. O drone tem como objetivo tornar as inspeções de pontes dispendiosas e trabalhosas mais eficientes, seguras e acessíveis. Ele está sendo desenvolvido por David Müller e Dr. Raphael Dyrska do…",
+"lg": "en",
+"c": [
+"drones",
+"construcao",
+"inspecao"
+]
 },
 {
 "id": "bd6f30a01ed6c1",
@@ -562,6 +632,24 @@
 ]
 },
 {
+"id": "3320ceefbaa7aa",
+"u": "https://techxplore.com/news/2026-11-3d-robotic-frog-artificial-muscles.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-11T17:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-3d-print-s.jpg",
+"to": "3D-printed robotic frog swims using six artificial muscles powered by light",
+"ro": "A small robotic frog developed at Aarhus University can swim using six artificial muscles activated by light. Behind the achievement is a systematic approach that could help researchers develop muscles for the next generation of soft robots.",
+"t": "Sapo robótico impresso em 3D nada usando seis músculos artificiais alimentados por luz",
+"r": "Um pequeno sapo robótico desenvolvido na Universidade de Aarhus pode nadar usando seis músculos artificiais ativados pela luz. Por trás da conquista está uma abordagem sistemática que poderia ajudar os pesquisadores a desenvolver músculos para a próxima geração de robôs leves.",
+"lg": "en",
+"c": [
+"microrrobos",
+"ia"
+]
+},
+{
 "id": "b5d40ccd862ba3",
 "u": "https://techxplore.com/news/2026-11-prism-robots-motion-interact.html",
 "f": "Phys.org",
@@ -577,6 +665,23 @@
 "ia"
 ],
 "lg": "en"
+},
+{
+"id": "ad1d4464278fb8",
+"u": "https://techxplore.com/news/2026-11-methods-3d-scene-reconstruction-robot.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-11T13:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-methods-improve-3d.jpg",
+"to": "New methods improve 3D scene reconstruction and robot mapping",
+"ro": "A research team led by professor Zhu Hui from the Institute of Intelligent Machines at the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has developed two methods to improve reconstruction fidelity, helping robots build more accurate representations of their surroundings.",
+"t": "Novos métodos melhoram a reconstrução de cenas 3D e o mapeamento de robôs",
+"r": "Uma equipe de pesquisa liderada pelo professor Zhu Hui, do Instituto de Máquinas Inteligentes dos Institutos de Ciências Físicas de Hefei da Academia Chinesa de Ciências, desenvolveu dois métodos para melhorar a fidelidade da reconstrução, ajudando os robôs a construir representações mais precisas de seus arredores.",
+"lg": "en",
+"c": [
+"geral"
+]
 },
 {
 "id": "f3603d33978eb1",
@@ -817,6 +922,23 @@
 "lg": "en"
 },
 {
+"id": "0d59291e9cb182",
+"u": "https://techxplore.com/news/2026-11-body-actuation-interface-faster-movement.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-09T14:00-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-body-actuation-int.jpg",
+"to": "New body-actuation interface for faster movement initiation while maintaining user control",
+"ro": "Many daily and specialized activities, including rapid responses in sports, split-second actions in video games and synchronization during musical performance, require people to execute a prepared movement immediately after receiving a signal. However, even with prior preparation of a movement, several hundred…",
+"t": "Nova interface de atuação corporal para início de movimento mais rápido, mantendo o controle do usuário",
+"r": "Muitas atividades diárias e especializadas, incluindo respostas rápidas em esportes, ações em frações de segundo em videogames e sincronização durante apresentações musicais, exigem que as pessoas executem um movimento preparado imediatamente após receberem um sinal. No entanto, mesmo com a preparação prévia de um movimento, várias centenas…",
+"lg": "en",
+"c": [
+"negocios"
+]
+},
+{
 "id": "c76fab24dafafc",
 "u": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/",
 "f": "Robohub",
@@ -1035,6 +1157,23 @@
 "lg": "en"
 },
 {
+"id": "c491e0961b9a45",
+"u": "https://techxplore.com/news/2026-11-qa-american-evolving-ai-robotics.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-06T13:40-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-how-is-american-man.jpg",
+"to": "Q&A: How is American manufacturing evolving with AI and robotics?",
+"ro": "Since the beginning of the year, the U.S. manufacturing industry has received trillions of dollars of investment from private companies, the federal government and foreign donors, with the manufacturing sector alone accounting for over 50% of private-sector research and development in the U.S.",
+"t": "Perguntas e respostas: Como a manufatura americana está evoluindo com IA e robótica?",
+"r": "Desde o início do ano, a indústria transformadora dos EUA recebeu biliões de dólares em investimentos de empresas privadas, do governo federal e de doadores estrangeiros, sendo que o sector transformador sozinho é responsável por mais de 50% da investigação e desenvolvimento do sector privado nos EUA.",
+"lg": "en",
+"c": [
+"industriais"
+]
+},
+{
 "id": "37f220f50c7fa5",
 "u": "https://robohub.org/robot-talk-episode-169-robot-sensing-inspired-by-nature-with-dexter-shepherd/",
 "f": "Robohub",
@@ -1090,6 +1229,24 @@
 "defesa"
 ],
 "lg": "en"
+},
+{
+"id": "8adfd869c2e135",
+"u": "https://techxplore.com/news/2026-11-powered-life-jackets-motion-emergency.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-05T11:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-self-powered-life-1.jpg",
+"to": "How self-powered life jackets could turn wave motion into an emergency signal",
+"ro": "A life jacket that powers its own distress signal could soon provide protection for people on the water thanks to a device developed by University of Wollongong (UOW) researchers and their international collaborators. The gadget generates electricity from movement, such as the rock of a wave or the flick of a wrist…",
+"t": "Como coletes salva-vidas autoalimentados podem transformar o movimento das ondas em um sinal de emergência",
+"r": "Um colete salva-vidas que alimenta o seu próprio sinal de socorro poderá em breve fornecer proteção para as pessoas na água, graças a um dispositivo desenvolvido por investigadores da Universidade de Wollongong (UOW) e seus colaboradores internacionais. O gadget gera eletricidade a partir do movimento, como o movimento de uma onda ou o movimento de um pulso…",
+"lg": "en",
+"c": [
+"resgate",
+"ia"
+]
 },
 {
 "id": "b66f2045205c40",
