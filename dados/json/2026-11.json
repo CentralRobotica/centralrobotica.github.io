@@ -27,7 +27,7 @@
 ],
 "cr": 3,
 "cv": "The Australian",
-"mx": 2
+"mx": 3
 },
 {
 "id": "c3f72b37cf443c",
@@ -58,7 +58,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/robotera-invited-to-apec-ceo-summit-for-second-consecutive-year-showcases-real-world-humanoid-robot-applications-20261119",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "",
 "d": "2026-11-19T07:32-03:00",
 "c": [
 "humanoides",
@@ -73,30 +73,29 @@
 ],
 "cr": 3,
 "cv": "The Straits Times",
-"mx": 1,
+"mx": 9,
 "rx": "PEQUIM, 19 de novembro de 2026 /PRNewswire/ -- A ROBOTERA, uma empresa de inteligência incorporada nativa de IA, foi convidada para a Cúpula de CEOs da APEC de 2026 para a segunda reunião"
 },
 {
-"id": "eda4ba05100383",
-"t": "40 anos de acumulação da indústria, avançando em direção a uma empresa de robôs nativos de IA – O Sany Group lançará o primeiro agente de IA e plataforma de inteligência incorporada do mundo na Bauma 2026 Shanghai",
-"r": "Neste grande evento para a indústria global de máquinas de construção, o Grupo SANY fará uma aparição impressionante com mais de 60% dos seus novos modelos e produtos essenciais com uma taxa de eletrificação de mais de 80% sob o tema \"Navegação Elétrica Inteligente e Construindo o Futuro Juntos\". No local, mais de uma…",
-"u": "https://money.udn.com/money/story/123828/9889592",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-19T07:01-03:00",
+"id": "aadf123c8fff98",
+"t": "“Parece um robô”: Mariah Carey preocupa fãs após apresentação no Brasil",
+"r": "Abordagem hesitante, movimentos considerados particularmente rígidos: após um show em São Paulo, a cantora norte-americana levou alguns fãs a questionarem seu estado de saúde. No Instagram, a cantora de 57 anos revelou seu vídeo anual em 1º de novembro, cobrindo o hit inebriante All I Want for Christmas is You. Para a…",
+"u": "https://madame.lefigaro.fr/celebrites/actu-people/on-dirait-un-robot-mariah-carey-inquiete-ses-fans-apres-sa-prestation-au-bresil-20261119",
+"f": "Madame Figaro",
+"s": "madame.lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/19/9b3d694f01a4543a31a90e02e6705019a61d20e9815110d72d1730320ef04714.jpg",
+"d": "2026-11-19T10:32-03:00",
 "c": [
-"ia"
+"geral"
 ],
 "l": 1,
-"to": "40年行業積澱，邁向AI原生機器人公司 -- 三一集團將在 2026 上海寶馬展全球首發AI智能體與具身智能平台",
-"lg": "en",
+"to": "«On dirait un robot» : Mariah Carey inquiète ses fans après sa prestation au Brésil",
+"lg": "fr",
 "p": 10.8,
 "cr": 3,
-"cv": "United Daily News",
-"mx": 9,
-"rx": "Neste grande evento para a indústria global de máquinas de construção, o Grupo SANY fará uma aparição impressionante com mais de 60% dos seus novos modelos e produtos essenciais com uma taxa de eletrificação de mais de 80% sob o tema \"Navegação Elétrica Inteligente e Construindo o Futuro Juntos\". No local, mais de uma dúzia dos primeiros conjuntos de equipamentos do mundo foram montados e cinco conjuntos completos de soluções de cenário foram testados. A SANY também construiu o único salão de exposições inteligente do setor, que contará com o primeiro corpo inteligente de IA do mundo e uma plataforma de base robótica robusta incorporada. Este é o 40º aniversário da fundação da Sany e é a primeira vez que capacidades inteligentes são apresentadas ao mundo exterior em grande escala.\nDesde a colaboração real no Pavilhão de Capacidade Inteligente até a cadeia completa dos dois pavilhões e quatro zonas, todos os equipamentos inteligentes apresentados pela SANY na Bauma são apoiados por enormes dados de condições de trabalho e compreensão do cenário acumulados ao longo de 40 anos de fabricação de máquinas de construção.",
-"cur": 1
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "Abordagem hesitante, movimentos considerados particularmente rígidos: após um show em São Paulo, a cantora norte-americana levou alguns fãs a questionarem seu estado de saúde. No Instagram, a cantora de 57 anos revelou seu vídeo anual em 1º de novembro, cobrindo o hit inebriante All I Want for Christmas is You. Para a artista, este período é também a oportunidade de lançar a sua digressão intitulada “Mariah Carey’s Christmas Times”, um espetáculo inteiramente dedicado ao Natal. Para sua primeira apresentação, a diva americana foi a São Paulo no dia 17 de novembro.\nNa semana passada, a cantora cinco vezes vencedora do Grammy parecia ter dificuldade para andar e agarrou-se ao braço de uma assistente enquanto cumprimentava os fãs no Brasil. “Parece que ela está com dor”, acrescentou um usuário, de acordo com new.com.au."
 },
 {
 "id": "16469919266e6d",
@@ -138,9 +137,31 @@
 "p": 10.3,
 "cr": 2,
 "cv": "36Kr",
-"cur": 1,
 "mx": 1,
-"rx": "30 de 2026, emitindo e implementando oficialmente cinco padrões na área de robôs humanóides sob a administração centralizada do Comitê Técnico de Padronização de Robôs Humanóides e Inteligência Incorporada do Ministério da Indústria e Tecnologia da Informação (MIIT/TC8). Os cinco padrões neste lote incluem Robô Humanóide - Especificação Técnica para Construção de Site de Treinamento (SJ/T 12353—2026), Robô Humanóide - Requisitos de Gerenciamento para Dados de Treinamento (SJ/T 12354—2026), Robô Humanóide - Classificação de Capacidade Inteligente (SJ/T 12355—2026), Robô Humanóide - Especificação Técnica para Junta de Acionamento Elétrico Integrado (SJ/T 12356—2026) e Robô Humanóide e Inteligência Incorporada - Especificação Técnica para Mão Destreza (SJ/T 12357—2026), todas as quais entrarão em vigor na data de emissão."
+"rx": "30 de 2026, emitindo e implementando oficialmente cinco padrões na área de robôs humanóides sob a administração centralizada do Comitê Técnico de Padronização de Robôs Humanóides e Inteligência Incorporada do Ministério da Indústria e Tecnologia da Informação (MIIT/TC8). Os cinco padrões neste lote incluem Robô Humanóide - Especificação Técnica para Construção de Site de Treinamento (SJ/T 12353—2026), Robô Humanóide - Requisitos de Gerenciamento para Dados de Treinamento (SJ/T 12354—2026), Robô Humanóide - Classificação de Capacidade Inteligente (SJ/T 12355—2026), Robô Humanóide - Especificação Técnica para Junta de Acionamento Elétrico Integrado (SJ/T 12356—2026) e Robô Humanóide e Inteligência Incorporada - Especificação Técnica para Mão Destreza (SJ/T 12357—2026), todas as quais entrarão em vigor na data de emissão.",
+"cur": 1
+},
+{
+"id": "eda4ba05100383",
+"t": "40 anos de acumulação da indústria, avançando em direção a uma empresa de robôs nativos de IA – O Sany Group lançará o primeiro agente de IA e plataforma de inteligência incorporada do mundo na Bauma 2026 Shanghai",
+"r": "Neste grande evento para a indústria global de máquinas de construção, o Grupo SANY fará uma aparição impressionante com mais de 60% dos seus novos modelos e produtos essenciais com uma taxa de eletrificação de mais de 80% sob o tema \"Navegação Elétrica Inteligente e Construindo o Futuro Juntos\". No local, mais de uma…",
+"u": "https://money.udn.com/money/story/123828/9889592",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-19T07:01-03:00",
+"c": [
+"ia"
+],
+"l": 1,
+"to": "40年行業積澱，邁向AI原生機器人公司 -- 三一集團將在 2026 上海寶馬展全球首發AI智能體與具身智能平台",
+"lg": "en",
+"p": 9.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9,
+"rx": "Neste grande evento para a indústria global de máquinas de construção, o Grupo SANY fará uma aparição impressionante com mais de 60% dos seus novos modelos e produtos essenciais com uma taxa de eletrificação de mais de 80% sob o tema \"Navegação Elétrica Inteligente e Construindo o Futuro Juntos\". No local, mais de uma dúzia dos primeiros conjuntos de equipamentos do mundo foram montados e cinco conjuntos completos de soluções de cenário foram testados. A SANY também construiu o único salão de exposições inteligente do setor, que contará com o primeiro corpo inteligente de IA do mundo e uma plataforma de base robótica robusta incorporada. Este é o 40º aniversário da fundação da Sany e é a primeira vez que capacidades inteligentes são apresentadas ao mundo exterior em grande escala.\nDesde a colaboração real no Pavilhão de Capacidade Inteligente até a cadeia completa dos dois pavilhões e quatro zonas, todos os equipamentos inteligentes apresentados pela SANY na Bauma são apoiados por enormes dados de condições de trabalho e compreensão do cenário acumulados ao longo de 40 anos de fabricação de máquinas de construção.",
+"cur": 1
 },
 {
 "id": "3fb6cbb9be3353",
@@ -765,8 +786,38 @@
 "p": 5.4,
 "cr": 3,
 "cv": "Humanoid.guide",
-"mx": 2,
+"mx": 3,
 "rx": "A Mão Destreza Humanóide Imprimível, desenvolvida por pesquisadores do Instituto de Tecnologia de Nova Jersey, é um protótipo de mão robótica construído em torno de um design mecânico acessível e imprimível. Seus cinco dedos usam ligações em vez de tendões, com dobradiças flexíveis e finas hastes de aço inoxidável formando peças-chave do mecanismo. Uma classificação de graus de liberdade de 3 em 5 coloca este projeto no nível intermediário para essa categoria, enquanto sua classificação de resistência de 1 em 5 identifica a força como uma dimensão comparativamente limitada. A sua pontuação global de 4 em 10 reforça essa distinção: este é um design em desenvolvimento cuja avaliação deve preservar a diferença entre complexidade mecânica, classificações de destreza e classificações de resistência."
+},
+{
+"id": "82e7438f2d9686",
+"t": "Noitom Robotics classificada em primeiro lugar na Ásia entre as 50 startups mais promissoras de 2026 da The Information",
+"r": "18, 2026 (GLOBE NEWSWIRE) — A Noitom Robotics (NR), uma empresa de dados para IA física, foi classificada em primeiro lugar na categoria Ásia da The Information 50, a lista anual da The Information das 50 startups mais promissoras. “The Information classifica as startups em termos de receita e crescimento”, disse o…",
+"u": "https://www.thestar.com/globenewswire/noitom-robotics-ranked-no-1-in-asia-on-the-informations-50-most-promising-startups-of/article_3bb5abda-ff5d-5fa7-91f5-45db372c8566.html",
+"f": "Toronto Star",
+"s": "thestar.com",
+"i": "",
+"d": "2026-11-19T01:13-03:00",
+"c": [
+"negocios",
+"ia"
+],
+"l": 0,
+"to": "Noitom Robotics Ranked No. 1 in Asia on The Information's 50 Most Promising Startups of 2026",
+"lg": "en",
+"p": 5.3,
+"cr": 3,
+"cv": "Toronto Star",
+"mx": 9,
+"rx": "18, 2026 (GLOBE NEWSWIRE) — A Noitom Robotics (NR), uma empresa de dados para IA física, foi classificada em primeiro lugar na categoria Ásia da The Information 50, a lista anual da The Information das 50 startups mais promissoras. “The Information classifica as startups em termos de receita e crescimento”, disse o Dr. Tristan Ruoli Dai, fundador e CEO da Noitom Robotics. “No ano passado, as equipes de robótica solicitaram mil horas de dados humanos.\nProduz os dados humanos com os quais os robôs aprendem. A empresa captura movimentos humanos, interação de objetos e comportamento cotidiano em estúdios de captura de precisão e em ambientes do mundo real. Noitom Robotics é uma empresa de dados para IA física.",
+"o": [
+{
+"f": "The Globe and Mail",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8908892/noitom-robotics-ranked-no-1-in-asia-on-the-information-s-50-most-promising-startups-of-2026/",
+"s": "theglobeandmail.com",
+"id": "200876dfdd2c6c"
+}
+]
 },
 {
 "id": "95d40ba8928431",
@@ -1002,6 +1053,27 @@
 "rx": "Robôs de reabastecimento de bebidas serão introduzidos em janeiro de 2027 para reduzir a carga de trabalho e economizar mão de obra para os funcionários da loja FamilyMart Co., Ltd. (sede: Minato-ku, Tóquio; presidente e CEO: Takeo Kotani) comemorou seu 45º aniversário em setembro de 2026. Como parte de nossos esforços para sermos os \"mais inovadores e de ponta\", iniciaremos gradualmente a introdução em grande escala do \"Robô de reabastecimento de bebidas (TX) GHOST)\" e \"Prateleira de Inventário Digital (Prateleira Inteligente)\" que automatizam as operações de reposição de bebidas a partir de janeiro de 2027, com o objetivo de reduzir a carga de trabalho dos funcionários das lojas e melhorar a eficiência das operações da loja."
 },
 {
+"id": "f7807b9c1c1584",
+"t": "Robô APEC “funciona” para fazer café latte art e sorvete. Ciência e Tecnologia de Shenzhen surpreende visitantes estrangeiros | Foco da Cúpula da APEC | Global",
+"r": "Na área de coffee break inteligente, sete robôs humanóides \"Aibao\" desenvolvidos pela Zhiping (Shenzhen) Technology Co., Ltd. estão de plantão ao mesmo tempo e podem fazer 45 xícaras de café, 30 porções de sorvete e 30 xícaras de suco por hora. Huang Xianmei, um membro da equipe, destacou que os produtos da Zhiping…",
+"u": "https://udn.com/news/story/125069/9888710?from=udn-catebreaknews_ch2",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35533055.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+"d": "2026-11-19T03:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "機器人APEC「上班」 做拉花咖啡、冰淇淋深圳科創驚艷外賓| APEC峰會聚焦| 全球",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "Na área de coffee break inteligente, sete robôs humanóides \"Aibao\" desenvolvidos pela Zhiping (Shenzhen) Technology Co., Ltd. estão de plantão ao mesmo tempo e podem fazer 45 xícaras de café, 30 porções de sorvete e 30 xícaras de suco por hora. Huang Xianmei, um membro da equipe, destacou que os produtos da Zhiping são atualmente usados ​​em metade das economias membros da APEC. Na área de descanso inteligente à tarde, o novo robô de serviço \"Coconut\" da Independent Variable Robot Technology (Shenzhen) Co., Ltd. entregará ativamente doces e água potável e recolherá papel de embrulho, garrafas de água e outros artigos diversos e os jogará na lata de lixo depois que o pessoal da mídia sair. Wang Shuo, diretor de relações públicas da empresa, revelou que a empresa recebeu investimentos de muitas empresas gigantes da Internet e está atualmente avaliada em mais de 20 bilhões de yuans."
+},
+{
 "id": "b4868f92e4a77d",
 "t": "Universidade Sangmyung e Ultra Innovation assinam acordo para revitalizar a educação de robôs inteligentes",
 "r": "(Cheonan = Yonhap News) O repórter Euiju Yoo = Universidade Sangmyung anunciou no dia 19 que assinou recentemente um acordo comercial com a Ultra Innovation para 'vitalização e colaboração da educação de robôs inteligentes'. Ambas as partes concordam profundamente sobre a importância da educação que reflecte as…",
@@ -1157,7 +1229,7 @@
 ],
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 19 de novembro que o CEO da Tesla, Elon Musk, disse hoje em uma entrevista em vídeo que se espera que nos próximos 12 a 18 meses, o robô humanóide Optimus (Optimus Prime) seja capaz de realizar tarefas domésticas, como tirar o lixo, lavar louça e colocar a louça nos armários.\nMusk disse que a Optimus deverá concluir a operação complexa de várias etapas dentro de 12 a 18 meses, primeiro para a indústria pesada e depois para residências. Além disso, Musk revelou que uma nova rodada de demonstrações de robôs humanóides Optimus está chegando e deverá ser realizada nos próximos um a dois meses. Musk disse na entrevista: “A Optimus está indo muito bem."
 },
 {
@@ -1191,7 +1263,8 @@
 "i": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Drone-surveys--enclosed-sewage-drains-and-new-trea_1795086059195_T5Cl.jpg",
 "d": "2026-11-19T08:01-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Drone surveys planned to identify sources of pollution in Maharashtra’s Ulhas, Waldhuni rivers | Mumbai news",
@@ -1212,7 +1285,7 @@
 "i": "https://static.toiimg.com/thumb/msid-135989584,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
 "d": "2026-11-19T08:37-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "Months after FCC ban on foreign robots, Chinese robot makers face visa denials to attend America's bigges",
@@ -1222,6 +1295,50 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "Rejeições de visto nos EUA. De acordo com um relatório do Nikkei Asia, pesquisadores e engenheiros de várias empresas chinesas, incluindo Xpeng e Engine AI, tiveram seus vistos negados, levantando preocupações sobre se poderão participar de uma das maiores exposições de tecnologia do mundo."
+},
+{
+"id": "d5861e667587c7",
+"t": "Stanford deu a 100 alunos 48 horas para pilotar um drone sem GPS",
+"r": "A Universidade de Stanford realizou seu primeiro hackathon de drones no fim de semana de 6 a 8 de novembro. Cerca de 100 estudantes de 28 universidades tiveram 48 horas para escrever um software que voasse sozinho em um quadricóptero por uma pista de obstáculos interna, sem GPS. Uma equipe de cinco pessoas chamada Fat…",
+"u": "https://dronexl.co/2026/11/19/stanford-dronehacks-gps-denied-drone-hackathon-fat-kestrel/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/stanford-dronehacks-7-inch-autonomous-drone-kit.webp",
+"d": "2026-11-19T09:38-03:00",
+"c": [
+"drones",
+"educacao",
+"ia"
+],
+"l": 0,
+"to": "Stanford Gave 100 Students 48 Hours to Fly a Drone With No GPS",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Universidade de Stanford realizou seu primeiro hackathon de drones no fim de semana de 6 a 8 de novembro. Cerca de 100 estudantes de 28 universidades tiveram 48 horas para escrever um software que voasse sozinho em um quadricóptero por uma pista de obstáculos interna, sem GPS. Uma equipe de cinco pessoas chamada Fat Kestrel ganhou o prêmio máximo de US$ 7.000 no Horizons DroneHacks 2026, informou o Stanford Daily em 19 de novembro.\nO Stanford Daily relata que o percurso teve cinco pontos de verificação, com um bônus de 25% para um drone que voou de volta ao início. Fat Kestrel recebeu o prêmio Rothberg Catalyzer de US$ 7.000 depois que seu último vôo cruzou todo o percurso e voltou à largada, informou o Stanford Daily. Nath disse ao Stanford Daily que o evento não era de recrutamento e que as empresas estavam lá porque seus engenheiros poderiam orientar melhor os alunos."
+},
+{
+"id": "b8ca9125b84566",
+"t": "A mão robótica 21-DoF do GENTO enfrenta folga, fragilidade e aderência fraca em um único design",
+"r": "Exibido pela primeira vez no CoRL 2026 em Austin, o protótipo de 750 gramas torna todas as articulações retroviáveis ​​e fica em uma pilha de detecção de força que a Tianji Intelligence vem construindo desde 2015.",
+"u": "https://interestingengineering.com/ai-robotics/gentos-21-dof-robot-hand",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-2026-11-19T174539.905.jpg",
+"d": "2026-11-19T09:40-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "GENTO’s 21-DoF robot hand takes on backlash, fragility and weak grip in a single design",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "Exibido pela primeira vez no CoRL 2026 em Austin, o protótipo de 750 gramas torna todas as articulações retroviáveis ​​e fica em uma pilha de detecção de força que a Tianji Intelligence vem construindo desde 2015."
 },
 {
 "id": "06fb7de350b7b5",
@@ -1243,28 +1360,6 @@
 "cv": "ZDNet Korea",
 "mx": 1,
 "rx": "Um robô humanóide está chamando a atenção ao ter a tarefa de encontrar e coletar ovos que caíram no chão de uma granja. O meio de comunicação de ciência e tecnologia Interesting Engineering informou recentemente que pesquisadores da Universidade Estadual da Carolina do Norte, nos EUA, estão desenvolvendo um robô humanóide que pode detectar e coletar ovos colocados no chão em uma granja sem gaiolas. Nas granjas sem gaiolas, sua principal função é encontrar e coletar os ovos colocados fora do ninho. Os pesquisadores estão estudando maneiras de aumentar a eficiência das operações avícolas usando automação, aprendizado de máquina e tecnologias de visão computacional. Ao contrário do método existente de criação em gaiolas, no qual os ovos são coletados automaticamente através de uma esteira transportadora, em um ambiente sem gaiolas, os ovos colocados fora da caixa-ninho ou no chão devem ser coletados manualmente por humanos.\nUma fazenda que cria cerca de 100 mil galinhas pode precisar coletar até 15 mil ovos por dia. Os pesquisadores pretendem que o robô seja realmente capaz de coletar ovos até o início de 2027."
-},
-{
-"id": "82e7438f2d9686",
-"t": "Noitom Robotics classificada em primeiro lugar na Ásia entre as 50 startups mais promissoras de 2026 da The Information",
-"r": "18, 2026 (GLOBE NEWSWIRE) — A Noitom Robotics (NR), uma empresa de dados para IA física, foi classificada em primeiro lugar na categoria Ásia da The Information 50, a lista anual da The Information das 50 startups mais promissoras. “The Information classifica as startups em termos de receita e crescimento”, disse o…",
-"u": "https://www.thestar.com/globenewswire/noitom-robotics-ranked-no-1-in-asia-on-the-informations-50-most-promising-startups-of/article_3bb5abda-ff5d-5fa7-91f5-45db372c8566.html",
-"f": "Toronto Star",
-"s": "thestar.com",
-"i": "",
-"d": "2026-11-19T01:13-03:00",
-"c": [
-"negocios",
-"ia"
-],
-"l": 0,
-"to": "Noitom Robotics Ranked No. 1 in Asia on The Information's 50 Most Promising Startups of 2026",
-"lg": "en",
-"p": 3.8,
-"cr": 3,
-"cv": "Toronto Star",
-"mx": 9,
-"rx": "18, 2026 (GLOBE NEWSWIRE) — A Noitom Robotics (NR), uma empresa de dados para IA física, foi classificada em primeiro lugar na categoria Ásia da The Information 50, a lista anual da The Information das 50 startups mais promissoras. “The Information classifica as startups em termos de receita e crescimento”, disse o Dr. Tristan Ruoli Dai, fundador e CEO da Noitom Robotics. “No ano passado, as equipes de robótica solicitaram mil horas de dados humanos.\nProduz os dados humanos com os quais os robôs aprendem. A empresa captura movimentos humanos, interação de objetos e comportamento cotidiano em estúdios de captura de precisão e em ambientes do mundo real. Noitom Robotics é uma empresa de dados para IA física."
 },
 {
 "id": "6a56a707e4c659",
@@ -1328,7 +1423,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Robotics 24/7",
-"mx": 1,
+"mx": 2,
 "rx": "18 de novembro de 2026 · A Rockwell Automation assinou um acordo definitivo para adquirir a AGILOX, expandindo sua estratégia física de IA ao adquirir o fornecedor AMR. 17 de novembro de 2026 · SiMa.ai anunciou o Palette 3.0, um lançamento de software que, segundo a empresa, pode escalar alto desempenho em qualquer modelo físico de IA. 11 de novembro de 2026 · Dynamic Creatures e Sixth Wall Studio da Hasbro anunciaram uma parceria que dará vida aos personagens da Hasbro por meio de robôs interativos em parques temáticos e resorts.\n10 de novembro de 2026 · Aprenda como especificar o piso do armazém antes de implantar robôs, incluindo as considerações sobre piso que os operadores devem abordar durante o planejamento da automação. 10 de novembro de 2026 · A Path Robotics anunciou uma rodada de financiamento Série E de US$ 300 milhões, elevando a avaliação da empresa para US$ 2,45 bilhões."
 },
 {
@@ -1349,7 +1444,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 2,
+"mx": 3,
 "rx": "· Na lista das \"50 startups mais potenciais do mundo em 2026\" divulgada pela The Information em 11 de novembro, a Noitom Robotics ficou em primeiro lugar na Ásia. · De acordo com a lista, a Noitom Robotics está atualmente avaliada em mais de US$ 500 milhões, com financiamento de capital acumulado superior a US$ 50 milhões e receita anual superior a US$ 10 milhões.\n· A Noitom Robotics está comprometida em produzir dados humanos para os robôs aprenderem. Os dados da lista mostram que a avaliação atual da Noiton Robots ultrapassou US$ 500 milhões, seu financiamento total de capital ultrapassou US$ 50 milhões e sua receita ultrapassou US$ 10 milhões."
 },
 {
@@ -1426,7 +1521,7 @@
 "i": "https://i.blogs.es/494eae/lidl-25-/840_560.jpeg",
 "d": "2026-11-19T03:15-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "El robot de cocina compacto de Lidl regresa por el Black Friday: ahora cuesta menos de 150 euros y es ideal para cocinas pequeñas",
@@ -1646,6 +1741,27 @@
 "mx": 3
 },
 {
+"id": "56cb0fc9d779ab",
+"t": "Você estava esperando a Black Friday para comprar um aspirador robô e a Roborock sabe disso: descontos de até 56% em seus modelos top",
+"r": "Roborock inicia sua campanha com descontos de até 56% em alguns de seus modelos mais avançados. Se o que você quer é nunca mais pensar no chão, o Roborock Saros 20 Set é o seu robô: você programa e ele só se encarrega de deixá-lo perfeito. Roborock Saros 20 Set possui sucção HyperForce de 36.000 Pa e, para esfregar…",
+"u": "https://www.xataka.com/n/ofertas-descuentos-roborock-black-friday",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/4f3e49/saros20-roborock-portada/840_560.jpeg",
+"d": "2026-11-19T05:08-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Estabas esperando al Black Friday para comprar un robot aspirador y Roborock lo sabe: descuentos de hasta el 56 % en sus modelos más top",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "Roborock inicia sua campanha com descontos de até 56% em alguns de seus modelos mais avançados. Se o que você quer é nunca mais pensar no chão, o Roborock Saros 20 Set é o seu robô: você programa e ele só se encarrega de deixá-lo perfeito. Roborock Saros 20 Set possui sucção HyperForce de 36.000 Pa e, para esfregar, usa dois esfregões que giram a 200 rpm, que esfregam em vez de apenas limpar com um pano úmido.\nSe você quiser passar para um robô de última geração sem estourar seu orçamento, o Roborock Qrevo 2 Pro Set é uma boa entrada e tem o maior desconto da campanha. Com o maior desconto da campanha, o Roborock Qrevo 2 Pro Set aspira, esfrega e resolve os dois problemas que mais incomodam em casa: carpetes e cabelos"
+},
+{
 "id": "c921b63a335fdb",
 "t": "FamilyMart apresentará robôs de reabastecimento de bebidas em todo o país",
 "r": "A partir de janeiro de 2027, o FamilyMart iniciará a introdução em grande escala do ``Beverage Replenishment Robot (TX GHOST)'' e da ``Digital Inventory Shelf (Smart Shelf)'' que automatizam as operações de reabastecimento de bebidas. Com a introdução deste robô de reabastecimento de bebidas, a empresa afirma que será…",
@@ -1705,7 +1821,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Engineer",
-"mx": 2
+"mx": 3
 },
 {
 "id": "07bfb6103d754b",
@@ -1725,7 +1841,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "AFP",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9dd3a557416fd7",
@@ -1791,6 +1907,68 @@
 "rx": "É o caso dos modelos MAMMOTION, que contam com todo um arsenal de tecnologias: navegação sem cabos periféricos, detecção de obstáculos por inteligência artificial, mapeamento automático ou mesmo tração integral para enfrentar terrenos difíceis. Para jardins de médio porte com declives: o LUBA mini 2 AWD 1000 e 1500 Quando se tem um jardim de médio porte, mas cuja configuração apresenta algumas dificuldades, como declives, passagens estreitas ou muitas árvores, o desafio é encontrar um cortador de grama robô eficiente, sem investir em um modelo superdimensionado.\nLUBA mini 2 AWD 1500 na promoção Black Friday (-€369) LUBA mini 2 AWD 1000 na promoção Black Friday na Amazon (-17%)"
 },
 {
+"id": "95809e9ed25c6b",
+"t": "Lefant possui um aspirador robô que sempre limpa com água limpa. E nesta Black Friday temos pela metade do preço",
+"r": "O preço deste robô é de 699,99 euros, mas neste momento está reduzido para 349,99 euros. Junto com isso, também temos o Lefant M210 Omni disponível com oferta da Black Friday. Este robô compartilha certas características com o anterior, como um design bastante pequeno (tem 28 centímetros de diâmetro e 8,5 centímetros…",
+"u": "https://www.xataka.com/seleccion/lefant-tiene-robot-aspirador-que-friega-siempre-agua-limpia-este-black-friday-tenemos-a-mitad-precio",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/5887b4/lefant-black-friday-portada/840_560.jpeg",
+"d": "2026-11-19T09:45-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Lefant tiene un robot aspirador que friega siempre con agua limpia. Y este Black Friday lo tenemos a mitad de precio",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "O preço deste robô é de 699,99 euros, mas neste momento está reduzido para 349,99 euros. Junto com isso, também temos o Lefant M210 Omni disponível com oferta da Black Friday. Este robô compartilha certas características com o anterior, como um design bastante pequeno (tem 28 centímetros de diâmetro e 8,5 centímetros de altura) e um poder de sucção de 20.000 Pa.\nAlém disso, este robô também esfrega. Neste caso, o M210 Omni também possui um coletor de pó, embora neste caso possa armazenar sujeira por até duas semanas. Neste caso, o PVP do robô é de 599,99 euros, embora seja reduzido para 199,99 euros. Neste caso, é também uma oferta que só estará disponível até 30 de novembro."
+},
+{
+"id": "ed9a513113b75d",
+"t": "O Banco Azteca pode dizer adeus aos seus 15.000 caixas eletrônicos em 40 horas: Salinas Pliego quer substituí-los por robôs",
+"r": "O México se prepara para reduzir a jornada de trabalho de 48 para 40 horas semanais a partir de 2027, com uma transição gradual que terminará em 2030. O empresário levantou a possibilidade de substituir os 15 mil caixas eletrônicos do Banco Azteca por máquinas capazes de funcionar 24 horas por dia sem necessidade de…",
+"u": "https://www.xataka.com.mx/empresas-y-economia/banco-azteca-podria-despedirse-sus-15-000-cajeros-40-horas-salinas-pliego-quiere-sustituirlos-robots",
+"f": "Xataka México",
+"s": "xataka.com.mx",
+"i": "https://i.blogs.es/0b2029/banco-azteca-salinas-reemplazo-robots-cajeros-xataka-mexico/1366_2000.jpeg",
+"d": "2026-11-19T10:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Banco Azteca podría despedirse de sus 15,000 cajeros ante las 40 horas: Salinas Pliego quiere sustituirlos con robots",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka México",
+"mx": 1,
+"rx": "O México se prepara para reduzir a jornada de trabalho de 48 para 40 horas semanais a partir de 2027, com uma transição gradual que terminará em 2030. O empresário levantou a possibilidade de substituir os 15 mil caixas eletrônicos do Banco Azteca por máquinas capazes de funcionar 24 horas por dia sem necessidade de pagamento de benefícios. Segundo La Jornada, o proprietário do Grupo Salinas propôs substituir o pessoal de balcão do Banco Azteca por máquinas capazes de realizar operações sem intervenção humana.\nA possibilidade de substituir trabalhadores por máquinas torna-se relevante num momento crítico em que o México se prepara para reduzir a jornada de trabalho e aumentar o salário mínimo em pelo menos 10% em 2027, segundo previsões do Conasami."
+},
+{
+"id": "7dc187e3b57fb7",
+"t": "As linhas de partida não são as mesmas: migração genética, diferenciação de rotas e integração de empresas de robôs humanóides",
+"r": "",
+"u": "https://www.ithome.com/1/029/308.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-19T03:41-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "起跑线并不相同：人形机器人公司的基因迁移、路线分化与融合",
+"lg": "zh",
+"p": 3.0,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1
+},
+{
 "id": "31a08569de430d",
 "t": "IntelliProve arrecada 2,7 milhões de euros para levar monitoramento de saúde de smartphones a robôs humanóides",
 "r": "",
@@ -1832,6 +2010,26 @@
 "cv": "ASCII.jp",
 "mx": 9,
 "rx": "(Sede: Chiyoda-ku, Tóquio), um fabricante abrangente que conduz tudo, desde pesquisa e desenvolvimento até fabricação e vendas, e implanta robôs domésticos globalmente, venderá aspiradores de pó robóticos com preços especiais de até 69% de desconto na Rakuten BLACK FRIDAY, que será realizada no Rakuten Market das 20h de quinta-feira, 19 de novembro de 2026, às 13h59 de quarta-feira, 25 de novembro de 2026. Nesta BLACK FRIDAY da Rakuten, venderemos produtos elegíveis do aspirador robô \"DEEBOT\" a preços especiais."
+},
+{
+"id": "809af3174a9ec1",
+"t": "A dupla dinâmica de limpeza de piso da Roborock está marcada para a Black Friday",
+"r": "",
+"u": "https://gizmodo.com/roborocks-dynamic-duo-of-floor-cleaning-are-both-marked-way-down-for-black-friday-2000838654",
+"f": "Gizmodo",
+"s": "gizmodo.com",
+"i": "",
+"d": "2026-11-19T09:20-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Roborock’s Dynamic Duo of Floor Cleaning Are Both Marked Way Down for Black Friday",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Gizmodo",
+"mx": 1
 }
 ],
 "2026-11-18": [
@@ -2773,7 +2971,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -3359,9 +3557,9 @@
 ],
 "cr": 3,
 "cv": "Interesting Engineering",
-"cur": 1,
 "mx": 1,
-"rx": "Shenzhen estabelece um recorde mundial do Guinness com 151 robôs humanóides realizando uma dança sincronizada antes da cúpula da APEC."
+"rx": "Shenzhen estabelece um recorde mundial do Guinness com 151 robôs humanóides realizando uma dança sincronizada antes da cúpula da APEC.",
+"cur": 1
 },
 {
 "id": "5d151c19a02052",
@@ -5156,7 +5354,8 @@
 "d": "2026-11-18T16:51-03:00",
 "c": [
 "microrrobos",
-"negocios"
+"negocios",
+"logistica"
 ],
 "l": 0,
 "to": "Cantieri del futuro con sciami di robot: 4 milioni dall’Europa per il progetto Cobras",
@@ -5420,6 +5619,27 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "A proposta de janeiro de 2025 exigiria que a AURA, se mantivesse o seu serviço de alta altitude, servisse 400 pés em 35% de cada uma das áreas de licença regional da FCC no prazo de oito anos. AURA poderia cumprir sua construção com serviço de 25.000 pés sobre os 48 inferiores, Havaí e parte do Alasca, mais 5.000 pés sobre 50% dos 48 inferiores e Havaí em quatro anos e 90% em oito, sob o projeto.\nA métrica de 5.000 pés está no rascunho “conforme solicitado pela AURA”. Em seus comentários, a AURA disse que sua rede pode fornecer cobertura em baixa altitude, mas que espera demanda principalmente em espaço aéreo controlado entre 3.000 e 10.000 pés, e considerou desnecessário o benchmark de baixa altitude. De acordo com o projeto, a cobertura de 400 pés torna-se uma obrigação de licença somente se a AURA eleger a opção de baixa altitude, e a AURA disse à FCC que espera pouca demanda em baixa altitude."
+},
+{
+"id": "2de02fe1d6aff9",
+"t": "Rolo para limpeza de pisos e estação completa: Roborock Saros 20 Flow a 799 euros, quase metade do preço",
+"r": "O aspirador em oferta para a Black Friday 2026: no Corriere.it aqui estão as melhores promoções de toda a série da empresa chinesa. Entre os produtos à venda encontramos aspiradores de limpeza de pisos topo de gama, como o dispositivo roborock Saros 20 Flow Complete, o primeiro modelo da série Saros a integrar um…",
+"u": "https://www.corriere.it/offerte-recensioni/offerte/black-friday/26_novembre_19/rullo-lavapavimenti-e-stazione-completa-roborock-saros-20-flow-a-799-euro-quasi-meta-prezzo-51ddc619-ac44-4944-b6bf-57f8bab78xlk.shtml",
+"f": "Corriere della Sera",
+"s": "corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/16/6afb081935c83.png",
+"d": "2026-11-18T20:21-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Rullo lavapavimenti e stazione completa: Roborock Saros 20 Flow a 799 euro, quasi metà prezzo",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 1,
+"rx": "O aspirador em oferta para a Black Friday 2026: no Corriere.it aqui estão as melhores promoções de toda a série da empresa chinesa. Entre os produtos à venda encontramos aspiradores de limpeza de pisos topo de gama, como o dispositivo roborock Saros 20 Flow Complete, o primeiro modelo da série Saros a integrar um sistema de lavagem de rolos rotativos extensíveis, mantendo um perfil ultrafino de 8,98 cm (aqui você pode encontrar nossa análise).\nO pano de rolo Roborock Saros 20 Flow Edge limpa até 10 mm das bordas e se estende até 44 mm para alcançar os pontos difíceis de limpar. Roborock Saros 20 Neo é um modelo ultrafino (7,95 cm) com LDS retrátil, lavagem com esfregona com água a 100°C, potência de sucção de 36.000 Pa, estrutura AdaptiLift 3.0, sistema anti-emaranhamento."
 },
 {
 "id": "d5cffb0e969f31",
@@ -6581,6 +6801,27 @@
 "mx": 3
 },
 {
+"id": "9592616bf91d0d",
+"t": "O El Corte Inglés já iniciou a sua Black Friday antecipada com ofertas de TVs, auscultadores, aspiradores robôs e muito mais",
+"r": "Embora a Black Friday seja oficialmente na próxima semana, são muitas as lojas que estão adiantando um bom número de ofertas para esta semana. Um deles é o El Corte Inglés, que tem uma promoção ativa até 22 de novembro chamada, justamente, Antecipe-se à Black Friday. Não nos restam muitos dias para usufruir desta…",
+"u": "https://www.xataka.com/seleccion/corte-ingles-ha-empezado-su-black-friday-anticipado-ofertas-teles-auriculares-robots-aspiradores",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/f579ef/castellon-1-/840_560.jpeg",
+"d": "2026-11-18T14:45-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "El Corte Inglés ya ha empezado su Black Friday anticipado con ofertas en teles, auriculares, robots aspiradores y más",
+"lg": "es",
+"p": 3.5,
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "Embora a Black Friday seja oficialmente na próxima semana, são muitas as lojas que estão adiantando um bom número de ofertas para esta semana. Um deles é o El Corte Inglés, que tem uma promoção ativa até 22 de novembro chamada, justamente, Antecipe-se à Black Friday. Não nos restam muitos dias para usufruir desta promoção, mas é importante destacar que podemos aceder a um financiamento a 100% até 12 meses sem juros se tivermos o cartão El Corte Inglés.\nO primeiro dos aparelhos que selecionamos no El Corte Inglés é este aspirador sem fio Bosch Unlimited, atualmente disponível pelo preço mais baixo de todos os tempos: 199 euros. Uma das TVs mais notáveis ​​nesta promoção do El Corte Inglés é esta Hisense 65U7S Pro."
+},
+{
 "id": "05352b07ceb9a2",
 "t": "Imprimindo robôs macios poderosos em uma área de trabalho",
 "r": "",
@@ -6707,25 +6948,6 @@
 "rx": "O Wybot C2 Vision é um robô de piscina compacto equipado com câmera e navegação guiada por inteligência artificial. Promete identificar detritos para aspirá-los sem perder tempo percorrendo desnecessariamente toda a piscina."
 },
 {
-"id": "2de02fe1d6aff9",
-"t": "Rolo para limpeza de pisos e estação completa: Roborock Saros 20 Flow a 799 euros, quase metade do preço",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWlZlY0RtR2F2dnVPT1NvQzgtMjlJemJpWHRtRGdLdHJJOE5fYXdlcnJwZkVPbk9GU3h2WlBSRjdZVDJCdmRPLVExeXZ2Y3NKWjU2TlRrUXhJM3EzaVFFTjlYOEdCeVlHSXg5ZDBiM1pzeDFPdzhJRHdRZ2VmXzJzOFJkRWF5bS1BY212RjJuWFdVd25jRTR0WjB2aVd0d0pvdVQ4aVQ3c2poTWZXRlhaZTNoX0ZrUGRZQy1RX05aTDRTaWZZVmhGN3pFQXRHRUZDVDFISDhXYjJGcm9FQmFPeUtZV1RKd1c2SWgxeFNnbXRoZzBHU3ZzRWF1ekZkMVo0WnFSVTFKLTgtUmJSTGo0UUNuT0lZUmlTX3loZWJHbEVnMElYdTN1TWRJd2RMcWhQekdfeldjajDSAb4CQVVfeXFMTlNVRDI3ZHQ4R04xMGMta1VQN2hXUm95VGZHQzhOazE3ajY1S3A3Q3FvcHlHTTJrZG1ZU0gxYllGRUd2d2szUHVuLVczLWg4RTZpS0p3SHhtUjJTbVJNT21yVm83NTR6NklCWmlCYjVGWUJPbHRnVzRKcFNyNmdnNzhDemU3OXF1eE1udGNheDVhX1M4WFJ0SkdQYjBfRHZLVmdvTDlidXRMam1zS0poeDJmanpKTDdXV09FdmZ6N19nV1lwZkl3ZjlIWFMtRjVMcVh0bTRISExaSFFSSlhKM1J5UmQtX3hUU2k4R240dHk0ejVBZFBGMGs1VG1qMWMtSHJ0ZkVNWE5JcEtYYlkyNU9pUVJ3VExwamFacmNMbkpYb2NILXhEaUxRa2dnM0V6M2M3ZHFGZmZlcnUwOHBB?oc=5",
-"f": "Corriere della Sera",
-"s": "corriere.it",
-"i": "",
-"d": "2026-11-18T20:21-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Rullo lavapavimenti e stazione completa: Roborock Saros 20 Flow a 799 euro, quasi metà prezzo",
-"lg": "it",
-"p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera"
-},
-{
 "id": "53bac5aa5551bc",
 "t": "Waymo interrompe o serviço em São Francisco depois que robotáxis ficam presos em ruas inundadas",
 "r": "Waymo interrompeu temporariamente o serviço em São Francisco depois que vários robotáxis causaram engarrafamentos, pois não conseguiram navegar pelas ruas inundadas durante uma tempestade.",
@@ -6830,6 +7052,50 @@
 "cv": "ITmedia",
 "mx": 1,
 "rx": "Os produtos mais recentes da Ecovacs, fabricante líder mundial de aspiradores robôs, estão agora disponíveis na Rakuten Black Friday 2026 a um preço significativamente reduzido. Os produtos da ECOVACS, que detém a maior quota de mercado mundial em aspiradores robotizados, também estão disponíveis a preços reduzidos.\nApresentando os aspiradores robôs Ecovacs que estarão à venda durante a Rakuten Black Friday 2026. \"DEEBOT T80 OMNI\" é um aspirador robô equipado com uma poderosa força de sucção de 18.000 Pa e o \"sistema de esfregona de limpeza constante de pressão constante de rolo OZMO\", uma função de limpeza úmida que também é usada no modelo top."
+},
+{
+"id": "c85e7870c598de",
+"t": "A China acaba de exibir imagens raras de seu drone de combate furtivo GJ-11",
+"r": "A China divulgou imagens de televisão do seu drone de combate furtivo GJ-11, revelando detalhes estruturais e atividades operacionais nunca antes vistos. O GJ-11 possui dois compartimentos internos de armas abaixo da fuselagem, cada um protegido por portas operadas separadamente com bordas serrilhadas. A configuração…",
+"u": "https://www.techradar.com/pro/china-goes-public-with-stealth-uav-manned-by-crack-team-of-self-trained-female-drone-operators-gj-11-looks-a-lot-like-northrop-grummans-x-47b-now-defunct-ucav",
+"f": "TechRadar",
+"s": "techradar.com",
+"i": "https://cdn.mos.cms.futurecdn.net/W3UFBwkod2pvp3wwjVtc9i-1920-80.png",
+"d": "2026-11-18T22:10-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "China just showed off rare footage of its GJ-11 stealth combat drone",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "TechRadar",
+"mx": 1,
+"rx": "A China divulgou imagens de televisão do seu drone de combate furtivo GJ-11, revelando detalhes estruturais e atividades operacionais nunca antes vistos. O GJ-11 possui dois compartimentos internos de armas abaixo da fuselagem, cada um protegido por portas operadas separadamente com bordas serrilhadas. A configuração furtiva e os compartimentos internos de armas do GJ-11 poderiam permitir que ele se aproximasse dessas defesas enquanto carregava armas para ataques de precisão.\nA transmissão também mostrou o planejamento de missões envolvendo aeronaves GJ-11 operando ao lado de caças multifuncionais J-16 e aeronaves stealth J-20 de quinta geração. O GJ-11 se assemelha ao X-47B da Northrop Grumman em seu formato de asa voadora, design furtivo e compartimentos internos de armas, embora a aeronave americana nunca tenha entrado no serviço militar ativo ou em combate operacional."
+},
+{
+"id": "2402bd4c9b8bef",
+"t": "Exposição 30/11｜Imagreate completou com sucesso aproximadamente 4.000 rodadas de Kendama em 1 hora! Herdando habilidades humanas para robôs",
+"r": "Em 30 de novembro de 2026, o \"ASCII STARTUP TechDay 2026\", um evento de intercâmbio de exposições e conferências com o tema de construção de um ecossistema de startups de tecnologia profunda, será realizado no Shinagawa Intercity Hall, em Tóquio. O evento contará com sessões com diversos convidados do meio acadêmico…",
+"u": "https://ascii.jp/elem/000/004/452/4452897/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2026/11/18/4553836/xl/b1752d2e5929484b.png",
+"d": "2026-11-18T23:00-03:00",
+"c": [
+"competicoes",
+"negocios"
+],
+"l": 0,
+"to": "11/30展示｜イマクリエイト、1時間でけん玉約4000回成功！人の技をロボットへ継承",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "Em 30 de novembro de 2026, o \"ASCII STARTUP TechDay 2026\", um evento de intercâmbio de exposições e conferências com o tema de construção de um ecossistema de startups de tecnologia profunda, será realizado no Shinagawa Intercity Hall, em Tóquio. O evento contará com sessões com diversos convidados do meio acadêmico, da indústria e do governo, bem como exposições em estandes de empresas iniciantes e outras.\nImagine é uma startup que usa XR e IA física para transferir as habilidades de especialistas para humanos e robôs."
 },
 {
 "id": "45e4ef3500625e",
@@ -6941,8 +7207,8 @@
 {
 "id": "f9bee010026d96",
 "t": "O Ministério da Indústria e Tecnologia da Informação divulgou cinco padrões industriais na área de robôs humanóides - interpretação de classificação de capacidade inteligente e padrões de construção de campo de treinamento",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hMm9NVFZkRzBUSTVwcjUwMW9yNXpTdTdVU3FSRmdXSjRMWXBEdVE3RldxNl85VnIzdnRKbTBpaHFWdl9nT0VZNkYzdVRBUQ?oc=5",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4076568022537350",
 "f": "36氪",
 "s": "m.36kr.com",
 "i": "",
@@ -6953,9 +7219,11 @@
 "l": 0,
 "to": "工业和信息化部发布5项人形机器人领域行业标准——智能化能力分级、训练场构建标准解读",
 "lg": "zh",
-"p": 3.0,
+"p": 3.3,
 "cr": 2,
-"cv": "36Kr"
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "4e46c83eb4f8f2",
@@ -7063,6 +7331,48 @@
 "rx": "O Grupo Lenovo organiza empresas de software, equipes profissionais e empresas de robótica para construir um ecossistema de IA por meio de plataformas de aplicativos, serviços de desenvolvedor e recursos de fabricação. Baiying apresenta aplicativos de parceiros e Tianxi apoia a co-construção profissional e distribuição de habilidades; a base de fabricação inteligente do sul concluiu o primeiro lote de entrega de produtos robóticos e, em outubro, atualizou os serviços de teste de pequeno e médio porte. Lenovo Baiying apresenta aplicativos de escritório de parceiros e estabelece métodos de participação, como cooperação de aplicativos e prestação de serviços. A empresa de software fornece recursos profissionais e a Lenovo fornece suporte a plataformas e equipamentos.\nEm outubro de 2026, a Southern Intelligent Manufacturing Base da Lenovo atualizou seus serviços de teste de pequeno e médio porte para fornecer suporte desde a verificação do produto até a entrega da fabricação para empresas de inovação científica e tecnológica; Benmo Technology, Daimeng Robots e Kuandimensional Intelligence possuem registros específicos de cooperação de fabricação."
 },
 {
+"id": "14691312d00308",
+"t": "Uma empresa de robôs avaliada em 20 bilhões não pode mais pagar salários",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4076334013994115",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-18T14:15-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "估值200亿机器人公司，发不出工资了",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "6d91fdc2a2feb4",
+"t": "A mão robótica da ByteDou vendeu 300.000 unidades, correndo em direção ao IPO",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4076539714327432",
+"f": "36氪",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-18T17:24-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "字节投的机器手，卖出30万套，冲刺IPO",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
 "id": "8b2b17f2306c5c",
 "t": "Este limpador de piso Roborock com classificação 4,5/5 cai para € 388 na Black Friday 2026",
 "r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
@@ -7144,84 +7454,6 @@
 "cr": 2,
 "cv": "KrASIA",
 "mx": 3
-},
-{
-"id": "14691312d00308",
-"t": "Uma empresa de robôs avaliada em 20 bilhões não pode mais pagar salários",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheDZhMjJsZGhrbm5nRU1IOGVnSzd3TS1vOFZ4V282SzcxSm8tSjJsbEh2SXlGeDRIMi1qWEZZVnVFb0R5X2l4NVN1aU5CQQ?oc=5",
-"f": "36Kr",
-"s": "m.36kr.com",
-"i": "",
-"d": "2026-11-18T14:15-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "估值200亿机器人公司，发不出工资了",
-"lg": "zh",
-"p": 2.2,
-"cr": 2,
-"cv": "36Kr"
-},
-{
-"id": "9592616bf91d0d",
-"t": "O El Corte Inglés já iniciou a sua Black Friday antecipada com ofertas de TVs, auscultadores, aspiradores robôs e muito mais",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSk04WU40ZTZVV1hoeDRXX3k2WXZOZEhuclVaZS13SC1oTmVRSFZTTWpXVWd3ZlJXaFRlTkI1cWtvTm5jVGhYVVlCY25CNm9KTDhxeEs2NHg2c18wSGZrZzV2YXJIaHptb1dvUEpiQ1dMdW41b2dIcTZydHNVM01Ia2xiWktxQnZ1NHI2Um9FcTVVcm5WeGd2LVpfOENKU1JzVHRjNnA0Ymt1eTdUTkVkVldCLXFIbUVVSkVZbFJyTUFzU202OUVOdtIBzgFBVV95cUxONVd6LUFDYmZ1SXNXMnI0ZDJXZzh6N3MxSlBpYmJ3Q1FKVm5zeGkyX2NrVmlycEdiNHpkVzdNeEEwLXpVSWJCb1oydXFwQUVQMG8zVVRsaFllVU1nYUJJcDNMREJLVnFBT2praGxrSVl0Q2VLOVFuVTdmX1RvSG9fOGRtUGJ3V0dhOVpkSVZxZmg3Tm5FUTZOWUJIOHc4N1p4NUM5S2M1NTRmVHFiOEVRZjA0bjlKYmNaQzcteTN2cGxuZjVYYmhoNWpoY1RGUQ?oc=5",
-"f": "Xataka",
-"s": "xataka.com",
-"i": "",
-"d": "2026-11-18T14:45-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "El Corte Inglés ya ha empezado su Black Friday anticipado con ofertas en teles, auriculares, robots aspiradores y más",
-"lg": "es",
-"p": 2.2,
-"cr": 2,
-"cv": "Xataka"
-},
-{
-"id": "c85e7870c598de",
-"t": "A China acaba de exibir imagens raras de seu drone de combate furtivo GJ-11",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd0ZmSUptRGdvbXItTTR4RmJXdVU3RGJHX1VuT2d3aENYV05wZGE0SlNjNDRZeFdBSzJSbF9jWkVIaUY3TkNBNGFkUnhjWEZtMFc4cFViUTM0Z1lKYXpjZDJGZkYxVXZfc0h4QThhQmRIQ1BpOUZpQ3ZhUnFYX244dTNFVEVKVTVBSktQaGFKWkM1QWZvd0tXaXNxeDJRc09uRTdSRHJmeTRSRF9ld3pmMzdfZ2NDa1VQRUs2ZHMyU0RTckpLOEswQ2dTbkdFVG0yWW56X21ib0Q4X2xpYS15NTBIOFhkRmItazhCU0JSalI3RlAwdWEzQnVoSzVMUVB5a2txcEZ0MXB1VG1BT2tmR2VFVEpNb28?oc=5",
-"f": "TechRadar",
-"s": "techradar.com",
-"i": "",
-"d": "2026-11-18T22:10-03:00",
-"c": [
-"drones",
-"defesa"
-],
-"l": 0,
-"to": "China just showed off rare footage of its GJ-11 stealth combat drone",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "TechRadar"
-},
-{
-"id": "2402bd4c9b8bef",
-"t": "Exposição 30/11｜Imagreate completou com sucesso aproximadamente 4.000 rodadas de Kendama em 1 hora! Herdando habilidades humanas para robôs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40SzdRUEM1RHoxNlJsMkNURkpzajhCTTVWWEw1cXVzZEg1SmJQR1BlaVpQRURSSnhreTNlamh2SldaLWVST0Z5TFpMdTJaZlFXeGxfdQ?oc=5",
-"f": "ASCII.jp",
-"s": "ascii.jp",
-"i": "",
-"d": "2026-11-18T23:00-03:00",
-"c": [
-"competicoes",
-"negocios"
-],
-"l": 0,
-"to": "11/30展示｜イマクリエイト、1時間でけん玉約4000回成功！人の技をロボットへ継承",
-"lg": "ja",
-"p": 2.2,
-"cr": 2,
-"cv": "ASCII.jp"
 }
 ],
 "2026-11-17": [
@@ -11502,6 +11734,28 @@
 "mx": 9
 },
 {
+"id": "f66150fccac61a",
+"t": "Humor: Robôs nos Jogos Mundiais de Robôs Humanóides em Pequim, China",
+"r": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com.",
+"u": "https://www.straitstimes.com/videos/6403947356112",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "",
+"d": "2026-11-17T16:09-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Mood: Robots at the World Humanoid Robot Games in Beijing, China",
+"lg": "en",
+"p": 4.6,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "The Straits Times - Receba as últimas notícias, negócios, esportes, estilo de vida, tecnologia e multimídia e mais notícias em Cingapura, Ásia e resto do mundo em straitstimes.com."
+},
+{
 "id": "6ecc9fb7226c47",
 "t": "Encoder Products Company expande portfólio de medição linear com sensores Waycon Draw Wire",
 "r": "A nova linha de produtos oferece soluções versáteis de medição de posição linear para automação industrial, equipamentos móveis e aplicações exigentes.",
@@ -11712,26 +11966,6 @@
 "cv": "36Kr",
 "mx": 1,
 "rx": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro produto é voltado para a computação final de robôs. A empresa de inteligência incorporada Galaxy General Motors assinou um contrato com o fabricante de chips automotivos Xinchi Technology em novembro de 2025 para desenvolver em conjunto chips robóticos de próxima geração.\nAs empresas que produzem carros e robôs ao mesmo tempo estão bem posicionadas para alocar custos de pesquisa e desenvolvimento de chips aos dois tipos de produtos. Para empresas de inteligência incorporada que dependem principalmente de remessas de robôs para compartilhar custos de pesquisa e desenvolvimento, fabricar um chip que atenda às necessidades de toda a máquina é um problema de engenharia que pode ser resolvido por meio de investimentos contínuos."
-},
-{
-"id": "f66150fccac61a",
-"t": "Humor: Robôs nos Jogos Mundiais de Robôs Humanóides em Pequim, China",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SnpLN3hsaTI3aW9rVDlyTEI4MTRnV1hqZDV1UWxjUnI2aC1qMFhCWm9PTUJPWjQ1TFNpNEtGN19MVUhOUlpQOFhvSGVDWTg0cXRWNjJtYm1zOVljSEE?oc=5",
-"f": "The Straits Times",
-"s": "straitstimes.com",
-"i": "",
-"d": "2026-11-17T16:09-03:00",
-"c": [
-"humanoides",
-"competicoes"
-],
-"l": 0,
-"to": "Mood: Robots at the World Humanoid Robot Games in Beijing, China",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "The Straits Times"
 },
 {
 "id": "c962499ba84a3a",
@@ -13932,7 +14166,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/elite-robots-expands-global-mobile-automation-offering-with-ce-compliant-mobile-manipulators-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-16T06:00-03:00",
 "c": [
 "geral"
@@ -13962,7 +14196,7 @@
 "u": "https://www.straitstimes.com/paid-press-releases/robotera-launches-xhand-1-pro-u-featured-in-nvidias-gr00t-2-dexumi-demonstration-20261116",
 "f": "The Straits Times",
 "s": "straitstimes.com",
-"i": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-16T07:10-03:00",
 "c": [
 "ia",
@@ -15934,6 +16168,27 @@
 "rx": "A Robinson Helicopter Company exibirá três aeronaves não tripuladas coaxiais, HELIUS, SPIRIT e SPARTAN, no European Rotors 2026 em Lyon, de 1 a 3 de dezembro. 16, 2026 — A Robinson Helicopter Company (RHC), líder global em helicópteros civis, participará do European Rotors 2026 de 1 a 3 de dezembro na Eurexpo Lyon em Lyon, França. Robinson Unmanned, criada em março de 2026 para focar em voos autônomos e pilotados remotamente, exibirá três sistemas aéreos não tripulados coaxiais:\nAlém de suas exibições, a Robinson Helicopter Company realizará um painel de discussão intitulado “Motor único, potencial máximo: segurança, eficiência operacional e desempenho ambiental de helicópteros monomotores no espaço aéreo europeu” na terça-feira, 1º de dezembro de 2026, às 13h15 no estande nº 165."
 },
 {
+"id": "ef7874e13f9e94",
+"t": "China implanta robôs policiais, drones e IA para cúpula da APEC em Shenzhen",
+"r": "A cidade chinesa de Shenzhen intensificou os seus preparativos para acolher a 33ª Reunião de Líderes Económicos da APEC, marcada para 18 e 19 de Novembro, através de uma ampla implantação tecnológica destinada a reforçar a segurança e melhorar os serviços durante a reunião. Entre os principais dispositivos destacam-se…",
+"u": "https://www.elmundo.es/internacional/2026/11/16/6afaf9b5e85ece78508b4596-video.html",
+"f": "El Mundo",
+"s": "elmundo.es",
+"i": "https://e01-phantom-elmundo.uecdn.es/934d922c1f8207b28dbcfb6d602c6d9f/provider/dm/crop/150x0/1770x1080/resize/1200/f/webp/v/gze-A1g-lbdoke1Gw/x1080",
+"d": "2026-11-16T09:40-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "China despliega robots policía, drones e IA para la cumbre de la APEC en Shenzhen",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "El Mundo",
+"mx": 1,
+"rx": "A cidade chinesa de Shenzhen intensificou os seus preparativos para acolher a 33ª Reunião de Líderes Económicos da APEC, marcada para 18 e 19 de Novembro, através de uma ampla implantação tecnológica destinada a reforçar a segurança e melhorar os serviços durante a reunião. Entre os principais dispositivos destacam-se robôs de patrulha, drones e sistemas de inteligência artificial, que desempenharão um papel fundamental na vigilância e controlo de diferentes espaços urbanos. Em áreas como o Sea World, localizado no distrito de Nanshan e onde residem mais de 20 mil cidadãos estrangeiros de mais de 100 países, as autoridades lançaram um sistema de vigilância coordenado. Robôs quadrúpedes, veículos autônomos de segurança e drones trabalham juntos para monitorar as ruas, detectar possíveis incidentes e garantir a proteção de moradores e visitantes."
+},
+{
 "id": "cb0d84ad6e1c32",
 "t": "Drone AeroForce X da Alemanha faz primeiro vôo com um piloto a bordo",
 "r": "O Aerodata AeroForce X, a aeronave que seu fabricante chama de primeiro drone de média altitude e longa duração (MALE) da Alemanha, fez seu primeiro vôo no sábado, 14 de novembro, no aeródromo de Strausberg, a leste de Berlim. A Aerodata afirma que o protótipo atendeu a todos os requisitos estabelecidos para o voo, e…",
@@ -17547,25 +17802,6 @@
 "rx": "A NASA, a agência espacial dos EUA, está desenvolvendo um robô de exploração lunar movido a energia nuclear. O robô lunar de exploração do Pólo Sul 'PROMISE' está equipado com um dispositivo de geração de energia nuclear e pode operar sem energia solar. Ao coletar solo de até 1 metro de profundidade, investigamos recursos como água e gelo, e medimos a radiação e o ambiente extremamente frio que pode chegar a -242 graus Celsius. Também planeamos testar a tecnologia de condução autónoma para que possa determinar o seu próprio caminho na superfície escura da Lua sem ter que controlá-la manualmente a partir da Terra. A NASA tem como meta o lançamento no final de 2028 e planeja conduzir a exploração por 18 meses após o pouso na Lua. As informações coletadas serão usadas para construir uma base lunar no futuro. Repórter Lee Chang-min re34521@etnews.com"
 },
 {
-"id": "ef7874e13f9e94",
-"t": "China implanta robôs policiais, drones e IA para cúpula da APEC em Shenzhen",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenBEV2g3VGVVajBuY0xPODRQa3JmUjFhTlNiT1o2MVhLaTBadXFmU1FTOHNfcXh3N1htblA3WkMyTTBzY0k2bDBZeExnQkZoWG9DVHBQYUk4blhUaEltS2NIVmZPdndwNnFZVE5pYlBzRl9zQkN6c0ptN2c5VTFXaEthdDlsMzJUTk5v0gGLAUFVX3lxTE1VZ0pRd0YyZzg3N29EcXNyblFpNng5OEVOcHQ5SHJiOUE3dGswRWU0eUt3Z1BjaFRYVUwwSHU0ZUthUUF4RDd2Q1hxbDUyS2djN1NQWmtUbmF1LVY2dG5HR3VzdkJSaTJocmRjaGtJWl9jZlkwUkpqRGtwdV9qWk45VDlabHAzNzhrWXM?oc=5",
-"f": "El Mundo",
-"s": "elmundo.es",
-"i": "",
-"d": "2026-11-16T09:40-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "China despliega robots policía, drones e IA para la cumbre de la APEC en Shenzhen",
-"lg": "es",
-"p": 3.5,
-"cr": 3,
-"cv": "El Mundo"
-},
-{
 "id": "d8ba9893709f67",
 "t": "Prática (e prática) com o próximo sistema MB.Drive Assist Pro da Mercedes-Benz",
 "r": "Benz nos dá mais um passo em direção à direção autônoma.",
@@ -18340,6 +18576,59 @@
 "rx": "A proibição aplica-se tanto a áreas urbanizadas como rurais no município de cerca de 16.400 quilómetros quadrados – uma área aproximadamente metade do tamanho da Bélgica."
 },
 {
+"id": "85be70a7764944",
+"t": "Os táxis sem motorista, robôs e empresas de tecnologia na cidade-sede da APEC, Shenzhen, mostram as ambições da China",
+"r": "SHENZHEN, China (AP) – O aplicativo mostrava um minuto para a chegada do táxi. Bem-vindo a Shenzhen, um centro de desenvolvimento tecnológico na China, onde estão a tomar forma alguns dos mais recentes avanços, desde a inteligência artificial e a robótica até aos veículos eléctricos e autónomos. Embora algumas destas…",
+"u": "https://www.theglobeandmail.com/investing/markets/indices/TXCE/pressreleases/8846889/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-china-s-ambitions/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/7c/c7ceb087-cb43-57d5-b881-c5fc45b313d3/6afa5b6f064f1.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+"d": "2026-11-15T22:18-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
+"lg": "en",
+"p": 12.3,
+"o": [
+{
+"f": "Toronto Star",
+"u": "https://www.thestar.com/news/world/asia/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-china-s-ambitions/article_f9e4c6c2-a440-5fef-9b52-aee929438818.html",
+"s": "thestar.com",
+"id": "83e44f6348a9bc"
+},
+{
+"f": "AP News",
+"u": "https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70",
+"s": "apnews.com",
+"id": "ae8f44f584a499"
+},
+{
+"f": "Japan Wire by Kyodo News",
+"u": "https://english.kyodonews.net/articles/-/91546",
+"s": "english.kyodonews.net",
+"id": "07293af27a5f39"
+},
+{
+"f": "La Nación",
+"u": "https://www.lanacion.com.ar/usa/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions-nid15112026/",
+"s": "lanacion.com.ar",
+"id": "fe97976c48d6a9"
+},
+{
+"f": "The Economic Times",
+"u": "https://economictimes.indiatimes.com/tech/technology/driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions/articleshow/135871330.cms",
+"s": "economictimes.indiatimes.com",
+"id": "4cf6cbb71f858c"
+}
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": -12,
+"rx": "SHENZHEN, China (AP) – O aplicativo mostrava um minuto para a chegada do táxi. Bem-vindo a Shenzhen, um centro de desenvolvimento tecnológico na China, onde estão a tomar forma alguns dos mais recentes avanços, desde a inteligência artificial e a robótica até aos veículos eléctricos e autónomos. Embora algumas destas inovações possam agora ser vistas noutras cidades chinesas, Shenzhen é há muito considerada um dos principais centros tecnológicos do país e é o lar de algumas das suas empresas mais conhecidas, como a empresa de telecomunicações Huawei, o fabricante de veículos eléctricos BYD e a gigante da Internet e dos jogos Tencent.\nA empresa prevê um dia em que todos os táxis em Shenzhen não terão motorista? Quando a China comemorou 40 anos de Shenzhen como zona económica especial, em 2020, Xi descreveu a cidade como “um milagre na história do desenvolvimento mundial”."
+},
+{
 "id": "f3fd378106703d",
 "t": "River AI da China revela ‘River-0’, um modelo de ação mundial que atua com base na experiência humana",
 "r": "O Robot Report informou no dia 4 (hora local) que o LiberAI da China revelou o 'Liber-0', um Modelo de Ação Mundial (WAM) que pré-aprendeu mais de 2,2 milhões de horas de experiência humana. A startup com sede em Pequim disse que o modelo combina gravações de vídeo de movimentos humanos, movimentos gravados com luvas e aprendizagem condicionada pela incorporação. Foi revelado que a experiência operacional humana é transferida para robôs. O principal teste para verificar a capacidade de generalização do River-0 é realizar tarefas específicas.",
@@ -18562,53 +18851,6 @@
 "cv": "The Telegraph",
 "mx": 1,
 "rx": "O Google está planejando lançar entregas de drones para residências no Reino Unido pela primeira vez, em um desafio ao serviço rival da Amazon, Prime Air. A Wing, que pertence ao gigante dos mecanismos de busca dos EUA, está se preparando para testar um “serviço de entrega de última milha” aéreo perto de Birmingham no próximo ano. Um porta-voz da Wing disse: “Estamos entusiasmados em explorar a expansão de nosso serviço para mais áreas no Reino Unido e estender nosso serviço para incluir um teste de serviços residenciais de entrega de drones.\nA Wing já opera em várias cidades dos EUA, prometendo entregar mantimentos em apenas 30 minutos. Seu lançamento no Reino Unido colocaria a Wing em concorrência direta com a Amazon, que vem expandindo sua própria rede de drones na Grã-Bretanha. Em 2022, um drone Wing colidiu com uma linha de energia na Austrália, causando a perda de energia em 2.000 residências."
-},
-{
-"id": "85be70a7764944",
-"t": "Os táxis sem motorista, robôs e empresas de tecnologia na cidade-sede da APEC, Shenzhen, mostram as ambições da China",
-"r": "SHENZHEN, China (AP) – O aplicativo mostrava um minuto para a chegada do táxi. Bem-vindo a Shenzhen, um centro de desenvolvimento tecnológico na China, onde estão a tomar forma alguns dos mais recentes avanços, desde a inteligência artificial e a robótica até aos veículos eléctricos e autónomos. Embora algumas destas…",
-"u": "https://www.theglobeandmail.com/investing/markets/indices/TXCE/pressreleases/8846889/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-china-s-ambitions/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/7c/c7ceb087-cb43-57d5-b881-c5fc45b313d3/6afa5b6f064f1.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-"d": "2026-11-15T22:18-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
-"lg": "en",
-"p": 10.8,
-"o": [
-{
-"f": "Toronto Star",
-"u": "https://www.thestar.com/news/world/asia/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-china-s-ambitions/article_f9e4c6c2-a440-5fef-9b52-aee929438818.html",
-"s": "thestar.com",
-"id": "83e44f6348a9bc"
-},
-{
-"f": "AP News",
-"u": "https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70",
-"s": "apnews.com",
-"id": "ae8f44f584a499"
-},
-{
-"f": "Japan Wire by Kyodo News",
-"u": "https://english.kyodonews.net/articles/-/91546",
-"s": "english.kyodonews.net",
-"id": "07293af27a5f39"
-},
-{
-"f": "La Nación",
-"u": "https://www.lanacion.com.ar/usa/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions-nid15112026/",
-"s": "lanacion.com.ar",
-"id": "fe97976c48d6a9"
-}
-],
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": -12,
-"rx": "SHENZHEN, China (AP) – O aplicativo mostrava um minuto para a chegada do táxi. Bem-vindo a Shenzhen, um centro de desenvolvimento tecnológico na China, onde estão a tomar forma alguns dos mais recentes avanços, desde a inteligência artificial e a robótica até aos veículos eléctricos e autónomos. Embora algumas destas inovações possam agora ser vistas noutras cidades chinesas, Shenzhen é há muito considerada um dos principais centros tecnológicos do país e é o lar de algumas das suas empresas mais conhecidas, como a empresa de telecomunicações Huawei, o fabricante de veículos eléctricos BYD e a gigante da Internet e dos jogos Tencent.\nA empresa prevê um dia em que todos os táxis em Shenzhen não terão motorista? Quando a China comemorou 40 anos de Shenzhen como zona económica especial, em 2020, Xi descreveu a cidade como “um milagre na história do desenvolvimento mundial”."
 },
 {
 "id": "5346eae9f511bd",
@@ -19158,6 +19400,36 @@
 "u": "https://m.36kr.com/p/4071732882445193",
 "s": "m.36kr.com",
 "id": "bd7751f0ed6fe6"
+}
+]
+},
+{
+"id": "4db605a6faa8ea",
+"t": "CEO pede US$ 4,6 milhões emprestados para comprar casa de luxo, startup de robôs humanóides enfrenta crise salarial",
+"r": "A empresa americana de robótica humanóide Foundation Future Industries perdeu seu dia de pagamento em 30 de outubro. O que deixou alguns funcionários ainda mais insatisfeitos foi que o cofundador e CEO Sankaet Pathak havia emprestado US$ 4,6 milhões da empresa para comprar uma casa. Ao mesmo tempo que a empresa…",
+"u": "https://www.36kr.com/p/4072064387143305",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261116/v2_548f95284a204c24a980633f95c5a9e5@46958@ai_oswg719891oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-15T16:39-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "CEO借460万美元购豪宅，人形机器人初创企业遭欠薪危机",
+"lg": "zh",
+"p": 5.8,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "A empresa americana de robótica humanóide Foundation Future Industries perdeu seu dia de pagamento em 30 de outubro. O que deixou alguns funcionários ainda mais insatisfeitos foi que o cofundador e CEO Sankaet Pathak havia emprestado US$ 4,6 milhões da empresa para comprar uma casa. Ao mesmo tempo que a empresa promove a investigação e o desenvolvimento e a expansão da produção de uma nova geração de robôs humanóides, também procura financiamento em maior escala. As restrições financeiras afetaram as operações diárias.\nPathak era anteriormente mais conhecido como o fundador da empresa de tecnologia financeira Synapse. Em maio de 2025, o TechCrunch citou The Information informando que a empresa estava tentando levantar US$ 100 milhões com uma avaliação de US$ 1 bilhão.",
+"o": [
+{
+"f": "36氪",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jT3pkUzZBOXVaQlVTRUdEZjBMNWsyamlNaUpPaWt1RENWUUhheTFmbXQ4NUlUX0d1aTFKQS15QmVXSDBRb3M4T3hieldSQQ?oc=5",
+"s": "m.36kr.com",
+"id": "fb4cd7e9a629b9"
 }
 ]
 },
@@ -20663,28 +20935,6 @@
 "cur": 1
 },
 {
-"id": "4db605a6faa8ea",
-"t": "CEO pede US$ 4,6 milhões emprestados para comprar casa de luxo, startup de robôs humanóides enfrenta crise salarial",
-"r": "A empresa americana de robótica humanóide Foundation Future Industries perdeu seu dia de pagamento em 30 de outubro. O que deixou alguns funcionários ainda mais insatisfeitos foi que o cofundador e CEO Sankaet Pathak havia emprestado US$ 4,6 milhões da empresa para comprar uma casa. Ao mesmo tempo que a empresa…",
-"u": "https://www.36kr.com/p/4072064387143305",
-"f": "36Kr",
-"s": "36kr.com",
-"i": "https://img.36krcdn.com/hsossms/20261116/v2_548f95284a204c24a980633f95c5a9e5@46958@ai_oswg719891oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-"d": "2026-11-15T16:39-03:00",
-"c": [
-"humanoides",
-"negocios"
-],
-"l": 0,
-"to": "CEO借460万美元购豪宅，人形机器人初创企业遭欠薪危机",
-"lg": "zh",
-"p": 4.3,
-"cr": 2,
-"cv": "36Kr",
-"mx": 1,
-"rx": "A empresa americana de robótica humanóide Foundation Future Industries perdeu seu dia de pagamento em 30 de outubro. O que deixou alguns funcionários ainda mais insatisfeitos foi que o cofundador e CEO Sankaet Pathak havia emprestado US$ 4,6 milhões da empresa para comprar uma casa. Ao mesmo tempo que a empresa promove a investigação e o desenvolvimento e a expansão da produção de uma nova geração de robôs humanóides, também procura financiamento em maior escala. As restrições financeiras afetaram as operações diárias.\nPathak era anteriormente mais conhecido como o fundador da empresa de tecnologia financeira Synapse. Em maio de 2025, o TechCrunch citou The Information informando que a empresa estava tentando levantar US$ 100 milhões com uma avaliação de US$ 1 bilhão."
-},
-{
 "id": "aedee8bc4b713d",
 "t": "Pedi a um serviço de despacho humanóide para fazer uma limpeza para mim/a \"capacidade de recusar\" da IA ​​é perigosa",
 "r": "Resumo das notícias de tecnologia de ponta do MIT Technology Review No. 406 Do MIT Technology Review, uma mídia global que fornece as informações tecnológicas mais avançadas do mundo, apresentaremos as últimas tendências de empresas de tecnologia notáveis ​​que são úteis para os negócios e o conteúdo de pesquisa mais…",
@@ -21091,6 +21341,25 @@
 "cr": 3,
 "cv": "Nikkei Asia",
 "mx": 9
+},
+{
+"id": "8e659f0d523c06",
+"t": "2 amigos construíram um drone em sua garagem e agora têm seu primeiro cliente",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhNVJCNV9MZE0zeE5fUXNEM0EwZkIxbWRSZ2FMU00tU0gwZGZvUW04TjNPenY0d2YycW90Q0hzYWc5SnVCYzRqUEJXVndqYktra2xPZE5NZVVHUQ?oc=5",
+"f": "CBC",
+"s": "cbc.ca",
+"i": "",
+"d": "2026-11-15T05:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "2 friends built a drone in their garage and now have their 1st customer",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "CBC"
 },
 {
 "id": "04fc93bed9cd7b",
@@ -28919,7 +29188,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -34808,7 +35077,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -50896,7 +51165,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -50925,7 +51194,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
