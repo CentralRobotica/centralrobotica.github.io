@@ -357,7 +357,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "The Economist",
-"mx": 1
+"mx": 2
 },
 {
 "id": "de291dd730f139",
@@ -380,6 +380,41 @@
 "mx": 9,
 "rx": "Adicionados novos recursos, como uma função de legenda que pode exibir traduções preparadas em até 3 idiomas, uma pausa tocando no peito e um menu original Softwing Co., Ltd. (sede: cidade de Kashiwa, província de Chiba, diretor representante: Akinori Imaeda) lançou uma nova versão ``Ver1.1.0'' do ``Roboslide BT for KebbiAir'', um aplicativo que usa um robô de comunicação para explicar slides do PowerPoint, a partir de novembro 11 de outubro de 2026. \"Roboslide BT\" é compatível com Kebbi 3 na versão 1.1.0, e Kebbi 3 lê o que você escreveu em seu caderno e explica para você.",
 "cur": 1
+},
+{
+"id": "af7db8a8781d1a",
+"t": "LG Electronics promove os presidentes Baek Seung-tae e Lee Sang-woo... Fortalecendo organizações de robôs e AIDC",
+"r": "A LG Electronics reorganizou sua organização com foco em negócios de crescimento futuro, como soluções de refrigeração para robótica e inteligência artificial para data centers (AIDC), e promoveu 44 executivos. A estratégia é fortalecer as capacidades de comercialização de novos negócios e aumentar a velocidade de…",
+"u": "https://it.chosun.com/news/articleView.html?idxno=3000000001430",
+"f": "IT조선",
+"s": "it.chosun.com",
+"i": "https://cdn.it.chosun.com/news/photo/202611/3000000001430_501647_2114.jpg",
+"d": "2026-11-19T04:32-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "LG전자, 백승태·이상우 사장 승진…로봇·AIDC 조직 강화",
+"lg": "ko",
+"p": 7.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A LG Electronics reorganizou sua organização com foco em negócios de crescimento futuro, como soluções de refrigeração para robótica e inteligência artificial para data centers (AIDC), e promoveu 44 executivos. A estratégia é fortalecer as capacidades de comercialização de novos negócios e aumentar a velocidade de execução dos negócios através da integração organizacional e da redução das etapas de tomada de decisão. Um total de 44 pessoas foram promovidas, incluindo 2 presidentes, 3 vice-presidentes, 10 diretores executivos e 29 diretores administrativos, um aumento de 11 pessoas em relação às 33 pessoas do ano passado. Os recém-promovidos a diretores administrativos incluíram Park Ki-beom, chefe da LG Data Factory, que liderou o avanço do Robot Foundation Model (RFM), Lee Jae-wook, diretor do HS Robotics Research Institute, que liderou pesquisas avançadas sobre robôs, e Jeong Woong, um pesquisador de tarefas de robôs humanóides no Robot Advancement Research Institute. Em relação às soluções de refrigeração AIDC, Kim Jeong-hoon, responsável pelo negócio de chillers, foi selecionado como novo executivo.\nEm particular, a Divisão de Negócios Aplicados foi criada na Divisão de Negócios ES, que é responsável pelo negócio de soluções de refrigeração AIDC. O plano é dar continuidade ao princípio da gestão responsável centrada nas divisões de negócios, reforçar organizações especializadas para cada negócio futuro e aumentar a capacidade de execução, reduzindo etapas desnecessárias de tomada de decisão.",
+"o": [
+{
+"f": "조선일보",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/19/4Z6KHM6N6VG6HFWPOUWQBGVCOM/",
+"s": "chosun.com",
+"id": "3b28ddda264545"
+},
+{
+"f": "디지틀조선TV",
+"u": "http://businessnews.chosun.com/site/data/html_dir/2026/11/19/2026111980174.html",
+"s": "businessnews.chosun.com",
+"id": "a3cea2e7c171ba"
+}
+]
 },
 {
 "id": "f7807b9c1c1584",
@@ -409,36 +444,6 @@
 "id": "719b50de1b2d19"
 }
 ]
-},
-{
-"id": "07bfb6103d754b",
-"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
-"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
-"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
-"lg": "en",
-"p": 7.1,
-"cr": 3,
-"cv": "AFP",
-"mx": 2,
-"o": [
-{
-"f": "Robotics Tomorrow",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
-"s": "roboticstomorrow.com",
-"id": "4ff85e0a20bcda"
-}
-],
-"esp": 1,
-"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "b8afc9a9b09a44",
@@ -611,35 +616,6 @@
 "rx": "Embora as empresas chinesas de robôs humanóides estejam implantando robôs em grande escala em locais de produção, descobriu-se que ainda há muitas tarefas a melhorar em termos de velocidade de trabalho e viabilidade econômica. China"
 },
 {
-"id": "af7db8a8781d1a",
-"t": "LG Electronics promove os presidentes Baek Seung-tae e Lee Sang-woo... Fortalecendo organizações de robôs e AIDC",
-"r": "A LG Electronics reorganizou sua organização com foco em negócios de crescimento futuro, como soluções de refrigeração para robótica e inteligência artificial para data centers (AIDC), e promoveu 44 executivos. A estratégia é fortalecer as capacidades de comercialização de novos negócios e aumentar a velocidade de…",
-"u": "https://it.chosun.com/news/articleView.html?idxno=3000000001430",
-"f": "IT조선",
-"s": "it.chosun.com",
-"i": "https://cdn.it.chosun.com/news/photo/202611/3000000001430_501647_2114.jpg",
-"d": "2026-11-19T04:32-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "LG전자, 백승태·이상우 사장 승진…로봇·AIDC 조직 강화",
-"lg": "ko",
-"p": 6.3,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 1,
-"rx": "A LG Electronics reorganizou sua organização com foco em negócios de crescimento futuro, como soluções de refrigeração para robótica e inteligência artificial para data centers (AIDC), e promoveu 44 executivos. A estratégia é fortalecer as capacidades de comercialização de novos negócios e aumentar a velocidade de execução dos negócios através da integração organizacional e da redução das etapas de tomada de decisão. Um total de 44 pessoas foram promovidas, incluindo 2 presidentes, 3 vice-presidentes, 10 diretores executivos e 29 diretores administrativos, um aumento de 11 pessoas em relação às 33 pessoas do ano passado. Os recém-promovidos a diretores administrativos incluíram Park Ki-beom, chefe da LG Data Factory, que liderou o avanço do Robot Foundation Model (RFM), Lee Jae-wook, diretor do HS Robotics Research Institute, que liderou pesquisas avançadas sobre robôs, e Jeong Woong, um pesquisador de tarefas de robôs humanóides no Robot Advancement Research Institute. Em relação às soluções de refrigeração AIDC, Kim Jeong-hoon, responsável pelo negócio de chillers, foi selecionado como novo executivo.\nEm particular, a Divisão de Negócios Aplicados foi criada na Divisão de Negócios ES, que é responsável pelo negócio de soluções de refrigeração AIDC. O plano é dar continuidade ao princípio da gestão responsável centrada nas divisões de negócios, reforçar organizações especializadas para cada negócio futuro e aumentar a capacidade de execução, reduzindo etapas desnecessárias de tomada de decisão.",
-"o": [
-{
-"f": "조선일보",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/19/4Z6KHM6N6VG6HFWPOUWQBGVCOM/",
-"s": "chosun.com",
-"id": "3b28ddda264545"
-}
-]
-},
-{
 "id": "c5a01b3bff7693",
 "t": "Pesquisas de drones planejadas para identificar fontes de poluição nos rios Ulhas e Waldhuni de Maharashtra | Notícias de Mumbai",
 "r": "A poluição nos rios Ulhas e Waldhuni, na região metropolitana de Mumbai, será combatida por meio de pesquisas com drones e propostas de drenos de esgoto fechados, entre outras medidas discutidas em uma reunião presidida pelo deputado Kalyan Lok Sabha, Shrikant Shinde, em Thane, na quarta-feira. A reunião contou com a…",
@@ -668,6 +644,36 @@
 "id": "61e889ab9c2258"
 }
 ]
+},
+{
+"id": "07bfb6103d754b",
+"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
+"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
+"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+"lg": "en",
+"p": 6.1,
+"cr": 3,
+"cv": "AFP",
+"mx": 1,
+"o": [
+{
+"f": "Robotics Tomorrow",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
+"s": "roboticstomorrow.com",
+"id": "4ff85e0a20bcda"
+}
+],
+"esp": 1,
+"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "31d24e91b986a1",
@@ -1139,7 +1145,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "159738abfcb931",
@@ -1367,6 +1373,28 @@
 "rx": "O CEO da Tesla, Musk, anunciou no dia 18 que o robô humanóide Optimus será demonstrado dentro de dois meses e deverá completar operações complexas de várias etapas dentro de 12 a 18 meses. Será usado primeiro na indústria pesada e depois entrará em casa; A Tesla também planeja produzir um SUV Modelo Y sem volante e com funções de direção autônoma.\nÀ medida que a Tesla persegue robôs humanóides e carros autônomos, as pessoas jurídicas estão otimistas sobre isso, e os estoques de conceitos relacionados incluem Alliance (2464), Yaguang e outros ganhos operacionais. A pedido da \"cadeia de suprimentos não vermelha\" do cliente, Mengli, juntamente com Kodali e Mengying Technology, estabeleceram conjuntamente uma nova empresa \"Kemeng (Tailândia)\" para produzir em massa e enviar componentes-chave de robôs no segundo semestre do ano para atender às necessidades de produção em massa de robôs humanóides."
 },
 {
+"id": "dec5dfe6f96439",
+"t": "MassRobotics se expande para Boston Fish Pier com nova instalação de robótica marítima",
+"r": "O novo espaço faz parte da iniciativa Blue Edge da Massport, que apoia a economia azul em rápido crescimento da região, desde a robótica marinha e sensores oceânicos até à aquicultura e tecnologia climática.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/massrobotics-expands-to-the-boston-fish-pier-with-new-marine-robotics-facility/27417",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-19T15:45-03:00",
+"c": [
+"subaquaticos",
+"defesa"
+],
+"l": 0,
+"to": "MassRobotics Expands to the Boston Fish Pier with New Marine Robotics Facility",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
 "id": "c9e12953e4d736",
 "t": "DJI Osmo Pocket 3 cai para US$ 373 no início da Black Friday",
 "r": "Se você já tentou gravar seus filhos correndo, capturar um belo momento de viagem ou filmar a si mesmo enquanto explorava uma nova cidade, sabe como as imagens do smartphone podem se transformar rapidamente em uma bagunça instável e mal enquadrada. E carregar uma configuração completa de câmera para qualquer lugar também não é exatamente prático. É aí que o…",
@@ -1432,6 +1460,29 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "O DJI Neo 2 Fly More Combo com o controle remoto RC-N3 recebeu seu primeiro desconto de 20% na Black Friday 2026."
+},
+{
+"id": "7c7eca80bf4f54",
+"t": "DJI Osmo Action 4 atinge preço recorde de apenas US$ 179",
+"r": "Uma boa câmera de ação pode fazer você repensar a forma como captura as aventuras do dia a dia. E quando essa câmera é uma DJI, vem com gravação 4K/120fps, estabilização e impermeabilização impressionantes e custa apenas US$ 179, vale a pena prestar atenção. mais…",
+"u": "https://dronedj.com/2026/11/19/dji-action-4-black-friday/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2024/07/Osmo-action-4-camera-dji-mimo-app-update.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-19T16:38-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "DJI Osmo Action 4 hits record-low price of just $179",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"cur": 1,
+"mx": 1,
+"rx": "Quando uma câmera DJI vem com gravação 4K/120fps, estabilização e impermeabilização impressionantes e custa apenas US$ 179, vale a pena prestar atenção."
 },
 {
 "id": "a66c45cea811bd",
@@ -2217,6 +2268,111 @@
 "rx": "Agências de segurança lançaram uma operação de busca depois que um drone quadricóptero suspeito equipado com câmera, bateria e pino foi encontrado em uma colônia residencial na área de Srikaranpur, em Sriganganagar, na quinta-feira, a cerca de 8 km dentro do território indiano da fronteira Indo-Pak."
 },
 {
+"id": "a3e872370f4bb6",
+"t": "Arte, lasers e robótica: a exposição imersiva “Amazing Wonders” no Forte Trionfale em Roma",
+"r": "(LaPresse) Um forte semi-abandonado do século XIX em Roma que se transforma numa experiência futurística entre projeções, lasers e máquinas que parecem...",
+"u": "https://stream24.ilsole24ore.com/video/italia/arte-laser-e-robotica-forte-trionfale-roma-mostra-immersiva-amazing-wonders/AJW2caMC",
+"f": "Il Sole 24 ORE",
+"s": "stream24.ilsole24ore.com",
+"i": "https://i2.res.24o.it/stream/assets/img/Lapresse/2026/11/19/large-LP_640002_128.jpg",
+"d": "2026-11-19T16:55-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Arte, laser e robotica: al Forte Trionfale di Roma la mostra immersiva “Amazing Wonders”",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 1,
+"rx": "(LaPresse) Um forte semi-abandonado do século XIX em Roma que se transforma numa experiência futurística entre projeções, lasers e máquinas que parecem..."
+},
+{
+"id": "c8b657c1113a7b",
+"t": "Drones são seu hobby de fim de semana – e seu trabalho nas águas movimentadas de Cingapura",
+"r": "Ela está entre os muitos profissionais marítimos que encontraram seu lugar entre gigantes – ao lado de um corretor de navios que fecha negócios de milhões de dólares por mensagem de texto e de um ex-operador de guindaste que agora lidera uma equipe no Porto de Jurong. Como gerente do departamento de Espaço Marítimo e…",
+"u": "https://www.straitstimes.com/singapore/drone-pilot-shipbroker-port-officer-maritime-careers-mpa?ref=latest",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/1e64fdc551fe0d918b996251b838c87b39697eafab76984560217de27cba674d?t=og",
+"d": "2026-11-19T17:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drones are her weekend hobby – and her job over Singapore’s busy waters",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "Ela está entre os muitos profissionais marítimos que encontraram seu lugar entre gigantes – ao lado de um corretor de navios que fecha negócios de milhões de dólares por mensagem de texto e de um ex-operador de guindaste que agora lidera uma equipe no Porto de Jurong. Como gerente do departamento de Espaço Marítimo e Capacidade de Drones da MPA, uma das funções de Jennifer Liu é supervisionar a implantação de drones nas águas de Cingapura.\nPara Liu, gerente do departamento de Espaço Marítimo e Capacidade de Drones da MPA, a operação fez parte de seu trabalho de desenvolvimento e supervisão do uso de drones nas águas de Cingapura. O seu papel não convencional é apenas um exemplo das diversas oportunidades na indústria marítima de Singapura hoje. Liu é uma das muitas pessoas que trabalham entre gigantes – os enormes navios, portos e empresas globais que mantêm a indústria marítima de Singapura em movimento."
+},
+{
+"id": "7b9efa8a625ea7",
+"t": "A tecnologia de IA física da NTT evita falhas antes que o robô se mova, a taxa de sucesso das prateleiras excede 90%",
+"r": "A NTT desenvolveu tecnologia física de IA (inteligência artificial) que prevê o futuro dos robôs antes que eles se movam e evita falhas. A partir dos candidatos à ação do robô e das informações da câmera/sensor, ele gera um vídeo das mudanças no ambiente circundante após a ação e avalia o sucesso ou fracasso do plano…",
+"u": "https://xtech.nikkei.com/atcl/nxt/news/24/03478/",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "https://xtech.nikkei.com/atcl/nxt/news/24/03478/topm.jpg?20220512",
+"d": "2026-11-19T17:00-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "NTTのフィジカルAI技術、ロボットが動く前に失敗回避 棚積み成功率9割超",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "A NTT desenvolveu tecnologia física de IA (inteligência artificial) que prevê o futuro dos robôs antes que eles se movam e evita falhas. A partir dos candidatos à ação do robô e das informações da câmera/sensor, ele gera um vídeo das mudanças no ambiente circundante após a ação e avalia o sucesso ou fracasso do plano de ação com uma pontuação antes da execução.\nDesenvolvemos o “Modelo Mundial NTT”, um modelo mundial que lida explicitamente com informações como massa, orientação e velocidade de movimento de um objeto, e prevê mudanças de estado com base em equações de movimento. Produz o futuro de vários candidatos a ação gerados pelo programa de controle do robô como imagens quando cada um deles é executado."
+},
+{
+"id": "747b623a17ceec",
+"t": "Introdução: \"A verdadeira natureza da inovação da Tesla: direção autônoma, IA, robôs e espaço\"",
+"r": "A ``Introdução'' do livro está repleta do que o autor deseja transmitir. O artigo de hoje é “A Verdadeira Identidade da Inovação Tesla: Direção Autônoma, IA, Robôs e Espaço” de Kenichiro Maeda. Enquanto você olhar para a Tesla como fabricante de automóveis, não será capaz de ver a verdadeira natureza desta empresa…",
+"u": "https://bookplus.nikkei.com/atcl/column/032900009/102901452/",
+"f": "日経BOOKプラス",
+"s": "bookplus.nikkei.com",
+"i": "https://bookplus.nikkei.com/atcl/column/032900009/102901452/top_m.jpg",
+"d": "2026-11-19T17:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "はじめに：『テスラ 革新の正体 自動運転・AI・ロボット、そして宇宙へ』",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "A ``Introdução'' do livro está repleta do que o autor deseja transmitir. O artigo de hoje é “A Verdadeira Identidade da Inovação Tesla: Direção Autônoma, IA, Robôs e Espaço” de Kenichiro Maeda. Enquanto você olhar para a Tesla como fabricante de automóveis, não será capaz de ver a verdadeira natureza desta empresa. Agora, o próprio domínio que a palavra automóvel cobriu até agora está a ser reorganizado numa escala sem precedentes.\nO próximo capítulo, Capítulo 6, analisa a visão futura da Tesla e da SpaceX de acelerar a IA e investir no espaço."
+},
+{
+"id": "5aa2fec4d98665",
+"t": "Operador de drone filma a primeira sessão de treinamento de Pochettino no Man United, filmagem postada online",
+"r": "MANCHESTER, Inglaterra (AP) – O primeiro treino de Mauricio Pochettino como técnico do Manchester United foi examinado mais de perto do que o esperado quando um operador de drone o filmou na quinta-feira. Cerca de 12 minutos da sessão foram carregados em uma conta do YouTube chamada CC OVERVIEW com um homem, que…",
+"u": "https://www.thestar.com/sports/soccer/drone-operator-films-pochettino-s-first-man-united-training-session-footage-posted-online/article_4dea8ac9-030d-5c81-b621-6cfd07c705d7.html",
+"f": "Toronto Star",
+"s": "thestar.com",
+"i": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/81/1816b81e-821a-5385-b867-5c97ccf53736/6aff63667d965.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+"d": "2026-11-19T17:58-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone operator films Pochettino’s first Man United training session, footage posted online",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Toronto Star",
+"mx": 1,
+"rx": "MANCHESTER, Inglaterra (AP) – O primeiro treino de Mauricio Pochettino como técnico do Manchester United foi examinado mais de perto do que o esperado quando um operador de drone o filmou na quinta-feira. Cerca de 12 minutos da sessão foram carregados em uma conta do YouTube chamada CC OVERVIEW com um homem, que também parecia estar controlando o drone que pairava no campo de treinamento de Carrington, fornecendo seus próprios comentários ao vivo.\n“Vamos nos aproximar”, disse ele antes de dar um zoom no técnico argentino Pochettino conversando com vários jogadores reunidos. O drone permaneceu na linha de visão o tempo todo, não sobrevoou ninguém nem perto de ninguém”, dizia o post. “Quanto ao vazamento de notícias/táticas da equipe, já se passou meia hora do primeiro treino do técnico”, escreveu ele."
+},
+{
 "id": "06fb7de350b7b5",
 "t": "Aparece um robô humanóide que pega ovos... Alvo para implantação em granjas avícolas no início do próximo ano",
 "r": "Um robô humanóide está chamando a atenção ao ter a tarefa de encontrar e coletar ovos que caíram no chão de uma granja. O meio de comunicação de ciência e tecnologia Interesting Engineering informou recentemente que pesquisadores da Universidade Estadual da Carolina do Norte, nos EUA, estão desenvolvendo um robô…",
@@ -2302,6 +2458,27 @@
 "cv": "ZDNET",
 "mx": 1,
 "rx": "O agente Muse AI da Meta existe há apenas alguns meses, mas já tem um histórico de violações de privacidade do usuário. Até mesmo os funcionários da Meta estão relatando incidentes, incluindo o agente realizando ações que não solicitaram e compartilhando informações que não reconheceram e que parecem pertencer a outros usuários. De acordo com uma investigação da Reuters, os funcionários da Meta que testaram o Muse disseram que o agente lhes enviou mensagens sobre tópicos sobre os quais não haviam perguntado, incluindo conselhos de carreira, acompanhamento de um pedido de assistência infantil, produtos que não haviam comprado e, principalmente, saldos de contas bancárias que não reconheceram.\nMuse notificou outro funcionário, que estava usando o agente em seu telefone pessoal, sobre uma mensagem que recebeu no Signal, embora tenha dito que não deu ao agente acesso ao aplicativo de mensagens criptografadas."
+},
+{
+"id": "5efb3b5bab938b",
+"t": "‘Humanóide’ aparece no galinheiro… A missão é coletar ovos.",
+"r": "Um robô humanóide está sendo desenvolvido nos Estados Unidos para coletar ovos que caem no chão de um galinheiro. O ‘Howl’, que está sendo desenvolvido por pesquisadores da Universidade Estadual da Carolina do Norte, nos Estados Unidos, tem como objetivo se movimentar pelo galinheiro para encontrar e coletar ovos…",
+"u": "https://www.etnews.com/20261119000421",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.4fe5fa2a49aa43ddb0fb722026e8dd03_P1.png",
+"d": "2026-11-19T18:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "닭장에 나타난 '휴머노이드'…임무는 달걀 수거",
+"lg": "ko",
+"p": 4.3,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Um robô humanóide está sendo desenvolvido nos Estados Unidos para coletar ovos que caem no chão de um galinheiro. O ‘Howl’, que está sendo desenvolvido por pesquisadores da Universidade Estadual da Carolina do Norte, nos Estados Unidos, tem como objetivo se movimentar pelo galinheiro para encontrar e coletar ovos caídos no chão. Nas fazendas onde as galinhas são criadas fora das gaiolas, algumas galinhas põem os ovos no chão, em vez de no ninho. Segundo os pesquisadores, uma granja com 100 mil galinhas pode deixar até 15 mil ovos no chão por dia, sendo necessária muita mão de obra para coletá-los. Conseqüentemente, os pesquisadores estão usando equipamentos de RV para ensinar movimentos humanos a robôs e desenvolvendo tecnologia para reconhecer e coletar ovos por meio de aprendizagem por imitação e aprendizagem por reforço. Atualmente, a tecnologia de coleta autônoma está em fase de desenvolvimento e os pesquisadores planejam verificar as capacidades de detecção e coleta de ovos por meio de simulação. Repórter Lee Chang-min re34521@etnews.com"
 },
 {
 "id": "6a56a707e4c659",
@@ -2993,7 +3170,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "7dc187e3b57fb7",
@@ -3098,7 +3275,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Em 9 de novembro, Future Robot lançou o modelo de ação mundial autoevolutivo Self-Evolving WAM; um dia depois, o Google DeepMind lançou o Gemini Robotics 2.5; em 16 de novembro, a Huawei Cloud lançou o CloudRobo-WM1.2.\nPortanto, ao olhar para os modelos básicos de inteligência incorporada em 2026, em vez de comparar quantos nomes de modelos as empresas lançaram, é melhor ver qual entrada tecnológica cada uma escolheu e como permitiram que as capacidades entrassem em robôs reais. O futuro não tão distante dos robôs coloca o desenvolvimento de modelos na execução contínua de tarefas domésticas."
 },
 {
@@ -4061,7 +4238,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -6081,6 +6258,28 @@
 "rx": "Autoridades locais, as Forças Canadenses e empreiteiros de defesa privados dizem que a Base das Forças Canadenses em Suffield é uma peça-chave para atualizar as forças armadas do Canadá e potencialmente trazer testes de drones de alta tecnologia, novos gastos de defesa e empregos para a região que é agora dominada pela pecuária e pela atividade petrolífera. Agora encarregado de projetos futuros na base, Onieu disse a 220 delegados num fórum de defesa em Medicine Hat, em outubro.\nA cidade, o Medicine Hat College, vários grupos de desenvolvimento económico e a indústria privada estão a colaborar para criar um “centro de inovação em defesa”. Procura remover barreiras para as empresas de alta tecnologia e estimular o estagnado crescimento económico e populacional local. Mike Onieu é chefe de avaliação de projetos futuros na Base das Forças Canadenses de Suffield, um enorme campo de tiro militar perto de Medicine Hat que agora é cada vez mais usado para pesquisas com drones. (Collin Gallant/CBC)"
 },
 {
+"id": "0fd96d2876cf05",
+"t": "Humyn Labs levanta US$ 47 milhões para expandir negócios físicos de IA e implantação de robótica",
+"r": "O financiamento compreende US$ 26 milhões em ações lideradas pela Accel, com participação da Prosus Ventures, BeeGlobal, Finserv Intelligence através da Bajaj Finance, Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, Jump Trading e da investidora anjo Anita Pramoda, ex-CFO da Epic. Os $ 21…",
+"u": "https://m.economictimes.com/tech/funding/humyn-labs-raises-47-million-to-scale-physical-ai-robotics-deployment-business/articleshow/135962272.cms",
+"f": "The Economic Times",
+"s": "m.economictimes.com",
+"i": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70244,resizemode-75,msid-135962272/tech/funding/humyn-labs-raises-47-million-to-scale-physical-ai-robotics-deployment-business.jpg",
+"d": "2026-11-18T08:48-03:00",
+"c": [
+"negocios",
+"ia"
+],
+"l": 0,
+"to": "Humyn Labs raises $47 million to scale physical AI, robotics deployment business",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1,
+"rx": "O financiamento compreende US$ 26 milhões em ações lideradas pela Accel, com participação da Prosus Ventures, BeeGlobal, Finserv Intelligence através da Bajaj Finance, Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, Jump Trading e da investidora anjo Anita Pramoda, ex-CFO da Epic. Os $ 21 restantes…"
+},
+{
 "id": "9995cd5d717d3c",
 "t": "AI Summit 2026: Start-ups de robótica veem o momento ChatGPT já aqui – apenas de forma diferente",
 "r": "A empresa de IA robótica Micro-AGI, sediada em Munique, treinará os modelos robóticos para seus clientes industriais europeus na Industrial AI Cloud da Telekom em Munique. Isso é o que o cofundador da Micro-AGI, Yoan Iliev, anunciou no Handelsblatt AI Summit. No palco, quatro representantes de várias start-ups que…",
@@ -6810,6 +7009,27 @@
 "rx": "A UAV Navigation, subsidiária de aviônica de drones do Grupo Oesía da Espanha, com sede em Madri, lançou o sistema de estimativa de rumo HES01 em 12 de novembro. A empresa afirma que o módulo de 95 gramas permite que um drone pouse no convés móvel de um navio com precisão de menos de um centímetro e fornece aos drones uma referência de rumo quando a navegação por satélite termina. O anúncio do UAV Navigation diz “subcentímetro” e a página do produto HES01 o repete.\nAcrescenta que um navio que transmite correções para guiar seu drone está transmitindo sua própria presença e que todos os números do HES01 publicados até agora vêm da empresa. A resposta da UAV Navigation é o sistema de navegação visual VNS01, e a empresa chama o HES01 de um complemento em ambientes contestados."
 },
 {
+"id": "cd9bd7172cc793",
+"t": "Webinar: Construindo Robôs Inteligentes Mais Seguros com QNX e Intel",
+"r": "A IA física está mudando fundamentalmente os sistemas críticos de segurança e o que significa construir robôs mais seguros. Da ANSI/A3 R15.06-2025 e ISO 10218:2025 ao Regulamento de Máquinas da UE, à Lei de Resiliência Cibernética (CRA) da UE e aos padrões emergentes de robôs humanóides, como a ISO 25785-1, os…",
+"u": "https://www.automate.org/ai/webinars/building-safer-intelligent-robots-with-qnx-and-intel",
+"f": "A3 Association for Advancing Automation",
+"s": "automate.org",
+"i": "https://www.automate.org/images/ogImages/Warehouse-1200x628.png",
+"d": "2026-11-18T19:47-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Webinar: Building Safer Intelligent Robots with QNX and Intel",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "A3 — Association for Advancing Automation",
+"mx": 1,
+"rx": "A IA física está mudando fundamentalmente os sistemas críticos de segurança e o que significa construir robôs mais seguros. Da ANSI/A3 R15.06-2025 e ISO 10218:2025 ao Regulamento de Máquinas da UE, à Lei de Resiliência Cibernética (CRA) da UE e aos padrões emergentes de robôs humanóides, como a ISO 25785-1, os reguladores estão colocando maior ênfase no comportamento funcionalmente seguro, na resiliência da segurança cibernética, no comportamento previsível ao interagir com humanos e na garantia do ciclo de vida, especialmente quando a IA está sendo cada vez mais aproveitada.\nNo passado, ele trabalhou na Yogitech (Itália) dando suporte a clientes FuSa em todo o mundo, e antes disso foi engenheiro de software gráfico 3D para aplicações embarcadas na Imagination Technologies (Reino Unido) e DDD (Japão). No passado, ele trabalhou na Yogitech (Itália), dando suporte a clientes da FuSa em todo o mundo, e antes disso foi engenheiro de software gráfico 3D para aplicações embarcadas na Imagination Technologies (Reino Unido) e DDD (Japão)."
+},
+{
 "id": "aa8136c7b869b1",
 "t": "Projeto de pedido de drone da FCC torna a cobertura de 400 pés opcional para AURA",
 "r": "A proposta de janeiro de 2025 exigiria que a AURA, se mantivesse o seu serviço de alta altitude, servisse 400 pés em 35% de cada uma das áreas de licença regional da FCC no prazo de oito anos. AURA poderia cumprir sua construção com serviço de 25.000 pés sobre os 48 inferiores, Havaí e parte do Alasca, mais 5.000 pés…",
@@ -7518,6 +7738,27 @@
 "rx": "A Cúpula de Líderes Empresariais da Cooperação Econômica Ásia-Pacífico (APEC) de 2026 foi realizada em Shenzhen no dia 17. Wang Xingxing, fundador e CEO da Yushu Technology, disse no dia 17 que a inteligência artificial (IA) e a tecnologia robótica estão progredindo rapidamente, mas a capacidade de generalização dos modelos de robôs ainda é o problema mais difícil no momento, e os requisitos futuros de poder de computação podem exceder em muito a imaginação atual da maioria das pessoas.\nNo dia 17, Wang Xingxing disse no seminário especial sobre \"Construindo um Ecossistema de Inovação em Inteligência Artificial Aberto e Inclusivo\" que haverá muitos desenvolvimentos tecnológicos interessantes em 2026, seja no campo de modelos de IA em grande escala ou robôs. Em particular, a velocidade de iteração da tecnologia debaixo d'água é mais rápida. A direção do desenvolvimento nos próximos anos já pode ser vista e o potencial da indústria é considerável."
 },
 {
+"id": "bdf5386cc86178",
+"t": "Os modelos mundiais podem treinar e avaliar robôs na mesma simulação?",
+"r": "Os modelos mundiais são sistemas de IA que simulam o mundo físico e prevêem como ele responderá às ações de um robô. Mas os modelos mundiais ainda são apenas modelos, e formar alguém que compreenda a realidade não é uma tarefa fácil. Em vez disso, o aprendizado de máquina é usado para treinar um modelo que intui como…",
+"u": "https://www.automate.org/ai/industry-insights/can-world-models-train-and-grade-robots-in-the-same-simulation",
+"f": "A3 Association for Advancing Automation",
+"s": "automate.org",
+"i": "",
+"d": "2026-11-18T17:56-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Can World Models Train and Grade Robots in the Same Simulation?",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "A3 — Association for Advancing Automation",
+"mx": 1,
+"rx": "Os modelos mundiais são sistemas de IA que simulam o mundo físico e prevêem como ele responderá às ações de um robô. Mas os modelos mundiais ainda são apenas modelos, e formar alguém que compreenda a realidade não é uma tarefa fácil. Em vez disso, o aprendizado de máquina é usado para treinar um modelo que intui como o mundo real funciona. “Um modelo de mundo aprendido começa a partir de dados.” Os dados de vídeo são um meio popular de treinar modelos de ação mundial (WAMs).\nOs modelos mundiais poderiam dar aos robôs uma compreensão ampla do mundo real, lançando muitos dados sobre o problema, mas os seus resultados devem ser verificados. Simulação e modelos mundiais em sua enorme escala, com dados do mundo real para aterramento e feedback contínuo entre os dois”, diz Deosthali."
+},
+{
 "id": "ede72a2281e459",
 "t": "Ladrão empunhando facão é caçado por drone em imagens incríveis",
 "r": "",
@@ -7700,7 +7941,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "USA Today",
-"mx": 2
+"mx": 3
 },
 {
 "id": "c4644538a053ab",
@@ -8028,7 +8269,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 1
+"mx": 2
 },
 {
 "id": "b4bdb97d6daaef",
@@ -21630,6 +21871,28 @@
 "rx": "Uma luta de boxe de robôs em Berlim-Kreuzberg: após ser atingido, um dos lutadores cai do ringue. Os organizadores querem mostrar o que a tecnologia pode fazer."
 },
 {
+"id": "cdc15f33c74f03",
+"t": "ASICS America encontra estoque perdido 60% mais rápido com drones de estoque de armazém Corvus One",
+"r": "A ASICS America implantou drones de estoque Corvus One em seu centro de distribuição em Byhalia, Mississipi, e encontrou estoque perdido 60% mais rápido. A Corvus Robotics, fornecedora de sistemas robóticos físicos de IA para operações de logística e armazenamento, anunciou que a ASICS America Corporation está…",
+"u": "https://www.robotics247.com/article/asics-america-finds-misplaced-inventory-60-faster-with-corvus-one-warehouse-inventory-drones",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/2026_article/CorvusRobotics-ASICS-drone-inventory-main-Robotics247-2026.jpg",
+"d": "2026-11-15T10:00-03:00",
+"c": [
+"drones",
+"logistica"
+],
+"l": 0,
+"to": "ASICS America finds misplaced inventory 60% faster with Corvus One warehouse inventory drones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 1,
+"rx": "A ASICS America implantou drones de estoque Corvus One em seu centro de distribuição em Byhalia, Mississipi, e encontrou estoque perdido 60% mais rápido. A Corvus Robotics, fornecedora de sistemas robóticos físicos de IA para operações de logística e armazenamento, anunciou que a ASICS America Corporation está executando drones de inventário autônomo Corvus One dentro de seu centro de distribuição em Byhalia, Mississipi.\nA ASICS disse que está recuperando o estoque perdido cerca de 60% mais rápido desde que o sistema entrou em operação e redirecionou cerca de 200 horas de trabalho mensal de contagem para pesquisa de estoque e resolução de exceções. Em um período de três meses, a Corvus Robotics e a ASICS America disseram que os drones trouxeram à tona 26 caixas extraviadas contendo mais de 200 pares de sapatos, produtos que de outra forma ficariam indisponíveis aos clientes até a próxima contagem física programada."
+},
+{
 "id": "3a651700fcbf9d",
 "t": "Um homem de Michigan herdou um baú de rolos de filmes antigos; dentro havia um filme de 1897 há muito perdido que mostrava um robô",
 "r": "Uma reconstrução representativa gerada por IA de Pierrot Automate, a figura mecânica apresentada no filme Gugusse and the Automaton de Georges Méliès de 1897, que apareceu na tela décadas antes da palavra “robô” se tornar comum. (Crédito da imagem: ChatGPT) Um projetor manual de filmes e um contêiner de filmes…",
@@ -30467,7 +30730,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -36356,7 +36619,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -52444,7 +52707,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -52473,7 +52736,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -55798,7 +56061,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -55808,9 +56071,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 13.9,
+"p": 12.9,
 "esp": 1,
-"mx": 2,
+"mx": 1,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
