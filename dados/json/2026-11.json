@@ -217,6 +217,27 @@
 "rx": "SEATTLE — 18 de novembro de 2026 — Soracom, Inc. (TSE: 147A), uma plataforma IoT nativa da nuvem que fornece conectividade, integração na nuvem e serviços de IA para a Internet das Coisas, anunciou hoje o Soracom Physical AI Suite, um conjunto de serviços da plataforma Soracom combinados para conectar, proteger e gerenciar sistemas físicos de IA, como robôs, máquinas móveis autônomas e equipamentos industriais. Cada suíte reúne os serviços da plataforma Soracom comumente utilizados para um determinado tipo de implantação, organizando-os em um único sistema. Soracom Physical AI Suite organiza seus serviços em três áreas. • Conecte-se. O Soracom Physical AI Suite coloca os serviços para isso em um só lugar, e qualquer cliente pode ativá-los no console.\" Todos os serviços do pacote estão disponíveis por meio do console Soracom e da API. O Soracom Physical AI Suite já está disponível."
 },
 {
+"id": "406bd343c3baff",
+"t": "Horizon Robotics anuncia modelo de geometria de vídeo LoFT com recursos ainda pendentes",
+"r": "Horizon Robotics descreve LoFT para reconstruir geometria de vídeo; seu papel, código e pesos permanecem pendentes e os resultados são relatados pela equipe.",
+"u": "https://pandaily.com/horizon-robotics-loft-video-geometry-model-camera-depth",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/loft_f8562abce1.png",
+"d": "2026-11-18T22:53-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "Horizon Robotics Announces LoFT Video Geometry Model With Resources Still Pending",
+"lg": "en",
+"p": 9.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "Horizon Robotics descreve LoFT para reconstruir geometria de vídeo; seu papel, código e pesos permanecem pendentes e os resultados são relatados pela equipe."
+},
+{
 "id": "3c3651a6f16ff6",
 "t": "Uma startup apoiada por Eric Trump revela um novo e poderoso robô humanóide – e não descarta a possibilidade de armá-lo",
 "r": "",
@@ -774,7 +795,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -795,6 +816,64 @@
 "id": "622a48640b8ccd"
 }
 ]
+},
+{
+"id": "a71b1228484d31",
+"t": "Coreia do Sul estabelecerá padrões para pequenas baterias de drones para aumentar a compatibilidade",
+"r": "A Coreia do Sul planeja estabelecer padrões para pequenas baterias de drones usadas nos setores civil e militar para torná-las compatíveis em tamanho e desempenho com os padrões dos EUA, disse o Ministério da Defesa na quinta-feira. A medida ocorre num momento em que Seul está a trabalhar para estabelecer padrões…",
+"u": "https://en.yna.co.kr/view/AEN20261119001900315",
+"f": "Yonhap News Agency",
+"s": "en.yna.co.kr",
+"i": "https://img0.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110408900006000_P4.jpg",
+"d": "2026-11-18T23:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "S. Korea to set standards for small drone batteries to boost compatibility",
+"lg": "en",
+"p": 6.3,
+"o": [
+{
+"f": "The Korea Herald",
+"u": "https://www.koreaherald.com/article/10942541",
+"s": "koreaherald.com",
+"id": "c1f61bb6a920a4"
+}
+],
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "A Coreia do Sul planeja estabelecer padrões para pequenas baterias de drones usadas nos setores civil e militar para torná-las compatíveis em tamanho e desempenho com os padrões dos EUA, disse o Ministério da Defesa na quinta-feira. A medida ocorre num momento em que Seul está a trabalhar para estabelecer padrões uniformes para baterias utilizadas em pequenos drones, um recurso emergente na guerra moderna, para aumentar a sua compatibilidade e fiabilidade, ao mesmo tempo que satisfaz a procura comercial e militar.\nAs regras serão elaboradas com base nos padrões existentes de drones nos EUA, abrangendo as dimensões da bateria e os métodos de teste de desempenho para pequenos drones, disse o ministério em um comunicado. A medida reflete os esforços de Seul para se alinhar melhor com os padrões de drones dos EUA amplamente adotados pelos seus aliados e países parceiros."
+},
+{
+"id": "219be7c35d3fce",
+"t": "Explosão dupla de almíscar! Prévia do Model Y sem volante, robô exibindo músculos em 2 meses | Finanças Globais | Global",
+"r": "O bilionário Musk previu que a Tesla realizará uma demonstração do robô Optimus dentro de dois meses. A empresa também planeja produzir um SUV Modelo Y sem volante e com funções de direção autônoma. Musk disse no New York Times DealBook Summit nesta quarta-feira (18) que a Tesla espera lançar um modelo totalmente…",
+"u": "https://udn.com/news/story/6811/9888188",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35532160.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+"d": "2026-11-18T23:12-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "馬斯克雙連發！預告推無方向盤Model Y、機器人2個月內秀肌肉| 全球財經| 全球",
+"lg": "en",
+"p": 6.3,
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/5599/9888188?from=edn_hotestlist_storybottom",
+"s": "money.udn.com",
+"id": "eb3b78ce75212c"
+}
+],
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "O bilionário Musk previu que a Tesla realizará uma demonstração do robô Optimus dentro de dois meses. A empresa também planeja produzir um SUV Modelo Y sem volante e com funções de direção autônoma. Musk disse no New York Times DealBook Summit nesta quarta-feira (18) que a Tesla espera lançar um modelo totalmente autônomo para serviços de carona, com espaço suficiente no carro para acomodar “uma família”.\nMusk também afirmou no TomorrowX Summit realizado em Austin, Texas, no mesmo dia que a SpaceX está investindo no desenvolvimento do modelo de IA Grok 4.8. Além disso, a Tesla irá realizar uma demonstração do robô Optimus dentro de dois meses."
 },
 {
 "id": "a0134edfb7a86c",
@@ -2069,6 +2148,28 @@
 "rx": "O reconhecimento de cães-robôs nas pistas, braços robóticos subaquáticos para instalar dispositivos destrutivos e robôs em órbita para caçar satélites são todas intenções reveladas nos documentos de aquisição do Exército de Libertação Popular, embora não possam ser considerados como tendo capacidades de combate formadas. Se Taiwan se concentrar apenas em aviões de combate que cruzam a linha e em navios de guerra que circulam em torno de Taiwan, poderá ignorar outra ameaça: o Exército de Libertação Popular está gradualmente a entregar tarefas de alto risco, como reconhecimento e sabotagem, a robôs para reduzir o risco de baixas.\nBresnick, pesquisador da Universidade de Georgetown, nos Estados Unidos, publicou recentemente \"O Exército de Libertação Popular promove ativamente o desenvolvimento de robôs militares\", analisando mais de 2.000 documentos de compras públicas do Exército de Libertação Popular nos últimos três anos. O relatório apontou que o Exército de Libertação Popular não se concentrou em algumas armas estelares, mas em vez disso utilizou projetos de pequena escala para testar o uso de robôs em terra, mar e espaço."
 },
 {
+"id": "71a28559acac72",
+"t": "Negações de visto nos EUA atingiram Xpeng e outros fabricantes de robôs chineses antes da CES",
+"r": "HONG KONG – Pesquisadores e engenheiros de vários fabricantes chineses de robôs humanóides, incluindo Xpeng e Engine AI, tiveram seus vistos negados nos EUA, ofuscando seus esforços para exibir o hardware de ponta do país na próxima Consumer Electronics Show (CES) em Las Vegas.",
+"u": "https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces",
+"f": "Nikkei Asia",
+"s": "asia.nikkei.com",
+"i": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F0%2F7%2F13457047-1-eng-GB%2F047b30089430-2026-01-07T001755Z_1211079666_RC2XVIATFR71_RTRMADP_3_TECH-CES.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+"d": "2026-11-18T21:05-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "US visa denials hit Xpeng, other Chinese robot makers ahead of CES",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "HONG KONG – Pesquisadores e engenheiros de vários fabricantes chineses de robôs humanóides, incluindo Xpeng e Engine AI, tiveram seus vistos negados nos EUA, ofuscando seus esforços para exibir o hardware de ponta do país na próxima Consumer Electronics Show (CES) em Las Vegas."
+},
+{
 "id": "dfc9466e6cdc7c",
 "t": "Quebrando o recorde mundial! 151 robôs humanóides dançam em Shenzhen ao som dos sucessos do BIGBANG para dar as boas-vindas à APEC",
 "r": "Em 17 de novembro, alguns internautas postaram um vídeo dizendo que no Galaxy WORLD em Bantian Street, distrito de Longgang, Shenzhen, havia um grande número de robôs humanóides realizando danças em grupo com músicas do grupo sul-coreano BIGBANG como música de fundo. Alguns internautas comentaram: \"Estou satisfeito…",
@@ -2086,9 +2187,51 @@
 "p": 5.6,
 "cr": 3,
 "cv": "United Daily News",
-"cur": 1,
 "mx": 1,
-"rx": "Em 17 de novembro, alguns internautas postaram um vídeo dizendo que no Galaxy WORLD em Bantian Street, distrito de Longgang, Shenzhen, havia um grande número de robôs humanóides realizando danças em grupo com músicas do grupo sul-coreano BIGBANG como música de fundo. Alguns internautas comentaram: \"Estou satisfeito por não ter ido ao show de Hong Kong (BIGBANG)\", \"Foi muito emocionante assistir\" e \"eles dançaram melhor do que as três pessoas em Hong Kong\".\nDepois que o vídeo foi lançado, ele gerou discussões acaloradas. Alguns internautas comentaram: \"Estou satisfeito por não ter ido ao show de Hong Kong (BIGBANG)\", \"Acabei de assistir ao show do BIGBANG e foi muito emocionante.\" “Existem três pessoas que dançam melhor do que Hong Kong.” \"Os robôs atingiram a idade da quadrilha?\" “Por que ainda existe um robô pescando peixes?”"
+"rx": "Em 17 de novembro, alguns internautas postaram um vídeo dizendo que no Galaxy WORLD em Bantian Street, distrito de Longgang, Shenzhen, havia um grande número de robôs humanóides realizando danças em grupo com músicas do grupo sul-coreano BIGBANG como música de fundo. Alguns internautas comentaram: \"Estou satisfeito por não ter ido ao show de Hong Kong (BIGBANG)\", \"Foi muito emocionante assistir\" e \"eles dançaram melhor do que as três pessoas em Hong Kong\".\nDepois que o vídeo foi lançado, ele gerou discussões acaloradas. Alguns internautas comentaram: \"Estou satisfeito por não ter ido ao show de Hong Kong (BIGBANG)\", \"Acabei de assistir ao show do BIGBANG e foi muito emocionante.\" “Existem três pessoas que dançam melhor do que Hong Kong.” \"Os robôs atingiram a idade da quadrilha?\" “Por que ainda existe um robô pescando peixes?”",
+"cur": 1
+},
+{
+"id": "8d35744ee6f088",
+"t": "Humanóides ROBOTERA implantados na rede postal da filial de Guangdong do China Post Group, responsável pela classificação do trabalho em 11 locais em 8 cidades",
+"r": "Em 17 de novembro de 2026, a empresa chinesa de robôs ROBOTERA anunciou que implantou robôs humanóides na rede postal da filial de Guangdong do China Post Group. Como seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está…",
+"u": "https://robotstart.info/article/2026/11/19/382649.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109572.jpg",
+"d": "2026-11-18T23:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "中国郵政グループ広東支店の郵便網にROBOTERAのヒューマノイドを展開 8都市・11拠点で仕分け作業を担当",
+"lg": "ja",
+"p": 5.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Em 17 de novembro de 2026, a empresa chinesa de robôs ROBOTERA anunciou que implantou robôs humanóides na rede postal da filial de Guangdong do China Post Group. Como seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está implementando robôs comerciais, como robôs de segurança e inspeção na sociedade e desenvolvendo o semi-humanóide doméstico \"ugo Nova\"."
+},
+{
+"id": "0fa9f00118d575",
+"t": "Por dentro do mundo dos robôs humanóides da China",
+"r": "Tony Dokoupil dá uma olhada na China",
+"u": "https://www.cbsnews.com/video/inside-the-world-of-chinas-humanoid-robots/",
+"f": "CBS News",
+"s": "cbsnews.com",
+"i": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/19/0e7d84b2-553a-402e-a50b-be9cd2d7b78c/thumbnail/1200x630/724b4673fd43faa96918ee52ce071668/thumb.jpg",
+"d": "2026-11-18T23:36-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Inside the world of China's humanoid robots",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "CBS News",
+"mx": 1,
+"rx": "Tony Dokoupil dá uma olhada na China"
 },
 {
 "id": "dac23e675673ac",
@@ -2590,6 +2733,27 @@
 "cv": "Handelsblatt",
 "mx": 1,
 "rx": "A empresa de IA robótica Micro-AGI, sediada em Munique, treinará os modelos robóticos para seus clientes industriais europeus na Industrial AI Cloud da Telekom em Munique. Isso é o que o cofundador da Micro-AGI, Yoan Iliev, anunciou no Handelsblatt AI Summit. No palco, quatro representantes de várias start-ups que trabalham em modelos industriais de IA discutiram quando chegará o momento ChatGPT da IA ​​física - o momento em que a tecnologia chegará à indústria cotidiana. “Temos tecnologia suficientemente boa”, diz Iliev. O que falta é, acima de tudo, um recurso – e para isso as empresas devem conquistar a confiança dos seus clientes."
+},
+{
+"id": "023d40873bc53b",
+"t": "Um olhar sobre a revolução dos robôs na China",
+"r": "Tony Dokoupil reporta da China com Anna Coren, que dá uma olhada no interior da China",
+"u": "https://www.cbsnews.com/video/a-look-inside-chinas-robot-revolution/",
+"f": "CBS News",
+"s": "cbsnews.com",
+"i": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/76f054a4-25e5-4c19-a9e8-969f36e5e4fc/thumbnail/1200x630/aff1682d70d62f9e1f3241de8f61683e/cbsn-fusion-a-look-inside-chinas-robot-revolution-thumbnail.jpg",
+"d": "2026-11-18T10:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "A look inside China's robot revolution",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CBS News",
+"mx": 1,
+"rx": "Tony Dokoupil reporta da China com Anna Coren, que dá uma olhada no interior da China"
 },
 {
 "id": "d7455b777ffa91",
@@ -3257,27 +3421,6 @@
 "rx": "Oficiais da unidade de drones do Departamento de Polícia de Garland encontraram o menino, e o departamento divulgou na terça-feira um vídeo da busca para demonstrar como a tecnologia de drones pode ser útil. Foi o primeiro dia de campo do novo veículo policial customizado do oficial Michael Crick, especialmente projetado para a unidade de drones do departamento. “Assim, você poderá ver o que estou vendo na tela, que é o que o drone está vendo”, disse o policial Michael Crick, do Departamento de Polícia de Garland.\nA polícia de Garland usa drones desde 2019, mas o novo veículo mostra o quanto o departamento expandiu suas capacidades. Na terça-feira, a polícia de Garland divulgou um vídeo de uma busca no mês passado por um menino de 14 anos com autismo que desapareceu em uma área arborizada perto da casa de sua família."
 },
 {
-"id": "71a28559acac72",
-"t": "Negações de visto nos EUA atingiram Xpeng e outros fabricantes de robôs chineses antes da CES",
-"r": "HONG KONG – Pesquisadores e engenheiros de vários fabricantes chineses de robôs humanóides, incluindo Xpeng e Engine AI, tiveram seus vistos negados nos EUA, ofuscando seus esforços para exibir o hardware de ponta do país na próxima Consumer Electronics Show (CES) em Las Vegas.",
-"u": "https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces",
-"f": "Nikkei Asia",
-"s": "asia.nikkei.com",
-"i": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F0%2F7%2F13457047-1-eng-GB%2F047b30089430-2026-01-07T001755Z_1211079666_RC2XVIATFR71_RTRMADP_3_TECH-CES.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-"d": "2026-11-18T21:05-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "US visa denials hit Xpeng, other Chinese robot makers ahead of CES",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 1,
-"rx": "HONG KONG – Pesquisadores e engenheiros de vários fabricantes chineses de robôs humanóides, incluindo Xpeng e Engine AI, tiveram seus vistos negados nos EUA, ofuscando seus esforços para exibir o hardware de ponta do país na próxima Consumer Electronics Show (CES) em Las Vegas."
-},
-{
 "id": "682047a35b8dbc",
 "t": "AI Robot (471800):: Hankyung Eureka NO.1 Serviço de investimento em IA",
 "r": "Intensidade de negociação calculada com base nas compras líquidas de instituições e estrangeiros nos últimos 10 pregões. AL Robot é classificada como uma ação relacionada à KOSDAQ com uma capitalização de mercado de KRW 160,7 bilhões. A taxa de retorno do último mês foi de 0,00%, superando o KOSDAQ -16,39% em 16,39%…",
@@ -3347,7 +3490,7 @@
 "u": "https://udn.com/news/story/7238/9888060",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-18T22:10-03:00",
 "c": [
 "drones",
@@ -3359,7 +3502,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 1,
+"mx": 9,
 "rx": "A fim de orientar a transformação de pequenas e médias empresas nacionais poderosas em tecnologias voltadas para o futuro, o Ministério dos Assuntos Económicos realizou recentemente o \"Fórum de Investimento e Inovação\". O fórum se concentrou no \"layout de investimento orientado a partir de oportunidades industriais\" e convidou especialistas da indústria e de investimento para compartilhar as tendências de desenvolvimento e estratégias de investimento de tecnologias voltadas para o futuro, como a remodelação do valor industrial global, robôs inteligentes, aeroespacial e drones, bem como resfriamento, fotônica de silício e computação de nova geração, e explorar como as empresas tradicionais de Taiwan podem usar as vantagens tecnológicas e de fabricação existentes para entrar na cadeia de fornecimento das indústrias emergentes.\nA Agência das Pequenas, Médias e Novas Empresas do Ministério dos Assuntos Económicos também enfatizou que o \"Plano de Implementação para o Fortalecimento do Investimento nas Pequenas e Médias Empresas\" do Fundo Nacional de Desenvolvimento tem uma cota de investimento de 10 mil milhões de yuans e entrou agora na segunda fase. Não se concentra apenas no investimento de capital, mas também espera aproveitar as vantagens profissionais de diferentes tipos de instituições de investimento para ajudar as empresas a obter verificação tecnológica, cooperação na cadeia de abastecimento e oportunidades de expansão de mercado."
 },
 {
@@ -3382,6 +3525,48 @@
 "cv": "Yonhap",
 "mx": 1,
 "rx": "A cidade de Ansan (prefeito Lee Min-geun) anunciou no dia 19 que no dia 18 assinou um 'acordo comercial para promover a indústria de robôs da cidade de Ansan e fortalecer a competitividade industrial' com a HD Hyundai Robotics (CEO Kim Wan-soo) para promover a indústria local de robôs e fortalecer a competitividade das empresas manufatureiras. Este acordo foi preparado para aumentar a produtividade das empresas de produção locais, ligando a base de produção da cidade de Ansan e a tecnologia robótica da HD Hyundai Robotics e para promover a introdução da automação robótica e da tecnologia de produção inteligente. A cerimônia de acordo foi realizada na Korea R&D Co., Ltd. em Seonggok-dong, Danwon-gu, e as duas organizações irão ▲cooperar na melhoria da produtividade e inovação de fabricação de empresas de manufatura na área ▲trocar informações sobre tecnologias e tendências da indústria relacionadas à inteligência artificial (IA), robôs, automação e manufatura inteligente ▲consulta e aconselhamento sobre tecnologias relacionadas à automação de robôs e manufatura inteligente ▲descobrir demanda para introdução de robôs por empresas de manufatura ▲suporte corporativo projetos e decidimos cooperar na ligação de redes de organizações relacionadas.\nA HD Hyundai Robotics planeja compartilhar informações tecnológicas e melhores práticas na área de robótica, além de fornecer consultoria técnica e coletar opiniões in loco para empresas da região. A cidade espera que este acordo forneça uma base para a cooperação que permitirá às empresas fabricantes locais aceder mais facilmente à tecnologia robótica e aplicá-la em locais de produção reais. O prefeito de Ansan, Lee Min-geun, disse: \"Através deste acordo, estabelecemos uma base para a cooperação onde as empresas de manufatura locais podem introduzir robôs e tecnologias de fabricação inteligentes de forma mais ativa. Continuaremos a expandir a cooperação com excelentes empresas de robôs e organizações relacionadas para ajudar a cidade de Ansan a se tornar o centro da indústria de robôs da Coreia\"."
+},
+{
+"id": "0dc34f43a2dfa4",
+"t": "A gestão financeira inteligente ganhou o prêmio de elite da indústria e a gestão financeira robótica do Mega Bank mais que quadruplicou em 3 anos. Novos fundos e taxas de administração de carteira de ETF terão desconto de 30% antes do final do ano | Gestão financeira",
+"r": "Em agosto de 2026, a escala dos ativos de gestão financeira robótica sob gestão do Mega Bank atingiu NT$ 2,83 bilhões, um aumento de mais de 4 vezes em comparação com agosto de 2023. Isso mostra que os serviços de gestão financeira inteligente do Mega Bank são cada vez mais preferidos pelos clientes. Este ano, ganhou…",
+"u": "https://howlife.cna.com.tw/financial/20261119s001.aspx",
+"f": "中央社好生活",
+"s": "howlife.cna.com.tw",
+"i": "https://imgcdn.cna.com.tw/www/subwebphotos/800/2026/20261119/22330821.png",
+"d": "2026-11-18T23:35-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "智能理財獲菁業獎肯定兆豐銀行機器人理財3年增逾4倍年底前新增基金、ETF投資組合管理費享3折優惠| 金融理財",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNA Taiwan",
+"mx": 1,
+"rx": "Em agosto de 2026, a escala dos ativos de gestão financeira robótica sob gestão do Mega Bank atingiu NT$ 2,83 bilhões, um aumento de mais de 4 vezes em comparação com agosto de 2023. Isso mostra que os serviços de gestão financeira inteligente do Mega Bank são cada vez mais preferidos pelos clientes. Este ano, ganhou o \"Prêmio de Melhor Gestão de Patrimônio\" do 13º Prêmio Destaque da Indústria de Serviços Financeiros de Taiwan do Instituto de Pesquisa e Treinamento Financeiro, demonstrando os resultados da promoção da gestão financeira digital e de serviços inovadores.\nO Mega Bank afirmou que continuou a promover a digitalização dos serviços financeiros nos últimos anos e expandiu a sua base de clientes através da inovação tecnológica. A gestão financeira robótica não é apenas a escolha da pequena burguesia, mas também dos assalariados com rendimentos estáveis, dos trabalhadores de escritório ocupados e dos investidores que se preparam para se reformar. O Mega Bank pode fornecer serviços de gestão de patrimônio que atendam às necessidades das diferentes fases da vida e escolher a carteira de investimentos adequada de acordo com seus próprios objetivos financeiros."
+},
+{
+"id": "015dde43d4fea5",
+"t": "Revista militar chinesa \"Desenvolvimento de robô inteligente para correção de mira de artilharia... Maior precisão\"",
+"r": "(Pequim = Yonhap News) Correspondente Jeong Seong-jo = Os militares chineses introduziram um robô inteligente para mirar o fogo de artilharia, informou o jornal militar chinês Liberation Army News no dia 18. Segundo relatos, após vários anos de pesquisa e desenvolvimento, uma unidade do exército chinês criou um…",
+"u": "https://www.yna.co.kr/view/AKR20261119082700083",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img2.yna.co.kr/photo/etc/xi/2017/07/30/PXI20170730037901003_P4.jpg",
+"d": "2026-11-18T23:49-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "중국군 기관지 \"포병 조준 교정 스마트 로봇 개발…명중률 증가\"",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Pequim = Yonhap News) Correspondente Jeong Seong-jo = Os militares chineses introduziram um robô inteligente para mirar o fogo de artilharia, informou o jornal militar chinês Liberation Army News no dia 18. Segundo relatos, após vários anos de pesquisa e desenvolvimento, uma unidade do exército chinês criou um sistema que pode mirar rapidamente a artilharia de campanha em áreas montanhosas usando robôs. Zhang Guoju, um comandante militar de segunda classe (sargento-mor), que liderou o desenvolvimento, começou a desenvolver um sistema de correção rápida depois que a nova artilharia de campanha foi implantada e problemas com baixa precisão ocorreram durante o treinamento de fogo real nas terras altas devido à falta de experiência e má preparação de mira das tropas operacionais. A mídia chinesa informou que depois que a equipe de desenvolvimento obteve sucesso na primeira melhoria para reduzir erros de tiro da artilharia autopropelida, eles inseriram mais de 3.000 dados reais de batalha, incluindo ambientes frios, ventos fortes e de alta altitude, no sistema, e completaram o robô inteligente de calibração de artilharia em julho do ano passado.\nA mídia enfatizou que este robô realiza automaticamente a inspeção técnica de equipamentos de artilharia sob diversas condições climáticas e de altitude e constrói um banco de dados para cada equipamento de artilharia para gerar um relatório de inspeção abrangente, ajudando a aumentar a velocidade e a precisão do tiro. No entanto, a mídia não revelou a quais equipamentos o novo sistema se aplica, seu método específico de operação e quais são os valores de precisão. O Global Times, um meio de comunicação estatal inglês, citou Song Zhongping, um especialista militar chinês, e explicou: \"Em grandes altitudes, onde a densidade do ar diminui, torna-se difícil prever a distribuição do impacto dos projéteis, e há um problema de enfraquecimento das capacidades operacionais ao diminuir a precisão da observação e a velocidade de trabalho dos soldados. O objetivo do sistema de correção inteligente dos militares chineses é resolver este problema\"."
 },
 {
 "id": "6b06f0b6e8faf7",
@@ -3746,7 +3931,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "The Australian",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d52c0ed31a8e43",
@@ -3830,7 +4015,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 2,
+"mx": 3,
 "rx": "A Agentic AI permite que os agentes aprendam sozinhos a partir de interações com humanos, além do treinamento inicial e da base de dados. Grandes conjuntos de dados de robótica tradicional para ajustar cada comportamento que um robô executa. Os robôs e os sensores são conhecidos e fixos, mas a gama de objetos com os quais o robô interage é dinâmica, mas os robôs de IA agentes podem reutilizar modelos de objetos para se adaptarem a novos objetos e tarefas.\nOs agentes de IA conectam essas habilidades no programa do robô e, usando as bibliotecas de simulação Isaac da NVIDIA, os agentes de IA podem ensaiar programas de controle de forma autônoma em diferentes tarefas para identificar onde podem ocorrer falhas e refinar a abordagem adotada pelo robô antes da implantação do programa. Os agentes de IA receberam essa simulação e a estrutura GaP e geraram um programa de controle que funcionou em um robô real."
 },
 {
@@ -3894,6 +4079,27 @@
 "cr": 3,
 "cv": "The Australian",
 "mx": 3
+},
+{
+"id": "6a783ca4f51bd9",
+"t": "Será realizada “Xiaomi Hyper Black Friday 2026” com até 50% de desconto, incluindo smartphones, tablets e aspiradores robôs - ITmedia Mobile",
+"r": "@CJJ̃gvJ𓋍ڂnCGhX}[gtHuXiaomi 17T Prov́A12GB{512GBf159800~̂Ƃ17It132809~Ŕ̔B2.07^AMOLEDfBXvC𓋍ڂX}[gEHb`uREDMI Watch Xiaomi UltraThin Magnetic Power Bank 5000 6v14800~̂Ƃ29It4980~AXe[Vt{bg|@uXiaomi {bg|@ H40v39800~̂Ƃ35It25800~A5̃ZT[5w̏rrVXe𓋍ڂX}[gC@uMijia X}[gC@ 6v25800~̂Ƃ19It2800~ōwłB…",
+"u": "https://www.itmedia.co.jp/mobile/articles/2611/18/news069.html",
+"f": "ITmedia",
+"s": "itmedia.co.jp",
+"i": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_XiaomiBF_01.jpg",
+"d": "2026-11-18T00:57-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "最大50％オフの「Xiaomi Hyper Black Friday 2026」開催 スマホやタブレット、ロボット掃除機も対象 - ITmedia Mobile",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 1,
+"rx": "@CJJ̃gvJ𓋍ڂnCGhX}[gtHuXiaomi 17T Prov́A12GB{512GBf159800~̂Ƃ17It132809~Ŕ̔B2.07^AMOLEDfBXvC𓋍ڂX}[gEHb`uREDMI Watch Xiaomi UltraThin Magnetic Power Bank 5000 6v14800~̂Ƃ29It4980~AXe[Vt{bg|@uXiaomi {bg|@ H40v39800~̂Ƃ35It25800~A5̃ZT[5w̏rrVXe𓋍ڂX}[gC@uMijia X}[gC@ 6v25800~̂Ƃ19It2800~ōwłB @XiaomiTCgimi.comjł́A1121ڂŎOLy[{B̃`FbNCmi|Cgl\\ŁAA`FbNCBƃC[Jt^CXCtHuXiaomi Clipv钊IsBuXiaomi 18 Pro SérievȂǂ̗\\̔{ŁA\\ԂȂł͂̍wTB\n@Z[Ώۃ`lXiaomi TCgimi.comjXiaomi yVsXAAmazon.co.jpAYahoo! VbsOAVI~EWp TikTok ShopXiaomi Store eXB"
 },
 {
 "id": "46ebcbf71f43af",
@@ -4348,6 +4554,27 @@
 "mx": 3
 },
 {
+"id": "05352b07ceb9a2",
+"t": "Imprimindo robôs macios poderosos em uma área de trabalho",
+"r": "",
+"u": "https://www.science.org/doi/10.1126/scirobotics.aei1264",
+"f": "Science | AAAS",
+"s": "science.org",
+"i": "",
+"d": "2026-11-18T16:18-03:00",
+"c": [
+"microrrobos",
+"ia"
+],
+"l": 0,
+"to": "Printing powerful soft robots on a desktop",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Science",
+"mx": 1
+},
+{
 "id": "4d9038ce1c36a3",
 "t": "Robô subaquático descobre estruturas sob a Antártida e desaparece",
 "r": "Um robô subaquático autônomo chamado Ran descobriu formações e estruturas geológicas desconhecidas sob a Antártica antes de desaparecer misteriosamente sem deixar vestígios durante uma campanha de pesquisa. O rover, coordenado pela professora Anna Wåhlin da Universidade de Gotemburgo, explorou aproximadamente 130…",
@@ -4368,27 +4595,6 @@
 "cv": "FayerWayer",
 "mx": 1,
 "rx": "Um robô subaquático autônomo chamado Ran descobriu formações e estruturas geológicas desconhecidas sob a Antártica antes de desaparecer misteriosamente sem deixar vestígios durante uma campanha de pesquisa. O rover, coordenado pela professora Anna Wåhlin da Universidade de Gotemburgo, explorou aproximadamente 130 quilómetros quadrados de gelo escondidos sob a plataforma Dotson, revelando dados importantes que desafiam modelos simplificados sobre o derretimento global.\nDurante uma campanha realizada em 2022, o veículo subaquático conseguiu penetrar cerca de 18 quilómetros na cavidade escondida sob o gelo flutuante, navegando autonomamente durante 27 dias. Ele descobriu estruturas geológicas completamente escondidas sob o gelo da plataforma Dotson, incluindo planaltos escalonados, canais lisos e cavidades em forma de lágrima esculpidas pelo derretimento basal."
-},
-{
-"id": "8b2b17f2306c5c",
-"t": "Este limpador de piso Roborock com classificação 4,5/5 cai para € 388 na Black Friday 2026",
-"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
-"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-388-00-17-n267918.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-18T20:17-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Ce nettoyeur de sol Roborock noté 4,5/5 tombe à 388 € pour le Black Friday 2026",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
 },
 {
 "id": "81bdac83343289",
@@ -4537,6 +4743,27 @@
 "cv": "Impress Watch",
 "mx": 1,
 "rx": "A BANDAI SPIRITS lançará o modelo de plástico “HG Grungust” em maio de 2027. Este produto é uma comercialização de “Grungust” do jogo “Super Robot Wars OG” na série de modelos de plástico da empresa “HG (High Grade)”.\nAs transformações em \"Wing Gust\" e \"Gastrander\" podem ser reproduzidas com peças de reposição. Também estão incluídas peças de reposição que reproduzem a expansão do tórax ao disparar o feixe final."
+},
+{
+"id": "f70ebbc2935fc0",
+"t": "[Até 69% de desconto] Os aspiradores robôs Ecovacs são um ótimo negócio na \"Rakuten Black Friday\"! Escolha os modelos em destaque | Aspirador Fav-Log da ITmedia",
+"r": "Os produtos mais recentes da Ecovacs, fabricante líder mundial de aspiradores robôs, estão agora disponíveis na Rakuten Black Friday 2026 a um preço significativamente reduzido. Os produtos da ECOVACS, que detém a maior quota de mercado mundial em aspiradores robotizados, também estão disponíveis a preços reduzidos.",
+"u": "https://nlab.itmedia.co.jp/fav/articles/4096281/",
+"f": "ねとらぼ",
+"s": "nlab.itmedia.co.jp",
+"i": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1794465307_983f4b74509a542d147f33eafe31f530.jpg",
+"d": "2026-11-18T22:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "【最大69％オフ】エコバックスのロボット掃除機が「楽天ブラックフライデー」で超お買い得！ 注目モデルをピックアップ | 掃除機 Fav-Log by ITmedia",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ITmedia",
+"mx": 1,
+"rx": "Os produtos mais recentes da Ecovacs, fabricante líder mundial de aspiradores robôs, estão agora disponíveis na Rakuten Black Friday 2026 a um preço significativamente reduzido. Os produtos da ECOVACS, que detém a maior quota de mercado mundial em aspiradores robotizados, também estão disponíveis a preços reduzidos.\nApresentando os aspiradores robôs Ecovacs que estarão à venda durante a Rakuten Black Friday 2026. \"DEEBOT T80 OMNI\" é um aspirador robô equipado com uma poderosa força de sucção de 18.000 Pa e o \"sistema de esfregona de limpeza constante de pressão constante de rolo OZMO\", uma função de limpeza úmida que também é usada no modelo top."
 },
 {
 "id": "9b7ace255a0f39",
@@ -4749,6 +4976,48 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "O Grupo Lenovo organiza empresas de software, equipes profissionais e empresas de robótica para construir um ecossistema de IA por meio de plataformas de aplicativos, serviços de desenvolvedor e recursos de fabricação. Baiying apresenta aplicativos de parceiros e Tianxi apoia a co-construção profissional e distribuição de habilidades; a base de fabricação inteligente do sul concluiu o primeiro lote de entrega de produtos robóticos e, em outubro, atualizou os serviços de teste de pequeno e médio porte. Lenovo Baiying apresenta aplicativos de escritório de parceiros e estabelece métodos de participação, como cooperação de aplicativos e prestação de serviços. A empresa de software fornece recursos profissionais e a Lenovo fornece suporte a plataformas e equipamentos.\nEm outubro de 2026, a Southern Intelligent Manufacturing Base da Lenovo atualizou seus serviços de teste de pequeno e médio porte para fornecer suporte desde a verificação do produto até a entrega da fabricação para empresas de inovação científica e tecnológica; Benmo Technology, Daimeng Robots e Kuandimensional Intelligence possuem registros específicos de cooperação de fabricação."
+},
+{
+"id": "8b2b17f2306c5c",
+"t": "Este limpador de piso Roborock com classificação 4,5/5 cai para € 388 na Black Friday 2026",
+"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
+"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-388-00-17-n267918.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-18T20:17-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ce nettoyeur de sol Roborock noté 4,5/5 tombe à 388 € pour le Black Friday 2026",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
+},
+{
+"id": "fa6283ae32b2f0",
+"t": "O Ministério da Indústria e Tecnologia da Informação e dois outros departamentos anunciaram cenários típicos de aplicação de robôs na área agrícola.",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://36kr.com/newsflashes/4076049538454658",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-18T23:20-03:00",
+"c": [
+"agricolas"
+],
+"l": 0,
+"to": "工信部等两部门公布农业领域机器人典型应用场景",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "d3f5a2e6108905",
@@ -20681,7 +20950,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Nature",
-"mx": 2,
+"mx": 3,
 "rx": "Robôs leves movidos por materiais ativos podem navegar em ambientes complexos por meio de locomoção multimodal. No entanto, os projetos predominantes normalmente dependem de um único material ativo em arquiteturas multicomponentes, o que muitas vezes leva a uma alta complexidade estrutural e a desafios interfaciais “suavemente rígidos”. Aqui, apresentamos um robô totalmente macio, acionado eletricamente, baseado em um elastômero de heterocamada monolítica que integra um elastômero dielétrico processável de alto desempenho e um elastômero de cristal líquido. Nesta estrutura “macio-macio”, o elastômero de cristal líquido funciona como um esqueleto compatível reconfigurável para programar os estados de equilíbrio, enquanto o elastômero dielétrico serve como um músculo artificial de resposta rápida que impulsiona o movimento dinâmico."
 },
 {
@@ -20806,7 +21075,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Economist",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9d7b5f94c5aab4",
@@ -21044,27 +21313,6 @@
 "rx": "Ring está entrando no negócio de robôs. Um drone e um rover monitorarão residências e escritórios 24 horas por dia por meio de vídeo. O objetivo declarado da Ring Robotics é aumentar a segurança em escritórios e residências. O primeiro dispositivo da Ring Robotics é um drone de segurança de uso privado chamado Ring Drone Cam. É suposto monitorar sua própria casa quando não há ninguém lá.\nPor exemplo, se uma campainha tocar na porta dos fundos, o drone deverá voar até lá e monitorar a situação. Não é a primeira tentativa de Ring de trazer um drone para casa."
 },
 {
-"id": "d72462fe842ffb",
-"t": "Este limpador de piso Roborock com classificação 4,5/5 perde € 134,13 na Black Friday 2026",
-"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
-"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-388-00-26-n267505.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-14T13:17-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Ce nettoyeur de sol Roborock noté 4,5/5 perd 134,13 € pour le Black Friday 2026",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
-},
-{
 "id": "4ab55e896d7666",
 "t": "Chinês+drone+componentes",
 "r": "",
@@ -21211,6 +21459,27 @@
 "cv": "Golem.de",
 "mx": 3,
 "rx": "Informações sobre solução de problemas podem ser encontradas aqui. (Link de referência para a página) A caixa de diálogo de consentimento não pôde ser carregada corretamente, o consentimento só é válido provisoriamente. Anúncios e conteúdo podem ser personalizados com base em um perfil. Mais dados podem ser adicionados para personalizar melhor os anúncios e o conteúdo. Podem ser obtidas informações sobre grupos-alvo que visualizaram os anúncios e o conteúdo. Os dados podem ser usados ​​para construir ou melhorar a usabilidade, sistemas e software.\nDados de localização precisos podem ser processados ​​para serem usados ​​para uma ou mais finalidades de processamento."
+},
+{
+"id": "d72462fe842ffb",
+"t": "Este limpador de piso Roborock com classificação 4,5/5 perde € 134,13 na Black Friday 2026",
+"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
+"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-388-00-26-n267505.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-14T13:17-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ce nettoyeur de sol Roborock noté 4,5/5 perd 134,13 € pour le Black Friday 2026",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
 },
 {
 "id": "6b4f2032c9bb46",
@@ -26338,7 +26607,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -32227,7 +32496,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -36089,7 +36358,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Handelsblatt",
-"mx": 2
+"mx": 3
 },
 {
 "id": "7626aa3d4c6156",
@@ -41995,27 +42264,6 @@
 "rx": "Depois de um primeiro cortador de relva robótico muito convincente, Dreame está de volta com o A2. Este modelo utiliza a tecnologia LiDAR de seu antecessor, mas adiciona uma câmera para entender melhor seu ambiente. Também introduz um sistema de corte aprimorado, permitindo que o disco seja movido até as bordas."
 },
 {
-"id": "d83e77aad7716d",
-"t": "Black Friday 2026 – O limpador de piso Roborock F25 Ultra por € 399,00 (-31%)",
-"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
-"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-399-00-31-n267121.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-10T02:43-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Black Friday 2026 – Le nettoyeur de sol Roborock F25 Ultra à 399,00 € (-31%)",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
-},
-{
 "id": "bb62917e45afd1",
 "t": "[Foto] O personagem principal no palco é um robô… Evoluindo Entertech",
 "r": "Para comemorar o Dia Mundial da Ciência, a Galaxy Corporation realizou o evento 'Polymath' no Galaxy Robot Park em Gangdong-gu, Seul, no dia 10. Repórter Park Ji-ho jihopress@etnews.com",
@@ -43405,6 +43653,27 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "d83e77aad7716d",
+"t": "Black Friday 2026 – O limpador de piso Roborock F25 Ultra por € 399,00 (-31%)",
+"r": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos.",
+"u": "https://www.lesnumeriques.com/nettoyeur-sol/black-friday-2026-le-nettoyeur-de-sol-roborock-f25-ultra-a-399-00-31-n267121.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-10T02:43-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Black Friday 2026 – Le nettoyeur de sol Roborock F25 Ultra à 399,00 € (-31%)",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "A linha de produtos de limpeza para pisos da Roborock, da marca F25, é enriquecida com mais uma versão decorada com o prefixo Ultra. E para justificar este apêndice, está equipado com funções de vapor para limpar os pisos mais sujos."
 },
 {
 "id": "1f2a0d0837f860",
@@ -48315,7 +48584,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -48344,7 +48613,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
