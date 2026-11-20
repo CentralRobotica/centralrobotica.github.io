@@ -1,6 +1,28 @@
 {
 "2026-11-20": [
 {
+"id": "b1e41002245251",
+"t": "A robótica entra na era pós-Jensen Huang",
+"r": "Palestra de Jensen Huang na CES 2025. | Crédito: NVIDIA Dias antes do Natal de 2023, a Serve Robotics estava à beira da falência. Um grande investidor desistiu de uma rodada de financiamento comprometida, deixando o desenvolvedor de robôs de entrega nas calçadas incapaz de pagar a folha de pagamento e a poucos dias de ficar sem dinheiro. Com poucos…",
+"u": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/jensen-huang-robots.png",
+"d": "2026-11-20T00:06-03:00",
+"c": [
+"entrega"
+],
+"l": 0,
+"to": "Robotics enters its post-Jensen Huang era",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "Dias antes do Natal de 2023, a Serve Robotics estava à beira da falência. Com poucas opções restantes, o cofundador e CEO da Serve Robotics, Ali Kashani, entrou em contato com o cofundador da NVIDIA, Jensen Huang. Nos últimos anos, poucas pessoas fora da indústria robótica fizeram mais do que Huang para elevar o seu perfil. E a IA física abrange mais do que robótica.\nA NVIDIA se beneficiaria financeiramente, independentemente de quais empresas de robótica tivessem sucesso. Talvez a contribuição duradoura da NVIDIA para a robótica seja a infraestrutura de desenvolvimento que ela construiu sob o comando de Huang. Sob Huang, a NVIDIA se tornou um dos investidores estratégicos mais proeminentes em robótica, apoiando empresas como Figure AI, NEURA Robotics, Skild AI, Wayve, Waabi e Serve Robotics."
+},
+{
 "id": "cd9b50732f1706",
 "t": "Quais são os diferentes tipos de robôs? Como organizá-los com base em sua finalidade, como robôs industriais, colaborativos e de serviço.",
 "r": "Embora sejam chamados de robôs, eles parecem muito diferentes, desde armas de fábrica até robôs de serviço. A ISO 8373 divide amplamente os robôs em robôs industriais e robôs de serviço. Como seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo…",
@@ -10,7 +32,8 @@
 "i": "https://robotstart.info/imgs/ogp_f/109475.jpg",
 "d": "2026-11-20T00:00-03:00",
 "c": [
-"industriais"
+"industriais",
+"servico"
 ],
 "l": 0,
 "to": "ロボットの種類は何で分かれるのか 産業用・協働・サービスロボットなど用途から整理する考え方",
@@ -20,6 +43,27 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "Embora sejam chamados de robôs, eles parecem muito diferentes, desde armas de fábrica até robôs de serviço. A ISO 8373 divide amplamente os robôs em robôs industriais e robôs de serviço. Como seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está implementando robôs comerciais, como robôs de segurança e inspeção na sociedade e desenvolvendo o semi-humanóide doméstico \"ugo Nova\"."
+},
+{
+"id": "1cd8914780c9be",
+"t": "Qual o papel do cirurgião ao operar um robô cirúrgico?",
+"r": "No âmbito do Infobae Talks Salud, Federico Gorganchian, chefe de Cirurgia e Salas Operatórias da instituição, explicou como combinam a tecnologia robótica com o trabalho médico e que mudanças isso gera na experiência do paciente. “O que fazemos e continuamos a fazer é uma combinação”, disse Gorganchian, que sublinhou…",
+"u": "https://www.infobae.com/inhouse/2026/11/20/que-rol-cumple-el-cirujano-cuando-opera-un-robot-quirurgico/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/TNPHYE55BZA7RDAWAI7ZRQAFNY.JPG?auth=3a7a9c66f7e2cbf87f2a704bb75238ea006f2b62256bd7f3ea63bdebb62b937a&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-20T00:01-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Qué rol cumple el cirujano cuando opera un robot quirúrgico",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "No âmbito do Infobae Talks Salud, Federico Gorganchian, chefe de Cirurgia e Salas Operatórias da instituição, explicou como combinam a tecnologia robótica com o trabalho médico e que mudanças isso gera na experiência do paciente. “O que fazemos e continuamos a fazer é uma combinação”, disse Gorganchian, que sublinhou que por trás de cada intervenção está toda uma equipa médica que contribui com a sua visão e forma de trabalhar para levar a tecnologia à sua máxima expressão.\nQuanto à autonomia do sistema, o cirurgião foi conclusivo: “O robô não se move sozinho. Pode-se dizer que o controle é 100% do cirurgião”, disse Gorganchian, que acrescentou que o robô proporciona um aprimoramento das capacidades médicas sem qualquer grau de autonomia própria."
 },
 {
 "id": "a96a8aad031567",
@@ -41,6 +85,69 @@
 "cv": "Handelsblatt",
 "mx": 1,
 "rx": "Mas quase uma dúzia de ações da DAX, MDax e SDax estão a beneficiar da crescente indústria da inteligência artificial (IA) e também de aplicações nas áreas da engenharia mecânica e da robótica. De acordo com Kion, o tempo de comissionamento no local foi reduzido em mais de 60%. A divisão “Intelligent Automation Solutions” da Kion (anteriormente Dematic) cresceu significativamente no terceiro trimestre: as vendas aumentaram 16%, para 890 milhões de euros, e o lucro ajustado antes de impostos e juros (EBIT) aumentou desproporcionalmente 39%, para 66 milhões de euros.\nO analista Lucas Ferhani confirmou o seu preço-alvo de 33 euros após os números trimestrais de há uma semana. Os processadores de alto desempenho Infineon não são instalados em data centers."
+},
+{
+"id": "f8bceb9cbff263",
+"t": "Doméstica e serviços – Quando haverá mais robôs semelhantes a humanos do que humanos? - Conhecimento - SZ.de",
+"r": "Quando poderia haver mais robôs desse tipo do que pessoas? Mas eles escrevem: De acordo com o seu modelo básico, no ano 2100 poderia haver 3,96 mil milhões de robôs humanóides, com então 10,19 mil milhões de pessoas. Os três autores não explicam o que exatamente entendem por robôs humanóides. Segundo a VDMA, os robôs…",
+"u": "https://www.sueddeutsche.de/wissen/haushalt-und-dienstleistung-wann-gibt-es-mehr-menschenaehnliche-roboter-als-menschen-dpa.urn-newsml-dpa-com-20090101-261120-930-23179",
+"f": "SZ.de",
+"s": "sueddeutsche.de",
+"i": "https://www.sueddeutsche.de/2026/11/20/e8607efb-dade-41f5-9554-d5b9af8b9c7a.jpg?q=60&fm=webp&width=1200&rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+"d": "2026-11-20T01:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Haushalt und Dienstleistung - Wann gibt es mehr menschenähnliche Roboter als Menschen? - Wissen - SZ.de",
+"lg": "de",
+"p": 4.8,
+"cr": 3,
+"cv": "Süddeutsche Zeitung",
+"mx": 1,
+"rx": "Quando poderia haver mais robôs desse tipo do que pessoas? Mas eles escrevem: De acordo com o seu modelo básico, no ano 2100 poderia haver 3,96 mil milhões de robôs humanóides, com então 10,19 mil milhões de pessoas. Os três autores não explicam o que exatamente entendem por robôs humanóides. Segundo a VDMA, os robôs humanóides, por outro lado, têm maior probabilidade de trabalhar em ambientes que foram desenvolvidos para humanos.\n“O governo chinês provavelmente está fazendo isso conscientemente porque quer preparar as pessoas para uma época em que os robôs humanóides serão visíveis em todos os lugares da vida cotidiana”, diz Schwarzkopf. Num estudo publicado na revista “Science Robotics”, uma equipa de investigação da Universidade de Potsdam analisou a questão do que será necessário para as pessoas aceitarem robôs humanóides."
+},
+{
+"id": "9f265a04729253",
+"t": "TechMagic e CSS Holdings lançam serviço completo de contrato de operação de alimentos e bebidas usando robôs de cozinha e know-how operacional",
+"r": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato…",
+"u": "https://ascii.jp/elem/000/004/453/4453481/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-20T00:07-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "TechMagicとCSSホールディングス、調理ロボット×運営ノウハウによる飲食オペレーション受託サービスを本格始動",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato operacional que combina os robôs da Tech Magic e o know-how operacional da CSS."
+},
+{
+"id": "e87216191a51ae",
+"t": "Taiwan construirá plataforma de simulação robótica com mais de 30 participantes da indústria para avançar no desenvolvimento de robôs inteligentes",
+"r": "Taiwan planeja estabelecer um sistema de simulação robótica e gerenciamento de campo de treinamento para reduzir custos de desenvolvimento, acelerar a implantação de robôs autônomos e fortalecer a competitividade de sua indústria de robótica inteligente, disse um alto funcionário do governo...",
+"u": "https://www.digitimes.com/news/a20261120PD229/taiwan-development-robot-management-training.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261120pd229_files/1_b.jpg",
+"d": "2026-11-20T00:19-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Taiwan to build robotics simulation platform with 30+ industry players to advance smart robot development",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "Taiwan planeja estabelecer um sistema de simulação robótica e gerenciamento de campo de treinamento para reduzir custos de desenvolvimento, acelerar a implantação de robôs autônomos e fortalecer a competitividade de sua indústria de robótica inteligente, disse um alto funcionário do governo..."
 }
 ],
 "2026-11-19": [
@@ -864,8 +971,9 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534978.jpg&M=1&s=Y&x=0&y=0&sw=850&sh=567&sl=W&fw=1050&exp=3600",
 "d": "2026-11-19T10:55-03:00",
 "c": [
+"ia",
 "competicoes",
-"ia"
+"educacao"
 ],
 "l": 0,
 "to": "從早療機器人到智慧車檢長庚大學勇奪資訊應用服務創新競賽9項大獎- 楊梅新聞網、中壢新聞網、桃園新聞網",
@@ -2899,8 +3007,8 @@
 "i": "https://img6.yna.co.kr/photo/etc/epa/2026/09/13/PEP20260913205701009_P4.jpg",
 "d": "2026-11-19T22:49-03:00",
 "c": [
-"defesa",
-"negocios"
+"negocios",
+"defesa"
 ],
 "l": 0,
 "to": "\"韓기업, 트럼프 차남 관여 군용로봇 회사에 2천억원 투자 준비\"",
@@ -3224,8 +3332,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.70d06fb8ad8d4602947a48fa54f9f9c9_P1.jpg",
 "d": "2026-11-19T22:27-03:00",
 "c": [
-"humanoides",
 "medicina",
+"humanoides",
 "ia"
 ],
 "l": 0,
@@ -3362,7 +3470,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The Economic Times",
-"mx": 2
+"mx": 3
 },
 {
 "id": "4d094736ae8000",
@@ -3717,7 +3825,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9fbfc7f438c882",
@@ -3737,7 +3845,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 2
+"mx": 3
 },
 {
 "id": "ce3c4f96321a4d",
@@ -4028,7 +4136,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Reuters",
-"mx": 2
+"mx": 3
 },
 {
 "id": "f2907b1a3c1ab4",
@@ -4069,7 +4177,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "USA Today",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a399ebcf50928e",
@@ -4132,7 +4240,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d5a4c05d242f73",
@@ -4165,7 +4273,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.2ca486346cb04dfd8c2c6ebb5915ab27_P1.jpg",
 "d": "2026-11-19T23:26-03:00",
 "c": [
-"resgate"
+"resgate",
+"educacao"
 ],
 "l": 0,
 "to": "“평지선 흩어져 광역 수색, 계단 만나면 합체 돌파”…금오공대 '모듈형 재난로봇' 산업부장관상",
@@ -4300,7 +4409,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "De Janeiro a Outubro, o total das vendas a retalho de bens de consumo e serviços aumentou 2,5% em termos homólogos (o mesmo abaixo). De Janeiro a Outubro, as vendas a retalho de equipamento de comunicação (incluindo telemóveis) e material de escritório cultural (incluindo computadores e tablets) para unidades acima do tamanho designado aumentaram 16,5% e 6,0%, respectivamente. De janeiro a outubro, as vendas totais no varejo de bens de consumo aumentaram 1,0% e as vendas no varejo de bens de consumo, exceto automóveis, aumentaram 2,8%.\nDe Janeiro a Outubro, as vendas a retalho de serviços aumentaram 4,9%, 4,0 pontos percentuais acima das vendas a retalho de bens. De Janeiro a Outubro, as vendas a retalho de bens de consumo em condados e aldeias, incluindo vilas e aldeias, aumentaram 1,9%, o que foi significativamente mais rápido do que o nível urbano. Entre eles, as vendas a retalho de bens de consumo nas zonas rurais aumentaram 2,2% e a taxa de crescimento foi mais rápida do que nas zonas urbanas durante 15 meses consecutivos."
 },
 {
@@ -5269,7 +5378,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -8788,7 +8897,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 2
+"mx": 3
 },
 {
 "id": "d52c0ed31a8e43",
@@ -10652,6 +10761,27 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "Astral Q (CEO Cho Jeong-ju), uma empresa de plataforma de pesquisa de materiais autônomos baseada em IA, anunciou no dia 17 que lançou o ‘MatPlay’, uma plataforma aberta de pesquisa de materiais autônomos que combina IA e robôs. Astral Q apresentou o Matplay pela primeira vez no ‘The Battery Show 2026’, a maior exposição da indústria de baterias da América do Norte, realizada em Detroit, EUA, no mês passado. MatPlay é uma plataforma integrada de pesquisa de materiais onde a IA explora novos materiais e realiza simulações, e os robôs se encarregam da síntese e análise reais. Na verdade, o Astral Q opera experimentos de síntese de robôs, e o laboratório é capaz de sintetizar até 50.000 materiais por ano. A fim de resolver o problema das altas barreiras de entrada para o desenvolvimento de novos materiais devido aos custos de pesquisa existentes, equipamentos caros e pessoal de pesquisa profissional, a Astral Q apresentou uma visão para reduzir a carga de custos e popularizar a pesquisa e o desenvolvimento utilizando IA e tecnologia de automação robótica. O escopo de simulações, experimentos autônomos e agentes de IA será expandido desde a seleção de tópicos de pesquisa até o projeto de pesquisa de acompanhamento, e o campo de aplicação também será expandido de baterias, semicondutores e materiais de liga para catalisadores, materiais magnéticos e materiais compósitos orgânicos-inorgânicos. Jo Jeong-ju, CEO da AstralQ, disse: “Novos materiais são absolutamente necessários para resolver os desafios tecnológicos que a humanidade enfrenta, como baterias, semicondutores e energia”, e acrescentou: “MatPlay utilizará IA e inteligência coletiva humana para ajudar ativamente a fazer novas descobertas em áreas que antes eram consideradas impossíveis”."
+},
+{
+"id": "9eb0defdaa3373",
+"t": "[Foto] Coway lança robô vestível para assistência à caminhada",
+"r": "À medida que os robôs vestíveis, que eram usados ​​principalmente para fins industriais, estão se expandindo para bens de consumo diário, a Coway lançou oficialmente o 'Robô Vestível de Assistência à Caminhada' desenvolvido em cooperação com a Werobotics e iniciou serviços de aluguel. Um consumidor está experimentando…",
+"u": "https://www.etnews.com/20261117000339",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.fc8ee4ab6c7a4a6c94fa825aed6ae5f6_P1.jpg",
+"d": "2026-11-17T03:33-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 1,
+"to": "[포토] 코웨이, 보행보조 웨어러블 로봇 출시",
+"lg": "ko",
+"p": 9.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "À medida que os robôs vestíveis, que eram usados ​​principalmente para fins industriais, estão se expandindo para bens de consumo diário, a Coway lançou oficialmente o 'Robô Vestível de Assistência à Caminhada' desenvolvido em cooperação com a Werobotics e iniciou serviços de aluguel. Um consumidor está experimentando um robô vestível na Galeria Coway em Guro-gu, Seul, no dia 17."
 },
 {
 "id": "7d66995412d001",
@@ -13623,7 +13753,7 @@
 "i": "https://xtech.nikkei.com/images/xtech/2025/ogp_nikkeixtech.png?20220512",
 "d": "2026-11-17T16:34-03:00",
 "c": [
-"geral"
+"industriais"
 ],
 "l": 0,
 "to": "電機メーカー参入で一大産業化するロボットSI",
@@ -23833,7 +23963,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 1
+"mx": 2
 },
 {
 "id": "93924dd20f9b7e",
@@ -32137,7 +32267,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -38026,7 +38156,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -54114,7 +54244,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -54143,7 +54273,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
