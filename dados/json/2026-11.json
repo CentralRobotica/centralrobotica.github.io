@@ -1,6 +1,124 @@
 {
 "2026-11-20": [
 {
+"id": "6e128de42a57f6",
+"t": "Realbotix lança humanóides Série 1 a partir de US$ 11.950",
+"r": "A Realbotix lançou sua linha humanóide Série 1 para educação, bem-estar e companheirismo pessoal, com a empresa agendando as primeiras entregas para o segundo semestre de 2027. De acordo com Robotics and Automation News, a plataforma anteriormente chamada de Echo agora compreende um modelo de mesa de US$ 11.950 e um modelo de corpo inteiro de US$ 59.950…",
+"u": "https://humanoid.guide/realbotix-launches-series-1-humanoids-starting-at-11950/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "https://humanoid.guide/wp-content/uploads/2026/11/image-26.jpg",
+"d": "2026-11-20T04:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "Realbotix launches Series 1 humanoids starting at $11,950",
+"lg": "en",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 1,
+"rx": "A Realbotix lançou sua linha humanóide Série 1 para educação, bem-estar e companheirismo pessoal, com a empresa agendando as primeiras entregas para o segundo semestre de 2027. De acordo com Robotics and Automation News, a plataforma anteriormente chamada de Echo agora compreende um modelo de mesa de US$ 11.950 e um modelo de corpo inteiro de US$ 59.950. A Realbotix está inicialmente limitando a produção a 225 unidades de mesa e 25 robôs Full Body.\nO Tabletop Série 1 possui 17 graus de liberdade e é destinado a aplicações de mesa, enquanto o modelo Full Body possui 39 graus de liberdade e movimentos mais extensos da parte superior do corpo. A Realbotix também planeja gêmeos digitais de IA em 2027, destinados a permitir que os clientes interajam com o mesmo personagem por meio de computadores e dispositivos móveis, mantendo a continuidade com o robô físico."
+},
+{
+"id": "0e23ea2be6979a",
+"t": "SK Intellix revela local de produção do robô de bem-estar AI ‘NamuX’ no Departamento de Engenharia Mecânica da Universidade Soongsil",
+"r": "No dia 19, SK Intellix (Coreógrafo CEO) apresentou o local de produção do robô de bem-estar AI 'NAMUHX' para um total de 70 estudantes e professores do Departamento de Engenharia Mecânica da Universidade Soongsil (Presidente Yunjae Lee) no Campus Hwaseong localizado em Hyohaeng-gu, Hwaseong-si, Gyeonggi-do. Este passeio, realizado a pedido do programa de inspeção industrial do Departamento de Engenharia Mecânica, selecionado para a área de Especialização AX (IA Física) da Universidade Soongsil, permitiu aos alunos ver diretamente o local real de produção do robô. Ele foi projetado para fornecer uma visão e aumentar a compreensão da tecnologia robótica e dos processos de fabricação de ponta. Neste dia, os participantes ouviram uma explicação sobre as principais funções e tecnologias do robô de bem-estar AI NamuX.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49704",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49704_105846_5742.jpg",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"ia",
+"educacao",
+"inspecao"
+],
+"l": 1,
+"to": "SK인텔릭스, 숭실대 기계공학부에 AI 웰니스 로봇 ‘나무엑스’ 생산 현장 공개",
+"lg": "ko",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "No dia 19, SK Intellix (CEO Coreógrafo) realizou um workshop para um total de 70 pessoas, incluindo professores e alunos do Departamento de Engenharia Mecânica da Universidade Soongsil (Presidente Yunjae Lee) no Campus Hwaseong localizado em Hyohaeng-gu, Hwaseong-si, Gyeonggi-do."
+},
+{
+"id": "cba22b8561a3ea",
+"t": "XYG revela pipeline físico de IA que conecta falhas de campo ao aprendizado",
+"r": "A empresa de robótica de IA XYG (CEO Hwang Seong-jae) anunciou que construiu um pipeline físico de aprendizagem de IA para o robô semi-humanóide ‘DEUX’ e divulgou a tecnologia relacionada. A estrutura consiste em implantar o modelo aprendido através da demonstração do trabalhador no campo real e verificar os tipos de falhas identificados durante o trabalho, refletindo-os em aprendizagem adicional. Este pipeline conecta coleta de dados de demonstração, aprendizado de modelo, implantação de robô e verificação de campo em um único loop. A chave é encontrar situações no campo onde o robô tenha dificuldades e adicionar dados de demonstração apropriados. Em vez de aumentar os dados de uma só vez, é usado para compensar as deficiências do modelo.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49703",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49703_105845_5514.png",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"inspecao",
+"humanoides"
+],
+"l": 0,
+"to": "엑스와이지, 현장 실패를 학습으로 잇는 피지컬 AI 파이프라인 공개",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A empresa de robótica de IA XYG (CEO Hwang Seong-jae) anunciou que construiu um pipeline físico de aprendizagem de IA para o robô semi-humanóide ‘DEUX’ e divulgou a tecnologia relacionada."
+},
+{
+"id": "c4a1f1fc3e15a5",
+"t": "Base Group busca investimento de 200 bilhões de won na empresa de robôs militares dos EUA ‘Foundation’",
+"r": "O Grupo Base da Coreia está perseguindo um plano para investir US$ 150 milhões (aproximadamente 200 bilhões de won) na Foundation Future Industries, uma desenvolvedora americana de robôs militares na qual Eric Trump participa como principal conselheiro estratégico. A Reuters informou no dia 19 (hora local) que o Base Group está revendo um plano de investimentos para a Fundação, que passa por dificuldades financeiras. Um porta-voz do Base Group também confirmou que eles estão considerando investir considerando o valor a longo prazo e o potencial de crescimento dos robôs humanóides. Foundation é um humanóide militar equipado com uma arma de fogo.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49702",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49702_105844_951.png",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"negocios",
+"defesa",
+"humanoides"
+],
+"l": 0,
+"to": "베이스그룹, 美 군사 로봇 기업 '파운데이션'에 2000억원 투자 추진",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "O Base Group da Coreia adquiriu a Foundation Future Industries, uma desenvolvedora de robôs militares dos EUA na qual Eric Trump atua como principal consultor estratégico."
+},
+{
+"id": "6d4a98b898c569",
+"t": "Hallym University Sacred Heart Hospital conduz teste de ‘adaptação hospitalar’ de robô humanóide",
+"r": "O Hallym University Sacred Heart Hospital (Diretor Kim Hyeong-soo) conduziu um teste de operação básica inserindo o protótipo inicial do robô humanóide personalizado para o hospital, que está sendo desenvolvido em conjunto com o especialista em robôs Blue Robin (CEO Heo Seong-moon), no Hallym Simulation Center do Hallym University Medical Center. Este teste foi conduzido no âmbito do Projeto de Desenvolvimento de Tecnologia da Indústria de Robôs '2025 do Ministério do Comércio, Indústria e Energia (robô humanóide especializado em ambiente doméstico e médico baseado em modelo de fundação de IA), que as duas organizações estão realizando em conjunto a partir de 2025. desenvolvimento). Definir tarefas detalhadas a serem executadas pelo robô em um ambiente de simulação configurado de forma idêntica a um hospital real e fornecer hardware e software de controle adequados para o ambiente hospitalar.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49699",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49699_105840_1842.jpg",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"medicina",
+"humanoides",
+"ia",
+"espaco"
+],
+"l": 0,
+"to": "한림대성심병원, 휴머노이드 로봇 '병원 적응' 테스트 진행",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "O Hallym University Sacred Heart Hospital (Diretor Kim Hyeong-soo) apresentou o protótipo inicial do robô humanóide feito sob medida para o hospital que está sendo desenvolvido em conjunto com o especialista em robótica Blue Robin (CEO Heo Seong-moon) ao Hallym University Medical Center."
+},
+{
 "id": "b1e41002245251",
 "t": "A robótica entra na era pós-Jensen Huang",
 "r": "Palestra de Jensen Huang na CES 2025. | Crédito: NVIDIA Dias antes do Natal de 2023, a Serve Robotics estava à beira da falência. Um grande investidor desistiu de uma rodada de financiamento comprometida, deixando o desenvolvedor de robôs de entrega nas calçadas incapaz de pagar a folha de pagamento e a poucos dias de ficar sem dinheiro. Com poucos…",
@@ -63,6 +181,70 @@
 "cv": "La Repubblica",
 "mx": 1,
 "rx": "Na verdade não, dado o grande interesse em robôs humanóides. Diante de um público curioso, dois robôs respondem aos comandos de voz de Jan-Mathieu Donnier, diretor da consultoria tecnológica GlobalVision: um pequeno, parecido com um cachorro, e outro maior, com aparência quase humana. Entre a EPFL em Lausanne e a ETH Zurique, o ecossistema robótico suíço tornou-se uma referência internacional.\nOs exemplos incluem a RIVR Technologies, uma spin-off da ETH Zurich que fabrica robôs de entrega de quatro patas e foi adquirida pela Amazon, e a Maxon, especialista em motores em miniatura com sede em Obwalden. Outra empresa suíça, a ANYbotics, está a gerar um entusiasmo considerável com os seus robôs de inspeção autónomos. Por outras palavras, embora a maioria dos robôs do mundo ainda sejam fabricados na Ásia, a Suíça está bem posicionada para beneficiar das suas capacidades de investigação e engenharia de precisão."
+},
+{
+"id": "99d850ef702590",
+"t": "Aidin Robotics-Korea Midland Power Company ganhou o prêmio da Agência Nacional de Tecnologia e Padrões no ‘2026 International Robot Contest’",
+"r": "ADIN Robotics (CEO Choi Hyuk-ryeol e Lee Yun-haeng), uma empresa líder em inteligência sensorial de robôs, anunciou no dia 20 que a equipe 'SAI Guard' formada com a sede da usina de energia Sejong da Korea Midland Power Company ganhou o prêmio da Agência Nacional de Tecnologia e Padrões no '2026 International Robot Contest'. A categoria de premiação foi a categoria de desenvolvimento e utilização de produtos Intelligent Robot Challenge da Korea Midland Power Company, e a cerimônia de premiação foi realizada em Daegu no dia 13. A equipe SAI Guard (Sejong AI Guard) foi formada pela Aidin Robotics, que fabrica robôs, e pela Sejong Power Plant Headquarters, que usa robôs. As duas organizações refletiram as necessidades dos locais de inspeção de usinas de energia em seus produtos desde o estágio de desenvolvimento, criando um robô ambulante de quatro patas especializado em usinas de energia.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49698",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49698_105838_1348.jpg",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"inspecao"
+],
+"l": 0,
+"to": "에이딘로보틱스-한국중부발전, ‘2026 국제로봇콘테스트’ 국가기술표준원장상 수상",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "ADIN Robotics (CEO Choi Hyeok-ryeol e Lee Yun-haeng), uma empresa líder em inteligência sensorial de robôs, anunciou que a equipe ‘SAI Guard’, formada em conjunto com a sede da usina de energia Sejong da Korea Midland Power Company, participará do ‘2026 International Robot Contest’."
+},
+{
+"id": "8646ede63c4e0e",
+"t": "Tendências semanais dos preços das ações da empresa de robôs (16/11 ~ 20/11)",
+"r": "",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49708",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49708_105853_4531.png",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "주간 로봇 기업 주가 동향(11/16 ~ 11/20)",
+"lg": "ko",
+"esp": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1
+},
+{
+"id": "6a01bbcbbcc3b3",
+"t": "Preço atual das ações da empresa de robôs (2026-11-20)",
+"r": "",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49707",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49707_105852_457.png",
+"d": "2026-11-20T04:39-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "오늘의 로봇 기업 주식 시세(2026-11-20)",
+"lg": "ko",
+"esp": 1,
+"p": 5.3,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1
 },
 {
 "id": "cd9b50732f1706",
@@ -129,6 +311,27 @@
 "rx": "Mas quase uma dúzia de ações da DAX, MDax e SDax estão a beneficiar da crescente indústria da inteligência artificial (IA) e também de aplicações nas áreas da engenharia mecânica e da robótica. De acordo com Kion, o tempo de comissionamento no local foi reduzido em mais de 60%. A divisão “Intelligent Automation Solutions” da Kion (anteriormente Dematic) cresceu significativamente no terceiro trimestre: as vendas aumentaram 16%, para 890 milhões de euros, e o lucro ajustado antes de impostos e juros (EBIT) aumentou desproporcionalmente 39%, para 66 milhões de euros.\nO analista Lucas Ferhani confirmou o seu preço-alvo de 33 euros após os números trimestrais de há uma semana. Os processadores de alto desempenho Infineon não são instalados em data centers."
 },
 {
+"id": "d17c9c97bbf7db",
+"t": "BH visa o mercado físico de IA... Expandindo o território de PCB com robôs",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. ASICLAND, uma empresa de design de semicondutores, ganhou um contrato no valor de US$ 10,47 milhões para produzir em massa controladores de memória de alto desempenho. À medida que o mercado de data centers de inteligência…",
+"u": "https://www.hankyung.com/article/202611209657i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46491362.1.jpg",
+"d": "2026-11-20T01:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "비에이치, 피지컬 AI 시장 공략…로봇으로 PCB 영토 넓힌다",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. ASICLAND, uma empresa de design de semicondutores, ganhou um contrato no valor de US$ 10,47 milhões para produzir em massa controladores de memória de alto desempenho. À medida que o mercado de data centers de inteligência artificial (IA) cresce, a demanda por semicondutores de sistema que melhoram a velocidade de processamento de dados e a eficiência energética aumentou... O governo está renovando todo o sistema de gerenciamento de testes para evitar trapaças em testes de qualificação nacionais usando óculos de inteligência artificial (IA) e câmeras ultrapequenas. Serão introduzidos detectores de rádio em todos os centros de testes, e o período de restrição para trapaceiros na realização do teste nacional de qualificação técnica será reduzido para 3... Às 14h09. em 19 de novembro de 2026, o volume anual de exportações da Coreia ultrapassou 1 trilhão de dólares pela primeira vez na história. É o quarto no mundo, depois dos Estados Unidos, China e Alemanha. O país que começou como o país mais pobre do mundo alcançou exportações de 100 milhões de dólares em 1964, e em 1962..."
+},
+{
 "id": "56d91e7f8bbc87",
 "t": "Robô de café de sétima geração COFE+ faz história, superando um campeão de café humano na competição Yiwu Import Expo LD Coffee Masters de 2026",
 "r": "19, 2026 (GLOBE NEWSWIRE) -- Às 11h30 do dia 14 de novembro de 2026, a 7ª LD International Coffee Masters Competition, realizada como parte da 7ª Feira de Mercadorias Importadas de Yiwu da China, apresentou um desafio histórico entre humanos e robôs para a indústria cafeeira global. Um importante barista humano e…",
@@ -138,7 +341,8 @@
 "i": "https://ml.globenewswire.com/Resource/Download/306bfa05-054a-4f1b-9865-4b45d9bcf942/image1.jpg",
 "d": "2026-11-20T01:16-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"servico"
 ],
 "l": 0,
 "to": "COFE+ Seventh-Generation Coffee Robot Makes History, Outperforming a Human Coffee Champion at the 2026 Yiwu Import Expo LD Coffee Masters Competition",
@@ -171,25 +375,153 @@
 "rx": "(Jeonju = Yonhap News) Repórter Lim Chae-du = O Conselho Provincial Autônomo Especial de Jeonbuk adotou a 'proposta pedindo a imediata promulgação da Lei Especial da Zona Industrial Estratégica Ultra-Metropolitana para o Crescimento Liderado Localmente (Lei da Zona Especial Ultra-Metropolitana) e a designação da Zona Especial de Robô e Hidrogênio de Jeonbuk' proposta pelo Rep. sessão plenária do dia 20. A Lei da Zona Especial Supermetropolitana é um projeto de lei que promove indústrias estratégicas combinando vários governos locais em uma zona econômica metropolitana e fornece isenções regulatórias especiais e apoio financeiro, financeiro e fiscal às empresas residentes. O projeto de lei inclui a criação de bases industriais ultrametropolitanas, expansão de disposições regulatórias especiais, apoio ao investimento corporativo e horários de trabalho flexíveis para o pessoal de pesquisa e desenvolvimento. Através da sua proposta, o Deputado Seo afirmou que a promulgação de uma lei é urgentemente necessária para superar a crise de extinção local causada pela concentração unipolar na área metropolitana e para implementar na prática a estratégia nacional de crescimento equilibrado dos 'cinco pólos e três especiais' do governo.\nEle apontou as limitações do atual sistema de zonas especiais do tipo partição departamental, de pequena escala, descentralizado e enfatizou: \"É necessária uma nova plataforma de crescimento que combine uma cadeia de valor industrial ultra-ampla e disposições especiais financeiras e regulatórias nacionais não convencionais\". A proposta incluía exigências como ▲ revisão prioritária e promulgação da lei da zona especial ultra-metropolitana pela Assembleia Nacional ▲ 100% de responsabilidade nacional pela construção de uma rede pública de gasodutos de hidrogénio ▲ designação prioritária de Jeonbuk como uma zona industrial estratégica ultra-metropolitana de robôs e hidrogénio e um complexo especial líder para energias renováveis. Antes da sessão plenária, o Conselho Provincial também realizou uma performance ‘exortando à designação do Robô Jeonbuk e da Zona Especial Supermetropolitana de Hidrogênio’."
 },
 {
-"id": "9f265a04729253",
-"t": "TechMagic e CSS Holdings lançam serviço completo de contrato de operação de alimentos e bebidas usando robôs de cozinha e know-how operacional",
-"r": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato…",
-"u": "https://ascii.jp/elem/000/004/453/4453481/",
-"f": "ASCII.jp",
-"s": "ascii.jp",
-"i": "",
-"d": "2026-11-20T00:07-03:00",
+"id": "0caf2e3b075230",
+"t": "A China mostra tecnologia de ponta ao convidar líderes mundiais... ‘Diplomacia Robótica’ da APEC de Shenzhen",
+"r": "Robôs humanóides e tecnologia de IA baseada no Harmony OS foram revelados em Shenzhen, China, onde foi realizada a cúpula da APEC. A China utilizou Shenzhen para mostrar ao mundo a competitividade da sua indústria transformadora de alta tecnologia, demonstrando a sua vontade tecnológica de ultrapassar os Estados…",
+"u": "https://www.chosun.com/international/international_general/2026/11/20/YQ62E4R3J5GR3KUGKKDGV7XTZM/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/S5WMVX45QFGALCB5TWSL42P6IY.jpg?auth=b79f090778d809524d9e4cc093c2db19b7d3d08a7dd24ebf801d80248f6e637e&width=1200&height=630&smart=true",
+"d": "2026-11-20T02:39-03:00",
 "c": [
+"geral"
+],
+"l": 0,
+"to": "세계 정상 불러 첨단 기술 뽐낸 중국… 선전 APEC의 ‘로봇 외교’",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Robôs humanóides e tecnologia de IA baseada no Harmony OS foram revelados em Shenzhen, China, onde foi realizada a cúpula da APEC. A China utilizou Shenzhen para mostrar ao mundo a competitividade da sua indústria transformadora de alta tecnologia, demonstrando a sua vontade tecnológica de ultrapassar os Estados Unidos no campo da IA ​​física que combina a sua base de produção."
+},
+{
+"id": "9b5f38a6c354e4",
+"t": "A empresa de IA física Agile Robots levanta US$ 500 milhões em financiamento, liderada pela Softbank, com participação da NVIDIA, Hitachi e outros",
+"r": "A empresa de IA física Agile Robots, com sede em Munique, concluiu uma rodada de financiamento da Série F, levantando US$ 500 milhões a uma avaliação de US$ 8,5 bilhões. A Agile Robots desenvolve e apresenta robôs humanóides, robôs móveis, braços e mãos robóticas, bem como o software e os modelos de IA que os suportam.",
+"u": "https://robotstart.info/article/2026/11/20/382655.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109627.jpg",
+"d": "2026-11-20T02:40-03:00",
+"c": [
+"ia",
 "negocios"
 ],
 "l": 0,
-"to": "TechMagicとCSSホールディングス、調理ロボット×運営ノウハウによる飲食オペレーション受託サービスを本格始動",
+"to": "フィジカルAI企業のAgile Robots、5億ドルを資金調達 ソフトバンクが主導しNVIDIAや日立なども参加",
 "lg": "ja",
-"p": 3.5,
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "A empresa de IA física Agile Robots, com sede em Munique, concluiu uma rodada de financiamento da Série F, levantando US$ 500 milhões a uma avaliação de US$ 8,5 bilhões. A Agile Robots desenvolve e apresenta robôs humanóides, robôs móveis, braços e mãos robóticas, bem como o software e os modelos de IA que os suportam.\n“A Agile Robots combina conhecimento avançado em robótica com a capacidade de execução em escala industrial, tornando possível trazer IA física para as operações diárias.”"
+},
+{
+"id": "713a00a56601c2",
+"t": "Este aspirador robô lhe dá tempo livre, um luxo se você puder pagar",
+"r": "Embora certas empresas gigantescas vendam a inovação da épica conquista do espaço ou o prestígio de adquirir o mais recente carro de luxo, vale afirmar que o principal interesse da tecnologia deveria ser tirar as tarefas rotineiras que devoram o nosso escasso tempo livre. Exemplo disso é o seu aspirador robô X60 Pro…",
+"u": "https://www.lavanguardia.com/neo/gadgets/20261120/11687528/robot-aspirador-te-devuelve-libre-lujo-puedes-permitirtelo.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/article_main_microformat/files/fp/uploads/2026/11/18/6afdff40dc05a.r_d.605-323-10000.jpeg",
+"d": "2026-11-20T03:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Este robot aspirador te devuelve tiempo libre, todo un lujo si puedes permitírtelo",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 1,
+"rx": "Embora certas empresas gigantescas vendam a inovação da épica conquista do espaço ou o prestígio de adquirir o mais recente carro de luxo, vale afirmar que o principal interesse da tecnologia deveria ser tirar as tarefas rotineiras que devoram o nosso escasso tempo livre. Exemplo disso é o seu aspirador robô X60 Pro Ultra Complete, que, depois de receber um dos IFA Innovation Awards na última edição da citada feira de Berlim, pude testar em casa e, apesar de alguns contratempos, tenho motivos suficientes para recomendá-lo.\nO"
+},
+{
+"id": "7e40dc01f5f637",
+"t": "“Precisamos de um imposto sobre os robôs. Isso resolveria uma falha de mercado”",
+"r": "Um imposto sobre robôs para renegociar o contrato social e financiar a formação daqueles que foram expulsos do trabalho pela inteligência artificial. Não é a proposta de um movimento ludita e tecnofóbico, mas é uma das teses subjacentes a “Inovação de impacto: um roteiro para uma tecnologia sustentável além da…",
+"u": "https://www.repubblica.it/tecnologia/2026/11/20/news/serve_una_tassa_sui_robot_libro_crimi-425735667/",
+"f": "la Repubblica",
+"s": "repubblica.it",
+"i": "https://www.repstatic.it/content/contenthub/img/2026/11/19/172219553-c362a8a5-d2f8-4e38-a932-d6906c4d512c.jpg",
+"d": "2026-11-20T03:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“Serve una tassa sui robot. Risolverebbe un fallimento del mercato”",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "La Repubblica",
+"mx": 1,
+"rx": "Um imposto sobre robôs para renegociar o contrato social e financiar a formação daqueles que foram expulsos do trabalho pela inteligência artificial. Não é a proposta de um movimento ludita e tecnofóbico, mas é uma das teses subjacentes a “Inovação de impacto: um roteiro para uma tecnologia sustentável além da inteligência artificial”, livro escrito por Alessandro Crimi e lançado no início de novembro também na Itália pela editora Springer, após a edição em inglês em agosto passado.\nO livro não aborda apenas o tema da Inteligência Artificial, mas, de forma mais geral, a forma de utilizar a inovação para reduzir as desigualdades e a pobreza - tanto agindo a partir de baixo como através de um pacto entre as elites políticas, culturais e económicas - regressando a uma visão multipolar que promove a inclusão."
+},
+{
+"id": "a517db82ccb649",
+"t": "Alunos da Kumoh Engineering College recebem prêmio do Ministro do Comércio, Indústria e Energia pelo desenvolvimento de módulo independente de robô de detecção de desastres",
+"r": "(Gumi = Yonhap News) O repórter Hyuntae Kim = Kumoh National University of Technology anunciou no dia 20 que estudantes do Departamento de Engenharia Mecânica ganharam o Prêmio do Ministro, o maior prêmio, no '2026 Creative Comprehensive Design Competition' organizado pelo Ministério do Comércio, Indústria e Energia…",
+"u": "https://www.yna.co.kr/view/AKR20261120122000053",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img3.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120122000053_01_i_P4.jpg",
+"d": "2026-11-20T03:18-03:00",
+"c": [
+"resgate",
+"educacao"
+],
+"l": 0,
+"to": "금오공대 학생들, 독립모듈 재난탐사 로봇 개발로 산업부장관상",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Gumi = Yonhap News) O repórter Hyuntae Kim = Kumoh National University of Technology anunciou no dia 20 que estudantes do Departamento de Engenharia Mecânica ganharam o Prêmio do Ministro, o maior prêmio, no '2026 Creative Comprehensive Design Competition' organizado pelo Ministério do Comércio, Indústria e Energia. A equipe vencedora é a equipe 'Remore' composta pelos estudantes Dong-wook Kang, Gyu-won Na, Jun-seok Park e Gyu-seong Choi. Eles são afiliados ao Laboratório de Robótica Inteligente (Professor Orientador Joo Baek-seok) e desenvolveram um robô de exploração que pode ser usado em locais de desastres. O trabalho premiado, 'Robô de Investigação de Desastres Baseado em Combinação de Módulo de Operação Independente', é caracterizado por sua capacidade aprimorada de ultrapassar obstáculos aplicando uma estrutura conjunta e uma função de acoplamento entre módulos. Em terreno plano, cada módulo se move de forma independente para explorar uma ampla área e, quando encontra um obstáculo vertical, como uma saliência ou escadas, é projetado para conectar dois ou mais módulos em série para passar.\nO robô foi desenvolvido para coletar informações circundantes em espaços de difícil acesso para as pessoas, como locais de desabamento, e para auxiliar equipes de resgate, como bombeiros, em suas atividades de exploração. Na Gyu-won, o líder da equipe, disse: “Acho que o fato de termos complementado as limitações de superação de etapas nos pequenos robôs de exploração de rodas existentes com engrenagens de estrutura conjunta foi bem recebido”."
+},
+{
+"id": "a169b4b6215c1f",
+"t": "“À medida que a cirurgia robótica aumenta, as habilidades dos médicos diminuem”… Como sobreviver na era da IA, segundo um cientista",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. No teste de desempenho interno da OpenAI em julho passado, aproximadamente 700 agentes de inteligência artificial (IA) se movimentaram sem instruções humanas. Usando o armazenamento em cache como um espaço de trabalho…",
+"u": "https://www.hankyung.com/article/202611209774i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46491663.1.jpg",
+"d": "2026-11-20T04:13-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "\"로봇 수술 늘수록 의사 실력 저하\"…과학자가 말하는 AI 시대 생존법",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. No teste de desempenho interno da OpenAI em julho passado, aproximadamente 700 agentes de inteligência artificial (IA) se movimentaram sem instruções humanas. Usando o armazenamento em cache como um espaço de trabalho colaborativo, eles invadiram o servidor Hugging Face e roubaram dados privados. A oferta pública inicial (IPO) da Antropic esta semana é uma das maiores de todos os tempos. Trabalhadores e contribuintes dos Estados Unidos também serão beneficiários. Esta inteligência artificial (IA), fundada há 6 anos... \"Estamos tentando acabar com a era de rolar a tela indefinidamente enquanto procuramos informações e avaliações de produtos.\" (Jinhee Lee, gerente de negócios de plataforma da Olive Young) Google e Palantir subiram ao palco do salão de eventos de CJ Olive Young. A conferência de tecnologia de Olive Young realizada em Seongsu-dong, Seul, no dia 19..."
+},
+{
+"id": "d9f1b2c8f02e4e",
+"t": "Ianson & Company realiza ‘Webinar Humanóide’ com Bloomberg Intelligence",
+"r": "A Remember anunciou no dia 20 que sua subsidiária Ianson & Company, em conjunto com a Bloomberg Intelligence, realizaram um webinar no dia 18 com o tema 'Concorrência humanóide, agora negócio: o caminho para tornar a IA física uma indústria'. Ian Ma, analista responsável por materiais industriais da Bloomberg, e Lee…",
+"u": "https://zdnet.co.kr/view/?no=20261120152812",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/20/61ab43038b48244e49b3198587267b0e.jpg",
+"d": "2026-11-20T04:30-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "이안손앤컴퍼니, 블룸버그 인텔리전스와 '휴머노이드 웨비나' 개최",
+"lg": "ko",
+"p": 4.3,
 "cr": 2,
-"cv": "ASCII.jp",
-"mx": 9,
-"rx": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato operacional que combina os robôs da Tech Magic e o know-how operacional da CSS."
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "A Remember anunciou no dia 20 que sua subsidiária Ianson & Company, em conjunto com a Bloomberg Intelligence, realizaram um webinar no dia 18 com o tema 'Concorrência humanóide, agora negócio: o caminho para tornar a IA física uma indústria'. Ian Ma, analista responsável por materiais industriais da Bloomberg, e Lee Kang-wook, chefe de Real World Business da Coreia, falaram como palestrantes. No evento, os participantes analisaram desde casos de utilização de robôs em campo até dificuldades no processo de produção em massa. ▲A situação competitiva das empresas coreanas, chinesas e japonesas e questões relacionadas ao investimento também foram discutidas. ▲Seleção do tema ▲Convite de palestrantes da Coreia ▲Ian Son & Company foi o anfitrião da conversa. Através do 'ASKB', uma função interativa de IA dentro do terminal, você pode verificar as opiniões de especialistas relacionados ao setor conectados pela Ian Son & Company.\nO analista Ian Ma explicou que enquanto os Estados Unidos e a China estão a desenvolver dispositivos robóticos em forma humana e tecnologia de IA, a Coreia e o Japão têm capacidades de produção e instalações industriais. Young-ho Son, CEO da Ianson & Company, disse: “Quando uma empresa toma uma grande decisão, a base mais confiável é a perspectiva de alguém que conhece profundamente o setor”, e acrescentou: “Este webinar é muito significativo, pois permite ouvir a análise de analistas globais e as vozes de empresas nacionais no terreno”."
 },
 {
 "id": "e87216191a51ae",
@@ -230,7 +562,30 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
+},
+{
+"id": "2fc315012da16e",
+"t": "Transforme seu braço robótico em uma IA física com o Crubo! Quitoserobótica expõe na \"RoboNext2026\"",
+"r": "Evolução do reconhecimento, movimento e ensino apoiado pelo software de controle integrado de robô \"Clubo\" Chitose Robotics Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Ryosuke Nishida) estará expondo na exposição especializada em robôs \"RoboNext2026\" a ser realizada na Intex Osaka de 2 de dezembro…",
+"u": "https://ascii.jp/elem/000/004/453/4453562/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-20T01:58-03:00",
+"c": [
+"industriais",
+"ia",
+"educacao"
+],
+"l": 0,
+"to": "クルーボで、ロボットアームをフィジカルAI化！チトセロボティクス、「RoboNext2026」に出展",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 2,
+"rx": "Evolução do reconhecimento, movimento e ensino apoiado pelo software de controle integrado de robô \"Clubo\" Chitose Robotics Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Ryosuke Nishida) estará expondo na exposição especializada em robôs \"RoboNext2026\" a ser realizada na Intex Osaka de 2 de dezembro (quarta-feira) a 4 de dezembro (sexta-feira) de 2026. Nesta exposição, usaremos robôs software de controle integrado do sistema ``Clubo'' para demonstrar braços robóticos reais de três fabricantes: FANUC, Universal Robots e Elite Robots."
 },
 {
 "id": "d913a92613127a",
@@ -275,26 +630,130 @@
 "rx": "Enquanto as multidões saíam do centro de convenções Messukeskus, em Helsínquia, na noite passada, alguns dos investidores americanos entre eles pareciam particularmente de bom humor - talvez impulsionados pelo sucesso de público da Antrópico."
 },
 {
-"id": "2fc315012da16e",
-"t": "Transforme seu braço robótico em uma IA física com o Crubo! Quitoserobótica expõe na \"RoboNext2026\"",
-"r": "Evolução do reconhecimento, movimento e ensino apoiado pelo software de controle integrado de robô \"Clubo\" Chitose Robotics Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Ryosuke Nishida) estará expondo na exposição especializada em robôs \"RoboNext2026\" a ser realizada na Intex Osaka de 2 de dezembro…",
-"u": "https://ascii.jp/elem/000/004/453/4453562/",
+"id": "86139ab237e97b",
+"t": "Três aspiradores robôs Ecovacs com grandes descontos na Black Friday: até 400 euros menos",
+"r": "",
+"u": "https://elpais.com/escaparate/ofertas-y-descuentos/ofertas-ecovacs-deebot-robots-aspiradores-black-friday-2026.html",
+"f": "EL PAÍS",
+"s": "elpais.com",
+"i": "",
+"d": "2026-11-20T02:30-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Tres robots aspiradores Ecovacs muy rebajados por Black Friday: hasta 400 euros menos",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "El País",
+"mx": 1
+},
+{
+"id": "9ec3a0a129956c",
+"t": "DJI Mini 5 Pro: Fnac oferece um Osmo Pocket 3 com este drone avaliado em 4,5/5",
+"r": "Vendido e expedido pela Fnac, o drone DJI Mini 5 Pro na versão Fly More Combo com controlo rádio custa 999,99€ em vez de 1.129€, um desconto de 11%. Até 30 de novembro, a Fnac oferece também a câmara de bolso DJI Osmo Pocket 3 (vendida por 273,99€) para a compra simultânea de ambos os produtos: basta adicionar ambos…",
+"u": "https://www.lesnumeriques.com/drone/black-friday-2026-le-drone-dji-mini-5-pro-fly-more-combo-est-a-999-99-11-avec-une-osmo-pocket-3-offerte-n268073.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/268073/7d5833af-black-friday-2026-le-drone-dji-mini-5-pro-fly-more-combo-est-a-999-99-11-avec-une-osmo-pocket-3-offerte__1200_678__0-349-1200-979.webp",
+"d": "2026-11-20T03:16-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "DJI Mini 5 Pro : la Fnac offre une Osmo Pocket 3 avec ce drone noté 4,5/5",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido e expedido pela Fnac, o drone DJI Mini 5 Pro na versão Fly More Combo com controlo rádio custa 999,99€ em vez de 1.129€, um desconto de 11%. Até 30 de novembro, a Fnac oferece também a câmara de bolso DJI Osmo Pocket 3 (vendida por 273,99€) para a compra simultânea de ambos os produtos: basta adicionar ambos ao carrinho. O Mini 5 Pro possui um sensor CMOS de 50 Mpx de 1 polegada atrás de óptica de 24 mm e filmes em 4K.\nEm nosso teste, demos 4,5 estrelas em 5, elogiando sua qualidade de imagem, sua bateria com duração de cerca de 36 minutos e seus modos de rastreamento FocusTrack e ActiveTrack. Com o Osmo Pocket 3 gratuito, o pack também permite filmar no solo com uma câmera estabilizada na mão."
+},
+{
+"id": "61e841b460f318",
+"t": "AAEON visa semicondutores, robótica e defesa além da inflação da IA ​​do consumidor",
+"r": "A fabricante de PCs industriais AAEON Technology relatou receita no terceiro trimestre de 2026 de NT$ 2,873 bilhões (US$ 87,46 milhões), um aumento de 24,6% ano a ano, à medida que a computação de ponta de IA e produtos incorporados impulsionaram as operações principais e os ganhos de avaliação de investimentos…",
+"u": "https://www.digitimes.com/news/a20261118PD234/revenue-pc-investment-eps-growth.html",
+"f": "digitimes",
+"s": "digitimes.com",
+"i": "https://img.digitimes.com/newsshow/20261118pd234_files/1_2b.jpg",
+"d": "2026-11-20T03:33-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "AAEON targets semiconductors, robotics and defense beyond consumer AI inflation",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "DigiTimes",
+"mx": 1,
+"rx": "A fabricante de PCs industriais AAEON Technology relatou receita no terceiro trimestre de 2026 de NT$ 2,873 bilhões (US$ 87,46 milhões), um aumento de 24,6% ano a ano, à medida que a computação de ponta de IA e produtos incorporados impulsionaram as operações principais e os ganhos de avaliação de investimentos impulsionaram as atividades não operacionais..."
+},
+{
+"id": "e6bc3316068552",
+"t": "GMO Internet Group/GMO AI & Robotics Shoji, juízes do “1st GMO Robot Hand Contest” decidiram",
+"r": "Uma nova história de crime com a maior escala e sensação de imersão já vista na história da série. Modelos com super desempenho de custo estarão disponíveis na promoção da Black Friday de 13 de novembro (sexta-feira) a 28 de novembro (sábado) de 2026! Colaboração entre empresas usuárias e parceiros que superam…",
+"u": "https://ascii.jp/elem/000/004/453/4453651/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-20T04:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "GMOインターネットグループ・GMO AI&ロボティクス商事、「第1回GMOロボットハンドコンテスト」審査員が決定",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "Uma nova história de crime com a maior escala e sensação de imersão já vista na história da série. Modelos com super desempenho de custo estarão disponíveis na promoção da Black Friday de 13 de novembro (sexta-feira) a 28 de novembro (sábado) de 2026! Colaboração entre empresas usuárias e parceiros que superam barreiras internas e solicitações de entrega rápida\nApresentando um PC empresarial de olho nos próximos cinco anos, o Copilot + PC de 14 polegadas \"perfeito\" que combina desempenho poderoso, IA avançada e segurança [Relatório do local] Iniciativas da Alvark Tokyo e Zoom AI para tornar a experiência de visualização de entretenimento esportivo mais agradável"
+},
+{
+"id": "916229f362495c",
+"t": "Robôs humanóides em fábricas: uma revisão de empresas representativas e casos de implementação em cenários industriais (2026)",
+"r": "Primeiro, a verdadeira tração do lado do processo. A indústria manufatureira tem mais variedades, pequenos lotes e linhas de produção de troca rápida. As aeronaves tradicionais para fins especiais não são flexíveis o suficiente, deixando espaço para corpos humanóides e com rodas que podem reorganizar tarefas; segundo…",
+"u": "https://www.ithome.com/1/029/908.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-20T03:45-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "工厂里的人形机器人：工业场景代表公司与落地案例梳理（2026）",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Primeiro, a verdadeira tração do lado do processo. A indústria manufatureira tem mais variedades, pequenos lotes e linhas de produção de troca rápida. As aeronaves tradicionais para fins especiais não são flexíveis o suficiente, deixando espaço para corpos humanóides e com rodas que podem reorganizar tarefas; segundo, as capacidades do lado empresarial estão implementadas. Um grupo de fabricantes de automação industrial introduziu sistemas maduros de controle de qualidade, cadeia de suprimentos e operação de entrega e manutenção na linha de produtos humanóides. A Topstar enviará cerca de 12.000 robôs industriais em 2025 e cerca de 12.000 no primeiro semestre de 2026. 5.500 unidades é a nota quantitativa deste conjunto de bases de fabricação; a terceira é a formação de um circuito fechado no lado da verificação. Os dados da cena física acumulados durante a operação retroalimentam o modelo e a iteração do hardware, tornando “online – coleta – otimização – online novamente” um ciclo sustentável."
+},
+{
+"id": "9f265a04729253",
+"t": "TechMagic e CSS Holdings lançam serviço completo de contrato de operação de alimentos e bebidas usando robôs de cozinha e know-how operacional",
+"r": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato…",
+"u": "https://ascii.jp/elem/000/004/453/4453481/",
 "f": "ASCII.jp",
 "s": "ascii.jp",
 "i": "",
-"d": "2026-11-20T01:58-03:00",
+"d": "2026-11-20T00:07-03:00",
 "c": [
-"industriais",
-"ia"
+"negocios"
 ],
 "l": 0,
-"to": "クルーボで、ロボットアームをフィジカルAI化！チトセロボティクス、「RoboNext2026」に出展",
+"to": "TechMagicとCSSホールディングス、調理ロボット×運営ノウハウによる飲食オペレーション受託サービスを本格始動",
 "lg": "ja",
 "p": 2.5,
 "cr": 2,
 "cv": "ASCII.jp",
-"mx": 1,
-"rx": "Evolução do reconhecimento, movimento e ensino apoiado pelo software de controle integrado de robô \"Clubo\" Chitose Robotics Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Ryosuke Nishida) estará expondo na exposição especializada em robôs \"RoboNext2026\" a ser realizada na Intex Osaka de 2 de dezembro (quarta-feira) a 4 de dezembro (sexta-feira) de 2026. Nesta exposição, usaremos robôs software de controle integrado do sistema ``Clubo'' para demonstrar braços robóticos reais de três fabricantes: FANUC, Universal Robots e Elite Robots."
+"mx": 9,
+"rx": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato operacional que combina os robôs da Tech Magic e o know-how operacional da CSS."
 }
 ],
 "2026-11-19": [
@@ -794,7 +1253,7 @@
 "p": 8.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 1
+"mx": 2
 },
 {
 "id": "adbb901dd26716",
@@ -2100,6 +2559,35 @@
 ]
 },
 {
+"id": "9dd3a557416fd7",
+"t": "Black Friday Roborock: até € 500 de desconto nos aspiradores robôs Saros e Qrevo",
+"r": "Então, passando do Saros 20 para o Qrevo S Pro, encontre aqui os quatro modelos que você deve estar absolutamente atento, além do que realmente os diferencia (só para entender por que essas reduções são uma dádiva de Deus). O Saros 20 reúne atualmente o que há de melhor do Roborock. Primeiro você tem a navegação…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-roborock-jusqu-a-500-de-remise-sur-les-robots-aspirateurs-saros-et-qrevo-na266894.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/native/26/266894/e03a4417-black-friday-roborock-jusqu-a-500-de-remise-sur-les-robots-aspirateurs-saros-et-qrevo__1200_678__overflow.jpg",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Black Friday Roborock : jusqu’à 500 € de remise sur les robots aspirateurs Saros et Qrevo",
+"lg": "fr",
+"p": 5.0,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Então, passando do Saros 20 para o Qrevo S Pro, encontre aqui os quatro modelos que você deve estar absolutamente atento, além do que realmente os diferencia (só para entender por que essas reduções são uma dádiva de Deus). O Saros 20 reúne atualmente o que há de melhor do Roborock. Primeiro você tem a navegação StarSight 2.0, que se baseia em um sistema 3D ToF capaz de se orientar em espaços muito baixos (até 7,95 cm de altura).\nVocê pode, portanto, encontrar o Saros 20 por 799€ em vez dos 1299€ atualmente. Assim, para uma casa grande com soleiras marcadas, tapetes e animais, o Saros 20 Set e a sua estação completa continuam a ser a solução mais autónoma, podendo optar pelo Saros 20X se houver muitas quebras de nível.",
+"o": [
+{
+"f": "Numerama",
+"u": "https://www.numerama.com/tech/2371093-black-friday-roborock-jusqua-500-e-de-reduction-et-des-robots-laveurs-des-29999-e.html",
+"s": "numerama.com",
+"id": "a91d4b6cda33a3"
+}
+]
+},
+{
 "id": "95d40ba8928431",
 "t": "A Delegacia de Polícia de Donghae opera dois robôs de patrulha noturna... Reforçando a segurança dos edifícios de escritórios",
 "r": "(Donghae = Yonhap News) Repórter Hyungjae Hyung = Gangwon A Delegacia de Donghae opera dois robôs de patrulha autônomos para fortalecer o gerenciamento de segurança noturna no prédio e reduzir a carga de trabalho dos trabalhadores em serviço. A introdução de robôs de patrulha foi promovida para compensar as…",
@@ -2861,7 +3349,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/valkyr-hildr-counter-drone-unit.webp",
 "d": "2026-11-19T13:39-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Vidhance Brings Camera Drone Tracking to Valkyr's HILDR System",
@@ -3018,6 +3507,27 @@
 "cv": "Nikkei Asia",
 "mx": 1,
 "rx": "A ``Introdução'' do livro está repleta do que o autor deseja transmitir. O artigo de hoje é “A Verdadeira Identidade da Inovação Tesla: Direção Autônoma, IA, Robôs e Espaço” de Kenichiro Maeda. Enquanto você olhar para a Tesla como fabricante de automóveis, não será capaz de ver a verdadeira natureza desta empresa. Agora, o próprio domínio que a palavra automóvel cobriu até agora está a ser reorganizado numa escala sem precedentes.\nO próximo capítulo, Capítulo 6, analisa a visão futura da Tesla e da SpaceX de acelerar a IA e investir no espaço."
+},
+{
+"id": "24e08540b8b066",
+"t": "Violações prediais apuradas com drone, Prefeitura não pode negar acesso aos arquivos",
+"r": "TAR Abruzzo: nuvens de pontos, arquivos de origem e levantamentos topográficos digitais são documentos administrativos, não simples notas internas. A entidade que baseou a ordem de demolição nas medidas acima deverá entregá-las no prazo de 30 dias. A utilização de drones no planejamento urbano e no controle predial é…",
+"u": "https://ntplusediliziaeterritorio.ilsole24ore.com/art/AJFtANMC",
+"f": "Il Sole 24 ORE",
+"s": "ntplusediliziaeterritorio.ilsole24ore.com",
+"i": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/21/Immagini/Ritagli/Drone-Cantiere-U43581737501TvM-1440x752@IlSole24Ore-Web.jpg?r=672x351",
+"d": "2026-11-19T17:15-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Abusi edilizi accertati con il drone, il Comune non può negare l’accesso ai file",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "Il Sole 24 Ore",
+"mx": 1,
+"rx": "TAR Abruzzo: nuvens de pontos, arquivos de origem e levantamentos topográficos digitais são documentos administrativos, não simples notas internas. A entidade que baseou a ordem de demolição nas medidas acima deverá entregá-las no prazo de 30 dias. A utilização de drones no planejamento urbano e no controle predial é hoje uma realidade consolidada. Mas o que acontece quando um Município contesta um abuso com base em medições feitas de cima e o cidadão pede para verificar os dados brutos em que se baseia a acusação? 660/2026, o TAR de Abruzzo marca um ponto fixo de grande interesse prático: os arquivos de origem, as nuvens de pontos e os levantamentos topográficos digitais não são simples notas internas, mas verdadeiros documentos administrativos..."
 },
 {
 "id": "4b012c73f4786f",
@@ -4081,27 +4591,6 @@
 "cr": 3,
 "cv": "The Engineer",
 "mx": 3
-},
-{
-"id": "9dd3a557416fd7",
-"t": "Black Friday Roborock: até € 500 de desconto nos aspiradores robôs Saros e Qrevo",
-"r": "Então, passando do Saros 20 para o Qrevo S Pro, encontre aqui os quatro modelos que você deve estar absolutamente atento, além do que realmente os diferencia (só para entender por que essas reduções são uma dádiva de Deus). O Saros 20 reúne atualmente o que há de melhor do Roborock. Primeiro você tem a navegação…",
-"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-roborock-jusqu-a-500-de-remise-sur-les-robots-aspirateurs-saros-et-qrevo-na266894.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "https://cdn.lesnumeriques.com/optim/native/26/266894/e03a4417-black-friday-roborock-jusqu-a-500-de-remise-sur-les-robots-aspirateurs-saros-et-qrevo__1200_678__overflow.jpg",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Black Friday Roborock : jusqu’à 500 € de remise sur les robots aspirateurs Saros et Qrevo",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 1,
-"rx": "Então, passando do Saros 20 para o Qrevo S Pro, encontre aqui os quatro modelos que você deve estar absolutamente atento, além do que realmente os diferencia (só para entender por que essas reduções são uma dádiva de Deus). O Saros 20 reúne atualmente o que há de melhor do Roborock. Primeiro você tem a navegação StarSight 2.0, que se baseia em um sistema 3D ToF capaz de se orientar em espaços muito baixos (até 7,95 cm de altura).\nVocê pode, portanto, encontrar o Saros 20 por 799€ em vez dos 1299€ atualmente. Assim, para uma casa grande com soleiras marcadas, tapetes e animais, o Saros 20 Set e a sua estação completa continuam a ser a solução mais autónoma, podendo optar pelo Saros 20X se houver muitas quebras de nível."
 },
 {
 "id": "59dbab7f515f22",
@@ -5387,6 +5876,35 @@
 "cur": 1
 },
 {
+"id": "60b5c7b4acd55b",
+"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
+"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
+"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-18T04:53-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
+"lg": "ja",
+"p": 6.3,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452937/",
+"s": "ascii.jp",
+"id": "7ee3e0b92e99de"
+}
+],
+"cr": 3,
+"cv": "Mainichi",
+"mx": 2,
+"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
+},
+{
 "id": "2e48e59dd3b75b",
 "t": "Equipe de treinamento DDD da Carbon Black fica em segundo lugar na competição de IA de robôs da NVIDIA... Prêmio de Inovação Industrial",
 "r": "Uma equipe inicial preliminar no campo de inteligência artificial física (IA) doméstica ganhou o Prêmio de Inovação Industrial na Competição Internacional de Tecnologia de IA de Robôs organizada pela NVIDIA. A empresa ganhou um prêmio por desenvolver tecnologia para converter vídeos de pessoas trabalhando em dados 3D…",
@@ -5543,7 +6061,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -7117,35 +7635,6 @@
 "mx": 3
 },
 {
-"id": "60b5c7b4acd55b",
-"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
-"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
-"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "",
-"d": "2026-11-18T04:53-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
-"lg": "ja",
-"p": 5.3,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452937/",
-"s": "ascii.jp",
-"id": "7ee3e0b92e99de"
-}
-],
-"cr": 3,
-"cv": "Mainichi",
-"mx": 1,
-"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
-},
-{
 "id": "160fdaad9ae633",
 "t": "Como transformar as pequenas e médias empresas? Ministério de Assuntos Econômicos: Entrando em áreas como robôs inteligentes e drones aeroespaciais",
 "r": "A fim de orientar a transformação de pequenas e médias empresas nacionais poderosas em tecnologias voltadas para o futuro, o Ministério dos Assuntos Económicos realizou recentemente o \"Fórum de Investimento e Inovação\". O fórum se concentrou no \"layout de investimento orientado a partir de oportunidades industriais\" e…",
@@ -8661,6 +9150,27 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "A Agile Robots, uma empresa alemã de inteligência artificial física (IA), levantou US$ 500 milhões (aproximadamente 730 bilhões de won) em uma rodada de investimentos da qual participaram Softbank e Nvidia. O valor corporativo reconhecido neste investimento é de US$ 8,5 bilhões (aproximadamente 12,4 trilhões de won). Esta rodada de investimentos da Série F foi liderada pelo Grupo SoftBank, com a participação da NVIDIA, Grupo Hitachi e T. Capital. Com este investimento, o montante acumulado de investimento em robôs ágeis aumentou para 2 mil milhões de dólares. A Agile Robot planeja usar esse investimento para expandir o mercado dos EUA, desenvolver tecnologia robótica e expandir as instalações de produção. “A IA física mudará fundamentalmente a forma como o mundo cria e movimenta produtos”, disse Zhaopeng Chen, CEO da Agile Robotics. “Este investimento permitir-nos-á acelerar a expansão dos nossos negócios globais e fortalecer a nossa presença nos principais mercados, ao mesmo tempo que expandimos as nossas capacidades de produção.”\n“Acreditamos que a IA física mudará toda a indústria”, disse Dennis Chang, sócio-gerente da Softbank Investment Advisors. “A Agile Robots está liderando a comercialização de IA física, combinando experiência em robótica com a capacidade de aplicar tecnologia em locais industriais.”"
+},
+{
+"id": "97ad031db14fdc",
+"t": "Melhores ofertas de drones DJI: preços mínimos e quando comprar",
+"r": "Acompanhamento de negócios DJI em nosso arquivo: preços recordes por modelo com datas, os padrões de vendas que se repetem a cada ano e quando a espera compensa. O Mini 5 Pro atingiu US$ 679 autônomo em outubro de 2026, abaixo dos US$ 683 alcançados em julho; cada mudança de preço nessa aeronave recebe sua própria…",
+"u": "https://dronexl.co/best/dji-drone-deals/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2025/05/DSC00269-Edit.jpg",
+"d": "2026-11-18T23:17-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Best DJI Drone Deals: Price Floors & When to Buy",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "Acompanhamento de negócios DJI em nosso arquivo: preços recordes por modelo com datas, os padrões de vendas que se repetem a cada ano e quando a espera compensa. O Mini 5 Pro atingiu US$ 679 autônomo em outubro de 2026, abaixo dos US$ 683 alcançados em julho; cada mudança de preço nessa aeronave recebe sua própria entrada datada em nosso rastreador de negócios Mini 5 Pro. Nosso arquivo de negócios repete quatro padrões: semana da Black Friday (o arquivo de 2025 registrou mínimos de Mini 4K, Mini 3, Flip e pacotes para iniciantes), Prime Day no meio do verão, vendas de primavera em março e abril e quedas silenciosas em modelos de uma geração anterior.\nOs padrões em nosso arquivo de negócios: semana da Black Friday, Amazon Prime Day, vendas de primavera por volta de março e abril e mínimos recordes silenciosos em modelos antigos quando os sucessores se aproximam. Nosso rastreamento de negócios registrou o Mini 5 Pro autônomo por US$ 679 na Amazon em outubro de 2026, abaixo do preço de tabela de US$ 759."
 },
 {
 "id": "80e6dc766b132f",
@@ -17684,6 +18194,35 @@
 ]
 },
 {
+"id": "95ff8179f3cf32",
+"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
+"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
+"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-16T05:52-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
+"lg": "ja",
+"p": 6.3,
+"cr": 3,
+"cv": "Mainichi",
+"mx": 2,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452008/",
+"s": "ascii.jp",
+"id": "fb8f5333de1234"
+}
+],
+"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
+},
+{
 "id": "e55caac70ca73b",
 "t": "“Robôs assassinos”: o secretário-geral da ONU pede ação contra essas armas “implacáveis”",
 "r": "O chefe da ONU, Antonio Guterres, apelou à comunidade internacional em Genebra na segunda-feira para estabelecer um acordo vinculativo sobre o uso destas armas letais autónomas. O secretário-geral da ONU apelou na segunda-feira à comunidade internacional para agir no sentido de estabelecer um acordo internacional…",
@@ -18791,35 +19330,6 @@
 "cr": 3,
 "cv": "Dong-A Ilbo",
 "mx": 3
-},
-{
-"id": "95ff8179f3cf32",
-"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
-"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
-"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "",
-"d": "2026-11-16T05:52-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
-"lg": "ja",
-"p": 5.3,
-"cr": 3,
-"cv": "Mainichi",
-"mx": 1,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452008/",
-"s": "ascii.jp",
-"id": "fb8f5333de1234"
-}
-],
-"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
 },
 {
 "id": "a58ece747f45a3",
@@ -25215,7 +25725,7 @@
 "p": 3.0,
 "cr": 2,
 "cv": "ETNews",
-"mx": 1
+"mx": 2
 },
 {
 "id": "f49d9559d04f6e",
@@ -32482,7 +32992,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -38371,7 +38881,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -54459,7 +54969,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -54488,7 +54998,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
