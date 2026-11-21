@@ -230,6 +230,41 @@
 ]
 },
 {
+"id": "de6df14219fa68",
+"t": "Países abrem caminho para pacto de 'robôs assassinos' - Internacional - Mundo",
+"r": "Após cinco dias de conversações nas Nações Unidas, que se prolongaram por horas extraordinárias, os estados concordaram em construir alguma forma de pacto ao longo dos próximos dois anos.",
+"u": "https://english.ahram.org.eg/News/582987.aspx",
+"f": "Ahram Online",
+"s": "english.ahram.org.eg",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575310.jpg?v=3.1",
+"d": "2026-11-21T04:16-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Countries open path towards 'killer robots' pact - International - World",
+"lg": "en",
+"p": 7.8,
+"cr": 3,
+"cv": "Ahram Online",
+"mx": 2,
+"o": [
+{
+"f": "The Japan Times",
+"u": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+"s": "japantimes.co.jp",
+"id": "76454525572d5c"
+},
+{
+"f": "The Australian",
+"u": "https://www.theaustralian.com.au/news/latest-news/countries-open-path-towards-killer-robots-pact/news-story/ed64cf4323fc2a168d7e6dd6b787a117",
+"s": "theaustralian.com.au",
+"id": "b556207d90f113"
+}
+],
+"rx": "Após cinco dias de conversações nas Nações Unidas, que se prolongaram por horas extraordinárias, os estados concordaram em construir alguma forma de pacto ao longo dos próximos dois anos."
+},
+{
 "id": "945627b3416e70",
 "t": "China emite cinco padrões para robôs humanóides cobrindo testes",
 "r": "O Ministério da Indústria e Tecnologia da Informação da China emitiu cinco padrões para robôs humanóides em 16 de novembro de 2026, abrangendo avaliação de capacidade, instalações de treinamento, dados de treinamento, juntas de acionamento elétrico integradas e mãos hábeis, de acordo com 36kr. As normas entraram em vigor na emissão e se enquadram no…",
@@ -272,35 +307,6 @@
 "cv": "Humanoid.guide",
 "mx": 1,
 "rx": "A Siemens e a AGIBOT demonstraram um fluxo de trabalho de agente de IA que utiliza uma descrição de tarefa escrita para adaptar uma garra de robô humanóide e preparar seu projeto para fabricação aditiva, de acordo com a 3D Printing Industry. O agente então seleciona um tipo de garra adequado, modifica sua geometria no Designcenter da Siemens, executa simulações e valida virtualmente a interface e o manuseio do robô.\nO fluxo de trabalho de design de garra humanóide usa integração MCP para permitir que o agente chame funções de software de engenharia e coordene as etapas individuais. Para aplicações humanóides, a demonstração aborda um problema específico de engenharia: produzir ferramentas adequadas ao objeto e à tarefa, em vez de depender de um único design de garra para cada aplicação."
-},
-{
-"id": "de6df14219fa68",
-"t": "Países abrem caminho para pacto de 'robôs assassinos' - Internacional - Mundo",
-"r": "Após cinco dias de conversações nas Nações Unidas, que se prolongaram por horas extraordinárias, os estados concordaram em construir alguma forma de pacto ao longo dos próximos dois anos.",
-"u": "https://english.ahram.org.eg/News/582987.aspx",
-"f": "Ahram Online",
-"s": "english.ahram.org.eg",
-"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575310.jpg?v=3.1",
-"d": "2026-11-21T04:16-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Countries open path towards 'killer robots' pact - International - World",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "Ahram Online",
-"mx": 2,
-"o": [
-{
-"f": "The Japan Times",
-"u": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
-"s": "japantimes.co.jp",
-"id": "76454525572d5c"
-}
-],
-"rx": "Após cinco dias de conversações nas Nações Unidas, que se prolongaram por horas extraordinárias, os estados concordaram em construir alguma forma de pacto ao longo dos próximos dois anos."
 },
 {
 "id": "d541dca07017de",
@@ -1011,7 +1017,7 @@
 "i": "https://biz.chosun.com/resizer/v2/PAT3LE3MTVAEJKVZVRZROXIOEA.jpg?auth=029461d8ea2a8f4295987d9f628c6d199ed6b496494742f98b24902f48f5af3c&width=1053&height=552&smart=true",
 "d": "2026-11-21T18:00-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계",
@@ -4208,6 +4214,27 @@
 "l": 0,
 "to": "청소년이 만든 로봇으로 응급상황 해결…로보틱스 대회 결선",
 "lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Seul = Yonhap News) Repórter Kwon Ha-young = Será realizada uma competição na qual estudantes do ensino fundamental, médio e médio de todo o país resolverão emergências de saúde com robôs que eles criaram e programaram. O Ministério da Ciência e TIC realizou a competição final do '2026 Youth Robotics Challenge' no Centro de P&D Hyundai Autoever [307950] em Gangnam-gu, Seul, no dia 21. Nesta competição, que se realiza no âmbito da 'Competição Nacional de IA', sob o tema 'Emergências de Saúde', os participantes irão realizar determinadas tarefas utilizando robôs que criaram num estádio simulando diversas situações de emergência. Cerca de 500 alunos de 135 equipas de 108 escolas de todo o país participaram na fase preliminar, que decorreu de 26 de agosto a 29 de setembro deste ano, e 114 alunos de 32 equipas avançaram para as finais.\nA equipe vencedora receberá apoio para participar como equipe nacional coreana na competição de robótica da União Internacional de Telecomunicações (UIT), 'Robotics for Good Youth Challenge', que será realizada em Genebra, Suíça, em junho do próximo ano."
+},
+{
+"id": "f979bb3ee68060",
+"t": "",
+"r": "(Seul = Yonhap News) Repórter Kwon Ha-young = Será realizada uma competição na qual estudantes do ensino fundamental, médio e médio de todo o país resolverão emergências de saúde com robôs que eles criaram e programaram. O Ministério da Ciência e TIC realizou a competição final do '2026 Youth Robotics Challenge' no…",
+"u": "https://www.yna.co.kr/amp/view/AKR20261120122400017",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img5.yna.co.kr/photo/cms/2026/09/10/74/PCM20260910000074083_P4.jpg",
+"d": "2026-11-20T23:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "청소년이 만든 로봇으로 응급상황 해결…로보틱스 대회 결선",
+"lg": "?",
 "p": 4.8,
 "cr": 3,
 "cv": "Yonhap",
@@ -11215,7 +11242,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -38685,7 +38712,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44574,7 +44601,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60662,7 +60689,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60691,7 +60718,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
