@@ -10,7 +10,8 @@
 "i": "https://cdn8.futura-sciences.com/a1920/images/robots-humanoides-optimus.png",
 "d": "2026-11-21T14:00-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"industriais"
 ],
 "l": 1,
 "to": "Tesla franchit une nouvelle étape avec Optimus : la production des premiers robots humanoïdes a débuté",
@@ -808,6 +809,27 @@
 "rx": "A Quantum Systems e a Frontline Robotics estão a comprometer mais de 10 milhões de euros para apoiar a capacidade na Ucrânia para os drones que a sua joint venture alemã constrói. A Quantum Frontline Industries quase concluiu um primeiro contrato para 10.000 sistemas Linza e ganhou um pedido maior para 2027 da Guarda Nacional da Ucrânia. Quantum Systems expande compromisso industrial com a Ucrânia à medida que joint venture amplia a produção de drones\nA Quantum Systems e a Frontline Robotics destinarão mais de 10 milhões de euros à Ucrânia, a fim de reforçar a capacidade de apoio a longo prazo para sistemas não tripulados. Berlim, Alemanha, 19 de novembro de 2026 – A Quantum Systems e a Frontline Robotics estão a expandir a sua cooperação industrial através de um programa de capacidade de apoio a longo prazo na Ucrânia, destinado a sistemas desenvolvidos pela Frontline Robotics e produzidos na Alemanha pela Quantum Frontline Industries (QFI)."
 },
 {
+"id": "4d3d8b4f825105",
+"t": "Outro país europeu dá luz verde aos carros autônomos da Tesla",
+"r": "A Itália deu aprovação provisória ao Sistema de Condução Assistida (TAD) da Tesla, disse o ministro dos Transportes, Matteo Salvini, na sexta-feira, tornando-o o primeiro grande país da União Europeia a adotar a tecnologia desenvolvida pelo fabricante de veículos elétricos dos EUA. A notícia chega no momento em que a…",
+"u": "https://www.independent.co.uk/news/world/europe/tesla-self-driving-cybercab-italy-eu-b3089170.html",
+"f": "The Independent",
+"s": "independent.co.uk",
+"i": "https://static.independent.co.uk/2026/11/21/14/2026-11-16T170715Z_1976712690_RC2WBOA6U2K1_RTRMADP_3_TESLA-GERMANY.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
+"d": "2026-11-21T11:50-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Another European country gives green light to Tesla self-driving cars",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Independent",
+"mx": 1,
+"rx": "A Itália deu aprovação provisória ao Sistema de Condução Assistida (TAD) da Tesla, disse o ministro dos Transportes, Matteo Salvini, na sexta-feira, tornando-o o primeiro grande país da União Europeia a adotar a tecnologia desenvolvida pelo fabricante de veículos elétricos dos EUA. A notícia chega no momento em que a Tesla encerrará a produção de Cybertruck em sua gigafábrica no Texas em meados de 2027, disse Musk, após anos de vendas persistentemente fracas de um modelo futurista que já foi apontado como rival das picapes tradicionais.\nEmbora não tenha ficado imediatamente claro se a produção do Cybertruck seria transferida para outra instalação ou totalmente eliminada, a fábrica da montadora em Austin é a única instalação conhecida da Tesla equipada para fabricar os componentes especializados para o modelo pesado e angular."
+},
+{
 "id": "f8d31b90b2c20a",
 "t": "Show de drones planejado enquanto CM analisa os preparativos do 360º Prakash Parv",
 "r": "A capital do estado sediará um grande show de drones com mais de 1.000 drones em Kangan Ghat em Patna Sahib em 15 de janeiro, como parte das celebrações de oito dias do 360º Prakash Parv de Shri Guru Govind Singh Ji Maharaj, agendadas de 9 a 16 de janeiro.",
@@ -1076,7 +1098,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Libération",
-"mx": 2
+"mx": 3
 },
 {
 "id": "0f0ddfea589467",
@@ -1098,6 +1120,27 @@
 "cv": "heise online",
 "mx": 1,
 "rx": "Apesar de muito apoio a regras rigorosas, estados como a Rússia e os EUA bloquearam mais uma vez um roteiro claro contra os sistemas de armas autónomos em Genebra."
+},
+{
+"id": "c57b4d43c86cad",
+"t": "Sistema de direção assistida da Tesla recebe luz verde para implementação na Itália",
+"r": "A tecnologia autônoma da Tesla aguarda outra grande votação da União Europeia antes do final do ano.",
+"u": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+"f": "Engadget",
+"s": "engadget.com",
+"i": "https://www.engadget.com/img/gallery/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/l-intro-1795285455.jpg",
+"d": "2026-11-21T15:29-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Tesla's assisted driving system gets the green light for rollout in Italy",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Engadget",
+"mx": 1,
+"rx": "A tecnologia autônoma da Tesla aguarda outra grande votação da União Europeia antes do final do ano. O Ministério de Infraestrutura e Transportes da Itália concedeu aprovação provisória para o Full Self-Driving (Supervisionado) da Tesla, que foi rebatizado para Tesla Assisted Driving na Europa. A aprovação da Itália marca outro marco regulatório para a Tesla desde que o país decidiu antecipar a votação esperada da União Europeia sobre o seu sistema de assistência ao condutor, prevista para o final deste ano. A Tesla ainda aguarda decisões de outros grandes países da União Europeia, incluindo Alemanha e França, que está atualmente em processo de teste da Direção Assistida Tesla.\nA tecnologia de condução autónoma da Tesla estreou-se pela primeira vez na Europa, graças à aprovação provisória da autoridade reguladora holandesa em abril."
 },
 {
 "id": "1997e20f48c836",
@@ -1243,7 +1286,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-20": [
@@ -3551,6 +3594,27 @@
 "cv": "Business Insider",
 "mx": 1,
 "rx": "20, 2026 (GLOBE NEWSWIRE) -- COFE+, o robô barista de sétima geração da Shanghai Hi-Dolphin Robot Technology Co., Ltd., superou um campeão humano de café em velocidade, precisão e consistência em uma competição frente a frente realizada em Yiwu. O concurso aberto e gravado em vídeo ocorreu na sétima LD International Coffee Masters Competition, parte da sétima Feira de Mercadorias Importadas de Yiwu da China.\nSegundo os padrões de competição profissional, o COFE+ superou o campeão em velocidade, precisão e consistência. O campeão teve média de 57,2 segundos por xícara contra 49,4 segundos do COFE+, ou 1,16 vezes mais. As taças de campeão pesavam 233,7 g, 232,1 g, 230,2 g, 246,2 ge 225,9 g, desvio padrão de 7,61 g, ou 4,43 vezes a variação do COFE+."
+},
+{
+"id": "b293eb09d0bf6f",
+"t": "GM visa aumento de 20% em robótica e automação de fábrica até 2028",
+"r": "A GM prevê um aumento de 20% na robótica e automação nas suas instalações até 2028, citando o aumento dos custos de fábrica e de produção. De acordo com vários relatórios, a fabricante de automóveis General Motors (GM) planeja aumentar em 20% o uso de robôs e outras tecnologias de automação em suas fábricas na América…",
+"u": "https://www.robotics247.com/article/gm-targets-20-increase-in-robotics-and-factory-automation-by-2028",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/2026_article/GM-Robotics-Investment-Labor-main-Robotics247-2026.jpg",
+"d": "2026-11-20T13:26-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "GM targets 20% increase in robotics and factory automation by 2028",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 1,
+"rx": "A GM prevê um aumento de 20% na robótica e automação nas suas instalações até 2028, citando o aumento dos custos de fábrica e de produção. De acordo com vários relatórios, a fabricante de automóveis General Motors (GM) planeja aumentar em 20% o uso de robôs e outras tecnologias de automação em suas fábricas na América do Norte até 2028. A Reuters e o The Detroit News disseram que a montadora está desenvolvendo e montando seus próprios robôs em uma instalação em Kokomo, Indiana, com foco em AMRs que transportam peças e materiais em suas fábricas.\nA Reuters informou que a GM estimou que seu acordo trabalhista de 2023 com o United Auto Workers (UAW) acrescentaria aproximadamente US$ 575 em custos trabalhistas por veículo. Autonomy Robôs Móveis Automação Industrial Robot Arm Notícias Recursos Editores Escolha Automotivo Robôs Móveis Autônomos General Motors Gestão de Trabalho Manufatura Reshoring ROI"
 },
 {
 "id": "2c0ad97aa19bf5",
@@ -7229,7 +7293,7 @@
 "u": "https://udn.com/news/ai/answer/%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%AB-60311669",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-19T05:33-03:00",
 "c": [
 "geral"
@@ -7240,7 +7304,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 1,
+"mx": 9,
 "rx": "A declaração de demissão de um engenheiro da Huida Robotics está intimamente ligada à demissão de Huang Renxun, revelando as dúvidas internas da empresa sobre a forma como as principais decisões são comunicadas. A escolha do engenheiro de \"avançar e recuar\" com Huang Renxun não reflete apenas a sua grande admiração pessoal por Huang Renxun, mas também destaca o impacto negativo da falha da empresa em explicar eficazmente o processo de tomada de decisão aos funcionários ao lidar com a crise. Esse movimento também aponta indiretamente a importância da cultura corporativa e da comunicação transparente na fidelização dos colaboradores."
 },
 {
@@ -10873,7 +10937,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -31138,7 +31202,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -38343,7 +38407,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44232,7 +44296,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60320,7 +60384,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60349,7 +60413,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
