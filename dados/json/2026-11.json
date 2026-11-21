@@ -1,6 +1,28 @@
 {
 "2026-11-21": [
 {
+"id": "7a536a0daa3d36",
+"t": "Novos drones do condado de Castle superaram os carros de patrulha em 756 das 844 chamadas",
+"r": "A Divisão de Polícia do Condado de New Castle, em Delaware, publicou seis meses de resultados de seu programa Drone as First Responder. Seus drones realizaram 1.214 missões entre maio e outubro de 2026 e foram enviados para 844 ligações para o 911. Um drone apareceu pela primeira vez em 756 dessas 844 ligações, ou…",
+"u": "https://dronexl.co/2026/11/21/new-castle-county-police-drones-first-on-scene-dashboard-skydio-x10/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/skydio-dock-x10-city-rooftop.webp",
+"d": "2026-11-21T06:40-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 1,
+"to": "New Castle County Drones Beat Patrol Cars to 756 of 844 Calls",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Divisão de Polícia do Condado de New Castle, em Delaware, publicou seis meses de resultados de seu programa Drone as First Responder. Seus drones realizaram 1.214 missões entre maio e outubro de 2026 e foram enviados para 844 ligações para o 911. Um drone apareceu pela primeira vez em 756 dessas 844 ligações, ou 89,6%, e 195 das 844 foram fechadas sem carro patrulha. Ele fica dentro de um novo Portal de Transparência Tecnológica que também contém a política de drones do departamento, sua política de leitor de placas e seus acordos com Axon e Flock Safety.\nA política de leitor de placas do portal exclui registros após 30 dias. A política de drones, datada do dia da prefeitura, diz aos pilotos para gravarem cada voo, desde o lançamento até o pouso, e não estabelece nenhum número de dias para manter o vídeo."
+},
+{
 "id": "2d4bca4583cc14",
 "t": "Zoox lança seus primeiros passeios de robotáxi no condado de L.A.",
 "r": "A empresa de robotáxi Zoox, sediada na Bay Area, colocou seus primeiros veículos autônomos construídos especificamente nas estradas do condado de Los Angeles. Os veículos em formato de pílula foram lançados quinta-feira em Santa Monica, onde atenderão funcionários da empresa e seus amigos e familiares. Embora várias…",
@@ -98,6 +120,28 @@
 "cv": "Humanoid.guide",
 "mx": 1,
 "rx": "O Ministério da Indústria e Tecnologia da Informação da China emitiu cinco padrões para robôs humanóides em 16 de novembro de 2026, abrangendo avaliação de capacidade, instalações de treinamento, dados de treinamento, juntas de acionamento elétrico integradas e mãos hábeis, de acordo com 36kr. O pacote aborda vários obstáculos práticos à comparação e integração de humanóides: reivindicações de capacidade inconsistentes, interfaces de equipamentos incompatíveis e abordagens diferentes para a recolha e gestão de dados de formação.\nO padrão do local de treinamento especifica áreas funcionais para treinamento em cenários, infraestrutura de dados, manutenção, armazenamento e trabalho de escritório, juntamente com suporte para testes virtuais e físicos integrados. O MIIT/TC8 planeja conectar a implementação com testes e certificação, plataformas de treinamento, ecossistemas de dados e cenários de aplicação."
+},
+{
+"id": "9c40f57300de57",
+"t": "Siemens e AGIBOT projetam garras humanóides a partir de instruções de texto",
+"r": "A Siemens e a AGIBOT demonstraram um fluxo de trabalho de agente de IA que utiliza uma descrição de tarefa escrita para adaptar uma garra de robô humanóide e preparar seu projeto para fabricação aditiva, de acordo com a 3D Printing Industry. O usuário descreve o objeto a ser manuseado e a tarefa do robô. O agente então seleciona um adequado…",
+"u": "https://humanoid.guide/siemens-and-agibot-design-humanoid-grippers-from-text-prompts/",
+"f": "Humanoid.guide",
+"s": "humanoid.guide",
+"i": "https://humanoid.guide/wp-content/uploads/2026/11/image-29.jpg",
+"d": "2026-11-21T09:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Siemens and AGIBOT design humanoid grippers from text prompts",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Humanoid.guide",
+"mx": 1,
+"rx": "A Siemens e a AGIBOT demonstraram um fluxo de trabalho de agente de IA que utiliza uma descrição de tarefa escrita para adaptar uma garra de robô humanóide e preparar seu projeto para fabricação aditiva, de acordo com a 3D Printing Industry. O agente então seleciona um tipo de garra adequado, modifica sua geometria no Designcenter da Siemens, executa simulações e valida virtualmente a interface e o manuseio do robô.\nO fluxo de trabalho de design de garra humanóide usa integração MCP para permitir que o agente chame funções de software de engenharia e coordene as etapas individuais. Para aplicações humanóides, a demonstração aborda um problema específico de engenharia: produzir ferramentas adequadas ao objeto e à tarefa, em vez de depender de um único design de garra para cada aplicação."
 },
 {
 "id": "de6df14219fa68",
@@ -199,6 +243,27 @@
 "cv": "The Guardian",
 "mx": 1,
 "rx": "As mãos humanas são maravilhas anatômicas que os engenheiros lutaram durante anos para replicar. Robôs hábeis que podem rivalizar com a mão humana ainda não chegaram, mas estão chegando. É esta amplitude de funções combinada com a adaptabilidade que Hunter diz que seria um grande desafio para qualquer engenheiro que procurasse replicar a destreza humana numa mão robótica: ser capaz de dar feedback e avançar ao mesmo tempo, utilizando um modelo aprendido com anos de experiência e interação com o mundo. É por isso que os engenheiros robóticos se concentraram anteriormente na criação de robôs baseados em tarefas, capazes de desempenhar uma função específica, acrescenta, em vez de tentar emular tudo o que uma mão humana pode fazer.\nUma gama muito ampla de áreas onde as pessoas disseram: ‘Poderíamos usar um robô aqui?’ ou ‘Poderíamos melhorar nossos robôs com coisas como mãos humanas?’” Em última análise, diz Lepora, mãos robóticas estarão fazendo mãos robóticas."
+},
+{
+"id": "65e7299e71f52d",
+"t": "HONOR traz seus robôs humanóides com IA para o México",
+"r": "A HONOR não prioriza mais apenas suas inovações para seus dispositivos móveis, agora a empresa chinesa promove robôs humanóides movidos por inteligência artificial. Com um tour, a empresa trouxe para o México o HONOR Robotics A1 (HONOR Vita Boy) e o HONOR Robotics D1 (HONOR Flash), que foram apresentados pela primeira…",
+"u": "https://www.eluniversal.com.mx/techbit/honor-trae-a-mexico-sus-robots-humanoides-con-ia/",
+"f": "El Universal",
+"s": "eluniversal.com.mx",
+"i": "https://www.eluniversal.com.mx/resizer/v2/HELNFJ42GJDMFOFDILSYNEOYUE.jpg?auth=a50e747773c2bd47e84a2f5fedfb4c499bd98033a542097e75b297ff912c0798",
+"d": "2026-11-21T10:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "HONOR trae a México sus robots humanoides con IA",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "El Universal",
+"mx": 1,
+"rx": "A HONOR não prioriza mais apenas suas inovações para seus dispositivos móveis, agora a empresa chinesa promove robôs humanóides movidos por inteligência artificial. Com um tour, a empresa trouxe para o México o HONOR Robotics A1 (HONOR Vita Boy) e o HONOR Robotics D1 (HONOR Flash), que foram apresentados pela primeira vez no Mobile World Congress 2026 e agora farão parte de uma série de ativações no país para que o público possa interagir com eles.\nEstes robôs fazem parte do Plano Alpha da HONOR, uma iniciativa que visa levar a inteligência artificial a todos os lugares e cada um deles reflete uma abordagem complementar dentro desta estratégia. Além disso, ele participou da meia maratona de robôs humanóides Beijing Yizhuang 2026, onde ganhou o prêmio de Melhor Padrão de Caminhada."
 },
 {
 "id": "2a46abef6d512c",
@@ -483,6 +548,27 @@
 "rx": "Os aspiradores Samsung estão disponíveis em opções portáteis e automatizadas. O Bespoke Jet Pet é um aspirador sem fio para lavagem a seco, enquanto o Jet Bot + pode aspirar ambientes selecionados de acordo com uma programação."
 },
 {
+"id": "54ae7183482d05",
+"t": "A Flórida está implantando coelhos-robôs para caçar pítons birmanesas invasoras; as iscas movidas a energia solar imitam o real",
+"r": "coelhos robóticos projetados para atrair pítons birmanesas. Desenvolvidos através de uma colaboração entre a Universidade da Flórida e o South Florida Water Management District, as iscas peludas são projetadas para imitar os coelhos nativos do pântano, que estão entre as presas naturais das cobras.",
+"u": "https://timesofindia.indiatimes.com/science/wildlife/florida-is-deploying-robot-rabbits-to-hunt-invasive-burmese-pythons-the-solar-powered-decoys-mimic-real-prey-using-heat-scent-and-movement-to-lure-the-giant-snakes-out-of-hiding/articleshow/136054673.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136054829,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-21T09:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Florida is deploying robot rabbits to hunt invasive Burmese pythons; the solar-powered decoys mimic real",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "coelhos robóticos projetados para atrair pítons birmanesas. Desenvolvidos através de uma colaboração entre a Universidade da Flórida e o South Florida Water Management District, as iscas peludas são projetadas para imitar os coelhos nativos do pântano, que estão entre as presas naturais das cobras."
+},
+{
 "id": "e910c3f41964e8",
 "t": "Na câmera, robô humanóide convida o ministro do Rajastão, Madan Dilawar, para o laboratório de inovação em Kota",
 "r": "",
@@ -501,7 +587,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "e09b468c6a43a4",
@@ -586,6 +672,28 @@
 "rx": "Esta não é a primeira vez que falamos sobre Genesis AI, a startup de robótica criada em 2024 por Zhou. Que uma startup ganha dinheiro não é novidade, que existe uma empresa europeia, também não (embora sejamos honestos, é raro e meia-boca), o que chama a atenção é a sua abordagem: quando todo o setor aposta no humanóide, surge um robô sem silhueta humana, sem pernas nem cabeça.\nTambém indica para onde vai o dinheiro: a visão da robótica no projeto de Xian e Gervet está nas mãos e nos dados."
 },
 {
+"id": "eb99e43adea8ab",
+"t": "Carregamento em tempo recorde: BYD conta com braços robóticos e energia solar para carros elétricos",
+"r": "A BYD está lançando uma estação de carregamento para veículos elétricos que usa braços robóticos para carregar carros elétricos com energia solar em cinco minutos. Se você olhar para as vendas, a BYD é o maior fabricante mundial de carros elétricos há cerca de quatro anos. Mas isso não é suficiente para a BYD, ela…",
+"u": "https://t3n.de/news/byd-schnellladestation-roboter-e-autos-1773401/",
+"f": "T3N",
+"s": "t3n.de",
+"i": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/Desert-Experience-F4Films-3.jpg?class=content",
+"d": "2026-11-21T09:05-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Laden in Rekordzeit: BYD setzt auf Roboterarme und Solarenergie für E-Autos",
+"lg": "de",
+"p": 3.5,
+"cr": 2,
+"cv": "t3n",
+"cur": 1,
+"mx": 1,
+"rx": "A BYD está lançando uma estação de carregamento para veículos elétricos que usa braços robóticos para carregar carros elétricos com energia solar em cinco minutos. Se você olhar para as vendas, a BYD é o maior fabricante mundial de carros elétricos há cerca de quatro anos. Mas isso não é suficiente para a BYD, ela também quer se tornar a número um na área da rede de carregamento mais avançada para veículos elétricos.\nEsta semana, a empresa chinesa introduziu um sistema de carregamento para veículos elétricos que carrega os carros elétricos utilizando energia solar por robôs. De acordo com um comunicado de imprensa da BYD, a energia armazenada pode ser transferida para o veículo elétrico muito mais rapidamente do que seria se fosse retirada diretamente da rede elétrica."
+},
+{
 "id": "1997e20f48c836",
 "t": "A linha de produção de testes de telefones celulares implanta o robô Zhiyuan Genie G2, e a Zhiyuan e a Lens Technology alcançaram uma cooperação estratégica",
 "r": "A IT House informou em 21 de novembro que a AGIBOT e a Lens Technology chegaram a uma cooperação estratégica para implantar o robô AGIBOT G2 na linha de produção de testes de telefones celulares. Dezenas de robôs realizam simultaneamente carga e descarga automática de estações de teste e interação com equipamentos de…",
@@ -624,7 +732,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Durante a semana da conferência, o que realmente inundou a tela nas plataformas sociais estrangeiras foram os robôs fora do local da conferência. Antes da reunião da APEC, na rua de demonstração de robôs inteligentes incorporados em Shenzhen, 151 robôs humanóides se alinharam e dançaram sincronizadamente, estabelecendo um recorde mundial do Guinness para \"o maior número de robôs humanóides dançando ao mesmo tempo\". Xiangong Intelligence é uma empresa de robôs inteligentes incorporados baseada em plataforma que se concentra na área de inteligência incorporada. É uma plataforma de infraestrutura de inteligência incorporada com o cérebro do robô como núcleo. Seu negócio principal abrange cérebros robóticos inteligentes e robôs inteligentes incorporados.\nAlém de Yushu e Zhiyuan, existem muitos nomes para inteligência incorporada na China, e eles estão provando seu valor da mesma forma - colocando robôs em trabalho real."
 },
 {
@@ -667,7 +775,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Empresas de inteligência incorporada tornam-se os destaques da APEC 2026! Mapa de distribuição e apresentação das dez principais empresas do país. Mas para que um robô receba convidados, entregue ou faça café, o teste por trás dele não é apenas a ontologia: ele deve compreender o ambiente, planejar tarefas, controlar ações e operar de forma estável em locais complexos. As demonstrações de robôs relacionadas à APEC em 2026 tornaram mais uma vez a inteligência incorporada o foco da atenção pública.\nCom \"cérebro de robô\" como rótulo principal, a Xiangong Intelligence é uma empresa de robôs inteligentes incorporados e baseados em plataforma, com sistemas de controle como núcleo. Seus negócios abrangem cérebros robóticos inteligentes e robôs inteligentes incorporados, fornecendo recursos como controladores, software, produtos robóticos e plataformas abertas."
 }
 ],
@@ -4103,6 +4211,50 @@
 "rx": "Como a primeira unidade de co-construção da comunidade de código aberto de robôs humanóides da Open Atom Open Source Foundation, a Qiyuan Robotics participou profundamente nesta conferência, desde governança comunitária, co-construção de tecnologia até construção ecológica do desenvolvedor, para demonstrar de forma abrangente os resultados de exploração, prática e implementação de robôs pessoais no campo da colaboração de código aberto. Na cerimônia de abertura, o Comitê de Trabalho Comunitário de Código Aberto de Robôs Humanóides Atômicos Abertos foi formalmente estabelecido, marcando que a construção ecológica de código aberto de robôs humanóides domésticos entrou em um novo estágio de colaboração industrial.\nDurante o subfórum da comunidade de código aberto de robôs humanóides atômicos abertos da OADC, Gao Quanzhong também fez um discurso intitulado \"Caminhando sozinho e rápido, trabalhando juntos, trabalhando juntos para criar um ecossistema da indústria robótica\". Com base na prática de produtos robóticos de consumo C-end, ele compartilhou o pensamento e a prática do Qiyuan Robot na construção de código aberto de robôs pessoais e no layout do ecossistema de desenvolvedores."
 },
 {
+"id": "b31a4181e6d0a3",
+"t": "O protótipo inicial do robô humanóide está passando por testes de operação básicos adaptados ao local do hospital no Hallym Simulation Center do Hallym University Medical Center. (Foto = Centro Médico da Universidade Hallym)",
+"r": "",
+"u": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalMrQlZGU2FiOW5jcWhGcmdEV3BlVnN6Mno2cVJKMndWdXM4SDM3amNsZ3o0UGw3NlNRUXhTVDIzNnFiNEpBUXVmUkNxakc4akFEOGJIZGFGd2p1eUNmTU5mekE5d0cvbWhiZDRXSzUrL29ZZ2tHS3Y2cDhSZXU0NFJhd1hIREZvSmtINjM2ck1CeFhRU1FueXVOaW9BRkNHRGszUVREUSs1OThsZE9vbDg3aGtDTU1tYlQrdjU5ZUlzMytDRUhUQjJDWGE2Szc4V3Y5YzZzOHlqOGFBRjBPZDU1SHFYS0E2MFoyYU0rZmNDUjVxbU95WWZRRitMRm9kdkFUeGlKeEZsTzR1QVhyY2E1L3k5Z2hRU3RrSWh6YVo1NmIrNXhDcExCdGRhclBTaWhONTh2ZGVCM0ZNUVFFOHN4TzJOYnh3UFovSHVDUVVSMGQ2UUdubE1HSElwZ0V6cFNmL3lpbUpKdTQvNkM4N3hHVEhmRkxpSUM1bkZzdHpHQ3VSdHloQ3FtMEtCb0FwQ0xlb0g5cVQxR3V2QWFQTjg5dnU1NXVEOFJDUHdpN3ZmSGl6TXlEUHljM2F5NU44dWhDV1RzcFdndnRyWFR3dHduWjlvdWp0Z2NSUFJqSjBRS3BmS0hMcFNkVG4zZDJ5ZjMrYU5LRGF2SzFVNWRDSjFrT3ZtRUVCRGFsSDhTdEttSUNITUtLTGRMSmtmTXZNVkNxRDQzaUQ1Q2dFcCtxVnZjSjVlM0p2bjhqS0NpcEsvSmp3U1JWQ0FyU1dqNU0xOVFPYVpWZ2ZCZGYyclRLeld6eXlOUGp0dTVoV3c1cWdhYXM",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-20T12:26-03:00",
+"c": [
+"ia",
+"humanoides",
+"medicina"
+],
+"l": 0,
+"to": "휴머노이드 초기 프로토 타입 로봇이 한림대의료원 한림시뮬레이션센터에서 병원 현장에 맞춰 기초 구동 테스트를 실시하고 있다. (사진=한림대의료원)",
+"lg": "ko",
+"p": 3.0,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
+"id": "271dd3105fe12c",
+"t": "Um dos primeiros protótipos de robô humanóide está entregando roupas de pacientes para uma enfermeira no Hallym Simulation Center do Hallym University Medical Center. (Foto = Centro Médico da Universidade Hallym)",
+"r": "",
+"u": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalMrQlZGU2FiOW5jcWhGcmdEV3BlVnZNZXc2d1cwbllIZ0h2ZkRwdko3cC9ySVp4Rm5tMStUVjdkY0tYbWVtUWRhUnpPRnQwUUo5K3BKblFNODlURVcwR3NWRkRUT3FlUHEyamRJTHYvU09qTkFKOFVnaFRtZWVORyt1NERYT0dTTmhvUlRzZ2NiTlFKTWJ1MjM4c2g0V1BBRStPeGxkb2dXMDFvRGlEM0NxSXdQdTlKYXdJYjJ0N0ltNnZEQSt4OEJEcnl4MnFwcjFza2g1TzAvMGRHVlpJUGlIV1dFbVJKSjNhbW5NeExNRTFkKzVpbkRSTXgrbmxqS3hOcEtYR0lnam45c2pQMEt4akkzNmlWdWZFeFdudWh2VlRTV0hzRmVMK3BDRFBGc3V5QkdiM2Y5ZEJGWEdVS3gyS2FtcFcvcHhYTnlMM2JQMWM0UGRXdmJzcHZXSWNobE9nbkprQTRnNldxbk1URVNYOVF1L2JQdEZDRkFFVGZtaEkvSHhHZEp0TWJ2WndIajRGWlRmRUNyTldjTlFLeXlDMEZISmhWVkRIZE1jVE51Y0k5ZGtKN1N5OHhxd2RIdk1YQzhCNko3dUNiRkJkNnZMMDFyRUtVZXN0MUJHMUdVOGM0MDlZTWxUa0ptSjNpME1ZbldZYzNhb1p2aEdJMVZMdllZZEQ0MmlyZ0pDMGt0azkvU01tanNWSk5XS3UzOTBHVDJxTDJna1p5K0dOVXB5QnQrTlpYbnUxOHFHNk93cm1Wb2xWWmc9PQ",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-20T12:28-03:00",
+"c": [
+"ia",
+"humanoides",
+"medicina"
+],
+"l": 0,
+"to": "휴머노이드 초기 프로토 타입 로봇이 한림대의료원 한림시뮬레이션센터에서 간호사에게 환자복을 전달하고 있다. (사진=한림대의료원)",
+"lg": "ko",
+"p": 3.0,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
 "id": "9f265a04729253",
 "t": "TechMagic e CSS Holdings lançam serviço completo de contrato de operação de alimentos e bebidas usando robôs de cozinha e know-how operacional",
 "r": "~ Seguindo o primeiro \"MAGIC CHEF\", expandiremos para hotéis, instalações de lazer, refeitórios para funcionários e instalações de enfermagem ~ TechMagic Co., Ltd. Chuo-ku, Tóquio, Presidente e CEO: Mizuno) Em colaboração com Katsuhiro (doravante denominado \"CSS\"), começaremos a fornecer um modelo de contrato…",
@@ -5250,6 +5402,36 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "A IntelliProve, uma startup belga de tecnologia de saúde, investiu 2,7 milhões de won para aplicar tecnologia que mede sinais vitais, como frequência cardíaca e pressão arterial com uma câmera, em robôs humanóides."
+},
+{
+"id": "12bdff12b16393",
+"t": "Conferência de Robótica Avançada 2026: FEV mostra maneiras de uso industrial de IA Física",
+"r": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de…",
+"u": "https://pressemitteilungen.sueddeutsche.de/fev-group-6393828",
+"f": "SZ.de",
+"s": "pressemitteilungen.sueddeutsche.de",
+"i": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
+"d": "2026-11-19T07:00-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "Advanced Robotics Conference 2026: FEV zeigt Wege zum industriellen Einsatz von Physical AI",
+"lg": "de",
+"p": 6.3,
+"cr": 3,
+"cv": "Süddeutsche Zeitung",
+"mx": 1,
+"rx": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de desenvolvimento de veículos, software, inteligência artificial e consultoria estratégica nesta área tecnológica. Com o ARC, reunimos desenvolvedores, fornecedores e usuários para discutir os obstáculos cruciais no caminho para o uso generalizado da robótica humanóide\", disse o Dr. Dominik Lückmann, Diretor de Inovação do Grupo FEV. Novembro de 2026 na sede do FEV em Aachen. Mais informações sobre o programa e registro estão disponíveis em: www.fev.com/arc-2026. Sobre o FEV O FEV ultrapassa limites.",
+"o": [
+{
+"f": "Handelsblatt",
+"u": "https://www.handelsblatt.com/adv/presseportal/fev-group-advanced-robotics-conference-2026-fev-zeigt-wege-zum-industriellen-einsatz-von-physical-ai/100271219.html",
+"s": "handelsblatt.com",
+"id": "b4e56180037a26"
+}
+]
 },
 {
 "id": "c5a01b3bff7693",
@@ -6636,28 +6818,6 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google coloca nossas histórias diante deles conforme as notícias surgem. Um artigo sobre seu produto, serviço ou empresa, escrito por DroneXL para nossos leitores.\nSeu banner na barra lateral de cada artigo de uma só vez, ao lado das histórias que seus clientes leem. Banner fixo em todo o site, exclusividade no seu setor e artigo patrocinado todo mês. Um artigo patrocinado para apresentar sua empresa, seguido de três meses de um banner beat diante dos mesmos leitores."
-},
-{
-"id": "12bdff12b16393",
-"t": "Conferência de Robótica Avançada 2026: FEV mostra maneiras de uso industrial de IA Física",
-"r": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de…",
-"u": "https://pressemitteilungen.sueddeutsche.de/fev-group-6393828",
-"f": "SZ.de",
-"s": "pressemitteilungen.sueddeutsche.de",
-"i": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
-"d": "2026-11-19T07:00-03:00",
-"c": [
-"competicoes",
-"ia"
-],
-"l": 0,
-"to": "Advanced Robotics Conference 2026: FEV zeigt Wege zum industriellen Einsatz von Physical AI",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Süddeutsche Zeitung",
-"mx": 1,
-"rx": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de desenvolvimento de veículos, software, inteligência artificial e consultoria estratégica nesta área tecnológica. Com o ARC, reunimos desenvolvedores, fornecedores e usuários para discutir os obstáculos cruciais no caminho para o uso generalizado da robótica humanóide\", disse o Dr. Dominik Lückmann, Diretor de Inovação do Grupo FEV. Novembro de 2026 na sede do FEV em Aachen. Mais informações sobre o programa e registro estão disponíveis em: www.fev.com/arc-2026. Sobre o FEV O FEV ultrapassa limites."
 },
 {
 "id": "9d4cda9b9b08b5",
@@ -9182,6 +9342,26 @@
 "rx": "De Janeiro a Outubro, o total das vendas a retalho de bens de consumo e serviços aumentou 2,5% em termos homólogos (o mesmo abaixo). De Janeiro a Outubro, as vendas a retalho de equipamento de comunicação (incluindo telemóveis) e material de escritório cultural (incluindo computadores e tablets) para unidades acima do tamanho designado aumentaram 16,5% e 6,0%, respectivamente. De janeiro a outubro, as vendas totais no varejo de bens de consumo aumentaram 1,0% e as vendas no varejo de bens de consumo, exceto automóveis, aumentaram 2,8%.\nDe Janeiro a Outubro, as vendas a retalho de serviços aumentaram 4,9%, 4,0 pontos percentuais acima das vendas a retalho de bens. De Janeiro a Outubro, as vendas a retalho de bens de consumo em condados e aldeias, incluindo vilas e aldeias, aumentaram 1,9%, o que foi significativamente mais rápido do que o nível urbano. Entre eles, as vendas a retalho de bens de consumo nas zonas rurais aumentaram 2,2% e a taxa de crescimento foi mais rápida do que nas zonas urbanas durante 15 meses consecutivos."
 },
 {
+"id": "abcf8aa058dd52",
+"t": "O professor Kyu-jin Cho, da Universidade Nacional de Seul, dará uma palestra no Robot Business Forum, realizado em Daegu no dia 21 do mês passado.",
+"r": "",
+"u": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTUl4UUNnaWpWa20wdk5BcVNtWjFEUW9pVEhqTU5mNldQWm1XUG56cjFwY2IzZzU2NkwyTXJRNFlKcEdXdXFGNkRHR0pMYkh2QU5HWjNLZHJxc1NPRitQZkZwTWIyYkdoa0NvY1U0Z203dDdLa2ZJZ1JHNFZpTVNpZ3drQUsyNVYvYVFUZnpMK3dlZUFZV1oxd21KUFI4VVRRUHhFNUV4MnNYSDVJN2tOYTRveEp0VTVjZ0pyeU9DUGMzU2VHRW1taWxnL3A4RmJyb1F6cnFGeFRHRWdwOWNDTlh0eFNjeVIxcXJ5ZXN2QUk4QVVqaEFrU2VWWTVlMzlTYTBmSFVFMzgyS2NCanVSTUNoSGVXcmZYc2ZEL0h4M1pSRHEwamg4SjRVVmFtTVZUU1ZzZEd6M3VLZWlmdnRLaTV6Vk5JeHpWekp3STg2T3FMMEJrY09MVDVXVlpPc0VEVTV6K2xpQUhHcU1UczVaUkhDSG8rM2h1QzQ5QSsrVzdOK29wSGdUeGhCWUc5NTRIYUhYeTVSS3NGdFhBTkZOUzBRaDFwbEtWMUFrVnFWSmh0WGM9",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-19T08:15-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "지난달 21일 대구에서 열린 로봇비즈니스포럼에서 조규진 서울대 교수가 강연하고 있다.",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
 "id": "809af3174a9ec1",
 "t": "A dupla dinâmica de limpeza de piso da Roborock está marcada para a Black Friday",
 "r": "",
@@ -10163,7 +10343,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -11015,28 +11195,6 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "Lee Sang-hoon, representante da equipe de especialistas em joelho do Hospital SNU Seul, participou do ROSA Robot Symposium ‘My Personalized Knee Symposium’, realizado no Park Hyatt Seul no dia 15."
-},
-{
-"id": "3c3b0371effda2",
-"t": "A cena do robô “pegando peixes” no filme sugere possíveis problemas no desenvolvimento de robôs?",
-"r": "Shenzhen Galaxy WORLD exibiu recentemente uma dança em grupo de 151 robôs humanóides, com músicas do BIGBANG como pano de fundo. Não só quebrou o Recorde Mundial do Guinness, mas também desencadeou uma ampla discussão social sobre o desenvolvimento de robôs. Alguns internautas comentaram no vídeo que os robôs estão…",
-"u": "https://udn.com/news/ai/answer/%E5%BD%B1%E7%89%87%E4%B8%AD%E6%A9%9F%E5%99%A8%E4%BA%BA-60337169",
-"f": "UDN",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-18T13:37-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "影片中機器人「摸魚」的畫面，是否暗示了機器人發展的潛在問題？",
-"lg": "en",
-"p": 5.6,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 9,
-"rx": "Shenzhen Galaxy WORLD exibiu recentemente uma dança em grupo de 151 robôs humanóides, com músicas do BIGBANG como pano de fundo. Não só quebrou o Recorde Mundial do Guinness, mas também desencadeou uma ampla discussão social sobre o desenvolvimento de robôs. Alguns internautas comentaram no vídeo que os robôs estão “pescando”. Este comentário aparentemente jocoso aborda, na verdade, a potencial reflexão social enfrentada pelo desenvolvimento de robôs, lembrando-nos que, ao mesmo tempo que procuramos o progresso tecnológico, devemos também prestar atenção ao seu possível impacto.",
-"cur": 1
 },
 {
 "id": "062c43770b55f8",
@@ -13510,6 +13668,28 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "Rho alpha é o primeiro modelo de base robótica da Microsoft Research, anunciado em 21 de janeiro de 2026. Ele pertence à camada de software da robótica, em vez de representar um robô físico ou um sistema mecânico independente. O projeto surge da família Phi de modelos de IA pequenos e eficientes da Microsoft e coloca essa linhagem de pesquisa em um programa de desenvolvimento de robótica. Rho alpha se enquadra na crescente categoria de modelos básicos destinados à pesquisa robótica.\nPara as equipes técnicas, Rho alpha pertence às discussões sobre a base de software dos projetos de robótica, e não às comparações de hardware do robô. Para as organizações que seguem modelos básicos de robótica, seu significado mais amplo reside no fato de a Microsoft Research estabelecer seu primeiro modelo nesta categoria e estender a linhagem de pesquisa Phi para uma nova área de aplicação."
+},
+{
+"id": "3c3b0371effda2",
+"t": "A cena do robô “pegando peixes” no filme sugere possíveis problemas no desenvolvimento de robôs?",
+"r": "Shenzhen Galaxy WORLD exibiu recentemente uma dança em grupo de 151 robôs humanóides, com músicas do BIGBANG como pano de fundo. Não só quebrou o Recorde Mundial do Guinness, mas também desencadeou uma ampla discussão social sobre o desenvolvimento de robôs. Alguns internautas comentaram no vídeo que os robôs estão…",
+"u": "https://udn.com/news/ai/answer/%E5%BD%B1%E7%89%87%E4%B8%AD%E6%A9%9F%E5%99%A8%E4%BA%BA-60337169",
+"f": "UDN",
+"s": "udn.com",
+"i": "",
+"d": "2026-11-18T13:37-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "影片中機器人「摸魚」的畫面，是否暗示了機器人發展的潛在問題？",
+"lg": "en",
+"p": 4.6,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9,
+"rx": "Shenzhen Galaxy WORLD exibiu recentemente uma dança em grupo de 151 robôs humanóides, com músicas do BIGBANG como pano de fundo. Não só quebrou o Recorde Mundial do Guinness, mas também desencadeou uma ampla discussão social sobre o desenvolvimento de robôs. Alguns internautas comentaram no vídeo que os robôs estão “pescando”. Este comentário aparentemente jocoso aborda, na verdade, a potencial reflexão social enfrentada pelo desenvolvimento de robôs, lembrando-nos que, ao mesmo tempo que procuramos o progresso tecnológico, devemos também prestar atenção ao seu possível impacto.",
+"cur": 1
 },
 {
 "id": "9b31b1a76eba40",
@@ -37591,7 +37771,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -43480,7 +43660,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -59568,7 +59748,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -59597,7 +59777,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
