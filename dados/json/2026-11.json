@@ -140,7 +140,7 @@
 "i": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
 "d": "2026-11-21T18:20-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 1,
 "to": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
@@ -462,6 +462,29 @@
 "cv": "DroneDJ",
 "mx": 1,
 "rx": "DJI Flip Fly More Combo com RC 2 agora custa apenas US$ 545 em uma oferta da Black Friday, economizando US$ 234 neste drone 4K para iniciantes repleto de extras."
+},
+{
+"id": "fe859408058df0",
+"t": "A lacuna de dados de fabricação que impede a IA física",
+"r": "As empresas de robótica e IA física arrecadaram quase 48 mil milhões de dólares até agora em 2026, mas a implementação de máquinas totalmente autónomas em ambientes industriais não é um dado adquirido. Para que os robôs ultrapassem os ambientes controlados e cheguem ao chão de fábrica, eles precisam de dados do mundo real para aprender. A maioria das instalações de produção…",
+"u": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/IMG_6760-e1795299517703.jpeg",
+"d": "2026-11-21T19:25-03:00",
+"c": [
+"ia",
+"industriais"
+],
+"l": 0,
+"to": "The manufacturing data gap holding back physical AI",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "Para que os robôs ultrapassem os ambientes controlados e cheguem ao chão de fábrica, eles precisam de dados do mundo real para aprender. Os fabricantes que pretendem implementar IA física precisam de colmatar esta lacuna de dados. Os fabricantes também precisam garantir que os registros de produção possam ser vinculados a resultados de qualidade mensuráveis. Preparar uma fábrica para IA física exige mais do que coletar dados adicionais ou conectar sistemas distintos. Os fabricantes precisam entender em quais informações seus sistemas robóticos se basearão, como esses dados refletem as condições reais de produção e se podem ajudar os sistemas a fazer ajustes confiáveis ​​ao longo do tempo.\nA autonomia industrial não dependerá da quantidade de dados que os fabricantes recolhem, mas sim de se os seus sistemas robóticos estão realmente a aproveitar esses dados para tomar decisões fiáveis ​​no chão de fábrica."
 },
 {
 "id": "2a46abef6d512c",
@@ -977,6 +1000,27 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "A Samsung Electronics e a LG Electronics decidiram manter uma organização de robôs dedicada sob o controle direto do CEO e cuidar diretamente do futuro negócio de robôs. Como o negócio dos robôs leva um tempo considerável para gerar lucros em grande escala, as duas empresas optaram por continuar a investir ao nível da empresa, em vez de separá-la numa unidade de negócios independente ou incorporá-la numa unidade de negócios existente. De acordo com a indústria no dia 20, a razão pela qual ambas as empresas vinculam a organização do robô diretamente ao CEO é devido ao estágio do negócio e aos encargos financeiros. A Samsung Electronics manteve o sistema de reporte direto do CEO do ‘Robotics Experience (RX) Business Promotion Office’, que foi recentemente criado em julho, através de nomeações regulares de pessoal para os 2.027 presidentes realizadas no dia 20. A LG Electronics também manteve a organização da organização somente robô estabelecida em julho no pessoal executivo regular de 2027 e na reorganização organizacional realizada no dia 19.\nAs organizações de robôs diretamente subordinadas aos CEOs de ambas as empresas anunciarão resultados provisórios na ‘CES 2027’, realizada em Las Vegas, EUA, em janeiro de 2027. Um funcionário da indústria disse: “O negócio de robôs está em um estágio em que a internalização da tecnologia de longo prazo e o acúmulo de dados são necessários, em vez de serem avaliados com base no desempenho de curto prazo”, e acrescentou: “Esperamos nos concentrar no investimento e no desenvolvimento, enquanto continuamos a trabalhar sob o controle direto do CEO até que a comercialização e a lucratividade se tornem visíveis”."
+},
+{
+"id": "18f846718aae9f",
+"t": "A indústria robótica está envolvida em restrições às exportações de terras raras e ímanes permanentes para a China.",
+"r": "A indústria doméstica de robôs está enfrentando dificuldades, pois não consegue garantir ímãs permanentes, um material essencial, devido às restrições da China às exportações de terras raras. De acordo com a indústria de robôs no dia 22, o fabricante nacional de robôs Robotis registrou vendas de 13,5 bilhões de won no…",
+"u": "https://biz.chosun.com/industry/company/2026/11/22/APY3F3POSVGTHL3VG6YMAEW3II/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/PAT3LE3MTVAEJKVZVRZROXIOEA.jpg?auth=029461d8ea2a8f4295987d9f628c6d199ed6b496494742f98b24902f48f5af3c&width=1053&height=552&smart=true",
+"d": "2026-11-21T18:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A indústria doméstica de robôs está enfrentando dificuldades, pois não consegue garantir ímãs permanentes, um material essencial, devido às restrições da China às exportações de terras raras. De acordo com a indústria de robôs no dia 22, o fabricante nacional de robôs Robotis registrou vendas de 13,5 bilhões de won no terceiro trimestre deste ano, um aumento de 45% em relação ao mesmo período do ano passado, mas registrou um prejuízo operacional de 2,6 bilhões de won. A indústria cita as restrições da China às exportações de elementos de terras raras e ímanes permanentes como a razão pela qual a Robotis está a crescer, mas não está a obter lucro. Os pedidos do seu principal produto, os atuadores (dispositivos que atuam como músculos e articulações dos robôs), estão aumentando, mas a empresa não consegue aumentar a proporção de produtos de alto desempenho e alto valor agregado devido à incapacidade de proteger elementos de terras raras e ímãs permanentes a tempo. Desde o ano passado, a China tem vindo a implementar um sistema de licenças de exportação para sete tipos de elementos de terras médias e raras, incluindo disprósio (Dy), ligas que utilizam elementos de terras raras e materiais magnéticos permanentes.\nA Robotis tem tentado aumentar a produção de sua série de atuadores altamente vendidos 'Dynamixel-Y' desde o ano passado, mas tem enfrentado dificuldades devido às regulamentações de exportação da China. A Neuromeca, uma empresa nacional que desenvolve os seus próprios motores como o Robotis, também está a enfrentar reveses na produção em massa dos seus produtos, uma vez que não consegue garantir ímanes permanentes devido às restrições de exportação na China."
 },
 {
 "id": "e910c3f41964e8",
@@ -11171,7 +11215,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -38641,7 +38685,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44530,7 +44574,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60618,7 +60662,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60647,7 +60691,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
