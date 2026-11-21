@@ -97,7 +97,8 @@
 "i": "https://cdn.mos.cms.futurecdn.net/Vi3BKZaxSPgUMDJBwAxg4c-1920-80.png",
 "d": "2026-11-21T11:00-03:00",
 "c": [
-"drones"
+"drones",
+"resgate"
 ],
 "l": 1,
 "to": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less — 12 Skydio docks launch within seconds, purge video after 15 days",
@@ -372,9 +373,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "ScienceDaily",
-"cur": 1,
 "mx": 1,
-"rx": "A inteligência artificial pode ser muito menos parecida com o cérebro humano do que os cientistas há muito supõem. Um novo estudo da Universidade de York descobriu uma fraqueza surpreendente nos modelos de IA que são amplamente utilizados para compreender como o cérebro processa informações visuais. “Os sistemas de inteligência artificial são frequentemente descritos como ‘semelhantes ao cérebro’ porque podem prever a atividade em partes do cérebro que nos ajudam a reconhecer objetos”, diz o professor assistente da Universidade de York, Kohitij Kar, autor sênior de um novo estudo. Eles perguntaram se os modelos de IA podem prever a atividade cerebral”.\nEm vez de simplesmente medir quão bem a IA poderia prever a atividade das células cerebrais, eles investigaram se a atividade cerebral registrada também poderia prever o que estava acontecendo dentro dos modelos de IA."
+"rx": "A inteligência artificial pode ser muito menos parecida com o cérebro humano do que os cientistas há muito supõem. Um novo estudo da Universidade de York descobriu uma fraqueza surpreendente nos modelos de IA que são amplamente utilizados para compreender como o cérebro processa informações visuais. “Os sistemas de inteligência artificial são frequentemente descritos como ‘semelhantes ao cérebro’ porque podem prever a atividade em partes do cérebro que nos ajudam a reconhecer objetos”, diz o professor assistente da Universidade de York, Kohitij Kar, autor sênior de um novo estudo. Eles perguntaram se os modelos de IA podem prever a atividade cerebral”.\nEm vez de simplesmente medir quão bem a IA poderia prever a atividade das células cerebrais, eles investigaram se a atividade cerebral registrada também poderia prever o que estava acontecendo dentro dos modelos de IA.",
+"cur": 1
 },
 {
 "id": "2a46abef6d512c",
@@ -731,7 +732,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/quantum-frontline-industries-drone-production-hall-germany.webp",
 "d": "2026-11-21T11:20-03:00",
 "c": [
-"negocios"
+"negocios",
+"drones"
 ],
 "l": 0,
 "to": "Quantum Systems and Frontline Robotics Commit €10M to Ukraine",
@@ -741,6 +743,27 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "A Quantum Systems e a Frontline Robotics estão a comprometer mais de 10 milhões de euros para apoiar a capacidade na Ucrânia para os drones que a sua joint venture alemã constrói. A Quantum Frontline Industries quase concluiu um primeiro contrato para 10.000 sistemas Linza e ganhou um pedido maior para 2027 da Guarda Nacional da Ucrânia. Quantum Systems expande compromisso industrial com a Ucrânia à medida que joint venture amplia a produção de drones\nA Quantum Systems e a Frontline Robotics destinarão mais de 10 milhões de euros à Ucrânia, a fim de reforçar a capacidade de apoio a longo prazo para sistemas não tripulados. Berlim, Alemanha, 19 de novembro de 2026 – A Quantum Systems e a Frontline Robotics estão a expandir a sua cooperação industrial através de um programa de capacidade de apoio a longo prazo na Ucrânia, destinado a sistemas desenvolvidos pela Frontline Robotics e produzidos na Alemanha pela Quantum Frontline Industries (QFI)."
+},
+{
+"id": "f8d31b90b2c20a",
+"t": "Show de drones planejado enquanto CM analisa os preparativos do 360º Prakash Parv",
+"r": "A capital do estado sediará um grande show de drones com mais de 1.000 drones em Kangan Ghat em Patna Sahib em 15 de janeiro, como parte das celebrações de oito dias do 360º Prakash Parv de Shri Guru Govind Singh Ji Maharaj, agendadas de 9 a 16 de janeiro.",
+"u": "https://timesofindia.indiatimes.com/city/patna/drone-show-planned-as-cm-reviews-360th-prakash-parv-preparations/articleshow/136058634.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136058632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-21T13:04-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone show planned as CM reviews 360th Prakash Parv preparations",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "A capital do estado sediará um grande show de drones com mais de 1.000 drones em Kangan Ghat em Patna Sahib em 15 de janeiro, como parte das celebrações de oito dias do 360º Prakash Parv de Shri Guru Govind Singh Ji Maharaj, agendadas de 9 a 16 de janeiro."
 },
 {
 "id": "e910c3f41964e8",
@@ -885,7 +908,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Le Monde",
-"mx": 2
+"mx": 3
 },
 {
 "id": "3d6e72cfda2ffb",
@@ -929,6 +952,89 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "Apesar do tamanho vespa e peso pena de 249 g, o drone DJI Mini 3 possui grupo óptico aprimorado com sensor de 1/1,3“ de 12 Mpx em foto restrito ao formato HDR 4K/30 fps em vídeo."
+},
+{
+"id": "93389562a2f948",
+"t": "Robôs assassinos autônomos: o que os exércitos realmente delegam às máquinas",
+"r": "Este limite deveria levar-nos a manter uma certa distância das imagens destes novos robôs assassinos que circulam e a distinguir entre armas não tripuladas e armas autónomas. Deste ponto de vista, a definição do Comité Internacional da Cruz Vermelha (CICV) para sistemas de armas autónomos fala-nos da selecção e do…",
+"u": "https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html",
+"f": "Numerama",
+"s": "numerama.com",
+"i": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2022/12/sans-titre-60.jpg?resize=1600,900&key=2abb2a8a",
+"d": "2026-11-21T13:01-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Numerama",
+"mx": 1,
+"rx": "Este limite deveria levar-nos a manter uma certa distância das imagens destes novos robôs assassinos que circulam e a distinguir entre armas não tripuladas e armas autónomas. Deste ponto de vista, a definição do Comité Internacional da Cruz Vermelha (CICV) para sistemas de armas autónomos fala-nos da selecção e do envolvimento de alvos sem intervenção humana como critério para podermos utilizar este termo.\nTomemos o exemplo da defesa de um navio de guerra utilizando um canhão autônomo: se não for um humano quem irá ele próprio diferenciar caso a caso entre um pescador e um pirata antes de abrir fogo, será ele quem determinará os fatores de seleção para que a máquina os aplique então, sempre com arbitragem humana."
+},
+{
+"id": "34573b4de2f1a7",
+"t": "Waymo faz recall de robotáxis depois que eles dirigiram em pistas fechadas",
+"r": "Os recalls ocorrem depois que o DMV da Califórnia proibiu a Waymo de operar em suas rodovias estaduais.",
+"u": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/",
+"f": "Engadget",
+"s": "engadget.com",
+"i": "https://www.engadget.com/img/gallery/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/l-intro-1795276679.jpg",
+"d": "2026-11-21T13:01-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Waymo recalls robotaxis after they drove into closed freeway lanes",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Engadget",
+"mx": 1,
+"rx": "A Waymo registrou dois recalls para sua frota de robotáxis após incidentes em que seus veículos entraram em faixas fechadas de rodovias e não seguiram comandos manuais de equipes de emergência. Conforme relatado pela primeira vez pela Reuters, a empresa de propriedade da Alphabet disse que os dois recalls foram “para fortalecer a forma como o Waymo Driver navega em faixas fechadas de rodovias e cruzamentos com controle de tráfego manual”. Os carros Waymo funcionarão normalmente nas ruas da cidade, enquanto as viagens nas rodovias permanecerão pausadas enquanto a empresa trabalha em melhorias de software para resolver os problemas.\nWaymo registrou os recalls junto à Administração Nacional de Segurança de Tráfego Rodoviário logo depois que o Departamento de Veículos Motorizados da Califórnia proibiu seu uso em rodovias estaduais."
+},
+{
+"id": "973c478469a48d",
+"t": "“Robôs assassinos”: um acordo alcançado na ONU, mas sem proibição",
+"r": "",
+"u": "https://www.liberation.fr/international/robots-tueurs-un-accord-trouve-a-lonu-mais-pas-dinterdiction-20261121_5WLRNTYQY5GIZGCNZCFTCJVFZM/",
+"f": "Libération",
+"s": "liberation.fr",
+"i": "",
+"d": "2026-11-21T13:18-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "«Robots tueurs» : un accord trouvé à l’ONU, mais pas d’interdiction",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "Libération",
+"mx": 1
+},
+{
+"id": "0f0ddfea589467",
+"t": "Robôs assassinos: conferência da ONU termina sem mandato para proibição vinculativa",
+"r": "Apesar de muito apoio a regras rigorosas, estados como a Rússia e os EUA bloquearam mais uma vez um roteiro claro contra os sistemas de armas autónomos em Genebra.",
+"u": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html",
+"f": "heise online",
+"s": "heise.de",
+"i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/8/3/Drohnen-c08cbad6a5701d7b-1488fb4d46c624b2.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+"d": "2026-11-21T13:28-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
+"lg": "de",
+"p": 3.5,
+"cr": 2,
+"cv": "heise online",
+"mx": 1,
+"rx": "Apesar de muito apoio a regras rigorosas, estados como a Rússia e os EUA bloquearam mais uma vez um roteiro claro contra os sistemas de armas autónomos em Genebra."
 },
 {
 "id": "1997e20f48c836",
@@ -1033,7 +1139,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 2
+"mx": 3
 },
 {
 "id": "1198ccb85d33a4",
@@ -1054,7 +1160,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 2
+"mx": 3
 }
 ],
 "2026-11-20": [
@@ -3066,6 +3172,27 @@
 "rx": "Vídeo. Os robotáxis da China operam agora comercialmente em Guangzhou e Shenzhen, enquanto os drones entregam café, medicamentos e desfibrilhadores, enquanto as empresas correm para levar veículos autónomos das zonas de teste para a escala."
 },
 {
+"id": "790a1170373b59",
+"t": "Os controles da Beckhoff Automation impulsionam a colheita robótica em estufa da Four Growers",
+"r": "A Four Growers, uma desenvolvedora de tecnologias de colheita autônoma com sede em Pittsburgh, está utilizando uma série de ofertas de controle da Beckhoff Automation para avançar na implantação comercial de seus robôs autônomos de colheita de tomate em estufas. As empresas disseram que colaboraram em uma arquitetura…",
+"u": "https://www.robotics247.com/article/beckhoff-automations-controls-power-four-growers-robotic-greenhouse-harvesting",
+"f": "Robotics 24/7",
+"s": "robotics247.com",
+"i": "https://www.robotics247.com/images/2026_article/BeckhoffAutomation-FourGrowers-controls-harvesting-main-Robotics247-2026.jpg",
+"d": "2026-11-20T11:00-03:00",
+"c": [
+"agricolas"
+],
+"l": 0,
+"to": "Beckhoff Automation’s controls power Four Growers’ robotic greenhouse harvesting",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotics 24/7",
+"mx": 1,
+"rx": "A Four Growers, uma desenvolvedora de tecnologias de colheita autônoma com sede em Pittsburgh, está utilizando uma série de ofertas de controle da Beckhoff Automation para avançar na implantação comercial de seus robôs autônomos de colheita de tomate em estufas. As empresas disseram que colaboraram em uma arquitetura de controle que integra controle de movimento, comunicações de máquinas e segurança funcional para ajudar a Four Growers a fazer a transição de seu sistema robótico de colheita de protótipos para frotas de produção.\nO sistema de colheita robótica GR-200 da Four Growers utiliza visão mecânica para identificar tomates maduros e um braço robótico equipado com sucção a vácuo para remover com segurança a fruta da videira. A Four Growers disse que construiu o GR-200 em torno da plataforma de controle baseada em PC da Beckhoff, usando um PC incorporado CX5230 executando software de automação TwinCAT e TwinCAT/BSD como sistema operacional."
+},
+{
 "id": "97d103dcb073f2",
 "t": "ONU realiza convenção sobre “robôs assassinos”; Países analisam possível regulamentação destas armas autónomas",
 "r": "A conferência da ONU sobre os chamados “robôs assassinos” enfrenta esta sexta-feira a sua reta final sem consenso sobre se deve abrir negociações para regular este tipo de armas, especialmente devido ao bloqueio da Rússia. Embora as armas autónomas já existam há muito tempo, como as minas antipessoal, o progresso na…",
@@ -3513,6 +3640,27 @@
 "cv": "CBC",
 "mx": 1,
 "rx": "Os aliados da NATO do Canadá estão a soar o alarme sobre adversários estrangeiros suspeitos de danificar cabos submarinos críticos. Uma rede de cabos percorre o fundo do oceano e é responsável por cerca de 95% da Internet mundial. A ameaça surge num momento em que o Canadá enfrenta lacunas na vigilância ao longo da sua costa. Drones subaquáticos movidos por tecnologia canadense. Ottawa ainda não os comprou para vigilância."
+},
+{
+"id": "3ef96ff68d95ca",
+"t": "O Japão avança em direção à IA soberana: o desafio de proteger a infraestrutura produzida internamente e a soberania dos dados na era dos robôs",
+"r": "IA soberana é a ideia de desenvolver e operar IA (inteligência artificial) de acordo com os interesses e valores do próprio país, sem depender de grandes empresas de tecnologia estrangeiras. Neste artigo resumido, utilizaremos artigos anteriores para fornecer uma visão geral multifacetada do contexto por trás da…",
+"u": "https://business.nikkei.com/atcl/gen/19/00081/102800990/?i_cid=nbpnb_arc",
+"f": "日経ビジネス電子版",
+"s": "business.nikkei.com",
+"i": "https://business.nikkei.com/atcl/gen/19/00081/102800990/fb.jpg",
+"d": "2026-11-20T18:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ソブリンAIへ動く日本 ロボット時代の国産基盤とデータ主権守る挑戦",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "IA soberana é a ideia de desenvolver e operar IA (inteligência artificial) de acordo com os interesses e valores do próprio país, sem depender de grandes empresas de tecnologia estrangeiras. Neste artigo resumido, utilizaremos artigos anteriores para fornecer uma visão geral multifacetada do contexto por trás da necessidade de IA soberana e das tendências políticas, os desafios enfrentados pelas principais empresas de robôs, como a Noetra, responsável pelo modelo básico produzido internamente, e os preparativos que as empresas precisam fazer para enfrentar a IA.\nNo Japão, com o apoio do governo, a Noetra começou a desenvolver um modelo básico produzido internamente, e as principais empresas de robótica também começaram a organizar os dados dos seus próprios locais de produção."
 },
 {
 "id": "dc6ce18d10979b",
@@ -10621,7 +10769,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -13518,6 +13666,27 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "\"Sete robôs podem fazer 45 xícaras de café, 30 porções de sorvete e 30 xícaras de suco por hora. À tarde, na área de descanso inteligente, muitos jornalistas que estiveram ocupados a maior parte do dia deitam-se em cadeiras de massagem para tirar uma soneca. O mais recente robô de serviço \"Coconut\" da Independent Variable Robot Technology (Shenzhen) Co., Ltd. tem visão aguçada e movimentos hábeis das mãos. Fora do centro de notícias, robôs de limpeza inteligentes realizam a limpeza operações de demonstração na área central de Qianhai, Shenzhen e bairros vizinhos na base da sede bidirecional Shenzhen-Ganghui em Qianhai, robôs de inspeção realizam inspeções multiterrenos totalmente autônomas ao longo de quatro linhas diferentes, detectando resíduos ilegais, estacionamento ilegal de veículos de duas rodas, construção de bloqueios de estradas, etc.\nDo centro de notícias ao bairro de Qianhai, as figuras ocupadas de robôs testemunham a vitalidade da inovação científica e tecnológica de Shenzhen."
+},
+{
+"id": "5d484f71ef3beb",
+"t": "Waymo diz que seu robotaxis trava muito menos que os humanos. A Califórnia simplesmente os chamou de “perigo iminente” e os retirou das rodovias",
+"r": "Waymo diz que seus robotáxis estão envolvidos em muito menos acidentes graves do que motoristas humanos. Em 11 de novembro, o Departamento de Veículos Motorizados da Califórnia proibiu a Waymo de operar ou testar seus carros sem motorista em rodovias depois que vários veículos entraram em um fechamento ativo de…",
+"u": "https://fortune.com/2026/11/18/waymo-driverless-freeway-ban-california-nationwide/",
+"f": "Fortune",
+"s": "fortune.com",
+"i": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2299306925-e1795034332635.jpg?resize=1200,600",
+"d": "2026-11-18T17:53-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Waymo says its robotaxis crash far less than humans. California just called them an ‘imminent hazard’ and pulled them off freeways",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Fortune",
+"mx": 1,
+"rx": "Waymo diz que seus robotáxis estão envolvidos em muito menos acidentes graves do que motoristas humanos. Em 11 de novembro, o Departamento de Veículos Motorizados da Califórnia proibiu a Waymo de operar ou testar seus carros sem motorista em rodovias depois que vários veículos entraram em um fechamento ativo de construção e outro incidente em que um Waymo tentou contornar os carros da Patrulha Rodoviária da Califórnia em uma interrupção no trânsito. Desde então, a Waymo interrompeu as viagens sem motorista em todos os seus mercados, incluindo Phoenix, Miami e Austin, embora ainda esteja testando em rodovias com especialistas ao volante.\nO DMV disse que três veículos Waymo entraram em um fechamento ativo de construção nos EUA. Waymo também afirma que seus veículos se envolveram em 93% menos acidentes que causaram ferimentos envolvendo pedestres."
 },
 {
 "id": "fec1767620cc0e",
@@ -30848,6 +31017,27 @@
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
+"id": "e2f7dbca5dc750",
+"t": "Feng Shuo inteligente de nível de potência: Saindo do expositor, quantos 9 faltam para o robô? | Notícias sobre o elenco de Xinglian",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4072078918064003",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-15T12:36-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "幂级智能封硕： 走下展示台，机器人还差几个9 ？| 星连被投动态",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
 "id": "6b5588d39175cf",
 "t": "Yang Zhexuan fala sobre compilação de dados, capacidades de modelo e como os robôs entram novamente no mundo real",
 "r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
@@ -38049,7 +38239,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -43938,7 +44128,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60026,7 +60216,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60055,7 +60245,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
