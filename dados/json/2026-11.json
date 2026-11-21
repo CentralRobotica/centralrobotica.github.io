@@ -421,6 +421,28 @@
 "cur": 1
 },
 {
+"id": "13999721f1d726",
+"t": "Black Friday torna o pacote completo de drones do DJI Flip US$ 234 mais barato",
+"r": "Alguns drones são construídos para cineastas profissionais. Outros são projetados para pessoas que já conhecem o joystick. E há também o DJI Flip, um drone que faz você se perguntar por que conseguir aquelas fotos aéreas incríveis foi tão complicado. mais…",
+"u": "https://dronedj.com/2026/11/21/dji-flip-drone-black-friday-2/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2025/03/dji-flip-best-beginner-drone.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-21T17:21-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Black Friday makes DJI Flip’s complete drone bundle $234 cheaper",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"mx": 1,
+"rx": "DJI Flip Fly More Combo com RC 2 agora custa apenas US$ 545 em uma oferta da Black Friday, economizando US$ 234 neste drone 4K para iniciantes repleto de extras."
+},
+{
 "id": "2a46abef6d512c",
 "t": "Power Grid Corporation é pioneira em drones de carga pesada para construção de linhas de transmissão de alta tensão",
 "r": "Descubra como a Power Grid Corporation está utilizando drones de carga pesada para revolucionar a construção de linhas de transmissão de alta tensão em terrenos desafiadores, aumentando a segurança e a velocidade.",
@@ -860,7 +882,8 @@
 "i": "https://www.telegraph.co.uk/content/dam/news/2026/11/21/TELEMMGLPICT000496008272_17952753242440_trans_NvBQzQNjv4BqxJrvX3flfbbqlT_XQbRiyJI5XzCI228rUNagLB56ONM.jpeg?impolicy=OG-Standard",
 "d": "2026-11-21T13:06-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "RAF building its last manned fighter jet as drones take over",
@@ -881,7 +904,7 @@
 "i": "https://www.repstatic.it/content/nazionale/img/2026/11/21/201354887-4132fde0-1b6c-488b-9503-a1bf2278eb05.jpg",
 "d": "2026-11-21T16:13-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Pace, “Un fallimento a Ginevra sul trattato per i robot killer: gli Stati non si impegnano”",
@@ -1183,6 +1206,27 @@
 "cv": "Engadget",
 "mx": 1,
 "rx": "A tecnologia autônoma da Tesla aguarda outra grande votação da União Europeia antes do final do ano. O Ministério de Infraestrutura e Transportes da Itália concedeu aprovação provisória para o Full Self-Driving (Supervisionado) da Tesla, que foi rebatizado para Tesla Assisted Driving na Europa. A aprovação da Itália marca outro marco regulatório para a Tesla desde que o país decidiu antecipar a votação esperada da União Europeia sobre o seu sistema de assistência ao condutor, prevista para o final deste ano. A Tesla ainda aguarda decisões de outros grandes países da União Europeia, incluindo Alemanha e França, que está atualmente em processo de teste da Direção Assistida Tesla.\nA tecnologia de condução autónoma da Tesla estreou-se pela primeira vez na Europa, graças à aprovação provisória da autoridade reguladora holandesa em abril."
+},
+{
+"id": "234da3fc18675a",
+"t": "A ONU não consegue chegar a acordo sobre regras que regulam ‘robôs assassinos’",
+"r": "Um dos itens da agenda dos diplomatas da ONU reunidos em Genebra esta semana era trabalhar em prol de regras relativas ao uso de armas autônomas, ou os chamados “robôs assassinos”. Eventualmente, os representantes deixaram as reuniões concordando em “começar a discutir opções” após uma semana de negociações em grande parte infrutífera. De acordo com…",
+"u": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+"f": "The Verge",
+"s": "theverge.com",
+"i": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+"d": "2026-11-21T17:03-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "The UN fails to agree on rules regulating ‘killer robots’",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "The Verge",
+"mx": 1,
+"rx": "Um dos itens da agenda dos diplomatas da ONU reunidos em Genebra esta semana era trabalhar em prol de regras relativas ao uso de armas autônomas, ou os chamados “robôs assassinos”. Eventualmente, os representantes deixaram as reuniões concordando em “começar a discutir opções” após uma semana de negociações em grande parte infrutífera. Antes do início das negociações, o Comité Internacional da Cruz Vermelha, o guardião das Convenções de Genebra, disse que era urgente que regras juridicamente vinculativas fossem elaboradas dentro de um ano.\nAs organizações humanitárias e alguns países consideram necessário adoptar urgentemente regras juridicamente vinculativas, uma vez que as armas semi-autónomas e os drones têm sido responsáveis ​​por um número significativo de mortes de civis em conflitos em todo o mundo, incluindo na Ucrânia, em Gaza e no Sudão."
 },
 {
 "id": "1997e20f48c836",
@@ -3344,6 +3388,27 @@
 "cv": "The Globe and Mail",
 "mx": 1,
 "rx": "Esta semana: Uma empresa que usa IA e robôs para ajudar a construir mais casas e o lado positivo dos preços mais baixos para os boomers. Você moraria em uma casa que robôs ajudaram a construir? desenvolveu um software de IA que divide os projetos residenciais existentes dos desenvolvedores em peças do tamanho de paredes, pisos e tetos que os robôs produzem em uma fábrica, até os sistemas HVAC e de encanamento.\nComo relata Murad Hemmadi, a Promise construiu 200 casas até o momento, tem um contrato com uma das maiores construtoras residenciais do Canadá e acaba de levantar US$ 40 milhões adicionais para expandir. E embora muitos boomers que podem pagar estejam ajudando seus filhos com pagamentos iniciais para subir na escada imobiliária, ele diz que os preços mais baixos das casas reduzirão essa pressão e deixarão mais dinheiro em seus bolsos ou contas de aposentadoria."
+},
+{
+"id": "bfb0aa457604ff",
+"t": "Shenzhen apresenta robótica de ponta na Cúpula da APEC",
+"r": "Shenzhen apresenta robótica de ponta na Cúpula da APEC O centro de fabricação da China demonstra capacidades físicas avançadas de IA, sinalizando competitividade em indústrias orientadas por IA, de drones a humanóides",
+"u": "https://www.chosun.com/english/world-en/2026/11/20/ABNAQTP43JAA3CQUEZN3XTA7OY/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/2LX6OW2WPZJ47N33BOV2MQX2HU.jpg?auth=0ec2323911c71784536341678b0fef7b10d4da84021ca045975286e04b71809f&width=1200&height=630&focal=3721,1220",
+"d": "2026-11-20T10:46-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Shenzhen Showcases Cutting-Edge Robotics at APEC Summit",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Shenzhen apresenta robótica de ponta na Cúpula da APEC O centro de fabricação da China demonstra capacidades físicas avançadas de IA, sinalizando competitividade em indústrias orientadas por IA, de drones a humanóides"
 },
 {
 "id": "f373181ee67e1f",
@@ -8373,6 +8438,27 @@
 "rx": "O escritório de advocacia Gwangjang (CEO Sang-gon Kim) realizará em conjunto um seminário sobre 'Projetando novas normas para a coexistência de humanos e robôs na era da IA ​​física' com a Sociedade Coreana de Ética na Internet às 14h. no dia 27, no novo edifício Hanjin em Gwangjang, Jung-gu, Seul. Este seminário foi concebido para examinar questões importantes, como o desenvolvimento da indústria robótica, padrões de segurança, responsabilidade legal em caso de acidente e transição de emprego. O seminário começa com um discurso de abertura de Seon Ji-won, presidente da Associação Coreana de Ética na Internet, e um discurso de boas-vindas de Kim Sang-gon, advogado representante de Gwangjang. Na primeira sessão, 'Inovação da Indústria Robótica e Direção da Política Legal', Seonghwan Ahn, Diretor Geral da HD Hyundai Robotics, fará uma apresentação sobre o tema 'O alvorecer da era da IA ​​física: Inovação na tecnologia robótica e a competitividade das nossas empresas'. O advogado Seonghee Chae, de Gwangjang, também abordará 'os principais conteúdos e questões práticas do sistema de certificação relacionado à segurança para robôs inteligentes'.\nA terceira sessão, ‘Transição de Emprego e Aceitação Social’, é liderada pelo Conselheiro Kim Jeong-sam de Gwangjang. Gwang Hwan-jang, advogado e chefe do Grupo TMT/DPC, disse: \"Com o desenvolvimento da IA ​​física, as questões jurídicas que as empresas enfrentam, como padrões e certificação de segurança e responsabilidade em caso de acidente, estão se tornando mais complexas. Precisamos reduzir a possibilidade de problemas jurídicos com base na compreensão da tecnologia e das instalações industriais, e estabelecer uma base institucional para apoiar a inovação corporativa e a confiança do usuário\"."
 },
 {
+"id": "2ee4ce2643cd12",
+"t": "Lee e Ko serão co-organizadores de seminário sobre coexistência humano-robô",
+"r": "Lee & Ko, liderados pelo sócio-gerente Kim Sang-gon, e a Sociedade Coreana de Ética na Internet serão co-organizadores de um seminário intitulado \"Projetando novas normas para a coexistência humano-robô na era da IA ​​física\" às 14h. no dia 27, no Edifício Hanjin, o novo anexo do escritório de advocacia no distrito de…",
+"u": "https://biz.chosun.com/en/en-society/2026/11/20/NPY37EMKLZBERFB2OL2NERIYMM/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/LBZXQNJMHRFTPNMO7ACHEGELQA.jpg?auth=8c9fc9ee3588227eb7b767b80606162ff6ac50c2d780fda9a35b4721a4f1e4cd&width=1200&height=630&smart=true",
+"d": "2026-11-19T21:22-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Lee & Ko to co-host seminar on human-robot coexistence",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Lee & Ko, liderados pelo sócio-gerente Kim Sang-gon, e a Sociedade Coreana de Ética na Internet serão co-organizadores de um seminário intitulado \"Projetando novas normas para a coexistência humano-robô na era da IA ​​física\" às 14h. no dia 27, no Edifício Hanjin, o novo anexo do escritório de advocacia no distrito de Jung, em Seul. O seminário foi organizado para examinar questões-chave, incluindo o desenvolvimento da indústria robótica, padrões de segurança, responsabilidade legal em acidentes e transições de emprego.\nO seminário começará com os comentários de abertura de Sun Ji-won, presidente da Sociedade Coreana de Ética na Internet, e um discurso de boas-vindas de Kim Sang-gon, sócio-gerente da Lee & Ko. A terceira sessão, “Transição de emprego e aceitação social”, será liderada pelo conselheiro da Lee & Ko, Kim Jung-sam."
+},
+{
 "id": "f4887451b1b7f7",
 "t": "CSS Holdings [2304]: Mudando o futuro dos serviços com IA x robôs x capacidades no local. ~Assumindo uma nova etapa em parceria com a TechMagic~ 20 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
 "r": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF",
@@ -11014,7 +11100,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -38484,7 +38570,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44373,7 +44459,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60461,7 +60547,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60490,7 +60576,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
