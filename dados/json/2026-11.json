@@ -54,7 +54,8 @@
 "i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/20/6b00bc6de1e57.jpeg",
 "d": "2026-11-21T10:43-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"companhia"
 ],
 "l": 1,
 "to": "Flash, il robot runner di Honor debutta alla mezza maratona di Milano",
@@ -85,6 +86,27 @@
 "cv": "Corriere della Sera",
 "mx": 1,
 "rx": "A controladora chinesa Honor escolheu Milão para apresentar seu robô mais rápido. Flash (meio-recordista com 50 minutos e 26 segundos alcançados em Pequim) aparece no grid de largada no City Life no domingo, 22 de novembro. É Honor D1 Flash, o robô que abrirá a meia maratona Powerade Milan no domingo, 22 de novembro. Ouvimos a voz de um dos pais da geração destes robôs, Pier Giorgio Furcas, vice-presidente da Honor Italia: «A Honor escolheu a Itália, e em particular Milão, para deixar o Flash funcionar.\nAo lado deste robô corredor está seu irmão Honor A1 Vita Boy, mais baixo (1,69 cm) e com uma “constituição” mais humanóide: ele não corre, mas será o responsável por premiar os vencedores da meia maratona de Milão."
+},
+{
+"id": "2e1f5778f4e904",
+"t": "Novos drones 911 semi-autônomos alcançarão quase toda Knoxville em 90 segundos ou menos – 12 docas Skydio serão lançadas em segundos, eliminando o vídeo após 15 dias",
+"r": "O Departamento de Polícia de Knoxville anunciou seu programa “Drone as First Responder”, ou DFR, com drones semi-autônomos programados para serem lançados a partir de 12 docas localizadas ao redor da cidade. As docas permitirão que drones sejam despachados segundos após o recebimento de uma chamada para o 911, e eles…",
+"u": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers",
+"f": "Tom's Hardware",
+"s": "tomshardware.com",
+"i": "https://cdn.mos.cms.futurecdn.net/Vi3BKZaxSPgUMDJBwAxg4c-1920-80.png",
+"d": "2026-11-21T11:00-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less — 12 Skydio docks launch within seconds, purge video after 15 days",
+"lg": "en",
+"p": 9.5,
+"cr": 2,
+"cv": "Tom's Hardware",
+"mx": 1,
+"rx": "O Departamento de Polícia de Knoxville anunciou seu programa “Drone as First Responder”, ou DFR, com drones semi-autônomos programados para serem lançados a partir de 12 docas localizadas ao redor da cidade. As docas permitirão que drones sejam despachados segundos após o recebimento de uma chamada para o 911, e eles poderão chegar a praticamente qualquer área da cidade em apenas 90 segundos, de acordo com uma página no site do departamento de polícia. Espera-se que os drones sejam capazes de reduzir o risco para a comunidade e também para os policiais, ao mesmo tempo que fornecem consciência situacional em tempo real durante “eventos em rápida evolução”.\nEmbora o departamento de polícia não tenha confirmado quais drones serão usados, sabemos que eles serão lançados a partir das docas Skydio localizadas em instalações de propriedade da cidade."
 },
 {
 "id": "a3ecd11dbe7e27",
@@ -330,6 +352,29 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A Bot Auto lançou sua Capacity Grid, uma rede de transporte de carga projetada para atender à demanda dos clientes com capacidade de transporte autônomo, juntamente com acordos que cobrem 200 milhões de milhas de operações de carga sem motorista. Os acordos incluem um compromisso que cobre 50 milhões de milhas para a FreightVana, uma empresa de logística sediada em Phoenix, especializada no transporte de carga apenas com energia elétrica.\nA Bot Auto diz que a Grade de Capacidade representa uma mudança da operação de caminhões autônomos individuais para o gerenciamento de uma rede de frete coordenada capaz de atender clientes em múltiplas rotas e horários. Ao contrário dos fornecedores de tecnologia de transporte autónomo que vendem sistemas de condução a operadores de frotas, a Bot Auto possui e opera os seus veículos e fornece serviços de transporte diretamente aos clientes."
+},
+{
+"id": "9a7d62160314c0",
+"t": "Afinal, a IA pode não funcionar como o cérebro humano, descobrem os cientistas",
+"r": "Afinal, a IA pode não pensar como o cérebro humano, de acordo com uma nova descoberta surpreendente que desafia a forma como os cientistas entendem a inteligência artificial. Os pesquisadores descobriram que mesmo os modelos de IA que prevêem de perto a atividade cerebral podem depender de processos internos que o cérebro não utiliza, levantando questões importantes sobre…",
+"u": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+"f": "ScienceDaily",
+"s": "sciencedaily.com",
+"i": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+"d": "2026-11-21T12:24-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "AI may not work like the human brain after all, scientists discover",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "ScienceDaily",
+"cur": 1,
+"mx": 1,
+"rx": "A inteligência artificial pode ser muito menos parecida com o cérebro humano do que os cientistas há muito supõem. Um novo estudo da Universidade de York descobriu uma fraqueza surpreendente nos modelos de IA que são amplamente utilizados para compreender como o cérebro processa informações visuais. “Os sistemas de inteligência artificial são frequentemente descritos como ‘semelhantes ao cérebro’ porque podem prever a atividade em partes do cérebro que nos ajudam a reconhecer objetos”, diz o professor assistente da Universidade de York, Kohitij Kar, autor sênior de um novo estudo. Eles perguntaram se os modelos de IA podem prever a atividade cerebral”.\nEm vez de simplesmente medir quão bem a IA poderia prever a atividade das células cerebrais, eles investigaram se a atividade cerebral registrada também poderia prever o que estava acontecendo dentro dos modelos de IA."
 },
 {
 "id": "2a46abef6d512c",
@@ -656,6 +701,48 @@
 "rx": "Tomando nota das recorrentes incursões de elefantes selvagens em Vadasserikkara, que se transformaram numa importante questão política nas zonas florestais do distrito, o governo do Estado elaborou um plano de acção conjunto que incorpora tecnologia avançada e intervenção coordenada de vários departamentos. Uma reunião de emergência convocada pelo Ministro das Florestas Shibu Baby John aqui no sábado (21 de novembro de 2026) decidiu instalar duas câmeras habilitadas para IA com sistemas de alerta baseados em sensores em pontos-chave ao longo das rotas frequentemente usadas pelos elefantes. Sensores sísmicos também serão instalados no subsolo para detectar a presença de elefantes num raio de um quilômetro.\nO governo também promoverá o cultivo de plantas cítricas e de açafrão ao longo dos limites das florestas como barreiras naturais contra os elefantes."
 },
 {
+"id": "bd2458e760f999",
+"t": "Robôs assassinos: as negociações da ONU ficam aquém das esperanças de regras juridicamente vinculativas",
+"r": "GENEBRA – Diplomatas reunidos nas Nações Unidas em Genebra concordaram em começar a discutir opções para regulamentar armas autônomas letais, muitas vezes chamadas de “robôs assassinos”. Após uma semana de negociações que se arrastaram até altas horas da manhã de sábado, surgiu um compromisso: os países teriam dois…",
+"u": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+"f": "NPR",
+"s": "npr.org",
+"i": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2332+0+216/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
+"d": "2026-11-21T11:18-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "NPR",
+"mx": 1,
+"rx": "GENEBRA – Diplomatas reunidos nas Nações Unidas em Genebra concordaram em começar a discutir opções para regulamentar armas autônomas letais, muitas vezes chamadas de “robôs assassinos”. Após uma semana de negociações que se arrastaram até altas horas da manhã de sábado, surgiu um compromisso: os países teriam dois anos para sugerir regulamentos que pudessem ser juridicamente vinculativos, mas também opcionais.\nAntes do início das negociações, o Comité Internacional da Cruz Vermelha, o guardião das Convenções de Genebra, disse que era urgente que regras juridicamente vinculativas fossem elaboradas dentro de um ano. Embora a maioria dos Estados-membros da ONU concordem que deveria haver alguns controlos sobre as armas autónomas, o compromisso de Genebra significa que, pelo menos durante os próximos dois anos, as armas que podem utilizar a inteligência artificial para tomar decisões de vida ou morte permanecerão não regulamentadas."
+},
+{
+"id": "460489cfd3f6ba",
+"t": "Quantum Systems e Frontline Robotics destinam 10 milhões de euros à Ucrânia",
+"r": "A Quantum Systems e a Frontline Robotics estão a comprometer mais de 10 milhões de euros para apoiar a capacidade na Ucrânia para os drones que a sua joint venture alemã constrói. A Quantum Frontline Industries quase concluiu um primeiro contrato para 10.000 sistemas Linza e ganhou um pedido maior para 2027 da Guarda…",
+"u": "https://dronexl.co/2026/11/21/quantum-systems-frontline-robotics-10-million-ukraine-support/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/quantum-frontline-industries-drone-production-hall-germany.webp",
+"d": "2026-11-21T11:20-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Quantum Systems and Frontline Robotics Commit €10M to Ukraine",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Quantum Systems e a Frontline Robotics estão a comprometer mais de 10 milhões de euros para apoiar a capacidade na Ucrânia para os drones que a sua joint venture alemã constrói. A Quantum Frontline Industries quase concluiu um primeiro contrato para 10.000 sistemas Linza e ganhou um pedido maior para 2027 da Guarda Nacional da Ucrânia. Quantum Systems expande compromisso industrial com a Ucrânia à medida que joint venture amplia a produção de drones\nA Quantum Systems e a Frontline Robotics destinarão mais de 10 milhões de euros à Ucrânia, a fim de reforçar a capacidade de apoio a longo prazo para sistemas não tripulados. Berlim, Alemanha, 19 de novembro de 2026 – A Quantum Systems e a Frontline Robotics estão a expandir a sua cooperação industrial através de um programa de capacidade de apoio a longo prazo na Ucrânia, destinado a sistemas desenvolvidos pela Frontline Robotics e produzidos na Alemanha pela Quantum Frontline Industries (QFI)."
+},
+{
 "id": "e910c3f41964e8",
 "t": "Na câmera, robô humanóide convida o ministro do Rajastão, Madan Dilawar, para o laboratório de inovação em Kota",
 "r": "",
@@ -798,7 +885,29 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Le Monde",
-"mx": 1
+"mx": 2
+},
+{
+"id": "3d6e72cfda2ffb",
+"t": "A arma EMP ‘Dragon’ da empresa de defesa frita 51 drones à prova de congestionamento simultaneamente – o sistema eletromagnético de alta potência depende da tecnologia de tubo de vácuo de 120 anos para derrotar UAVs de fibra óptica",
+"r": "Os drones tornaram-se uma grande ameaça nos campos de batalha modernos, razão pela qual a empresa de defesa turca Aselsan desenvolveu uma solução potente para os combater. A empresa compartilhou um vídeo no YouTube mostrando seu Ejderha, que se traduz como “Dragão” em inglês, Sistema de Contramedidas Anti-Drone…",
+"u": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs",
+"f": "Tom's Hardware",
+"s": "tomshardware.com",
+"i": "https://cdn.mos.cms.futurecdn.net/A5vpqA9xZF22Li2gaK2Ubd-1920-80.png",
+"d": "2026-11-21T10:54-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Defense firm’s EMP ‘Dragon’ weapon fries 51 jam-proof drones simultaneously — high-power electromagnetic system relies on 120-year-old vacuum tube tech to defeat fiber optic UAVs",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Tom's Hardware",
+"mx": 1,
+"rx": "Os drones tornaram-se uma grande ameaça nos campos de batalha modernos, razão pela qual a empresa de defesa turca Aselsan desenvolveu uma solução potente para os combater. A empresa compartilhou um vídeo no YouTube mostrando seu Ejderha, que se traduz como “Dragão” em inglês, Sistema de Contramedidas Anti-Drone derrubando 51 drones simultaneamente. A empresa afirma que o dispositivo usa ondas eletromagnéticas de alta potência (HPEM) e eletrônicos a vácuo para desativar os componentes eletrônicos em mini e micro drones.\nEmbora os drones e veículos aéreos não tripulados (UAVs) já existam há décadas, a escalada da Rússia em 2022 na Ucrânia viu a primeira utilização generalizada de pequenos drones na linha da frente, alguns dos quais foram adaptados de modelos comerciais. A China também revelou um design portátil que neutraliza drones em menos de quatro segundos a até 500 metros de distância, usando um laser de 2 quilowatts."
 },
 {
 "id": "5e762e81eee397",
@@ -924,7 +1033,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 },
 {
 "id": "1198ccb85d33a4",
@@ -945,7 +1054,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-20": [
@@ -4399,7 +4508,7 @@
 "p": 3.0,
 "cr": 2,
 "cv": "ETNews",
-"mx": 2
+"mx": 3
 },
 {
 "id": "271dd3105fe12c",
@@ -4421,7 +4530,7 @@
 "p": 3.0,
 "cr": 2,
 "cv": "ETNews",
-"mx": 2
+"mx": 3
 },
 {
 "id": "9f265a04729253",
@@ -9528,7 +9637,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 2
+"mx": 3
 },
 {
 "id": "809af3174a9ec1",
@@ -10512,7 +10621,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -37940,7 +38049,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -43829,7 +43938,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -59917,7 +60026,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -59946,7 +60055,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
