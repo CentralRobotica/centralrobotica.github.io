@@ -1,6 +1,27 @@
 {
 "2026-11-22": [
 {
+"id": "03357f8fa0274e",
+"t": "Frost & Sullivan lançou o livro azul de desenvolvimento da indústria global de robôs médicos de 2026",
+"r": "Xangai, China--(Newsfile Corp. - 21 de novembro de 2026) - A Frost & Sullivan lançou oficialmente o \"Livro Azul de Desenvolvimento da Indústria Global de Robôs Médicos 2026\". Também examina a evolução política da China, as tendências do mercado de capitais, a expansão no exterior e casos empresariais representativos…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/8954485/frost-sullivan-released-the-2026-global-medical-robots-industry-development-blue-book/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"d": "2026-11-22T00:44-03:00",
+"c": [
+"medicina"
+],
+"l": 1,
+"to": "Frost & Sullivan Released the 2026 Global Medical Robots Industry Development Blue Book",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "Xangai, China--(Newsfile Corp. - 21 de novembro de 2026) - A Frost & Sullivan lançou oficialmente o \"Livro Azul de Desenvolvimento da Indústria Global de Robôs Médicos 2026\". Também examina a evolução política da China, as tendências do mercado de capitais, a expansão no exterior e casos empresariais representativos, fornecendo uma referência para instituições de saúde, fornecedores de tecnologia, investidores e outros participantes da indústria. (Para saber mais sobre o Livro Azul de Desenvolvimento da Indústria Global de Robôs Médicos 2026, visite: https://hub.frost.com/global-medical-robots-industry-development-blue-book/ )\nO Blue Book analisa ainda empresas representativas e caminhos de desenvolvimento da indústria, incluindo Baihui Weikang, Edge Medical (2675.HK), Rossum Robot e SAGEBOT. Visão geral do desenvolvimento da indústria de robôs médicos: integração tecnológica e necessidades clínicas"
+},
+{
 "id": "2d0f3469389792",
 "t": "Nota fortalece a ‘pesquisa física de IA’ alemã… Visando o mercado de otimização de robôs",
 "r": "A Nota está a reforçar as suas capacidades de investigação no domínio da inteligência artificial física (IA), com foco na sua subsidiária alemã. As tecnologias existentes de redução de peso e otimização de modelos de IA serão expandidas e aplicadas a campos físicos de IA, como robôs e modelos mundiais. De acordo com a…",
@@ -10,7 +31,7 @@
 "i": "https://img.etnews.com/news/article/2026/10/28/news-p.v1.20261028.4486bf87d49543c8bf57eb728175f339_P1.png",
 "d": "2026-11-22T00:00-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "노타, 독일 '피지컬 AI 연구' 강화…로봇 최적화 시장 공략",
@@ -20,6 +41,27 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "A Nota está a reforçar as suas capacidades de investigação no domínio da inteligência artificial física (IA), com foco na sua subsidiária alemã. As tecnologias existentes de redução de peso e otimização de modelos de IA serão expandidas e aplicadas a campos físicos de IA, como robôs e modelos mundiais. De acordo com a indústria no dia 22, a subsidiária alemã da Nota começou recentemente a recrutar pesquisadores de aprendizado de máquina (ML) na área de IA física. Uma organização de pesquisa europeia localizada em Berlim, Alemanha, desenvolve IA em dispositivos e tecnologia de otimização de modelos físicos de IA. A subsidiária alemã da Nota disse: “À medida que a demanda por IA física está aumentando na Alemanha, as empresas locais têm questionado diretamente sobre a tecnologia” e acrescentou: “Planejamos fortalecer ainda mais nossos atuais recursos de tecnologia de redução de peso e otimização de modelos de IA no campo de IA física”. A subsidiária alemã da Nota explicou: “À medida que a escala e o volume computacional dos modelos de IA usados ​​em robôs como VLM e VLA cresceram recentemente, a tecnologia que opera de forma rápida e eficiente, mesmo com recursos computacionais limitados, tornou-se importante”. Nota também explicou: “A Nota também está expandindo sua aplicação de tecnologia de otimização para ambientes físicos de IA, como robôs”. O CEO da Nota, Chae Myeong-soo, disse: “À medida que a demanda por IA física aumenta na Alemanha, estamos expandindo nossa tecnologia existente de redução de peso e otimização de modelos de IA para o campo de IA física”. Ele acrescentou: “Em particular, modelos de ação como o VLA, que controlam o comportamento do robô, têm métodos de otimização diferentes dos modelos de IA existentes, por isso estamos fortalecendo as capacidades tecnológicas relacionadas”."
+},
+{
+"id": "a95b9f52265c1d",
+"t": "Avanços contra o câncer de pâncreas: como detectar sinais de alerta, cirurgia robótica e terapias direcionadas",
+"r": "",
+"u": "https://www.milenio.com/ciencia-y-salud/cancer-de-pancreas-sintomas-diagnostico-cirugia-robotica-rasonque-fda",
+"f": "Milenio",
+"s": "milenio.com",
+"i": "",
+"d": "2026-11-22T00:46-03:00",
+"c": [
+"companhia",
+"medicina"
+],
+"l": 0,
+"to": "Avances contra el cáncer de páncreas: Cómo detectar señales de alerta, cirugía robótica y terapias dirigidas q",
+"lg": "es",
+"p": 3.5,
+"cr": 3,
+"cv": "Milenio",
+"mx": 1
 }
 ],
 "2026-11-21": [
@@ -514,6 +556,28 @@
 "cv": "The Robot Report",
 "mx": 1,
 "rx": "Para que os robôs ultrapassem os ambientes controlados e cheguem ao chão de fábrica, eles precisam de dados do mundo real para aprender. Os fabricantes que pretendem implementar IA física precisam de colmatar esta lacuna de dados. Os fabricantes também precisam garantir que os registros de produção possam ser vinculados a resultados de qualidade mensuráveis. Preparar uma fábrica para IA física exige mais do que coletar dados adicionais ou conectar sistemas distintos. Os fabricantes precisam entender em quais informações seus sistemas robóticos se basearão, como esses dados refletem as condições reais de produção e se podem ajudar os sistemas a fazer ajustes confiáveis ​​ao longo do tempo.\nA autonomia industrial não dependerá da quantidade de dados que os fabricantes recolhem, mas sim de se os seus sistemas robóticos estão realmente a aproveitar esses dados para tomar decisões fiáveis ​​no chão de fábrica."
+},
+{
+"id": "c30fbed05f7e76",
+"t": "Drone com braços macios usa juntas giratórias para se espremer em espaços apertados a 7,2 km/h",
+"r": "NTNU e ETH Zurich construíram um quadrotor de braço macio que se dobra passivamente ao contato para se espremer através de lacunas 52% mais estreitas do que sua extensão normal.",
+"u": "https://interestingengineering.com/ai-robotics/soft-armed-quadrotor-drone-folds-on-contact",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Soft-drone.jpg",
+"d": "2026-11-21T23:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Soft-armed drone uses rolling cam joints to squeeze through tight spaces at 4.5 mph",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "NTNU e ETH Zurich construíram um quadrotor de braço macio que se dobra passivamente ao contato para se espremer através de lacunas 52% mais estreitas do que sua extensão normal."
 },
 {
 "id": "2a46abef6d512c",
@@ -1095,6 +1159,27 @@
 "rx": "(Seul = Yonhap News) Repórter Jang Bo-in = A Agência de Promoção da Indústria de Robôs da Coreia anunciou no dia 22 que assinou um 'acordo comercial para expandir a introdução de robôs avançados e inteligência artificial física (IA) no campo de defesa' com o 2º Comando Operacional do Exército no dia 19. As duas organizações cooperarão para ▲ identificar a demanda para o uso de robôs avançados e IA física no campo da defesa e promover projetos cooperativos ▲ expandir a aplicação de campo e demonstração de robôs avançados e tecnologias de IA física ▲ revisar e operar piloto do ambiente de verificação ▲ trocar a mais recente tecnologia, indústria, informações políticas e conhecimento especializado ▲ compartilhar e divulgar os resultados da utilização de IA e robôs no campo da defesa. A Agência de Promoção da Indústria Robótica descobre a demanda pelo uso de robôs em campos de defesa, planeja tarefas de demonstração e as vincula a projetos de apoio governamental relacionados. O 2º Comando de Operações planeja fornecer uma unidade de demonstração e um banco de testes para demonstrar robôs de defesa nacional. A Agência de Promoção da Indústria Robótica espera que as duas organizações sejam capazes de aumentar a eficiência de tarefas repetitivas e onerosas, como logística e abastecimento, e garantir a segurança dos soldados, trabalhando em conjunto para identificar a procura para a introdução de robôs no campo da defesa e para demonstrá-los e expandi-los.\nCho Young-hoon, chefe da Agência de Promoção da Indústria de Robôs, disse: \"O ambiente de demonstração fornecido pela 2ª Companhia Operacional será um importante trampolim para que a excelente tecnologia de robôs civis se estabeleça no setor de defesa. Faremos o nosso melhor para garantir que o uso de robôs no setor público seja contínuo e não apenas único\"."
 },
 {
+"id": "c0bbf08b73bc5c",
+"t": "“Eu não sou um robô” vira uma armadilha para hackers! Se você seguir estas 1 etapas, seu computador pode ser hackeado. Especialista: Definitivamente é uma farsa.",
+"r": "Incidentes de segurança da informação ocorreram com frequência recentemente, e até mesmo a comum “verificação homem-máquina” pode conter armadilhas escondidas! Recentemente, alguns internautas compartilharam as técnicas de ataque de hackers que encontraram. Os criminosos falsificam sistemas de verificação…",
+"u": "https://tech.udn.com/tech/amp/story/123152/9885935",
+"f": "udn科技玩家",
+"s": "tech.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/18/35528716.jpg&M=1&wm=5_ai_wm1.png&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+"d": "2026-11-21T22:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "「我不是機器人」變駭客陷阱！照做1動作電腦恐遭入侵 內行：絕對是詐騙",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "Incidentes de segurança da informação ocorreram com frequência recentemente, e até mesmo a comum “verificação homem-máquina” pode conter armadilhas escondidas! Recentemente, alguns internautas compartilharam as técnicas de ataque de hackers que encontraram. Os criminosos falsificam sistemas de verificação humano-computador e induzem os usuários a executar instruções maliciosas em seus computadores. Um pouco de descuido pode permitir que vírus Trojan invadam computadores. Ele então usou IA para auxiliar na análise e descobriu que as instruções fornecidas pelo falso sistema de verificação eram suspeitas de envolver programas maliciosos, que podem instalar cavalos de Tróia ou outros vírus no computador após a execução.\nO hacker exibirá uma tela de verificação falsa \"Não sou um robô\" na página da web para induzir o usuário a seguir as instruções e copiar secretamente as instruções maliciosas para a área de transferência. Depois que o usuário cola o comando no prompt de comando (cmd) ou no PowerShell e o executa, ele pode acionar programas maliciosos, baixar cavalos de Tróia ou roubar software e fazer com que o computador seja invadido."
+},
+{
 "id": "e910c3f41964e8",
 "t": "Na câmera, robô humanóide convida o ministro do Rajastão, Madan Dilawar, para o laboratório de inovação em Kota",
 "r": "",
@@ -1425,7 +1510,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The New York Times",
-"mx": 2
+"mx": 3
 },
 {
 "id": "35b543f01ef5ed",
@@ -4054,7 +4139,7 @@
 "i": "https://www.latercera.com/resizer/v2/HZ6CHPN3JJDVZJZY2I4X2KOUKM.jpeg?auth=7843b23ee197a96a37f4010e8fd650594e7896c6b2d2a7a442d179459479cfb2&height=630&width=1200&smart=true",
 "d": "2026-11-20T14:30-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "Capturan a prófugo de robo con secuestro en La Florida",
@@ -10047,6 +10132,27 @@
 "mx": 3
 },
 {
+"id": "f37cd3ba0ca5d1",
+"t": "De “pontos de escovação” a “consertos de costuras”, a nova competição de robôs esquenta – 36 Krypton",
+"r": "O modelo geral Fable 5.2 da Anthropic, cujo principal negócio original era programação e raciocínio, agora aumenta diretamente a taxa de sucesso de tarefas no benchmark de simulação de robô de braço duplo RoboDojo de 27,6% na geração anterior para 64,9%. O modelo básico de robô GR00T 2 da NVIDIA foi revelado. Adota a…",
+"u": "https://www.36kr.com/p/4077960501008008",
+"f": "36kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261120/v2_108b18841f504150bdecb530c54ea4b9@46958@ai_oswg658400oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-19T18:34-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "从“刷分”打到“补缝”，机器人新竞赛升温-36氪",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "O modelo geral Fable 5.2 da Anthropic, cujo principal negócio original era programação e raciocínio, agora aumenta diretamente a taxa de sucesso de tarefas no benchmark de simulação de robô de braço duplo RoboDojo de 27,6% na geração anterior para 64,9%. O modelo básico de robô GR00T 2 da NVIDIA foi revelado. Adota a rota do “modelo de ação mundial” e não requer alimentação massiva de dados. Após 5 demonstrações humanas, a taxa média de sucesso de tarefas subiu para 95%.\nDe acordo com o white paper técnico da NVIDIA, as 50 tarefas de operação do robô Dexter participantes da avaliação foram selecionadas durante a fase de construção do conjunto de testes daquelas tarefas em que o modelo conseguiu atingir pelo menos 80% de potência após cinco demonstrações."
+},
+{
 "id": "a399ebcf50928e",
 "t": "Vídeo de drone mostra enorme incêndio no nordeste do Alabama",
 "r": "",
@@ -11394,7 +11500,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -38885,7 +38991,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44774,7 +44880,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60862,7 +60968,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60891,7 +60997,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
