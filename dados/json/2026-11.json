@@ -398,9 +398,32 @@
 "p": 6.4,
 "cr": 3,
 "cv": "Robot Newspaper",
-"cur": 1,
 "mx": 1,
-"rx": "Este livro não é simplesmente um livro técnico que explica robôs humanóides ou tecnologia física de IA. Robôs e sensores coletam informações do mundo real e a IA as analisa para tomar decisões corporativas."
+"rx": "Este livro não é simplesmente um livro técnico que explica robôs humanóides ou tecnologia física de IA. Robôs e sensores coletam informações do mundo real e a IA as analisa para tomar decisões corporativas.",
+"cur": 1
+},
+{
+"id": "f8759aee898adc",
+"t": "Tactilia Robotics, spin-off da Schunk, é lançada para desenvolver mãos robóticas hábeis",
+"r": "Schunk renomeou seu spin-off de robótica humanóide Tactilia Robotics, estabelecendo uma empresa com sede em Munique focada no desenvolvimento de mãos robóticas modulares para aplicações de automação industrial. Fundada originalmente em janeiro de 2026 como Schunk Humanoid Robotics GmbH, a empresa está desenvolvendo mãos robóticas projetadas para lidar com…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/schunk-spin-off-tactilia-robotics-launches-to-develop-dexterous-robot-hands/107466/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Schunk-Tactilia-Robotics-1.jpeg",
+"d": "2026-11-22T15:40-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Schunk renomeou seu spin-off de robótica humanóide como Tactilia Robotics, estabelecendo uma empresa com sede em Munique focada no desenvolvimento de mãos robóticas modulares para aplicações de automação industrial. Fundada originalmente em janeiro de 2026 como Schunk Humanoid Robotics GmbH, a empresa está desenvolvendo mãos robóticas projetadas para lidar com uma ampla variedade de objetos e componentes em ambientes de fabricação e logística.\nA Tactilia afirma que a sua abordagem modular permitirá que a tecnologia seja adaptada a diferentes aplicações industriais sem ficar restrita a um determinado fabricante ou plataforma de robôs. A empresa afirma que a sua prioridade imediata é desenvolver e validar mãos robóticas que possam operar de forma confiável em ambientes industriais, com ênfase na integração prática e na operação contínua."
 },
 {
 "id": "4a63802e4a4228",
@@ -1157,6 +1180,134 @@
 "rx": "Um dia tranquilo na costa da Califórnia quase se transformou em um encontro perigoso quando um pescador nadando ao lado de seu barco, sem saber, entrou no caminho de um grande tubarão branco. Enquanto o homem permanecia inconsciente do predador que se aproximava abaixo da superfície, um cineasta assistia de uma praia a quase três quilômetros…"
 },
 {
+"id": "ca13ea324fcb20",
+"t": "Veja o mundo em 1 minuto/As Nações Unidas estabelecem padrões internacionais para “robôs assassinos” e 128 países prometem alcançá-los dentro de dois anos",
+"r": "As 128 partes da Convenção sobre Certas Armas Tradicionais (CCW) concordaram no dia 21 em continuar a estudar regulamentos internacionais para sistemas de armas autónomos letais, como \"robôs assassinos\", e prometeram estabelecê-los até 2028. Mas o objectivo original era criar normas juridicamente vinculativas que…",
+"u": "https://money.udn.com/money/story/5599/9895182",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35543499.jpg&M=1&s=Y&x=0&y=169&sw=1280&sh=853&sl=W&fw=1050&exp=3600",
+"d": "2026-11-22T15:07-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "1分鐘看世界／聯合國訂「殺手機器人」國際規範 128國承諾兩年內達成",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "As 128 partes da Convenção sobre Certas Armas Tradicionais (CCW) concordaram no dia 21 em continuar a estudar regulamentos internacionais para sistemas de armas autónomos letais, como \"robôs assassinos\", e prometeram estabelecê-los até 2028. Mas o objectivo original era criar normas juridicamente vinculativas que evitariam entregar decisões de vida ou morte a máquinas autónomas. A maioria dos países apoia este objectivo, mas os principais países produtores de armas, como os Estados Unidos, a Rússia e Israel, opõem-se a ele. Portanto, após uma semana inteira de negociações, apenas uma resolução de autorização significativamente enfraquecida foi aprovada. Alguns grupos de defesa estão desapontados, alertando para riscos significativos para os civis e a humanidade.\nNo dia 21, um navio de carga russo foi suspeito de ter sido atacado por um drone ucraniano e pegou fogo, sendo então levado à deriva em águas finlandesas; mais tarde, um helicóptero russo foi suspeito de violar o espaço aéreo finlandês."
+},
+{
+"id": "f0fbcba6502841",
+"t": "Em 20 mil da Meia Maratona de Milão, dois ‘atletas’ robôs pararam pelos demais",
+"r": "20 mil atletas, mas também dois robôs, participaram da meia maratona de Milão, evento organizado pela MG Sport com o circuito ‘FollowYourPassion’. A vitória foi para o ugandês Titus Musau em 1h01:31 e entre as mulheres para a djiboutiana Samiyah Hassan Nour em 1h08:04. Porém, não havia nada a fazer pelos dois…",
+"u": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/22/in-20mila-alla-milano-half-marathon-due-robot-atleti-fermati-dalla_332f6c2c-a5b6-4dcd-accd-b1049fd6a49c.html",
+"f": "ANSA",
+"s": "ansa.it",
+"i": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/767158be63e7f14d49a8f8e580b51e45.jpg",
+"d": "2026-11-22T15:14-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "In 20mila alla Milano Half Marathon, due robot 'atleti' fermati dalla poggia",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "ANSA",
+"mx": 1,
+"rx": "20 mil atletas, mas também dois robôs, participaram da meia maratona de Milão, evento organizado pela MG Sport com o circuito ‘FollowYourPassion’. A vitória foi para o ugandês Titus Musau em 1h01:31 e entre as mulheres para a djiboutiana Samiyah Hassan Nour em 1h08:04. Porém, não havia nada a fazer pelos dois humanóides que não puderam participar devido à chuva. Os robôs, Honor Robot D1 Flash e Robot A1 Vita Boy, porém, foram apresentados durante a cerimônia de premiação dos vencedores: o primeiro atinge velocidade máxima de 47 km por hora e suas performances registradas incluem os 100 metros completados em 8\"83, os 400 metros em 40\"6, uma meia maratona de 21.097km com duração de 50 minutos e 26 segundos. Os italianos mais rápidos na prova ficaram em sexto lugar no ranking: para os homens, o italiano Yohannes Chiappinelli em 1h03:50 e entre as mulheres, a olímpica Giovanna Epis em 1h13:04."
+},
+{
+"id": "f6f005b0961185",
+"t": "Este aspirador robô está pela metade do preço na Black Friday: cuidado com a falta de estoque",
+"r": "O aspirador robô Lefant M210 Pro está aproveitando a Black Friday para sair pela metade do preço, mas os estoques provavelmente desaparecerão rapidamente. Seu sistema anti-emaranhado evita que você desembarace os cabelos presos na escova após cada passagem. Os pisos podem ser limpos sem esforço graças ao aspirador…",
+"u": "https://www.lefigaro.fr/bons-plans/black-friday/ce-robot-aspirateur-passe-a-moitie-prix-pour-le-black-friday-attention-a-la-rupture-de-stock-20261122",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/19/266dd564b5c5d6708caff5504d06e5e1b6fba583add0d1ec42f46b9fca1efa38.jpg",
+"d": "2026-11-22T15:20-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Ce robot aspirateur passe à moitié prix pour le Black Friday : attention à la rupture de stock",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "O aspirador robô Lefant M210 Pro está aproveitando a Black Friday para sair pela metade do preço, mas os estoques provavelmente desaparecerão rapidamente. Seu sistema anti-emaranhado evita que você desembarace os cabelos presos na escova após cada passagem. Os pisos podem ser limpos sem esforço graças ao aspirador robô Lefant M210 Pro. O aspirador robô Lefant M210 Pro custa 99,98 euros em vez de 219,99 euros na Amazon.\nAs duas escovas laterais de borracha do aspirador robô Lefant M210 Pro empurram a poeira e a sujeira dos cantos em direção à sucção, para que as bordas das peças permaneçam limpas. Além disso, o sinal de carregamento de cinco vias, emitido pela estação, retorna o aspirador robô Lefant M210 Pro à sua base assim que a limpeza termina ou a bateria fica fraca."
+},
+{
+"id": "b5e84d1385f639",
+"t": "O drone Anduril da Archer inicia testes de voo em grande escala em 2027. Veja por que a defesa pode valer mais do que os táxis aéreos.",
+"r": "A aeronave militar híbrida-elétrica da Archer e da Anduril, Thunder, tem como meta seu primeiro voo em 2027. A Archer Aviation desenvolve a aeronave Midnight, sua aeronave carro-chefe para seu negócio de táxi aéreo comercial. Enquanto os táxis aéreos comerciais chamam a atenção, a Archer está tomando uma decisão sábia…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/BA/pressreleases/8957014/archers-anduril-drone-begins-full-scale-flight-tests-in-2027-heres-why-defense-could-be-worth-more-than-air-taxis/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"d": "2026-11-22T15:35-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "Archer’s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here’s Why Defense Could Be Worth More Than Air Taxis.",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "A aeronave militar híbrida-elétrica da Archer e da Anduril, Thunder, tem como meta seu primeiro voo em 2027. A Archer Aviation desenvolve a aeronave Midnight, sua aeronave carro-chefe para seu negócio de táxi aéreo comercial. Enquanto os táxis aéreos comerciais chamam a atenção, a Archer está tomando uma decisão sábia de diversificar para a defesa com uma variante híbrida-elétrica de sua aeronave Midnight em colaboração com a Anduril. Como as compras militares operam de acordo com os padrões de aeronavegabilidade do Departamento de Defesa, a Archer poderia gerar receita e validar seu hardware com horas de voo do mundo real antes de sua escala de táxi aéreo comercial.\nOs táxis aéreos da Archer Aviation podem mudar a forma como viajamos pelas cidades, e os voos de passageiros começarão de forma limitada em 2027, com operação comercial completa prevista para 2028."
+},
+{
+"id": "6e01ccece42652",
+"t": "Funcionários da startup de robôs apoiada por Eric Trump perdem benefícios de saúde à medida que a crise de caixa da empresa se aprofunda",
+"r": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric…",
+"u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
+"d": "2026-11-22T15:55-03:00",
+"c": [
+"negocios",
+"medicina"
+],
+"l": 0,
+"to": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNBC",
+"mx": 1,
+"rx": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric Trump. A Fundação disse aos funcionários em um e-mail na noite de sexta-feira que lhes seria oferecida cobertura por meio da COBRA, a lei federal que geralmente permite que os trabalhadores mantenham temporariamente seu seguro saúde após perderem os benefícios, pagando o prêmio integral do próprio bolso.\nO empréstimo-ponte ajudaria a empresa a sobreviver até que um possível investimento de US$ 150 milhões do conglomerado sul-coreano Base Group chegue já em dezembro ou janeiro, disse Pathak aos funcionários, disseram as pessoas. Para evitar que os funcionários saiam antes de um possível investimento do Grupo Base, Pathak lançou a ideia de oferecer aos trabalhadores participação na startup, disseram as pessoas."
+},
+{
+"id": "e5a3ed904a7ca3",
+"t": "Policiais implantarão tecnologia anti-drone para segurança de Magh Mela",
+"r": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados.",
+"u": "https://timesofindia.indiatimes.com/city/allahabad/cops-to-deploy-anti-drone-tech-for-magh-mela-security/articleshow/136080557.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136080556,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-22T16:05-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Cops to deploy anti-drone tech for Magh Mela security",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados."
+},
+{
 "id": "14b3f394521541",
 "t": "OpenAtom forma comitê de trabalho para comunidade de código aberto de robôs humanóides",
 "r": "Nove organizações fundaram um comitê comunitário de robôs humanóides OpenAtom para coordenar software, modelos, dados e governança compartilhados.",
@@ -1493,6 +1644,27 @@
 "cv": "Xataka",
 "mx": 1,
 "rx": "Digo sem rodeios: o aspirador robô que mais me surpreendeu este ano foi o Mova E40 Ultra e fê-lo pela sua altíssima relação desempenho-custo. Este Mova E50 Ultra é o seu sucessor e a fasquia é muito alta: testámo-lo minuciosamente para ver como é a experiência. O Mova E50 Ultra é um aspirador e lavador robô bom e “bonito” a um preço muito competitivo.\nExplico: a base é completa mas volumosa e o aspirador robô tem um design clássico um pouco antiquado, com uma txapela visível que não pode ser pega. O que Dreame fez com este Mova E50 Ultra é uma verdadeira virguería: tomou como base o seu antecessor, colocou muito mais potência nele, esfrega um pouco melhor e fez com que você tenha que se preocupar menos com manutenção porque os tanques de água limpa e suja são um pouco maiores."
+},
+{
+"id": "0020c62c6caaf7",
+"t": "Mobilidade TechCrunch: testes A/B de robôs versus humanos",
+"r": "Waymo retirando seus robotáxis das rodovias (novamente) e o lançamento de robotáxis Zoox no aplicativo Uber ilustram o vai e vem entre o progresso e os retrocessos na indústria de veículos autônomos. A Uber, como mencionado acima, acaba de adicionar o Zoox ao seu aplicativo de carona em Las Vegas. Os clientes do Uber…",
+"u": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+"f": "TechCrunch",
+"s": "techcrunch.com",
+"i": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
+"d": "2026-11-22T14:06-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "TechCrunch Mobility: A/B testing robots vs. humans",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "TechCrunch",
+"mx": 1,
+"rx": "Waymo retirando seus robotáxis das rodovias (novamente) e o lançamento de robotáxis Zoox no aplicativo Uber ilustram o vai e vem entre o progresso e os retrocessos na indústria de veículos autônomos. A Uber, como mencionado acima, acaba de adicionar o Zoox ao seu aplicativo de carona em Las Vegas. Os clientes do Uber podem aumentar suas chances de conseguir um robotáxi Zoox e sempre podem recusar uma viagem de robô. Em vez disso, os passageiros do Uber serão combinados com um, se estiver disponível.\nUber disse que isso mudará em breve. Las Vegas também se tornará a primeira cidade dos EUA onde os passageiros poderão acessar dois parceiros totalmente sem motorista por meio do aplicativo Uber, disse ele. (A Motional, subsidiária autônoma da Hyundai, também é parceira do Uber.) Isso daria aos passageiros do Uber uma escolha significativa: um motorista humano ou um táxi-robô, e potencialmente até mesmo qual serviço autônomo usar."
 }
 ],
 "2026-11-21": [
@@ -1872,6 +2044,35 @@
 "cv": "Humanoid.guide",
 "mx": 1,
 "rx": "A Siemens e a AGIBOT demonstraram um fluxo de trabalho de agente de IA que utiliza uma descrição de tarefa escrita para adaptar uma garra de robô humanóide e preparar seu projeto para fabricação aditiva, de acordo com a 3D Printing Industry. O agente então seleciona um tipo de garra adequado, modifica sua geometria no Designcenter da Siemens, executa simulações e valida virtualmente a interface e o manuseio do robô.\nO fluxo de trabalho de design de garra humanóide usa integração MCP para permitir que o agente chame funções de software de engenharia e coordene as etapas individuais. Para aplicações humanóides, a demonstração aborda um problema específico de engenharia: produzir ferramentas adequadas ao objeto e à tarefa, em vez de depender de um único design de garra para cada aplicação."
+},
+{
+"id": "d6aeb591926ae2",
+"t": "A regulamentação legal de “robôs assassinos” sem intervenção humana é adiada; nenhum acordo alcançado na conferência internacional [Age of AI]",
+"r": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas…",
+"u": "https://www.asahi.com/articles/ASVCP7VRJVCPSFVU11PM.html",
+"f": "朝日新聞",
+"s": "asahi.com",
+"i": "https://imgopt.asahi.com/ogp/AS20261122000993_comm.jpg",
+"d": "2026-11-21T21:06-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "人間介さぬ「殺人ロボット」法的規制は先送り 国際会議で合意できず [AIの時代]",
+"lg": "ja",
+"p": 6.3,
+"cr": 3,
+"cv": "Asahi Shimbun",
+"mx": 1,
+"rx": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas realizadas em Genebra, na Suíça. Um sistema de armas que, uma vez ativado, utiliza sensores e inteligência artificial (IA) para selecionar e atacar um alvo sem a intervenção do julgamento humano.\nA CCW é um tratado internacional que regulamenta armas convencionais desumanas e é uma estrutura que acrescenta protocolos para proibir e restringir cada tipo de arma.",
+"o": [
+{
+"f": "朝日・日刊スポーツ",
+"u": "https://smart.asahi.com/v/article/ASVCP7VRJVCPSFVU11PM.php",
+"s": "smart.asahi.com",
+"id": "e8a0feaa43d105"
+}
+]
 },
 {
 "id": "5a9ab419607bc6",
@@ -2609,27 +2810,6 @@
 "rx": "A Universidade Dr. YS Parmar de Horticultura e Silvicultura, Nauni, estabelecerá um Centro de Excelência em Horticultura Digital e Tecnologia de Drones em colaboração com a ITI Limited, uma empresa do setor público, envolvendo um investimento de cerca de Rs 350 crore."
 },
 {
-"id": "d6aeb591926ae2",
-"t": "A regulamentação legal de “robôs assassinos” sem intervenção humana é adiada; nenhum acordo alcançado na conferência internacional [Age of AI]",
-"r": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas…",
-"u": "https://www.asahi.com/articles/ASVCP7VRJVCPSFVU11PM.html",
-"f": "朝日新聞",
-"s": "asahi.com",
-"i": "https://imgopt.asahi.com/ogp/AS20261122000993_comm.jpg",
-"d": "2026-11-21T21:06-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "人間介さぬ「殺人ロボット」法的規制は先送り 国際会議で合意できず [AIの時代]",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Asahi Shimbun",
-"mx": 1,
-"rx": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas realizadas em Genebra, na Suíça. Um sistema de armas que, uma vez ativado, utiliza sensores e inteligência artificial (IA) para selecionar e atacar um alvo sem a intervenção do julgamento humano.\nA CCW é um tratado internacional que regulamenta armas convencionais desumanas e é uma estrutura que acrescenta protocolos para proibir e restringir cada tipo de arma."
-},
-{
 "id": "c5281194f61fd5",
 "t": "Agência de Promoção da Indústria de Robôs - 2ª Empresa de Operações une forças para expandir robôs de defesa avançados e IA física",
 "r": "(Seul = Yonhap News) Repórter Jang Bo-in = A Agência de Promoção da Indústria de Robôs da Coreia anunciou no dia 22 que assinou um 'acordo comercial para expandir a introdução de robôs avançados e inteligência artificial física (IA) no campo de defesa' com o 2º Comando Operacional do Exército no dia 19. As duas…",
@@ -2693,6 +2873,27 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "Incidentes de segurança da informação ocorreram com frequência recentemente, e até mesmo a comum “verificação homem-máquina” pode conter armadilhas escondidas! Recentemente, alguns internautas compartilharam as técnicas de ataque de hackers que encontraram. Os criminosos falsificam sistemas de verificação humano-computador e induzem os usuários a executar instruções maliciosas em seus computadores. Um pouco de descuido pode permitir que vírus Trojan invadam computadores. Ele então usou IA para auxiliar na análise e descobriu que as instruções fornecidas pelo falso sistema de verificação eram suspeitas de envolver programas maliciosos, que podem instalar cavalos de Tróia ou outros vírus no computador após a execução.\nO hacker exibirá uma tela de verificação falsa \"Não sou um robô\" na página da web para induzir o usuário a seguir as instruções e copiar secretamente as instruções maliciosas para a área de transferência. Depois que o usuário cola o comando no prompt de comando (cmd) ou no PowerShell e o executa, ele pode acionar programas maliciosos, baixar cavalos de Tróia ou roubar software e fazer com que o computador seja invadido."
+},
+{
+"id": "c604381b103ce5",
+"t": "Bebês Robôs: Fofos ou Assustadores?",
+"r": "Tem havido uma proliferação de crianças robôs nos últimos anos. Diga-nos o que você acha que é o mais legal, o mais fofo e o mais assustador",
+"u": "https://spectrum.ieee.org/robot-babies-cute-or-creepy/particle-9",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/nao-is-a-little-french-humanoid-created-by-aldebaran-robotics-in-paris-it-talks-tracks-faces-and-with-25-degrees-of-freedom.jpg?id=25627404&width=980",
+"d": "2026-11-21T22:29-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Robot Babies: Cute or Creepy?",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "IEEE Spectrum",
+"mx": 1,
+"rx": "Tem havido uma proliferação de crianças robôs nos últimos anos. Diga-nos o que você acha que é o mais legal, o mais fofo e o mais assustador"
 },
 {
 "id": "e910c3f41964e8",
@@ -4959,51 +5160,6 @@
 "rx": "Wi Power One expande negócios de carregamento sem fio de robôs seguindo veículos elétricos... Descobrindo parceiros americanos, repórter Kim Min-ju, Hankyung MONEY"
 },
 {
-"id": "061b563ed958ac",
-"t": "European Drone News, novembro de 2026 – Regras e resgate",
-"r": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em…",
-"u": "https://dronexl.co/europe/",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-20T05:00-03:00",
-"c": [
-"drones",
-"resgate"
-],
-"l": 0,
-"to": "European Drone News, November 2026 — Rules and Rescue",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "DroneXL",
-"mx": 9,
-"rx": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em resposta à bomba explosiva de drones de Leipzig, e uma janela de subvenção de 10 milhões de euros para combate a drones da Brave1 e da NATO abriu e fechou em poucos dias - o ritmo do financiamento correspondendo ao ritmo da ameaça.\nUm drone Everdrone AED venceu a ambulância e provocou uma parada cardíaca na Suécia, entregando um desfibrilador a tempo para um espectador salvar a vida do paciente – o resultado que todo programa piloto de drone médico está tentando provar que vale o investimento. A procura industrial está a ultrapassar a oferta em alguns locais: a doca móvel ORKA da CiS tem uma procura que ultrapassa a sua fábrica alemã de 30 pessoas, uma verdadeira história de dificuldades de crescimento, em vez de uma afirmação de marketing."
-},
-{
-"id": "e000ffac27913a",
-"t": "Notícias sobre drones do Departamento de Defesa: contratos e programas (novembro de 2026)",
-"r": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do…",
-"u": "https://dronexl.co/us-government/department-of-defense/",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-20T05:00-03:00",
-"c": [
-"defesa",
-"drones",
-"negocios"
-],
-"l": 0,
-"to": "Department of Defense Drone News: Contracts and Programs (November 2026)",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "DroneXL",
-"mx": 9,
-"rx": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade que costumava ser dividida entre ramos de serviço. Os valores em dólares que transitam por essa estrutura são grandes: o Pentágono destinou 1,3 mil milhões de dólares para drones em dois dias, divididos entre sistemas de abate e fabrico de peças nacionais.\nUm memorando do czar dos drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade de tomada de decisões sobre uma enorme parcela dos gastos com drones militares que anteriormente estavam espalhados por ramos de serviços separados."
-},
-{
 "id": "86ff42ed4cd9cb",
 "t": "Um robô que se torna pirata quando usa um chapéu de pirata e se torna rei quando usa uma coroa!",
 "r": "A tecnologia está sendo desenvolvida para mudar funções e personalidades, anexando fantasias ou acessórios a robôs, como o Rich Mini da francesa Pollen Robotics. Estamos aumentando a utilização de robôs por meio do reconhecimento NFC e da substituição de equipamentos, o que deverá contribuir para melhorar a…",
@@ -6033,6 +6189,27 @@
 "rx": "Damos uma olhada no lado mais leve das notícias e nas tendências online e no ar."
 },
 {
+"id": "024ddd6780f2d6",
+"t": "Os robôs de gerenciamento de estoque dos EUA competem no solo e no ar; a automação acelera na classificação e transporte de embalagens (página 2)",
+"r": "Os robôs estão se tornando mais prevalentes no setor de varejo dos EUA. O maior evento mundial do setor \"NRF 2020: Varejo",
+"u": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00104/?P=2&fieldSubSeg=fdxKEYWORDSub6",
+"f": "日経クロステック",
+"s": "xtech.nikkei.com",
+"i": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00104/topm.jpg?20220512",
+"d": "2026-11-20T22:58-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "地上と空中で競う米国の在庫管理ロボット、荷物の仕分けや搬送も自動化が加速（2ページ目）",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "Os robôs estão se tornando mais prevalentes no setor de varejo dos EUA. O maior evento mundial do setor \"NRF 2020: Varejo"
+},
+{
 "id": "763bbaa175d746",
 "t": "Resolvendo situações de emergência com um robô criado por adolescentes... Finais da Competição de Robótica",
 "r": "(Seul = Yonhap News) Repórter Kwon Ha-young = Será realizada uma competição na qual estudantes do ensino fundamental, médio e médio de todo o país resolverão emergências de saúde com robôs que eles criaram e programaram. O Ministério da Ciência e TIC realizou a competição final do '2026 Youth Robotics Challenge' no…",
@@ -6185,6 +6362,51 @@
 "mx": 1,
 "rx": "Na China, as apresentações de movimentos síncronos de multidões são uma tradição. Robôs humanóides também podem fazer isso.",
 "cur": 1
+},
+{
+"id": "061b563ed958ac",
+"t": "European Drone News, novembro de 2026 – Regras e resgate",
+"r": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em…",
+"u": "https://dronexl.co/europe/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-20T05:00-03:00",
+"c": [
+"drones",
+"resgate"
+],
+"l": 0,
+"to": "European Drone News, November 2026 — Rules and Rescue",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 9,
+"rx": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em resposta à bomba explosiva de drones de Leipzig, e uma janela de subvenção de 10 milhões de euros para combate a drones da Brave1 e da NATO abriu e fechou em poucos dias - o ritmo do financiamento correspondendo ao ritmo da ameaça.\nUm drone Everdrone AED venceu a ambulância e provocou uma parada cardíaca na Suécia, entregando um desfibrilador a tempo para um espectador salvar a vida do paciente – o resultado que todo programa piloto de drone médico está tentando provar que vale o investimento. A procura industrial está a ultrapassar a oferta em alguns locais: a doca móvel ORKA da CiS tem uma procura que ultrapassa a sua fábrica alemã de 30 pessoas, uma verdadeira história de dificuldades de crescimento, em vez de uma afirmação de marketing."
+},
+{
+"id": "e000ffac27913a",
+"t": "Notícias sobre drones do Departamento de Defesa: contratos e programas (novembro de 2026)",
+"r": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do…",
+"u": "https://dronexl.co/us-government/department-of-defense/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-20T05:00-03:00",
+"c": [
+"defesa",
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "Department of Defense Drone News: Contracts and Programs (November 2026)",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 9,
+"rx": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade que costumava ser dividida entre ramos de serviço. Os valores em dólares que transitam por essa estrutura são grandes: o Pentágono destinou 1,3 mil milhões de dólares para drones em dois dias, divididos entre sistemas de abate e fabrico de peças nacionais.\nUm memorando do czar dos drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade de tomada de decisões sobre uma enorme parcela dos gastos com drones militares que anteriormente estavam espalhados por ramos de serviços separados."
 },
 {
 "id": "080f3ee5b73d5c",
@@ -9580,27 +9802,6 @@
 "rx": "A Autoridade da Concorrência e do Mercado encerrou o processo para as empresas do grupo Vorwerk, que produz Folletto e Bimby, avaliando positivamente a disponibilização de medidas de alívio aos consumidores detentores de um aspirador robô Neato adquirido a partir de 1 de outubro de 2020. Assim, aceitou e tornou vinculativo um pacote de compromissos apresentado pelas empresas Neato Robotics Europe GmbH., Vorwerk & Co. e Vorwerk SE & Co. KG em conjunto com Vorwerk Italia s.a.s. e Vorwerk and Management S.r.l, que reconhecem que os consumidores que possuem um robô Neato receberão como substituto \"um novo dispositivo Vorwerk \"VR7\" em vez dos modelos D8, D9 e D10, e um voucher Vorwerk no valor de 500 euros em vez dos modelos D4, D6 e D7."
 },
 {
-"id": "52b419c734fe35",
-"t": "Anuncie com DroneXL",
-"r": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google…",
-"u": "https://dronexl.co/advertise/",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-19T06:57-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Advertise with DroneXL",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "DroneXL",
-"mx": 9,
-"rx": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google coloca nossas histórias diante deles conforme as notícias surgem. Um artigo sobre seu produto, serviço ou empresa, escrito por DroneXL para nossos leitores.\nSeu banner na barra lateral de cada artigo de uma só vez, ao lado das histórias que seus clientes leem. Banner fixo em todo o site, exclusividade no seu setor e artigo patrocinado todo mês. Um artigo patrocinado para apresentar sua empresa, seguido de três meses de um banner beat diante dos mesmos leitores."
-},
-{
 "id": "9d4cda9b9b08b5",
 "t": "Musk: Espera-se que o robô humanóide Optimus seja capaz de fazer tarefas domésticas nos próximos 12 a 18 meses",
 "r": "A IT House informou em 19 de novembro que o CEO da Tesla, Elon Musk, disse hoje em uma entrevista em vídeo que se espera que nos próximos 12 a 18 meses, o robô humanóide Optimus (Optimus Prime) seja capaz de realizar tarefas domésticas, como tirar o lixo, lavar louça e colocar a louça nos armários.",
@@ -10552,27 +10753,6 @@
 "rx": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF"
 },
 {
-"id": "74e4f88c372e78",
-"t": "Por que a tela de verificação “Não sou um robô” é a entrada para a fraude ClickFix?",
-"r": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e…",
-"u": "https://udn.com/news/ai/answer/%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-60405123",
-"f": "UDN",
-"s": "udn.com",
-"i": "",
-"d": "2026-11-19T22:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "「我不是機器人」驗證畫面為何是ClickFix詐騙的入口？",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 9,
-"rx": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e instalar malware em seus computadores. Desta forma, os hackers podem obter o controle do computador, roubar dados pessoais ou realizar outras atividades ilegais. À medida que as compras online se tornam mais frequentes, este tipo de fraude tornou-se mais comum, representando uma ameaça potencial para os utilizadores."
-},
-{
 "id": "300d27b03f26db",
 "t": "O robô que desenhei se move na tela... A 'AI Experience Exhibition' do Chuncheon Toy Robot Hall é popular",
 "r": "A sandbox de exposição experimental de IA AI Robo-Craft construída por M83 no Chuncheon Toy Robot Hall está recebendo grande resposta dos visitantes. Demonstramos tecnologia para controlar robôs desenhados pelos visitantes em 3D e controlá-los no espaço virtual. Planejamos expandir nossos negócios para mercados B2B…",
@@ -11072,6 +11252,27 @@
 "rx": "· Na lista das \"50 startups mais potenciais do mundo em 2026\" divulgada pela The Information em 11 de novembro, a Noitom Robotics ficou em primeiro lugar na Ásia. · De acordo com a lista, a Noitom Robotics está atualmente avaliada em mais de US$ 500 milhões, com financiamento de capital acumulado superior a US$ 50 milhões e receita anual superior a US$ 10 milhões.\n· A Noitom Robotics está comprometida em produzir dados humanos para os robôs aprenderem. Os dados da lista mostram que a avaliação atual da Noiton Robots ultrapassou US$ 500 milhões, seu financiamento total de capital ultrapassou US$ 50 milhões e sua receita ultrapassou US$ 10 milhões."
 },
 {
+"id": "52b419c734fe35",
+"t": "Anuncie com DroneXL",
+"r": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google…",
+"u": "https://dronexl.co/advertise/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "",
+"d": "2026-11-19T06:57-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Advertise with DroneXL",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 9,
+"rx": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google coloca nossas histórias diante deles conforme as notícias surgem. Um artigo sobre seu produto, serviço ou empresa, escrito por DroneXL para nossos leitores.\nSeu banner na barra lateral de cada artigo de uma só vez, ao lado das histórias que seus clientes leem. Banner fixo em todo o site, exclusividade no seu setor e artigo patrocinado todo mês. Um artigo patrocinado para apresentar sua empresa, seguido de três meses de um banner beat diante dos mesmos leitores."
+},
+{
 "id": "8621c0254261e7",
 "t": "Inlif Limited (INLF) ganha mais força no mercado para seus robôs industriais, já que os pedidos de distribuidores nacionais e internacionais ultrapassam US$ 32 milhões",
 "r": "19, 2026 (GLOBE NEWSWIRE) -- A Inlif Limited (NASDAQ: INLF) (a “Empresa”) anunciou hoje um impulso positivo contínuo na expansão do mercado de seus robôs industriais de seis eixos de próxima geração. Até à data, o valor acumulado das estruturas de cooperação de vendas da Empresa para o seu negócio de robôs industriais…",
@@ -11159,6 +11360,27 @@
 "cv": "The Globe and Mail",
 "mx": 9,
 "rx": "Uma dessas ações é a Kraken Robotics (TSXV:PNG). Isso nos leva à Kraken Robotics. Nos últimos 12 meses, a Kraken gerou pouco mais de US$ 100 milhões em receitas, em dólares canadenses (a empresa está sediada no Canadá, mas vende principalmente para empreiteiros militares dos EUA). Os próximos 12 meses e além deverão ser um período em que a Kraken passará de um pequeno subcontratado militar a um player muito maior, ajudando a liderar o futuro das soluções autônomas subaquáticas.\nCom esta aquisição, a Kraken espera gerar receitas de CA$ 305 milhões em 2026, e isso apenas com uma contribuição semestral do Grupo Covelya. Em 5 de janeiro, a Kraken recebeu novos pedidos no valor de CA$ 457 milhões, o que deve gerar boas receitas nos próximos anos. Depois de passar por sua redução, a Kraken Robotics agora é negociada com valor de mercado de CA$ 968 milhões."
+},
+{
+"id": "74e4f88c372e78",
+"t": "Por que a tela de verificação “Não sou um robô” é a entrada para a fraude ClickFix?",
+"r": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e…",
+"u": "https://udn.com/news/ai/answer/%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-60405123",
+"f": "UDN",
+"s": "udn.com",
+"i": "",
+"d": "2026-11-19T22:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "「我不是機器人」驗證畫面為何是ClickFix詐騙的入口？",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9,
+"rx": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e instalar malware em seus computadores. Desta forma, os hackers podem obter o controle do computador, roubar dados pessoais ou realizar outras atividades ilegais. À medida que as compras online se tornam mais frequentes, este tipo de fraude tornou-se mais comum, representando uma ameaça potencial para os utilizadores."
 },
 {
 "id": "a4eb01f23dfac5",
@@ -13277,7 +13499,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -40797,7 +41019,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -46686,7 +46908,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -62774,7 +62996,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -62803,7 +63025,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
