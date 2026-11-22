@@ -1056,6 +1056,27 @@
 "cur": 1
 },
 {
+"id": "0d8b85900160ff",
+"t": "Chute voador com espada na mão... American Sylvel coloca robô no ringue",
+"r": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/23/S7ECUZCJTFEA7MTMW3PZL5SMWE/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/VPEEL7FFP5AEPK3TSKOVFWLHDQ.gif?auth=57c6abaddf92d4a7e37d0fa1b65c50ddd610f9acbfc1a41f1b3c3b07f1609376&width=400&height=210&smart=true",
+"d": "2026-11-22T18:00-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "손에 칼 차고 날아차기...美 실밸, 로봇을 링 위에 올렸다",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como tarefas urgentes."
+},
+{
 "id": "1eb61d697608ab",
 "t": "Batalha de robôs humanóides em evento de combate no Vale do Silício",
 "r": "Vale do Silício hospeda evento de combate de robôs com lâminas REK 2.1 mostra lutas de robôs humanóides, levantando questões de segurança à medida que a tecnologia muda da indústria para o entretenimento",
@@ -1531,27 +1552,6 @@
 "rx": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados."
 },
 {
-"id": "0d8b85900160ff",
-"t": "Chute voador com espada na mão... American Sylvel coloca robô no ringue",
-"r": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como…",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/23/S7ECUZCJTFEA7MTMW3PZL5SMWE/",
-"f": "조선일보",
-"s": "chosun.com",
-"i": "https://www.chosun.com/resizer/v2/VPEEL7FFP5AEPK3TSKOVFWLHDQ.gif?auth=57c6abaddf92d4a7e37d0fa1b65c50ddd610f9acbfc1a41f1b3c3b07f1609376&width=400&height=210&smart=true",
-"d": "2026-11-22T18:00-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "손에 칼 차고 날아차기...美 실밸, 로봇을 링 위에 올렸다",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 1,
-"rx": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como tarefas urgentes."
-},
-{
 "id": "14b3f394521541",
 "t": "OpenAtom forma comitê de trabalho para comunidade de código aberto de robôs humanóides",
 "r": "Nove organizações fundaram um comitê comunitário de robôs humanóides OpenAtom para coordenar software, modelos, dados e governança compartilhados.",
@@ -1612,7 +1612,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Robotstart",
-"mx": 2,
+"mx": 3,
 "rx": "・Definição de requisitos/planejamento de projeto: Organize os requisitos do cliente, problemas no local, processos/trabalho a serem introduzidos e desempenho/condições necessários. Esclarecemos o propósito, o escopo e os resultados, formulamos o cronograma de desenvolvimento/implementação, a estrutura e a divisão de funções e confirmamos o orçamento e o plano de despesas. ・Gerenciamento de QCD: Gerencie o progresso de desenvolvimento/produção, orçamento/custo, metas de qualidade/desempenho. ・Gerenciamento do progresso da equipe técnica: controle do robô, visão computacional, projeto mecânico, mão do robô, sensor visual tátil, elétrico...\nDetalhes do trabalho: Definição de requisitos/planejamento do projeto: Organizar os requisitos do cliente, problemas no local, processos/trabalho a serem introduzidos e desempenho/condições necessários."
 },
 {
@@ -1962,7 +1962,7 @@
 "i": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.6daa3dbaf7564aecb0906e2e0daf2c57_P1.png",
 "d": "2026-11-22T18:00-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "스스로 길 찾고 균형까지…산길 달리는 'AI 자전거 로봇'",
@@ -1991,7 +1991,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "France 24",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-21": [
@@ -3304,6 +3304,27 @@
 "cr": 3,
 "cv": "South China Morning Post",
 "mx": 3
+},
+{
+"id": "e43fea9e751fe8",
+"t": "Sistema robótico LZ-Space conclui testes de solo antes da validação do voo",
+"r": "O desenvolvedor do LZ-Space relata testes de solo e verificações de instalação de espaçonaves, enquanto a validação de voo e o LZ-SpacePro permanecem etapas futuras.",
+"u": "https://pandaily.com/lz-space-robotic-hand-ground-tests-spacecraft-installation",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/lz_editorial_ffb3d7448a.png",
+"d": "2026-11-21T03:31-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "LZ-Space Robotic System Completes Ground Tests Before Flight Validation",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "O desenvolvedor do LZ-Space relata testes de solo e verificações de instalação de espaçonaves, enquanto a validação de voo e o LZ-SpacePro permanecem etapas futuras."
 },
 {
 "id": "f4152f188c362a",
@@ -5527,6 +5548,27 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "Ao fazer compras online, o site exibe repentinamente uma tela de verificação que diz “Confirme que você não é um robô”. Não se apresse em fazer isso! Especialistas em segurança alertam que um novo tipo de fraude chamado “ClickFix” está usando procedimentos de verificação familiares para definir armadilhas. Contanto que você siga as instruções e pressione algumas teclas, você mesmo poderá instalar malware em seu computador, dando aos hackers a oportunidade de tirar vantagem.\nDe acordo com o The Guardian, à medida que a temporada de compras de Natal se aproxima, muitas pessoas acessam a Internet em busca de presentes, mas podem encontrar telas falsas de verificação de identidade ao navegar em sites de compras. Sites fraudulentos geralmente pedem aos usuários que marquem primeiro \"Não sou um robô\", momento em que o código malicioso pode ser copiado para a área de transferência do computador."
+},
+{
+"id": "aa68559cab3f0c",
+"t": "Este é o voxel, o bloco inteligente desenvolvido pelo MIT que permite robotizar construções em larga escala",
+"r": "Pesquisadores do Instituto de Tecnologia de Massachusetts (MIT) desenvolveram voxels, pequenos blocos treliçados – estruturas compostas por uma rede de barras interconectadas – que corrigem erros de montagem e que robôs simples podem usar para erguer estruturas de grande escala, com uma redução estimada de 80% nas…",
+"u": "https://www.infobae.com/tecno/2026/11/20/asi-es-el-voxel-el-bloque-inteligente-desarrollado-por-el-mit-que-permite-robotizar-la-construccion-a-gran-escala/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/RQIEQWBY6NFCLJTSGTCEZNIQZA.png?auth=9ee57fe3dd6dac045e8bd6ed0aa7a5cf9348a5ce150ed27ebfeeb51f8d08934a&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-20T06:00-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Así es el vóxel, el bloque inteligente desarrollado por el MIT que permite robotizar la construcción a gran escala",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "Pesquisadores do Instituto de Tecnologia de Massachusetts (MIT) desenvolveram voxels, pequenos blocos treliçados – estruturas compostas por uma rede de barras interconectadas – que corrigem erros de montagem e que robôs simples podem usar para erguer estruturas de grande escala, com uma redução estimada de 80% nas emissões de carbono incorporadas em comparação à construção convencional de concreto.\nOutro caminho explorado foram os métodos de fabricação digital, como a impressão 3D e a montagem robótica, que permitem adaptar o projeto sem aumentar proporcionalmente o custo, embora exijam máquinas capazes de trabalhar com precisão de alguns milímetros em trechos de 10 metros. A geometria básica da treliça não era nova, mas faltava um sistema que automatizasse a fabricação e montagem dos blocos em larga escala."
 },
 {
 "id": "cba9a6a6351904",
@@ -13832,7 +13874,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -18754,7 +18796,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -30369,7 +30411,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -41396,7 +41438,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -47285,7 +47327,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -63373,7 +63415,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -63402,7 +63444,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
