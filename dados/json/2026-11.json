@@ -45,6 +45,28 @@
 "rx": "A Runway, que afirma ser “o modelo de vídeo de IA mais bem avaliado do mundo”, lançou o Praxis-1, um modelo de ação mundial de peso aberto projetado para permitir que robôs aprendam tarefas físicas usando o conhecimento adquirido em treinamento de vídeo em grande escala. O modelo de 27 bilhões de parâmetros combina previsão de vídeo com geração de ação robótica, permitindo que os robôs antecipem como os objetos e ambientes mudarão à medida que executam tarefas.\nDe acordo com a Runway, o Praxis-1 alcançou uma taxa de sucesso de 46,2% no benchmark RoboLab-120 da Nvidia, que avalia a manipulação robótica em 120 tarefas simuladas de mesa e 1.200 testes. A Runway também relata que o Praxis-1 alcançou 80% de sucesso no benchmark SimplerEnv após o ajuste fino do robô RT-1 do Google, em comparação com 52,4% da política RT-1 original."
 },
 {
+"id": "6df6c7dc53095d",
+"t": "Atom Robot da China revela robô espacial montado em satélite",
+"r": "Um robô espacial montado em um satélite na China entra em órbita baixa e grava vídeos. De acordo com o China Robot Network, portal chinês especializado em robôs, no dia 20, o atomrobot da China (阿童木机器人) revelou um robô espacial que pode ser usado para serviços orbitais de voos espaciais comerciais. Recentemente, à medida que a rede de satélites de órbita baixa progride em todo o mundo, o âmbito das aplicações de voos espaciais comerciais está a expandir-se. Ao mesmo tempo, a procura por monitorização do estado das naves espaciais, detecção do ambiente orbital e verificação da operação espacial está a aumentar. O problema é que os atuadores montados em satélites, que já são aplicados há muito tempo para esse fim, são utilizados principalmente para missões únicas.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49721",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49721_105866_551.png",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"espaco"
+],
+"l": 1,
+"to": "中 아톰로봇, 위성 탑재 우주 로봇 공개",
+"lg": "ko",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Um robô espacial montado em um satélite na China entra na órbita baixa da Terra e grava vídeos. Segundo o China Robot Network, portal especializado em robôs chineses, no dia 20, o robô atom da China (阿童木机)"
+},
+{
 "id": "e0677c886f0aa5",
 "t": "A limpeza da casa já não depende de mim: foi assim que foi experimentar o novo aspirador robô Dyson",
 "r": "Há algumas semanas, o meu chefe sugeriu-me que experimentasse um aspirador robô e, embora no início não tenha ficado muito entusiasmado com a ideia, a verdade é que fiquei curioso para ver se desta vez a minha experiência com este tipo de aparelho seria diferente. Quanto ao espaço, a base mede 51,7 x 41,5 x 46,75…",
@@ -197,6 +219,186 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A Boston Dynamics lançou um novo vídeo mostrando seu robô humanóide Atlas realizando uma série de manobras incomuns, incluindo rolar sobre rodas, deslizar lateralmente e executar um salto de 360 ​​graus. A demonstração faz parte de um projeto de pesquisa que explora como o aprendizado por reforço pode melhorar o movimento do robô, testar o desempenho do atuador e fortalecer a confiabilidade dos sistemas de controle sob condições exigentes.\nA Boston Dynamics usou milhões de cenários simulados para treinar o Atlas antes de transferir os comportamentos aprendidos para o robô físico. O objetivo final não é produzir uma versão com rodas do Atlas, mas desenvolver sistemas de controle mais robustos, capazes de suportar operações confiáveis ​​de robôs humanóides em ambientes do mundo real."
+},
+{
+"id": "8e19485ef31b51",
+"t": "Calendário da semana do robô (23.11.2026 ~ 29.11)",
+"r": "★ Calendário de robôs desta semana (2026. 11. 23 ~ 11. 29) ★◇ Sessão de pré-briefing da competição de desafio de plataforma humanóide representativa nacional Data: 24 de novembro de 2026 (terça-feira) 10h30 ~ 12h00 Organizador/anfitrião: Ministério da Ciência e TIC, Sociedade Coreana de Robótica, Fundação Nacional de Pesquisa da Coreia Local: Space Share Seoul Station 3 Center Room 105◇ Sala de demonstração SPOT do Clobot Boston Dynamics revelada (evento de mídia) Data: quarta-feira, 25 de novembro de 2026 15h30 ~ 12h00 Anfitrião/organizador: Clobot Local: Sede da Clobot (Edifício Marcus, 4-5, Yanghyeon-ro 405beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do)",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49729",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "금주의 로봇 캘린더(2026. 11. 23~ 11. 29)",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 9
+},
+{
+"id": "6b6358e1cee7fe",
+"t": "Siemens e Aggiebot revelam tecnologia de design de garras de robôs humanóides usando agente de IA",
+"r": "A alemã Siemens colaborou com a empresa chinesa de robôs humanóides AGIBOT para apresentar a tecnologia de design automático de garras robóticas usando um agente de inteligência artificial (IA). A Siemens anunciou no dia 16 (horário local) que revelou uma nova tecnologia de engenharia que conecta o design do produto à preparação da fabricação, combinando IA industrial e tecnologia de fabricação aditiva. Esta tecnologia permite que os usuários insiram os requisitos da tarefa em linguagem natural e um agente de IA cria uma garra robótica adequada. Depois de fazer uma seleção e alterar o design, passe pela simulação e verificação para preparar os dados necessários para a impressão 3D.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49728",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49728_105875_1320.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "지멘스·애지봇, AI 에이전트 활용한 휴머노이드 로봇 그리퍼 설계 기술 공개",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A alemã Siemens colaborou com a empresa chinesa de robôs humanóides AGIBOT para apresentar a tecnologia de design automático de garras robóticas usando um agente de inteligência artificial (IA)."
+},
+{
+"id": "4af291f46a3e7d",
+"t": "1X, humanóide doméstico ‘Neo’ fornecido aos desenvolvedores em dezembro… Construindo um ecossistema de aprendizagem de robôs",
+"r": "A 1X Technologies, uma empresa de robôs humanóides originária da Noruega, planeja fornecer o robô humanóide doméstico 'NEO' para desenvolvedores e alguns consumidores a partir de dezembro. Humanoids Daily, um meio de comunicação humanóide, informou no dia 20 que Bernt Børnich, fundador e CEO da 1X, discutiu planos de fornecimento para desenvolvedores e aprendizagem de robôs. Foi relatado que a estratégia de construção do ecossistema foi revelada. Este relatório é baseado no 'Runtime 2026' do CEO Börnich, realizado em São Francisco, EUA, em 1º de outubro.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49725",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49725_105871_4551.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "1X, 가정용 휴머노이드 '네오' 12월 개발자 공급…로봇 학습 생태계 구축",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A 1X Technologies, uma empresa de robôs humanóides originária da Noruega, começará a desenvolver o robô humanóide doméstico ‘NEO’ em dezembro com alguns desenvolvedores."
+},
+{
+"id": "41a6202f0edc6b",
+"t": "\"Das vendas humanóides ao treinamento\"... centro '8S' estabelecido em Wenzhou, China",
+"r": "Um centro que abrange o desenvolvimento, experiência e aplicação de tecnologia de robôs humanóides foi estabelecido na província de Zhejiang, China. De acordo com a China Robot Network, um portal chinês especializado em robôs, no dia 19, FLYKOR (飞阔科技) e Qing Tianyao (擎天曜) uniram-se para abrir o 'Centro de Experiência e Aplicação de Campo de Robôs de Inteligência Incorporada' em Yunzhou, província de Zhejiang. Este centro é chamado. Como um centro 8S capaz de vendas, fornecimento de soluções, fornecimento de peças (sobressalentes), exposição e demonstração (Show), suporte de serviço (Serviço), pesquisa de demanda do cliente (Pesquisa), educação e treinamento (Escola) e aplicação e demonstração em campo (Cena),",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49722",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49722_105868_306.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides",
+"educacao"
+],
+"l": 0,
+"to": "\"휴머노이드 판매부터 훈련까지\"...中 윈저우에 '8S' 센터 설립",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Um centro que abrange o desenvolvimento, experiência e aplicação de tecnologia de robôs humanóides foi estabelecido na província de Zhejiang, China. Segundo a China Robot Network, portal especializado em robôs chineses, no dia 19, FLYKOR (飞阔)"
+},
+{
+"id": "4f5c958178b693",
+"t": "Promoção da aplicação de robôs humanóides em linhas de produção de roupas na China",
+"r": "Um projeto para aplicar robôs humanóides à indústria do vestuário e permitir “corte e costura” automatizados está sendo promovido na China. De acordo com China Errong Chaoxinwen, no dia 19, a PEACEBIRD (太平鸟) realizou um evento para 'Atualização de fabricação inteligente e visita à fábrica do excelente centro de tecnologia' em Ningbo, China. Neste evento foi assinado um acordo de cooperação estratégica para a construção conjunta da ‘Clothing AI+ Pilot Factory’. Foi concluído. No contrato, não apenas a Peacebird, mas também a Aitu (艾图科技) e universidades locais participarão para explorar conjuntamente tecnologias para a fabricação inteligente de roupas. Aliás, neste dia ocorreu o investimento na linha de produção de vestuário.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49720",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49720_105865_5249.png",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "中 의류 생산라인에 휴머노이드 로봇 적용 추진",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Na China, está a ser promovido um projecto para aplicar robôs humanóides à indústria do vestuário e permitir “corte e costura” automatizados. De acordo com Eunlong Qiao Xinwen da China no dia 19, China"
+},
+{
+"id": "5688bffe599241",
+"t": "獨 Schunk Humanoid Robotics muda de nome para Tactilia Robotics",
+"r": "A Humanoid Robotics Technology (HRT) informou no dia 17 (horário local) que a SCHUNK Humanoid Robotics GmbH, fundada em janeiro deste ano, mudará a marca e operará sob o nome ‘TACTILIA Robotics GmbH’. Os robôs humanóides podem ver e pensar, mas ainda não conseguem segurar objetos de maneira estável. A Tactilia, com sede em Munique, está trazendo ao mercado mãos robóticas modulares, robustas e flexíveis. Tactilia é um spin-off tecnológico da SCHUNK desde a sua fundação no início deste ano.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49715",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49715_105860_5653.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "獨 슝크 휴머노이드 로보틱스, 택틸리아 로보틱스로 브랜드 변경",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A SCHUNK Humanoid Robotics GmbH, fundada em janeiro deste ano, mudou sua marca para ‘TACTILIA Rob’."
+},
+{
+"id": "52744460fb7d01",
+"t": "Schaeffler e Bandelbot colaboram no campo da IA ​​física... Expandindo plataformas robóticas para fábricas de produção globais",
+"r": "A Schaeffler, uma empresa alemã de automóveis e peças industriais, está a expandir a aplicação de IA física aos locais de produção em parceria com a Wandelbots, uma empresa alemã de tecnologia robótica. Planeamos desenvolver em conjunto uma plataforma robótica aberta para agilizar o desenvolvimento, verificação e operação de robôs industriais e robôs humanóides e aplicá-la às fábricas de produção globais da Schaeffler. A Schaeffler assinou recentemente uma parceria tecnológica com a Vandelbot e anunciou que irá desenvolver em conjunto tecnologia de automação robótica baseada na plataforma aberta 'NOVA' da Vandelbot. A plataforma Nova oferece suporte ao projeto, testes digitais e implantação de aplicações robóticas em fábricas de produção reais.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49706",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49706_105849_54.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"industriais",
+"humanoides"
+],
+"l": 0,
+"to": "獨 셰플러, 반델봇과 피지컬 AI 분야 기술 협력…글로벌 생산공장에 로봇 플랫폼 확대",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Schaeffler, uma empresa alemã de automóveis e peças industriais, está a expandir a aplicação de IA física aos locais de produção em parceria com a Wandelbots, uma empresa alemã de tecnologia robótica."
+},
+{
+"id": "c840a42601d569",
+"t": "Empresas taiwanesas de peças de robôs correm para entrar na cadeia de suprimentos de robôs humanóides",
+"r": "As empresas taiwanesas de peças de robôs estão correndo para entrar na cadeia de suprimentos de peças principais de robôs humanóides. De acordo com um relatório do meio de comunicação econômico taiwanês Digitimes, à medida que a indústria de robôs humanóides avança além do desenvolvimento de protótipos e entra na fase de comercialização, com o robô humanóide Optimus da Tesla entrando na fase inicial de produção, as empresas taiwanesas de peças de robôs estão correndo para entrar na cadeia de fornecimento de peças principais. A indústria de peças de Taiwan vê 2027 como um momento para verificação do cliente e produção de testes em pequena escala, e prevê que o negócio de peças contribuirá seriamente para o crescimento das vendas a partir de 2028. As empresas de peças de transmissão de energia esperam 2026",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49705",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49705_105848_219.png",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"humanoides",
+"logistica"
+],
+"l": 0,
+"to": "대만 로봇 부품업체들, 휴머노이드 로봇 공급망 진입 서두른다",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "As empresas taiwanesas de peças para robôs estão correndo para entrar na cadeia de fornecimento de peças essenciais para robôs humanóides. De acordo com um relatório do meio de comunicação econômico taiwanês Digitimes, o robô humanóide de Tesla"
 },
 {
 "id": "4a63802e4a4228",
@@ -355,6 +557,28 @@
 "rx": "O fornecedor sul-coreano de plataforma de mobilidade Kakao Mobility assinou um memorando de entendimento com a Nvidia para desenvolver tecnologia de condução autônoma de nível 4, com aplicações iniciais planejadas para os veículos específicos (PBVs) da Kia. A colaboração combinará o software de direção autônoma proprietário da Kakao Mobility com as tecnologias de computação, sensores e segurança da Nvidia para apoiar o desenvolvimento de serviços de mobilidade sem motorista na Coreia do Sul.\nRyu Geung-seon, CEO da Kakao Mobility, afirma: “Através desta colaboração com a Nvidia, não apenas aceleraremos o avanço da direção autônoma E2E, mas também nos prepararemos para a era da comercialização de nível 4 como um centro central de um ecossistema de tecnologia global conectando software, componentes e veículos acabados”."
 },
 {
+"id": "ef68dc9e6979bb",
+"t": "Agentes de IA versus IA física: como a automação de software difere da robótica incorporada",
+"r": "Os agentes de IA automatizam fluxos de trabalho digitais, enquanto a IA física capacita robôs no mundo real. Aprenda as principais diferenças de engenharia entre os dois.",
+"u": "https://interestingengineering.com/ai-robotics/ai-agents-vs-physical-ai-difference-between-two-technologies",
+"f": "Interesting Engineering",
+"s": "interestingengineering.com",
+"i": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Physical-vs-agentic-ai-.jpg",
+"d": "2026-11-22T12:54-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "AI agents vs physical AI: How software automation differs from embodied robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Interesting Engineering",
+"mx": 1,
+"rx": "Os agentes de IA automatizam fluxos de trabalho digitais, enquanto a IA física capacita robôs no mundo real. Aprenda as principais diferenças de engenharia entre os dois."
+},
+{
 "id": "693664f9facb00",
 "t": "Gobano Robotics relata taxa de sucesso de 99,5% para robô de lavanderia autônomo",
 "r": "A startup francesa de IA física Gobano Robotics afirma que seu sistema robótico autônomo alcançou uma taxa de sucesso de tarefas de 99,5% no Henri Wartner Group, uma empresa francesa de lavanderia industrial com uma história de 150 anos. A Estação Gobano da empresa lida com tarefas repetitivas de dobragem e inspeção de toalhas, operando…",
@@ -376,6 +600,232 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A startup francesa de IA física Gobano Robotics afirma que seu sistema robótico autônomo alcançou uma taxa de sucesso de tarefas de 99,5% no Henri Wartner Group, uma empresa francesa de lavanderia industrial com uma história de 150 anos. A Estação Gobano da empresa realiza tarefas repetitivas de dobragem e inspeção de toalhas, operando de forma autônoma por várias horas enquanto os funcionários realizam outros trabalhos.\nDe acordo com Gobano, o sistema atinge 68% do rendimento de um trabalhador humano durante um turno de 18 horas, com a aprendizagem por reforço contribuindo para melhorias na produtividade. A Gobano relata melhorias diárias no rendimento de aproximadamente 5%, embora não tenha fornecido números detalhados sobre a duração dessa taxa de melhoria. A Gobano planeja estender os períodos operacionais, aumentar o rendimento e desenvolver capacidades para lidar com materiais e fluxos de trabalho adicionais."
+},
+{
+"id": "be560e33f234fb",
+"t": "Remedy Robotics levanta US$ 62 milhões para desenvolver robô de cirurgia cardiovascular alimentado por IA",
+"r": "A Remedy Robotics, uma empresa de robótica médica com sede em São Francisco, arrecadou US$ 62 milhões em financiamento da Série B para desenvolver seu sistema N1 habilitado para IA para procedimentos cardiovasculares e neurovasculares. O financiamento apoiará ensaios clínicos, esforços de aprovação regulatória e desenvolvimento adicional da plataforma robótica, que…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/remedy-robotics-raises-62-million-to-advance-ai-powered-cardiovascular-surgery-robot/107450/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Remedy-Robotics-1.jpg",
+"d": "2026-11-22T13:05-03:00",
+"c": [
+"negocios",
+"medicina"
+],
+"l": 0,
+"to": "Remedy Robotics raises $62 million to advance AI-powered cardiovascular surgery robot",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Remedy Robotics, uma empresa de robótica médica com sede em São Francisco, arrecadou US$ 62 milhões em financiamento da Série B para desenvolver seu sistema N1 habilitado para IA para procedimentos cardiovasculares e neurovasculares. O financiamento apoiará ensaios clínicos, esforços de aprovação regulamentar e desenvolvimento adicional da plataforma robótica, que foi concebida para permitir procedimentos endovasculares através de operação no local, remota e potencialmente autónoma.\nDavid Bell, CEO e cofundador da Remedy Robotics, afirma: “Este financiamento nos permitirá acelerar a implantação do nosso Sistema N1 para que possamos levar uma intervenção de qualidade a pacientes em todos os lugares, independentemente da localização geográfica”. Em outubro de 2025, a Remedy relatou a conclusão de procedimentos neurointervencionistas remotos usando o Sistema N1."
+},
+{
+"id": "ce0336543067ee",
+"t": "BlueBotics unifica o gerenciamento de frota para empilhadeiras manuais e robôs móveis",
+"r": "A BlueBotics, desenvolvedora suíça de tecnologia de navegação autônoma e gerenciamento de frotas, atualizou seu sistema de localização ANT para permitir que as empresas gerenciem empilhadeiras manuais e robôs móveis autônomos por meio de uma única plataforma. A atualização introduz o envio de missão unificado, permitindo que a frota de servidores ANT da empresa…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/bluebotics-unifies-fleet-management-for-manual-forklifts-and-mobile-robots/107455/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bluebotics-unifies-fleet-1.png",
+"d": "2026-11-22T13:11-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "BlueBotics unifies fleet management for manual forklifts and mobile robots",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A BlueBotics, desenvolvedora suíça de tecnologia de navegação autônoma e gerenciamento de frotas, atualizou seu sistema de localização ANT para permitir que as empresas gerenciem empilhadeiras manuais e robôs móveis autônomos por meio de uma única plataforma. A atualização introduz o despacho de missão unificado, permitindo que o software de gerenciamento de frota de servidores ANT da empresa atribua tarefas a veículos guiados automaticamente (AGVs), robôs móveis autônomos (AMRs) e empilhadeiras operadas manualmente.\nAo rastrear a localização em tempo real de cada veículo, o sistema pode alocar tarefas de acordo com a disponibilidade e proximidade, ajudando a reduzir viagens desnecessárias e a melhorar a eficiência da frota. Nicola Tomatis, CEO da BlueBotics, afirma: “Ao combinar o posicionamento preciso da empilhadeira do localizador ANT com os recursos comprovados de gerenciamento de frota do servidor ANT, os clientes podem usar uma plataforma para enviar missões para qualquer veículo disponível."
+},
+{
+"id": "8133a442d6371f",
+"t": "Genesis AI levanta US$ 500 milhões para dimensionar a robótica de uso geral",
+"r": "Genesis AI, uma empresa de robótica com operações em Paris e na Califórnia, levantou US$ 500 milhões em financiamento da Série A com uma avaliação pós-monetária de US$ 3,5 bilhões para acelerar o desenvolvimento e a comercialização de seus robôs de uso geral. A rodada de financiamento foi co-liderada por Premji Invest, Khosla Ventures e Eclipse, com…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/genesis-ai-raises-500-million-to-scale-general-purpose-robotics/107458/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/genesis-ai-founders-Xian-Theo-Eno.png",
+"d": "2026-11-22T13:19-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Genesis AI raises $500 million to scale general-purpose robotics",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "Genesis AI, uma empresa de robótica com operações em Paris e na Califórnia, levantou US$ 500 milhões em financiamento da Série A com uma avaliação pós-monetária de US$ 3,5 bilhões para acelerar o desenvolvimento e a comercialização de seus robôs de uso geral. A Genesis planeja usar o financiamento para expandir a produção de robôs, aumentar a coleta de dados e o treinamento em IA e recrutar pesquisadores e engenheiros adicionais.\nZhou Xian, cofundador e CEO da Genesis AI, afirma: “Para conseguir isso, estamos trabalhando para construir o melhor robô de uso geral do mundo, que funcione de maneira confiável no mundo real, dia após dia”. A Genesis está desenvolvendo internamente seu hardware de robô, modelos de IA, tecnologia de simulação e sistemas de treinamento, com o objetivo de melhorar o desempenho e a confiabilidade por meio de um processo de desenvolvimento integrado."
+},
+{
+"id": "5bdae38a60f518",
+"t": "Mitsubishi Electric expande investimentos em produção e tecnologia nos EUA para 2,9 mil milhões de dólares",
+"r": "A Mitsubishi Electric delineou mais de 2,9 mil milhões de dólares em investimentos, aquisições e compromissos anunciados nos EUA ao longo dos últimos dois anos, incluindo expansões de produção, aquisições de cibersegurança e novas iniciativas de inteligência artificial. A empresa japonesa de tecnologia industrial afirma que seus investimentos incluem…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/mitsubishi-electric-expands-us-manufacturing-and-technology-investments-to-2-9-billion/107462/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Mitsubishi-Electric-Kentucky.jpg",
+"d": "2026-11-22T13:28-03:00",
+"c": [
+"negocios",
+"industriais"
+],
+"l": 0,
+"to": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Mitsubishi Electric delineou mais de 2,9 mil milhões de dólares em investimentos, aquisições e compromissos anunciados nos EUA ao longo dos últimos dois anos, incluindo expansões de produção, aquisições de cibersegurança e novas iniciativas de inteligência artificial. A empresa japonesa de tecnologia industrial afirma que os seus investimentos incluem 259,5 milhões de dólares em instalações de produção em Kentucky, Pensilvânia e Ohio, apoiando a criação de mais de 400 empregos industriais.\nEm dezembro de 2024, a Mitsubishi Electric anunciou um investimento adicional de 143,5 milhões de dólares numa instalação de fabrico de compressores de bomba de calor no Kentucky. A Mitsubishi Electric reporta mais de 2,66 mil milhões de dólares em compromissos de investimento e valores de transações divulgados, juntamente com os seus investimentos na produção e anúncios de emprego."
+},
+{
+"id": "cf12501080b209",
+"t": "Pesquisadores desenvolvem um drone modificado que reduz a largura da aeronave em menos da metade... Passa por uma abertura estreita de 15 cm",
+"r": "Foi desenvolvido um novo tipo de drone que pode passar por espaços estreitos dobrando ambos os braços da aeronave ao tocar em um obstáculo. RobotToday, meio de comunicação especializado em robótica, informou no dia 20, citando Automaton, um canto de robótica do IEEE Spectrum, que pesquisadores introduziram um drone quadrotor que utiliza a deformação estrutural da aeronave. Um drone quadrotor típico tem dificuldade em passar por um espaço mais estreito que a largura da aeronave. Responde evitando obstáculos ou alterando a trajetória de voo, mas existem limitações de operação em ambientes onde as entradas e passagens são muito estreitas. Os pesquisadores estão trabalhando para resolver esses problemas.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49727",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49727_105873_5657.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"drones",
+"ia"
+],
+"l": 0,
+"to": "연구진, 기체 폭 절반 이하로 줄이는 변형 드론 개발…15cm 좁은 틈 통과",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Foi desenvolvido um novo tipo de drone que pode passar por espaços estreitos dobrando ambos os braços da aeronave ao tocar em um obstáculo. RobotToday, mídia especializada em robôs, noticiou no dia 20"
+},
+{
+"id": "9ec695644c7ec7",
+"t": "John Deere adquire empresa agrícola de IA 'Orchard Robotics'... Fortalecendo a agricultura de precisão em nível de colheita",
+"r": "A John Deere, uma empresa americana de maquinaria agrícola, começou a fortalecer a sua tecnologia de agricultura de precisão ao adquirir a Orchard Robotics, uma empresa de análise de dados agrícolas baseada em inteligência artificial. No dia 19, a John Deere anunciou oficialmente que adquiriu a Orchard Robotics, com sede em São Francisco, nos EUA. A Orchard Robotics opera um negócio sob o nome ‘Orchard AI’. Esta aquisição foi anunciada no dia 19 e também divulgada no dia 20 através da mídia agrícola estrangeira. A Orchard AI fornece informações sobre culturas baseadas em inteligência artificial para agricultores que cultivam culturas de alto valor agregado, como árvores frutíferas.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49726",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49726_105872_5123.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"agricolas",
+"negocios"
+],
+"l": 0,
+"to": "존디어, 농업 AI 기업 '오차드 로보틱스' 인수…작물 단위 정밀농업 강화",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A John Deere, uma empresa americana de máquinas agrícolas, adquiriu a Orchard Robotics, uma empresa de análise de dados agrícolas baseada em inteligência artificial, e desenvolveu tecnologia de agricultura de precisão."
+},
+{
+"id": "7e2a22c4d00744",
+"t": "CEO da Xiaomi na China: “A indústria robótica ultrapassará a indústria automobilística”",
+"r": "O CEO da Xiaomi da China viu um alto potencial de crescimento na indústria de robôs. A previsão é que se torne uma indústria que superará a indústria automobilística. De acordo com a China Robot Network, um portal de robôs chinês, no dia 19, o CEO da Xiaomi, Lei Jun, disse na Cúpula de CEOs da APEC 2026, realizada em Shenzhen, China: \"Os robôs de inteligência incorporados serão uma grande oportunidade industrial no futuro\" e que \"eles serão capazes de superar a indústria automobilística\". De acordo com o CEO Lei, a Xiaomi deposita especialmente grandes esperanças no potencial criado à medida que a IA entra no mundo físico, e isso afetará toda a Ásia-Pacífico. Trará enormes oportunidades para a economia.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49719",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49719_105863_3710.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "中 샤오미 CEO \"로봇 산업, 자동차 산업 넘어설 것\"",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "O CEO da Xiaomi da China viu um alto potencial de crescimento na indústria de robôs. A previsão é que se torne uma indústria que superará a indústria automobilística. Segundo o China Robot Network, portal especializado em robôs chineses, no dia 19."
+},
+{
+"id": "417120e1d647f3",
+"t": "Velo3D dos EUA ganha contrato para projeto de carga útil de drones do Exército dos EUA no valor de até 13 bilhões de won",
+"r": "A UAS Magazine informou no dia 17 (horário local) que a Velo3D, Inc. dos EUA foi selecionada como beneficiária do projeto de desafio 'Ogivas de baixo custo e cargas letais para sistemas não tripulados' do Exército dos EUA. O tamanho total do contrato pode atingir até 10 milhões de dólares (aproximadamente 13,4 mil milhões de KRW), dependendo do apoio orçamental do governo para as fases subsequentes do programa. Espera-se que esta seleção seja feita pelo Centro de Armamentos do Comando de Desenvolvimento de Capacidades de Combate do Exército dos EUA (DEVCOM) para acelerar a aplicação de tecnologias comerciais ao setor de defesa.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49714",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49714_105859_4844.jpg",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"negocios",
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "美 벨로3D, 최대 130억원 규모 미육군 드론 탑재체 사업수주",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Velo3D, Inc. dos EUA lançou o programa 'Ogivas de baixo custo e carga útil letal para sistemas não tripulados' do Exército dos EUA."
+},
+{
+"id": "44aa0e0a9826b4",
+"t": "Robotis fornece atuadores no valor de 4 bilhões de won para a Pollen Robotics",
+"r": "A Robotis, uma empresa especializada em atuadores robóticos, fornecerá atuadores robóticos no valor de cerca de 4 bilhões de won para a desenvolvedora francesa de robôs Pollen Robotics SAS. A Robotis anunciou no dia 20 que assinou um contrato de fornecimento de ‘Dynamixel-X’ no valor de 3,97812 bilhões de won com a Pollen Robotics SAS. Isto equivale a 10,22% das vendas consolidadas do ano passado de 38,9 bilhões de won. O período do contrato é de 19 de novembro de 2026 a 18 de abril de 2027. A condição é que 50% do valor do contrato seja recebido como adiantamento e os 50% restantes sejam pagos antes do envio para cada pedido individual.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49712",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49712_105856_2858.png",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "로보티즈, 폴렌로보틱스에 40억원 규모 액추에이터 공급",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Robotis, uma empresa especializada em atuadores robóticos, fornecerá atuadores robóticos no valor de cerca de 4 bilhões de won para a desenvolvedora francesa de robôs Pollen Robotics SAS. robô"
+},
+{
+"id": "5f0925b1152905",
+"t": "“Os EUA não são suficientes para competir com a China apenas com a automação robótica existente nas fábricas.”",
+"r": "Embora os fabricantes americanos estejam a expandir a introdução de robôs industriais em resposta ao aumento dos custos laborais e à escassez de mão-de-obra, foi salientado que é difícil garantir uma vantagem na concorrência industrial com a China apenas automatizando as fábricas existentes. Enquanto as empresas chinesas estão a aumentar a sua competitividade industrial através da construção de novas instalações de produção equipadas com instalações de ponta, as empresas americanas estão a concentrar-se no aumento da produtividade das fábricas existentes, tornando difícil reduzir a disparidade de competitividade entre os dois países. O Financial Times (FT) informou que embora as empresas americanas estejam a introduzir activamente robôs industriais em fábricas e armazéns, isso não é possível. O mesmo investimento levará à restauração da competitividade fundamental da indústria transformadora dos EUA.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49709",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49709_105851_3511.png",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "\"미국, 기존 공장 로봇 자동화만으론 중국과 경쟁 역부족\"",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Embora os fabricantes americanos estejam a expandir a introdução de robôs industriais em resposta ao aumento dos custos laborais e à escassez de mão-de-obra, é difícil garantir uma vantagem na concorrência industrial com a China através apenas da automatização das fábricas existentes."
 },
 {
 "id": "eca69907a63448",
@@ -584,7 +1034,8 @@
 "i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/22/6b02d498e8432.jpeg",
 "d": "2026-11-22T11:42-03:00",
 "c": [
-"competicoes"
+"competicoes",
+"resgate"
 ],
 "l": 0,
 "to": "Il video di di Honor D1, il robot doveva correre la mezza maratona di Milano ma è stato fermato dalla pioggia",
@@ -1242,6 +1693,75 @@
 "rx": "Após cinco dias de conversações nas Nações Unidas, que se prolongaram por horas extraordinárias, os estados concordaram em construir alguma forma de pacto ao longo dos próximos dois anos."
 },
 {
+"id": "d541dca07017de",
+"t": "As nações nas negociações da ONU sobre robôs assassinos de IA concordam com mais negociações, mas nenhum compromisso firme para controlá-las",
+"r": "Os esforços para estabelecer regras firmes sobre robôs assassinos e drones movidos por IA fracassaram no sábado, quando as negociações apoiadas pela ONU em Genebra produziram um acordo suavizado para estender as discussões por mais dois anos. Dezenas de países terminaram a conferência da ONU sobre armas, que durou uma…",
+"u": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+"f": "NPR",
+"s": "npr.org",
+"i": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
+"d": "2026-11-21T05:08-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+"lg": "en",
+"p": 7.8,
+"cr": 3,
+"cv": "NPR",
+"mx": 1,
+"rx": "Os esforços para estabelecer regras firmes sobre robôs assassinos e drones movidos por IA fracassaram no sábado, quando as negociações apoiadas pela ONU em Genebra produziram um acordo suavizado para estender as discussões por mais dois anos. Dezenas de países terminaram a conferência da ONU sobre armas, que durou uma semana, concordando em \"elaborar\" um possível acordo sobre esses sistemas de armas autónomos letais até 2028. Após anos de conversações sobre a questão, grupos de defesa lamentaram o obstrucionismo em grande parte por parte da Rússia, que, tal como outros países importantes em desenvolvimento de armas de IA, como os Estados Unidos, quer ter mais liberdade para desenvolver tais armas de alta tecnologia.\nGuterres, que deixa o cargo no final do ano, estabeleceu o prazo de 2026 para o lançamento de negociações com vista a um acordo sobre sistemas de armas autónomos.",
+"o": [
+{
+"f": "AP News",
+"u": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
+"s": "apnews.com",
+"id": "60f9ca54e1421e"
+},
+{
+"f": "CTV News",
+"u": "https://www.ctvnews.ca/sci-tech/article/nations-agree-to-extend-talks-on-ai-killer-robots-but-no-firm-commitment-to-rein-them-in/",
+"s": "ctvnews.ca",
+"id": "50ca5fce2b08e6"
+}
+]
+},
+{
+"id": "35b543f01ef5ed",
+"t": "A Agência de Promoção da Indústria Robótica da Coreia e o 2º Comando de Operações do Exército assinaram um acordo comercial para 'expandir a introdução de robôs avançados e IA física no campo da defesa'",
+"r": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na…",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49713",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/22/news-p.v1.20261122.b069a1bcad12422e9d7c0d62863338e0_P1.jpg",
+"d": "2026-11-21T21:46-03:00",
+"c": [
+"defesa",
+"ia"
+],
+"l": 0,
+"to": "한국로봇산업진흥원-육군 제2작전사령부, '국방분야 첨단로봇·피지컬 AI 도입 확대' 업무협약 체결",
+"lg": "ko",
+"p": 7.1,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na cerimónia de acordo realizada neste dia no 2º Centro de Operações, funcionários importantes de ambas as organizações participaram e discutiram planos de ação específicos para aplicar a tecnologia robótica nos campos da defesa e fortalecer a cooperação tecnológica civil-militar. De acordo com este acordo, as duas organizações concordaram em cooperar estreitamente em cinco áreas principais: △ descobrir a procura para a utilização de robôs avançados e IA física no campo da defesa e promover projetos cooperativos △ expandir a aplicação no terreno e demonstração de robôs avançados e tecnologias físicas de IA △ rever o ambiente de verificação e conduzir operações piloto △ trocar as mais recentes informações e conhecimentos tecnológicos, industriais e políticos △ partilhar e disseminar os resultados da utilização de IA e robôs no campo da defesa. Como divisão específica de funções, o KIRIA é responsável por descobrir a procura de utilização de robôs nos campos da defesa, planeá-lo como um projeto de demonstração e ligá-lo a projetos de apoio governamental relacionados.\nCho Young-hoon, chefe da Agência de Promoção da Indústria Robótica da Coreia, disse: “O ambiente de demonstração de campo fornecido pela 2ª Companhia Operacional será um trampolim importante para que a excelente tecnologia de robôs civis se estabeleça com sucesso no campo de defesa”, e enfatizou: “Não pouparemos nenhum apoio em nível de agência para que o uso de robôs nos campos público e de defesa possa ser continuamente expandido, em vez de limitado a um projeto piloto único”. Em novembro de 2024, com o lançamento do Conselho de Robôs de Defesa, um 'acordo comercial conjunto de três partes no campo de robôs de defesa' foi assinado com a Associação da Indústria de Robôs da Coreia e a Associação de Promoção da Indústria de Defesa da Coreia, e uma base para a cooperação entre o setor público, privado e os militares foi lançada para △ propostas de políticas nacionais de P&D de médio a longo prazo para robôs de defesa △ criação de um ecossistema de robôs de defesa e promoção de indústrias de peças essenciais △ melhoria dos regulamentos relacionados.",
+"o": [
+{
+"f": "전자신문",
+"u": "https://www.etnews.com/20261122000043",
+"s": "etnews.com",
+"id": "35b543f01ef5ed"
+}
+],
+"esp": 1,
+"xid": [
+"2258a5d08e642a"
+]
+},
+{
 "id": "945627b3416e70",
 "t": "China emite cinco padrões para robôs humanóides cobrindo testes",
 "r": "O Ministério da Indústria e Tecnologia da Informação da China emitiu cinco padrões para robôs humanóides em 16 de novembro de 2026, abrangendo avaliação de capacidade, instalações de treinamento, dados de treinamento, juntas de acionamento elétrico integradas e mãos hábeis, de acordo com 36kr. As normas entraram em vigor na emissão e se enquadram no…",
@@ -1284,35 +1804,6 @@
 "cv": "Humanoid.guide",
 "mx": 1,
 "rx": "A Siemens e a AGIBOT demonstraram um fluxo de trabalho de agente de IA que utiliza uma descrição de tarefa escrita para adaptar uma garra de robô humanóide e preparar seu projeto para fabricação aditiva, de acordo com a 3D Printing Industry. O agente então seleciona um tipo de garra adequado, modifica sua geometria no Designcenter da Siemens, executa simulações e valida virtualmente a interface e o manuseio do robô.\nO fluxo de trabalho de design de garra humanóide usa integração MCP para permitir que o agente chame funções de software de engenharia e coordene as etapas individuais. Para aplicações humanóides, a demonstração aborda um problema específico de engenharia: produzir ferramentas adequadas ao objeto e à tarefa, em vez de depender de um único design de garra para cada aplicação."
-},
-{
-"id": "d541dca07017de",
-"t": "As nações nas negociações da ONU sobre robôs assassinos de IA concordam com mais negociações, mas nenhum compromisso firme para controlá-las",
-"r": "Os esforços para estabelecer regras firmes sobre robôs assassinos e drones movidos por IA fracassaram no sábado, quando as negociações apoiadas pela ONU em Genebra produziram um acordo suavizado para estender as discussões por mais dois anos. Dezenas de países terminaram a conferência da ONU sobre armas, que durou uma…",
-"u": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-"f": "NPR",
-"s": "npr.org",
-"i": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-"d": "2026-11-21T05:08-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "NPR",
-"mx": 1,
-"rx": "Os esforços para estabelecer regras firmes sobre robôs assassinos e drones movidos por IA fracassaram no sábado, quando as negociações apoiadas pela ONU em Genebra produziram um acordo suavizado para estender as discussões por mais dois anos. Dezenas de países terminaram a conferência da ONU sobre armas, que durou uma semana, concordando em \"elaborar\" um possível acordo sobre esses sistemas de armas autónomos letais até 2028. Após anos de conversações sobre a questão, grupos de defesa lamentaram o obstrucionismo em grande parte por parte da Rússia, que, tal como outros países importantes em desenvolvimento de armas de IA, como os Estados Unidos, quer ter mais liberdade para desenvolver tais armas de alta tecnologia.\nGuterres, que deixa o cargo no final do ano, estabeleceu o prazo de 2026 para o lançamento de negociações com vista a um acordo sobre sistemas de armas autónomos.",
-"o": [
-{
-"f": "AP News",
-"u": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
-"s": "apnews.com",
-"id": "60f9ca54e1421e"
-}
-]
 },
 {
 "id": "5a9ab419607bc6",
@@ -2488,28 +2979,6 @@
 "cr": 3,
 "cv": "The New York Times",
 "mx": 3
-},
-{
-"id": "35b543f01ef5ed",
-"t": "A Agência de Promoção da Indústria Robótica da Coreia e o 2º Comando de Operações do Exército assinaram um acordo comercial para 'expandir a introdução de robôs avançados e IA física no campo da defesa'",
-"r": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na…",
-"u": "https://www.etnews.com/20261122000043",
-"f": "전자신문",
-"s": "etnews.com",
-"i": "https://img.etnews.com/news/article/2026/11/22/news-p.v1.20261122.b069a1bcad12422e9d7c0d62863338e0_P1.jpg",
-"d": "2026-11-21T21:46-03:00",
-"c": [
-"defesa",
-"ia"
-],
-"l": 0,
-"to": "한국로봇산업진흥원-육군 제2작전사령부, '국방분야 첨단로봇·피지컬 AI 도입 확대' 업무협약 체결",
-"lg": "ko",
-"p": 3.5,
-"cr": 2,
-"cv": "ETNews",
-"mx": 1,
-"rx": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na cerimónia de acordo realizada neste dia no 2º Centro de Operações, funcionários importantes de ambas as organizações participaram e discutiram planos de ação específicos para aplicar a tecnologia robótica nos campos da defesa e fortalecer a cooperação tecnológica civil-militar. De acordo com este acordo, as duas organizações concordaram em cooperar estreitamente em cinco áreas principais: △ descobrir a procura para a utilização de robôs avançados e IA física no campo da defesa e promover projetos cooperativos △ expandir a aplicação no terreno e demonstração de robôs avançados e tecnologias físicas de IA △ rever o ambiente de verificação e conduzir operações piloto △ trocar as mais recentes informações e conhecimentos tecnológicos, industriais e políticos △ partilhar e disseminar os resultados da utilização de IA e robôs no campo da defesa. Como divisão específica de funções, o KIRIA é responsável por descobrir a procura de utilização de robôs nos campos da defesa, planeá-lo como um projeto de demonstração e ligá-lo a projetos de apoio governamental relacionados.\nCho Young-hoon, chefe da Agência de Promoção da Indústria Robótica da Coreia, disse: “O ambiente de demonstração de campo fornecido pela 2ª Companhia Operacional será um trampolim importante para que a excelente tecnologia de robôs civis se estabeleça com sucesso no campo de defesa”, e enfatizou: “Não pouparemos nenhum apoio em nível de agência para que o uso de robôs nos campos público e de defesa possa ser continuamente expandido, em vez de limitado a um projeto piloto único”. Em novembro de 2024, com o lançamento do Conselho de Robôs de Defesa, um 'acordo comercial conjunto de três partes no campo de robôs de defesa' foi assinado com a Associação da Indústria de Robôs da Coreia e a Associação de Promoção da Indústria de Defesa da Coreia, e uma base para a cooperação entre o setor público, privado e os militares foi lançada para △ propostas de políticas nacionais de P&D de médio a longo prazo para robôs de defesa △ criação de um ecossistema de robôs de defesa e promoção de indústrias de peças essenciais △ melhoria dos regulamentos relacionados."
 },
 {
 "id": "1997e20f48c836",
@@ -4421,6 +4890,29 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em resposta à bomba explosiva de drones de Leipzig, e uma janela de subvenção de 10 milhões de euros para combate a drones da Brave1 e da NATO abriu e fechou em poucos dias - o ritmo do financiamento correspondendo ao ritmo da ameaça.\nUm drone Everdrone AED venceu a ambulância e provocou uma parada cardíaca na Suécia, entregando um desfibrilador a tempo para um espectador salvar a vida do paciente – o resultado que todo programa piloto de drone médico está tentando provar que vale o investimento. A procura industrial está a ultrapassar a oferta em alguns locais: a doca móvel ORKA da CiS tem uma procura que ultrapassa a sua fábrica alemã de 30 pessoas, uma verdadeira história de dificuldades de crescimento, em vez de uma afirmação de marketing."
+},
+{
+"id": "e000ffac27913a",
+"t": "Notícias sobre drones do Departamento de Defesa: contratos e programas (novembro de 2026)",
+"r": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do…",
+"u": "https://dronexl.co/us-government/department-of-defense/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://dronexl.co/assets/favicon.png",
+"d": "2026-11-20T05:00-03:00",
+"c": [
+"drones",
+"defesa",
+"negocios"
+],
+"l": 0,
+"to": "Department of Defense Drone News: Contracts and Programs (November 2026)",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade que costumava ser dividida entre ramos de serviço. Os valores em dólares que transitam por essa estrutura são grandes: o Pentágono destinou 1,3 mil milhões de dólares para drones em dois dias, divididos entre sistemas de abate e fabrico de peças nacionais.\nUm memorando do czar dos drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade de tomada de decisões sobre uma enorme parcela dos gastos com drones militares que anteriormente estavam espalhados por ramos de serviços separados."
 },
 {
 "id": "86ff42ed4cd9cb",
@@ -6597,7 +7089,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Tech in Asia",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-19": [
@@ -9971,6 +10463,27 @@
 "rx": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF"
 },
 {
+"id": "74e4f88c372e78",
+"t": "Por que a tela de verificação “Não sou um robô” é a entrada para a fraude ClickFix?",
+"r": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e…",
+"u": "https://udn.com/news/ai/answer/%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-60405123",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://udn.com/static/img/UDN_BABY.png",
+"d": "2026-11-19T22:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "「我不是機器人」驗證畫面為何是ClickFix詐騙的入口？",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e instalar malware em seus computadores. Desta forma, os hackers podem obter o controle do computador, roubar dados pessoais ou realizar outras atividades ilegais. À medida que as compras online se tornam mais frequentes, este tipo de fraude tornou-se mais comum, representando uma ameaça potencial para os utilizadores."
+},
+{
 "id": "300d27b03f26db",
 "t": "O robô que desenhei se move na tela... A 'AI Experience Exhibition' do Chuncheon Toy Robot Hall é popular",
 "r": "A sandbox de exposição experimental de IA AI Robo-Craft construída por M83 no Chuncheon Toy Robot Hall está recebendo grande resposta dos visitantes. Demonstramos tecnologia para controlar robôs desenhados pelos visitantes em 3D e controlá-los no espaço virtual. Planejamos expandir nossos negócios para mercados B2B…",
@@ -12675,7 +13188,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -19037,6 +19550,35 @@
 ]
 },
 {
+"id": "9d3339c0067b59",
+"t": "RoboAPI do PokeBot permite que os desenvolvedores experimentem novas tarefas em seus próprios braços robóticos, sem nenhuma etapa de treinamento",
+"r": "17, 2026 (GLOBE NEWSWIRE) -- Conseguir que um braço robótico execute uma tarefa para a qual não foi construído normalmente significa coletar exemplos, treinar um modelo, testá-lo e repeti-lo, um ciclo que pode levar semanas. No mês passado, a PokeBot, uma empresa de IA incorporada que desenvolve sistemas inteligentes…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8882443/pokebots-roboapi-lets-developers-try-new-tasks-on-their-own-robot-arms-with-no-training-step/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=991",
+"d": "2026-11-17T17:13-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "PokeBot’s RoboAPI Lets Developers Try New Tasks on Their Own Robot Arms, With No Training Step",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "17, 2026 (GLOBE NEWSWIRE) -- Conseguir que um braço robótico execute uma tarefa para a qual não foi construído normalmente significa coletar exemplos, treinar um modelo, testá-lo e repeti-lo, um ciclo que pode levar semanas. No mês passado, a PokeBot, uma empresa de IA incorporada que desenvolve sistemas inteligentes que entendem e agem no mundo físico, lançou o RoboAPI, uma interface que permite aos desenvolvedores ignorá-la. Conecte um braço robótico compatível a uma câmera montada no pulso, dê instruções em linguagem simples e observe como ele realiza a tarefa em seu próprio espaço.\nDesenvolvedores e pesquisadores obtêm acesso gratuito ao Poke-Aurora, o modelo de ação mundial do PokeBot, sem necessidade de coleta de dados ou ajuste fino. Os desenvolvedores não precisam coletar dados de demonstração, ajustar um modelo ou criar um pipeline de treinamento personalizado antes de tentar novas tarefas.",
+"o": [
+{
+"f": "markets.businessinsider.com",
+"u": "https://markets.businessinsider.com/news/stocks/pokebot-s-roboapi-lets-developers-try-new-tasks-on-their-own-robot-arms-with-no-training-step-1036775432",
+"s": "markets.businessinsider.com",
+"id": "fb81a54900175a"
+}
+]
+},
+{
 "id": "63a63698b0d52c",
 "t": "As empresas de GPU estão competindo para fabricar chips robóticos. Por que os fabricantes de máquinas ainda querem fabricar as suas próprias? -36 criptônio",
 "r": "Os fabricantes nacionais de GPU estão em busca de novos mercados fora dos data centers, e os robôs são um deles. Ao mesmo tempo, a UBTECH também divulgou que Xixuan Chuangzhi, uma empresa lançada em conjunto por ela e pela Muxi Holdings, concluiu uma rodada anjo de financiamento de 500 milhões de yuans, e seu primeiro…",
@@ -21511,27 +22053,6 @@
 "cv": "Nikkei Asia",
 "mx": 1,
 "rx": "・ As remessas de componentes importantes, como capacitores cerâmicos multicamadas para data centers, continuam a aumentar. ・ O foco do desenvolvimento está no lado dos equipamentos de ponta. Áreas onde as empresas japonesas têm pontos fortes, como tamanho pequeno e peso leve ・A participação das empresas japonesas diminuirá 6 pontos em 10 anos. Será que isso será revertido com a implementação social da IA?\nA indústria de componentes eletrônicos provavelmente continuará em expansão devido ao boom de construção de data centers (DC) impulsionado pela inteligência artificial (IA). Embora subsistam preocupações sobre um abrandamento temporário nos EUA, a principal fonte de procura, na sequência dos resultados das eleições intercalares nos EUA, as actuais investigações ainda são fortes. Em 2027, poderá ocorrer uma série de choques que abalarão a economia e a gestão empresarial japonesas."
-},
-{
-"id": "9d3339c0067b59",
-"t": "RoboAPI do PokeBot permite que os desenvolvedores experimentem novas tarefas em seus próprios braços robóticos, sem nenhuma etapa de treinamento",
-"r": "17, 2026 (GLOBE NEWSWIRE) -- Conseguir que um braço robótico execute uma tarefa para a qual não foi construído normalmente significa coletar exemplos, treinar um modelo, testá-lo e repeti-lo, um ciclo que pode levar semanas. No mês passado, a PokeBot, uma empresa de IA incorporada que desenvolve sistemas inteligentes…",
-"u": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8882443/pokebots-roboapi-lets-developers-try-new-tasks-on-their-own-robot-arms-with-no-training-step/",
-"f": "The Globe and Mail",
-"s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=991",
-"d": "2026-11-17T17:13-03:00",
-"c": [
-"industriais"
-],
-"l": 0,
-"to": "PokeBot’s RoboAPI Lets Developers Try New Tasks on Their Own Robot Arms, With No Training Step",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Globe and Mail",
-"mx": 1,
-"rx": "17, 2026 (GLOBE NEWSWIRE) -- Conseguir que um braço robótico execute uma tarefa para a qual não foi construído normalmente significa coletar exemplos, treinar um modelo, testá-lo e repeti-lo, um ciclo que pode levar semanas. No mês passado, a PokeBot, uma empresa de IA incorporada que desenvolve sistemas inteligentes que entendem e agem no mundo físico, lançou o RoboAPI, uma interface que permite aos desenvolvedores ignorá-la. Conecte um braço robótico compatível a uma câmera montada no pulso, dê instruções em linguagem simples e observe como ele realiza a tarefa em seu próprio espaço.\nDesenvolvedores e pesquisadores obtêm acesso gratuito ao Poke-Aurora, o modelo de ação mundial do PokeBot, sem necessidade de coleta de dados ou ajuste fino. Os desenvolvedores não precisam coletar dados de demonstração, ajustar um modelo ou criar um pipeline de treinamento personalizado antes de tentar novas tarefas."
 },
 {
 "id": "3d66980505d14c",
@@ -33632,7 +34153,7 @@
 "u": "https://www.irobotnews.com/news/articleView.html?idxno=49583",
 "f": "Robot Newspaper (Coreia)",
 "s": "irobotnews.com",
-"i": "https://www.irobotnews.com/image/logo/snslogo_20250715024853.png",
+"i": "",
 "d": "2026-11-14T16:41-03:00",
 "c": [
 "medicina"
@@ -33644,7 +34165,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1,
+"mx": 9,
 "rx": "- Mensagem - Estátua do antigo Instituto de Pesquisa para Economia Industrial e Comércio Dr. Man-tae Jeong - Falecido: Park Chae-ok (87 anos) - Funeral: Sala 202, Yejiwon, Hospital Daegu Chilgok K - Faleceu: 16 de novembro de 2026"
 },
 {
@@ -37128,7 +37649,7 @@
 "u": "https://www.irobotnews.com/",
 "f": "로봇신문",
 "s": "irobotnews.com",
-"i": "https://www.irobotnews.com/image/logo/snslogo_20250715024853.png",
+"i": "",
 "d": "2026-11-13T05:00-03:00",
 "c": [
 "drones",
@@ -37140,7 +37661,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 1,
+"mx": 9,
 "rx": "Mídia central na 4ª era industrial - Introdução a robôs, IA, veículos autônomos, notícias sobre drones"
 },
 {
@@ -40187,7 +40708,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -46076,7 +46597,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -62164,7 +62685,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -62193,7 +62714,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
