@@ -23,6 +23,28 @@
 "rx": "Os engenheiros da CSU criaram robôs flexíveis, chamados TeCoBots, que podem se combinar para formar formas inteiramente novas, assim como os Big Hero Six Microbots."
 },
 {
+"id": "83ecaf30e51df0",
+"t": "Runway lança modelo de ação mundial de peso aberto Praxis-1 para robótica",
+"r": "A Runway, que afirma ser “o modelo de vídeo de IA mais bem avaliado do mundo”, lançou o Praxis-1, um modelo de ação mundial de peso aberto projetado para permitir que robôs aprendam tarefas físicas usando o conhecimento adquirido em treinamento de vídeo em grande escala. A empresa afirma que o modelo alcançou “resultados líderes” entre a robótica de peso aberto…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/runway-releases-praxis-1-open-weight-world-action-model-for-robotics/107430/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/runway-robotics-world-model-1.png",
+"d": "2026-11-22T11:03-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "Runway releases Praxis-1 open-weight world action model for robotics",
+"lg": "en",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Runway, que afirma ser “o modelo de vídeo de IA mais bem avaliado do mundo”, lançou o Praxis-1, um modelo de ação mundial de peso aberto projetado para permitir que robôs aprendam tarefas físicas usando o conhecimento adquirido em treinamento de vídeo em grande escala. O modelo de 27 bilhões de parâmetros combina previsão de vídeo com geração de ação robótica, permitindo que os robôs antecipem como os objetos e ambientes mudarão à medida que executam tarefas.\nDe acordo com a Runway, o Praxis-1 alcançou uma taxa de sucesso de 46,2% no benchmark RoboLab-120 da Nvidia, que avalia a manipulação robótica em 120 tarefas simuladas de mesa e 1.200 testes. A Runway também relata que o Praxis-1 alcançou 80% de sucesso no benchmark SimplerEnv após o ajuste fino do robô RT-1 do Google, em comparação com 52,4% da política RT-1 original."
+},
+{
 "id": "e0677c886f0aa5",
 "t": "A limpeza da casa já não depende de mim: foi assim que foi experimentar o novo aspirador robô Dyson",
 "r": "Há algumas semanas, o meu chefe sugeriu-me que experimentasse um aspirador robô e, embora no início não tenha ficado muito entusiasmado com a ideia, a verdade é que fiquei curioso para ver se desta vez a minha experiência com este tipo de aparelho seria diferente. Quanto ao espaço, a base mede 51,7 x 41,5 x 46,75…",
@@ -244,6 +266,28 @@
 "rx": "A Europa passou anos a financiar investigação, a construir consórcios, a organizar demonstrações e a discutir o futuro da aviação não tripulada. Mas onde está a indústria comercial que todos estes projectos prometeram? Todos os anos, milhões de euros são atribuídos à investigação, programas de inovação, demonstrações e projetos colaborativos relacionados com drones. Por que não medir o sucesso dos projetos de drones com financiamento público em relação à adoção comercial?\nPor que não envolver as empresas operacionais de drones muito mais cedo, especialmente as PME que compreendem as realidades comerciais da indústria? Os dados dos drones já estão apoiando grandes projetos industriais e de construção. Pare de medir o sucesso da indústria europeia de drones pelo número de projetos que realiza."
 },
 {
+"id": "e851cff3e8be9b",
+"t": "Vectigo lança sistema de segurança rodoviário para veículos autônomos no Colorado",
+"r": "A Vectigo, uma empresa com sede no Colorado e divisão nos EUA do Grupo Vectigo, com sede na Irlanda, lançou uma plataforma de segurança integrada nas estradas projetada para melhorar as condições de condução de veículos convencionais e autônomos. A Plataforma Vectigo utiliza unidades de sensores alimentadas por energia solar, conhecidas como PODs, instaladas rentes à estrada…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/vectigo-launches-road-embedded-safety-system-for-autonomous-vehicles-in-colorado/107426/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/vectigo-road-tech-3.jpg",
+"d": "2026-11-22T10:52-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Vectigo launches road-embedded safety system for autonomous vehicles in Colorado",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Vectigo, uma empresa sediada no Colorado e divisão nos EUA do Grupo Vectigo, com sede na Irlanda, lançou uma plataforma de segurança integrada nas estradas projetada para melhorar as condições de condução de veículos convencionais e autônomos. A Plataforma Vectigo utiliza unidades de sensores alimentadas por energia solar, conhecidas como PODs, instaladas rente à superfície da estrada para detectar perigos, incluindo gelo negro, neve, inundações, colisões e condutores em contramão.\nTrabalhando com o parceiro nacional de distribuição e instalação RoadSafe Traffic Systems, a Vectigo visa fornecer informações em tempo real ao nível da faixa para motoristas, equipes de emergência, operadores de carga e frotas de veículos autônomos. Vectigo diz que isso poderia ajudar os veículos autônomos a navegar em condições difíceis, especialmente quando a neve, o brilho ou as más marcações nas estradas interferem nos sistemas de percepção a bordo."
+},
+{
 "id": "eca69907a63448",
 "t": "Milão, 20 mil humanos correm a meia maratona na chuva. O robô humanóide não inicia",
 "r": "",
@@ -262,7 +306,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a95b9f52265c1d",
@@ -415,6 +459,30 @@
 "cv": "ABC (Espanha)",
 "mx": 1,
 "rx": "Santiago se tornará esta semana o ponto de encontro da robótica espanhola com a celebração, nos dias 26 e 27, do dia estadual da Semana Europeia da Robótica. O CIFP Politécnico da capital galega acolherá um programa centrado nas... aplicações sociais desta tecnologia, desde a sua utilização nas salas de aula e na reabilitação infantil até ao acompanhamento de idosos. O encontro, organizado pela plataforma tecnológica HispaRob sob o título “ROBOTA: cultura robótica”, reunirá investigadores, empresas, professores e público em geral.\nIsto é destacado pelo presidente da associação europeia euRobotics, Francesco Ferro, que considera que a Galiza é “uma das regiões mais activas” neste domínio, graças a um ecossistema que combina formação universitária, centros tecnológicos e empresas."
+},
+{
+"id": "078b7989022388",
+"t": "JP Morgan afirma que a frota de Robotaxi da Tesla pode igualar as milhas da Waymo até o final de 2027, com 18.000 carros. O número que importa é quanto cada carro ganha.",
+"r": "A Tesla tem uma vantagem em custos de hardware e software no momento, mas essa lacuna pode diminuir no futuro. A vantagem da Tesla não se trata apenas de hardware e software; trata-se também de aprender a reduzir custos operacionais à medida que cresce. O analista da Morgan, Rajat Gupta, acredita que a frota de…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/8956072/jp-morgan-says-teslas-robotaxi-fleet-could-match-waymos-miles-by-late-2027-with-18000-cars-the-number-that-matters-is-how-much-each-car-earns/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"d": "2026-11-22T10:12-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "J.P. Morgan Says Tesla’s Robotaxi Fleet Could Match Waymo’s Miles by Late 2027 With 18,000 Cars. The Number That Matters Is How Much Each Car Earns.",
+"lg": "en",
+"p": 4.8,
+"xid": [
+"4539b9b3df6ff3"
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "A Tesla tem uma vantagem em custos de hardware e software no momento, mas essa lacuna pode diminuir no futuro. A vantagem da Tesla não se trata apenas de hardware e software; trata-se também de aprender a reduzir custos operacionais à medida que cresce. O analista da Morgan, Rajat Gupta, acredita que a frota de robotáxis da Tesla (NASDAQ:TSLA) poderia se igualar à frota Waymo da Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) em milhas autônomas acumuladas até o final de 2027.\nFinalmente, os rivais poderiam optar por custos de hardware mais elevados (LiDAR mais software licenciado) e mais quilómetros de operação de robotáxis, mas isso significaria custos iniciais mais elevados, provavelmente mais custos de manutenção, e os robotáxis tornar-se-iam obsoletos mais rapidamente. A boa notícia é que as milhas da Tesla sob expansão do robotáxi significam que ela está aprendendo a reduzir o TCO por milha antes que outros o façam."
 },
 {
 "id": "14b3f394521541",
@@ -647,7 +715,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "France 24",
-"mx": 2
+"mx": 3
 },
 {
 "id": "023f79697c34c5",
@@ -669,7 +737,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "cb2805d69eb8e7",
@@ -689,7 +757,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 1
+"mx": 2
 },
 {
 "id": "b787dba9f590d4",
@@ -701,7 +769,7 @@
 "i": "https://cdn.lesnumeriques.com/optim/news/26/268246/5b68bc24-chez-burger-king-une-ia-analyse-les-echanges-des-employes-du-drive-avec-les-clients-certains-se-mettent-donc-a-parler-comme-des-robots-pour-avoir-une-bonne-note-et-eviter-d-etre-sanctionnes__1200_678__0-359-4836-2897.webp",
 "d": "2026-11-22T10:00-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note",
@@ -1669,7 +1737,8 @@
 "i": "https://www.latercera.com/resizer/v2/Q37UMJDRO5ETTEDCW3ZGOR5FEI.jpeg?auth=e9501e2f88cb67f5a1d25833f75557bd81af4e9fd495944b8880b1abb46ebec8&height=630&width=1200&smart=true",
 "d": "2026-11-21T13:37-03:00",
 "c": [
-"negocios"
+"negocios",
+"inspecao"
 ],
 "l": 0,
 "to": "Dos hombres que acumulan más de 60 detenciones son capturados en Machalí por robo avaluado en 90 millones de pesos",
@@ -12369,7 +12438,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -39860,7 +39929,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -45749,7 +45818,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -61837,7 +61906,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -61866,7 +61935,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
