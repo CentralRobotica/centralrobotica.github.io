@@ -355,6 +355,29 @@
 "rx": "O fornecedor sul-coreano de plataforma de mobilidade Kakao Mobility assinou um memorando de entendimento com a Nvidia para desenvolver tecnologia de condução autônoma de nível 4, com aplicações iniciais planejadas para os veículos específicos (PBVs) da Kia. A colaboração combinará o software de direção autônoma proprietário da Kakao Mobility com as tecnologias de computação, sensores e segurança da Nvidia para apoiar o desenvolvimento de serviços de mobilidade sem motorista na Coreia do Sul.\nRyu Geung-seon, CEO da Kakao Mobility, afirma: “Através desta colaboração com a Nvidia, não apenas aceleraremos o avanço da direção autônoma E2E, mas também nos prepararemos para a era da comercialização de nível 4 como um centro central de um ecossistema de tecnologia global conectando software, componentes e veículos acabados”."
 },
 {
+"id": "693664f9facb00",
+"t": "Gobano Robotics relata taxa de sucesso de 99,5% para robô de lavanderia autônomo",
+"r": "A startup francesa de IA física Gobano Robotics afirma que seu sistema robótico autônomo alcançou uma taxa de sucesso de tarefas de 99,5% no Henri Wartner Group, uma empresa francesa de lavanderia industrial com uma história de 150 anos. A Estação Gobano da empresa lida com tarefas repetitivas de dobragem e inspeção de toalhas, operando…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/gobano-robotics-reports-99-5-percent-success-rate-for-autonomous-laundry-robot/107447/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/gobano-robotics-1-laundry-team.png",
+"d": "2026-11-22T12:56-03:00",
+"c": [
+"casa",
+"inspecao"
+],
+"l": 0,
+"to": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A startup francesa de IA física Gobano Robotics afirma que seu sistema robótico autônomo alcançou uma taxa de sucesso de tarefas de 99,5% no Henri Wartner Group, uma empresa francesa de lavanderia industrial com uma história de 150 anos. A Estação Gobano da empresa realiza tarefas repetitivas de dobragem e inspeção de toalhas, operando de forma autônoma por várias horas enquanto os funcionários realizam outros trabalhos.\nDe acordo com Gobano, o sistema atinge 68% do rendimento de um trabalhador humano durante um turno de 18 horas, com a aprendizagem por reforço contribuindo para melhorias na produtividade. A Gobano relata melhorias diárias no rendimento de aproximadamente 5%, embora não tenha fornecido números detalhados sobre a duração dessa taxa de melhoria. A Gobano planeja estender os períodos operacionais, aumentar o rendimento e desenvolver capacidades para lidar com materiais e fluxos de trabalho adicionais."
+},
+{
 "id": "eca69907a63448",
 "t": "Milão, 20 mil humanos correm a meia maratona na chuva. O robô humanóide não inicia",
 "r": "",
@@ -550,6 +573,69 @@
 "cv": "The Globe and Mail",
 "mx": 1,
 "rx": "A Tesla tem uma vantagem em custos de hardware e software no momento, mas essa lacuna pode diminuir no futuro. A vantagem da Tesla não se trata apenas de hardware e software; trata-se também de aprender a reduzir custos operacionais à medida que cresce. O analista da Morgan, Rajat Gupta, acredita que a frota de robotáxis da Tesla (NASDAQ:TSLA) poderia se igualar à frota Waymo da Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) em milhas autônomas acumuladas até o final de 2027.\nFinalmente, os rivais poderiam optar por custos de hardware mais elevados (LiDAR mais software licenciado) e mais quilómetros de operação de robotáxis, mas isso significaria custos iniciais mais elevados, provavelmente mais custos de manutenção, e os robotáxis tornar-se-iam obsoletos mais rapidamente. A boa notícia é que as milhas da Tesla sob expansão do robotáxi significam que ela está aprendendo a reduzir o TCO por milha antes que outros o façam."
+},
+{
+"id": "0627509e47d31a",
+"t": "O vídeo do Honor D1, o robô deveria correr a meia maratona de Milão, mas foi parado pela chuva",
+"r": "Na Meia Maratona de Milão não houve exibição do superhumanóide que deveria desafiar os corredores: a chuva parou o Honor Robot D1. Leclerc sob acusação, o contato que fez Hamilton girar no Grande Prêmio de Las Vegas O vídeo do prédio atingido pelos ataques russos em Kiev: equipes de resgate procuram sobreviventes sob…",
+"u": "https://video.corriere.it/milano/il-video-di-di-honor-d1-il-robot-doveva-correre-la-mezza-maratona-di-milano-ma-e-stato-fermato-dalla-pioggia/ae639c43-aab2-42b7-bdcf-f8bd5a9fcxlk",
+"f": "Corriere della Sera",
+"s": "video.corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/image_1200_675/uploads/2026/11/22/6b02d498e8432.jpeg",
+"d": "2026-11-22T11:42-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Il video di di Honor D1, il robot doveva correre la mezza maratona di Milano ma è stato fermato dalla pioggia",
+"lg": "it",
+"p": 4.8,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 1,
+"rx": "Na Meia Maratona de Milão não houve exibição do superhumanóide que deveria desafiar os corredores: a chuva parou o Honor Robot D1. Leclerc sob acusação, o contato que fez Hamilton girar no Grande Prêmio de Las Vegas O vídeo do prédio atingido pelos ataques russos em Kiev: equipes de resgate procuram sobreviventes sob os escombros Reflexão de Augias sobre o presente e saudações aos telespectadores no último episódio de \"A Torre de Babel\" no La7\nNo vídeo de Honor D1, o robô deveria correr a meia maratona de Milão, mas foi parado pela chuva Em Milão, manifestantes queimam as silhuetas de Trump e Netanyahu e um tanque de papelão. Em Milão, as silhuetas de Trump e de um tanque são queimadas durante as manifestações de 20 de novembro"
+},
+{
+"id": "a4ea03274b271c",
+"t": "Turista de Kerala preso por drone não autorizado voando perto do Victoria Memorial",
+"r": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves.",
+"u": "https://timesofindia.indiatimes.com/city/kolkata/kerala-tourist-arrested-for-unauthorised-drone-flying-near-victoria-memorial/articleshow/136077733.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+"d": "2026-11-22T12:24-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Kerala tourist arrested for unauthorised drone flying near Victoria Memorial",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves."
+},
+{
+"id": "67656bc86ac738",
+"t": "TUMO Frankfurt: Onde os jovens aprendem robótica e programação",
+"r": "Desde o final de agosto, os jovens podem aprender aqui programação, desenvolvimento de jogos, robótica, modelagem 3D, animação, produção cinematográfica, design gráfico e produção musical nos tempos livres. Na escadaria, uma mulher usa um quadro inteligente para mostrar aos jovens quais oficinas eles poderão…",
+"u": "https://www.faz.net/aktuell/rhein-main/frankfurt/tumo-frankfurt-wo-jugendliche-robotik-und-programmieren-lernen-accg-201693898.html",
+"f": "FAZ",
+"s": "faz.net",
+"i": "https://media0.faz.net/image/w1200h627/adead9d6214c/w5760h3009x0y618o/11f1db4f-4c28-4280-bf91-32365f604eb7-Tumo_Lernzentrum-086.jpg/spielerisch-im-tumo.webp",
+"d": "2026-11-22T12:40-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "TUMO Frankfurt: Wo Jugendliche Robotik und Programmieren lernen",
+"lg": "de",
+"p": 4.8,
+"cr": 3,
+"cv": "FAZ",
+"mx": 1,
+"rx": "Desde o final de agosto, os jovens podem aprender aqui programação, desenvolvimento de jogos, robótica, modelagem 3D, animação, produção cinematográfica, design gráfico e produção musical nos tempos livres. Na escadaria, uma mulher usa um quadro inteligente para mostrar aos jovens quais oficinas eles poderão frequentar nas próximas semanas: o desenvolvimento de jogos já está lotado, mas ainda há vagas disponíveis em robótica, design gráfico e animação.\nGevorgyan disse que ficou surpresa com a rapidez com que os jovens se adaptaram ao centro de aprendizagem. “Na segunda semana, todos se sentiam em casa aqui.” Mesmo aos dez anos, ela queria muito aprender a animar e sonhava em fazer seu próprio filme, como ela mesma diz. Aqui ela pode aprender coisas que não conseguiu aprender na escola."
 },
 {
 "id": "14b3f394521541",
@@ -765,6 +851,27 @@
 "rx": "É neste contexto que se coloca a Stryx AI, uma jovem start-up francesa. Oferece drones interceptadores que colidem com drones inimigos em pleno vôo. Fundada em 2025 e sediada em Brétigny-sur-Orge (Essonne), a empresa anunciou esta quinta-feira, 19 de novembro, a sua primeira arrecadação de fundos, de 7,7 milhões de euros. A rodada é liderada por seu fundador e CEO, Armand Thiberge (Brevo, ex-Sendinblue, que se tornou unicórnio em dezembro de 2025), com a Impala, holding de Jacques Veyrat.\nEla diz ainda que assinou um primeiro pedido com as autoridades francesas, sem informar nem o valor nem o cliente. Acima de tudo, a Stryx AI não comunicou nem o preço do seu interceptador nem o custo de um site protegido, embora todo o seu argumento dependa disso. A Stryx AI deseja então vender para exércitos e locais sensíveis (portos, aeroportos, locais de energia) e aumentar para 50 funcionários até o final de 2027."
 },
 {
+"id": "59f179785411c3",
+"t": "As empresas de energia implantam drones que podem recarregar através de linhas de energia – os drones quadricópteros NOMAD podem monitorar a rede sem nunca voltar para casa, registrar mais de 20.000 horas e monitorar 25 km de rede cada",
+"r": "A startup de tecnologia Nomadic apresentou seus drones NOMAD esta semana, juntamente com o anúncio de que havia arrecadado US$ 6 milhões em financiamento inicial. Os NOMADs recarregam-se pousando em linhas elétricas de alta tensão, uma característica onipresente na maioria das paisagens, antes de passarem para a…",
+"u": "https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home",
+"f": "Tom's Hardware",
+"s": "tomshardware.com",
+"i": "https://cdn.mos.cms.futurecdn.net/KyriqDvmWdzN5yCApwoGSg-1920-80.jpg",
+"d": "2026-11-22T08:30-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Energy companies deploy drones that can recharge by straddling power lines — NOMAD quadcopter drones can monitor the grid without ever returning home, log over 20,000 hours, and monitor 25km of grid each",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Tom's Hardware",
+"mx": 1,
+"rx": "A startup de tecnologia Nomadic apresentou seus drones NOMAD esta semana, juntamente com o anúncio de que havia arrecadado US$ 6 milhões em financiamento inicial. Os NOMADs recarregam-se pousando em linhas elétricas de alta tensão, uma característica onipresente na maioria das paisagens, antes de passarem para a próxima tarefa. Não tínhamos ouvido nada sobre os drones NOMAD até agora, mas a Nomadic diz que testou seus quadricópteros por mais de 20.000 horas em linhas ativas na Alemanha, Noruega e EUA. “NOMADs são drones que pousam em linhas ativas de alta tensão, carregam a partir da própria linha e se deslocam pela rede para onde as medições são necessárias”, resume a startup.\nA referência às medições ao longo da rede elétrica revela o propósito atual dos drones NOMAD. Nomadic explica que, embora os operadores de rede modernos utilizem modelos meteorológicos para decidir quanta energia cada linha pode transportar, as qualidades das linhas podem ser bastante variáveis."
+},
+{
 "id": "27ed5ce9203ef1",
 "t": "Ao vivo: desabamento de prédio atingido por drone russo deixa 14 desaparecidos perto de Kiev",
 "r": "",
@@ -848,23 +955,25 @@
 "rx": "Em fevereiro de 2026, o Burger King apresentou Patty, uma assistente de voz baseada em tecnologia da OpenAI (criadora do ChatGPT) e testada em cerca de 500 restaurantes americanos. O software reconheceu frases como “por favor” ou “obrigado” para incentivar a educação no drive-thru. Dante Vasquez estava anotando pedidos no drive-thru de um Burger King em Niagara Falls, Nova York.\nO Burger King então adicionou uma classificação de “calor”, que deveria medir o calor humano da troca. Desde então, o Burger King disse à Capital & Main que desativou as classificações de simpatia e cordialidade para melhorá-las. O Burger King garante ainda que seu sistema não foi pensado para avaliar cada funcionário, mas para ajudar os gestores a apoiar suas equipes."
 },
 {
-"id": "0627509e47d31a",
-"t": "O vídeo do Honor D1, o robô deveria correr a meia maratona de Milão, mas foi parado pela chuva",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPai1kRUVCaXNBM2dfaWRwNU9ZUkt2VmVwTnR6ZkdTaDJYTFVDbUZ3dUctQTR6UjNGb0FkdExkcy10alFKaDdXazkzZnUtNm1ES21lUF84ODdCWTZhM2ZyN1hMQ0x0MllLWE9RTnAzYTd2bUFwMzd1U09POGo2bDJtQ01QOUZmY2hGM1pzYk1ZUjFEOElYTHh0NHdXOVU5TFhZbXRRVUU4QVNSdUgxQlpZSTg5b2diSVZ5ZVh0aDZXcDJOYXFQVl9nWGRiNDNkZ19MNi16ZU9xTGtIaFQyanA1QWdhUXlZUnpXY2tFNktqYjhKbU5kTU1Cak92aTh6bGkxN0VWbUFTZzgyQQ?oc=5",
-"f": "Corriere della Sera",
-"s": "video.corriere.it",
-"i": "",
-"d": "2026-11-22T11:42-03:00",
+"id": "1b35eaf6c546af",
+"t": "Mova E50 Ultra, análise: este é o aspirador robô que mais vou recomendar",
+"r": "Digo sem rodeios: o aspirador robô que mais me surpreendeu este ano foi o Mova E40 Ultra e fê-lo pela sua altíssima relação desempenho-custo. Este Mova E50 Ultra é o seu sucessor e a fasquia é muito alta: testámo-lo minuciosamente para ver como é a experiência. O Mova E50 Ultra é um aspirador e lavador robô bom e…",
+"u": "https://www.xataka.com/analisis/mova-e50-ultra-analisis-caracteristicas-precio-especificaciones",
+"f": "Xataka",
+"s": "xataka.com",
+"i": "https://i.blogs.es/aa950d/img_7300/840_560.jpeg",
+"d": "2026-11-22T12:00-03:00",
 "c": [
-"competicoes"
+"casa"
 ],
 "l": 0,
-"to": "Il video di di Honor D1, il robot doveva correre la mezza maratona di Milano ma è stato fermato dalla pioggia",
-"lg": "it",
+"to": "Mova E50 Ultra, análisis: este es el robot aspirador que más voy a recomendar",
+"lg": "es",
 "p": 3.5,
-"cr": 3,
-"cv": "Corriere della Sera"
+"cr": 2,
+"cv": "Xataka",
+"mx": 1,
+"rx": "Digo sem rodeios: o aspirador robô que mais me surpreendeu este ano foi o Mova E40 Ultra e fê-lo pela sua altíssima relação desempenho-custo. Este Mova E50 Ultra é o seu sucessor e a fasquia é muito alta: testámo-lo minuciosamente para ver como é a experiência. O Mova E50 Ultra é um aspirador e lavador robô bom e “bonito” a um preço muito competitivo.\nExplico: a base é completa mas volumosa e o aspirador robô tem um design clássico um pouco antiquado, com uma txapela visível que não pode ser pega. O que Dreame fez com este Mova E50 Ultra é uma verdadeira virguería: tomou como base o seu antecessor, colocou muito mais potência nele, esfrega um pouco melhor e fez com que você tenha que se preocupar menos com manutenção porque os tanques de água limpa e suja são um pouco maiores."
 }
 ],
 "2026-11-21": [
@@ -1920,6 +2029,27 @@
 "rx": "A indústria doméstica de robôs está enfrentando dificuldades, pois não consegue garantir ímãs permanentes, um material essencial, devido às restrições da China às exportações de terras raras. De acordo com a indústria de robôs no dia 22, o fabricante nacional de robôs Robotis registrou vendas de 13,5 bilhões de won no terceiro trimestre deste ano, um aumento de 45% em relação ao mesmo período do ano passado, mas registrou um prejuízo operacional de 2,6 bilhões de won. A indústria cita as restrições da China às exportações de elementos de terras raras e ímanes permanentes como a razão pela qual a Robotis está a crescer, mas não está a obter lucro. Os pedidos do seu principal produto, os atuadores (dispositivos que atuam como músculos e articulações dos robôs), estão aumentando, mas a empresa não consegue aumentar a proporção de produtos de alto desempenho e alto valor agregado devido à incapacidade de proteger elementos de terras raras e ímãs permanentes a tempo. Desde o ano passado, a China tem vindo a implementar um sistema de licenças de exportação para sete tipos de elementos de terras médias e raras, incluindo disprósio (Dy), ligas que utilizam elementos de terras raras e materiais magnéticos permanentes.\nA Robotis tem tentado aumentar a produção de sua série de atuadores altamente vendidos 'Dynamixel-Y' desde o ano passado, mas tem enfrentado dificuldades devido às regulamentações de exportação da China. A Neuromeca, uma empresa nacional que desenvolve os seus próprios motores como o Robotis, também está a enfrentar reveses na produção em massa dos seus produtos, uma vez que não consegue garantir ímanes permanentes devido às restrições de exportação na China."
 },
 {
+"id": "a9c63a34f116db",
+"t": "O time do colégio de Nauni planeja centro de Rs 350 crore para horticultura digital e tecnologia de drones",
+"r": "A Universidade Dr. YS Parmar de Horticultura e Silvicultura, Nauni, estabelecerá um Centro de Excelência em Horticultura Digital e Tecnologia de Drones em colaboração com a ITI Limited, uma empresa do setor público, envolvendo um investimento de cerca de Rs 350 crore.",
+"u": "https://timesofindia.indiatimes.com/city/chandigarh/nauni-varsity-plans-rs-350-crore-centre-for-digital-horticulture-drone-tech/articleshow/136061869.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136061867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-21T19:24-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Nauni varsity plans Rs 350 crore centre for digital horticulture, drone tech",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "A Universidade Dr. YS Parmar de Horticultura e Silvicultura, Nauni, estabelecerá um Centro de Excelência em Horticultura Digital e Tecnologia de Drones em colaboração com a ITI Limited, uma empresa do setor público, envolvendo um investimento de cerca de Rs 350 crore."
+},
+{
 "id": "d6aeb591926ae2",
 "t": "A regulamentação legal de “robôs assassinos” sem intervenção humana é adiada; nenhum acordo alcançado na conferência internacional [Age of AI]",
 "r": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas…",
@@ -2338,25 +2468,6 @@
 "cv": "The Verge",
 "mx": 1,
 "rx": "Um dos itens da agenda dos diplomatas da ONU reunidos em Genebra esta semana era trabalhar em prol de regras relativas ao uso de armas autônomas, ou os chamados “robôs assassinos”. Eventualmente, os representantes deixaram as reuniões concordando em “começar a discutir opções” após uma semana de negociações em grande parte infrutífera. Antes do início das negociações, o Comité Internacional da Cruz Vermelha, o guardião das Convenções de Genebra, disse que era urgente que regras juridicamente vinculativas fossem elaboradas dentro de um ano.\nAs organizações humanitárias e alguns países consideram necessário adoptar urgentemente regras juridicamente vinculativas, uma vez que as armas semi-autónomas e os drones têm sido responsáveis ​​por um número significativo de mortes de civis em conflitos em todo o mundo, incluindo na Ucrânia, em Gaza e no Sudão."
-},
-{
-"id": "a9c63a34f116db",
-"t": "O time do colégio de Nauni planeja centro de Rs 350 crore para horticultura digital e tecnologia de drones",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHNoemlheGlGWjU3YndCcUl5NDRXbTFpQ2JkSG1pS2o3REllSDBSQjJqTHVzTVZCbkk1UnZUNVJ1ZGRQWkZ0MlJWbmVuYzRlYVFvREFDSHFzWWZGclRCN21IT3YxaHpqMjVNX2t5SFFkWlFSZExDMnNnRHB1dmw5Ni1ST3hqc0dqWGhUd3c5TWNZWU5MSENOU1dYY2lCbDFiZHhNUjZtTWpfLVJKbXlJSkJucHdQNk9yUVY5akhVM0dHSjdpYlhtVmU1WmJYcUoxSmpwVGw5SHlHbjV6WS1lb1dWeEE0TTYw0gHuAUFVX3lxTE9xa2JBQ0NvaElMajVmRTEzQ2Q4Z1hrX3NnanlqRmdFWXN0b0hfU1E5SnJlc2RBRi1Iam5QNFAwMU9sTHBhTXVld0lDOWt6bjBKaVk3cVo1NWJzY2psZ1RIUmdJM3J5c2tCN1RsbjAtTWhZU2VDcGtlMmloVlhacUpNODFBSWdGZ2NGZk1hVWlCNzBjN2JVbFVXOHdfajhIX2h0UFRza2dKZEFkQlozR212VlJmbE04ZHRmU0ZEa1dsZ01pOGVCUFpobV8taExoV2pmUUYxeTNGQXpnUE13bXV6Yk15aGJYUld0TG9WNkE?oc=5",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-21T19:24-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Nauni varsity plans Rs 350 crore centre for digital horticulture, drone tech",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "The Times of India"
 },
 {
 "id": "1763b85d0bd78f",
@@ -6471,7 +6582,7 @@
 "id": "d6c02af32535b8",
 "t": "A receita do terceiro trimestre da empresa chinesa de robotáxi WeRide aumenta 88%",
 "r": "",
-"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0RQNWdPYjdTWTVab0k3ZHkzeE9xWVZPNFFTSHNfelFTNWtuOGZWQ0Ixd2VnbHNsVUtnZkNKellyV1hvMUxoNkwwUDVLMmVDMWlCV2RkZm5YbTZTTUVBVmwwbEJtaHVXSl9Fcy1odlpDcXJDSTNyWlliczlkckZCa0xB?oc=5",
+"u": "https://www.techinasia.com/chinese-robotaxi-firm-werides-q3-revenue-jumps-88",
 "f": "Tech in Asia",
 "s": "techinasia.com",
 "i": "",
@@ -6485,7 +6596,8 @@
 "lg": "en",
 "p": 2.2,
 "cr": 2,
-"cv": "Tech in Asia"
+"cv": "Tech in Asia",
+"mx": 1
 }
 ],
 "2026-11-19": [
@@ -12563,7 +12675,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -19657,6 +19769,27 @@
 "rx": "O pessoal autorizado pode usar seus iPhones ou iPads para visualizar vídeos ao vivo dos drones de sua agência e monitorar várias aeronaves simultaneamente."
 },
 {
+"id": "f9cd1d8bda4ee0",
+"t": "O cão-robô do Google nos leva um passo mais perto do fim da humanidade",
+"r": "Spot tem todas as habilidades que você espera dos inquietantes robôs da Boston Dynamics, como navegar sozinho e escalar terrenos acidentados.",
+"u": "https://time.com/video/zOtKwf53/",
+"f": "Time Magazine",
+"s": "time.com",
+"i": "https://cdn.jwplayer.com/v2/media/zOtKwf53/poster.jpg?width=720",
+"d": "2026-11-17T15:48-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Google’s Robot Dog Brings Us One Step Closer to the End of Humanity",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "TIME",
+"mx": 1,
+"rx": "Spot tem todas as habilidades que você espera dos inquietantes robôs da Boston Dynamics, como navegar sozinho e escalar terrenos acidentados."
+},
+{
 "id": "a4dd87205ac856",
 "t": "Relatório da conferência: Indústria da construção à beira de uma revolução robótica",
 "r": "A indústria da construção tem sido lenta na adoção da robótica, apesar de décadas de progresso tecnológico na produção e na logística. Na primeira Groundworks Summit, em Londres, empresas de robótica, empreiteiros e investidores discutiram o que será necessário para trazer a automação para as operações diárias dos edifícios. Agora pode…",
@@ -22435,25 +22568,6 @@
 "cv": "Sifted",
 "mx": 1,
 "rx": "A startup humanóide Vesoma, com sede em Munique, está buscando arrecadar 50 milhões de euros em meio ao fervor contínuo dos investidores por empresas que constroem robôs semelhantes a humanos para aplicações industriais."
-},
-{
-"id": "f9cd1d8bda4ee0",
-"t": "O cão-robô do Google nos leva um passo mais perto do fim da humanidade",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGQnVSQlFRdWpuMTJPQVhjUDEzNnAxMjJIcXZkOF9aMXNVUTBMT2xtZEVPdG41NmtxZzZSY0NSMk12cmdBTjhN?oc=5",
-"f": "Time Magazine",
-"s": "time.com",
-"i": "",
-"d": "2026-11-17T15:48-03:00",
-"c": [
-"quadrupedes"
-],
-"l": 0,
-"to": "Google’s Robot Dog Brings Us One Step Closer to the End of Humanity",
-"lg": "en",
-"p": 4.3,
-"cr": 3,
-"cv": "TIME"
 },
 {
 "id": "7b8e60f9473b1f",
@@ -40073,7 +40187,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -45962,7 +46076,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -62050,7 +62164,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -62079,7 +62193,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
