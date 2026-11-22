@@ -46,6 +46,29 @@
 "rx": "Mas enquanto milhões de jogadores exploram o mais recente mundo virtual da Rockstar Games, outra forma de entretenimento tecnologicamente impulsionado está se preparando para entrar na arena esportiva do mundo real: lutas de robôs humanóides. Poderia a luta de robôs humanóides eventualmente atrair seguidores comparáveis, reunindo elementos de videogame, esportes de combate e robótica em um novo esporte para espectadores?\nUma organização australiana chamada Humanoid Fighting Championship (HFC) está se preparando para descobrir. A competição contará com robôs humanóides, incluindo máquinas EngineAI T800, lutando dentro de um recinto octogonal especialmente construído com blindagem protetora. As competições envolvendo máquinas controladas remotamente existem há décadas, enquanto a China já organizou eventos esportivos e demonstrações de combate com robôs humanóides."
 },
 {
+"id": "acf73b5725134c",
+"t": "Multiway Robotics apresenta empilhadeiras humanóides e autônomas com rodas na CeMAT Asia 2026",
+"r": "A Multiway Robotics apresentou cinco soluções autônomas de manuseio de materiais na CeMAT Asia 2026 em Xangai, incluindo um robô humanóide com rodas projetado para operações industriais flexíveis. A exposição, realizada de 3 a 6 de novembro, reuniu empresas de logística e automação demonstrando tecnologias para…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/multiway-robotics-showcases-wheeled-humanoid-and-autonomous-forklifts-at-cemat-asia-2026/107492/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/multiway-robotics-image-2.jpg",
+"d": "2026-11-22T18:48-03:00",
+"c": [
+"humanoides",
+"logistica"
+],
+"l": 1,
+"to": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026",
+"lg": "en",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Multiway Robotics apresentou cinco soluções autônomas de manuseio de materiais na CeMAT Asia 2026 em Xangai, incluindo um robô humanóide com rodas projetado para operações industriais flexíveis. A linha da Multiway incluía seu humanóide com rodas H01, um sideloader omnidirecional, uma empilhadeira de corredor estreito, uma paleteira autônoma e uma empilhadeira contrabalançada para empilhamento preciso.\nO robô humanóide com rodas H01 combina uma base móvel com dois braços robóticos colaborativos, proporcionando uma capacidade de carga combinada de até 30 kg. Ao contrário dos robôs móveis autônomos convencionais projetados principalmente para transporte, o H01 pode manipular objetos usando sua configuração de braço duplo. Com sede em Shenzhen, China, a Multiway Robotics desenvolve empilhadeiras autônomas, robôs móveis e software intralogístico, com operações que se estendem a mais de 40 países e regiões."
+},
+{
 "id": "d71d6efc58d11b",
 "t": "Este robô que muda de forma parece um transformador real; pode dobrar, agarrar e combinar para uma nova função",
 "r": "Os engenheiros da CSU criaram robôs flexíveis, chamados TeCoBots, que podem se combinar para formar formas inteiramente novas, assim como os Big Hero Six Microbots.",
@@ -469,6 +492,28 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A Schunk renomeou seu spin-off de robótica humanóide como Tactilia Robotics, estabelecendo uma empresa com sede em Munique focada no desenvolvimento de mãos robóticas modulares para aplicações de automação industrial. Fundada originalmente em janeiro de 2026 como Schunk Humanoid Robotics GmbH, a empresa está desenvolvendo mãos robóticas projetadas para lidar com uma ampla variedade de objetos e componentes em ambientes de fabricação e logística.\nA Tactilia afirma que a sua abordagem modular permitirá que a tecnologia seja adaptada a diferentes aplicações industriais sem ficar restrita a um determinado fabricante ou plataforma de robôs. A empresa afirma que a sua prioridade imediata é desenvolver e validar mãos robóticas que possam operar de forma confiável em ambientes industriais, com ênfase na integração prática e na operação contínua."
+},
+{
+"id": "5b2714845d6acf",
+"t": "IA descobre sinais de alerta ocultos de câncer de bexiga anos antes do diagnóstico",
+"r": "Os cientistas desenvolveram uma ferramenta de IA que pode descobrir sinais de alerta ocultos de cancro da bexiga até cinco anos antes do diagnóstico, identificando 85% dos casos num grande estudo envolvendo quase 70.000 pacientes. Ao revelar padrões subtis que o rastreio convencional não percebe, a tecnologia poderá ajudar os médicos a detetar o cancro…",
+"u": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+"f": "ScienceDaily",
+"s": "sciencedaily.com",
+"i": "https://www.sciencedaily.com/images/1920/glowing-urinary-bladder-cancer.webp",
+"d": "2026-11-22T00:43-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "ScienceDaily",
+"mx": 1,
+"rx": "O cancro da bexiga mata aproximadamente 220.000 pessoas em todo o mundo todos os anos, mas reconhecer a doença precocemente pode ser difícil. Pesquisadores da Universidade de Plymouth desenvolveram agora um sistema de inteligência artificial que pode ajudar os médicos a identificar pessoas em risco de câncer de bexiga anos antes de receberem o diagnóstico. Ao reconhecer estes padrões, os investigadores esperam tornar o rastreio do cancro da bexiga mais preciso e ajudar os médicos a encontrar a doença quando o tratamento tiver maior probabilidade de sucesso.\nPor exemplo, os pacientes diagnosticados com doença de Parkinson ou demência pareciam ter um risco menor de cancro da bexiga. “O cancro da bexiga tem uma grande necessidade não satisfeita na detecção precoce e a perspectiva de uma ferramenta de rastreio é extremamente entusiasmante para os pacientes e suas famílias."
 },
 {
 "id": "4a63802e4a4228",
@@ -1006,9 +1051,53 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics & Automation News",
-"cur": 1,
 "mx": 1,
-"rx": "O investimento global em robótica está a caminho de atingir um ano recorde em 2026, com financiamento previsto para atingir 60,7 mil milhões de dólares, embora grande parte do crescimento esteja concentrado num número relativamente pequeno de empresas, de acordo com um novo relatório da empresa de capital de risco F-Prime Capital. O relatório State of Robotics 2026 da empresa, baseado em dados do PitchBook e na sua própria análise, sugere que o investimento poderá aproximar-se do total combinado dos quatro anos anteriores.\nDe acordo com a F-Prime, as empresas de robótica angariaram aproximadamente 50,7 mil milhões de dólares até setembro de 2026, com a maior parte do capital concentrada em rondas de financiamento invulgarmente grandes. O relatório também identifica uma forte concentração geográfica, com aproximadamente 80% do investimento em robótica destinado a empresas nas Américas."
+"rx": "O investimento global em robótica está a caminho de atingir um ano recorde em 2026, com financiamento previsto para atingir 60,7 mil milhões de dólares, embora grande parte do crescimento esteja concentrado num número relativamente pequeno de empresas, de acordo com um novo relatório da empresa de capital de risco F-Prime Capital. O relatório State of Robotics 2026 da empresa, baseado em dados do PitchBook e na sua própria análise, sugere que o investimento poderá aproximar-se do total combinado dos quatro anos anteriores.\nDe acordo com a F-Prime, as empresas de robótica angariaram aproximadamente 50,7 mil milhões de dólares até setembro de 2026, com a maior parte do capital concentrada em rondas de financiamento invulgarmente grandes. O relatório também identifica uma forte concentração geográfica, com aproximadamente 80% do investimento em robótica destinado a empresas nas Américas.",
+"cur": 1
+},
+{
+"id": "1eb61d697608ab",
+"t": "Batalha de robôs humanóides em evento de combate no Vale do Silício",
+"r": "Vale do Silício hospeda evento de combate de robôs com lâminas REK 2.1 mostra lutas de robôs humanóides, levantando questões de segurança à medida que a tecnologia muda da indústria para o entretenimento",
+"u": "https://www.chosun.com/english/industry-en/2026/11/23/WW27NH7YJNEODLFNQESWKHPWRE/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/VPEEL7FFP5AEPK3TSKOVFWLHDQ.gif?auth=57c6abaddf92d4a7e37d0fa1b65c50ddd610f9acbfc1a41f1b3c3b07f1609376&width=400&height=210&smart=true",
+"d": "2026-11-22T18:01-03:00",
+"c": [
+"humanoides",
+"defesa"
+],
+"l": 0,
+"to": "Humanoid Robots Battle at Silicon Valley Combat Event",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Vale do Silício hospeda evento de combate de robôs com lâminas REK 2.1 mostra lutas de robôs humanóides, levantando questões de segurança à medida que a tecnologia muda da indústria para o entretenimento"
+},
+{
+"id": "c9423ef43bd72c",
+"t": "Anthropic lança Claude for Manufacturing para automatizar fluxos de trabalho administrativos e de engenharia",
+"r": "A Anthropic lançou o Claude for Manufacturing, uma nova oferta de software de IA projetada para ajudar os fabricantes a agilizar as tarefas diárias, incluindo preparação de cotações, investigação de problemas de qualidade, diagnóstico de falhas de equipamentos e gerenciamento de relacionamentos com fornecedores. Anunciada em 12 de novembro, a oferta combina 17…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/manufacturing-leadership-council-1.jpg",
+"d": "2026-11-22T18:07-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Anthropic lançou o Claude for Manufacturing, uma nova oferta de software de IA projetada para ajudar os fabricantes a agilizar as tarefas diárias, incluindo a preparação de cotações, investigação de problemas de qualidade, diagnóstico de falhas de equipamentos e gerenciamento de relacionamentos com fornecedores. Anunciada em 12 de novembro, a oferta combina 17 habilidades específicas de manufatura com quatro conectores de software, permitindo que Claude trabalhe com informações armazenadas em sistemas já utilizados por empresas industriais.\nClaude for Manufacturing inclui habilidades que abrangem vendas, gerenciamento de qualidade, operações, cadeias de suprimentos, projeto de engenharia e configuração de equipamentos. Após a instalação, o software pode ajudar os usuários a identificar seus sistemas existentes, testar os conectores disponíveis e determinar quais habilidades de fabricação podem operar com as informações atualmente acessíveis."
 },
 {
 "id": "8e19485ef31b51",
@@ -1442,6 +1531,27 @@
 "rx": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados."
 },
 {
+"id": "0d8b85900160ff",
+"t": "Chute voador com espada na mão... American Sylvel coloca robô no ringue",
+"r": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como…",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/23/S7ECUZCJTFEA7MTMW3PZL5SMWE/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/VPEEL7FFP5AEPK3TSKOVFWLHDQ.gif?auth=57c6abaddf92d4a7e37d0fa1b65c50ddd610f9acbfc1a41f1b3c3b07f1609376&width=400&height=210&smart=true",
+"d": "2026-11-22T18:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "손에 칼 차고 날아차기...美 실밸, 로봇을 링 위에 올렸다",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Em São Francisco, EUA, uma cultura única de robôs humanóides lutando no ringue está se espalhando. Os robôs que combinam IA e controle humano estão competindo ferozmente com as lâminas, obtendo respostas positivas do público. No entanto, garantir a segurança dos jogos e estabelecer normas regulamentares surgiram como tarefas urgentes."
+},
+{
 "id": "14b3f394521541",
 "t": "OpenAtom forma comitê de trabalho para comunidade de código aberto de robôs humanóides",
 "r": "Nove organizações fundaram um comitê comunitário de robôs humanóides OpenAtom para coordenar software, modelos, dados e governança compartilhados.",
@@ -1502,7 +1612,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Robotstart",
-"mx": 1,
+"mx": 2,
 "rx": "・Definição de requisitos/planejamento de projeto: Organize os requisitos do cliente, problemas no local, processos/trabalho a serem introduzidos e desempenho/condições necessários. Esclarecemos o propósito, o escopo e os resultados, formulamos o cronograma de desenvolvimento/implementação, a estrutura e a divisão de funções e confirmamos o orçamento e o plano de despesas. ・Gerenciamento de QCD: Gerencie o progresso de desenvolvimento/produção, orçamento/custo, metas de qualidade/desempenho. ・Gerenciamento do progresso da equipe técnica: controle do robô, visão computacional, projeto mecânico, mão do robô, sensor visual tátil, elétrico...\nDetalhes do trabalho: Definição de requisitos/planejamento do projeto: Organizar os requisitos do cliente, problemas no local, processos/trabalho a serem introduzidos e desempenho/condições necessários."
 },
 {
@@ -1841,6 +1951,47 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "O Roborock F25 Steam lida com a limpeza de pisos duros combinando lavagem clássica e vapor. O dispositivo visa manter grandes superfícies em uma única sessão, ao mesmo tempo que simplifica a tarefa de remover manchas difíceis. Por ocasião da Black Friday, o Roborock F25 Steam desce para 338,00€ na Amazon, ou cerca de 26% menos que o preço médio observado nos últimos 30 dias (456,86€).\nO aparelho possui um design cuidadoso que limita o esforço físico durante a sessão: suas rodas motorizadas auxiliam o movimento para frente e facilitam as mudanças de direção ao redor do móvel, conforme destacado em nosso teste completo. Atualmente avaliado em 5/5 pela nossa equipe editorial, garante um resultado muito limpo desde a primeira passagem."
+},
+{
+"id": "1f5902c779e6d1",
+"t": "Encontre o seu próprio caminho e encontre o equilíbrio... 'Robô de bicicleta AI' corre em caminhos de montanha",
+"r": "Surgiu um robô de bicicleta com IA que pode andar sozinho em estradas montanhosas acidentadas, sem controle humano. Pesquisadores do Instituto Federal Suíço de Tecnologia de Zurique e do RAI, um instituto de pesquisa em robótica e IA, anunciaram os resultados de um experimento de condução do robô de bicicleta autônomo…",
+"u": "https://www.etnews.com/20261120000267",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.6daa3dbaf7564aecb0906e2e0daf2c57_P1.png",
+"d": "2026-11-22T18:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "스스로 길 찾고 균형까지…산길 달리는 'AI 자전거 로봇'",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "Surgiu um robô de bicicleta com IA que pode andar sozinho em estradas montanhosas acidentadas, sem controle humano. Pesquisadores do Instituto Federal Suíço de Tecnologia de Zurique e do RAI, um instituto de pesquisa em robótica e IA, anunciaram os resultados de um experimento de condução do robô de bicicleta autônomo 'UMV'. Este robô entende o terreno circundante com câmeras e sensores lidar e usa IA para escolher seu próprio caminho e manter o equilíbrio. Você também pode dirigir em estradas montanhosas com pedras, raízes de árvores e curvas acentuadas. No experimento, um percurso de mountain bike de aproximadamente 1 km foi dividido em 6 seções e a condução autônoma foi realizada em um total de 946 m. Registou uma velocidade média de cerca de 11,7 km por hora e uma velocidade máxima de cerca de 18,7 km por hora, sendo que em alguns trechos foi 2,3 vezes mais rápido que o método de controle remoto. No futuro, os investigadores planeiam melhorar as capacidades de reconhecimento de obstáculos e desenvolver tecnologia para permitir a condução autónoma mesmo em terrenos complexos com bifurcações na estrada. Repórter Changmin Lee re34521@etnews.com"
+},
+{
+"id": "07aca016e6c3a4",
+"t": "Líbia: dois navios atacados por drones marítimos, incluindo um barco russo",
+"r": "",
+"u": "https://www.france24.com/fr/afrique/20261122-libye-drones-maritimes-attaqu%C3%A9-deux-navires-bateau-russe-guerre",
+"f": "France 24",
+"s": "france24.com",
+"i": "",
+"d": "2026-11-22T18:05-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "France 24",
+"mx": 1
 }
 ],
 "2026-11-21": [
@@ -13681,7 +13832,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -18594,7 +18745,8 @@
 "i": "",
 "d": "2026-11-18T14:40-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"medicina"
 ],
 "l": 0,
 "to": "马斯克：预计未来12-18个月Optimus机器人能做家务劳动",
@@ -18602,7 +18754,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -30208,7 +30360,8 @@
 "i": "",
 "d": "2026-11-16T16:39-03:00",
 "c": [
-"industriais"
+"industriais",
+"medicina"
 ],
 "l": 0,
 "to": "通用汽车考虑到2028年将北美工厂机器人等使用比例提高20%",
@@ -30216,7 +30369,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -41243,7 +41396,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -47132,7 +47285,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -63220,7 +63373,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -63249,7 +63402,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
