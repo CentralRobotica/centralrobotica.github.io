@@ -1029,6 +1029,27 @@
 "rx": "A indústria doméstica de robôs está enfrentando dificuldades, pois não consegue garantir ímãs permanentes, um material essencial, devido às restrições da China às exportações de terras raras. De acordo com a indústria de robôs no dia 22, o fabricante nacional de robôs Robotis registrou vendas de 13,5 bilhões de won no terceiro trimestre deste ano, um aumento de 45% em relação ao mesmo período do ano passado, mas registrou um prejuízo operacional de 2,6 bilhões de won. A indústria cita as restrições da China às exportações de elementos de terras raras e ímanes permanentes como a razão pela qual a Robotis está a crescer, mas não está a obter lucro. Os pedidos do seu principal produto, os atuadores (dispositivos que atuam como músculos e articulações dos robôs), estão aumentando, mas a empresa não consegue aumentar a proporção de produtos de alto desempenho e alto valor agregado devido à incapacidade de proteger elementos de terras raras e ímãs permanentes a tempo. Desde o ano passado, a China tem vindo a implementar um sistema de licenças de exportação para sete tipos de elementos de terras médias e raras, incluindo disprósio (Dy), ligas que utilizam elementos de terras raras e materiais magnéticos permanentes.\nA Robotis tem tentado aumentar a produção de sua série de atuadores altamente vendidos 'Dynamixel-Y' desde o ano passado, mas tem enfrentado dificuldades devido às regulamentações de exportação da China. A Neuromeca, uma empresa nacional que desenvolve os seus próprios motores como o Robotis, também está a enfrentar reveses na produção em massa dos seus produtos, uma vez que não consegue garantir ímanes permanentes devido às restrições de exportação na China."
 },
 {
+"id": "d6aeb591926ae2",
+"t": "A regulamentação legal de “robôs assassinos” sem intervenção humana é adiada; nenhum acordo alcançado na conferência internacional [Age of AI]",
+"r": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas…",
+"u": "https://www.asahi.com/articles/ASVCP7VRJVCPSFVU11PM.html",
+"f": "朝日新聞",
+"s": "asahi.com",
+"i": "https://imgopt.asahi.com/ogp/AS20261122000993_comm.jpg",
+"d": "2026-11-21T21:06-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "人間介さぬ「殺人ロボット」法的規制は先送り 国際会議で合意できず [AIの時代]",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Asahi Shimbun",
+"mx": 1,
+"rx": "No dia 21, a conferência de revisão da Convenção sobre a Proibição e Restrição do Uso de Certas Armas Convencionais (CCW) relativa aos ``robôs assassinos'' que realizam ataques sem envolvimento humano direto terminou sem um acordo para iniciar negociações sobre regras internacionais juridicamente vinculativas realizadas em Genebra, na Suíça. Um sistema de armas que, uma vez ativado, utiliza sensores e inteligência artificial (IA) para selecionar e atacar um alvo sem a intervenção do julgamento humano.\nA CCW é um tratado internacional que regulamenta armas convencionais desumanas e é uma estrutura que acrescenta protocolos para proibir e restringir cada tipo de arma."
+},
+{
 "id": "e910c3f41964e8",
 "t": "Na câmera, robô humanóide convida o ministro do Rajastão, Madan Dilawar, para o laboratório de inovação em Kota",
 "r": "",
@@ -1340,6 +1361,48 @@
 "cv": "The Verge",
 "mx": 1,
 "rx": "Um dos itens da agenda dos diplomatas da ONU reunidos em Genebra esta semana era trabalhar em prol de regras relativas ao uso de armas autônomas, ou os chamados “robôs assassinos”. Eventualmente, os representantes deixaram as reuniões concordando em “começar a discutir opções” após uma semana de negociações em grande parte infrutífera. Antes do início das negociações, o Comité Internacional da Cruz Vermelha, o guardião das Convenções de Genebra, disse que era urgente que regras juridicamente vinculativas fossem elaboradas dentro de um ano.\nAs organizações humanitárias e alguns países consideram necessário adoptar urgentemente regras juridicamente vinculativas, uma vez que as armas semi-autónomas e os drones têm sido responsáveis ​​por um número significativo de mortes de civis em conflitos em todo o mundo, incluindo na Ucrânia, em Gaza e no Sudão."
+},
+{
+"id": "1763b85d0bd78f",
+"t": "Drones, textos e diversões: como o México capturou o homem mais procurado",
+"r": "",
+"u": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+"f": "The New York Times",
+"s": "nytimes.com",
+"i": "",
+"d": "2026-11-21T21:01-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The New York Times",
+"mx": 1
+},
+{
+"id": "35b543f01ef5ed",
+"t": "A Agência de Promoção da Indústria Robótica da Coreia e o 2º Comando de Operações do Exército assinaram um acordo comercial para 'expandir a introdução de robôs avançados e IA física no campo da defesa'",
+"r": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na…",
+"u": "https://www.etnews.com/20261122000043",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/22/news-p.v1.20261122.b069a1bcad12422e9d7c0d62863338e0_P1.jpg",
+"d": "2026-11-21T21:46-03:00",
+"c": [
+"defesa",
+"ia"
+],
+"l": 0,
+"to": "한국로봇산업진흥원-육군 제2작전사령부, '국방분야 첨단로봇·피지컬 AI 도입 확대' 업무협약 체결",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "A Agência Coreana de Promoção da Indústria de Robôs (KIRIA, Presidente Cho Young-hoon) anunciou no dia 22 que assinou um 'MOU para expandir a introdução de robôs avançados e IA física no campo de defesa' com o 2º Comando Operacional do Exército (Comandante Kim Ho-bok, doravante 2º Comando de Operações) no dia 19. Na cerimónia de acordo realizada neste dia no 2º Centro de Operações, funcionários importantes de ambas as organizações participaram e discutiram planos de ação específicos para aplicar a tecnologia robótica nos campos da defesa e fortalecer a cooperação tecnológica civil-militar. De acordo com este acordo, as duas organizações concordaram em cooperar estreitamente em cinco áreas principais: △ descobrir a procura para a utilização de robôs avançados e IA física no campo da defesa e promover projetos cooperativos △ expandir a aplicação no terreno e demonstração de robôs avançados e tecnologias físicas de IA △ rever o ambiente de verificação e conduzir operações piloto △ trocar as mais recentes informações e conhecimentos tecnológicos, industriais e políticos △ partilhar e disseminar os resultados da utilização de IA e robôs no campo da defesa. Como divisão específica de funções, o KIRIA é responsável por descobrir a procura de utilização de robôs nos campos da defesa, planeá-lo como um projeto de demonstração e ligá-lo a projetos de apoio governamental relacionados.\nCho Young-hoon, chefe da Agência de Promoção da Indústria Robótica da Coreia, disse: “O ambiente de demonstração de campo fornecido pela 2ª Companhia Operacional será um trampolim importante para que a excelente tecnologia de robôs civis se estabeleça com sucesso no campo de defesa”, e enfatizou: “Não pouparemos nenhum apoio em nível de agência para que o uso de robôs nos campos público e de defesa possa ser continuamente expandido, em vez de limitado a um projeto piloto único”. Em novembro de 2024, com o lançamento do Conselho de Robôs de Defesa, um 'acordo comercial conjunto de três partes no campo de robôs de defesa' foi assinado com a Associação da Indústria de Robôs da Coreia e a Associação de Promoção da Indústria de Defesa da Coreia, e uma base para a cooperação entre o setor público, privado e os militares foi lançada para △ propostas de políticas nacionais de P&D de médio a longo prazo para robôs de defesa △ criação de um ecossistema de robôs de defesa e promoção de indústrias de peças essenciais △ melhoria dos regulamentos relacionados."
 },
 {
 "id": "1997e20f48c836",
@@ -4230,7 +4293,9 @@
 "i": "https://img5.yna.co.kr/photo/cms/2026/09/10/74/PCM20260910000074083_P4.jpg",
 "d": "2026-11-20T23:00-03:00",
 "c": [
-"geral"
+"educacao",
+"medicina",
+"resgate"
 ],
 "l": 0,
 "to": "청소년이 만든 로봇으로 응급상황 해결…로보틱스 대회 결선",
@@ -11242,7 +11307,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -25484,6 +25549,27 @@
 "rx": "Pesar, misturar, amassar, cozinhar ou mesmo preparar molhos sem multiplicar os dispositivos na bancada: é isso que oferece o Cecotec Mambo, um robô de cozinha multifuncional acessível. Sua tigela de aço inoxidável de 3,3 litros, balança integrada e acessórios permitem lidar com uma grande variedade de preparações por um valor razoável graças a esta oferta limitada de -44% na Amazon.\nUm robô multifuncional pode cuidar de parte do manuseio e facilitar a criação de receitas caseiras, mesmo quando várias etapas se sucedem. O Mambo 11090 da Cecotec reúne as funções esperadas de um robô de cozinha versátil e ao mesmo tempo é mais acessível que os modelos mais populares."
 },
 {
+"id": "34c4d0ed1bfa0e",
+"t": "Ladrão de telefone empunhando facão é rastreado por drone policial",
+"r": "Um ladrão armado que roubou telefones de vítimas no centro de Londres enquanto andava de bicicleta elétrica foi rastreado por um drone da Polícia Metropolitana (Met). Wesley Rodrigues, 18 anos, foi capturado em imagens aéreas roubando o aparelho de alguém enquanto carregava um facão enquanto corria pela capital em uma…",
+"u": "https://www.telegraph.co.uk/news/2026/11/16/armed-phone-thief-tripped-up-passer-by-crime-london/",
+"f": "The Telegraph",
+"s": "telegraph.co.uk",
+"i": "https://www.telegraph.co.uk/content/dam/news/2026/11/16/TELEMMGLPICT000511869097_17948368831710_trans_NvBQzQNjv4BqZPnXlBHEdt8AtjizIYNgmaskjiCG4qGizZKn66d5KWI.jpeg?impolicy=OG-Standard",
+"d": "2026-11-16T11:01-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Machete-wielding phone thief tracked by police drone",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Telegraph",
+"mx": 1,
+"rx": "Um ladrão armado que roubou telefones de vítimas no centro de Londres enquanto andava de bicicleta elétrica foi rastreado por um drone da Polícia Metropolitana (Met). Wesley Rodrigues, 18 anos, foi capturado em imagens aéreas roubando o aparelho de alguém enquanto carregava um facão enquanto corria pela capital em uma bicicleta elétrica Sur-Ron. Rodrigues foi preso 15 minutos depois que um drone policial o identificou e rastreou, depois que um pedestre o tropeçou.\nNa segunda-feira, no Tribunal da Coroa de Southwark, Rodrigues, do leste de Londres, foi condenado a 18 meses de detenção numa instituição para jovens delinquentes depois de se ter declarado culpado de seis acusações de roubo, condução perigosa, posse de arma ofensiva e falta de seguro. Um drone foi acionado às 13h34 e identificou Rodrigues, que andava de bicicleta elétrica na região de Piccadilly, como suspeito."
+},
+{
 "id": "6c5499d72c5c36",
 "t": "Bulgária: um navio de carga vira na costa, sobreviventes falam de um ataque de drone",
 "r": "Os 12 tripulantes foram evacuados de helicóptero e não houve relatos de feridos graves. O incidente surge num contexto de ataques crescentes contra navios mercantes no Mar Negro, especialmente ao largo da costa da Roménia e da Bulgária. Os 12 marinheiros do Betul 8, um cargueiro de bandeira somali que naufragou na…",
@@ -38712,7 +38798,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -44601,7 +44687,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -60689,7 +60775,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -60718,7 +60804,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
