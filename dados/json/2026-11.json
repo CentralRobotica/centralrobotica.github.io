@@ -1,6 +1,28 @@
 {
 "2026-11-22": [
 {
+"id": "5dcac05fdada02",
+"t": "Nvidia expande plataforma de robótica Isaac com novas ferramentas de desenvolvimento humanóide e IA",
+"r": "A Nvidia anunciou uma grande expansão de sua plataforma de desenvolvimento robótico Isaac, introduzindo novas estruturas de simulação, ferramentas de treinamento de IA, conjuntos de dados e um robô humanóide de referência projetado para acelerar o desenvolvimento de sistemas robóticos de uso geral. Os anúncios, feitos no GTC Berlim, incluem Agile ONE SN, um…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/nvidia-expands-isaac-robotics-platform-with-new-humanoid-and-ai-development-tools/107472/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/nvidia-isaac-platform.jpeg",
+"d": "2026-11-22T16:59-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools",
+"lg": "en",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Nvidia anunciou uma grande expansão de sua plataforma de desenvolvimento robótico Isaac, introduzindo novas estruturas de simulação, ferramentas de treinamento de IA, conjuntos de dados e um robô humanóide de referência projetado para acelerar o desenvolvimento de sistemas robóticos de uso geral. Os anúncios, feitos no GTC Berlim, incluem Agile ONE SN, uma plataforma de pesquisa humanóide desenvolvida pela Agile Robots, juntamente com atualizações para o Isaac Lab, um novo tempo de execução do Isaac OS e recursos adicionais para aprendizagem e simulação de robôs.\n“Com a Nvidia Isaac, nossa plataforma robótica aberta full-stack, estamos oferecendo aos desenvolvedores modelos, dados, ferramentas de simulação e sistemas de computação para levar IA física às maiores indústrias do mundo.” Projetada para pesquisadores e desenvolvedores de robótica, a plataforma combina ferramentas de hardware, simulação e treinamento de IA para simplificar o desenvolvimento e teste de capacidades humanóides."
+},
+{
 "id": "d71d6efc58d11b",
 "t": "Este robô que muda de forma parece um transformador real; pode dobrar, agarrar e combinar para uma nova função",
 "r": "Os engenheiros da CSU criaram robôs flexíveis, chamados TeCoBots, que podem se combinar para formar formas inteiramente novas, assim como os Big Hero Six Microbots.",
@@ -876,6 +898,51 @@
 "rx": "Um drone que inspeciona pontes e túneis sobe na chaminé de uma usina. Sierra Base (CEO Kim Song-hyeon) é uma equipe ‘Daba Dream’ formada com a Korea Midland Power Company e recentemente realizou o ‘21st"
 },
 {
+"id": "6e01ccece42652",
+"t": "Funcionários da startup de robôs apoiada por Eric Trump perdem benefícios de saúde à medida que a crise de caixa da empresa se aprofunda",
+"r": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric…",
+"u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
+"d": "2026-11-22T15:55-03:00",
+"c": [
+"negocios",
+"medicina",
+"humanoides"
+],
+"l": 0,
+"to": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "CNBC",
+"mx": 1,
+"rx": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric Trump. A Fundação disse aos funcionários em um e-mail na noite de sexta-feira que lhes seria oferecida cobertura por meio da COBRA, a lei federal que geralmente permite que os trabalhadores mantenham temporariamente seu seguro saúde após perderem os benefícios, pagando o prêmio integral do próprio bolso.\nO empréstimo-ponte ajudaria a empresa a sobreviver até que um possível investimento de US$ 150 milhões do conglomerado sul-coreano Base Group chegue já em dezembro ou janeiro, disse Pathak aos funcionários, disseram as pessoas. Para evitar que os funcionários saiam antes de um possível investimento do Grupo Base, Pathak lançou a ideia de oferecer aos trabalhadores participação na startup, disseram as pessoas."
+},
+{
+"id": "4d1a698d5637d2",
+"t": "Fabricantes europeus expandem o uso de IA e gêmeos digitais em engenharia e produção",
+"r": "As empresas industriais europeias, incluindo a Siemens, a Mercedes-Benz, a Audi e a Volkswagen, estão a expandir a sua utilização de inteligência artificial, simulação e gémeos digitais para melhorar a engenharia, a produção e as operações fabris. Os desenvolvimentos foram descritos pela Nvidia em seu recente evento GTC Berlim, onde a empresa…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/european-manufacturers-expand-use-of-ai-and-digital-twins-in-engineering-and-production/107469/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/nvidia-engineering-cuda-omniverse-1.jpg",
+"d": "2026-11-22T16:54-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "European manufacturers expand use of AI and digital twins in engineering and production",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "As empresas industriais europeias, incluindo a Siemens, a Mercedes-Benz, a Audi e a Volkswagen, estão a expandir a sua utilização de inteligência artificial, simulação e gémeos digitais para melhorar a engenharia, a produção e as operações fabris. A Nvidia também introduziu acesso antecipado ao seu Factory Operations Blueprint (FOX), uma estrutura de software projetada para ajudar os desenvolvedores a criar agentes de IA que monitoram as operações da fábrica, investigam problemas de produção e coordenam atividades em equipamentos e sistemas.\nA Audi está usando gêmeos digitais de instalações de produção de baterias para avaliar conceitos de fabricação antes que o equipamento físico esteja disponível. A Nvidia afirma que essas aplicações demonstram como a IA, a simulação e os gêmeos digitais podem apoiar decisões de engenharia, desenvolvimento de robôs e operações industriais antes que as mudanças sejam introduzidas nos ambientes físicos de produção."
+},
+{
 "id": "8e19485ef31b51",
 "t": "Calendário da semana do robô (23.11.2026 ~ 29.11)",
 "r": "★ Calendário de robôs desta semana (2026. 11. 23 ~ 11. 29) ★◇ Sessão de pré-briefing da competição de desafio de plataforma humanóide representativa nacional Data: 24 de novembro de 2026 (terça-feira) 10h30 ~ 12h00 Organizador/anfitrião: Ministério da Ciência e TIC, Sociedade Coreana de Robótica, Fundação Nacional de Pesquisa da Coreia Local: Space Share Seoul Station 3 Center Room 105◇ Sala de demonstração SPOT do Clobot Boston Dynamics revelada (evento de mídia) Data: quarta-feira, 25 de novembro de 2026 15h30 ~ 12h00 Anfitrião/organizador: Clobot Local: Sede da Clobot (Edifício Marcus, 4-5, Yanghyeon-ro 405beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do)",
@@ -1265,28 +1332,6 @@
 "rx": "A aeronave militar híbrida-elétrica da Archer e da Anduril, Thunder, tem como meta seu primeiro voo em 2027. A Archer Aviation desenvolve a aeronave Midnight, sua aeronave carro-chefe para seu negócio de táxi aéreo comercial. Enquanto os táxis aéreos comerciais chamam a atenção, a Archer está tomando uma decisão sábia de diversificar para a defesa com uma variante híbrida-elétrica de sua aeronave Midnight em colaboração com a Anduril. Como as compras militares operam de acordo com os padrões de aeronavegabilidade do Departamento de Defesa, a Archer poderia gerar receita e validar seu hardware com horas de voo do mundo real antes de sua escala de táxi aéreo comercial.\nOs táxis aéreos da Archer Aviation podem mudar a forma como viajamos pelas cidades, e os voos de passageiros começarão de forma limitada em 2027, com operação comercial completa prevista para 2028."
 },
 {
-"id": "6e01ccece42652",
-"t": "Funcionários da startup de robôs apoiada por Eric Trump perdem benefícios de saúde à medida que a crise de caixa da empresa se aprofunda",
-"r": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric…",
-"u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-"f": "CNBC",
-"s": "cnbc.com",
-"i": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
-"d": "2026-11-22T15:55-03:00",
-"c": [
-"negocios",
-"medicina"
-],
-"l": 0,
-"to": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "CNBC",
-"mx": 1,
-"rx": "Os funcionários da Foundation Future Industries foram informados de que seus benefícios de saúde através do administrador Rippling foram rescindidos, de acordo com um memorando obtido pela CNBC, somando-se aos crescentes sinais de dificuldades financeiras na startup de robôs humanóides aconselhada e apoiada por Eric Trump. A Fundação disse aos funcionários em um e-mail na noite de sexta-feira que lhes seria oferecida cobertura por meio da COBRA, a lei federal que geralmente permite que os trabalhadores mantenham temporariamente seu seguro saúde após perderem os benefícios, pagando o prêmio integral do próprio bolso.\nO empréstimo-ponte ajudaria a empresa a sobreviver até que um possível investimento de US$ 150 milhões do conglomerado sul-coreano Base Group chegue já em dezembro ou janeiro, disse Pathak aos funcionários, disseram as pessoas. Para evitar que os funcionários saiam antes de um possível investimento do Grupo Base, Pathak lançou a ideia de oferecer aos trabalhadores participação na startup, disseram as pessoas."
-},
-{
 "id": "e5a3ed904a7ca3",
 "t": "Policiais implantarão tecnologia anti-drone para segurança de Magh Mela",
 "r": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados.",
@@ -1655,7 +1700,7 @@
 "i": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
 "d": "2026-11-22T14:06-03:00",
 "c": [
-"geral"
+"autonomos"
 ],
 "l": 0,
 "to": "TechCrunch Mobility: A/B testing robots vs. humans",
@@ -2884,7 +2929,7 @@
 "i": "https://spectrum.ieee.org/media-library/nao-is-a-little-french-humanoid-created-by-aldebaran-robotics-in-paris-it-talks-tracks-faces-and-with-25-degrees-of-freedom.jpg?id=25627404&width=980",
 "d": "2026-11-21T22:29-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "Robot Babies: Cute or Creepy?",
@@ -6198,7 +6243,7 @@
 "i": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00104/topm.jpg?20220512",
 "d": "2026-11-20T22:58-03:00",
 "c": [
-"geral"
+"servico"
 ],
 "l": 0,
 "to": "地上と空中で競う米国の在庫管理ロボット、荷物の仕分けや搬送も自動化が加速（2ページ目）",
@@ -8109,6 +8154,42 @@
 ]
 },
 {
+"id": "12bdff12b16393",
+"t": "Conferência de Robótica Avançada 2026: FEV mostra maneiras de uso industrial de IA Física",
+"r": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de…",
+"u": "https://pressemitteilungen.sueddeutsche.de/fev-group-6393828",
+"f": "SZ.de",
+"s": "pressemitteilungen.sueddeutsche.de",
+"i": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
+"d": "2026-11-19T07:00-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "Advanced Robotics Conference 2026: FEV zeigt Wege zum industriellen Einsatz von Physical AI",
+"lg": "de",
+"p": 7.8,
+"cr": 3,
+"cv": "Süddeutsche Zeitung",
+"mx": 1,
+"rx": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de desenvolvimento de veículos, software, inteligência artificial e consultoria estratégica nesta área tecnológica. Com o ARC, reunimos desenvolvedores, fornecedores e usuários para discutir os obstáculos cruciais no caminho para o uso generalizado da robótica humanóide\", disse o Dr. Dominik Lückmann, Diretor de Inovação do Grupo FEV. Novembro de 2026 na sede do FEV em Aachen. Mais informações sobre o programa e registro estão disponíveis em: www.fev.com/arc-2026. Sobre o FEV O FEV ultrapassa limites.",
+"o": [
+{
+"f": "Handelsblatt",
+"u": "https://www.handelsblatt.com/adv/presseportal/fev-group-advanced-robotics-conference-2026-fev-zeigt-wege-zum-industriellen-einsatz-von-physical-ai/100271219.html",
+"s": "handelsblatt.com",
+"id": "b4e56180037a26"
+},
+{
+"f": "ANSA",
+"u": "https://www.ansa.it/pressrelease/english/2026/11/19/advanced-robotics-conference-2026-fev-highlights-pathways-to-industrial-deployment-of-physical_a6a87e9e-1448-43cc-a4de-d487b3cbf4ab.html",
+"s": "ansa.it",
+"id": "8f1e5537f4fc30"
+}
+]
+},
+{
 "id": "d92048f7dd204a",
 "t": "De robôs de tratamento matinal a inspeções de carros inteligentes, a Universidade Chang Gung ganhou 9 prêmios na competição de inovação em serviços de aplicação de informações - Yangmei News Network, Zhongli News Network, Taoyuan News Network",
 "r": "A equipe de estudantes da Chang Gung Memorial University participou do \"31º Concurso de Inovação em Serviços de Aplicativos de Informações Universitárias (Prêmios InnoServe)\" e se destacou entre quase 2.000 equipes participantes em todo o país. Ganhou 9 prêmios, incluindo 2 primeiros lugares, 1 segundo lugar, 1…",
@@ -8405,36 +8486,6 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "A IntelliProve, uma startup belga de tecnologia de saúde, investiu 2,7 milhões de won para aplicar tecnologia que mede sinais vitais, como frequência cardíaca e pressão arterial com uma câmera, em robôs humanóides."
-},
-{
-"id": "12bdff12b16393",
-"t": "Conferência de Robótica Avançada 2026: FEV mostra maneiras de uso industrial de IA Física",
-"r": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de…",
-"u": "https://pressemitteilungen.sueddeutsche.de/fev-group-6393828",
-"f": "SZ.de",
-"s": "pressemitteilungen.sueddeutsche.de",
-"i": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
-"d": "2026-11-19T07:00-03:00",
-"c": [
-"competicoes",
-"ia"
-],
-"l": 0,
-"to": "Advanced Robotics Conference 2026: FEV zeigt Wege zum industriellen Einsatz von Physical AI",
-"lg": "de",
-"p": 6.3,
-"cr": 3,
-"cv": "Süddeutsche Zeitung",
-"mx": 1,
-"rx": "Aachen (ots) – A Advanced Robotics Conference (ARC) 2026 reunirá os principais representantes de empresas internacionais de tecnologia, start-ups e instituições de pesquisa na FEV em Aachen nos dias 25 e 26 de novembro. Competências agregadas para robótica avançada A FEV, por sua vez, combina suas competências de desenvolvimento de veículos, software, inteligência artificial e consultoria estratégica nesta área tecnológica. Com o ARC, reunimos desenvolvedores, fornecedores e usuários para discutir os obstáculos cruciais no caminho para o uso generalizado da robótica humanóide\", disse o Dr. Dominik Lückmann, Diretor de Inovação do Grupo FEV. Novembro de 2026 na sede do FEV em Aachen. Mais informações sobre o programa e registro estão disponíveis em: www.fev.com/arc-2026. Sobre o FEV O FEV ultrapassa limites.",
-"o": [
-{
-"f": "Handelsblatt",
-"u": "https://www.handelsblatt.com/adv/presseportal/fev-group-advanced-robotics-conference-2026-fev-zeigt-wege-zum-industriellen-einsatz-von-physical-ai/100271219.html",
-"s": "handelsblatt.com",
-"id": "b4e56180037a26"
-}
-]
 },
 {
 "id": "c5a01b3bff7693",
@@ -13499,7 +13550,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -41019,7 +41070,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -46908,7 +46959,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -62996,7 +63047,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -63025,7 +63076,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
