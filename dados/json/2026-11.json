@@ -221,28 +221,6 @@
 "rx": "A Boston Dynamics lançou um novo vídeo mostrando seu robô humanóide Atlas realizando uma série de manobras incomuns, incluindo rolar sobre rodas, deslizar lateralmente e executar um salto de 360 ​​graus. A demonstração faz parte de um projeto de pesquisa que explora como o aprendizado por reforço pode melhorar o movimento do robô, testar o desempenho do atuador e fortalecer a confiabilidade dos sistemas de controle sob condições exigentes.\nA Boston Dynamics usou milhões de cenários simulados para treinar o Atlas antes de transferir os comportamentos aprendidos para o robô físico. O objetivo final não é produzir uma versão com rodas do Atlas, mas desenvolver sistemas de controle mais robustos, capazes de suportar operações confiáveis ​​de robôs humanóides em ambientes do mundo real."
 },
 {
-"id": "8e19485ef31b51",
-"t": "Calendário da semana do robô (23.11.2026 ~ 29.11)",
-"r": "★ Calendário de robôs desta semana (2026. 11. 23 ~ 11. 29) ★◇ Sessão de pré-briefing da competição de desafio de plataforma humanóide representativa nacional Data: 24 de novembro de 2026 (terça-feira) 10h30 ~ 12h00 Organizador/anfitrião: Ministério da Ciência e TIC, Sociedade Coreana de Robótica, Fundação Nacional de Pesquisa da Coreia Local: Space Share Seoul Station 3 Center Room 105◇ Sala de demonstração SPOT do Clobot Boston Dynamics revelada (evento de mídia) Data: quarta-feira, 25 de novembro de 2026 15h30 ~ 12h00 Anfitrião/organizador: Clobot Local: Sede da Clobot (Edifício Marcus, 4-5, Yanghyeon-ro 405beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do)",
-"u": "https://www.irobotnews.com/news/articleView.html?idxno=49729",
-"f": "Robot Newspaper (Coreia)",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-22T14:02-03:00",
-"c": [
-"competicoes",
-"humanoides"
-],
-"l": 0,
-"to": "금주의 로봇 캘린더(2026. 11. 23~ 11. 29)",
-"lg": "ko",
-"esp": 1,
-"p": 6.4,
-"cr": 3,
-"cv": "Robot Newspaper",
-"mx": 9
-},
-{
 "id": "6b6358e1cee7fe",
 "t": "Siemens e Aggiebot revelam tecnologia de design de garras de robôs humanóides usando agente de IA",
 "r": "A alemã Siemens colaborou com a empresa chinesa de robôs humanóides AGIBOT para apresentar a tecnologia de design automático de garras robóticas usando um agente de inteligência artificial (IA). A Siemens anunciou no dia 16 (horário local) que revelou uma nova tecnologia de engenharia que conecta o design do produto à preparação da fabricação, combinando IA industrial e tecnologia de fabricação aditiva. Esta tecnologia permite que os usuários insiram os requisitos da tarefa em linguagem natural e um agente de IA cria uma garra robótica adequada. Depois de fazer uma seleção e alterar o design, passe pela simulação e verificação para preparar os dados necessários para a impressão 3D.",
@@ -399,6 +377,30 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "As empresas taiwanesas de peças para robôs estão correndo para entrar na cadeia de fornecimento de peças essenciais para robôs humanóides. De acordo com um relatório do meio de comunicação econômico taiwanês Digitimes, o robô humanóide de Tesla"
+},
+{
+"id": "e141dac38f255f",
+"t": "[Livros] A Fisicalização",
+"r": "Este livro não é simplesmente um livro técnico que explica robôs humanóides ou tecnologia física de IA. Aproxima-se de um livro de gestão e convergência tecnológica que trata de como robôs e sensores coletam informações do mundo real e como a IA as analisa para mudar os métodos de tomada de decisão e operação de uma empresa. O autor, Richard Petrazzini, é fundador e CEO da Robotic Crew, empresa especializada em operação de robôs e suporte de campo. A empresa opera e oferece suporte a enxames de robôs em locais reais. O autor trabalha em laboratórios de diagnóstico e empresas de software há 20 anos. robô",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49730",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49730_105876_1415.png",
+"d": "2026-11-22T14:56-03:00",
+"c": [
+"humanoides",
+"microrrobos"
+],
+"l": 0,
+"to": "[Books] 더 피지컬라이제이션(The Physicalization)",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"cur": 1,
+"mx": 1,
+"rx": "Este livro não é simplesmente um livro técnico que explica robôs humanóides ou tecnologia física de IA. Robôs e sensores coletam informações do mundo real e a IA as analisa para tomar decisões corporativas."
 },
 {
 "id": "4a63802e4a4228",
@@ -828,6 +830,51 @@
 "rx": "Embora os fabricantes americanos estejam a expandir a introdução de robôs industriais em resposta ao aumento dos custos laborais e à escassez de mão-de-obra, é difícil garantir uma vantagem na concorrência industrial com a China através apenas da automatização das fábricas existentes."
 },
 {
+"id": "ce4bcb814c42a6",
+"t": "[Entrevista] Kim Song-hyeon, CEO da Sierra Base, “As pessoas costumavam subir nas chaminés, mas agora os drones sobem primeiro”.",
+"r": "Um drone que inspeciona pontes e túneis sobe na chaminé de uma usina. Sierra Base (CEO Kim Song-hyun) é uma equipe de ‘Daba Dream’ formada com a Korea Midland Power Company e recentemente participou do ‘21º Concurso Internacional de Robôs’ realizado na EXCO em Daegu, ficou em primeiro lugar na categoria de desenvolvimento e utilização de produtos e recebeu o Prêmio do Primeiro Ministro. Este é o resultado do reconhecimento da aplicabilidade da tecnologia de inspeção autónoma verificada em infraestruturas de construção a infraestruturas energéticas. A Administração de Segurança e Proteção Terrestre da Coreia também decidiu apresentar o drone de asa SIRIUS da Sierra Base e o software de diagnóstico ‘SIRIUS Editor’. Agências nacionais de diagnóstico de segurança e empresas públicas de geração de energia escolheram sucessivamente a tecnologia da Sierra Base.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49700",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49700_105841_716.jpg",
+"d": "2026-11-22T14:56-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 0,
+"to": "[인터뷰] 김송현 시에라베이스 대표 “사람이 오르던 굴뚝, 이제 드론이 먼저 오른다”",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Um drone que inspeciona pontes e túneis sobe na chaminé de uma usina. Sierra Base (CEO Kim Song-hyeon) é uma equipe ‘Daba Dream’ formada com a Korea Midland Power Company e recentemente realizou o ‘21st"
+},
+{
+"id": "8e19485ef31b51",
+"t": "Calendário da semana do robô (23.11.2026 ~ 29.11)",
+"r": "★ Calendário de robôs desta semana (2026. 11. 23 ~ 11. 29) ★◇ Sessão de pré-briefing da competição de desafio de plataforma humanóide representativa nacional Data: 24 de novembro de 2026 (terça-feira) 10h30 ~ 12h00 Organizador/anfitrião: Ministério da Ciência e TIC, Sociedade Coreana de Robótica, Fundação Nacional de Pesquisa da Coreia Local: Space Share Seoul Station 3 Center Room 105◇ Sala de demonstração SPOT do Clobot Boston Dynamics revelada (evento de mídia) Data: quarta-feira, 25 de novembro de 2026 15h30 ~ 12h00 Anfitrião/organizador: Clobot Local: Sede da Clobot (Edifício Marcus, 4-5, Yanghyeon-ro 405beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do)",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49729",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "",
+"d": "2026-11-22T14:02-03:00",
+"c": [
+"competicoes",
+"humanoides"
+],
+"l": 0,
+"to": "금주의 로봇 캘린더(2026. 11. 23~ 11. 29)",
+"lg": "ko",
+"esp": 1,
+"p": 5.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 9
+},
+{
 "id": "eca69907a63448",
 "t": "Milão, 20 mil humanos correm a meia maratona na chuva. O robô humanóide não inicia",
 "r": "",
@@ -1087,6 +1134,27 @@
 "cv": "FAZ",
 "mx": 1,
 "rx": "Desde o final de agosto, os jovens podem aprender aqui programação, desenvolvimento de jogos, robótica, modelagem 3D, animação, produção cinematográfica, design gráfico e produção musical nos tempos livres. Na escadaria, uma mulher usa um quadro inteligente para mostrar aos jovens quais oficinas eles poderão frequentar nas próximas semanas: o desenvolvimento de jogos já está lotado, mas ainda há vagas disponíveis em robótica, design gráfico e animação.\nGevorgyan disse que ficou surpresa com a rapidez com que os jovens se adaptaram ao centro de aprendizagem. “Na segunda semana, todos se sentiam em casa aqui.” Mesmo aos dez anos, ela queria muito aprender a animar e sonhava em fazer seu próprio filme, como ela mesma diz. Aqui ela pode aprender coisas que não conseguiu aprender na escola."
+},
+{
+"id": "a0802807c5d53a",
+"t": "Um operador de drone da Califórnia filmando tubarões a quase três quilômetros de distância avistou um grande tubarão branco se aproximando",
+"r": "Um dia tranquilo na costa da Califórnia quase se transformou em um encontro perigoso quando um pescador nadando ao lado de seu barco, sem saber, entrou no caminho de um grande tubarão branco. Enquanto o homem permanecia inconsciente do predador que se aproximava abaixo da superfície, um cineasta assistia de uma praia…",
+"u": "https://timesofindia.indiatimes.com/world/us/a-california-drone-operator-filming-sharks-from-nearly-two-miles-away-spotted-a-large-great-white-approaching-a-fisherman-who-had-jumped-into-the-water-he-used-the-drone-to-warn-the-man-who-climbed-back-aboard/articleshow/136075963.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136076036,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-22T14:07-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "A California drone operator filming sharks from nearly two miles away spotted a large great white approac",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Um dia tranquilo na costa da Califórnia quase se transformou em um encontro perigoso quando um pescador nadando ao lado de seu barco, sem saber, entrou no caminho de um grande tubarão branco. Enquanto o homem permanecia inconsciente do predador que se aproximava abaixo da superfície, um cineasta assistia de uma praia a quase três quilômetros…"
 },
 {
 "id": "14b3f394521541",
@@ -3354,6 +3422,27 @@
 "rx": "Marcando 5 anos em Pohang, a academia apresenta 30 projetos enquanto os alunos colocam a tecnologia para trabalhar em desafios do mundo real POHANG, província de Gyeongsang do Norte — Um animal de estimação robô fofo piscou para os visitantes enquanto um modelo tridimensional de um fígado humano preenchia uma tela próxima na quinta vitrine anual da Apple Developer Academy na Universidade de Ciência e Tecnologia de Pohang na sexta-feira.\nEstabelecido em 2022 como a primeira Apple Developer Academy do Leste Asiático, o programa Pohang capacita os aspirantes a desenvolvedores com habilidades de codificação, design e negócios para criar aplicativos para as plataformas da Apple, ajudando a expandir o ecossistema de aplicativos da empresa. Falando em um bate-papo com graduados, Wilder, que visitou a academia de desenvolvedores da Postech pela primeira vez, apontou a combinação de educação, tecnologia e apoio comunitário como “o molho secreto” que prepara os alunos para o sucesso."
 },
 {
+"id": "9039ea65b7e17a",
+"t": "Polícia de Dubai apresenta tráfego inteligente e tecnologia de patrulha robótica",
+"r": "Dubai: A Polícia de Dubai está apresentando uma série de tecnologias de segurança avançadas, incluindo uma plataforma de tráfego digital que analisa acidentes rodoviários e violações para identificar pontos críticos de acidentes, juntamente com patrulhas robóticas autônomas, sistemas de vigilância inteligentes e uma…",
+"u": "https://gulfnews.com/uae/dubai/dubai-police-showcases-smart-traffic-and-robotic-patrol-technology-1.500754923",
+"f": "Gulf News",
+"s": "gulfnews.com",
+"i": "https://media.assettype.com/gulfnews%2F2026-11-20%2F2u272l55%2FDubai-Police-showcases-AI-traffic-systems-smart-drones-and-robotic-patrols-in-Dubai.?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+"d": "2026-11-20T08:03-03:00",
+"c": [
+"inspecao"
+],
+"l": 1,
+"to": "Dubai Police showcases smart traffic and robotic patrol technology",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "Gulf News",
+"mx": 1,
+"rx": "Dubai: A Polícia de Dubai está apresentando uma série de tecnologias de segurança avançadas, incluindo uma plataforma de tráfego digital que analisa acidentes rodoviários e violações para identificar pontos críticos de acidentes, juntamente com patrulhas robóticas autônomas, sistemas de vigilância inteligentes e uma rede expandida de drones, na Dubai Future Week 2026. As tecnologias estão sendo exibidas no evento, organizado pela Dubai Future Foundation de 18 a 21 de novembro, enquanto a Polícia de Dubai destaca como a inteligência artificial, a robótica e as soluções baseadas em dados podem melhorar a segurança rodoviária, fortalecer as operações de segurança e preparar a força para desafios futuros.\nA Polícia de Dubai também apresenta sua Plataforma de Mapeamento de Segurança Inteligente, que utiliza mapas interativos e painéis de dados para visualizar informações e indicadores de segurança."
+},
+{
 "id": "b29f2a576ac1e4",
 "t": "Novo robô da China atualiza linha de energia ativa de 98 pés em apenas 15 minutos",
 "r": "O robô recém-desenvolvido, que pesa pouco mais de 65 quilos, concluiu a instalação de uma linha de energia de 30 metros em apenas 15 minutos.",
@@ -4876,7 +4965,7 @@
 "u": "https://dronexl.co/europe/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-20T05:00-03:00",
 "c": [
 "drones",
@@ -4888,7 +4977,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
+"mx": 9,
 "rx": "As notícias europeias sobre drones cobrem um continente que se move em dois caminhos ao mesmo tempo: um aumento da segurança em resposta a incidentes reais e uma indústria de segurança pública que produz resultados mensuráveis. A Alemanha abriu um centro de testes anti-drones dedicado em Cochstedt, directamente em resposta à bomba explosiva de drones de Leipzig, e uma janela de subvenção de 10 milhões de euros para combate a drones da Brave1 e da NATO abriu e fechou em poucos dias - o ritmo do financiamento correspondendo ao ritmo da ameaça.\nUm drone Everdrone AED venceu a ambulância e provocou uma parada cardíaca na Suécia, entregando um desfibrilador a tempo para um espectador salvar a vida do paciente – o resultado que todo programa piloto de drone médico está tentando provar que vale o investimento. A procura industrial está a ultrapassar a oferta em alguns locais: a doca móvel ORKA da CiS tem uma procura que ultrapassa a sua fábrica alemã de 30 pessoas, uma verdadeira história de dificuldades de crescimento, em vez de uma afirmação de marketing."
 },
 {
@@ -4898,11 +4987,11 @@
 "u": "https://dronexl.co/us-government/department-of-defense/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-20T05:00-03:00",
 "c": [
-"drones",
 "defesa",
+"drones",
 "negocios"
 ],
 "l": 0,
@@ -4911,7 +5000,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
+"mx": 9,
 "rx": "A cobertura de drones do Departamento de Defesa rastreia as aquisições do Pentágono, as estruturas de escritório que decidem para onde vai o dinheiro dos drones militares e o hardware sendo liberado para compra militar. A estrutura de comando mudou significativamente este ano: um memorando do czar sobre drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade que costumava ser dividida entre ramos de serviço. Os valores em dólares que transitam por essa estrutura são grandes: o Pentágono destinou 1,3 mil milhões de dólares para drones em dois dias, divididos entre sistemas de abate e fabrico de peças nacionais.\nUm memorando do czar dos drones do Pentágono dá à Unidade de Inovação de Defesa a porta de entrada para um portfólio de sistemas não tripulados de 75 mil milhões de dólares, centralizando a autoridade de tomada de decisões sobre uma enorme parcela dos gastos com drones militares que anteriormente estavam espalhados por ramos de serviços separados."
 },
 {
@@ -7089,7 +7178,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Tech in Asia",
-"mx": 2
+"mx": 3
 }
 ],
 "2026-11-19": [
@@ -9497,7 +9586,7 @@
 "u": "https://dronexl.co/advertise/",
 "f": "DroneXL",
 "s": "dronexl.co",
-"i": "https://dronexl.co/assets/favicon.png",
+"i": "",
 "d": "2026-11-19T06:57-03:00",
 "c": [
 "drones"
@@ -9508,7 +9597,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "DroneXL",
-"mx": 1,
+"mx": 9,
 "rx": "DroneXL é o site de notícias sobre drones mais ativo do mundo, com mais de 200.000 leitores por mês. Pilotos, agências de segurança pública, operadores comerciais, fabricantes e reguladores lêem-no para se manterem atualizados. A maioria de nossos leitores chega ao DroneXL por telefone, geralmente porque o Google coloca nossas histórias diante deles conforme as notícias surgem. Um artigo sobre seu produto, serviço ou empresa, escrito por DroneXL para nossos leitores.\nSeu banner na barra lateral de cada artigo de uma só vez, ao lado das histórias que seus clientes leem. Banner fixo em todo o site, exclusividade no seu setor e artigo patrocinado todo mês. Um artigo patrocinado para apresentar sua empresa, seguido de três meses de um banner beat diante dos mesmos leitores."
 },
 {
@@ -10469,7 +10558,7 @@
 "u": "https://udn.com/news/ai/answer/%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-60405123",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "",
 "d": "2026-11-19T22:00-03:00",
 "c": [
 "geral"
@@ -10480,7 +10569,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "United Daily News",
-"mx": 1,
+"mx": 9,
 "rx": "ClickFix é um novo tipo de fraude na Internet que se disfarça habilmente como um processo de verificação comum quando os usuários compram e navegam online, enganando os usuários para que pressionem botões aparentemente inofensivos. Na verdade, ele orienta os usuários passo a passo para executar instruções maliciosas e instalar malware em seus computadores. Desta forma, os hackers podem obter o controle do computador, roubar dados pessoais ou realizar outras atividades ilegais. À medida que as compras online se tornam mais frequentes, este tipo de fraude tornou-se mais comum, representando uma ameaça potencial para os utilizadores."
 },
 {
@@ -13188,7 +13277,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -34147,28 +34236,6 @@
 "mx": 3
 },
 {
-"id": "da9872a6cde4b5",
-"t": "[Obituário] Dr. Jeong Man-tae, ex-Instituto Coreano de Economia Industrial e Comércio (KIET) Prêmio Bingmo",
-"r": "- 訃 告 - Estátua do antigo Instituto de Pesquisa de Economia Industrial e Comércio do Dr. Man-tae Jeong - Falecido: Park Chae-ok (87 anos) - Funeral: Sala 202, Yejiwon, Hospital Daegu Chilgok K - Faleceu: segunda-feira, 16 de novembro de 2026, 09:20 - Cemitério: Hyundai 1 Park",
-"u": "https://www.irobotnews.com/news/articleView.html?idxno=49583",
-"f": "Robot Newspaper (Coreia)",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-14T16:41-03:00",
-"c": [
-"medicina"
-],
-"l": 0,
-"to": "[부고] 前 산업연구원 정만태 박사 빙모상",
-"lg": "ko",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robot Newspaper",
-"mx": 9,
-"rx": "- Mensagem - Estátua do antigo Instituto de Pesquisa para Economia Industrial e Comércio Dr. Man-tae Jeong - Falecido: Park Chae-ok (87 anos) - Funeral: Sala 202, Yejiwon, Hospital Daegu Chilgok K - Faleceu: 16 de novembro de 2026"
-},
-{
 "id": "abc8d07dd6989d",
 "t": "O boom dos robôs humanóides na China pode estar caminhando para sua primeira mudança",
 "r": "A indústria robótica humanóide da China pode estar a aproximar-se do seu primeiro grande abalo. Após anos de investimentos agressivos, rápido desenvolvimento de produtos e metas de produção ambiciosas, o mercado humanoide mais concorrido do mundo enfrenta um desafio fundamental: fabricar robôs está se mostrando mais…",
@@ -34942,6 +35009,28 @@
 "cv": "Humanoid.guide",
 "mx": 3,
 "rx": "Este modelo de base de robô vem da AIRoA, a AI Robot Association do Japão, uma organização com sede em Tóquio apoiada pelo Ministério da Economia, Comércio e Indústria. Pertence à categoria de modelo de ação de linguagem de visão, conectando pesquisas em inteligência artificial com controle de robôs. A sua escolha de investigação definidora diz respeito a dados de formação: a equipa utilizou gravações humanas em vez de recolher demonstrações através da operação de robôs.\nPara os pesquisadores, o projeto fornece um tema concreto para examinar os custos de coleta de demonstração, a construção de conjuntos de dados e o papel da atividade humana registrada no desenvolvimento do modelo de base do robô. O envolvimento da Toyota diz respeito ao dispositivo de gravação YUBI, enquanto o apoio institucional da associação vem do Ministério da Economia, Comércio e Indústria do Japão."
+},
+{
+"id": "da9872a6cde4b5",
+"t": "[Obituário] Dr. Jeong Man-tae, ex-Instituto Coreano de Economia Industrial e Comércio (KIET) Prêmio Bingmo",
+"r": "- 訃 告 - Estátua do antigo Instituto de Pesquisa de Economia Industrial e Comércio do Dr. Man-tae Jeong - Falecido: Park Chae-ok (87 anos) - Funeral: Sala 202, Yejiwon, Hospital Daegu Chilgok K - Faleceu: segunda-feira, 16 de novembro de 2026, 09:20 - Cemitério: Hyundai 1 Park",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49583",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "",
+"d": "2026-11-14T16:41-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "[부고] 前 산업연구원 정만태 박사 빙모상",
+"lg": "ko",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 9,
+"rx": "- Mensagem - Estátua do antigo Instituto de Pesquisa para Economia Industrial e Comércio Dr. Man-tae Jeong - Falecido: Park Chae-ok (87 anos) - Funeral: Sala 202, Yejiwon, Hospital Daegu Chilgok K - Faleceu: 16 de novembro de 2026"
 },
 {
 "id": "e83f55dc0b2384",
@@ -37643,28 +37732,6 @@
 "rx": "Os robôs industriais geram energia quando diminuem a velocidade para parar de se mover. O controlador F0x da Kawasaki Heavy Industries está equipado com uma placa de regeneração de energia para recuperar essa energia na forma de eletricidade. Como seminário online Robostar, realizaremos uma palestra na terça-feira, 15 de dezembro de 2026, convidando Ken Matsui, CEO da ugo Co., Ltd., que está implementando robôs comerciais, como robôs de segurança e inspeção na sociedade e desenvolvendo o semi-humanóide doméstico \"ugo Nova\"."
 },
 {
-"id": "9b85e3ee730bea",
-"t": "jornal robô",
-"r": "Mídia central na 4ª era industrial - Introdução a robôs, IA, veículos autônomos, notícias sobre drones",
-"u": "https://www.irobotnews.com/",
-"f": "로봇신문",
-"s": "irobotnews.com",
-"i": "",
-"d": "2026-11-13T05:00-03:00",
-"c": [
-"drones",
-"autonomos"
-],
-"l": 0,
-"to": "로봇신문",
-"lg": "ko",
-"p": 4.8,
-"cr": 3,
-"cv": "Robot Newspaper",
-"mx": 9,
-"rx": "Mídia central na 4ª era industrial - Introdução a robôs, IA, veículos autônomos, notícias sobre drones"
-},
-{
 "id": "46ef9582acc7d9",
 "t": "Paras Defense fornecerá sistemas anti-drones para a francesa CERBAIR",
 "r": "O CHIMERA 200 é um sistema portátil de detecção e neutralização de radiofrequência usado para combater ameaças de drones e enxames.",
@@ -38809,6 +38876,28 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "De acordo com as notícias da IT House em 13 de novembro, a Hikvision declarou na plataforma interativa hoje (13 de novembro) que a Hikvision Robotics concluiu o pedido de reestruturação acionária e orientação de listagem. Consulte as informações de divulgação oficial para o progresso relacionado ao IPO. A IT House perguntou sobre informações públicas e descobriu que a Hikvision Robotics é uma fornecedora global de produtos e soluções de visão mecânica e robôs móveis. Seus negócios se concentram na Internet das Coisas industrial, logística inteligente e manufatura inteligente. Era anteriormente conhecido como Departamento de Negócios de Visão de Máquina Hikvision e foi estabelecido de forma independente em 2016.\nEm 6 de julho de 2026, quando um robô coletor de garfos saiu da linha de produção, a Hikvision Robot anunciou oficialmente que o número cumulativo de seus robôs móveis em todas as categorias ultrapassou 200.000 unidades."
+},
+{
+"id": "9b85e3ee730bea",
+"t": "jornal robô",
+"r": "Mídia central na 4ª era industrial - Introdução a robôs, IA, veículos autônomos, notícias sobre drones",
+"u": "https://www.irobotnews.com/",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "",
+"d": "2026-11-13T05:00-03:00",
+"c": [
+"drones",
+"autonomos"
+],
+"l": 0,
+"to": "로봇신문",
+"lg": "ko",
+"p": 3.8,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 9,
+"rx": "Mídia central na 4ª era industrial - Introdução a robôs, IA, veículos autônomos, notícias sobre drones"
 },
 {
 "id": "5d2a62b886b939",
@@ -40708,7 +40797,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -46597,7 +46686,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -62685,7 +62774,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -62714,7 +62803,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
