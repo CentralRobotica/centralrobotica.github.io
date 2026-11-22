@@ -176,6 +176,29 @@
 "rx": "A Tesla liberou a antiga linha de montagem do Modelo S e do Modelo X em sua fábrica em Fremont, Califórnia, para abrir espaço para a fabricação de robôs humanóides Optimus, de acordo com InsideEVs. A Tesla Manufacturing compartilhou um vídeo da desmontagem em 10 de julho, dizendo que a desativação levou 46 dias. A fábrica de robôs Optimus tem uma meta de produção ambiciosa: o CEO Elon Musk disse no início do ano que a instalação acabaria por produzir um milhão de robôs anualmente. Para o programa humanóide, o desenvolvimento imediato é a alocação de uma área de produção existente, em vez de um aumento na produção relatada de robôs.\nA Tesla já está operando uma linha de produção piloto Optimus em Fremont, de acordo com a agência, dando à instalação planejada uma operação de fabricação de robôs existente ao lado dela."
 },
 {
+"id": "5f31fb833ffb0d",
+"t": "Boston Dynamics fornece rodas Atlas para testar novos recursos de aprendizagem por reforço",
+"r": "A Boston Dynamics lançou um novo vídeo mostrando seu robô humanóide Atlas realizando uma série de manobras incomuns, incluindo rolar sobre rodas, deslizar lateralmente e executar um salto de 360 ​​graus. A demonstração faz parte de um projeto de pesquisa que explora como o aprendizado por reforço pode melhorar o movimento do robô, testar…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/boston-dynamics-gives-atlas-wheels-to-test-new-reinforcement-learning-capabilities/107438/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/boston-dynamics-atlas-wheels-1.jpg",
+"d": "2026-11-22T11:45-03:00",
+"c": [
+"humanoides",
+"ia"
+],
+"l": 0,
+"to": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "A Boston Dynamics lançou um novo vídeo mostrando seu robô humanóide Atlas realizando uma série de manobras incomuns, incluindo rolar sobre rodas, deslizar lateralmente e executar um salto de 360 ​​graus. A demonstração faz parte de um projeto de pesquisa que explora como o aprendizado por reforço pode melhorar o movimento do robô, testar o desempenho do atuador e fortalecer a confiabilidade dos sistemas de controle sob condições exigentes.\nA Boston Dynamics usou milhões de cenários simulados para treinar o Atlas antes de transferir os comportamentos aprendidos para o robô físico. O objetivo final não é produzir uma versão com rodas do Atlas, mas desenvolver sistemas de controle mais robustos, capazes de suportar operações confiáveis ​​de robôs humanóides em ambientes do mundo real."
+},
+{
 "id": "4a63802e4a4228",
 "t": "O grande salto da China: humanóides, drones e carros elétricos para reescrever a modernidade",
 "r": "Mas, por dentro, vemos rapidamente que a China está a reescrever o futuro com o seu compromisso com a robotização e a inteligência artificial. A escala da produção chinesa é de dimensões incomparáveis. A China já não é apenas a fábrica do mundo. Segundo dados da Smart Analytics Global, a China, liderada pelas empresas…",
@@ -288,6 +311,50 @@
 "rx": "A Vectigo, uma empresa sediada no Colorado e divisão nos EUA do Grupo Vectigo, com sede na Irlanda, lançou uma plataforma de segurança integrada nas estradas projetada para melhorar as condições de condução de veículos convencionais e autônomos. A Plataforma Vectigo utiliza unidades de sensores alimentadas por energia solar, conhecidas como PODs, instaladas rente à superfície da estrada para detectar perigos, incluindo gelo negro, neve, inundações, colisões e condutores em contramão.\nTrabalhando com o parceiro nacional de distribuição e instalação RoadSafe Traffic Systems, a Vectigo visa fornecer informações em tempo real ao nível da faixa para motoristas, equipes de emergência, operadores de carga e frotas de veículos autônomos. Vectigo diz que isso poderia ajudar os veículos autônomos a navegar em condições difíceis, especialmente quando a neve, o brilho ou as más marcações nas estradas interferem nos sistemas de percepção a bordo."
 },
 {
+"id": "63b92d4374b512",
+"t": "Machina Labs lança marca automotiva Rebellis para ampliar a personalização de veículos",
+"r": "Machina Labs, especialista em fabricação robótica alimentada por IA, lançou Machina Rebellis, uma nova marca automotiva projetada para tornar a produção de veículos personalizados mais rápida e econômica. Inaugurado na fábrica da empresa em Chatsworth, Califórnia, Machina Rebellis usa robótica, artificial…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/machina-labs-launches-rebellis-automotive-brand-to-bring-vehicle-customization-to-scale/107433/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/machina-labs-callum-1.jpg",
+"d": "2026-11-22T11:37-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Machina Labs launches Rebellis automotive brand to bring vehicle customization to scale",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "Machina Labs, especialista em fabricação robótica alimentada por IA, lançou Machina Rebellis, uma nova marca automotiva projetada para tornar a produção de veículos personalizados mais rápida e econômica. Inaugurada nas instalações de fabricação da empresa em Chatsworth, Califórnia, a Machina Rebellis usa robótica, inteligência artificial e fabricação digital para produzir painéis metálicos complexos sem matrizes de estampagem convencionais ou ferramentas dedicadas.\nA tecnologia destina-se a ajudar os fabricantes de automóveis e fabricantes de veículos especializados a produzir veículos personalizados, edições especiais e modelos de baixo a médio volume, sem os custos e os longos prazos de entrega associados aos métodos tradicionais de fabricação. Usando a plataforma de fabricação robótica RoboCraftsman da Machina, as empresas concluíram a transição do design digital para uma carroceria de veículo personalizada em apenas três semanas."
+},
+{
+"id": "981f88218942b5",
+"t": "Kakao Mobility faz parceria com Nvidia para desenvolver tecnologia de direção autônoma de nível 4",
+"r": "O fornecedor sul-coreano de plataforma de mobilidade Kakao Mobility assinou um memorando de entendimento com a Nvidia para desenvolver tecnologia de condução autônoma de nível 4, com aplicações iniciais planejadas para os veículos específicos (PBVs) da Kia. A colaboração combinará a direção autônoma proprietária da Kakao Mobility…",
+"u": "https://roboticsandautomationnews.com/2026/11/22/kakao-mobility-partners-with-nvidia-to-develop-level-4-autonomous-driving-technology/107442/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/kakao-mobility-nvidia-2.jpg",
+"d": "2026-11-22T11:51-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "O fornecedor sul-coreano de plataforma de mobilidade Kakao Mobility assinou um memorando de entendimento com a Nvidia para desenvolver tecnologia de condução autônoma de nível 4, com aplicações iniciais planejadas para os veículos específicos (PBVs) da Kia. A colaboração combinará o software de direção autônoma proprietário da Kakao Mobility com as tecnologias de computação, sensores e segurança da Nvidia para apoiar o desenvolvimento de serviços de mobilidade sem motorista na Coreia do Sul.\nRyu Geung-seon, CEO da Kakao Mobility, afirma: “Através desta colaboração com a Nvidia, não apenas aceleraremos o avanço da direção autônoma E2E, mas também nos prepararemos para a era da comercialização de nível 4 como um centro central de um ecossistema de tecnologia global conectando software, componentes e veículos acabados”."
+},
+{
 "id": "eca69907a63448",
 "t": "Milão, 20 mil humanos correm a meia maratona na chuva. O robô humanóide não inicia",
 "r": "",
@@ -306,7 +373,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 2
+"mx": 3
 },
 {
 "id": "a95b9f52265c1d",
@@ -737,7 +804,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
 },
 {
 "id": "cb2805d69eb8e7",
@@ -757,7 +824,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Les Echos",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b787dba9f590d4",
@@ -779,6 +846,25 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "Em fevereiro de 2026, o Burger King apresentou Patty, uma assistente de voz baseada em tecnologia da OpenAI (criadora do ChatGPT) e testada em cerca de 500 restaurantes americanos. O software reconheceu frases como “por favor” ou “obrigado” para incentivar a educação no drive-thru. Dante Vasquez estava anotando pedidos no drive-thru de um Burger King em Niagara Falls, Nova York.\nO Burger King então adicionou uma classificação de “calor”, que deveria medir o calor humano da troca. Desde então, o Burger King disse à Capital & Main que desativou as classificações de simpatia e cordialidade para melhorá-las. O Burger King garante ainda que seu sistema não foi pensado para avaliar cada funcionário, mas para ajudar os gestores a apoiar suas equipes."
+},
+{
+"id": "0627509e47d31a",
+"t": "O vídeo do Honor D1, o robô deveria correr a meia maratona de Milão, mas foi parado pela chuva",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPai1kRUVCaXNBM2dfaWRwNU9ZUkt2VmVwTnR6ZkdTaDJYTFVDbUZ3dUctQTR6UjNGb0FkdExkcy10alFKaDdXazkzZnUtNm1ES21lUF84ODdCWTZhM2ZyN1hMQ0x0MllLWE9RTnAzYTd2bUFwMzd1U09POGo2bDJtQ01QOUZmY2hGM1pzYk1ZUjFEOElYTHh0NHdXOVU5TFhZbXRRVUU4QVNSdUgxQlpZSTg5b2diSVZ5ZVh0aDZXcDJOYXFQVl9nWGRiNDNkZ19MNi16ZU9xTGtIaFQyanA1QWdhUXlZUnpXY2tFNktqYjhKbU5kTU1Cak92aTh6bGkxN0VWbUFTZzgyQQ?oc=5",
+"f": "Corriere della Sera",
+"s": "video.corriere.it",
+"i": "",
+"d": "2026-11-22T11:42-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Il video di di Honor D1, il robot doveva correre la mezza maratona di Milano ma è stato fermato dalla pioggia",
+"lg": "it",
+"p": 3.5,
+"cr": 3,
+"cv": "Corriere della Sera"
 }
 ],
 "2026-11-21": [
@@ -2252,6 +2338,25 @@
 "cv": "The Verge",
 "mx": 1,
 "rx": "Um dos itens da agenda dos diplomatas da ONU reunidos em Genebra esta semana era trabalhar em prol de regras relativas ao uso de armas autônomas, ou os chamados “robôs assassinos”. Eventualmente, os representantes deixaram as reuniões concordando em “começar a discutir opções” após uma semana de negociações em grande parte infrutífera. Antes do início das negociações, o Comité Internacional da Cruz Vermelha, o guardião das Convenções de Genebra, disse que era urgente que regras juridicamente vinculativas fossem elaboradas dentro de um ano.\nAs organizações humanitárias e alguns países consideram necessário adoptar urgentemente regras juridicamente vinculativas, uma vez que as armas semi-autónomas e os drones têm sido responsáveis ​​por um número significativo de mortes de civis em conflitos em todo o mundo, incluindo na Ucrânia, em Gaza e no Sudão."
+},
+{
+"id": "a9c63a34f116db",
+"t": "O time do colégio de Nauni planeja centro de Rs 350 crore para horticultura digital e tecnologia de drones",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHNoemlheGlGWjU3YndCcUl5NDRXbTFpQ2JkSG1pS2o3REllSDBSQjJqTHVzTVZCbkk1UnZUNVJ1ZGRQWkZ0MlJWbmVuYzRlYVFvREFDSHFzWWZGclRCN21IT3YxaHpqMjVNX2t5SFFkWlFSZExDMnNnRHB1dmw5Ni1ST3hqc0dqWGhUd3c5TWNZWU5MSENOU1dYY2lCbDFiZHhNUjZtTWpfLVJKbXlJSkJucHdQNk9yUVY5akhVM0dHSjdpYlhtVmU1WmJYcUoxSmpwVGw5SHlHbjV6WS1lb1dWeEE0TTYw0gHuAUFVX3lxTE9xa2JBQ0NvaElMajVmRTEzQ2Q4Z1hrX3NnanlqRmdFWXN0b0hfU1E5SnJlc2RBRi1Iam5QNFAwMU9sTHBhTXVld0lDOWt6bjBKaVk3cVo1NWJzY2psZ1RIUmdJM3J5c2tCN1RsbjAtTWhZU2VDcGtlMmloVlhacUpNODFBSWdGZ2NGZk1hVWlCNzBjN2JVbFVXOHdfajhIX2h0UFRza2dKZEFkQlozR212VlJmbE04ZHRmU0ZEa1dsZ01pOGVCUFpobV8taExoV2pmUUYxeTNGQXpnUE13bXV6Yk15aGJYUld0TG9WNkE?oc=5",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-21T19:24-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Nauni varsity plans Rs 350 crore centre for digital horticulture, drone tech",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Times of India"
 },
 {
 "id": "1763b85d0bd78f",
@@ -6361,6 +6466,26 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "d6c02af32535b8",
+"t": "A receita do terceiro trimestre da empresa chinesa de robotáxi WeRide aumenta 88%",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0RQNWdPYjdTWTVab0k3ZHkzeE9xWVZPNFFTSHNfelFTNWtuOGZWQ0Ixd2VnbHNsVUtnZkNKellyV1hvMUxoNkwwUDVLMmVDMWlCV2RkZm5YbTZTTUVBVmwwbEJtaHVXSl9Fcy1odlpDcXJDSTNyWlliczlkckZCa0xB?oc=5",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-20T22:58-03:00",
+"c": [
+"autonomos",
+"negocios"
+],
+"l": 0,
+"to": "Chinese robotaxi firm WeRide’s Q3 revenue jumps 88%",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Tech in Asia"
 }
 ],
 "2026-11-19": [
@@ -12438,7 +12563,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -22310,6 +22435,25 @@
 "cv": "Sifted",
 "mx": 1,
 "rx": "A startup humanóide Vesoma, com sede em Munique, está buscando arrecadar 50 milhões de euros em meio ao fervor contínuo dos investidores por empresas que constroem robôs semelhantes a humanos para aplicações industriais."
+},
+{
+"id": "f9cd1d8bda4ee0",
+"t": "O cão-robô do Google nos leva um passo mais perto do fim da humanidade",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGQnVSQlFRdWpuMTJPQVhjUDEzNnAxMjJIcXZkOF9aMXNVUTBMT2xtZEVPdG41NmtxZzZSY0NSMk12cmdBTjhN?oc=5",
+"f": "Time Magazine",
+"s": "time.com",
+"i": "",
+"d": "2026-11-17T15:48-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "Google’s Robot Dog Brings Us One Step Closer to the End of Humanity",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "TIME"
 },
 {
 "id": "7b8e60f9473b1f",
@@ -39929,7 +40073,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -45818,7 +45962,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -61906,7 +62050,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -61935,7 +62079,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
