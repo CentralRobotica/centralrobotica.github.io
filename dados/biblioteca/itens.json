@@ -76,6 +76,25 @@
 ]
 },
 {
+"id": "1c81af1c5a1a2f",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.2017965",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-22T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "A mini review of adaptive dynamic programming-based reinforcement learning for robot control",
+"ro": "Adaptive dynamic programming (ADP) has emerged as a powerful bridging framework between optimal control theory and reinforcement learning (RL), offering a principled methodology for designing approximately optimal controllers for nonlinear robotic systems with unknown or partially known dynamics. Unlike conventional…",
+"t": "Uma mini revisão do aprendizado por reforço baseado em programação dinâmica adaptativa para controle de robôs",
+"r": "A programação dinâmica adaptativa (ADP) emergiu como uma poderosa estrutura de ponte entre a teoria de controle ideal e a aprendizagem por reforço (RL), oferecendo uma metodologia baseada em princípios para projetar controladores aproximadamente ótimos para sistemas robóticos não lineares com dinâmica desconhecida ou parcialmente conhecida. Ao contrário do convencional…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia"
+]
+},
+{
 "id": "96bdad40bb1ba3",
 "u": "https://www.popularmechanics.com/home/a18672103/best-vacuums/",
 "f": "Popular Mechanics",
