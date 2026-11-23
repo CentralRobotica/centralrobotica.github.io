@@ -24,6 +24,51 @@
 "rx": "A Topstar revelou o Star, um humanóide bípede em tamanho real projetado para manuseio e classificação de materiais em fábricas, em seu evento TOPS DAY 2026 em Dongguan. De acordo com South, publicado no newsgd.com, o robô tem 172 centímetros de altura, pesa 72 quilos e tem capacidade de carga útil combinada de 10 quilos em seus dois braços. A Topstar está posicionando a Star como parte de um programa de robótica de fabricação que combina hardware robótico com coleta de dados operacionais e treinamento de modelos.\nO humanóide Topstar Star se junta ao Xiaotuo, o humanóide com rodas da empresa, que South relata está sendo testado para aplicações de fabricação, incluindo manuseio de materiais eletrônicos e carga e descarga de linhas de produção. Para apoiar esse trabalho, a Topstar afirma ter desenvolvido um sistema de coleta de dados que liga demonstrações manuais, processamento de dados, treinamento de modelos, implantação de robôs e feedback de desempenho."
 },
 {
+"id": "c283dfadeb901a",
+"t": "Lingjiang da China revela mão robótica com 23 graus de liberdade para humanóides",
+"r": "Uma empresa chinesa de mãos robóticas lançou um grande número de produtos importantes para mãos robóticas usados ​​em diversas tarefas. De acordo com a mídia local chinesa Hebei Qingnian Bao, no dia 23, a chinesa Lingzhang Robotics (灵掌机器人) revelou nove linhas de produtos manuais robóticos e anunciou que elas podem ser aplicadas em diversas áreas, como fabricação industrial, missões espaciais, tarefas especiais, pesquisa científica e robôs humanóides. Mão robótica da Lingzhang Robotics Pode ser aplicada em missões industriais e especiais com sua vida útil, carga e estabilidade, e pode realizar tarefas como transporte de materiais, controle remoto e manutenção de equipamentos. Existem 9 grupos de produtos: 2, 3,",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49750",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49750_105896_847.png",
+"d": "2026-11-23T09:15-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "中 링장, 휴머노이드용 23자유도 로봇핸드 공개",
+"lg": "ko",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Uma empresa chinesa de mãos robóticas lançou um grande número de produtos importantes para mãos robóticas usados ​​em diversas tarefas. De acordo com a mídia local chinesa Hebei Qingnianbao no dia 23, a Lingzhang Robotics da China"
+},
+{
+"id": "830b395af4d1f8",
+"t": "Base de Voo dos EUA lança plataforma autônoma de drones para inspeções da indústria de petróleo e gás",
+"r": "Robotics 247 informou no dia 17 (horário local) que o FlytBase dos EUA lançou 'Octane', uma plataforma de veículo aéreo não tripulado (Drone / UAS) para apoiar empresas de petróleo e gás que criam programas empresariais de drones.FlytBase é a primeira empresa de plataforma física de IA com drones para instalações industriais de grande escala. Eles anunciaram que combinarão suas capacidades para ajudar as empresas a repetir e expandir operações bem-sucedidas de drones em vários campos e países. ◇ Solução repetível de levantamento e inspeção de drones.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49755",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49755_105900_5521.jpg",
+"d": "2026-11-23T09:15-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 1,
+"to": "美 플라이트베이스, 석유·가스 산업 점검용 자율드론 플랫폼 출시",
+"lg": "ko",
+"esp": 1,
+"p": 11.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A FlytBase dos EUA lançou o ‘Octane’, uma plataforma de veículos aéreos não tripulados (Drone/UAS) para apoiar empresas de petróleo e gás que criam programas empresariais de drones."
+},
+{
 "id": "ceecb4541c2896",
 "t": "X Square Robot apresenta WALL-OSS-1.0: Entenda mais, aja melhor – um modelo de base nativo para o mundo físico",
 "r": "A X Square Robot revelou hoje o WALL-OSS-1.0, seu mais recente modelo básico de visão-linguagem-ação (VLA) construído sobre uma abordagem nativa de pré-treinamento que traz visão, linguagem e ação física em uma estrutura de aprendizagem unificada. Juntamente com o modelo, a X Square Robot está introduzindo o XR…",
@@ -44,9 +89,9 @@
 ],
 "cr": 3,
 "cv": "Business Insider",
-"cur": 1,
 "mx": 1,
-"rx": "A X Square Robot revelou hoje o WALL-OSS-1.0, seu mais recente modelo básico de visão-linguagem-ação (VLA) construído sobre uma abordagem nativa de pré-treinamento que traz visão, linguagem e ação física em uma estrutura de aprendizagem unificada. Juntamente com o modelo, a X Square Robot está introduzindo o XR Harness, uma estrutura de agente que conecta o planejamento de alto nível com a execução física, e o WALL-API-1.0, uma nova interface projetada para tornar seus recursos de IA incorporados mais acessíveis para desenvolvedores e empresas.\nWALL-OSS-1.0 adota uma abordagem diferente por meio do pré-treinamento nativo de VLA, permitindo que visão, linguagem e ações robóticas moldem juntas as capacidades do modelo. Para enfrentar esse desafio, a X Square Robot está apresentando o XR Harness, uma estrutura de agente que funciona junto com o WALL-OSS-1.0 para conectar o planejamento de tarefas, a execução de modelos e o controle de robôs."
+"rx": "A X Square Robot revelou hoje o WALL-OSS-1.0, seu mais recente modelo básico de visão-linguagem-ação (VLA) construído sobre uma abordagem nativa de pré-treinamento que traz visão, linguagem e ação física em uma estrutura de aprendizagem unificada. Juntamente com o modelo, a X Square Robot está introduzindo o XR Harness, uma estrutura de agente que conecta o planejamento de alto nível com a execução física, e o WALL-API-1.0, uma nova interface projetada para tornar seus recursos de IA incorporados mais acessíveis para desenvolvedores e empresas.\nWALL-OSS-1.0 adota uma abordagem diferente por meio do pré-treinamento nativo de VLA, permitindo que visão, linguagem e ações robóticas moldem juntas as capacidades do modelo. Para enfrentar esse desafio, a X Square Robot está apresentando o XR Harness, uma estrutura de agente que funciona junto com o WALL-OSS-1.0 para conectar o planejamento de tarefas, a execução de modelos e o controle de robôs.",
+"cur": 1
 },
 {
 "id": "d0b6b2ab095735",
@@ -69,6 +114,49 @@
 "cv": "United Daily News",
 "mx": 1,
 "rx": "Drones aliados à inteligência artificial estão ampliando os horizontes de aplicação da fiscalização industrial, segurança pública e registros urbanos! A Universidade de Ciência e Tecnologia de Chaoyang participou da \"2026 Taichung Unmanned Vehicles and Robot Application Exhibition\" realizada de 24 a 27, reunindo 4 faculdades e 7 departamentos de aviação, informação, ciência e engenharia e design para exibir 10 excelentes resultados de aplicações, demonstrando a energia de pesquisa e desenvolvimento de domínios cruzados de veículos não tripulados e tecnologia robótica em inspeções de segurança de vôo, obras públicas, percepção inteligente e gravação de imagens.\nEsta exposição apresenta 10 resultados de aplicações de veículos não tripulados, demonstrando plenamente as capacidades completas de P&D da Universidade de Ciência e Tecnologia de Chaoyang, desde design de veículos, fabricação de compósitos e verificação estrutural até identificação de IA, fusão de sensores e controle de robôs. Através de pesquisa e desenvolvimento entre domínios e da cooperação indústria-universidade, professores e estudantes podem participar do processo desde o desenvolvimento da tecnologia até a verificação da aplicação, cultivando talentos práticos que possam realmente trazer seus conhecimentos para o local industrial."
+},
+{
+"id": "5a607c1c55a963",
+"t": "Fabricante japonês de robôs industriais Yaskawa Electric: robô humanóide AI será lançado oficialmente em 2030",
+"r": "A IT House informou em 23 de novembro que Yumie Kubota, diretora de robôs de inteligência artificial da fabricante japonesa de robôs industriais YASAKAWA, disse em entrevista ao Kyodo News do Japão no dia 20, horário local, que a empresa planeja alcançar as atuais empresas líderes dos EUA e da China na área de robôs…",
+"u": "https://www.ithome.com/1/030/954.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-23T05:30-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 1,
+"to": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+"lg": "zh",
+"p": 9.3,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "A IT House informou em 23 de novembro que Yumie Kubota, diretora de robôs de inteligência artificial da fabricante japonesa de robôs industriais YASAKAWA, disse em entrevista ao Kyodo News do Japão no dia 20, horário local, que a empresa planeja alcançar as atuais empresas líderes dos EUA e da China na área de robôs humanóides.\nYumi Kubota disse que o robô humanóide AI desenvolvido pela Yaskawa Electric será lançado oficialmente em 2030, e o tempo específico de lançamento também pode ser avançado com base nas necessidades reais do cliente. No entanto, os robôs humanóides ainda enfrentam o problema de capacidades limitadas de aprendizagem de tarefas autônomas. A Yaskawa Electric planeja explorar soluções com Fujitsu e Nvidia."
+},
+{
+"id": "63356f311727a2",
+"t": "Lenovo lança robô exoesqueleto legal Walker ONE, auxílio para caminhada vestível, 6.999 yuans",
+"r": "A IT House informou em 23 de novembro que a Lenovo lançou agora o dispositivo de mobilidade vestível do robô exoesqueleto LaiKu Walker ONE no JD.com. Ele será lançado em 28 de novembro e custa 7.999 yuans, com preço inicial de 6.999 yuans. O produto tem peso líquido de 1,8kg e oferece nível de proteção IP54. O corpo…",
+"u": "https://www.ithome.com/1/031/160.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-23T08:04-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 1,
+"to": "联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元",
+"lg": "zh",
+"p": 8.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "A IT House informou em 23 de novembro que a Lenovo lançou agora o dispositivo de mobilidade vestível do robô exoesqueleto LaiKu Walker ONE no JD.com. Ele será lançado em 28 de novembro e custa 7.999 yuans, com preço inicial de 6.999 yuans. O produto tem peso líquido de 1,8kg e oferece nível de proteção IP54. O corpo utiliza 3 pontos de apoio para dispersar a pressão local, e é travado com 3 pontos e 1 fivela. Pode ser colocado e retirado em 15 segundos. Possui modo esportivo transparente e inteligente, com torque máximo de até 38N·m em ambos os quadris e potência máxima de 900W. Alega-se que a eficiência da assistência à caminhada pode ser ≥45% e também suporta o ajuste da taxa de assistência à marcha com um botão.\nEste produto está equipado com um sistema de percepção de marcha AI que pode reconhecer 6 tipos de posturas (a serem liberadas sucessivamente): subida e descida, corrida, subida e descida de escadas, caminhada, ciclismo e cascalho."
 },
 {
 "id": "ca700e9c64dc3f",
@@ -154,6 +242,28 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "Prevê-se que o mercado global de robôs humanóides entrará em uma fase de pleno crescimento na década de 2030, e que o número acumulado global instalado atingirá aproximadamente 7,87 milhões de unidades até 2040. vela"
+},
+{
+"id": "484e544be2e4d5",
+"t": "Kyocera do Japão avança no mercado de peças humanóides, incluindo mãos robóticas, na China",
+"r": "Uma empresa japonesa de peças de precisão planeja expandir sua presença no mercado chinês de robôs humanóides. De acordo com a China Robot Network, portal chinês especializado em robôs, no dia 23, a japonesa KYOCERA participou da 28ª Feira Internacional de Alta Tecnologia da China (CHTF 2026) e apresentou peças-chave de robôs humanóides, como mãos robóticas, articulações, sensores e sistemas cerebrais. Também introduziu produtos como uma câmera 3D de curto alcance de alta precisão, uma solução de detecção chamada ‘VIMOA’ que visualiza, monitora e analisa as condições de processamento de corte em tempo real e uma cabeça de impressão térmica de alta densidade. A Kyocera está organizando a ‘Cadeia Asiática da Indústria de Inteligência Artificial e Robótica Inteligente’ nesta exposição.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49749",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49749_105895_638.png",
+"d": "2026-11-23T09:15-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "日 교세라, 中서 로봇핸드 등 휴머노이드 부품 시장 진격",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Uma empresa japonesa de peças de precisão planeja expandir sua presença no mercado chinês de robôs humanóides. De acordo com a China Robot Network, portal chinês especializado em robôs, no dia 23, a japonesa KYOCERA ficou em 28º lugar."
 },
 {
 "id": "35847ab66ce426",
@@ -556,6 +666,74 @@
 "rx": "O número de empresas membros da Associação Coreana de IA e Indústria de Robôs (Presidente Oh Jun-ho, Samsung Electronics) ultrapassou 500. Desde empresas de produtos acabados e peças de robôs até empresas que usam robôs em locais de semicondutores, IA, fabricação e logística."
 },
 {
+"id": "dd25d890ab0104",
+"t": "Procurei uma utopia automatizada. Tudo que consegui foi roboslop.",
+"r": "Lloyd Lee, do Business Insider, experimentou todos os serviços de robôs de São Francisco, desde robotáxis Waymo até limpadores humanóides que deixaram sua casa mais bagunçada.",
+"u": "https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
+"f": "Business Insider",
+"s": "businessinsider.com",
+"i": "https://i.insider.com/6afc95e0bcc92b799fa7ebe2?width=1200&format=jpeg",
+"d": "2026-11-23T06:11-03:00",
+"c": [
+"autonomos",
+"humanoides"
+],
+"l": 0,
+"to": "I searched for an automated utopia. All I got was roboslop.",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 1,
+"rx": "Lloyd Lee, do Business Insider, experimentou todos os serviços de robôs de São Francisco, desde robotáxis Waymo até limpadores humanóides que deixaram sua casa mais bagunçada."
+},
+{
+"id": "ba892a37540827",
+"t": "U.S. Packsize e Swiss Log fazem parceria para melhorar o rendimento do armazém",
+"r": "A Automated Warehouse informou recentemente que a Packsize fez parceria com a Swisslog Logistics para ajudar os clientes a projetar, sequenciar e implementar sistemas de atendimento. A empresa enfatiza que à medida que a adoção de robôs se espalha pela cadeia de abastecimento, os operadores de armazém devem considerar a adoção e integração da automação de embalagens para maximizar o retorno do investimento (ROI). Bill Stenger Swisslog Sales “À medida que as operações de atendimento se tornam cada vez mais automatizadas, é importante incluir a automação de embalagens no projeto geral de automação do armazém”, disse o vice-presidente sênior.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49753",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49753_105897_143.jpg",
+"d": "2026-11-23T09:15-03:00",
+"c": [
+"logistica",
+"negocios"
+],
+"l": 0,
+"to": "美 팩사이즈-스위스로그, 창고처리량 향상 위해 제휴",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Packsize dos Estados Unidos contratou a Swisslog Logistics para apoiar seus clientes no projeto, sequenciamento e implementação de seus sistemas de atendimento."
+},
+{
+"id": "08f065c4c85a45",
+"t": "A Naver Connect Foundation conclui com sucesso a competição de robótica juvenil para nutrir futuros talentos tecnológicos",
+"r": "A Fundação Naver Connect continua a apoiar um ambiente educacional para que todos na geração futura possam aprender e experimentar tecnologia de ponta. A Naver Connect Foundation (presidente Kong Gong-jung) anunciou no dia 23 que concluiu com sucesso a ‘NAVER Connect Robotics Cup 2026 (NAVER Connect Robotics Cup 2026, baseada em NVIDIA Isaac Sim)’, uma competição de robótica para estudantes do ensino médio. Esta competição foi organizada pela Naver Connect Foundation, patrocinada pela NVIDIA e pelo Ministério da Educação, e operada pela Naver Labs, Naver Chizijik e pela Korea Information Teachers Association. ◇ As finais do estilo e-sports foram realizadas com robôs que os próprios alunos aprenderam… ​​Naver",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49748",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49748_105894_5322.jpg",
+"d": "2026-11-23T09:15-03:00",
+"c": [
+"competicoes",
+"educacao"
+],
+"l": 0,
+"to": "네이버 커넥트재단, 미래 기술 인재 양성 위한 청소년 로보틱스 대회 성료",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Fundação Naver Connect continua a apoiar um ambiente educacional para que todos na geração futura possam aprender e experimentar tecnologias de ponta. A Fundação Naver Connect (Presidente Gong Gong-jung) fornece serviços de robôs para estudantes do ensino médio."
+},
+{
 "id": "946a0c729027f9",
 "t": "Preço atual das ações da empresa de robôs (2026-11-23)",
 "r": "",
@@ -574,7 +752,7 @@
 "p": 5.3,
 "cr": 3,
 "cv": "Robot Newspaper",
-"mx": 2
+"mx": 3
 },
 {
 "id": "5c7a6a4c745e52",
@@ -834,25 +1012,26 @@
 "rx": "Empresas nacionais como Samsung Electronics, SK Hynix e LG Electronics anunciaram recentemente novos CEOs e executivos. Ao consolidar os benefícios do boom dos semicondutores de IA, parece haver uma sobreposição na direção do crescimento dos robôs e da infraestrutura de IA como o próximo eixo de crescimento. No dia 20, a Samsung Electronics promoveu três presidentes e três pessoas com alterações nas funções atribuídas..."
 },
 {
-"id": "3c17b12295f551",
-"t": "Empresa: Nova start-up Veluto desenvolve bicicleta robô autônoma",
-"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
-"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/unternehmen-neues-start-up-veluto-entwickelt-autonomes-roboter-rad/100266914.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-23T05:02-03:00",
+"id": "5cca097f5f1047",
+"t": "Tekever ganha prêmio de soberania da França enquanto a fábrica de drones de Cahors aumenta",
+"r": "A Tekever afirma ter recebido o Prêmio Choose France na categoria Soberania. O fabricante português das aeronaves não tripuladas AR3 e AR5 comprometeu 200 milhões de euros e 200 contratações em França até 2030, e espera cerca de 100 funcionários até ao final deste ano. A TEKEVER anunciou um total de 200 milhões de…",
+"u": "https://dronexl.co/2026/11/23/tekever-choose-france-award-sovereignty-cahors-factory/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/tekever-cahors-factory-france-choose-france-award.webp",
+"d": "2026-11-23T04:50-03:00",
 "c": [
-"autonomos"
+"drones",
+"industriais"
 ],
 "l": 0,
-"to": "Unternehmen: Neues Start-up Veluto entwickelt autonomes Roboter-Rad",
-"lg": "de",
+"to": "Tekever Wins France Sovereignty Award as Cahors Drone Plant Ramps Up",
+"lg": "en",
 "p": 4.8,
 "cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Tekever afirma ter recebido o Prêmio Choose France na categoria Soberania. O fabricante português das aeronaves não tripuladas AR3 e AR5 comprometeu 200 milhões de euros e 200 contratações em França até 2030, e espera cerca de 100 funcionários até ao final deste ano. A TEKEVER anunciou um total de 200 milhões de euros em investimentos e 200 contratações na França até 2030. A TEKEVER, uma multinacional pan-europeia líder especializada em sistemas de aeronaves não tripuladas (UAS), recebeu o prêmio Choose France na categoria Soberania.\nPouco mais de um ano depois de anunciar um investimento de 100 milhões de euros para apoiar o seu desenvolvimento industrial em França na Cimeira Choose France de 2025, a TEKEVER duplicou esse compromisso na primavera de 2026, anunciando um investimento total de 200 milhões de euros até 2030 e uma meta de recrutar 200 pessoas em toda a Occitânia e Nova-Aquitânia."
 },
 {
 "id": "40b9fea84cfefe",
@@ -897,27 +1076,6 @@
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. LG U+ entrará para valer no negócio de tokens de inteligência artificial (IA) a partir do próximo ano. Este é um negócio que reduz os custos operacionais de IA de uma empresa, utilizando de forma eficiente vários modelos de IA e semicondutores. À medida que a inteligência artificial (IA) de vídeo se desenvolve, a “reciclagem de vídeos antigos” está a tornar-se uma tendência nos serviços de vídeo online (OTT). “Anote as observações do cliente”… Empresas com reuniões frequentes deixam as atas das reuniões escrevendo para a IA. O número de empresas que adotaram o ‘Tiro’, um serviço de atas de reuniões desenvolvido pela startup de inteligência artificial (IA) ‘The Playto’, ultrapassou 300. De acordo com o The Playto do dia 23, o Tiro é propriedade de Kakao, Krafton, Lutton, SK Chemicals, Kwangdong Pharmaceutical, Socar e APR..."
 },
 {
-"id": "dd25d890ab0104",
-"t": "Procurei uma utopia automatizada. Tudo que consegui foi roboslop.",
-"r": "Lloyd Lee, do Business Insider, experimentou todos os serviços de robôs de São Francisco, desde robotáxis Waymo até limpadores humanóides que deixaram sua casa mais bagunçada.",
-"u": "https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
-"f": "Business Insider",
-"s": "businessinsider.com",
-"i": "https://i.insider.com/6afc95e0bcc92b799fa7ebe2?width=1200&format=jpeg",
-"d": "2026-11-23T06:11-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "I searched for an automated utopia. All I got was roboslop.",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Business Insider",
-"mx": 1,
-"rx": "Lloyd Lee, do Business Insider, experimentou todos os serviços de robôs de São Francisco, desde robotáxis Waymo até limpadores humanóides que deixaram sua casa mais bagunçada."
-},
-{
 "id": "cd84bfbb6c2297",
 "t": "Cesare Cremonini volta ao show, o palco 'Amatour' foi revelado: o vídeo do drone",
 "r": "(LaPresse) Às vésperas da estreia de 'Amatour', marcada para amanhã, terça-feira, 24 de novembro, em Ancona, Cesare Cremonini revela o palco de seu novo...",
@@ -937,6 +1095,49 @@
 "cv": "Il Sole 24 Ore",
 "mx": 1,
 "rx": "(LaPresse) Às vésperas da estreia de 'Amatour', marcada para amanhã, terça-feira, 24 de novembro, em Ancona, Cesare Cremonini revela o palco de seu novo..."
+},
+{
+"id": "b5a9a709af73b7",
+"t": "Startup ganha contrato DRDO para desenvolver sistema de comunicação laser-link para drones",
+"r": "Uma startup, olee.space, garantiu um contrato da Organização de Pesquisa e Desenvolvimento de Defesa (DRDO) para desenvolver um sistema de comunicação de link laser indígena para drones, uma tecnologia que poderia ajudar a resolver uma das principais vulnerabilidades expostas na guerra moderna: a interrupção da…",
+"u": "https://timesofindia.indiatimes.com/defence/startup-wins-drdo-contract-to-develop-laser-link-comms-system-for-drones/articleshow/136099880.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136100015,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-23T08:13-03:00",
+"c": [
+"negocios",
+"drones"
+],
+"l": 0,
+"to": "Startup wins DRDO contract to develop laser-link comms system for drones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Uma startup, olee.space, garantiu um contrato da Organização de Pesquisa e Desenvolvimento de Defesa (DRDO) para desenvolver um sistema de comunicação de link laser indígena para drones, uma tecnologia que poderia ajudar a resolver uma das principais vulnerabilidades expostas na guerra moderna: a interrupção da comunicação através de…"
+},
+{
+"id": "d7096a1a17da38",
+"t": "KI: É assim que começa a revolução na robótica em Trumpf",
+"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600…",
+"u": "https://www.handelsblatt.com/unternehmen/industrie/ki-so-beginnt-bei-trumpf-die-revolution-der-robotik/100248242.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "https://images.handelsblatt.com/zVMpYqiHNVzd/cover/2517/1416/0/0/0/0/0.626/0.376/ralph-lange-robotik-chef-trumpf.jpg",
+"d": "2026-11-23T09:04-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KI: So beginnt bei Trumpf die Revolution der Robotik",
+"lg": "de",
+"p": 4.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 1,
+"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600 desenvolvedores para seu próprio software. Mas a posição está ameaçada pela concorrência chinesa emergente. “Os lasers estão se tornando cada vez mais uma mercadoria intercambiável”, disse o presidente do Conselho de Supervisão, Peter Leibinger, há cinco anos. “Temos que oferecer mais no futuro.\nNem todo software é desenvolvido pela própria Trumpf. A IA tornou-se parte integrante do Trumpf."
 },
 {
 "id": "421c3206571e26",
@@ -977,7 +1178,28 @@
 "p": 4.3,
 "cr": 3,
 "cv": "L'Usine Nouvelle",
-"mx": 2
+"mx": 3
+},
+{
+"id": "3c17b12295f551",
+"t": "Empresa: Nova start-up Veluto desenvolve bicicleta robô autônoma",
+"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
+"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/unternehmen-neues-start-up-veluto-entwickelt-autonomes-roboter-rad/100266914.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-23T05:02-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Unternehmen: Neues Start-up Veluto entwickelt autonomes Roboter-Rad",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
 },
 {
 "id": "2a5efb8710f38b",
@@ -1106,6 +1328,27 @@
 "rx": "À medida que a inteligência artificial (IA) e a tecnologia robótica estão a ser rapidamente incorporadas em ambientes médicos, garantir a competitividade global das patentes está a emergir como uma tarefa fundamental para as empresas nacionais de robôs cirúrgicos. No dia 23, o Ministério da Propriedade Intelectual visitou a LONSurgical, uma empresa de risco que desenvolve robôs cirúrgicos baseados em IA, e realizou uma reunião de comunicação no local para fortalecer a competitividade global de patentes. Esta visita foi preparada para ouvir as dificuldades que as empresas que desenvolvem dispositivos médicos utilizando tecnologias de ponta, como IA e robôs, enfrentam durante o desenvolvimento e comercialização de tecnologia, e os pedidos de patentes e processos de exame nacionais e estrangeiros, e para reflectir isso nas políticas de propriedade intelectual. À medida que se espera que o mercado global de robôs cirúrgicos cresça rapidamente, aumenta a necessidade de as empresas nacionais dominarem as tecnologias essenciais e protegerem os direitos de propriedade intelectual. Em meio a essas mudanças de mercado, a Loen Surgical está trabalhando para garantir a competitividade tecnológica e entrar no mercado global, desenvolvendo o robô para cirurgia de cálculo renal baseado em IA 'Zamenix' e solicitando um total de 223 patentes no país e no exterior. Além disso, ouvimos as dificuldades enfrentadas pelas empresas na obtenção de patentes e na protecção de direitos no processo de desenvolvimento de dispositivos médicos e de entrada em mercados estrangeiros, e discutimos formas de melhorar o sistema. Jeong Yeon-woo, Diretor Adjunto do Escritório de Propriedade Intelectual, disse: “O desenvolvimento de produtos na indústria de dispositivos médicos que combinem tecnologias de ponta, como IA e robôs, bem como protegê-los com patentes fortes, é uma base importante para a competitividade global”. Ele acrescentou: “Aumentaremos a velocidade e a qualidade do exame de patentes e fortaleceremos a base para garantir e proteger os direitos no exterior, para que empresas inovadoras como a Loen Surgical possam liderar o mercado global com base em tecnologia excelente”."
 },
 {
+"id": "2228252a9c72c8",
+"t": "Província de Jeonbuk - Membro da Assembleia Nacional visita o site de robôs da Hyundai Motor Company em busca de soluções para a indústria de robôs de Jeonbuk",
+"r": "No dia 23, o Governador da Província Autônoma Especial de Jeonbuk, Lee Won-taek, visitou o Laboratório de Robótica do Instituto de Pesquisa Uiwang do Hyundai Motor Group com legisladores locais para visitar o local de desenvolvimento de tecnologia de robôs de ponta e discutir maneiras de desenvolver a indústria de…",
+"u": "https://www.etnews.com/20261123000427",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.3a9e92fc837b409ebf9f723422c9fceb_P1.jpg",
+"d": "2026-11-23T03:52-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "전북도-국회의원, 현대차 로봇 현장 찾아 전북 로봇 산업 해법 모색",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "No dia 23, o Governador da Província Autônoma Especial de Jeonbuk, Lee Won-taek, visitou o Laboratório de Robótica do Instituto de Pesquisa Uiwang do Hyundai Motor Group com legisladores locais para visitar o local de desenvolvimento de tecnologia de robôs de ponta e discutir maneiras de desenvolver a indústria de robôs de Jeonbuk. Esta visita foi organizada na sequência do anúncio do Hyundai Motor Group de um plano de investimento em grande escala em Saemangeum. O objetivo é compartilhar a tecnologia robótica de ponta do Hyundai Motor Group e a direção futura dos negócios e encontrar maneiras de vinculá-la à estratégia de desenvolvimento da indústria de IA física de Jeonbuk. Esta visita é significativa porque a Província Autônoma Especial de Jeonbuk e os legisladores locais confirmaram diretamente o nível da tecnologia robótica e a direção de desenvolvimento industrial do Hyundai Motor Group no local e consideraram em conjunto planos de desenvolvimento que aproveitam os pontos fortes industriais de Jeonbuk. A Província Autônoma Especial de Jeonbuk planeja aproveitar esta oportunidade para acelerar a criação de um ecossistema de robôs de alta tecnologia, unindo forças com políticos locais para descobrir projetos nacionais relacionados a robôs, melhorar sistemas e apoiar empresas locais a entrar no mercado. O governador da província autônoma especial de Jeonbuk, Lee Won-taek, disse: “O investimento do Hyundai Motor Group em Saemangeum é uma oportunidade importante para Jeonbuk avançar como uma base central para a indústria de robôs de alta tecnologia da Coreia”. Ele acrescentou: “Através desta visita, pude ver diretamente o potencial da tecnologia robótica avançada e analisar um novo caminho de crescimento ligado à base da indústria manufatureira de Jeonbuk”. Ele acrescentou: “Faremos todos os esforços para garantir que o desenvolvimento da tecnologia leve à produção real de produtos, ao crescimento corporativo e à criação de empregos de qualidade, combinando a base física de pesquisa, desenvolvimento e verificação de IA de Jeonbuk com as capacidades de fabricação de robôs do Hyundai Motor Group”."
+},
+{
 "id": "b8ee5055051748",
 "t": "X Square Robot apresenta WALL-OSS-1.0 com hardware de planejamento e API",
 "r": "O X Square Robot relata resultados de tiro zero em 312 tarefas de robô e apresenta o XR Harness; os pontos de verificação públicos do Lite têm um escopo de avaliação mais restrito.",
@@ -1165,7 +1408,93 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 2
+"mx": 3
+},
+{
+"id": "4a2b2177095827",
+"t": "Top 5: UGreen, Microsoft, Roborock... as melhores ofertas de 23/11/2026",
+"r": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas…",
+"u": "https://www.lesnumeriques.com/societe-numerique/top-5-ugreen-microsoft-roborock-les-meilleurs-bons-plans-du-23-11-2026-n268284.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/18/188269/9e96ef1c-top-5-nvidia-rtx-jabra-samsung-les-meilleurs-bons-plans-du-jour_png__1200_678__overflow.webp",
+"d": "2026-11-23T07:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Top 5 : UGreen, Microsoft, Roborock... les meilleurs bons plans du 23/11/2026",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas e muito bem-vindas que pudemos avaliar... Roborock está lançando sua visão da coisa com um Vapor F25 capaz, dizem, de limpar 660 m² de casa com uma única carga.\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
+},
+{
+"id": "50302b0173a086",
+"t": "Da ligação Sarvam aos drones, tudo o que aconteceu no Bengaluru Tech Summit 2026",
+"r": "A 29ª edição do Bengaluru Tech Summit (BTS), realizada no Bangalore International Exhibition Centre (BIEC), reuniu empreendedores que estão construindo a próxima geração de tecnologia. No Bengaluru Tech Summit 2026, Karnataka anunciou seis iniciativas para fortalecer sua infraestrutura de pesquisa e inovação. Ele…",
+"u": "https://analyticsindiamag.com/ai-features/from-sarvam-to-all-that-happened-at-the-bengaluru-tech-summit-2026",
+"f": "Analytics India Magazine",
+"s": "analyticsindiamag.com",
+"i": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=jpeg/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1794903686957-weyads.webp",
+"d": "2026-11-23T07:55-03:00",
+"c": [
+"drones",
+"competicoes"
+],
+"l": 0,
+"to": "From Sarvam Tie-Up to Drones, All That Happened at Bengaluru Tech Summit 2026",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Analytics India Magazine",
+"mx": 1,
+"rx": "A 29ª edição do Bengaluru Tech Summit (BTS), realizada no Bangalore International Exhibition Centre (BIEC), reuniu empreendedores que estão construindo a próxima geração de tecnologia. No Bengaluru Tech Summit 2026, Karnataka anunciou seis iniciativas para fortalecer sua infraestrutura de pesquisa e inovação. Ele acrescentou que Karnataka abriga mais de 100 empresas de chips sem fábrica, enquanto três em cada cinco engenheiros que trabalham nos centros de capacidade de semicondutores da Índia estão baseados em Bengaluru.\nAs empresas globais estão investindo mais de ₹ 23.000 milhões em pesquisa de semicondutores e instalações de fabricação em Bengaluru e Mysuru, disse ele. O Karnataka AI Hub, estabelecido no IIIT-Bengaluru, se concentrará em pesquisa, qualificação, inovação e empreendedorismo em IA para 63.000 estudantes de engenharia e diplomas."
+},
+{
+"id": "ae9bd34e0b0f8c",
+"t": "As melhores ofertas da Black Friday: máquinas de café, robôs, TV, BKW, Adobe & Co.",
+"r": "A Black Week 2026 começou bem: estamos conferindo as ofertas antes da Black Friday e mostrando as melhores ofertas com descontos reais. A Black Week 2026 vai de 19 a 30. Observação: algumas ofertas estão disponíveis apenas para clientes com assinatura Prime – mas isso se aplica a um número significativamente menor de…",
+"u": "https://www.heise.de/bestenlisten/deals/die-besten-black-friday-deals-kaffeemaschinen-roboter-tv-bkw-adobe-und-co/1sv4gfy",
+"f": "heise online",
+"s": "heise.de",
+"i": "https://ocdn.eu/pulscms-transforms/1/QaUk9kqTURBXy8xOGVlY2ZkYzBmNmVlZjUyOWZjNzNkNmVhNmNiNmJiOC5qcGVnkZUCzQSwzQJ2w8PeAAGhMAI",
+"d": "2026-11-23T08:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Die besten Black-Friday-Deals: Kaffeemaschinen, Roboter, TV, BKW, Adobe & Co.",
+"lg": "de",
+"p": 3.5,
+"cr": 2,
+"cv": "heise online",
+"mx": 1,
+"rx": "A Black Week 2026 começou bem: estamos conferindo as ofertas antes da Black Friday e mostrando as melhores ofertas com descontos reais. A Black Week 2026 vai de 19 a 30. Observação: algumas ofertas estão disponíveis apenas para clientes com assinatura Prime – mas isso se aplica a um número significativamente menor de produtos durante a Black Week do que durante a semana do Prime Day. Mostramos outras boas ofertas no tema usinas de varanda e armazenamento BKW em nosso Top 10: Armazenamento para usinas de varanda em teste - sem nuvem, controlável localmente.\nMostramos ainda mais bons negócios sobre o assunto em nosso Top 10: Cortadores de grama robóticos sem cabos de limite no teste. Mostramos ainda mais fones de ouvido bons em nossas listas de melhores Top 10: Os melhores fones de ouvido no teste, Top 10: Os melhores fones de ouvido no teste e Top 10: Os melhores fones de ouvido abertos no teste."
+},
+{
+"id": "375d2919ede001",
+"t": "O setor de robôs humanóides está em expansão e os principais fundos aumentaram as suas posições em muitas ações conceituais.",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://36kr.com/newsflashes/4082293324174465",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-23T09:07-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "人形机器人板块爆火，主力资金加仓多只概念股",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "22261ec066e013",
@@ -1207,6 +1536,26 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Tech.eu",
+"mx": 2
+},
+{
+"id": "c53779c3e98a39",
+"t": "A Fidelity leva a sua luta contra o crime para o céu com Fidelity Drone Solutions",
+"r": "",
+"u": "https://mybroadband.co.za/news/industrynews/679464-fidelity-takes-its-fight-against-crime-into-the-sky-with-fidelity-drone-solutions.html",
+"f": "MyBroadband",
+"s": "mybroadband.co.za",
+"i": "",
+"d": "2026-11-23T08:59-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Fidelity takes its fight against crime into the sky with Fidelity Drone Solutions",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "MyBroadband",
 "mx": 1
 }
 ],
@@ -2482,8 +2831,8 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/flyingbasket-fb3-heavy-lift-drone-fcc-conditional-approval.webp",
 "d": "2026-11-22T01:35-03:00",
 "c": [
-"industriais",
-"drones"
+"drones",
+"industriais"
 ],
 "l": 0,
 "to": "FCC Exempts 23 Drone Makers From Its Ban for US Factory Pledges",
@@ -2872,7 +3221,8 @@
 "d": "2026-11-22T15:47-03:00",
 "c": [
 "casa",
-"resgate"
+"resgate",
+"industriais"
 ],
 "l": 0,
 "to": "China accused of flooding Britain with cheap robot lawnmowers",
@@ -3409,7 +3759,7 @@
 "i": "https://helios-i.mashable.com/imagery/articles/05wojKsfBi2MPCuKzQN92qU/hero-image.fill.size_1200x675.v1720560744.jpg",
 "d": "2026-11-22T13:53-03:00",
 "c": [
-"geral"
+"casa"
 ],
 "l": 0,
 "to": "'Sunny' review: Rashida Jones and a robot make an unlikely mystery-solving duo",
@@ -3521,7 +3871,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "AFP",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a6025e58d8957e",
@@ -3663,7 +4013,8 @@
 "i": "",
 "d": "2026-11-22T10:51-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"medicina"
 ],
 "l": 0,
 "to": "人形机器人板块冲高，宇树科技20cm涨停-36氪",
@@ -3671,7 +4022,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -3726,7 +4077,8 @@
 "i": "",
 "d": "2026-11-22T12:01-03:00",
 "c": [
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "A股三大指数集体收涨，机器人概念股走强-36氪",
@@ -3734,7 +4086,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -3747,10 +4099,31 @@
 "i": "",
 "d": "2026-11-22T14:09-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "禾赛的第二增长曲线，瞄准的不仅仅是机器人",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 2,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "cdd31f87db6b93",
+"t": "Não espere pela Nvidia, as empresas de robótica fazem seus próprios núcleos",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4082171627328392",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-22T16:28-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "不等英伟达了，机器人公司自己造芯",
 "lg": "zh",
 "p": 2.5,
 "cr": 2,
@@ -4490,6 +4863,27 @@
 "cv": "Yonhap",
 "mx": 1,
 "rx": "(Seul = Yonhap News) Repórter Park Seong-jin = Embora armas letais autônomas, como 'robôs assassinos' baseados em inteligência artificial (IA), já estejam sendo usadas no campo de batalha, a comunidade internacional começou tardiamente a estabelecer normas internacionais para regulá-las. A AFP informou que 128 partes da Convenção das Nações Unidas sobre a Proibição de Certas Armas Convencionais (CCW) concordaram em começar a desenvolver padrões internacionais para regular os Sistemas de Armas Autônomas Letais (LAWS) durante os próximos dois anos, após uma reunião de revisão de cinco dias da CCW realizada em Genebra, Suíça, no dia 21 (hora local). Sistemas de armas letais autônomos são sistemas de armas que podem identificar, selecionar e atacar alvos sem intervenção humana. Grupos que fazem campanha para proibir robôs assassinos criticaram o acordo, dizendo que ficou muito aquém das expectativas.\nA coligação Stop Killer Robots (SKR) observou que “os países tomaram decisões relaxadas que não mostram um caminho claro para um acordo juridicamente vinculativo”. “A tecnologia de armas autônomas já está sendo usada no campo de batalha, incluindo o uso de IA para seleção de alvos”, disse a secretária-geral do SKR, Nicole van Roen. “Se houver um atraso no estabelecimento de normas juridicamente vinculativas, os civis e a humanidade estarão em risco.” Em Abril deste ano, os militares ucranianos ocuparam posições militares russas na sua frente oriental, utilizando apenas robôs assassinos e drones, sem mobilizar tropas."
+},
+{
+"id": "3f68c4c8cb9f3e",
+"t": "Drones especializados, novembro de 2026 — Fotografia e treinamento",
+"r": "A cobertura especializada de drones agrupa conteúdo organizado em torno de uma habilidade, um parceiro de treinamento ou um criador específico, em vez de um país, fabricante ou categoria de notícias, porque esse conteúdo precisa de um local próprio para permanecer encontrável. O conteúdo do Pilot Institute cobre…",
+"u": "https://dronexl.co/specialist/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://dronexl.co/assets/favicon.png",
+"d": "2026-11-21T05:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Specialist Drones, November 2026 — Photography and Training",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A cobertura especializada de drones agrupa conteúdo organizado em torno de uma habilidade, um parceiro de treinamento ou um criador específico, em vez de um país, fabricante ou categoria de notícias, porque esse conteúdo precisa de um local próprio para permanecer encontrável. O conteúdo do Pilot Institute cobre diretamente o parceiro de treinamento Parte 107 do DroneXL: cursos, orientações de licenciamento e cobertura de descontos mantidos separados das notícias regulatórias gerais da FAA.\nTestes de equipamentos de fotografia aérea, material de treinamento Parte 107 do Pilot Institute e cobertura de show de luzes de drones estão todos aqui porque não cabem em uma mesa geográfica ou de fabricante. O Pilot Institute é parceiro de treinamento Parte 107 do DroneXL, e o conteúdo desta mesa cobre seus cursos, descontos e orientações de licenciamento de drones diretamente, distintos das notícias regulatórias gerais da FAA abordadas na mesa do governo."
 },
 {
 "id": "84f773e4cb69ad",
@@ -15767,7 +16161,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -20837,7 +21231,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "No processo de atualização da indústria para tecnologia de ponta, os recursos de design integrados de lentes e módulos ópticos determinam diretamente o limite superior de desempenho e a eficiência de implementação do sistema de visão. Qual fornecedor de soluções integradas para lentes e módulos ópticos de visão de máquina é o melhor também se tornou uma questão central na seleção downstream e no desenvolvimento da indústria. A OFILM está no campo da visão mecânica há muito tempo. Já em 2017, entrou na pista com reservas de tecnologia de detecção 3D. Após anos de iteração tecnológica, construiu uma capacidade integrada completa que abrange lentes ópticas, hardware de detecção e algoritmos de suporte.\nNo geral, à medida que a indústria de visão mecânica se atualiza para tecnologia de ponta e inteligência, o valor industrial da integração de lentes e módulos ópticos continuará a ser destacado."
 },
 {
@@ -23580,27 +23974,6 @@
 "rx": "Pelo segundo dia consecutivo, a Ucrânia atingiu a ponte que liga a península da Crimeia anexada pela Rússia ao território russo. Sergei Aksyonov, o governador da Crimeia nomeado pela Rússia, divulgou isso há pouco no Telegram. «O inimigo atacou novamente a ponte da Crimeia. As forças armadas ucranianas divulgaram um vídeo da câmera a bordo do drone Flamingo que atingiu a ponte e que, segundo relatos iniciais, causou a queda de um dos arcos. Outro vídeo mostra o momento em que o drone atinge a ponte, praticamente sem resposta da antiaérea russa.\nOs destaques do vídeo de Cobolli-Medvedev: trocas espetaculares em Torino, mas o russo faz a partida perfeita A ponte da Crimeia atingida por um drone ucraniano: o vídeo feito pela câmera a bordo"
 },
 {
-"id": "fbee1eacc18900",
-"t": "Eletromobilidade: esta e-bike robótica deve dirigir sozinha até seu destino",
-"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
-"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-dieses-roboter-e-bike-soll-selbststaendig-ans-ziel-fahren/100266914.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-17T04:40-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Elektromobilität: Dieses Roboter-E-Bike soll selbstständig ans Ziel fahren",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
-},
-{
 "id": "7e8ec33ab353d7",
 "t": "Kumar promove peças padrão de drones para reduzir a dependência de importações",
 "r": "O secretário de Produção de Defesa, Sanjeev Kumar, pediu padronização e autossuficiência na fabricação de drones na Índia em uma cúpula de segurança em Delhi. Ele disse que peças comuns, cargas úteis e sensores locais e encomendas maiores das forças armadas poderiam fortalecer a indústria. Kumar também vinculou os…",
@@ -24873,6 +25246,27 @@
 "rx": "(Seul = Yonhap News) O repórter Jeong Joon-young = Seul Gangnam-gu (prefeito do distrito Kim Hyun-ki) anunciou no dia 18 que está conduzindo um projeto de banco de testes de robôs para verificar a possibilidade de robôs serem usados ​​​​no patrulhamento de parques, distribuição de refeitórios para idosos e purificação de ar em instalações públicas. O distrito tem fornecido espaço de demonstração de robôs para empresas por meio de concurso público desde 2024. Atualmente, robôs de serviço, robôs de purificação de ar e robôs vestíveis estão em operação, e robôs de patrulha também serão operados neste e no próximo mês. Um robô de patrulha autônomo da Newability será implantado na área de 735 Yeongdong-daero este mês. Um robô de patrulha externa Guardian AI será operado no Dosan Park em meados do próximo mês. Anteriormente, o Restaurante para Idosos do Centro de Bem-Estar Comunitário de Suseo implantou um robô de atendimento da RGT para ajudar na distribuição e retirada na hora do almoço. Três robôs de bem-estar de IA da SK Intellix foram implantados na Biblioteca Motgol, nos Arquivos Gangnam-gu e no Centro de Saúde Pública de Gangnam-gu."
 },
 {
+"id": "88835009e02e6f",
+"t": "[Market Live] KOSPI recupera 5.000 pontos… Os estoques de semicondutores e robôs estão fortes, os estoques de biograndes estão fracos.",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação…",
+"u": "https://www.hankyung.com/article/202611183456i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46461274.1.jpg",
+"d": "2026-11-17T20:15-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[마켓라이브] 코스피 5000선 탈환…반도체·로봇주 강세, 바이오 대형주 약세",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
+},
+{
 "id": "f9cb27d84898e1",
 "t": "Um drone agrícola de Indiana supostamente perdeu o controle e atingiu o braço de Lonnie Howard durante uma pulverização agrícola em 2024.",
 "r": "Uma operação de pulverização de culturas em uma fazenda em Indiana se transformou em uma disputa legal depois que um drone agrícola supostamente atingiu Lonnie Howard no braço, deixando-o com ferimentos graves. O incidente levantou questões sobre quem poderia ser responsabilizado quando um equipamento operado por uma…",
@@ -25798,6 +26192,27 @@
 "mx": 3
 },
 {
+"id": "fbee1eacc18900",
+"t": "Eletromobilidade: esta e-bike robótica deve dirigir sozinha até seu destino",
+"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
+"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-dieses-roboter-e-bike-soll-selbststaendig-ans-ziel-fahren/100266914.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-17T04:40-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Elektromobilität: Dieses Roboter-E-Bike soll selbstständig ans Ziel fahren",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
+},
+{
 "id": "079940cd4a5ebd",
 "t": "Amazon pediu a Nampa para não compartilhar seu contato com drones, afirma autoridade municipal",
 "r": "Nampa, o diretor de planejamento de Idaho, disse a um residente por escrito que o contato de reclamação que a Amazon deve fornecer sob sua licença de drone Prime Air é para a cidade e não para o público, e que a Amazon pediu à cidade que não o divulgasse e, em vez disso, encaminhasse as reclamações dos residentes para…",
@@ -26434,7 +26849,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Nikkei Asia",
-"mx": 1
+"mx": 2
 },
 {
 "id": "ed0493cd2d17dc",
@@ -43395,7 +43810,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -49284,7 +49699,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -51777,27 +52192,6 @@
 "rx": "A Autoridade de Aviação Civil do Reino Unido concedeu à Amazon Prime Air uma autorização de operação SAIL 4 e validação de capacidade de voo para seus drones MK30 em Darlington, County Durham. A redação da Amazon no Reino Unido anunciou isso em 10 de novembro, três dias depois que o vice-presidente da Prime Air, David Carbon, o considerou uma novidade global no LinkedIn. A Amazon afirma que a aprovação permite que a Prime Air voe sobre partes mais densamente povoadas da área e aumente as famílias elegíveis de cerca de 600 para cerca de 8.000.\nA Amazon ainda limita o Prime Air a residências num raio de 12 km do centro de distribuição de Darlington, o mesmo raio em que foi lançado. O anúncio da Amazon chama o SAIL 4 de risco médio a alto, o nível em que a CAA espera que um operador demonstre sérias garantias de segurança técnica e organizacional."
 },
 {
-"id": "219395bd4f457a",
-"t": "Eletromobilidade: Nova start-up Veluto desenvolve e-bike robótica autônoma",
-"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
-"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-neues-start-up-veluto-entwickelt-autonomes-roboter-e-rad-01/100266914.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-11T21:28-03:00",
-"c": [
-"autonomos"
-],
-"l": 0,
-"to": "Elektromobilität: Neues Start-up Veluto entwickelt autonomes Roboter-E-Rad",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
-},
-{
 "id": "b39d9196c11fea",
 "t": "ESTUN Robotics integra software de simulação RoboDK para acelerar a expansão europeia",
 "r": "ESTUN Robotics e RoboDK formalizaram uma Parceria Estratégica para impulsionar a integração de suas tecnologias e facilitar o desenvolvimento, simulação e programação de aplicações robóticas industriais. O acordo reúne a ESTUN Robotics, maior fabricante de robôs industriais da China, e a RoboDK, empresa especializada…",
@@ -52748,6 +53142,27 @@
 "cv": "DroneXL",
 "mx": 9,
 "rx": "O local de entrega de drones da Amazon em Markham, Illinois, atingiu geralmente seu máximo de 300 pedidos por dia desde que os voos começaram em 12 de outubro, disse o gerente de desenvolvimento econômico da Amazon, Sam Bailey, durante uma cerimônia de inauguração no armazém na terça-feira, 10 de novembro. O prefeito de Homewood, Rich Hofeld, disse ao Chicago Tribune's Daily Southtown que sua vila não recebeu nenhum aviso ou comunicação da Amazon antes do início do serviço.\nEm março, a Amazon disse ao conselho de Richardson, Texas, que seu hub ali atendia cerca de 150 pedidos por dia, contra os 1.000 permitidos pela aprovação da FAA, conforme relatado pelo DroneXL. Fontes: Chicago Tribune / Daily Southtown, FAA Draft Environmental Assessment, Amazon Prime Air, Chicago, julho de 2026 (PDF), FAA Apêndice A, Agência e Divulgação Pública (PDF), FAA Apêndice E, Relatório Técnico de Ruído (PDF), FAA índice de revisão ambiental de drones, 620 ILCS 5/42.1."
+},
+{
+"id": "219395bd4f457a",
+"t": "Eletromobilidade: Nova start-up Veluto desenvolve e-bike robótica autônoma",
+"r": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está…",
+"u": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-neues-start-up-veluto-entwickelt-autonomes-roboter-e-rad-01/100266914.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-11T21:28-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Elektromobilität: Neues Start-up Veluto entwickelt autonomes Roboter-E-Rad",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
 },
 {
 "id": "cf7edac11dcbd2",
@@ -65372,7 +65787,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -65401,7 +65816,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
