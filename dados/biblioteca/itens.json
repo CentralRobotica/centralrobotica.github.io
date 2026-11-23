@@ -1,5 +1,81 @@
 [
 {
+"id": "f87b8cd70ce365",
+"u": "https://www.popsci.com/technology/volcanic-rock-discovery-maraiana-trench/",
+"f": "Popular Science",
+"tipo": "revista",
+"pais": "EUA",
+"d": "2026-11-23T02:00-03:00",
+"i": "https://www.popsci.com/wp-content/uploads/2026/11/volcanic-rock-lead.png?quality=85",
+"to": "Mysterious volcanic rock discovered in the Mariana Trench",
+"ro": "An over 30-year-old robot submarine finds evidence of the world's deepest volcanic eruption.",
+"t": "Rocha vulcânica misteriosa descoberta na Fossa das Marianas",
+"r": "Um submarino robô com mais de 30 anos encontra evidências da erupção vulcânica mais profunda do mundo.",
+"lg": "en",
+"c": [
+"subaquaticos"
+]
+},
+{
+"id": "85bad20e93109c",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1953392",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-22T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "State-dependent action masking in tabular reinforcement learning: analytical and stochastic evaluation motivated by surgical robotics",
+"ro": "Reinforcement learning (RL) has considerable potential to increase autonomy in surgical robotics, but its deployment in safety-critical settings requires mechanisms for restricting actions that violate specified safety rules. We study a tabular reinforcement learning formulation in which action selection and Bellman…",
+"t": "Mascaramento de ação dependente de estado na aprendizagem por reforço tabular: avaliação analítica e estocástica motivada por robótica cirúrgica",
+"r": "A aprendizagem por reforço (RL) tem um potencial considerável para aumentar a autonomia na robótica cirúrgica, mas a sua implantação em ambientes críticos de segurança requer mecanismos para restringir ações que violem regras de segurança específicas. Estudamos uma formulação tabular de aprendizagem por reforço em que seleção de ações e Bellman…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia",
+"medicina"
+]
+},
+{
+"id": "fd9ea6ca7aa313",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1968037",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-22T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Teachy mini: a knowledge-based generative social robot for responsible tutoring in higher education",
+"ro": "IntroductionGenerative social robots (GSRs) powered by large language models offer new possibilities for personalized tutoring in higher education, but also introduce risks related to misinformation, missing transparency, or reinforcing incorrect student responses. Prior work identified knowledge-based design (KBD)…",
+"t": "Teachy mini: um robô social generativo baseado em conhecimento para tutoria responsável no ensino superior",
+"r": "IntroduçãoOs robôs sociais geradores (GSRs) alimentados por grandes modelos de linguagem oferecem novas possibilidades de tutoria personalizada no ensino superior, mas também introduzem riscos relacionados com a desinformação, a falta de transparência ou o reforço de respostas incorretas dos alunos. Trabalhos anteriores identificaram design baseado em conhecimento (KBD)…",
+"lg": "en",
+"mx": 1,
+"c": [
+"companhia",
+"educacao"
+]
+},
+{
+"id": "2b3dc349d873a6",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1973389",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-22T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Adding navigation layers does not monotonically improve safety: a simulation ablation with scripted and recorded pedestrians",
+"ro": "Navigation stacks are usually built by adding layers, assuming each makes the robot safer. We tested it in a deterministic 2D simulation of an indoor robot with a five-level cumulative stack: a geometric planner (L0); a fixed room prior for choosing the goal (L1); LiDAR steering, speed limits, and a stop rule (L2)…",
+"t": "Adicionar camadas de navegação não melhora monotonicamente a segurança: uma ablação de simulação com pedestres programados e registrados",
+"r": "As pilhas de navegação geralmente são construídas adicionando camadas, assumindo que cada uma torna o robô mais seguro. Nós o testamos em uma simulação 2D determinística de um robô interno com uma pilha cumulativa de cinco níveis: um planejador geométrico (L0); uma sala fixa prévia para escolha do objetivo (L1); Direção LiDAR, limites de velocidade e regra de parada (L2)…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia"
+]
+},
+{
 "id": "96bdad40bb1ba3",
 "u": "https://www.popularmechanics.com/home/a18672103/best-vacuums/",
 "f": "Popular Mechanics",

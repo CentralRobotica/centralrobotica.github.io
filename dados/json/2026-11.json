@@ -1,6 +1,36 @@
 {
 "2026-11-23": [
 {
+"id": "35847ab66ce426",
+"t": "A 11ª Competição de Robôs TEL foi concluída com sucesso, a Universidade de Ciência e Tecnologia de Kunshan venceu o campeonato para mostrar sua força de inovação em IA",
+"r": "A 11ª \"Competição TEL Robot Combat Tokyo Power Robot\", organizada pela TEL Taiwan, um fabricante de equipamentos de fabricação de semicondutores de renome mundial, foi concluída com sucesso na Kaohsiung Pier 2 Art Zone. Esta competição reúne equipes de destaque de várias faculdades e universidades de Taiwan para…",
+"u": "https://udn.com/news/story/7240/9896153",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35544775.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+"d": "2026-11-23T01:52-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "第11屆TEL機器人大賽圓滿落幕 崑山科大勇奪冠軍展現AI創新實力",
+"lg": "en",
+"p": 6.3,
+"o": [
+{
+"f": "經濟日報",
+"u": "https://money.udn.com/money/story/5648/9896229?from=edn_related_storybottom",
+"s": "money.udn.com",
+"id": "dcc208f49a9257"
+}
+],
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "A 11ª \"Competição TEL Robot Combat Tokyo Power Robot\", organizada pela TEL Taiwan, um fabricante de equipamentos de fabricação de semicondutores de renome mundial, foi concluída com sucesso na Kaohsiung Pier 2 Art Zone. Esta competição reúne equipes de destaque de várias faculdades e universidades de Taiwan para competir no mesmo campo. Os alunos usam tecnologias como design mecânico, controle de programa, inteligência artificial e integração de sistemas para construir um robô lançador de beisebol com capacidades criativas e práticas, demonstrando plenamente o potencial inovador da juventude taiwanesa nas áreas de tecnologia e engenharia.\nA fim de aprofundar o cultivo de talentos científicos e tecnológicos, a TEL Taiwan convidou três poderosas equipes de ensino médio - Ankang High School, Mingdao Middle School e Nanke Shi Middle School - para participar pela primeira vez na competição de intercâmbio para competir com equipes universitárias para promover intercâmbios entre gerações e herança de experiência."
+},
+{
 "id": "32295f7478a094",
 "t": "IL assina acordo de fornecimento exclusivo com a Robot Hand Unicorn da China... Entrou no negócio de peças humanóides",
 "r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Encontrando a pequena empresa certa para mim com IA... 'Festa de Emprego de Simpatia Juvenil' de Busan A Federação Coreana de Pequenas e Médias Empresas realizou um programa de emprego direcionado a estudantes universitários e…",
@@ -10,7 +40,8 @@
 "i": "https://img.hankyung.com/photo/202611/01.46516469.1.jpg",
 "d": "2026-11-23T01:19-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"educacao"
 ],
 "l": 0,
 "to": "아이엘, 中 로봇핸드 유니콘과 독점 공급계약…휴머노이드 부품사업 진출",
@@ -20,6 +51,50 @@
 "cv": "Korea Economic Daily",
 "mx": 1,
 "rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Encontrando a pequena empresa certa para mim com IA... 'Festa de Emprego de Simpatia Juvenil' de Busan A Federação Coreana de Pequenas e Médias Empresas realizou um programa de emprego direcionado a estudantes universitários e candidatos a emprego em Busan para encontrar pequenas e médias empresas adequadas para eles usando inteligência artificial (IA). A Federação Coreana de PMEs realizou a 'Festa do Youth Sympathy Job (JOB) i...' no dia 20 no salão de negócios da Câmara de Comércio e Indústria de Busan. A BH, conhecida no mercado como empresa especializada em placas de circuito impresso flexíveis (FPCB) para smartphones, está utilizando servidores de inteligência artificial (IA) e robôs humanóides. Eles anunciaram que expandirão seu escopo de negócios para o mercado de placas de circuito impresso (PCB) de ponta. ASICLAND, uma empresa de design de semicondutores, ganhou um contrato para produzir em massa controladores de memória de alto desempenho no valor de US$ 10,47 milhões. À medida que o mercado de data centers de inteligência artificial (IA) cresce, a demanda por semicondutores de sistema que melhoram a velocidade de processamento de dados e a eficiência energética aumentou..."
+},
+{
+"id": "622fad3efbe23b",
+"t": "Visões do Japão invadido por importações de robôs humanóides inspiram startups",
+"r": "O país está atrasado no desenvolvimento de máquinas bípedes que possam realizar tarefas úteis.",
+"u": "https://www.japantimes.co.jp/business/2026/11/23/tech/humanoid-japan-startups/",
+"f": "The Japan Times",
+"s": "japantimes.co.jp",
+"i": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575256.jpg?v=3.1",
+"d": "2026-11-23T02:18-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "Visions of Japan overrun by humanoid robot imports inspire startups",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "The Japan Times",
+"mx": 1,
+"rx": "O país está atrasado no desenvolvimento de máquinas bípedes que possam realizar tarefas úteis."
+},
+{
+"id": "889ca332755ce5",
+"t": "Milão, o mau tempo não impediu a Meia Maratona de 20.000 metros, mas o tão esperado robô humanóide D1 Flash retirou-se",
+"r": "Era para ser a grande atração futurista: a estreia absoluta fora da Ásia do Honor Robot D1 Flash, pronto para correr no asfalto ao lado dos atletas. Era para ser a grande atração futurística da Meia Maratona Powerade Milano: a estreia absoluta fora da Ásia do Honor Robot D1 Flash, pronto para correr no asfalto ao lado…",
+"u": "https://milano.corriere.it/notizie/cronaca/26_novembre_23/milano-il-maltempo-non-ha-fermato-i-20-mila-della-half-marathon-ma-l-atteso-robot-umanoide-d1-flash-ha-dato-forfait-9eaf9fa7-4fd4-43fa-b684-bbcf20b0axlk.shtml",
+"f": "Corriere Milano",
+"s": "milano.corriere.it",
+"i": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/11/22/6b031f8a92f52.jpeg",
+"d": "2026-11-23T03:00-03:00",
+"c": [
+"humanoides",
+"competicoes"
+],
+"l": 0,
+"to": "Milano, il maltempo non ha fermato i 20 mila della Half Marathon ma l'atteso robot umanoide D1 Flash ha dato forfait",
+"lg": "it",
+"p": 5.6,
+"cr": 3,
+"cv": "Corriere della Sera",
+"mx": 1,
+"rx": "Era para ser a grande atração futurista: a estreia absoluta fora da Ásia do Honor Robot D1 Flash, pronto para correr no asfalto ao lado dos atletas. Era para ser a grande atração futurística da Meia Maratona Powerade Milano: a estreia absoluta fora da Ásia do Honor Robot D1 Flash, pronto para correr no asfalto ao lado dos atletas. Diante do mau tempo, porém, o humanóide levantou a bandeira branca por precaução, limitando sua presença – junto com seu colega A1 Vita Boy – a momentos no palco, selfies e cerimônias de premiação. A nível competitivo, a meia maratona masculina viu o ugandense Titus Musau triunfar em 1,01'31\", à frente do burundeso Thyerri Irakoze (1,01'34\") e do finlandês Tuomas Heikkilä (1,01'41\").\nCaso contrário, clique em \"Continue lendo aqui\" e certifique-se de que você é a única pessoa que visualiza o Corriere.it com esta conta."
 },
 {
 "id": "5c7a6a4c745e52",
@@ -43,26 +118,197 @@
 "rx": "Um robô cujo catálogo diz que tem uma capacidade de carga útil de 10kg não significa necessariamente que possa transportar uma peça de trabalho de 10kg. Isso porque em muitas especificações esse valor inclui a massa de ferramentas como as mãos. A massa da carga útil é a massa que pode ser fixada ao flange na ponta do pulso do robô e operada.\nPor exemplo, se uma mão de 3kg for anexada a um robô com uma carga útil de 10kg, até 7kg poderão ser alocados à peça de trabalho. O blog ``From a Corner of the FA/Robot Industry'' também explica que a carga útil é compartilhada entre a mão e a peça de trabalho."
 },
 {
-"id": "22261ec066e013",
-"t": "Fairy Devices fará uma exposição conjunta com AVITA e Booster Robotics no \"RoboNext 2026\"",
-"r": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software…",
-"u": "https://ascii.jp/elem/000/004/453/4453927/",
-"f": "ASCII.jp",
-"s": "ascii.jp",
-"i": "",
-"d": "2026-11-23T00:00-03:00",
+"id": "0ac87fd6d02e3b",
+"t": "PEI. agricultores se reúnem para aprender mais sobre tecnologia drone",
+"r": "PEI. os agricultores estão a explorar a utilização de drones para ajudar a apoiar as suas colheitas, ao mesmo tempo que poupam potencialmente tempo e dinheiro.",
+"u": "https://www.ctvnews.ca/video/2026/11/23/pei-farmers-gather-to-learn-more-about-drone-tech/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-23-2026%2Ft_6b21ea047dfd46f1bcfd7fe973a33e10_name_NAT112226_SARROUH.jpg?smart=true&auth=eeb8f61f4284c431a9decc231978df7620bb9a410fdcc07af97310dca602fd62&width=1200&height=630",
+"d": "2026-11-23T00:33-03:00",
 "c": [
-"competicoes",
-"ia"
+"drones",
+"agricolas"
 ],
 "l": 0,
-"to": "Fairy Devices、「RoboNext 2026」にAVITA・Booster Roboticsと共同出展",
-"lg": "ja",
-"p": 3.5,
+"to": "P.E.I. farmers gather to learn more about drone tech",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "PEI. os agricultores estão a explorar a utilização de drones para ajudar a apoiar as suas colheitas, ao mesmo tempo que poupam potencialmente tempo e dinheiro."
+},
+{
+"id": "125cd6acbd0a6f",
+"t": "A Semana em Imagens: Líderes mundiais se reúnem na APEC, manifestações na França e na Colômbia, dança em massa de robôs",
+"r": "Líderes mundiais e robôs humanóides reúnem-se em Shenzhen, na China, para a cimeira da APEC, enquanto as manifestações em França continuam pela sexta semana, enquanto as pessoas protestam contra o aumento do custo de vida e a desigualdade. Kim Kardashian é vista no Grande Prêmio de Fórmula 1 de Las Vegas e o nadador…",
+"u": "https://www.straitstimes.com/multimedia/the-week-in-pictures-world-leaders-meet-at-apec-demonstrations-in-france-and-colombia-robot-mass",
+"f": "The Straits Times",
+"s": "straitstimes.com",
+"i": "https://cassette.sphdigital.com.sg/image/straitstimes/bb82c60d615e35549b1a31f16a4afbd5d24ef67547c862ffcb2555965f6011b2?t=og",
+"d": "2026-11-23T01:34-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "The Week in Pictures: World leaders meet at APEC, demonstrations in France and Colombia, robot mass dance",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Straits Times",
+"mx": 1,
+"rx": "Líderes mundiais e robôs humanóides reúnem-se em Shenzhen, na China, para a cimeira da APEC, enquanto as manifestações em França continuam pela sexta semana, enquanto as pessoas protestam contra o aumento do custo de vida e a desigualdade. Kim Kardashian é vista no Grande Prêmio de Fórmula 1 de Las Vegas e o nadador de resistência britânico Lewis Pugh enfrenta o Estreito de Ormuz para destacar as “devastadoras consequências ambientais da guerra” – estas e mais fotos de todo o mundo na seleção desta semana.\nUm manifestante tropeçando próximo a barreiras metálicas de segurança enquanto era atingido por um canhão de água durante confrontos entre manifestantes e a polícia durante um protesto nacional contra as políticas econômicas do presidente colombiano Abelardo de la Espriella e propostas de reformas fiscais, em Bogotá, Colômbia, em 19 de novembro."
+},
+{
+"id": "9d7200818382a2",
+"t": "WiPowerOne expande negócios de carregamento sem fio para robotáxis e robôs móveis autônomos",
+"r": "As taxas de juro sobem mesmo que o mercado de acções flutue... Membro Hawkish que quer gerir o “controlo de preços” e a “estabilidade financeira” separadamente [Sim Seong-mi’s Central Bank Watch] Embora o mercado global de activos esteja muito abalado, o mercado ainda vê uma grande possibilidade de que o Banco Central…",
+"u": "https://www.hankyung.com/article/202611200452O",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46516759.1.jpg",
+"d": "2026-11-23T01:58-03:00",
+"c": [
+"autonomos",
+"logistica"
+],
+"l": 0,
+"to": "와이파워원, 로보택시·자율이동로봇용 무선충전 사업 확대",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "As taxas de juro sobem mesmo que o mercado de acções flutue... Membro Hawkish que quer gerir o “controlo de preços” e a “estabilidade financeira” separadamente [Sim Seong-mi’s Central Bank Watch] Embora o mercado global de activos esteja muito abalado, o mercado ainda vê uma grande possibilidade de que o Banco Central dos EUA (Fed) aumente a taxa de juro base em Dezembro. Mesmo com todas as ações relacionadas à IA tremendo muito, o Fed acredita que a função do mercado é... O livro 'Brain Axel' do falecido Jinwoo Lee, conhecido por ter uma pontuação perfeita no Teste de Equação Legal (LEET), foi colocado à venda no mercado de usados ​​por até 1 milhão de won. É cerca de 45 vezes o preço normal de 22.000 won. Na plataforma de negociação de segunda mão Cenoura no dia 23... “Mesmo se vendermos bem na Coreia, não seriam 400 bilhões de won?… Vamos para o exterior.” A decisão do proprietário da segunda geração que criou uma ‘empresa de 1 trilhão de won’ “Não importa quão bem a vendamos na Coreia, será apenas uma empresa de 400 bilhões de won”. Em 2004, o CEO da Kyungdong Navien, Son Yeon-ho, fez um anúncio inesperado na frente de seus funcionários. Eu trouxe a história."
+},
+{
+"id": "2f5d009fbbb9b3",
+"t": "Especialistas da NASA desenvolvem um robô para explorar as áreas mais profundas e remotas do oceano",
+"r": "A Woods Hole Oceanographic Institution (WHOI) e o Jet Propulsion Laboratory (JPL) da NASA desenvolveram o Deep Venture, um veículo subaquático autônomo projetado para estudar o oceano desde áreas costeiras rasas até seus pontos mais profundos. “O Deep Venture pode ser implantado por uma pequena equipe de uma ampla…",
+"u": "https://www.infobae.com/america/ciencia-america/2026/11/23/expertos-de-la-nasa-desarrollan-un-robot-para-explorar-las-zonas-mas-profundas-y-remotas-del-oceano/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/WYIZUWIGAVDCBAHNZG5AG3RHWI.png?auth=e90f77ac19fb82bb2a97adfbc02f49e96df9394e0790566d88de084577afec6a&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-23T02:00-03:00",
+"c": [
+"espaco",
+"subaquaticos"
+],
+"l": 0,
+"to": "Expertos de la NASA desarrollan un robot para explorar las zonas más profundas y remotas del océano",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "A Woods Hole Oceanographic Institution (WHOI) e o Jet Propulsion Laboratory (JPL) da NASA desenvolveram o Deep Venture, um veículo subaquático autônomo projetado para estudar o oceano desde áreas costeiras rasas até seus pontos mais profundos. “O Deep Venture pode ser implantado por uma pequena equipe de uma ampla variedade de embarcações e pode operar de forma autônoma e sem restrições após a implantação”, afirmou.\n“Ao explorar uma área com antecedência, um veículo subaquático autônomo como o Deep Venture pode fornecer aos pesquisadores informações para ajudá-los a determinar onde e como implantar outros veículos como o Alvin”, disse ele. Deep Venture surge do programa de pesquisa hadal da colaboração entre WHOI e JPL."
+},
+{
+"id": "2325c2d283967e",
+"t": "Lidl elimina a concorrência: o robô Monsieur Cuisine perde 150€ na Black Friday",
+"r": "O Monsieur Cuisine Smart pode esgotar a qualquer momento. O site do Lidl foi assumido desde o anúncio desta promoção completamente maluca, que permite encomendar o famoso processador de alimentos por menos de 400 euros. Já faz muito tempo que o Lidl não vendia a sua Monsieur Cuisine a um preço tão baixo. A partir do…",
+"u": "https://www.lefigaro.fr/bons-plans/maison/lidl-assomme-la-concurrence-le-robot-monsieur-cuisine-perd-150-pour-le-black-friday-20261123",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/20/9662188eb84a7b05dec4ef4ae637ba490ab259c2e66450924441424c76d8552f.jpg",
+"d": "2026-11-23T02:18-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Lidl assomme la concurrence : Le robot Monsieur Cuisine perd 150 € pour le Black Friday",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "O Monsieur Cuisine Smart pode esgotar a qualquer momento. O site do Lidl foi assumido desde o anúncio desta promoção completamente maluca, que permite encomendar o famoso processador de alimentos por menos de 400 euros. Já faz muito tempo que o Lidl não vendia a sua Monsieur Cuisine a um preço tão baixo. A partir do momento em que este robô chega à cozinha, preparar as refeições torna-se um prazer. A versão Monsieur Cuisine Smart in Black Edition está disponível por 399 euros no Lidl, em vez de 549 euros.\nComo o próprio nome sugere, o Monsieur Cuisine Smart é um robô de cozinha inteligente. O Monsieur Cuisine Smart está equipado com uma tigela (capacidade útil 3 L), dimensionada para uma família pequena."
+},
+{
+"id": "c2fcb93df2d261",
+"t": "Sinergia entre ‘terapeuta humano’ e ‘robô de assistência à caminhada’… Reabilitação eficaz de pacientes com AVC",
+"r": "<Editar Nota> Hoje em dia é importante ter ‘equipamentos’ em tudo. O ‘equipamento’ é essencial para o diagnóstico, tratamento e gestão de doenças. Em meio a essa tendência, vários dispositivos médicos, incluindo dispositivos médicos digitais e medicina eletrônica...",
+"u": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112301643.html",
+"f": "헬스조선",
+"s": "health.chosun.com",
+"i": "https://health.chosun.com/site/data/img_dir/2026/11/23/2026112301640_0.jpg",
+"d": "2026-11-23T02:19-03:00",
+"c": [
+"medicina",
+"exoesqueletos"
+],
+"l": 0,
+"to": "‘인간 치료사’와 ‘보행 보조 로봇’ 시너지… 뇌졸중 환자 효과적 재활",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "<Editar Nota> Hoje em dia é importante ter ‘equipamentos’ em tudo. O ‘equipamento’ é essencial para o diagnóstico, tratamento e gestão de doenças. Em meio a essa tendência, vários dispositivos médicos, incluindo dispositivos médicos digitais e medicina eletrônica..."
+},
+{
+"id": "5b4f925bcabf62",
+"t": "Submarino robô explorando a fossa oceânica mais profunda do mundo encontra atividade vulcânica sem precedentes",
+"r": "O submarino robótico de águas profundas Jason/Medea descobre evidências da erupção vulcânica explosiva mais profunda do mundo perto do fundo da Fossa das Marianas, no Pacífico Ocidental, conforme relatado por especialistas da Universidade do Texas em Dallas (Estados Unidos). A parte mais profunda deste abismo, a Fossa…",
+"u": "https://www.infobae.com/america/agencias/2026/11/23/un-submarino-robot-que-explora-la-fosa-oceanica-mas-profunda-del-mundo-encuentra-una-actividad-volcanica-sin-precedentes/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/JBY6L3N74VBJ3ISQG4F5KY53MU.jpg?auth=172366c0834dac17821ab6c3ed8b9226fc50ac42e00fa690b472a6c929ff134d&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-23T02:30-03:00",
+"c": [
+"subaquaticos"
+],
+"l": 0,
+"to": "Un submarino robot que explora la fosa oceánica más profunda del mundo encuentra una actividad volcánica sin precedentes",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "O submarino robótico de águas profundas Jason/Medea descobre evidências da erupção vulcânica explosiva mais profunda do mundo perto do fundo da Fossa das Marianas, no Pacífico Ocidental, conforme relatado por especialistas da Universidade do Texas em Dallas (Estados Unidos). A parte mais profunda deste abismo, a Fossa Challenger, está quase 11.000 metros abaixo do nível do mar e os investigadores tentavam perceber porque é que era tão profunda.\nAssim, os pesquisadores navegaram para a Fossa das Marianas no final de 2024 para implantar o veículo subaquático (ROV) operado remotamente Jason/Medea. Embora Jasão/Medéia não possam mergulhar mais fundo do que 6.500 metros abaixo do nível do mar, isso lhe permite coletar amostras da parede do poço."
+},
+{
+"id": "7658d7a8d3e2f4",
+"t": "Sescam incorporará cinco robôs para operações de cirurgia geral, urologia e ginecologia",
+"r": "O Serviço de Saúde de Castela-La Mancha (Sescam) iniciou o procedimento de aquisição de cinco sistemas de cirurgia robótica dos hospitais universitários de Toledo, Albacete, Ciudad Real, Guadalajara e Cuenca para realizar intervenções de cirurgia geral, urologia e ginecologia. Os primeiros sistemas de cirurgia…",
+"u": "https://www.abc.es/espana/castilla-la-mancha/sescam-incorporara-cinco-robots-operaciones-cirugia-general-20261119071501-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/19/36760481-U05858627068nZz-1200x630@diario_abc.jpg",
+"d": "2026-11-23T03:15-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "El Sescam incorporará cinco robots para operaciones de cirugía general, urología y ginecología",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 1,
+"rx": "O Serviço de Saúde de Castela-La Mancha (Sescam) iniciou o procedimento de aquisição de cinco sistemas de cirurgia robótica dos hospitais universitários de Toledo, Albacete, Ciudad Real, Guadalajara e Cuenca para realizar intervenções de cirurgia geral, urologia e ginecologia. Os primeiros sistemas de cirurgia robótica serão instalados no hospital universitário de Toledo e no hospital geral universitário de Albacete.\nA aquisição, instalação, comissionamento e manutenção dos cinco sistemas de cirurgia robótica foi licitada por 11 milhões de euros. A empresa vencedora deverá ainda fornecer os instrumentos descartáveis ​​necessários às primeiras 30 intervenções cirúrgicas em cada uma das três principais especialidades dos cinco hospitais."
+},
+{
+"id": "421c3206571e26",
+"t": "IL, celebra acordo de fornecimento doméstico exclusivo com Zynova da China para mãos robóticas",
+"r": "A IL, uma empresa de plataforma de dados de inteligência artificial física (IA), anunciou no dia 23 que assinou um contrato de fornecimento exclusivo coreano com a XYNOVA, uma empresa chinesa de peças centrais para robôs, e entrou no negócio de peças centrais humanóides. Através deste contrato, a IL garantiu direitos…",
+"u": "https://www.etnews.com/20261123000273",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.795669ac3cb64cd29eac272f02a6cf36_P1.jpg",
+"d": "2026-11-23T01:16-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "아이엘, 中 자이노바와 로봇핸드 국내 독점 공급계약",
+"lg": "ko",
+"p": 4.3,
 "cr": 2,
-"cv": "ASCII.jp",
-"mx": 9,
-"rx": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software que convertem informações de campo em dados em um formato que pode ser aprendido por máquina. Nossa empresa fará uma exposição conjunta com a AVITA Corporation e a Booster Robotics para apresentar soluções que utilizam IA física."
+"cv": "ETNews",
+"mx": 1,
+"rx": "A IL, uma empresa de plataforma de dados de inteligência artificial física (IA), anunciou no dia 23 que assinou um contrato de fornecimento exclusivo coreano com a XYNOVA, uma empresa chinesa de peças centrais para robôs, e entrou no negócio de peças centrais humanóides. Através deste contrato, a IL garantiu direitos exclusivos de fornecimento doméstico para toda a linha de produtos de mãos robóticas e linha de produtos de atuadores de articulação humanóide da Zynova. Zynova é uma empresa especializada em peças centrais de robôs que foi fundada no final de 2024. Os investimentos foram atraídos de CATL, Xiaomi, JD.com, Meituan, etc., e em julho deste ano, o valor acumulado do investimento era de cerca de 1,5 bilhão de yuans. A IL planeja expandir o fornecimento de produtos para fabricantes nacionais de humanóides, empresas de integração de sistemas robóticos (SI) e empresas de automação industrial. A estratégia é expandir o negócio existente de fornecimento de humanóides 'ILbot' para o campo de peças principais. O presidente da IL, Song Seong-geun, disse: “Para que os humanóides realizem trabalhos precisos em locais industriais reais, a tecnologia manual robótica é a principal competitividade” e acrescentou: “Através deste contrato exclusivo, garantimos a competitividade no fornecimento de peças-chave e lançamos as bases para responder às diversas necessidades dos clientes domésticos”."
 },
 {
 "id": "2a5efb8710f38b",
@@ -86,25 +332,108 @@
 "rx": "A compra planejada do negócio de robótica da ABB pelo Grupo SoftBank enfrenta incertezas depois que os reguladores chineses levantaram preocupações de que dados confidenciais de robótica poderiam fluir para os EUA. O impasse destaca os desafios transfronteiriços que envolvem as transações de tecnologia..."
 },
 {
-"id": "421c3206571e26",
-"t": "IL, celebra acordo de fornecimento doméstico exclusivo com Zynova da China para mãos robóticas",
-"r": "A IL, uma empresa de plataforma de dados de inteligência artificial física (IA), anunciou no dia 23 que assinou um contrato de fornecimento exclusivo coreano com a XYNOVA, uma empresa chinesa de peças centrais para robôs, e entrou no negócio de peças centrais humanóides. Através deste contrato, a IL garantiu direitos…",
-"u": "https://www.etnews.com/20261123000273",
+"id": "888c9287f90c27",
+"t": "Tamanho do mercado de semicondutores de potência: 92 trilhões de won em 2031... IA e robôs impulsionam o crescimento",
+"r": "Prevê-se que o mercado de semicondutores de gestão de energia (PMIC), centrado em smartphones e eletrodomésticos, continuará a crescer a dois dígitos à medida que é reorganizado em torno da infraestrutura de inteligência artificial (IA). De acordo com um anúncio da empresa de pesquisa de mercado Yole Group no dia 23…",
+"u": "https://www.etnews.com/20261123000330",
 "f": "전자신문",
 "s": "etnews.com",
-"i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.795669ac3cb64cd29eac272f02a6cf36_P1.jpg",
-"d": "2026-11-23T01:16-03:00",
+"i": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.e3eff3054bd4485da5aff557e9931661_P1.jpg",
+"d": "2026-11-23T02:05-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "아이엘, 中 자이노바와 로봇핸드 국내 독점 공급계약",
+"to": "전력반도체 시장 규모, 2031년 92조원…AI·로봇이 성장 이끌어",
 "lg": "ko",
 "p": 3.5,
 "cr": 2,
 "cv": "ETNews",
 "mx": 1,
-"rx": "A IL, uma empresa de plataforma de dados de inteligência artificial física (IA), anunciou no dia 23 que assinou um contrato de fornecimento exclusivo coreano com a XYNOVA, uma empresa chinesa de peças centrais para robôs, e entrou no negócio de peças centrais humanóides. Através deste contrato, a IL garantiu direitos exclusivos de fornecimento doméstico para toda a linha de produtos de mãos robóticas e linha de produtos de atuadores de articulação humanóide da Zynova. Zynova é uma empresa especializada em peças centrais de robôs que foi fundada no final de 2024. Os investimentos foram atraídos de CATL, Xiaomi, JD.com, Meituan, etc., e em julho deste ano, o valor acumulado do investimento era de cerca de 1,5 bilhão de yuans. A IL planeja expandir o fornecimento de produtos para fabricantes nacionais de humanóides, empresas de integração de sistemas robóticos (SI) e empresas de automação industrial. A estratégia é expandir o negócio existente de fornecimento de humanóides 'ILbot' para o campo de peças principais. O presidente da IL, Song Seong-geun, disse: “Para que os humanóides realizem trabalhos precisos em locais industriais reais, a tecnologia manual robótica é a principal competitividade” e acrescentou: “Através deste contrato exclusivo, garantimos a competitividade no fornecimento de peças-chave e lançamos as bases para responder às diversas necessidades dos clientes domésticos”."
+"rx": "Prevê-se que o mercado de semicondutores de gestão de energia (PMIC), centrado em smartphones e eletrodomésticos, continuará a crescer a dois dígitos à medida que é reorganizado em torno da infraestrutura de inteligência artificial (IA). De acordo com um anúncio da empresa de pesquisa de mercado Yole Group no dia 23, espera-se que o mercado global de PMIC cresça a uma taxa média anual de 10%, de US$ 38,5 bilhões em 2025 para cerca de US$ 68 bilhões (cerca de 92 trilhões de won) em 2031. PMIC é um semicondutor que regula a tensão e a corrente dentro de dispositivos eletrônicos e fornece energia de forma eficiente. O Grupo Yole prevê que o mercado crescerá a uma taxa média anual de 19%, de US$ 6,4 bilhões em 2025 para cerca de US$ 18 bilhões em 2031. O mercado automotivo e de mobilidade deverá crescer para US$ 18,3 bilhões em 2031. O mercado industrial deverá ultrapassar US$ 16 bilhões em 2031, graças à disseminação de robôs industriais, de entrega e humanóides. “O PMIC não é mais um mercado limitado a dispositivos móveis”, disse Siran Zuo, pesquisador de mercado na divisão de eletrônica de potência do Grupo Yol. “A infraestrutura de IA, os veículos elétricos e, a longo prazo, a indústria robótica estão a criar um mercado mais diversificado e com utilização intensiva de tecnologia.”"
+},
+{
+"id": "2812cf3cf07a48",
+"t": "Aqui está o robô de pastelaria mais acessível em nossa comparação",
+"r": "O robô pasteleiro Kenwood Go tenta nos seduzir com o seu mini formato fácil de transportar, instalar ou armazenar. No entanto, não faz concessões nas suas qualidades e beneficia da experiência da Kenwood.",
+"u": "https://www.lesnumeriques.com/robot-patissier/voici-le-meilleur-robot-patissier-a-prix-abordable-de-notre-comparatif-n268285.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/23/230918/29fa090f-robot-patissier-kenwood-go-petit-format-et-petit-prix-pour-patisser-en-toutes-circonstances__1200_678__168-0-2115-1022_wtmk.webp",
+"d": "2026-11-23T03:11-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Voici le meilleur robot-pâtissier à prix abordable de notre comparatif",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "O robô pasteleiro Kenwood Go tenta nos seduzir com o seu mini formato fácil de transportar, instalar ou armazenar. No entanto, não faz concessões nas suas qualidades e beneficia da experiência da Kenwood."
+},
+{
+"id": "b85c1471f28c48",
+"t": "Estabelecimento de rede de cooperação avançada de suporte a robôs com KTR e KIRIA",
+"r": "O Korea Testing & Research Institute (KTR) está se unindo à Agência Coreana de Promoção da Indústria de Robôs (KIRIA) para fortalecer a competitividade da indústria de robôs de alta tecnologia. Apoiamos o estabelecimento de um campo nacional de testes de robôs e expandimos o escopo da cooperação, desde testes e…",
+"u": "https://www.etnews.com/20261123000399",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.ba09360f23e947c8a6ad93e98870ebff_P1.jpg",
+"d": "2026-11-23T03:11-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KTR, KIRIA와 첨단로봇 지원 협력망 구축",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1,
+"rx": "O Korea Testing & Research Institute (KTR) está se unindo à Agência Coreana de Promoção da Indústria de Robôs (KIRIA) para fortalecer a competitividade da indústria de robôs de alta tecnologia. Apoiamos o estabelecimento de um campo nacional de testes de robôs e expandimos o escopo da cooperação, desde testes e avaliação de produtos e peças de robôs acabados até pesquisa e desenvolvimento (P&D) e padronização. A KTR anunciou no dia 23 que assinou um acordo comercial de “cooperação mútua para construir uma rede conjunta para apoiar robôs avançados” na sede da KIRIA em Buk-gu, Daegu. Através deste acordo, as duas organizações cooperarão no projecto de construção de um campo nacional de testes de robôs e promoverão projectos avançados de apoio a robôs, incluindo a utilização conjunta de infra-estruturas relacionadas. Em particular, a KTR planeja apoiar a verificação de hardware, como o desempenho e a segurança de produtos robóticos acabados, e também verificar a adequação do projeto de software com base em padrões internacionais. Também buscaremos o planejamento conjunto de projetos nacionais de P&D e padronização na área de robôs avançados e cooperação técnica para aprimorar as capacidades tecnológicas de produtos e peças robóticas acabadas. Enquanto isso, a KTR foi designada como agência de testes certificada pela KOLAS na área de adequação de projeto de sistemas de controle de máquinas e robôs (ISO 13849-1, ISO 13849-2) e está fornecendo serviços de verificação de software relacionados."
+},
+{
+"id": "22261ec066e013",
+"t": "Fairy Devices fará uma exposição conjunta com AVITA e Booster Robotics no \"RoboNext 2026\"",
+"r": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software…",
+"u": "https://ascii.jp/elem/000/004/453/4453927/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "",
+"d": "2026-11-23T00:00-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "Fairy Devices、「RoboNext 2026」にAVITA・Booster Roboticsと共同出展",
+"lg": "ja",
+"p": 2.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 9,
+"rx": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software que convertem informações de campo em dados em um formato que pode ser aprendido por máquina. Nossa empresa fará uma exposição conjunta com a AVITA Corporation e a Booster Robotics para apresentar soluções que utilizam IA física."
+},
+{
+"id": "ce168a64184a96",
+"t": "Este aspirador robô Roborock cai abaixo de € 800 na Black Friday 2026",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUEQ3a3dYT1hDTDFicjVWMHpqRHpWcnZ3dTFoalQ0WUNSZnh6NHVSb3ZlcEZLRmsyRXNVSGl1VFNDZVNVX3BpNWQzQl9tVXYweXRhZWdaeHZ4dGg3ZTVkeWdkTFNjTzNUQjZ1bW9xWmNIdWhiVDJjcURRSWhoeDB0cDZXbllJdndRbVhsVXBFaFN6Z3Y1dmJDTnQ2dGlCb0g5dDlzZE9YLXdwYkNkaUdKV1FQaVNZcURaZkxJbXNTZHNzTlptXzF5cGFHY3MyZkMtZHVxYjlqVUhickxGR3dubA?oc=5",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-23T03:24-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Cet aspirateur robot Roborock passe sous les 800 € à l'occasion du Black Friday 2026",
+"lg": "fr",
+"p": 2.2,
+"cr": 2,
+"cv": "Les Numériques"
 }
 ],
 "2026-11-22": [
@@ -2415,6 +2744,25 @@
 "rx": "CEPRI relata testes de sistema em outubro e verificações de seis minutos de 35 isoladores; os números de precisão e eficiência permanecem relatados pelo projeto."
 },
 {
+"id": "cc36d532628fbf",
+"t": "O setor de robôs humanóides aumentou, a tecnologia Yushu atingiu o limite diário de 20 cm - 36 criptônios",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCb0MtRlJUaVRpOXlwdEl1bVo4dnRvRXpwaGNjajl3a2VSaWNTai1GU2g0OUxSblZYOWRmS0h4NEt3UHhHZEtxbVpPWlB3V3JVMTZ1NnBQLTU?oc=5",
+"f": "36kr",
+"s": "36kr.com",
+"i": "",
+"d": "2026-11-22T10:51-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "人形机器人板块冲高，宇树科技20cm涨停-36氪",
+"lg": "zh",
+"p": 3.0,
+"cr": 2,
+"cv": "36Kr"
+},
+{
 "id": "2f38dc7445254e",
 "t": "Ant Group lidera rodada de US$ 100 milhões em fabricante chinesa de robôs humanóides",
 "r": "",
@@ -2433,7 +2781,7 @@
 "p": 3.0,
 "cr": 2,
 "cv": "Tech in Asia",
-"mx": 2
+"mx": 3
 },
 {
 "id": "76ab274a7ca846",
@@ -2453,7 +2801,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "No entanto, à medida que o reconhecimento de fala ASR, a compreensão semântica da PNL e as capacidades de diálogo de grandes modelos continuam a ser implementados, o robô telefônico de hoje, ou seja, o robô de voz Youyintong AI, foi atualizado há muito tempo para um sistema completo de diálogo de voz em tempo real. Ele depende do canal telefônico para completar a interação de voz homem-computador, realizar várias tarefas de comunicação de voz e realizar tarefas como identificação de informações, resposta a perguntas e respostas, coleta de informações, desvio de recursos e arquivamento de diálogos no processo de serviço. É o principal transportador de interação de IA no sistema de comunicação digital da empresa.\nNos últimos anos, quando as empresas adquiriram robôs telefônicos, concentraram-se principalmente em saber se conseguiriam completar a transmissão de informações básicas a baixo custo. Hoje em dia, as empresas têm exigências mais abrangentes: experiência interativa natural, reconhecimento estável, diálogo em circuito fechado, dados conectáveis ​​e riscos de conformidade controláveis."
 },
 {
@@ -2466,7 +2814,7 @@
 "i": "",
 "d": "2026-11-22T09:25-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "川润股份：截至目前液冷温控相关产品暂未用于机器人领域",
@@ -2474,8 +2822,27 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "02b2415a5f7876",
+"t": "Crítica de 'Sunny': Rashida Jones e um robô formam uma dupla improvável de resolução de mistérios",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LWZVS2VvbGRKaTlfa3hpWmJqLVB6cC01VEwtRnBKTG02akRpWDhFeUZIVk1TWEM2bzNIalhxYUNBazItUENya3BHOFAzZkRPSVF6NzJ1UkgwNi02Z1lV?oc=5",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "",
+"d": "2026-11-22T13:53-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "'Sunny' review: Rashida Jones and a robot make an unlikely mystery-solving duo",
+"lg": "en",
+"p": 2.2,
+"cr": 2,
+"cv": "Mashable"
 }
 ],
 "2026-11-21": [
@@ -14301,6 +14668,35 @@
 "cur": 1
 },
 {
+"id": "60b5c7b4acd55b",
+"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
+"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
+"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-18T04:53-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
+"lg": "ja",
+"p": 6.3,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452937/",
+"s": "ascii.jp",
+"id": "7ee3e0b92e99de"
+}
+],
+"cr": 3,
+"cv": "Mainichi",
+"mx": 2,
+"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
+},
+{
 "id": "2e48e59dd3b75b",
 "t": "Equipe de treinamento DDD da Carbon Black fica em segundo lugar na competição de IA de robôs da NVIDIA... Prêmio de Inovação Industrial",
 "r": "Uma equipe inicial preliminar no campo de inteligência artificial física (IA) doméstica ganhou o Prêmio de Inovação Industrial na Competição Internacional de Tecnologia de IA de Robôs organizada pela NVIDIA. A empresa ganhou um prêmio por desenvolver tecnologia para converter vídeos de pessoas trabalhando em dados 3D…",
@@ -14457,7 +14853,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -16071,35 +16467,6 @@
 "cr": 3,
 "cv": "Robot Newspaper",
 "mx": 3
-},
-{
-"id": "60b5c7b4acd55b",
-"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
-"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
-"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "",
-"d": "2026-11-18T04:53-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
-"lg": "ja",
-"p": 5.3,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452937/",
-"s": "ascii.jp",
-"id": "7ee3e0b92e99de"
-}
-],
-"cr": 3,
-"cv": "Mainichi",
-"mx": 1,
-"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
 },
 {
 "id": "160fdaad9ae633",
@@ -27081,6 +27448,35 @@
 ]
 },
 {
+"id": "95ff8179f3cf32",
+"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
+"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
+"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-16T05:52-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
+"lg": "ja",
+"p": 6.3,
+"cr": 3,
+"cv": "Mainichi",
+"mx": 2,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452008/",
+"s": "ascii.jp",
+"id": "fb8f5333de1234"
+}
+],
+"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
+},
+{
 "id": "e55caac70ca73b",
 "t": "“Robôs assassinos”: o secretário-geral da ONU pede ação contra essas armas “implacáveis”",
 "r": "O chefe da ONU, Antonio Guterres, apelou à comunidade internacional em Genebra na segunda-feira para estabelecer um acordo vinculativo sobre o uso destas armas letais autónomas. O secretário-geral da ONU apelou na segunda-feira à comunidade internacional para agir no sentido de estabelecer um acordo internacional…",
@@ -28209,35 +28605,6 @@
 "cr": 3,
 "cv": "Dong-A Ilbo",
 "mx": 3
-},
-{
-"id": "95ff8179f3cf32",
-"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
-"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
-"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "",
-"d": "2026-11-16T05:52-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
-"lg": "ja",
-"p": 5.3,
-"cr": 3,
-"cv": "Mainichi",
-"mx": 1,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452008/",
-"s": "ascii.jp",
-"id": "fb8f5333de1234"
-}
-],
-"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
 },
 {
 "id": "a58ece747f45a3",
@@ -42073,7 +42440,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -47962,7 +48329,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -64050,7 +64417,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -64079,7 +64446,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
