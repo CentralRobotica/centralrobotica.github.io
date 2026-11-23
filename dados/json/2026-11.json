@@ -87,7 +87,7 @@
 "p": 11.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "3b74dda13ee59f",
@@ -382,6 +382,54 @@
 "cv": "Interesting Engineering",
 "mx": 1,
 "rx": "Robôs humanóides trocam socos, chutes e golpes de lâmina em um evento em São Francisco, mostrando avanços na robótica e levantando preocupações de segurança."
+},
+{
+"id": "247689a33fa937",
+"t": "Relatório Especial: Foco de Engenharia em Controle de Movimento",
+"r": "O controle de movimento está no centro de todo sistema robótico. Desde braços robóticos industriais e robôs móveis autônomos (AMRs) até humanóides, a capacidade de se mover com precisão, eficiência e confiabilidade é fundamental para o desenvolvimento e implantação bem-sucedidos. Os desenvolvedores devem equilibrar requisitos cada vez mais complexos em torno de…",
+"u": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/ROBO-EngineeringFocus-on-MotionControl-Report-FC-1-232x300.jpg",
+"d": "2026-11-23T12:16-03:00",
+"c": [
+"logistica",
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Special Report: Engineering Focus on Motion Control",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "O Robot Report analisa os avanços recentes na automação da manufatura, desde melhorias em tecnologias e casos de uso até o potencial de humanóides e IA."
+},
+{
+"id": "993feba57c5ec1",
+"t": "XPeng apresentará robôs humanóides e avanços físicos de IA no AI Day 2026",
+"r": "A XPeng, uma montadora que também está se tornando uma empresa de IA física, realizará seu AI Day 2026 em 25 de novembro em Guangzhou, China, apresentando seus mais recentes avanços em IA física, robótica humanóide e tecnologias de mobilidade de próxima geração. Com o tema “Origem”, este evento de final de ano marca a oitava edição do evento anual da XPeng…",
+"u": "https://roboticsandautomationnews.com/2026/11/23/xpeng-to-showcase-humanoid-robot-and-physical-ai-advances-at-ai-day-2026/107497/",
+"f": "Robotics & Automation News",
+"s": "roboticsandautomationnews.com",
+"i": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/xpeng-humanoid-1.png",
+"d": "2026-11-23T12:41-03:00",
+"c": [
+"humanoides",
+"ia",
+"industriais"
+],
+"l": 0,
+"to": "XPeng to showcase humanoid robot and physical AI advances at AI Day 2026",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robotics & Automation News",
+"mx": 1,
+"rx": "XPeng, uma montadora que também está se tornando uma empresa de IA física, realizará seu AI Day 2026 em 25 de novembro em Guangzhou, China, apresentando seus mais recentes avanços em IA física, robótica humanóide e tecnologias de mobilidade de próxima geração. Desde o seu evento inaugural em 2019, a XPeng tem explorado consistentemente a próxima fronteira da tecnologia, desde veículos definidos por software e mobilidade definida por IA até IA física.\nAlém dos robôs humanóides, o XPeng AI Day também apresentará experiências de direção autônoma nos níveis 2 a 4, da direção inteligente NGP ao L4 Robotaxi, juntamente com atualizações sobre o desenvolvimento de carros voadores da XPeng, apresentando seu ecossistema físico de IA em expansão e ambições de mobilidade da próxima geração. O XPeng AI Day 2026 acontecerá em 25 de novembro em Guangzhou."
 },
 {
 "id": "35847ab66ce426",
@@ -938,28 +986,6 @@
 "rx": "Robôs humanóides trocam socos, chutes e golpes de lâmina em um evento em São Francisco, mostrando avanços na robótica e levantando preocupações de segurança."
 },
 {
-"id": "5b3b2f08d4a30f",
-"t": "Realbotix se expande para hospitalidade e automação de eventos com tecnologia de IA",
-"r": "Novo piloto empresarial introduz check-in robótico inteligente, assistência ao hóspede e fluxos de trabalho de serviço automatizados para hotéis, conferências e hotelaria.",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/23/realbotix-expands-into-ai-powered-hospitality-and-event-automation/27426",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-23T10:24-03:00",
-"c": [
-"medicina",
-"servico"
-],
-"l": 0,
-"to": "Realbotix Expands into AI-Powered Hospitality and Event Automation",
-"lg": "en",
-"esp": 1,
-"p": 5.6,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9
-},
-{
 "id": "573c91f7fb1634",
 "t": "Quer um drone que capture tudo? O A1 está com desconto de $ 660",
 "r": "Se você estava esperando por um motivo para começar a voar com drones em 360 graus, este pode ser o momento de parar de esperar. O Antigravity A1 Explorer Bundle, apresentando um drone 8K 360 FPV, Vision Goggles e três baterias, caiu de US$ 1.899 para US$ 1.239 em um acordo da Black Friday. Isso representa uma enorme economia de $ 660, ou 35% de desconto…",
@@ -1069,7 +1095,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "944a95ed92ee65",
@@ -1115,6 +1141,49 @@
 "cv": "Robot Newspaper",
 "mx": 1,
 "rx": "Recentemente, a China Xinhua e o Instituto de Pesquisa de Informação e Comunicação da China anunciaram conjuntamente o 'Relatório de Inovação da Indústria de IA Física de 2026'. Com base neste relatório, Robot News informou que ① o desenvolvimento da indústria física de IA da China"
+},
+{
+"id": "dfa591ba338120",
+"t": "Músculos artificiais detectam seu próprio movimento para dar aos robôs controle preciso",
+"r": "Um dedo robótico pressiona uma tecla do piano, faz uma pausa e passa para a próxima nota. Um olho artificial muda seu olhar através de uma série de movimentos controlados. Por trás de ambas as demonstrações está um novo tipo de músculo artificial que pode sentir o seu próprio estado, manter posições intermediárias e coordenar-se com outros músculos para produzir…",
+"u": "https://techxplore.com/news/2026-11-artificial-muscles-motion-robots-precise.html",
+"f": "Tech Xplore",
+"s": "techxplore.com",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-muscles-sen-2.jpg",
+"d": "2026-11-23T14:20-03:00",
+"c": [
+"microrrobos"
+],
+"l": 0,
+"to": "Artificial muscles sense their own motion to give robots precise control",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Tech Xplore",
+"mx": 1
+},
+{
+"id": "00902534acba5e",
+"t": "Lonic adquire certificação de higiene e segurança para módulo de subdivisão de automação de fabricação de alimentos ‘K-NSF’",
+"r": "A empresa de soluções de automação alimentar Ronic (CEO Oh Jin-hwan) anunciou em 9 de novembro que o 'módulo de subdivisão de ingredientes alimentares', o hardware principal do dispensador de IA 'CUBE', adquiriu a 'certificação de gerenciamento de segurança de dispositivos alimentares K-NSF.' O módulo de subdivisão de materiais alimentícios da Ronik atendeu aos padrões de certificação relevantes, incluindo o material da parte de contato com alimentos, estrutura higiênica e facilidade de limpeza. O módulo aplica aço inoxidável (SUS) à parte em contato com alimentos e as peças podem ser desmontadas e remontadas sem ferramentas separadas.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49762",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49762_105912_446.png",
+"d": "2026-11-23T14:21-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "로닉, 식품제조 자동화 소분 모듈 ‘K-NSF’ 위생안전 인증 획득",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Lonic (CEO Jin-Hwan Oh), uma empresa de soluções de automação de alimentos, recebeu a ‘Certificação de gerenciamento de segurança de dispositivos alimentares K-NSF’ por seu ‘módulo de subdivisão de ingredientes alimentares’, o hardware principal do dispensador de IA ‘CUBE’."
 },
 {
 "id": "946a0c729027f9",
@@ -1590,35 +1659,13 @@
 "rx": "(Veja todas as notícias de negócios, notícias de última hora e atualizações mais recentes no The Economic Times.) KYC e KYB: Zydus Lifesciences – Do balcão da farmácia às farmácias dos EUA."
 },
 {
-"id": "7c145ed78a20a9",
-"t": "Polícia de Nagapattinam intensifica vigilância de drones",
-"r": "A polícia distrital de Nagapattinam intensificou a vigilância em todo o distrito utilizando câmaras drone para reforçar a segurança pública, prevenir o crime e manter a lei e a ordem. A vigilância aérea ajuda a polícia a rastrear o movimento público e a identificar situações que requerem atenção imediata. Uma equipe…",
-"u": "https://www.thehindu.com/news/cities/Tiruchirapalli/nagapattinam-police-intensify-drone-surveillance/article71734565.ece",
-"f": "The Hindu",
-"s": "thehindu.com",
-"i": "",
-"d": "2026-11-23T10:07-03:00",
-"c": [
-"inspecao",
-"drones"
-],
-"l": 0,
-"to": "Nagapattinam police intensify drone surveillance",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Hindu",
-"mx": 9,
-"rx": "A polícia distrital de Nagapattinam intensificou a vigilância em todo o distrito utilizando câmaras drone para reforçar a segurança pública, prevenir o crime e manter a lei e a ordem. A vigilância aérea ajuda a polícia a rastrear o movimento público e a identificar situações que requerem atenção imediata. Uma equipe policial dedicada foi designada para operar o equipamento e obter vistas aéreas de vários locais. A tecnologia é utilizada para monitorar movimentos suspeitos, fortalecer medidas de prevenção ao crime e garantir uma resposta rápida durante emergências.\nA polícia distrital afirmou que as medidas de segurança e vigilância continuariam a ser reforçadas através da utilização de tecnologia moderna, reiterando que a segurança pública continua a ser a sua principal prioridade, segundo uma nota de imprensa."
-},
-{
 "id": "9f521627134774",
 "t": "Millennium Silver conclui pesquisa magnética com drone, infraestrutura hídrica e construção de plataforma de perfuração em Silver Peak, Nevada; Local pronto para perfuração",
 "r": "Vancouver, British Columbia--(Newsfile Corp. - 23 de novembro de 2026) - Millennium Silver Corp. (TSXV: MSC) (\"Millennium Silver\" ou a \"Empresa\") tem o prazer de anunciar a conclusão de atividades de campo importantes em seu projeto prata-ouro Silver Peak no condado de Esmeralda, Nevada. Essas atividades incluem…",
 "u": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/8964353/millennium-silver-completes-drone-magnetic-survey-water-infrastructure-and-drill-pad-construction-at-silver-peak-nevada-site-ready-for-drilling/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"i": "",
 "d": "2026-11-23T11:01-03:00",
 "c": [
 "drones",
@@ -1630,7 +1677,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1,
+"mx": 9,
 "rx": "Vancouver, British Columbia--(Newsfile Corp. - 23 de novembro de 2026) - Millennium Silver Corp. (TSXV: MSC) (\"Millennium Silver\" ou a \"Empresa\") tem o prazer de anunciar a conclusão de atividades de campo importantes em seu projeto prata-ouro Silver Peak no condado de Esmeralda, Nevada. Essas atividades incluem levantamento magnético de alta resolução por drone, instalação do sistema de captação de água e construção de plataformas de perfuração.\nRobert Drago, presidente e CEO da Millennium Silver, comentou: \"A conclusão da pesquisa magnética do drone, da infraestrutura hídrica e das plataformas de perfuração é um marco importante. O projeto Silver Peak está localizado no histórico distrito mineiro de Silver Peak, no condado de Esmeralda, Nevada, aproximadamente 11 km a sudoeste da cidade de Silver Peak."
 },
 {
@@ -1653,6 +1700,135 @@
 "cv": "Hindustan Times",
 "mx": 1,
 "rx": "O departamento de turismo de Uttar Pradesh e a administração distrital acenderão 1,1 milhão (11 lakh) de lâmpadas de barro (diyas) em 84 ghats ao longo do Ganga em Varanasi para marcar Dev Deepawali na terça-feira. Espera-se que cerca de 15 lakh turistas de todo o país e do exterior cheguem à cidade-templo para o festival de um dia celebrado em Kartik Purnima todos os anos.\nComo parte das comemorações, um show de drones acontecerá às 20h sobre as margens arenosas do Ganga, em frente a Dashashwamedh e Assi Ghats. Ganga Aarti será realizado simultaneamente em 51 ghats. De acordo com os dados do departamento de turismo que abrangem a última década (2016-2026), o número de turistas visitantes de fora da cidade aumentou de 2,5 lakh para um recorde de 15 lakh."
+},
+{
+"id": "10b85cce759a22",
+"t": "Madri treina drones de entrega e caminhões que separam o lixo em sua zona urbana de testes",
+"r": "Caminhões que classificam o lixo, um sistema de entrega de pacotes usando drones ou sensores em árvores e dados meteorológicos em tempo real para criar um modelo preditivo que ajuda a prevenir acidentes em tempestades. Estes são alguns projetos das vinte propostas selecionadas... pela 'sandbox' de Madrid, a iniciativa…",
+"u": "https://www.abc.es/espana/madrid/madrid-entrena-drones-reparto-camiones-clasifican-basura-20261123141312-nt.html",
+"f": "ABC",
+"s": "abc.es",
+"i": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/23/drones-U33627037131loh-1200x630@diario_abc.jpg",
+"d": "2026-11-23T12:28-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Madrid entrena drones de reparto y camiones que clasifican basura en su zona de pruebas urbanas",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "ABC (Espanha)",
+"mx": 1,
+"rx": "Caminhões que classificam o lixo, um sistema de entrega de pacotes usando drones ou sensores em árvores e dados meteorológicos em tempo real para criar um modelo preditivo que ajuda a prevenir acidentes em tempestades. Estes são alguns projetos das vinte propostas selecionadas... pela 'sandbox' de Madrid, a iniciativa com a qual a Câmara Municipal da capital quer transformar a capital num campo de testes de inovação, e que já estão a ser examinados nas ruas, parques e espaços da cidade.\nEntre os 20 projetos selecionados pela Câmara de Madrid nesta primeira convocatória do 'sandbox', já começou a ser testada a proposta da empresa Gesnaer Consulting, que está testando em La Nave uma estação inteligente e automatizada para receber, classificar e armazenar encomendas entregues por drones."
+},
+{
+"id": "c9e6a387a4105c",
+"t": "Chute voador com lâmina... Robôs que se tornaram protagonistas do entretenimento",
+"r": "A competição de luta entre robôs humanóides realizada em São Francisco emergiu como uma nova cultura de entretenimento. O controlo humano e a tecnologia de IA são combinados para criar jogos realistas, mas as questões de segurança e a concorrência não autorizada estão sujeitas a sanções regulamentares.",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/24/2DL23VNQCVH55OHVPW7IL2GNJY/",
+"f": "조선일보",
+"s": "chosun.com",
+"i": "https://www.chosun.com/resizer/v2/VPEEL7FFP5AEPK3TSKOVFWLHDQ.gif?auth=57c6abaddf92d4a7e37d0fa1b65c50ddd610f9acbfc1a41f1b3c3b07f1609376&width=400&height=210&smart=true",
+"d": "2026-11-23T12:34-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "칼날 달고 날아차기… 오락의 주인공이 된 로봇",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A competição de luta entre robôs humanóides realizada em São Francisco emergiu como uma nova cultura de entretenimento. O controlo humano e a tecnologia de IA são combinados para criar jogos realistas, mas as questões de segurança e a concorrência não autorizada estão sujeitas a sanções regulamentares."
+},
+{
+"id": "63ca32b21eb1d7",
+"t": "Arquivos Zipline para um Tacoma Drone Hub antes que a FAA limpe Seattle",
+"r": "A Zipline apresentou pedidos de licença de construção e desenvolvimento de local à cidade de Tacoma em 19 de novembro para um centro de carregamento de drones em 4810 Center St., um terreno de propriedade privada no centro de Tacoma. Esse plano permite até 20 docas em um local, e o aplicativo Tacoma não informa…",
+"u": "https://dronexl.co/2026/11/23/zipline-tacoma-drone-charging-hub-permit-faa-seattle-pending/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2024/10/img_3594-1.jpg",
+"d": "2026-11-23T12:45-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Zipline Files for a Tacoma Drone Hub Before the FAA Clears Seattle",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Zipline apresentou pedidos de licença de construção e desenvolvimento de local à cidade de Tacoma em 19 de novembro para um centro de carregamento de drones em 4810 Center St., um terreno de propriedade privada no centro de Tacoma. Esse plano permite até 20 docas em um local, e o aplicativo Tacoma não informa quantas esta comportaria. O portal da cidade lista os dois novos registros como BLDCA26-0367 e SDEV26-0342, ambos denominados “Zipline Charging Hub @ Center St” e ambos com triagem de entrada pendente quando o DroneXL foi verificado em 23 de novembro.\nFontes: The News Tribune, registros de licença da cidade de Tacoma BLDCA26-0367, SDEV26-0342, ELENS26-00428, PRE26-0162 e BLDCA26-0282, rascunho de avaliação ambiental da FAA para Zipline International Inc."
+},
+{
+"id": "1e7d846faac250",
+"t": "Governo designa 18 espaços aéreos para testes de drones",
+"r": "O governo designou 18 zonas do espaço aéreo para testes de drones para apoiar o desenvolvimento da indústria doméstica de drones, disse ontem o Ministério dos Transportes e Comunicações. O governo está apoiando o desenvolvimento ordenado da indústria de drones, ao mesmo tempo que incentiva a inovação e o uso da…",
+"u": "https://www.taipeitimes.com/News/front/archives/2026/11/24/2003868274",
+"f": "Taipei Times",
+"s": "taipeitimes.com",
+"i": "https://img.taipeitimes.com/images/2026/11/24/P01-261124-002.jpg",
+"d": "2026-11-23T13:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Government designates 18 drone testing airspaces",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Taipei Times",
+"mx": 1,
+"rx": "O governo designou 18 zonas do espaço aéreo para testes de drones para apoiar o desenvolvimento da indústria doméstica de drones, disse ontem o Ministério dos Transportes e Comunicações. O governo está apoiando o desenvolvimento ordenado da indústria de drones, ao mesmo tempo que incentiva a inovação e o uso da tecnologia de drones, disse o vice-ministro dos Transportes e Comunicações, Lin Kuo-hsien (林國顯), aos participantes do Fórum Internacional de Sistemas de Aeronaves Não Tripuladas e Mobilidade Aérea Avançada (AAM) deste ano, em Taipei.\n\"Estamos apoiando o desenvolvimento da indústria de drones consolidando o espaço aéreo designado para testes. Depois de voar pelo espaço aéreo a leste do país, a aeronave russa, cujo tipo não foi identificado, saiu da zona de identificação de defesa aérea de Taiwan (ADIZ) ao sul do condado de Taitung, disse o ministério."
+},
+{
+"id": "ac1519e01dc5b3",
+"t": "A semana da Black Friday 2026 começa com 10 ofertas: Roborock, iPhone, De'Longhi e mais",
+"r": "A Black Friday 2026 é comemorada nesta sexta-feira, 27 de novembro, mas muitas lojas já ativaram seus descontos. Carrefour, MediaMarkt, PcComponentes e Adidas também estão com ofertas em execução. PcComponentes e MediaMarkt têm-no por 99 euros e salientam que o seu preço mais baixo dos últimos 30 dias foi de 269,99…",
+"u": "https://www.lavanguardia.com/comprar/black-friday/20261123/11691010/arranca-semana-black-friday-ofertas-mkt-nrt.html",
+"f": "La Vanguardia",
+"s": "lavanguardia.com",
+"i": "https://www.lavanguardia.com/files/article_main_microformat/files/fp/uploads/2018/11/13/5fa4455064944.r_d.328-218-18293.jpeg",
+"d": "2026-11-23T14:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Arranca la semana del Black Friday 2026 con 10 ofertas: Roborock, iPhone, De'Longhi y más",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "La Vanguardia",
+"mx": 1,
+"rx": "A Black Friday 2026 é comemorada nesta sexta-feira, 27 de novembro, mas muitas lojas já ativaram seus descontos. Carrefour, MediaMarkt, PcComponentes e Adidas também estão com ofertas em execução. PcComponentes e MediaMarkt têm-no por 99 euros e salientam que o seu preço mais baixo dos últimos 30 dias foi de 269,99 euros. A PcComponentes oferece-o por 529,99 euros, face ao preço recomendado de 749,99 euros.\nO Carrefour anuncia-o por 259 euros, com o preço riscado de 329 euros. Sem essa promoção, o preço apresentado é de 259 euros; A disponibilidade pode variar de acordo com a área e a loja. O preço pode cair ainda mais durante a semana, mas a versão de seu interesse também pode subir ou esgotar."
+},
+{
+"id": "5b3b2f08d4a30f",
+"t": "Realbotix se expande para hospitalidade e automação de eventos com tecnologia de IA",
+"r": "Novo piloto empresarial introduz check-in robótico inteligente, assistência ao hóspede e fluxos de trabalho de serviço automatizados para hotéis, conferências e hotelaria.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/23/realbotix-expands-into-ai-powered-hospitality-and-event-automation/27426",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-23T10:24-03:00",
+"c": [
+"medicina",
+"servico"
+],
+"l": 0,
+"to": "Realbotix Expands into AI-Powered Hospitality and Event Automation",
+"lg": "en",
+"esp": 1,
+"p": 4.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
 },
 {
 "id": "421c3206571e26",
@@ -1713,7 +1889,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 2
+"mx": 3
 },
 {
 "id": "3c17b12295f551",
@@ -1758,6 +1934,28 @@
 "rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600 desenvolvedores para seu próprio software. Mas a posição está ameaçada pela concorrência chinesa emergente. “Os lasers estão se tornando cada vez mais uma mercadoria intercambiável”, disse o presidente do Conselho de Supervisão, Peter Leibinger, há cinco anos. “Temos que oferecer mais no futuro.\nNem todo software é desenvolvido pela própria Trumpf. A IA tornou-se parte integrante do Trumpf."
 },
 {
+"id": "7c145ed78a20a9",
+"t": "Polícia de Nagapattinam intensifica vigilância de drones",
+"r": "A polícia distrital de Nagapattinam intensificou a vigilância em todo o distrito utilizando câmaras drone para reforçar a segurança pública, prevenir o crime e manter a lei e a ordem. A vigilância aérea ajuda a polícia a rastrear o movimento público e a identificar situações que requerem atenção imediata. Uma equipe…",
+"u": "https://www.thehindu.com/news/cities/Tiruchirapalli/nagapattinam-police-intensify-drone-surveillance/article71734565.ece",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "",
+"d": "2026-11-23T10:07-03:00",
+"c": [
+"inspecao",
+"drones"
+],
+"l": 0,
+"to": "Nagapattinam police intensify drone surveillance",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Hindu",
+"mx": 9,
+"rx": "A polícia distrital de Nagapattinam intensificou a vigilância em todo o distrito utilizando câmaras drone para reforçar a segurança pública, prevenir o crime e manter a lei e a ordem. A vigilância aérea ajuda a polícia a rastrear o movimento público e a identificar situações que requerem atenção imediata. Uma equipe policial dedicada foi designada para operar o equipamento e obter vistas aéreas de vários locais. A tecnologia é utilizada para monitorar movimentos suspeitos, fortalecer medidas de prevenção ao crime e garantir uma resposta rápida durante emergências.\nA polícia distrital afirmou que as medidas de segurança e vigilância continuariam a ser reforçadas através da utilização de tecnologia moderna, reiterando que a segurança pública continua a ser a sua principal prioridade, segundo uma nota de imprensa."
+},
+{
 "id": "a850cc8c4a80e6",
 "t": "Mercedes ganha vantagem sobre Tesla na corrida pelo sucesso da direção autônoma na Europa",
 "r": "A UE surge como um novo campo de batalha para carros inteligentes e robotáxis",
@@ -1776,7 +1974,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "Financial Times",
-"mx": 1
+"mx": 2
 },
 {
 "id": "2a5efb8710f38b",
@@ -2126,7 +2324,8 @@
 "i": "https://cdn.lesnumeriques.com/optim/test/26/263857/0f6aff8e-aspirateur-robot-dyson-r2-nurovi-wash-dry__1200_678__overflow_wtmk.webp",
 "d": "2026-11-23T11:14-03:00",
 "c": [
-"casa"
+"casa",
+"servico"
 ],
 "l": 0,
 "to": "Black Friday 2026 : L'aspirateur robot Dyson R2 Nurovi Wash+Dry à 469,00 € (-30%)",
@@ -2136,6 +2335,48 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "A Dyson busca se reposicionar no setor de robôs de limpeza com o Dyson R2 Nurovi Wash+Dry, um dispositivo multifuncional projetado para a limpeza diária de pisos duros. Este modelo se destacou durante a visita ao nosso laboratório pela eficiência de sucção e pela estação sem saco que reduz custos de manutenção. Por ocasião da Black Friday, este aspirador robot desce para 469,00€ na Amazon, ou cerca de 30% menos que o preço médio observado nos últimos 30 dias (671,67€).\nNo banco de testes, o Dyson R2 Nurovi Wash+Dry garante uma recolha cuidadosa do pó em superfícies duras e em fissuras no pavimento em parquet, ao mesmo tempo que mantém um nível de ruído contido na potência máxima. Suas habilidades motoras permitem superar soleiras ou obstáculos de até 4 cm, o que evita bloqueios recorrentes entre duas partes."
+},
+{
+"id": "a6be308b1fe4bc",
+"t": "Maker constrói mão robótica com 18 servos e tendões de aço por US$ 300",
+"r": "Um fabricante construiu uma mão robótica com 18 graus de liberdade, cujos servos movem os dedos sobre cabos de aço como tendões, por cerca de US$ 300.",
+"u": "https://www.heise.de/news/Roboterhand-aus-dem-3D-Drucker-kommt-auf-18-Freiheitsgrade-11534638.html",
+"f": "heise online",
+"s": "heise.de",
+"i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/4/1/3/Screenshot_2026-11-23_130359-e27504e63c52537d.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+"d": "2026-11-23T12:30-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Maker baut Roboterhand mit 18 Servos und Stahlsehnen für 300 US-Dollar",
+"lg": "de",
+"p": 3.5,
+"cr": 2,
+"cv": "heise online",
+"mx": 1,
+"rx": "Um fabricante construiu uma mão robótica com 18 graus de liberdade, cujos servos movem os dedos sobre cabos de aço como tendões, por cerca de US$ 300."
+},
+{
+"id": "49c684b9c0f9f9",
+"t": "MOVA Z70 Ultra Roller Complete: esta esfregona robotizada com rolo e 36.000 Pa de sucção perde 700€",
+"r": "Vendido e enviado pela Amazon, o aspirador robô e esfregão MOVA Z70 Ultra Roller Complete custa € 699 em comparação com € 1.399 pelo preço recomendado, um desconto de 50%. Seu sistema HydroForce Mopping 2.0 combina pulverização de água limpa, fricção, raspagem e sucção de água suja, com pressão constante anunciada em…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-le-robot-aspirateur-laveur-mova-z70-ultra-roller-complete-est-a-moitie-prix-a-699-50-n268342.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/news/26/268342/fedcf7a1-black-friday-2026-le-robot-aspirateur-laveur-mova-z70-ultra-roller-complete-est-a-moitie-prix-a-699-50__1200_678__0-314-3000-1889.webp",
+"d": "2026-11-23T13:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "MOVA Z70 Ultra Roller Complete : ce robot laveur à rouleau et 36 000 Pa d'aspiration perd 700 €",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Vendido e enviado pela Amazon, o aspirador robô e esfregão MOVA Z70 Ultra Roller Complete custa € 699 em comparação com € 1.399 pelo preço recomendado, um desconto de 50%. Seu sistema HydroForce Mopping 2.0 combina pulverização de água limpa, fricção, raspagem e sucção de água suja, com pressão constante anunciada em 5.000 Pa. No lado da sucção, MOVA anuncia 36.000 Pa, com escova TroboWave DuoBrush projetada para pisos duros, bem como carpetes.\nCom o seu sistema MaxiReach 2.0, o rolo pode estender-se 52 mm para limpar ao longo de paredes e cantos, enquanto o seu módulo Smart-Adapt ajusta-se às bordas em 10 mm sem riscar os rodapés. Suas pernas robóticas StepMaster 2.0 levantam o chassi para superar obstáculos de até 9 cm de altura, como soleiras de portas ou pés de móveis."
 },
 {
 "id": "375d2919ede001",
@@ -2241,7 +2482,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Tech in Asia",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-22": [
@@ -3616,27 +3857,6 @@
 "cur": 1
 },
 {
-"id": "50c11856501366",
-"t": "CCPA aplica multa de ₹ 10 lakh à empresa por vender ‘arma anti-drone’ no IndiaMART",
-"r": "A autoridade observou que \"manter uma listagem comercial ativa com especificações técnicas completas, um preço de ₹ 8.30.000 e um indicador 'Em estoque' em uma entidade de comércio eletrônico de mercado proeminente estabeleceu claramente a intenção de oferecer os produtos para venda e solicitar potenciais…",
-"u": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
-"f": "The Hindu",
-"s": "thehindu.com",
-"i": "",
-"d": "2026-11-22T06:55-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "CCPA slaps ₹10 lakh fine on firm for selling ‘anti-drone gun’ on IndiaMART",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Hindu",
-"mx": 9,
-"rx": "A autoridade observou que \"manter uma listagem comercial ativa com especificações técnicas completas, um preço de ₹ 8.30.000 e um indicador 'Em estoque' em uma entidade de comércio eletrônico de mercado proeminente estabeleceu claramente a intenção de oferecer os produtos para venda e solicitar potenciais compradores.\" Rejeitando isso, a CCPA disse que se tratava de “uma afirmação nua, feita somente após o Show Cause Notice e contrariada pela própria listagem”, e não poderia ser aceita como prova.\nA CCPA também rejeitou a alegação da empresa de que termos como \"arma anti-drone\", \"dispositivo de guerra eletrônica\" e \"drones neutralizantes\" foram usados ​​\"puramente como títulos descritivos\" para transmitir o \"design estético\" do modelo, e que a listagem era \"puramente conceitual e ornamental\"."
-},
-{
 "id": "e3c8985d7a930e",
 "t": "Um drone pode realmente substituir um pulverizador agrícola de um milhão de dólares no Canadá?",
 "r": "Produtores de batata, produtores de mirtilo e investigadores reuniram-se esta semana numa reunião para saber se os drones poderiam facilitar o seu trabalho, à medida que Ottawa expande a sua utilização para pulverização de culturas.",
@@ -3687,7 +3907,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/8956072/jp-morgan-says-teslas-robotaxi-fleet-could-match-waymos-miles-by-late-2027-with-18000-cars-the-number-that-matters-is-how-much-each-car-earns/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"i": "",
 "d": "2026-11-22T10:12-03:00",
 "c": [
 "autonomos"
@@ -3701,7 +3921,7 @@
 ],
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1,
+"mx": 9,
 "rx": "A Tesla tem uma vantagem em custos de hardware e software no momento, mas essa lacuna pode diminuir no futuro. A vantagem da Tesla não se trata apenas de hardware e software; trata-se também de aprender a reduzir custos operacionais à medida que cresce. O analista da Morgan, Rajat Gupta, acredita que a frota de robotáxis da Tesla (NASDAQ:TSLA) poderia se igualar à frota Waymo da Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) em milhas autônomas acumuladas até o final de 2027.\nFinalmente, os rivais poderiam optar por custos de hardware mais elevados (LiDAR mais software licenciado) e mais quilómetros de operação de robotáxis, mas isso significaria custos iniciais mais elevados, provavelmente mais custos de manutenção, e os robotáxis tornar-se-iam obsoletos mais rapidamente. A boa notícia é que as milhas da Tesla sob expansão do robotáxi significam que ela está aprendendo a reduzir o TCO por milha antes que outros o façam."
 },
 {
@@ -3880,7 +4100,7 @@
 "u": "https://www.theglobeandmail.com/investing/markets/stocks/BA/pressreleases/8957014/archers-anduril-drone-begins-full-scale-flight-tests-in-2027-heres-why-defense-could-be-worth-more-than-air-taxis/",
 "f": "The Globe and Mail",
 "s": "theglobeandmail.com",
-"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"i": "",
 "d": "2026-11-22T15:35-03:00",
 "c": [
 "defesa",
@@ -3892,7 +4112,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Globe and Mail",
-"mx": 1,
+"mx": 9,
 "rx": "A aeronave militar híbrida-elétrica da Archer e da Anduril, Thunder, tem como meta seu primeiro voo em 2027. A Archer Aviation desenvolve a aeronave Midnight, sua aeronave carro-chefe para seu negócio de táxi aéreo comercial. Enquanto os táxis aéreos comerciais chamam a atenção, a Archer está tomando uma decisão sábia de diversificar para a defesa com uma variante híbrida-elétrica de sua aeronave Midnight em colaboração com a Anduril. Como as compras militares operam de acordo com os padrões de aeronavegabilidade do Departamento de Defesa, a Archer poderia gerar receita e validar seu hardware com horas de voo do mundo real antes de sua escala de táxi aéreo comercial.\nOs táxis aéreos da Archer Aviation podem mudar a forma como viajamos pelas cidades, e os voos de passageiros começarão de forma limitada em 2027, com operação comercial completa prevista para 2028."
 },
 {
@@ -3938,6 +4158,28 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "Ao elaborar elaborados acordos de segurança para o próximo Magh Mela, a polícia de Mela decidiu utilizar tecnologia avançada para restringir o uso de drones ilegais e não licenciados."
+},
+{
+"id": "1d617a98832de9",
+"t": "Drone de entrega da Amazon cai em casa de Huntington Woods",
+"r": "Um drone de entrega da Amazon caiu no telhado de uma casa em Huntington Woods depois de se enroscar em uma linha elétrica, diz DTE. A DTE disse que teve que desenergizar brevemente a casa enquanto o drone era removido da linha de serviço. “Na sexta-feira, um drone Prime Air pousou no galpão de um residente durante uma…",
+"u": "https://www.cbsnews.com/detroit/news/amazon-drone-crashes-into-huntington-woods-home/",
+"f": "CBS News",
+"s": "cbsnews.com",
+"i": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/6ce74894-4afe-4373-bc6b-b74f07b97163/thumbnail/1200x630/a81653fa47236c5d4bbf0b18a0e0982c/drone.jpg",
+"d": "2026-11-22T20:36-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Amazon delivery drone crashes into Huntington Woods home",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CBS News",
+"mx": 1,
+"rx": "Um drone de entrega da Amazon caiu no telhado de uma casa em Huntington Woods depois de se enroscar em uma linha elétrica, diz DTE. A DTE disse que teve que desenergizar brevemente a casa enquanto o drone era removido da linha de serviço. “Na sexta-feira, um drone Prime Air pousou no galpão de um residente durante uma entrega em Huntington Woods, Michigan. Não houve feridos, o drone foi removido e estamos em contato com o residente."
 },
 {
 "id": "c8f8b1cd03153a",
@@ -4096,6 +4338,27 @@
 "cv": "Pandaily",
 "mx": 1,
 "rx": "Dezenas de robôs AgiBot G2 são relatados nas linhas de teste telefônico da Lens Technology, manipulando dispositivos e interagindo com equipamentos de teste."
+},
+{
+"id": "50c11856501366",
+"t": "CCPA aplica multa de ₹ 10 lakh à empresa por vender ‘arma anti-drone’ no IndiaMART",
+"r": "A autoridade observou que \"manter uma listagem comercial ativa com especificações técnicas completas, um preço de ₹ 8.30.000 e um indicador 'Em estoque' em uma entidade de comércio eletrônico de mercado proeminente estabeleceu claramente a intenção de oferecer os produtos para venda e solicitar potenciais…",
+"u": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "",
+"d": "2026-11-22T06:55-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "CCPA slaps ₹10 lakh fine on firm for selling ‘anti-drone gun’ on IndiaMART",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Hindu",
+"mx": 9,
+"rx": "A autoridade observou que \"manter uma listagem comercial ativa com especificações técnicas completas, um preço de ₹ 8.30.000 e um indicador 'Em estoque' em uma entidade de comércio eletrônico de mercado proeminente estabeleceu claramente a intenção de oferecer os produtos para venda e solicitar potenciais compradores.\" Rejeitando isso, a CCPA disse que se tratava de “uma afirmação nua, feita somente após o Show Cause Notice e contrariada pela própria listagem”, e não poderia ser aceita como prova.\nA CCPA também rejeitou a alegação da empresa de que termos como \"arma anti-drone\", \"dispositivo de guerra eletrônica\" e \"drones neutralizantes\" foram usados ​​\"puramente como títulos descritivos\" para transmitir o \"design estético\" do modelo, e que a listagem era \"puramente conceitual e ornamental\"."
 },
 {
 "id": "4332ee37712bb2",
@@ -4576,7 +4839,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": 2
+"mx": 3
 },
 {
 "id": "a6025e58d8957e",
@@ -4707,6 +4970,26 @@
 "cv": "Pandaily",
 "mx": 1,
 "rx": "CEPRI relata testes de sistema em outubro e verificações de seis minutos de 35 isoladores; os números de precisão e eficiência permanecem relatados pelo projeto."
+},
+{
+"id": "0750bb06ebf3c2",
+"t": "Elon+almíscar+tesla+robótica",
+"r": "",
+"u": "https://auto.economictimes.indiatimes.com/tag/elon+musk+tesla+robotics",
+"f": "ET Auto",
+"s": "auto.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-22T23:38-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Elon+musk+tesla+robotics",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1
 },
 {
 "id": "cc36d532628fbf",
@@ -11650,6 +11933,36 @@
 ]
 },
 {
+"id": "07bfb6103d754b",
+"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
+"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
+"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+"lg": "en",
+"p": 7.1,
+"cr": 3,
+"cv": "AFP",
+"mx": 2,
+"o": [
+{
+"f": "Robotics Tomorrow",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
+"s": "roboticstomorrow.com",
+"id": "4ff85e0a20bcda"
+}
+],
+"esp": 1,
+"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
+},
+{
 "id": "b8afc9a9b09a44",
 "t": "Robôs dançantes, máquinas servindo: Shenzhen mostra sua força tecnológica na cúpula da APEC",
 "r": "Cúpula da APEC, Shenzhen se transforma em uma vitrine da alta tecnologia chinesa. Robôs humanóides entretêm jornalistas cantando e dançando.",
@@ -11845,36 +12158,6 @@
 "id": "61e889ab9c2258"
 }
 ]
-},
-{
-"id": "07bfb6103d754b",
-"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
-"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
-"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
-"lg": "en",
-"p": 6.1,
-"cr": 3,
-"cv": "AFP",
-"mx": 1,
-"o": [
-{
-"f": "Robotics Tomorrow",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
-"s": "roboticstomorrow.com",
-"id": "4ff85e0a20bcda"
-}
-],
-"esp": 1,
-"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "31d24e91b986a1",
@@ -13251,7 +13534,7 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/arrive-ai-arrive-point-courier-door-file-photo.webp",
 "d": "2026-11-19T07:25-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "Arrive AI Robot Adds Daily Specimen Runs at Hancock Health Lab",
@@ -14014,6 +14297,27 @@
 "cv": "Il Sole 24 Ore",
 "mx": 1,
 "rx": "TAR Abruzzo: nuvens de pontos, arquivos de origem e levantamentos topográficos digitais são documentos administrativos, não simples notas internas. A entidade que baseou a ordem de demolição nas medidas acima deverá entregá-las no prazo de 30 dias. A utilização de drones no planejamento urbano e no controle predial é hoje uma realidade consolidada. Mas o que acontece quando um Município contesta um abuso com base em medições feitas de cima e o cidadão pede para verificar os dados brutos em que se baseia a acusação? 660/2026, o TAR de Abruzzo marca um ponto fixo de grande interesse prático: os arquivos de origem, as nuvens de pontos e os levantamentos topográficos digitais não são simples notas internas, mas verdadeiros documentos administrativos..."
+},
+{
+"id": "6c59b8c9e8a900",
+"t": "KNDS mostra protótipo AI Counter-Drone FENNEK AIR no NEDS",
+"r": "A KNDS Deutschland mostrou um protótipo do FENNEK AIR pela primeira vez na Exposição NIDV de Defesa e Segurança em Roterdã, em 18 de novembro. O veículo anti-drone combina a plataforma de reconhecimento FENNEK com fusão multissensor, suporte à decisão de IA e estação de armas remota ARX30 da KNDS França disparando um…",
+"u": "https://dronexl.co/2026/11/19/knds-fennek-air-counter-drone-prototype-neds/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/knds-fennek-air-counter-uas-vehicle.webp",
+"d": "2026-11-19T17:33-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "KNDS Shows AI Counter-Drone FENNEK AIR Prototype at NEDS",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A KNDS Deutschland mostrou um protótipo do FENNEK AIR pela primeira vez na Exposição NIDV de Defesa e Segurança em Roterdã, em 18 de novembro. O veículo anti-drone combina a plataforma de reconhecimento FENNEK com fusão multissensor, suporte à decisão de IA e estação de armas remota ARX30 da KNDS França disparando um canhão de 30 mm. Rotterdam, 18 de novembro de 2026 – A KNDS Deutschland apresentará pela primeira vez um protótipo do FENNEK AIR na NIDV Exhibition Defense & Security (NEDS) em Rotterdam, Holanda.\nUm elemento central do FENNEK AIR será a solução de IA totalmente integrada. Para atingir alvos de forma eficaz, o FENNEK AIR está equipado com o Sistema de Armas de Controle Remoto (RCWS) KNDS France ARX30 e seu canhão automático de 30 mm (30x113 mm) dedicado a missões anti-drones."
 },
 {
 "id": "4b012c73f4786f",
@@ -16973,7 +17277,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -22616,6 +22920,27 @@
 "cv": "Business Insider",
 "mx": 1,
 "rx": "O robô de entrega autônomo Ottonomy se junta à frota existente da Sheba, seguindo pedidos de robôs anunciados anteriormente, e opera ao lado de outros robôs do hospital por meio da plataforma de orquestração unificada alimentada por IA da deliveryz.ai 17, 2026 (GLOBE NEWSWIRE) -- Gix Internet Ltd. (O “Robô Ottonomy”) entrou em serviço operacional no Sheba Medical Center, o maior hospital de Israel e um dos 10 melhores hospitais do mundo. O robô Ottonomy agora opera junto com os robôs de entrega existentes no hospital, criando uma frota híbrida gerenciada por meio da camada operacional unificada do deliveryz.ai."
+},
+{
+"id": "ba2c2f24b7a0f8",
+"t": "Grupo KP revela robô sem água para reduzir custos de limpeza de painéis solares",
+"r": "O braço de O&M do Grupo KP introduziu um robô de limpeza solar sem água destinado a projetos baseados em rastreadores e de inclinação fixa. A máquina foi construída para locais secos, remotos e irregulares, com conectividade remota, operação com bateria e um projeto de longa vida útil. O lançamento ressalta como as…",
+"u": "https://facilities.economictimes.indiatimes.com/news/facilities-management/kp-group-unveils-waterless-robot-to-cut-solar-panel-cleaning-costs/135919260",
+"f": "facilities.economictimes.indiatimes.com",
+"s": "facilities.economictimes.indiatimes.com",
+"i": "https://etimg.etb2bimg.com/thumb/msid-135919260,imgsize-77504,width-1200,height=627,overlay-etfacilities,resizemode-75/news/facilities-management/kp-group-unveils-waterless-robot-to-cut-solar-panel-cleaning-costs.jpg",
+"d": "2026-11-17T12:07-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "KP Group unveils waterless robot to cut solar panel cleaning costs",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1,
+"rx": "O braço de O&M do Grupo KP introduziu um robô de limpeza solar sem água destinado a projetos baseados em rastreadores e de inclinação fixa. A máquina foi construída para locais secos, remotos e irregulares, com conectividade remota, operação com bateria e um projeto de longa vida útil. O lançamento ressalta como as operações solares estão mudando para…"
 },
 {
 "id": "18f74e716d88f9",
@@ -41983,29 +42308,6 @@
 "rx": "Um robotáxi sem volante ou assento do motorista agora circula pelas ruas de Atlanta. Zoox diz que seu veículo para quatro passageiros começará perto de Atlantic Station, Woodward e Home Park, no noroeste de Atlanta. As primeiras atrações serão limitadas aos funcionários da Zoox e seus familiares e amigos, informou a empresa. A Zoox planeja lançar seu programa de primeiros pilotos Explorers em Atlanta em 2027.\nA Zoox tem testado veículos autônomos em Atlanta desde a primavera de 2025. “Somos gratos à cidade de Atlanta e ao estado da Geórgia por sua colaboração à medida que introduzimos um novo tipo de veículo e experiência de condução na cidade”, disse Ron Thaniel, diretor sênior de assuntos políticos e regulatórios da Zoox, no anúncio. Atlanta se junta a Austin e Miami entre os mais novos mercados de robotáxi da Zoox."
 },
 {
-"id": "50c4ebef8b1b85",
-"t": "Bharat Summit 2026: Drone voando proibido em Madhapur antes de Rahul Gandhi, visitas de Rajnath Singh",
-"r": "A Polícia de Cyberabad proibiu drones, parapentes e aeronaves ultraleves com controle remoto nos limites da delegacia de polícia de Madhapur a partir das 19h. no dia 13 de novembro às 18h. em 15 de novembro, em vista das visitas do líder da oposição no Lok Sabha, Rahul Gandhi, e do ministro da Defesa, Rajnath Singh…",
-"u": "https://www.thehindu.com/news/national/telangana/bharat-summit-2026-drone-flying-banned-in-madhapur-ahead-of-rahul-gandhi-rajnath-singh-visits/article71698212.ece",
-"f": "The Hindu",
-"s": "thehindu.com",
-"i": "",
-"d": "2026-11-13T12:49-03:00",
-"c": [
-"drones",
-"competicoes",
-"defesa"
-],
-"l": 0,
-"to": "Bharat Summit 2026: Drone flying banned in Madhapur ahead of Rahul Gandhi, Rajnath Singh visits",
-"lg": "te",
-"p": 4.8,
-"cr": 3,
-"cv": "The Hindu",
-"mx": 9,
-"rx": "A Polícia de Cyberabad proibiu drones, parapentes e aeronaves ultraleves com controle remoto nos limites da delegacia de polícia de Madhapur a partir das 19h. no dia 13 de novembro às 18h. em 15 de novembro, em vista das visitas do líder da oposição no Lok Sabha, Rahul Gandhi, e do ministro da Defesa, Rajnath Singh. Rahul Gandhi está programado para participar do Bharat Summit 2026 no Hyderabad International Convention Center (HICC) e da HITEX em Madhapur em 14 de novembro. Rajnath Singh visitará a HITEX em 15 de novembro.\nO Comissário de Polícia de Cyberabad, M. Ramesh, emitiu a ordem de proibição sob a Seção 163 do Bharatiya Nagarik Suraksha Sanhita (BNSS), citando a necessidade de prevenir perigos ou ferimentos e garantir a segurança dos participantes dos eventos."
-},
-{
 "id": "f35ab052724a63",
 "t": "“A era da cirurgia totalmente autônoma realizada por robôs está chegando.”",
 "r": "Os robôs começaram a ser usados ​​em ambientes médicos na década de 1980. No Canadá, robôs auxiliaram cirurgias ortopédicas. Nos Estados Unidos, foi usado para biópsia cerebral. Desde então, robôs médicos em vários campos foram desenvolvidos um após o outro. Em 2000, a cirurgia robótica atingiu um grande ponto de…",
@@ -42766,6 +43068,29 @@
 "cv": "Chosun Ilbo",
 "mx": 3,
 "rx": "[ｺҸƴ / ظ] 뺴 索Ϻ ȯ ȭ 迡 ع ȣ OOO. para 汸 κ ġ ü οԸ. ǻȸ ǥ 켱Ģ ȯϰ Ȯ븦 ˱�. Ѱȣȸ ȣ 1 ȯ 5 ȭ å . Կȯ ͸ ý ک, Ǳ뺴 5 ' 2% ' ƴ. Ѽֺ Ƿ ȸ , ǰпҴ ︣ ãư ǰ ǽ�. ֿ Ƿ ڽ ک. ѽ¼ \"õ century m ȭ JUϴ ȣ OOOϰ, ̸ p ȯұ m Ȯٴ ǹ̰ ִ\" OOO. ̱ȸ m 'Revista Clínica da Sociedade Americana de Nefrologia (CJASN)' ֽȣ Ƿȴ."
+},
+{
+"id": "50c4ebef8b1b85",
+"t": "Bharat Summit 2026: Drone voando proibido em Madhapur antes de Rahul Gandhi, visitas de Rajnath Singh",
+"r": "A Polícia de Cyberabad proibiu drones, parapentes e aeronaves ultraleves com controle remoto nos limites da delegacia de polícia de Madhapur a partir das 19h. no dia 13 de novembro às 18h. em 15 de novembro, em vista das visitas do líder da oposição no Lok Sabha, Rahul Gandhi, e do ministro da Defesa, Rajnath Singh…",
+"u": "https://www.thehindu.com/news/national/telangana/bharat-summit-2026-drone-flying-banned-in-madhapur-ahead-of-rahul-gandhi-rajnath-singh-visits/article71698212.ece",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "",
+"d": "2026-11-13T12:49-03:00",
+"c": [
+"drones",
+"competicoes",
+"defesa"
+],
+"l": 0,
+"to": "Bharat Summit 2026: Drone flying banned in Madhapur ahead of Rahul Gandhi, Rajnath Singh visits",
+"lg": "te",
+"p": 3.8,
+"cr": 3,
+"cv": "The Hindu",
+"mx": 9,
+"rx": "A Polícia de Cyberabad proibiu drones, parapentes e aeronaves ultraleves com controle remoto nos limites da delegacia de polícia de Madhapur a partir das 19h. no dia 13 de novembro às 18h. em 15 de novembro, em vista das visitas do líder da oposição no Lok Sabha, Rahul Gandhi, e do ministro da Defesa, Rajnath Singh. Rahul Gandhi está programado para participar do Bharat Summit 2026 no Hyderabad International Convention Center (HICC) e da HITEX em Madhapur em 14 de novembro. Rajnath Singh visitará a HITEX em 15 de novembro.\nO Comissário de Polícia de Cyberabad, M. Ramesh, emitiu a ordem de proibição sob a Seção 163 do Bharatiya Nagarik Suraksha Sanhita (BNSS), citando a necessidade de prevenir perigos ou ferimentos e garantir a segurança dos participantes dos eventos."
 },
 {
 "id": "00fb60c4c4e153",
@@ -44622,7 +44947,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -50511,7 +50836,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -66599,7 +66924,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -66628,7 +66953,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -69953,7 +70278,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -69963,9 +70288,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
