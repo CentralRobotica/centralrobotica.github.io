@@ -87,7 +87,7 @@
 "p": 11.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3b74dda13ee59f",
@@ -197,7 +197,7 @@
 "p": 9.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 23 de novembro que Yumie Kubota, diretora de robôs de inteligência artificial da fabricante japonesa de robôs industriais YASAKAWA, disse em entrevista ao Kyodo News do Japão no dia 20, horário local, que a empresa planeja alcançar as atuais empresas líderes dos EUA e da China na área de robôs humanóides.\nYumi Kubota disse que o robô humanóide AI desenvolvido pela Yaskawa Electric será lançado oficialmente em 2030, e o tempo específico de lançamento também pode ser avançado com base nas necessidades reais do cliente. No entanto, os robôs humanóides ainda enfrentam o problema de capacidades limitadas de aprendizagem de tarefas autônomas. A Yaskawa Electric planeja explorar soluções com Fujitsu e Nvidia."
 },
 {
@@ -218,7 +218,7 @@
 "p": 8.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 23 de novembro que a Lenovo lançou agora o dispositivo de mobilidade vestível do robô exoesqueleto LaiKu Walker ONE no JD.com. Ele será lançado em 28 de novembro e custa 7.999 yuans, com preço inicial de 6.999 yuans. O produto tem peso líquido de 1,8kg e oferece nível de proteção IP54. O corpo utiliza 3 pontos de apoio para dispersar a pressão local, e é travado com 3 pontos e 1 fivela. Pode ser colocado e retirado em 15 segundos. Possui modo esportivo transparente e inteligente, com torque máximo de até 38N·m em ambos os quadris e potência máxima de 900W. Alega-se que a eficiência da assistência à caminhada pode ser ≥45% e também suporta o ajuste da taxa de assistência à marcha com um botão.\nEste produto está equipado com um sistema de percepção de marcha AI que pode reconhecer 6 tipos de posturas (a serem liberadas sucessivamente): subida e descida, corrida, subida e descida de escadas, caminhada, ciclismo e cascalho."
 },
 {
@@ -257,6 +257,39 @@
 "s": "manufacturing.economictimes.indiatimes.com",
 "id": "26316e79e10cf8"
 }
+]
+},
+{
+"id": "22b4da558676c9",
+"t": "A startup suíça coprod levanta US$ 6 milhões para tornar a construção de hardware robótico tão simples quanto o desenvolvimento de software",
+"r": "A startup de hardware robótico coprod arrecadou US$ 6 milhões em uma rodada de financiamento pré-semente liderada por Founderful e PROTOTYPE, com a participação da General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital e Venturekick. Fundada no final de 2024 por…",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/23/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software/27425",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "https://cdn.tech.eu/uploads/2026/11/coprod-featured-241.png",
+"d": "2026-11-23T06:15-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+"lg": "en",
+"p": 7.1,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 3,
+"rx": "A startup de hardware robótico coprod arrecadou US$ 6 milhões em uma rodada de financiamento pré-semente liderada por Founderful e PROTOTYPE, com a participação da General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital e Venturekick. Fundada no final de 2024 por graduados da École polytechnique fédérale de Lausanne (EPFL), a coprod desenvolve componentes de hardware compatíveis para robótica e aplicações físicas de IA, com o objetivo de reduzir o tempo, o custo e a complexidade da construção de sistemas robóticos especializados.\nO desenvolvimento de robôs com hardware personalizado normalmente requer investimentos significativos, equipes de engenharia especializadas e vários anos de desenvolvimento. Loïc Delineau, CEO e cofundador da coprod, disse que simplificar o desenvolvimento de hardware tornará a robótica mais acessível e incentivará uma adoção mais ampla de sistemas construídos especificamente:",
+"o": [
+{
+"f": "Tech.eu",
+"u": "https://tech.eu/2026/11/23/swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-developing-software/",
+"s": "tech.eu",
+"id": "22b4da558676c9"
+}
+],
+"esp": 1,
+"xid": [
+"789bf68b12134c"
 ]
 },
 {
@@ -842,6 +875,27 @@
 "rx": "Neste episódio de As histórias humanas por trás dos robôs, a professora Sabine Hauert OBE compartilha sua jornada desde a experimentação com enxames de robôs voadores até o desenvolvimento de tecnologias que poderiam combater incêndios florestais, monitorar ambientes e transformar o tratamento do câncer. Sabine também explora como ela equilibra o pensamento ousado e otimista com a necessidade de mostrar progresso, co-cria projetos com seus alunos e comunica ideias desconhecidas para que outros possam compreender seu valor.\nNeste episódio, você descobrirá: Como a pesquisa futurista pode se tornar uma solução para o mundo real, por que a rejeição é uma parte normal (e valiosa) da pesquisa, como equilibrar ideias ousadas com progresso tangível, por que contar histórias ajuda ideias desconhecidas a ganhar apoio e como a curiosidade, a colaboração e os modelos de conduta moldam uma carreira."
 },
 {
+"id": "2884cbe6449f3a",
+"t": "Jian Tang, fabricante de robôs: ‘As primeiras coisas que farão será pegar objetos e ligar máquinas de lavar’",
+"r": "Robôs humanóides já estão correndo meias maratonas: “Foi um teste para verificar a estabilidade, confiabilidade e resistência do robô, bem como os algoritmos de inteligência incorporados que ele executa”, diz Jian Tang, diretor de tecnologia (CTO) da empresa chinesa X-Humanoid, uma das empresas por trás desse evento…",
+"u": "https://english.elpais.com/technology/2026-11-23/jian-tang-robot-maker-the-first-things-they-will-do-will-be-to-pick-up-objects-and-run-washing-machines.html",
+"f": "EL PAÍS English",
+"s": "english.elpais.com",
+"i": "https://imagenes.elpais.com/resizer/v2/KECIH7BFMZHAFLFOQRXWMVMQOA.jpg?auth=b57510a87e0bb41917e871a5bf34a6c868a1eb45d1915046c5396109a14982f3&width=1200",
+"d": "2026-11-23T09:50-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Jian Tang, robot maker: ‘The first things they will do will be to pick up objects and run washing machines’",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "El País",
+"mx": 1,
+"rx": "Robôs humanóides já estão correndo meias maratonas: “Foi um teste para verificar a estabilidade, confiabilidade e resistência do robô, bem como os algoritmos de inteligência incorporados que ele executa”, diz Jian Tang, diretor de tecnologia (CTO) da empresa chinesa X-Humanoid, uma das empresas por trás desse evento em 2025. Fazer uma demonstração é fácil porque você coleta dados do ambiente específico onde o robô fará a demonstração.\nQuando o robô entra numa nova casa, muitas vezes vê objetos que nunca viu antes – uma caneca, uma caneta que não reconhece – e pode não ser capaz de manipulá-los. Mas se um robô trabalha para você há muito tempo, você pode começar a tratá-lo como mais um membro da família. Além disso, faz o robô parecer mais humano."
+},
+{
 "id": "ca0635183bb88a",
 "t": "Robôs Humanóides: Costura para os Robôs",
 "r": "A indústria está coletando vídeos de pessoas trabalhando em grande escala. Os robôs AI são treinados com as gravações. Eles poderão em breve assumir o controle dos empregos das pessoas.",
@@ -882,6 +936,185 @@
 "cv": "Interesting Engineering",
 "mx": 1,
 "rx": "Robôs humanóides trocam socos, chutes e golpes de lâmina em um evento em São Francisco, mostrando avanços na robótica e levantando preocupações de segurança."
+},
+{
+"id": "5b3b2f08d4a30f",
+"t": "Realbotix se expande para hospitalidade e automação de eventos com tecnologia de IA",
+"r": "Novo piloto empresarial introduz check-in robótico inteligente, assistência ao hóspede e fluxos de trabalho de serviço automatizados para hotéis, conferências e hotelaria.",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/23/realbotix-expands-into-ai-powered-hospitality-and-event-automation/27426",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-23T10:24-03:00",
+"c": [
+"medicina",
+"servico"
+],
+"l": 0,
+"to": "Realbotix Expands into AI-Powered Hospitality and Event Automation",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9
+},
+{
+"id": "573c91f7fb1634",
+"t": "Quer um drone que capture tudo? O A1 está com desconto de $ 660",
+"r": "Se você estava esperando por um motivo para começar a voar com drones em 360 graus, este pode ser o momento de parar de esperar. O Antigravity A1 Explorer Bundle, apresentando um drone 8K 360 FPV, Vision Goggles e três baterias, caiu de US$ 1.899 para US$ 1.239 em um acordo da Black Friday. Isso representa uma enorme economia de $ 660, ou 35% de desconto…",
+"u": "https://dronedj.com/2026/11/23/antigravity-black-friday-drone-discount/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/antigravity-a1-drone-black-friday-discount-deal.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-23T11:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Want a drone that captures everything? The A1 is $660 off",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"mx": 1,
+"rx": "A capacidade de gravar tudo em 8K 360 e depois escolher o enquadramento é uma proposta bastante atraente, especialmente com este grande desconto da Black Friday."
+},
+{
+"id": "7383a41cbbb276",
+"t": "FCC informa US$ 6 bilhões em investimentos na fabricação de drones nos EUA à medida que as aprovações condicionais se expandem",
+"r": "Novas aprovações destacam a crescente conexão entre restrições de segurança nacional, fabricação nacional e acesso ao mercado de drones dos EUA. A Comissão Federal de Comunicações (FCC) relata US$ 6 bilhões em investimentos na fabricação de drones nos EUA desde dezembro de 2025, associados a 5.700 empregos. A agência diz que é ...",
+"u": "https://dronelife.com/2026/11/23/fcc-drone-manufacturing-investment-conditional-approvals/",
+"f": "DroneLife",
+"s": "dronelife.com",
+"i": "https://dronelife.com/wp-content/uploads/2026/11/Flying-Basket-F3.jpeg",
+"d": "2026-11-23T11:11-03:00",
+"c": [
+"negocios",
+"drones",
+"industriais"
+],
+"l": 0,
+"to": "FCC Reports $6 Billion in U.S. Drone Manufacturing Investment as Conditional Approvals Expand",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneLife",
+"mx": 1,
+"rx": "A Comissão Federal de Comunicações (FCC) relata US$ 6 bilhões em investimentos na fabricação de drones nos EUA desde dezembro de 2025, associados a 5.700 empregos. Num anúncio de 20 de novembro, a FCC destacou novas aprovações condicionais que permitem a entrada de produtos específicos produzidos no estrangeiro no mercado dos EUA, apesar das restrições da sua Lista Coberta. A FCC relata que 71 empresas já receberam aprovações condicionais em quatro categorias de equipamentos, incluindo 23 empresas que produzem drones ou componentes críticos de drones.\nEm dezembro de 2025, a FCC expandiu sua Lista Coberta para incluir drones produzidos no exterior e componentes críticos, seguindo uma determinação de segurança nacional de um órgão interagências do Poder Executivo. Para o setor de drones, a agência relata US$ 6 bilhões em investimentos industriais associados a 5.700 empregos desde dezembro de 2025."
+},
+{
+"id": "0895374c873f54",
+"t": "As ofertas do HoverAir X1 Pro Max tornam a autofilmagem em 8K mais acessível",
+"r": "Imagine pedalar por uma bela trilha na montanha, apreciar a paisagem e ter um drone capturando toda a experiência de cima, sem que você precise tocar em um controlador. Ou caminhar por uma paisagem espetacular e obter imagens cinematográficas de si mesmo sem pedir a um estranho para filmá-lo. Esse é o tipo de…",
+"u": "https://dronedj.com/2026/11/23/hoverair-drone-discount-black-friday/",
+"f": "DroneDJ",
+"s": "dronedj.com",
+"i": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/hoverair-drone-pro-max-cycling-bundle-discount-deal-black-friday.jpg?quality=82&strip=all&w=1200",
+"d": "2026-11-23T11:31-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "HoverAir X1 Pro Max deals make 8K self-filming more affordable",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneDJ",
+"mx": 1,
+"rx": "O HoverAir X1 Pro Max recebe descontos tentadores na Black Friday, a partir de US$ 594. Explore por que este drone voador autônomo de 8K merece sua atenção."
+},
+{
+"id": "badf1340be211b",
+"t": "Wing Patent destaca o papel da embalagem no dimensionamento da entrega de drones",
+"r": "Um novo pedido de patente descreve um pacote projetado para manuseio automatizado, abordando uma parte frequentemente esquecida da entrega comercial de drones. À medida que a entrega comercial de drones se expande, as empresas estão trabalhando para melhorar mais do que aeronaves e sistemas de navegação. Até mesmo o design da embalagem pode afetar a eficiência de um…",
+"u": "https://dronelife.com/2026/11/23/wing-drone-delivery-patent-packaging-design/",
+"f": "DroneLife",
+"s": "dronelife.com",
+"i": "https://dronelife.com/wp-content/uploads/2026/11/Wing-figure-sheet07-w1024.jpeg",
+"d": "2026-11-23T11:40-03:00",
+"c": [
+"drones",
+"entrega"
+],
+"l": 0,
+"to": "Wing Patent Highlights the Role of Packaging in Scaling Drone Delivery",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneLife",
+"mx": 1,
+"rx": "À medida que a entrega comercial de drones se expande, as empresas estão trabalhando para melhorar mais do que aeronaves e sistemas de navegação. Até mesmo o design da embalagem pode afetar a eficiência do funcionamento de uma rede de distribuição. A Wing Aviation, empresa de entrega de drones de propriedade da Alphabet, publicou um pedido de patente descrevendo embalagens com alça de elevação integrada. De acordo com a Patentlyze, o design permite que um drone pegue, transporte e baixe um pacote sem pousar.\nÀ medida que as redes de entrega de drones crescem, as operadoras precisam lidar com mais pedidos sem adicionar complexidade ou custos desnecessários. O dimensionamento da entrega por drones requer sistemas confiáveis ​​para preparar pedidos, carregar aeronaves, transportar pacotes e concluir entregas. Miriam escreveu mais de 3.000 artigos focados no espaço comercial de drones e é palestrante internacional e figura reconhecida na indústria."
+},
+{
+"id": "f4499228b4e052",
+"t": "Robô ‘autorreflexivo’ reconhece suas limitações",
+"r": "Um novo modelo de IA desenvolvido por investigadores da Universidade Técnica de Munique (TUM) ensina os robôs a reconhecer as suas próprias limitações. Quando se deparam com uma situação desconhecida com a qual não conseguem lidar, por exemplo, simplesmente param e esperam que alguém os ajude. Isso permite que os robôs aprendam continuamente novas habilidades…",
+"u": "https://techxplore.com/news/2026-11-robot-limitations.html",
+"f": "Tech Xplore",
+"s": "techxplore.com",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-reflective-robot.jpg",
+"d": "2026-11-23T11:48-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "'Self-reflective' robot recognizes its limitations",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Tech Xplore",
+"mx": 1
+},
+{
+"id": "944a95ed92ee65",
+"t": "Relatório do Congresso destaca o papel da segurança nacional na fabricação comercial de drones",
+"r": "O comitê da Câmara aponta para DJI, baterias de drones e estratégia industrial da China ao examinar os desafios enfrentados pela manufatura dos EUA. Um novo relatório do Congresso identifica a fabricação comercial de drones como uma parte importante da segurança nacional dos EUA, destacando a conexão entre tecnologia civil, industrial…",
+"u": "https://dronelife.com/2026/11/23/congressional-report-us-drone-manufacturing-national-security/",
+"f": "DroneLife",
+"s": "dronelife.com",
+"i": "https://dronelife.com/wp-content/uploads/2024/01/DJI_Inspire_1_Professional_by_D_Ramey_Logan-e1704983577339.jpeg",
+"d": "2026-11-23T11:55-03:00",
+"c": [
+"drones",
+"industriais"
+],
+"l": 0,
+"to": "Congressional Report Highlights National Security Role of Commercial Drone Manufacturing",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "DroneLife",
+"mx": 1,
+"rx": "Um novo relatório do Congresso identifica a produção comercial de drones como uma parte importante da segurança nacional dos EUA, destacando a ligação entre a tecnologia civil, a capacidade industrial e a prontidão militar. O relatório, Rigging the Game: How China Undermined Western Manufacturing and Helped Hollow Out American Industry, vem do Comité Seleto da Câmara sobre a Competição Estratégica entre os Estados Unidos e o Partido Comunista Chinês.\n“Por exemplo, a empresa de drones que fabrica quadricópteros comerciais é um ativo de segurança nacional, quer o governo tenha pretendido isso ou não”, afirma o relatório. O comitê também destaca a importância da capacidade de fabricação de componentes que apoiam a produção de drones. O relatório nomeia especificamente a DJI como um exemplo da posição da China na indústria global de drones."
+},
+{
+"id": "30601154b64490",
+"t": "[Recurso especial ①] A indústria física de IA da China vai além da ‘demonstração de tecnologia’ para a era da ‘implantação em campo’",
+"r": "Recentemente, a China Xinhua e o Instituto de Pesquisa de Informação e Comunicação da China anunciaram conjuntamente o 'Relatório de Inovação da Indústria de IA Física de 2026'. Com base neste relatório, Robot News publica uma série de três partes divididas em ① o estágio de desenvolvimento e as perspectivas de mercado da indústria física de IA da China, ② a estratégia tecnológica três em um e Worken, e ③ as tarefas de resposta da indústria robótica coreana. (Nota do Editor) A análise mostrou que a indústria de IA física da China está entrando em uma nova fase de crescimento que envolve a implantação de robôs em instalações industriais reais e sua operação contínua, além do estágio de desenvolvimento centrado no desempenho do movimento do robô e na demonstração de tecnologia. Sob Xinhua, China",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49757",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49757_105904_846.jpg",
+"d": "2026-11-23T12:26-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "[기획특집 ①] 중국 피지컬 AI 산업, '기술 시연' 넘어 '현장 배치' 시대로",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Recentemente, a China Xinhua e o Instituto de Pesquisa de Informação e Comunicação da China anunciaram conjuntamente o 'Relatório de Inovação da Indústria de IA Física de 2026'. Com base neste relatório, Robot News informou que ① o desenvolvimento da indústria física de IA da China"
 },
 {
 "id": "946a0c729027f9",
@@ -1291,27 +1524,6 @@
 "rx": "Uma startup, olee.space, garantiu um contrato da Organização de Pesquisa e Desenvolvimento de Defesa (DRDO) para desenvolver um sistema de comunicação de link laser indígena para drones, uma tecnologia que poderia ajudar a resolver uma das principais vulnerabilidades expostas na guerra moderna: a interrupção da comunicação através de…"
 },
 {
-"id": "d7096a1a17da38",
-"t": "KI: É assim que começa a revolução na robótica em Trumpf",
-"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600…",
-"u": "https://www.handelsblatt.com/unternehmen/industrie/ki-so-beginnt-bei-trumpf-die-revolution-der-robotik/100248242.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-23T09:04-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "KI: So beginnt bei Trumpf die Revolution der Robotik",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600 desenvolvedores para seu próprio software. Mas a posição está ameaçada pela concorrência chinesa emergente. “Os lasers estão se tornando cada vez mais uma mercadoria intercambiável”, disse o presidente do Conselho de Supervisão, Peter Leibinger, há cinco anos. “Temos que oferecer mais no futuro.\nNem todo software é desenvolvido pela própria Trumpf. A IA tornou-se parte integrante do Trumpf."
-},
-{
 "id": "c183dd4f29c44f",
 "t": "Alerta de três frentes de Mojtaba a Trump: IRGC alerta sobre conspiração dos EUA para alimentar agitação, crise de petroleiros e drones | Vídeos",
 "r": "O Irão está a intensificar os seus avisos a Washington, com ameaças que podem ir além do campo de batalha. À medida que as tensões com os Estados Unidos se aprofundam, as autoridades iranianas levantaram alarmes sobre os alegados esforços dos EUA para alimentar a agitação dentro do Irão, enquanto Teerão ameaça a…",
@@ -1321,7 +1533,8 @@
 "i": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/maxresdefault_1795437045967_Zcin_1795437196048_kP1f_e716fa60-70a6-4bbb-83ad-5800fff9fff7_hFHb.jpg",
 "d": "2026-11-23T09:33-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "Mojtaba’s 3-front warning to Trump: IRGC warns of US plot to fuel unrest, tanker & drone crisis | Videos",
@@ -1355,27 +1568,6 @@
 "rx": "A Abu Dhabi Mobility e o Grupo KEZAD assinaram um memorando de entendimento para construir um centro de testes para tecnologias de drones e veículos autônomos. Sob a supervisão do Conselho de Sistemas Inteligentes e Autônomos, o Centro de Transporte Integrado (Mobilidade de Abu Dhabi), uma afiliada do Departamento de Municípios e Transportes, assinou um Memorando de Entendimento (MoU) com o Grupo KEZAD para colaborar no desenvolvimento de um centro de testes especializado para apoiar o teste de tecnologias de drones e veículos autônomos. A iniciativa visa melhorar a prontidão destas tecnologias para implantação no futuro ecossistema de mobilidade de Abu Dhabi.\nTambém apoia os objectivos de Abu Dhabi de construir um ecossistema de mobilidade inteligente e sustentável e de reforçar a sua posição como um centro de desenvolvimento e teste para tecnologias futuras."
 },
 {
-"id": "2884cbe6449f3a",
-"t": "Jian Tang, fabricante de robôs: ‘As primeiras coisas que farão será pegar objetos e ligar máquinas de lavar’",
-"r": "Robôs humanóides já estão correndo meias maratonas: “Foi um teste para verificar a estabilidade, confiabilidade e resistência do robô, bem como os algoritmos de inteligência incorporados que ele executa”, diz Jian Tang, diretor de tecnologia (CTO) da empresa chinesa X-Humanoid, uma das empresas por trás desse evento…",
-"u": "https://english.elpais.com/technology/2026-11-23/jian-tang-robot-maker-the-first-things-they-will-do-will-be-to-pick-up-objects-and-run-washing-machines.html",
-"f": "EL PAÍS English",
-"s": "english.elpais.com",
-"i": "https://imagenes.elpais.com/resizer/v2/KECIH7BFMZHAFLFOQRXWMVMQOA.jpg?auth=b57510a87e0bb41917e871a5bf34a6c868a1eb45d1915046c5396109a14982f3&width=1200",
-"d": "2026-11-23T09:50-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Jian Tang, robot maker: ‘The first things they will do will be to pick up objects and run washing machines’",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "El País",
-"mx": 1,
-"rx": "Robôs humanóides já estão correndo meias maratonas: “Foi um teste para verificar a estabilidade, confiabilidade e resistência do robô, bem como os algoritmos de inteligência incorporados que ele executa”, diz Jian Tang, diretor de tecnologia (CTO) da empresa chinesa X-Humanoid, uma das empresas por trás desse evento em 2025. Fazer uma demonstração é fácil porque você coleta dados do ambiente específico onde o robô fará a demonstração.\nQuando o robô entra numa nova casa, muitas vezes vê objetos que nunca viu antes – uma caneca, uma caneta que não reconhece – e pode não ser capaz de manipulá-los. Mas se um robô trabalha para você há muito tempo, você pode começar a tratá-lo como mais um membro da família. Além disso, faz o robô parecer mais humano."
-},
-{
 "id": "085e2dc1eb374b",
 "t": "Eles parecem coelhos de verdade, mas esses coelhos robôs têm a missão de salvar os marismas da Flórida; aqui está h",
 "r": "(Veja todas as notícias de negócios, notícias de última hora e atualizações mais recentes no The Economic Times.) KYC e KYB: Zydus Lifesciences – Do balcão da farmácia às farmácias dos EUA.",
@@ -1385,7 +1577,8 @@
 "i": "https://img.etimg.com/thumb/msid-136103582,width-1200,height-675,imgsize-263732,overlay-etpanache/articleshow.jpg",
 "d": "2026-11-23T09:54-03:00",
 "c": [
-"geral"
+"medicina",
+"agricolas"
 ],
 "l": 0,
 "to": "They look like real bunnies, but these robot rabbits have a mission to save Florida’s everglades; here's h",
@@ -1403,11 +1596,11 @@
 "u": "https://www.thehindu.com/news/cities/Tiruchirapalli/nagapattinam-police-intensify-drone-surveillance/article71734565.ece",
 "f": "The Hindu",
 "s": "thehindu.com",
-"i": "https://www.thehindu.com/theme/images/og-image.png",
+"i": "",
 "d": "2026-11-23T10:07-03:00",
 "c": [
-"drones",
-"inspecao"
+"inspecao",
+"drones"
 ],
 "l": 0,
 "to": "Nagapattinam police intensify drone surveillance",
@@ -1415,8 +1608,51 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Hindu",
-"mx": 1,
+"mx": 9,
 "rx": "A polícia distrital de Nagapattinam intensificou a vigilância em todo o distrito utilizando câmaras drone para reforçar a segurança pública, prevenir o crime e manter a lei e a ordem. A vigilância aérea ajuda a polícia a rastrear o movimento público e a identificar situações que requerem atenção imediata. Uma equipe policial dedicada foi designada para operar o equipamento e obter vistas aéreas de vários locais. A tecnologia é utilizada para monitorar movimentos suspeitos, fortalecer medidas de prevenção ao crime e garantir uma resposta rápida durante emergências.\nA polícia distrital afirmou que as medidas de segurança e vigilância continuariam a ser reforçadas através da utilização de tecnologia moderna, reiterando que a segurança pública continua a ser a sua principal prioridade, segundo uma nota de imprensa."
+},
+{
+"id": "9f521627134774",
+"t": "Millennium Silver conclui pesquisa magnética com drone, infraestrutura hídrica e construção de plataforma de perfuração em Silver Peak, Nevada; Local pronto para perfuração",
+"r": "Vancouver, British Columbia--(Newsfile Corp. - 23 de novembro de 2026) - Millennium Silver Corp. (TSXV: MSC) (\"Millennium Silver\" ou a \"Empresa\") tem o prazer de anunciar a conclusão de atividades de campo importantes em seu projeto prata-ouro Silver Peak no condado de Esmeralda, Nevada. Essas atividades incluem…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/8964353/millennium-silver-completes-drone-magnetic-survey-water-infrastructure-and-drill-pad-construction-at-silver-peak-nevada-site-ready-for-drilling/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+"d": "2026-11-23T11:01-03:00",
+"c": [
+"drones",
+"construcao"
+],
+"l": 0,
+"to": "Millennium Silver Completes Drone Magnetic Survey, Water Infrastructure and Drill Pad Construction at Silver Peak, Nevada; Site Ready for Drilling",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "Vancouver, British Columbia--(Newsfile Corp. - 23 de novembro de 2026) - Millennium Silver Corp. (TSXV: MSC) (\"Millennium Silver\" ou a \"Empresa\") tem o prazer de anunciar a conclusão de atividades de campo importantes em seu projeto prata-ouro Silver Peak no condado de Esmeralda, Nevada. Essas atividades incluem levantamento magnético de alta resolução por drone, instalação do sistema de captação de água e construção de plataformas de perfuração.\nRobert Drago, presidente e CEO da Millennium Silver, comentou: \"A conclusão da pesquisa magnética do drone, da infraestrutura hídrica e das plataformas de perfuração é um marco importante. O projeto Silver Peak está localizado no histórico distrito mineiro de Silver Peak, no condado de Esmeralda, Nevada, aproximadamente 11 km a sudoeste da cidade de Silver Peak."
+},
+{
+"id": "9cae309a3c89c2",
+"t": "Diyas deslumbrantes, show de drones para marcar Dev Deepawali em Varanasi | Tempos do Hindustão",
+"r": "O departamento de turismo de Uttar Pradesh e a administração distrital acenderão 1,1 milhão (11 lakh) de lâmpadas de barro (diyas) em 84 ghats ao longo do Ganga em Varanasi para marcar Dev Deepawali na terça-feira. Espera-se que cerca de 15 lakh turistas de todo o país e do exterior cheguem à cidade-templo para o…",
+"u": "https://www.hindustantimes.com/cities/lucknow-news/dazzling-diyas-drone-show-to-mark-dev-deepawali-in-varanasi-101795446800630.html",
+"f": "Hindustan Times",
+"s": "hindustantimes.com",
+"i": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Preparations-for-Dev-Deepawali-under-way-at-a-ghat_1795446795260_OTK5.jpg",
+"d": "2026-11-23T12:13-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Dazzling diyas, drone show to mark Dev Deepawali in Varanasi | Hindustan Times",
+"lg": "mr",
+"p": 4.8,
+"cr": 3,
+"cv": "Hindustan Times",
+"mx": 1,
+"rx": "O departamento de turismo de Uttar Pradesh e a administração distrital acenderão 1,1 milhão (11 lakh) de lâmpadas de barro (diyas) em 84 ghats ao longo do Ganga em Varanasi para marcar Dev Deepawali na terça-feira. Espera-se que cerca de 15 lakh turistas de todo o país e do exterior cheguem à cidade-templo para o festival de um dia celebrado em Kartik Purnima todos os anos.\nComo parte das comemorações, um show de drones acontecerá às 20h sobre as margens arenosas do Ganga, em frente a Dashashwamedh e Assi Ghats. Ganga Aarti será realizado simultaneamente em 51 ghats. De acordo com os dados do departamento de turismo que abrangem a última década (2016-2026), o número de turistas visitantes de fora da cidade aumentou de 2,5 lakh para um recorde de 15 lakh."
 },
 {
 "id": "421c3206571e26",
@@ -1477,7 +1713,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Bloomberg",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3c17b12295f551",
@@ -1499,6 +1735,48 @@
 "cv": "Handelsblatt",
 "mx": 9,
 "rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
+},
+{
+"id": "d7096a1a17da38",
+"t": "KI: É assim que começa a revolução na robótica em Trumpf",
+"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600…",
+"u": "https://www.handelsblatt.com/unternehmen/industrie/ki-so-beginnt-bei-trumpf-die-revolution-der-robotik/100248242.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-23T09:04-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KI: So beginnt bei Trumpf die Revolution der Robotik",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial. Em última análise, Trump pretende tornar os robôs mais inteligentes. Trumpf tem cerca de 600 desenvolvedores para seu próprio software. Mas a posição está ameaçada pela concorrência chinesa emergente. “Os lasers estão se tornando cada vez mais uma mercadoria intercambiável”, disse o presidente do Conselho de Supervisão, Peter Leibinger, há cinco anos. “Temos que oferecer mais no futuro.\nNem todo software é desenvolvido pela própria Trumpf. A IA tornou-se parte integrante do Trumpf."
+},
+{
+"id": "a850cc8c4a80e6",
+"t": "Mercedes ganha vantagem sobre Tesla na corrida pelo sucesso da direção autônoma na Europa",
+"r": "A UE surge como um novo campo de batalha para carros inteligentes e robotáxis",
+"u": "https://www.ft.com/content/d69b4757-1fd0-40f6-b131-63832fc8e4d0?syn-25a6b1a6=1",
+"f": "Financial Times",
+"s": "ft.com",
+"i": "",
+"d": "2026-11-23T10:40-03:00",
+"c": [
+"autonomos",
+"defesa"
+],
+"l": 0,
+"to": "Mercedes gets edge over Tesla in race for self-driving success in Europe",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "Financial Times",
+"mx": 1
 },
 {
 "id": "2a5efb8710f38b",
@@ -1710,48 +1988,6 @@
 "mx": 3
 },
 {
-"id": "22b4da558676c9",
-"t": "A startup suíça coprod levanta US$ 6 milhões para tornar a construção de hardware robótico tão simples quanto o desenvolvimento de software",
-"r": "A startup de hardware robótico coprod arrecadou US$ 6 milhões em uma rodada de financiamento pré-semente liderada por Founderful e PROTOTYPE, com a participação da General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital e Venturekick. Fundada no final de 2024 por…",
-"u": "https://tech.eu/2026/11/23/swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-developing-software/",
-"f": "Tech.eu",
-"s": "tech.eu",
-"i": "https://cdn.tech.eu/uploads/2026/11/coprod-featured-241.png",
-"d": "2026-11-23T06:15-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
-"lg": "en",
-"p": 3.5,
-"cr": 2,
-"cv": "Tech.eu",
-"mx": 3,
-"rx": "A startup de hardware robótico coprod arrecadou US$ 6 milhões em uma rodada de financiamento pré-semente liderada por Founderful e PROTOTYPE, com a participação da General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital e Venturekick. Fundada no final de 2024 por graduados da École polytechnique fédérale de Lausanne (EPFL), a coprod desenvolve componentes de hardware compatíveis para robótica e aplicações físicas de IA, com o objetivo de reduzir o tempo, o custo e a complexidade da construção de sistemas robóticos especializados.\nO desenvolvimento de robôs com hardware personalizado normalmente requer investimentos significativos, equipes de engenharia especializadas e vários anos de desenvolvimento. Loïc Delineau, CEO e cofundador da coprod, disse que simplificar o desenvolvimento de hardware tornará a robótica mais acessível e incentivará uma adoção mais ampla de sistemas construídos especificamente:"
-},
-{
-"id": "4a2b2177095827",
-"t": "Top 5: UGreen, Microsoft, Roborock... as melhores ofertas de 23/11/2026",
-"r": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas…",
-"u": "https://www.lesnumeriques.com/societe-numerique/top-5-ugreen-microsoft-roborock-les-meilleurs-bons-plans-du-23-11-2026-n268284.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-23T07:00-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Top 5 : UGreen, Microsoft, Roborock... les meilleurs bons plans du 23/11/2026",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas e muito bem-vindas que pudemos avaliar... Roborock está lançando sua visão da coisa com um Vapor F25 capaz, dizem, de limpar 660 m² de casa com uma única carga.\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
-},
-{
 "id": "50302b0173a086",
 "t": "Da ligação Sarvam aos drones, tudo o que aconteceu no Bengaluru Tech Summit 2026",
 "r": "A 29ª edição do Bengaluru Tech Summit (BTS), realizada no Bangalore International Exhibition Centre (BIEC), reuniu empreendedores que estão construindo a próxima geração de tecnologia. No Bengaluru Tech Summit 2026, Karnataka anunciou seis iniciativas para fortalecer sua infraestrutura de pesquisa e inovação. Ele…",
@@ -1804,7 +2040,8 @@
 "i": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Robotics-CEO-1.webp",
 "d": "2026-11-23T09:55-03:00",
 "c": [
-"negocios"
+"negocios",
+"ia"
 ],
 "l": 0,
 "to": "Lupa Robotics raises $1.67 million seed funding",
@@ -1816,6 +2053,27 @@
 "rx": "A Lupa Robotics, uma startup de robótica fundada por um estudante de engenharia sul-africano da Universidade de Harvard, arrecadou US$ 1,67 milhão em financiamento inicial para desenvolver modelos de inteligência artificial que ensinem aos robôs como os humanos manipulam objetos. Coletamos dados sobre como os humanos usam as mãos, incluindo movimento, toque e força, para treinar modelos de IA que permitem aos robôs realizar tarefas físicas complexas, de preferência em diferentes designs de robôs”, disse Nureldin Mohamed, fundador da Lupa Robotics, à TechCabal por e-mail na sexta-feira.\nMohamed fundou a Lupa Robotics em 2026 para resolver um problema robótico conhecido como manipulação hábil – a capacidade de um robô de agarrar e manipular objetos com os dedos enquanto controla onde faz contato e quanta força aplica."
 },
 {
+"id": "75a46cbf9cbf5a",
+"t": "Este robô autônomo chinês limpa rios e lagos sem qualquer ajuda humana",
+"r": "A empresa chinesa Dongfang Water desenvolveu o Hebao H3, um robô capaz de detectar e coletar resíduos flutuantes em rios, lagos e lagoas. Para tentar ultrapassar este problema, a empresa chinesa Dongfang Wate r desenvolveu o robô Hebao H3. A empresa chinesa Dongfang Water desenvolveu um robô aquático chamado Hebao H3.",
+"u": "https://www.01net.com/actualites/ce-robot-autonome-chinois-nettoie-les-rivieres-et-les-lacs-sans-aucune-aide-humaine.html",
+"f": "01net.com",
+"s": "01net.com",
+"i": "https://www.01net.com/app/uploads/2026/11/Hebao-H3-1-1600x900.jpg",
+"d": "2026-11-23T10:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Ce robot autonome chinois nettoie les rivières et les lacs sans aucune aide humaine",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "01net",
+"mx": 1,
+"rx": "A empresa chinesa Dongfang Water desenvolveu o Hebao H3, um robô capaz de detectar e coletar resíduos flutuantes em rios, lagos e lagoas. Para tentar ultrapassar este problema, a empresa chinesa Dongfang Wate r desenvolveu o robô Hebao H3. A empresa chinesa Dongfang Water desenvolveu um robô aquático chamado Hebao H3.\nDe referir ainda que o robô aquático Hebao H3 é totalmente autónomo, do início ao fim do processo de limpeza. O Hebao H3 pode, portanto, realizar várias sessões de limpeza sem qualquer intervenção humana. O robô aquático Hebao H3 da empresa chinesa Dongfang Water é outra solução proposta para combater a poluição da água."
+},
+{
 "id": "4de47a4b973be5",
 "t": "Robôs nas veias: é assim que os pequenos rastreadores devem ajudar nos derrames",
 "r": "Os microrrobôs rotativos dissolvem os coágulos sanguíneos mais rapidamente do que as terapias anteriores. Mas os jalecos brancos em escala micrométrica podem fazer ainda mais.",
@@ -1825,7 +2083,8 @@
 "i": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/4/5/2/katheter-a4697f65576f7d58.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
 "d": "2026-11-23T10:12-03:00",
 "c": [
-"geral"
+"companhia",
+"microrrobos"
 ],
 "l": 0,
 "to": "Roboter in den Adern: So sollen kleine Krabbler bei Schlaganfall helfen",
@@ -1835,6 +2094,48 @@
 "cv": "heise online",
 "mx": 1,
 "rx": "Os microrrobôs rotativos dissolvem os coágulos sanguíneos mais rapidamente do que as terapias anteriores. Mas os jalecos brancos em escala micrométrica podem fazer ainda mais."
+},
+{
+"id": "7cad822521318d",
+"t": "O FSD v15 da Tesla transforma recursos visuais de direção em Grand Theft Auto",
+"r": "A Tesla começou a lançar o Full Self-Driving (Supervised) v15, chamando-o de uma revisão completa de seu sistema de assistência ao motorista de ponta a ponta. A peça central é o Reality View, um display generativo em tempo real que troca antigos gráficos de wireframe por um ângulo de câmera suspenso ao vivo que permite que os motoristas vejam e toquem para influenciar o que…",
+"u": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+"f": "The Verge",
+"s": "theverge.com",
+"i": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&strip=all&crop=0%2C3.0843968816805%2C100%2C93.831206236639&w=1200",
+"d": "2026-11-23T11:12-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "The Verge",
+"mx": 1,
+"rx": "A atualização troca wireframes em blocos por uma alimentação aérea fotorrealista e promete um aumento de segurança “25x”, mesmo enquanto os reguladores federais continuam investigando o software. Tesla começou a lançar Full Self-Driving (Supervisioned) v15, chamando-o de uma revisão completa de seu sistema de assistência ao motorista de ponta a ponta. A peça central é o Reality View, um display generativo em tempo real que troca antigos gráficos de wireframe por um ângulo de câmera suspenso ao vivo que permite que os motoristas vejam e toquem para influenciar o que o carro planeja fazer a seguir.\nMesmo Elon Musk não resistiu à comparação no X, postando “FSD is GTA irl” logo após a atualização ser lançada no sábado. Nos bastidores, o FSD v15 é executado em um codificador de visão atualizado, compartilhado entre os programas de robôs humanóides FSD, Robotaxi e Optimus da Tesla."
+},
+{
+"id": "d821a8f4e51699",
+"t": "Black Friday 2026: Aspirador robô Dyson R2 Nurovi Wash+Dry por € 469,00 (-30%)",
+"r": "A Dyson busca se reposicionar no setor de robôs de limpeza com o Dyson R2 Nurovi Wash+Dry, um dispositivo multifuncional projetado para a limpeza diária de pisos duros. Este modelo se destacou durante a visita ao nosso laboratório pela eficiência de sucção e pela estação sem saco que reduz custos de manutenção. Por…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-dyson-r2-nurovi-wash-dry-a-469-00-30-n268332.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/26/263857/0f6aff8e-aspirateur-robot-dyson-r2-nurovi-wash-dry__1200_678__overflow_wtmk.webp",
+"d": "2026-11-23T11:14-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Black Friday 2026 : L'aspirateur robot Dyson R2 Nurovi Wash+Dry à 469,00 € (-30%)",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "A Dyson busca se reposicionar no setor de robôs de limpeza com o Dyson R2 Nurovi Wash+Dry, um dispositivo multifuncional projetado para a limpeza diária de pisos duros. Este modelo se destacou durante a visita ao nosso laboratório pela eficiência de sucção e pela estação sem saco que reduz custos de manutenção. Por ocasião da Black Friday, este aspirador robot desce para 469,00€ na Amazon, ou cerca de 30% menos que o preço médio observado nos últimos 30 dias (671,67€).\nNo banco de testes, o Dyson R2 Nurovi Wash+Dry garante uma recolha cuidadosa do pó em superfícies duras e em fissuras no pavimento em parquet, ao mesmo tempo que mantém um nível de ruído contido na potência máxima. Suas habilidades motoras permitem superar soleiras ou obstáculos de até 4 cm, o que evita bloqueios recorrentes entre duas partes."
 },
 {
 "id": "375d2919ede001",
@@ -1856,7 +2157,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -1882,6 +2183,27 @@
 "rx": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software que convertem informações de campo em dados em um formato que pode ser aprendido por máquina. Nossa empresa fará uma exposição conjunta com a AVITA Corporation e a Booster Robotics para apresentar soluções que utilizam IA física."
 },
 {
+"id": "4a2b2177095827",
+"t": "Top 5: UGreen, Microsoft, Roborock... as melhores ofertas de 23/11/2026",
+"r": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas…",
+"u": "https://www.lesnumeriques.com/societe-numerique/top-5-ugreen-microsoft-roborock-les-meilleurs-bons-plans-du-23-11-2026-n268284.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-23T07:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Top 5 : UGreen, Microsoft, Roborock... les meilleurs bons plans du 23/11/2026",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas e muito bem-vindas que pudemos avaliar... Roborock está lançando sua visão da coisa com um Vapor F25 capaz, dizem, de limpar 660 m² de casa com uma única carga.\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
+},
+{
 "id": "c53779c3e98a39",
 "t": "A Fidelity leva a sua luta contra o crime para o céu com Fidelity Drone Solutions",
 "r": "",
@@ -1899,7 +2221,27 @@
 "p": 2.2,
 "cr": 2,
 "cv": "MyBroadband",
-"mx": 2
+"mx": 3
+},
+{
+"id": "96634f2cd329a8",
+"t": "Botzan (robô Botzan)",
+"r": "",
+"u": "https://www.techinasia.com/companies/botzan",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-23T12:20-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Botzan (泊展机器人)",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "Tech in Asia",
+"mx": 1
 }
 ],
 "2026-11-22": [
@@ -3280,7 +3622,7 @@
 "u": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
 "f": "The Hindu",
 "s": "thehindu.com",
-"i": "https://www.thehindu.com/theme/images/og-image.png",
+"i": "",
 "d": "2026-11-22T06:55-03:00",
 "c": [
 "drones"
@@ -3291,7 +3633,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Hindu",
-"mx": 1,
+"mx": 9,
 "rx": "A autoridade observou que \"manter uma listagem comercial ativa com especificações técnicas completas, um preço de ₹ 8.30.000 e um indicador 'Em estoque' em uma entidade de comércio eletrônico de mercado proeminente estabeleceu claramente a intenção de oferecer os produtos para venda e solicitar potenciais compradores.\" Rejeitando isso, a CCPA disse que se tratava de “uma afirmação nua, feita somente após o Show Cause Notice e contrariada pela própria listagem”, e não poderia ser aceita como prova.\nA CCPA também rejeitou a alegação da empresa de que termos como \"arma anti-drone\", \"dispositivo de guerra eletrônica\" e \"drones neutralizantes\" foram usados ​​\"puramente como títulos descritivos\" para transmitir o \"design estético\" do modelo, e que a listagem era \"puramente conceitual e ornamental\"."
 },
 {
@@ -4234,7 +4576,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Dong-A Ilbo",
-"mx": 1
+"mx": 2
 },
 {
 "id": "a6025e58d8957e",
@@ -4491,7 +4833,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 }
 ],
@@ -8072,6 +8414,28 @@
 "rx": "FPV é a outra maneira de pilotar um drone: através de óculos, da própria câmera da aeronave, para velocidade e acrobacias, em vez de enquadramento e pairação. No lado do hobby, o caminho pronto para voar passa pela linha Avata canalizada da DJI – nossa análise do Avata 360 cobre a primeira tentativa de FPV 360° da DJI, e a comparação do Antigravity A1 cobre seu primeiro verdadeiro desafiante. Escolha seus óculos com cuidado – a compatibilidade é onde a maior parte do dinheiro do FPV é desperdiçada.\nE o FPV é o centro da história da defesa: as munições ociosas são drones FPV com uma ogiva, a Ucrânia reescreveu a guerra moderna com elas e os fabricantes dos EUA estão agora a escalar para corresponder. A empresa de defesa ucraniana Stellarion afirma que seus drones Deadliner FPV deixam cair uma bateria descarregada durante o vôo, o que aumenta o alcance em cerca de 15 por cento."
 },
 {
+"id": "efc4e742551661",
+"t": "THEO, o robô, assume a logística hospitalar",
+"r": "O hospital Fleurimont em Sherbrooke está em processo de implantação de uma série de quatro robôs autônomos destinados a ajudar a transportar amostras médicas de baixa prioridade dos postos de enfermagem para os laboratórios. O apresentador convidado do Quebec AM, Gordon Lambie, fala com Jonathan O. Maruca, um dos…",
+"u": "https://www.cbc.ca/player/play/audio/9.7432299",
+"f": "CBC",
+"s": "cbc.ca",
+"i": "https://i.cbc.ca/ais/5964b3b5-3386-451c-a968-968677df455e,1763571362597/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+"d": "2026-11-20T05:00-03:00",
+"c": [
+"medicina",
+"logistica"
+],
+"l": 0,
+"to": "THEO the robot takes on hospital logistics",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CBC",
+"mx": 1,
+"rx": "O hospital Fleurimont em Sherbrooke está em processo de implantação de uma série de quatro robôs autônomos destinados a ajudar a transportar amostras médicas de baixa prioridade dos postos de enfermagem para os laboratórios. O apresentador convidado do Quebec AM, Gordon Lambie, fala com Jonathan O. Maruca, um dos criadores do robô, para descobrir como o projeto surgiu."
+},
+{
 "id": "86ff42ed4cd9cb",
 "t": "Um robô que se torna pirata quando usa um chapéu de pirata e se torna rei quando usa uma coroa!",
 "r": "A tecnologia está sendo desenvolvida para mudar funções e personalidades, anexando fantasias ou acessórios a robôs, como o Rich Mini da francesa Pollen Robotics. Estamos aumentando a utilização de robôs por meio do reconhecimento NFC e da substituição de equipamentos, o que deverá contribuir para melhorar a…",
@@ -8626,27 +8990,6 @@
 "mx": 1,
 "rx": "“Desenvolvemos um sistema robótico inteligente que reconhece e leva em consideração uma ampla variedade de situações”, explica Jannik Möhrle, 29 anos, gerente de projetos do Instituto Fraunhofer de Augsburg para Tecnologia de Fundição, Compósitos e Processamento, ou IGCV, abreviadamente. Desde junho de 2021, lidera um projeto de cooperação planejado e implementado pela Fraunhofer IGCV em conjunto com a MRK-Systeme GmbH e a Roboception GmbH, ambas sediadas em Fuggerstadt. “Nosso objetivo é proteger os trabalhadores que trabalham com resíduos contra o vento e as intempéries e reduzir significativamente o seu esforço físico”, diz Jannik Möhrle.\nDepois que o robô aprendeu as armadilhas de seu mundo virtual e provou ser capaz de se movimentar nele sem acidentes, começou a próxima fase do treinamento: testes práticos no salão, com barris reais, obstáculos reais e o braço do robô.",
 "cur": 1
-},
-{
-"id": "89cce9941fb92c",
-"t": "AI: Como começa a revolução da robótica na Trumpf",
-"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema…",
-"u": "https://www.handelsblatt.com/unternehmen/industrie/ki-wie-bei-trumpf-die-revolution-der-robotik-beginnt/100248242.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-20T12:30-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "KI: Wie bei Trumpf die Revolution der Robotik beginnt",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema central para a empresa familiar, que se especializa principalmente no uso de lasers – desde o processamento de chapas metálicas até a produção de chips. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial.\nPorque a concorrência chinesa está agora a causar problemas até mesmo ao líder de longa data do mercado global. O Handelsblatt recebeu insights exclusivos sobre a área sensível da série Trumpf for the Future Designers."
 },
 {
 "id": "ba7e07519e55e5",
@@ -9363,6 +9706,27 @@
 "rx": "Em 18 de novembro de 2026, o conselho da Wetour Robotics Limited aprovou a renúncia de Bin Lian como diretor de tecnologia, a partir daquele dia. A empresa afirmou que a demissão não se deveu a desentendimentos com as suas operações, políticas ou procedimentos e que estava à procura activa de um candidato qualificado para preencher a vaga resultante."
 },
 {
+"id": "89cce9941fb92c",
+"t": "AI: Como começa a revolução da robótica na Trumpf",
+"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema…",
+"u": "https://www.handelsblatt.com/unternehmen/industrie/ki-wie-bei-trumpf-die-revolution-der-robotik-beginnt/100248242.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-20T12:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KI: Wie bei Trumpf die Revolution der Robotik beginnt",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema central para a empresa familiar, que se especializa principalmente no uso de lasers – desde o processamento de chapas metálicas até a produção de chips. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial.\nPorque a concorrência chinesa está agora a causar problemas até mesmo ao líder de longa data do mercado global. O Handelsblatt recebeu insights exclusivos sobre a área sensível da série Trumpf for the Future Designers."
+},
+{
 "id": "e87216191a51ae",
 "t": "Taiwan construirá plataforma de simulação robótica com mais de 30 participantes da indústria para avançar no desenvolvimento de robôs inteligentes",
 "r": "Taiwan planeja estabelecer um sistema de simulação robótica e gerenciamento de campo de treinamento para reduzir custos de desenvolvimento, acelerar a implantação de robôs autônomos e fortalecer a competitividade de sua indústria de robótica inteligente, disse um alto funcionário do governo...",
@@ -9655,6 +10019,27 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
+},
+{
+"id": "9971eabdd9cf89",
+"t": "Melhor negócio de drone: Economize $ 134 no DJI Flip (RC-N3)",
+"r": "Em 19 de janeiro, o drone com câmera 4K DJI Flip (RC-N3) está à venda por US$ 305 na Amazon, abaixo do preço de tabela de US$ 439 – um desconto de 31% e o preço mais baixo de todos os tempos para a Black Friday. O drone de câmera 4K DJI Flip (RC-N3) para iniciantes caiu para US $ 305 na Amazon na Black Friday…",
+"u": "https://mashable.com/tech/nov-19-dji-flip-4k-drone-early-black-friday-deal",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/04MPcHcYo63kqKpeuXBeGEf/hero-image.fill.size_1200x675.v1795095288.jpg",
+"d": "2026-11-20T06:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Best drone deal: Save $134 on the DJI Flip (RC-N3)",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "Em 19 de janeiro, o drone com câmera 4K DJI Flip (RC-N3) está à venda por US$ 305 na Amazon, abaixo do preço de tabela de US$ 439 – um desconto de 31% e o preço mais baixo de todos os tempos para a Black Friday. O drone de câmera 4K DJI Flip (RC-N3) para iniciantes caiu para US $ 305 na Amazon na Black Friday, reduzindo seu preço de tabela normal de US $ 439 em US $ 134. Se você está pensando em entrar na fotografia aérea sem ter que lidar com regras de voo complicadas, o DJI Flip foi desenvolvido para manter as coisas simples.\nComo pesa menos de 249 gramas, você não precisa se preocupar com o registro da FAA ou com o Remote ID nos EUA antes de decolar. Este pacote inclui o drone DJI Flip, o controle remoto RC-N3 padrão (que usa seu smartphone como tela ao vivo) e uma bateria de vôo inteligente para que você possa voar imediatamente."
 },
 {
 "id": "5f5623d0edf139",
@@ -10399,25 +10784,6 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
-},
-{
-"id": "9971eabdd9cf89",
-"t": "Melhor negócio de drone: Economize $ 134 no DJI Flip (RC-N3)",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMVlaVkVpMVpmUGZYem03bzI2ekRycXE0bWRsbHpyRFlzSWZpWEVKdHdxeElLNko1UXVYQjhpVzRRZHd1LUhCYVlNUnFTYXZxNEpBbTBPQWk3NE90MkE0N1ZzMmtnN2JmQ28yYUtKaE8yS0VaRko3ZDVJVTdEY3c?oc=5",
-"f": "Mashable",
-"s": "mashable.com",
-"i": "",
-"d": "2026-11-20T06:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Best drone deal: Save $134 on the DJI Flip (RC-N3)",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Mashable"
 },
 {
 "id": "d6c02af32535b8",
@@ -11284,36 +11650,6 @@
 ]
 },
 {
-"id": "07bfb6103d754b",
-"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
-"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
-"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
-"lg": "en",
-"p": 7.1,
-"cr": 3,
-"cv": "AFP",
-"mx": 2,
-"o": [
-{
-"f": "Robotics Tomorrow",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
-"s": "roboticstomorrow.com",
-"id": "4ff85e0a20bcda"
-}
-],
-"esp": 1,
-"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
-},
-{
 "id": "b8afc9a9b09a44",
 "t": "Robôs dançantes, máquinas servindo: Shenzhen mostra sua força tecnológica na cúpula da APEC",
 "r": "Cúpula da APEC, Shenzhen se transforma em uma vitrine da alta tecnologia chinesa. Robôs humanóides entretêm jornalistas cantando e dançando.",
@@ -11509,6 +11845,36 @@
 "id": "61e889ab9c2258"
 }
 ]
+},
+{
+"id": "07bfb6103d754b",
+"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
+"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
+"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+"lg": "en",
+"p": 6.1,
+"cr": 3,
+"cv": "AFP",
+"mx": 1,
+"o": [
+{
+"f": "Robotics Tomorrow",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
+"s": "roboticstomorrow.com",
+"id": "4ff85e0a20bcda"
+}
+],
+"esp": 1,
+"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "31d24e91b986a1",
@@ -12876,6 +13242,27 @@
 "rx": "A IT House informou em 19 de novembro que o CEO da Tesla, Elon Musk, disse hoje em uma entrevista em vídeo que se espera que nos próximos 12 a 18 meses, o robô humanóide Optimus (Optimus Prime) seja capaz de realizar tarefas domésticas, como tirar o lixo, lavar louça e colocar a louça nos armários.\nMusk disse que a Optimus deverá concluir a operação complexa de várias etapas dentro de 12 a 18 meses, primeiro para a indústria pesada e depois para residências. Além disso, Musk revelou que uma nova rodada de demonstrações de robôs humanóides Optimus está chegando e deverá ser realizada nos próximos um a dois meses. Musk disse na entrevista: “A Optimus está indo muito bem."
 },
 {
+"id": "ace416d9243c51",
+"t": "Chegar AI Robot adiciona execuções diárias de amostras no Hancock Health Lab",
+"r": "A Arrival AI diz que a Hancock Health está adicionando uma segunda unidade de recebimento do Arrival Point, em seu edifício Parkway em Greenfield, Indiana. Um robô coletará amostras de um novo Arrival Point™ em Parkway e as transportará para o laboratório do Hancock Regional Hospital várias vezes ao dia. Um Arrival…",
+"u": "https://dronexl.co/2026/11/19/arrive-ai-hancock-health-parkway-specimen-robot-runs/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/arrive-ai-arrive-point-courier-door-file-photo.webp",
+"d": "2026-11-19T07:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Arrive AI Robot Adds Daily Specimen Runs at Hancock Health Lab",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Arrival AI diz que a Hancock Health está adicionando uma segunda unidade de recebimento do Arrival Point, em seu edifício Parkway em Greenfield, Indiana. Um robô coletará amostras de um novo Arrival Point™ em Parkway e as transportará para o laboratório do Hancock Regional Hospital várias vezes ao dia. Um Arrival Point™ está sendo adicionado no edifício Parkway, fora do hospital, para que as amostras do serviço de flebotomia possam chegar ao laboratório do Hancock Regional Hospital com mais frequência.\nDesde agosto de 2025, o sistema autônomo de transporte de amostras da Arrival AI transporta amostras de um Arrival Point™ no Hancock Health Sue Ann Wortman Cancer Center para o laboratório dentro do Hancock Regional Hospital. Com o novo Arrival Point™, a equipe da Parkway colocará as amostras na unidade, e um robô terrestre autônomo já operando em Hancock fará de quatro a cinco coletas programadas por dia para transportá-las ao laboratório."
+},
+{
 "id": "10fefa9c5dafe6",
 "t": "Fornecedores de automóveis alemães recorrem a drones à medida que a crise automobilística se aprofunda",
 "r": "Os fabricantes alemães de autopeças estão migrando para drones, defesa e espaço à medida que a crise da indústria automobilística do país se aprofunda, com uma empresa familiar bávara agora capaz de produzir 1.000 drones de vigilância todos os meses, enquanto tenta depender menos das montadoras.",
@@ -13477,6 +13864,28 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "O grupo de defesa australiano Electro Optic Systems nomeou Kais Mnif presidente e presidente do MARSS Group, o especialista em contra-drones que a EOS adquiriu em maio de 2026. Mnif terá sede em Nice e se reportará ao presidente-executivo da EOS, Andreas Schwer. Johannes Pinl permanece como executivo-chefe da MARSS, liderando vendas e crescimento. A Electro Optic Systems (EOS) nomeou Kaïs Mnif como presidente e presidente do Grupo MARSS. A MARSS, especialista em combate a drones, foi adquirida pela EOS em maio de 2026. Kaïs reporta-se ao Dr. Andreas Schwer, CEO e Diretor Geral da EOS, e ficará baseado no escritório da MARSS em Nice.\nKaïs Mnif, presidente e presidente do Grupo MARSS, disse: “A MARSS construiu tecnologia e uma equipe em que os clientes confiam para proteger o que é mais importante."
+},
+{
+"id": "a254d55af23a04",
+"t": "J-Star contrata Mitsubishi Chemical para fábrica de fuselagem de drones nos EUA",
+"r": "A J-Star Holding de Taiwan disse que expandiu seu trabalho com a Mitsubishi Chemical, tornando a empresa japonesa o principal fornecedor de fibra de carbono especial para a fábrica de fuselagem composta que a J-Star planeja perto de Houston. (Nasdaq: YMAT) (“J-Star” ou a “Empresa”), uma inovadora na fabricação…",
+"u": "https://dronexl.co/2026/11/19/j-star-mitsubishi-chemical-carbon-fiber-us-uav-plant/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wire-card-j-star-holding-20261119.webp",
+"d": "2026-11-19T15:51-03:00",
+"c": [
+"drones",
+"industriais"
+],
+"l": 0,
+"to": "J-Star Taps Mitsubishi Chemical for US Drone Airframe Plant",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A J-Star Holding de Taiwan disse que expandiu seu trabalho com a Mitsubishi Chemical, tornando a empresa japonesa o principal fornecedor de fibra de carbono especial para a fábrica de fuselagem composta que a J-Star planeja perto de Houston. (Nasdaq: YMAT) (“J-Star” ou a “Empresa”), uma inovadora na fabricação avançada de compósitos, anunciou hoje uma expansão de sua colaboração estratégica com a Mitsubishi Chemical, estabelecendo a Mitsubishi Chemical como fornecedor principal de materiais especiais de fibra de carbono para as operações de fabricação planejadas da J-Star nos EUA. O relacionamento ampliado combina a experiência em materiais avançados e os recursos técnicos da Mitsubishi Chemical com as tecnologias de fabricação de compósitos proprietárias da J-Star para apoiar o desenvolvimento de uma cadeia de fornecimento doméstica para as operações planejadas de fabricação de veículos aéreos não tripulados (UAV) da empresa nos EUA."
 },
 {
 "id": "a3e872370f4bb6",
@@ -14926,25 +15335,6 @@
 "rx": "É o caso dos modelos MAMMOTION, que contam com todo um arsenal de tecnologias: navegação sem cabos periféricos, detecção de obstáculos por inteligência artificial, mapeamento automático ou mesmo tração integral para enfrentar terrenos difíceis. Para jardins de médio porte com declives: o LUBA mini 2 AWD 1000 e 1500 Quando se tem um jardim de médio porte, mas cuja configuração apresenta algumas dificuldades, como declives, passagens estreitas ou muitas árvores, o desafio é encontrar um cortador de grama robô eficiente, sem investir em um modelo superdimensionado.\nLUBA mini 2 AWD 1500 na promoção Black Friday (-€369) LUBA mini 2 AWD 1000 na promoção Black Friday na Amazon (-17%)"
 },
 {
-"id": "ace416d9243c51",
-"t": "Chegar AI Robot adiciona execuções diárias de amostras no Hancock Health Lab",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVhockh5a2V2cmVadnNfYml1d01oQjNpaVVDN0pfZEN5TERwVUJ1c250VlNTUEZFVkkzbmlBbXRuelNUdmlzTUlYQkhhN2ZpN24tLWlEV0JncjJBTmlqYjduUkF0UGdpeGJaZDB1Z3BDcU5wWVVzZDlDbHNVWnB0cS02VGwyZEtGZW1z?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-19T07:25-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Arrive AI Robot Adds Daily Specimen Runs at Hancock Health Lab",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "95809e9ed25c6b",
 "t": "Lefant possui um aspirador robô que sempre limpa com água limpa. E nesta Black Friday temos pela metade do preço",
 "r": "O preço deste robô é de 699,99 euros, mas neste momento está reduzido para 349,99 euros. Junto com isso, também temos o Lefant M210 Omni disponível com oferta da Black Friday. Este robô compartilha certas características com o anterior, como um design bastante pequeno (tem 28 centímetros de diâmetro e 8,5 centímetros…",
@@ -15110,26 +15500,6 @@
 "cr": 3,
 "cv": "USA Today",
 "mx": 3
-},
-{
-"id": "a254d55af23a04",
-"t": "J-Star contrata Mitsubishi Chemical para fábrica de fuselagem de drones nos EUA",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXMwNHFSRTFra3lhWWJoSnQxN0llUjVlVnAycWR6bzZVNFJRNW9Ebzc1MFk4ZTBnOFBGZGkxWmhiUmtLZEVTdDZDcUR0ZUhfWURJWF9ZRHd2WGljZnVPel9vaWZiNXI2bUhfTUw2c2FsMnJPRzRiNERWRHJkV2Q1Q04xMzlLdDBPck1V?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-19T15:51-03:00",
-"c": [
-"drones",
-"industriais"
-],
-"l": 0,
-"to": "J-Star Taps Mitsubishi Chemical for US Drone Airframe Plant",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
 },
 {
 "id": "475799b344b7d3",
@@ -15832,6 +16202,27 @@
 "cv": "DroneXL",
 "mx": 1,
 "rx": "Pesquisadores da Universidade Agrícola do Sul da China, em Guangzhou, construíram um sistema de semeadura por drones que lança arroz germinado em fileiras em um arrozal, em vez de espalhá-lo. Num ensaio de campo colhido em Novembro de 2025, as parcelas semeadas desta forma renderam 6.731 kg por hectare (cerca de 6.000 libras por acre), contra 6.040 kg das parcelas semeadas por um drone de transmissão convencional.\nO drone voou a 4,5 mph (2 m/s), 6,6 pés (2 metros) acima da lama, e atingiu suas fileiras com mais força do que o mesmo equipamento operando uma bomba comprada em loja. A solução da equipe SCAU é a velocidade: uma bomba pressuriza uma pasta de sementes e a dispara em pulsos de 10 Hz, rápido o suficiente para limitar até que ponto a lavagem empurra as sementes para fora da linha. Essa bomba movimentou 1,12 kg de chorume por segundo e quebrou 0,74% das sementes, abaixo do teto de 0,8% estabelecido pelo padrão nacional da China para a semeadura de arroz com drones."
+},
+{
+"id": "e58da6fab43871",
+"t": "Factorial lança plataforma de bateria FAERO voltada para drones",
+"r": "A Factorial Energy afirma ter lançado o FAERO, uma plataforma de bateria de eletrólito líquido construída para clientes de drones e aeroespaciais. A empresa afirma ter uma densidade de energia até 80% maior e quatro vezes mais energia na potência máxima em comparação com as atuais células de íons de lítio de alta…",
+"u": "https://dronexl.co/2026/11/18/factorial-faero-drone-battery-platform-anode-free/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wire-card-factorial-energy-20261118.webp",
+"d": "2026-11-18T22:45-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "Factorial Launches FAERO Battery Platform Aimed at Drone Power",
+"lg": "en",
+"p": 10.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Factorial Energy afirma ter lançado o FAERO, uma plataforma de bateria de eletrólito líquido construída para clientes de drones e aeroespaciais. A empresa afirma ter uma densidade de energia até 80% maior e quatro vezes mais energia na potência máxima em comparação com as atuais células de íons de lítio de alta potência, construídas em sua linha de fabricação FEST existente. Construído para transformar a energia aeroespacial, o FAERO™ foi projetado para missões de longo alcance e alta velocidade com densidade de energia até 80% maior e 4 vezes mais energia em potência máxima em comparação com as atuais células de íons de lítio de alta potência.\nBOSTON, Massachusetts, 18 de novembro de 2026 – Factorial Energy Inc. (“Factorial”) (Nasdaq: FAC), líder global em tecnologia avançada de baterias, apresentou hoje a FAERO™, uma plataforma de bateria de eletrólito líquido que amplia a tecnologia FEST® da empresa para atender à crescente demanda de clientes de drones e aeroespaciais por maior potência sem aumento de peso da bateria."
 },
 {
 "id": "faad7efd24d1cd",
@@ -16582,7 +16973,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -31046,27 +31437,6 @@
 "rx": "A Air White Whale da China voou sua aeronave de carga não tripulada W5000 pela primeira vez em 14 de novembro, um vôo de teste de 30 minutos do aeroporto de aviação geral em Otog Front Banner, na Mongólia Interior. A Air White Whale agora visa o serviço comercial até o final de 2027, pelo menos um ano após as primeiras entregas esperadas quando a aeronave foi lançada em 18 de outubro de 2024.\nTodo cargueiro negocia combustível contra carga, então o alcance com carga total será inferior a 1.616 milhas, e a Air White Whale não publicou esse número com o voo. A Força Aérea investiu o capital inicial em um cargueiro especialmente construído, e nada na classe W5000 tem um comprador americano, então o software continua indo para um avião utilitário que o Cessna voou pela primeira vez em 1982."
 },
 {
-"id": "eb0e0345763c7b",
-"t": "Indústria: como a Trumpf está expandindo sua área de negócios de robótica com IA",
-"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema…",
-"u": "https://www.handelsblatt.com/unternehmen/industrie/industrie-wie-trumpf-mit-ki-sein-robotik-geschaeftsfeld-erweitert/100248242.html",
-"f": "Handelsblatt",
-"s": "handelsblatt.com",
-"i": "",
-"d": "2026-11-16T11:56-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "Industrie: Wie Trumpf mit KI sein Robotik-Geschäftsfeld erweitert",
-"lg": "de",
-"p": 4.8,
-"cr": 3,
-"cv": "Handelsblatt",
-"mx": 9,
-"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema central para a empresa familiar, que se especializa principalmente no uso de lasers – desde o processamento de chapas metálicas até a produção de chips. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial.\nPorque a concorrência chinesa está agora a causar problemas até mesmo ao líder de longa data do mercado mundial. O Handelsblatt recebeu insights exclusivos sobre a área sensível da série Trumpf for the Future Designers."
-},
-{
 "id": "92347434ede9b9",
 "t": "Os drones de spray castanho-aloirados desfolharam o algodão como uma plataforma terrestre com menos água",
 "r": "Os drones de pulverização desfolharam o algodão tão bem quanto um pulverizador terrestre nos testes de campo da Universidade de Auburn, no Alabama, embora os drones tenham deixado uma cobertura de pulverização mais baixa e menos uniforme nas plantas. Os drones pulverizadores lançaram uma mistura desfolhante de três…",
@@ -31945,6 +32315,27 @@
 "cv": "United Daily News",
 "mx": 9,
 "rx": "A Huawei Cloud, uma marca da chinesa Huawei, anunciou hoje que lançou a pré-venda de uma nova geração de robôs de limpeza inteligentes desenvolvidos em conjunto com a Fulongma, uma empresa de equipamentos de limpeza ecológicos. A Huawei Cloud também lançou oficialmente e abriu o código-fonte do modelo mundial incorporado nativo da Ascend, CloudRobo-WM1.2, estendendo-se à cadeia da indústria de robôs. O China Business News informou que a Huawei Cloud fornecerá ao produto a cadeia de ferramentas de desenvolvimento CloudRobo, modelo de percepção e planejamento, plataforma operacional de agente e poder de computação em nuvem Shengteng.\nO relatório apontou que a Huawei optou por não fabricar diretamente o corpo do robô, mas forneceu modelos, poder computacional e ferramentas de desenvolvimento através da plataforma CloudRobo, na tentativa de se tornar uma base tecnológica compartilhada por diferentes fabricantes de robôs."
+},
+{
+"id": "eb0e0345763c7b",
+"t": "Indústria: como a Trumpf está expandindo sua área de negócios de robótica com IA",
+"r": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema…",
+"u": "https://www.handelsblatt.com/unternehmen/industrie/industrie-wie-trumpf-mit-ki-sein-robotik-geschaeftsfeld-erweitert/100248242.html",
+"f": "Handelsblatt",
+"s": "handelsblatt.com",
+"i": "",
+"d": "2026-11-16T11:56-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Industrie: Wie Trumpf mit KI sein Robotik-Geschäftsfeld erweitert",
+"lg": "de",
+"p": 3.8,
+"cr": 3,
+"cv": "Handelsblatt",
+"mx": 9,
+"rx": "No salão de desenvolvimento Trumpf em Ditzingen, na Suábia, a revolução na robótica não começa com um robô de aparência espetacular. Tudo começa no momento em que as máquinas param de ter todos os seus movimentos ditados a elas, porque elas começam a tomar decisões por si mesmas. Na verdade, a robótica não é um tema central para a empresa familiar, que se especializa principalmente no uso de lasers – desde o processamento de chapas metálicas até a produção de chips. O segredo do sucesso de Trumpf é tornar as novas tecnologias adequadas para uso industrial.\nPorque a concorrência chinesa está agora a causar problemas até mesmo ao líder de longa data do mercado mundial. O Handelsblatt recebeu insights exclusivos sobre a área sensível da série Trumpf for the Future Designers."
 },
 {
 "id": "4816bb86d5c277",
@@ -41598,7 +41989,7 @@
 "u": "https://www.thehindu.com/news/national/telangana/bharat-summit-2026-drone-flying-banned-in-madhapur-ahead-of-rahul-gandhi-rajnath-singh-visits/article71698212.ece",
 "f": "The Hindu",
 "s": "thehindu.com",
-"i": "https://www.thehindu.com/theme/images/og-image.png",
+"i": "",
 "d": "2026-11-13T12:49-03:00",
 "c": [
 "drones",
@@ -41611,7 +42002,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The Hindu",
-"mx": 1,
+"mx": 9,
 "rx": "A Polícia de Cyberabad proibiu drones, parapentes e aeronaves ultraleves com controle remoto nos limites da delegacia de polícia de Madhapur a partir das 19h. no dia 13 de novembro às 18h. em 15 de novembro, em vista das visitas do líder da oposição no Lok Sabha, Rahul Gandhi, e do ministro da Defesa, Rajnath Singh. Rahul Gandhi está programado para participar do Bharat Summit 2026 no Hyderabad International Convention Center (HICC) e da HITEX em Madhapur em 14 de novembro. Rajnath Singh visitará a HITEX em 15 de novembro.\nO Comissário de Polícia de Cyberabad, M. Ramesh, emitiu a ordem de proibição sob a Seção 163 do Bharatiya Nagarik Suraksha Sanhita (BNSS), citando a necessidade de prevenir perigos ou ferimentos e garantir a segurança dos participantes dos eventos."
 },
 {
@@ -44231,7 +44622,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -50120,7 +50511,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -53690,27 +54081,6 @@
 "mx": 3
 },
 {
-"id": "50a51fdfeea6f2",
-"t": "Top 5: Anker, Samsung, Roborock... as melhores ofertas de 11/11/2026",
-"r": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto…",
-"u": "https://www.lesnumeriques.com/societe-numerique/top-5-anker-samsung-roborock-les-meilleurs-bons-plans-du-11-11-2026-n267191.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-11T03:00-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Top 5 : Anker, Samsung, Roborock... les meilleurs bons plans du 11/11/2026",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto catálogo de carregadores com um modelo chamado Nano (45 W, tela inteligente).\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
-},
-{
 "id": "09c7495a861f2f",
 "t": "A Mitsubishi Electric agiliza o desenvolvimento de robôs com \"Inner Source\" e reduz o tempo de desenvolvimento em 30%: Notícias de Desenvolvimento Incorporado",
 "r": "@OHd@2026N1110AuCi[\\[Xv̐ʂ𐶂Ǝ̃{bgJʃt[[NuRoboPivoti{s{bgjvAa@pr{bgɍ̗pꂽƔ\\B]̃\\tgEFAJ@Ɣră[h^C30ZkɍvƂB @JuRoboPivotv́ÃCi[\\[X{bgJ̗̈ɓKpʂƂȂBuRoboPivotvɒ~s̱ꂽʎYAOHd@reBəna@pr{bguMELDYv̊JɊpBɂA]̃\\tgEFAJ@ƔrāAi̊J[h^C30ZkłƂB",
@@ -54700,6 +55070,27 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "IT 11 de 11 de janeiro de 2026, 2026 世界计算大会将于Com o tema \"Calculando o Futuro de Todas as Coisas em Xiangyue - Criando uma Nova Forma de Economia Inteligente\", esta conferência organizou um total de 21 atividades temáticas de \"1+5+N+1\".\n大会核心议程围绕“十五五”时期计算产业发展方向展开解读，将集中发布计算产业分析、算力发展趋势、计算行业标准等一批研究报告，以及算电协同、基础设施、计算软硬件等产业成果。"
+},
+{
+"id": "50a51fdfeea6f2",
+"t": "Top 5: Anker, Samsung, Roborock... as melhores ofertas de 11/11/2026",
+"r": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto…",
+"u": "https://www.lesnumeriques.com/societe-numerique/top-5-anker-samsung-roborock-les-meilleurs-bons-plans-du-11-11-2026-n267191.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-11T03:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Top 5 : Anker, Samsung, Roborock... les meilleurs bons plans du 11/11/2026",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto catálogo de carregadores com um modelo chamado Nano (45 W, tela inteligente).\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
 },
 {
 "id": "c228256502da51",
@@ -60670,27 +61061,6 @@
 "rx": "O V50 Ultra concentra o que a Mova tem de melhor para manter os pisos e facilitar a vida dos seus usuários: sucção potente, lavagem de pisos com água quente, LiDAR retrátil, manutenção automatizada..."
 },
 {
-"id": "0fc37f33d7eb7f",
-"t": "Top 5: Anker, Samsung, Roborock... as melhores ofertas de 10/11/2026",
-"r": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto…",
-"u": "https://www.lesnumeriques.com/societe-numerique/anker-samsung-ugreen-les-meilleurs-bons-plans-du-10-11-2026-n267124.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-10T12:45-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Top 5 : Anker, Samsung, Roborock... les meilleurs bons plans du 10/11/2026",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto catálogo de carregadores com um modelo chamado Nano (45 W, tela inteligente).\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
-},
-{
 "id": "e084b3f3dff341",
 "t": "Negócios – O boom dos robôs: as empresas estão prontas para uma força de trabalho alimentada por IA?",
 "r": "",
@@ -61488,6 +61858,27 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "0fc37f33d7eb7f",
+"t": "Top 5: Anker, Samsung, Roborock... as melhores ofertas de 10/11/2026",
+"r": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto…",
+"u": "https://www.lesnumeriques.com/societe-numerique/anker-samsung-ugreen-les-meilleurs-bons-plans-du-10-11-2026-n267124.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-10T12:45-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Top 5 : Anker, Samsung, Roborock... les meilleurs bons plans du 10/11/2026",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto catálogo de carregadores com um modelo chamado Nano (45 W, tela inteligente).\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
 },
 {
 "id": "beed1329adcf46",
@@ -66208,7 +66599,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -66237,7 +66628,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -69562,7 +69953,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -69572,9 +69963,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 13.9,
+"p": 12.9,
 "esp": 1,
-"mx": 2,
+"mx": 1,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
