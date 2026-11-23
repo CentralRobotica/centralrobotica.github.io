@@ -1,4 +1,48 @@
 {
+"2026-11-23": [
+{
+"id": "5c7a6a4c745e52",
+"t": "Qual é a capacidade de carga útil dos robôs industriais? Pontos a serem observados ao ler e selecionar especificações com base no peso da mão, centro de gravidade e velocidade",
+"r": "Um robô cujo catálogo diz que tem uma capacidade de carga útil de 10kg não significa necessariamente que possa transportar uma peça de trabalho de 10kg. Isso porque em muitas especificações esse valor inclui a massa de ferramentas como as mãos. A massa da carga útil é a massa que pode ser fixada ao flange na ponta do…",
+"u": "https://robotstart.info/article/2026/11/23/382658.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109669.jpg",
+"d": "2026-11-23T00:00-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "産業用ロボットの可搬質量とは？ハンド重量・重心位置・速度から読み解く仕様書の見方と選定の注意点",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Um robô cujo catálogo diz que tem uma capacidade de carga útil de 10kg não significa necessariamente que possa transportar uma peça de trabalho de 10kg. Isso porque em muitas especificações esse valor inclui a massa de ferramentas como as mãos. A massa da carga útil é a massa que pode ser fixada ao flange na ponta do pulso do robô e operada.\nPor exemplo, se uma mão de 3kg for anexada a um robô com uma carga útil de 10kg, até 7kg poderão ser alocados à peça de trabalho. O blog ``From a Corner of the FA/Robot Industry'' também explica que a carga útil é compartilhada entre a mão e a peça de trabalho."
+},
+{
+"id": "22261ec066e013",
+"t": "Fairy Devices fará uma exposição conjunta com AVITA e Booster Robotics no \"RoboNext 2026\"",
+"r": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software…",
+"u": "https://ascii.jp/elem/000/004/453/4453927/",
+"f": "ASCII.jp",
+"s": "ascii.jp",
+"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"d": "2026-11-23T00:00-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Fairy Devices、「RoboNext 2026」にAVITA・Booster Roboticsと共同出展",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "ASCII.jp",
+"mx": 1,
+"rx": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software que convertem informações de campo em dados em um formato que pode ser aprendido por máquina. Nossa empresa fará uma exposição conjunta com a AVITA Corporation e a Booster Robotics para apresentar soluções que utilizam IA física."
+}
+],
 "2026-11-22": [
 {
 "id": "5dcac05fdada02",
@@ -1121,6 +1165,28 @@
 "rx": "A Anthropic lançou o Claude for Manufacturing, uma nova oferta de software de IA projetada para ajudar os fabricantes a agilizar as tarefas diárias, incluindo a preparação de cotações, investigação de problemas de qualidade, diagnóstico de falhas de equipamentos e gerenciamento de relacionamentos com fornecedores. Anunciada em 12 de novembro, a oferta combina 17 habilidades específicas de manufatura com quatro conectores de software, permitindo que Claude trabalhe com informações armazenadas em sistemas já utilizados por empresas industriais.\nClaude for Manufacturing inclui habilidades que abrangem vendas, gerenciamento de qualidade, operações, cadeias de suprimentos, projeto de engenharia e configuração de equipamentos. Após a instalação, o software pode ajudar os usuários a identificar seus sistemas existentes, testar os conectores disponíveis e determinar quais habilidades de fabricação podem operar com as informações atualmente acessíveis."
 },
 {
+"id": "28031287df17d0",
+"t": "Montadoras chinesas reduzem ambições de robôs humanóides",
+"r": "À medida que a indústria robótica tenta fazer a transição da fantasia de Hollywood para a realidade física, surge uma dura verdade: a tecnologia está longe de estar preparada para os ambientes imprevisíveis da vida doméstica.",
+"u": "https://asia.nikkei.com/spotlight/caixin/china-carmakers-scale-back-humanoid-robot-ambitions",
+"f": "Nikkei Asia",
+"s": "asia.nikkei.com",
+"i": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F6%2F13456024-1-eng-GB%2Fc5e39505ab55-2026-04-24T073842Z_510364820_RC2HVKA1013P_RTRMADP_3_AUTOSHOW-CHINA-CAOCAO.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+"d": "2026-11-22T22:45-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "China carmakers scale back humanoid robot ambitions",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "À medida que a indústria robótica tenta fazer a transição da fantasia de Hollywood para a realidade física, surge uma dura verdade: a tecnologia está longe de estar preparada para os ambientes imprevisíveis da vida doméstica."
+},
+{
 "id": "8e19485ef31b51",
 "t": "Calendário da semana do robô (23.11.2026 ~ 29.11)",
 "r": "★ Calendário de robôs desta semana (2026. 11. 23 ~ 11. 29) ★◇ Sessão de pré-briefing da competição de desafio de plataforma humanóide representativa nacional Data: 24 de novembro de 2026 (terça-feira) 10h30 ~ 12h00 Organizador/anfitrião: Ministério da Ciência e TIC, Sociedade Coreana de Robótica, Fundação Nacional de Pesquisa da Coreia Local: Space Share Seoul Station 3 Center Room 105◇ Sala de demonstração SPOT do Clobot Boston Dynamics revelada (evento de mídia) Data: quarta-feira, 25 de novembro de 2026 15h30 ~ 12h00 Anfitrião/organizador: Clobot Local: Sede da Clobot (Edifício Marcus, 4-5, Yanghyeon-ro 405beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do)",
@@ -1164,6 +1230,37 @@
 "mx": 3
 },
 {
+"id": "af5424a424ab61",
+"t": "Quatro departamentos: Incentivar o desenvolvimento de novos produtos, como corpos de inteligência artificial, robôs de serviço, dispositivos vestíveis inteligentes e exoesqueletos adequados para cenários de cuidados a idosos.",
+"r": "A IT House informou em 23 de novembro que hoje, a Comissão Nacional de Desenvolvimento e Reforma e quatro outros departamentos emitiram o \"Plano de Implementação para a Construção do Sistema de Serviços \"Um Idoso e Um Pequeno\". Menciona-se que o apoio às instituições de cuidados a idosos e crianças para aplicar…",
+"u": "https://www.ithome.com/1/030/769.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+"d": "2026-11-22T23:01-03:00",
+"c": [
+"servico",
+"companhia",
+"exoesqueletos"
+],
+"l": 0,
+"to": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+"lg": "zh",
+"p": 5.0,
+"o": [
+{
+"f": "36kr",
+"u": "https://www.36kr.com/newsflashes/4081700061893507",
+"s": "36kr.com",
+"id": "23b7dc497170f3"
+}
+],
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "A IT House informou em 23 de novembro que hoje, a Comissão Nacional de Desenvolvimento e Reforma e quatro outros departamentos emitiram o \"Plano de Implementação para a Construção do Sistema de Serviços \"Um Idoso e Um Pequeno\". Menciona-se que o apoio às instituições de cuidados a idosos e crianças para aplicar serviços de gestão inteligentes, sistemas inteligentes de incêndio e segurança e outros sistemas para melhorar os níveis de gestão. Incentivar o desenvolvimento de novos produtos, como órgãos de inteligência artificial, robôs de serviço, dispositivos vestíveis inteligentes e exoesqueletos adequados para cenários de cuidados a idosos, e apoiar seus aplicação ou criação de áreas de experiência em instituições de cuidados a idosos, comunidades e outros cenários.\nDe acordo com um relatório do Beijing Daily de maio de 2026, o centro de atendimento a idosos na Rua Taoranting, distrito de Xicheng, Pequim, introduziu quatro robôs exoesqueletos, cobrindo dois tipos: \"Shenxing\" portátil e \"Aikang\" de nível médico. O equipamento portátil é vendido por cerca de 18 mil a 28 mil yuans, e o equipamento de nível médico oferece reabilitação do centro à loja ou serviços de aluguel de residências."
+},
+{
 "id": "a95b9f52265c1d",
 "t": "Avanços contra o câncer de pâncreas: como detectar sinais de alerta, cirurgia robótica e terapias direcionadas",
 "r": "O câncer de pâncreas nem sempre começa com dor intensa; pode se manifestar como desconforto abdominal que não desaparece, perda de peso inexplicável, fadiga persistente ou alterações repentinas no controle da glicose. Um dos avanços mais relevantes está na ultrassonografia endoscópica, procedimento que permite…",
@@ -1205,6 +1302,27 @@
 "cv": "Dong-A Ilbo",
 "mx": 1,
 "rx": "“O dia em que a questão que Asimov imaginou há mais de meio século sairá pela porta do laboratório e será colocada no meio das nossas salas de estar poderá ser mais cedo do que pensamos.” (Engenheiro de robótica Ha Se-hoon) O trabalho representativo do mestre russo de ficção científica americano Isaac Asimov (1920-1992), ‘Robot Series’ (Golden Bough)..."
+},
+{
+"id": "88d6f3a3e3b906",
+"t": "Amazon Drone atingiu um fio e caiu em uma garagem, diz cliente",
+"r": "Um drone de entrega Amazon Prime Air acabou no telhado da garagem de um vizinho em Huntington Woods, Michigan, na sexta-feira, 20 de novembro, após deixar cair um pedido de xampu no quintal de um cliente. O cliente, Jim Brennan, disse ao WXYZ de Detroit que o MK30 subiu em uma linha aérea, perdeu uma hélice e caiu na…",
+"u": "https://dronexl.co/2026/11/22/amazon-mk30-drone-wire-garage-roof-huntington-woods-michigan/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/amazon-mk30-drone-on-garage-roof-huntington-woods-michigan-brennan.webp",
+"d": "2026-11-22T02:46-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Amazon Drone Hit a Wire and Came Down on a Garage, Customer Says",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "Um drone de entrega Amazon Prime Air acabou no telhado da garagem de um vizinho em Huntington Woods, Michigan, na sexta-feira, 20 de novembro, após deixar cair um pedido de xampu no quintal de um cliente. O cliente, Jim Brennan, disse ao WXYZ de Detroit que o MK30 subiu em uma linha aérea, perdeu uma hélice e caiu na porta ao lado. Brennan disse a WXYZ que o drone deixou o pacote em seu quintal no Wyoming pouco antes das 16h30. e comecei a subir por baixo de uma linha de fibra óptica.\nCoomes disse ao WXYZ que uma equipe da Amazon chegou em 10 minutos e que o drone saiu do telhado por volta das 19h30, cerca de três horas depois de chegar lá, com a ajuda da DTE. A Amazon deveria dizer se o drone detectou essa linha e se relatou o voo à FAA."
 },
 {
 "id": "163f3d2a93bc57",
@@ -1604,8 +1722,8 @@
 "i": "https://img0.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123021300017_01_i_P4.jpg",
 "d": "2026-11-22T22:00-03:00",
 "c": [
-"exoesqueletos",
-"educacao"
+"educacao",
+"exoesqueletos"
 ],
 "l": 0,
 "to": "고교생이 만든 AI지팡이·재활로봇…LG CNS, 교육 성과에 시상",
@@ -1636,6 +1754,27 @@
 "cv": "Dong-A Ilbo",
 "mx": 1,
 "rx": "A controvérsia sobre a segurança surgiu à medida que se espalharam pelas comunidades online alegações de que um produto da Roborock, uma empresa chinesa de eletrodomésticos com a maior participação no mercado doméstico de aspiradores de pó robóticos, explodiu durante a limpeza. Um vídeo supostamente filmado no momento do acidente mostrou fumaça preta subindo ao redor do aspirador robô e o chão chamuscado. …"
+},
+{
+"id": "5852b7163bbaf4",
+"t": "Pedi à IA para fazer um ‘trabalho de meio período no mercado’… Excelente prêmio de prata ‘Mart Robot Competition’",
+"r": "A equipe de pesquisa da SuperB AI ganhou um prêmio de prata no International Robot Contest Mart Humanoid Competition com código reescrito pela IA em um ambiente virtual.",
+"u": "https://www.donga.com/news/It/article/all/20261123/135072321/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135072288.3.jpg",
+"d": "2026-11-22T23:36-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "AI에게 ‘마트 알바’ 시켰더니…슈퍼브에이아이 ‘마트 로봇대회’ 은상",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"rx": "A equipe de pesquisa da SuperB AI ganhou um prêmio de prata no International Robot Contest Mart Humanoid Competition com código reescrito pela IA em um ambiente virtual."
 },
 {
 "id": "14b3f394521541",
@@ -1997,6 +2136,27 @@
 "rx": "Digo sem rodeios: o aspirador robô que mais me surpreendeu este ano foi o Mova E40 Ultra e fê-lo pela sua altíssima relação desempenho-custo. Este Mova E50 Ultra é o seu sucessor e a fasquia é muito alta: testámo-lo minuciosamente para ver como é a experiência. O Mova E50 Ultra é um aspirador e lavador robô bom e “bonito” a um preço muito competitivo.\nExplico: a base é completa mas volumosa e o aspirador robô tem um design clássico um pouco antiquado, com uma txapela visível que não pode ser pega. O que Dreame fez com este Mova E50 Ultra é uma verdadeira virguería: tomou como base o seu antecessor, colocou muito mais potência nele, esfrega um pouco melhor e fez com que você tenha que se preocupar menos com manutenção porque os tanques de água limpa e suja são um pouco maiores."
 },
 {
+"id": "ed6ae0367a80f2",
+"t": "Melhor oferta DJI: Economize $ 60 no drone DJI Neo",
+"r": "22, o DJI Neo está à venda por US$ 139 na Amazon. Você não precisa gastar uma fortuna para conseguir um drone decente, especialmente durante a promoção da Black Friday da Amazon. Caso em questão: o DJI Neo caiu para apenas US$ 139, o preço mais baixo de todos os tempos, de acordo com nossa pesquisa. Esse é um negócio…",
+"u": "https://mashable.com/tech/nov-22-dij-neo-drone-early-black-friday-deal",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/07oYOqgeUtASYE4TvqDjCAX/hero-image.fill.size_1200x675.v1795162267.png",
+"d": "2026-11-22T12:03-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Best DJI deal: Save $60 on DJI Neo drone",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "22, o DJI Neo está à venda por US$ 139 na Amazon. Você não precisa gastar uma fortuna para conseguir um drone decente, especialmente durante a promoção da Black Friday da Amazon. Caso em questão: o DJI Neo caiu para apenas US$ 139, o preço mais baixo de todos os tempos, de acordo com nossa pesquisa. Esse é um negócio bastante impressionante para um drone para iniciantes que pode gravar vídeos em 4K, rastrear seus movimentos e decolar direto da palma da sua mão.\nPesando apenas 135 gramas, o DJI Neo foi projetado para facilitar um pouco a fotografia aérea. Ele pode decolar e pousar diretamente da palma da mão e você pode controlá-lo usando o aplicativo DJI Fly ou comandos de voz. Ele grava em 4K UHD, com estabilização DJI para ajudar a manter a fluidez dos seus vídeos."
+},
+{
 "id": "0020c62c6caaf7",
 "t": "Mobilidade TechCrunch: testes A/B de robôs versus humanos",
 "r": "Waymo retirando seus robotáxis das rodovias (novamente) e o lançamento de robotáxis Zoox no aplicativo Uber ilustram o vai e vem entre o progresso e os retrocessos na indústria de veículos autônomos. A Uber, como mencionado acima, acaba de adicionar o Zoox ao seu aplicativo de carona em Las Vegas. Os clientes do Uber…",
@@ -2110,9 +2270,10 @@
 "i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.5888b8cde6b14cfe9b2ea456c9bc3627_P1.png",
 "d": "2026-11-22T20:58-03:00",
 "c": [
-"medicina",
 "logistica",
-"ia"
+"medicina",
+"ia",
+"educacao"
 ],
 "l": 0,
 "to": "지오로봇, 美 매사추세츠대 의대와 MOU… 북미 병원 물류 로봇 시장 정조준",
@@ -2143,6 +2304,90 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "A Korea AI and Robot Industry Association anunciou no dia 23 que ultrapassou 500 empresas membros. Isto é o resultado da expansão do escopo das empresas membros, desde empresas de fabricação de robôs e de peças até empresas de semicondutores e inteligência artificial (IA), e empresas com demanda por robôs nas áreas de fabricação e logística. Fundada em 1999, a associação está a reforçar o seu papel como ponto focal para as indústrias de IA e robôs, estabelecendo uma rede de cooperação industrial que abrange o desenvolvimento de tecnologia robótica e a introdução no campo. No ano passado, mudou seu nome para Associação da Indústria Coreana de IA e Robôs e expandiu sua base de cooperação industrial abrangendo IA e robôs. Além disso, a composição das empresas membros está se tornando mais diversificada, com a participação de startups de robôs e IA e empresas de demanda. A associação está aberta à adesão não apenas a empresas de desenvolvimento e fornecimento de robôs, mas também a empresas que buscam a automação de instalações de produção e a introdução de robôs logísticos. Bae Seok-tae, vice-presidente em tempo integral da Associação da Indústria de IA e Robótica da Coreia, disse: “Receber 500 empresas membros é uma conquista simbólica que mostra que o status e o papel da associação como ponto focal que representa a indústria de IA e robôs cresceram proporcionalmente”, e acrescentou: “Com base em nossa rede e influência que abrange toda a indústria, assumiremos a liderança para ajudar nossas empresas a avançarem como atores líderes no mercado global”."
+},
+{
+"id": "7dca7bdeb09922",
+"t": "Peacebird testa robôs de costura Aitu em tarefas de manuseio de punhos de fábrica",
+"r": "A validação de fábrica do Peacebird coloca os robôs Aitu em 50% a 70% do rendimento de trabalhadores qualificados, com limites de manuseio de tecidos ainda explícitos.",
+"u": "https://pandaily.com/peacebird-aitu-sewing-robots-factory-cuff-validation",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/aitu_editorial_b14a38d559.png",
+"d": "2026-11-22T23:20-03:00",
+"c": [
+"industriais"
+],
+"l": 0,
+"to": "Peacebird Tests Aitu Sewing Robots on Factory Cuff-Handling Tasks",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "A validação de fábrica do Peacebird coloca os robôs Aitu em 50% a 70% do rendimento de trabalhadores qualificados, com limites de manuseio de tecidos ainda explícitos."
+},
+{
+"id": "fe915b6a1da75e",
+"t": "CEPRI relata robô que verifica 35 isoladores em seis minutos",
+"r": "CEPRI relata testes de sistema em outubro e verificações de seis minutos de 35 isoladores; os números de precisão e eficiência permanecem relatados pelo projeto.",
+"u": "https://pandaily.com/cepri-live-line-insulator-diagnostic-robot",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/cepri_editorial_215cc2e1a0.png",
+"d": "2026-11-22T23:21-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "CEPRI Reports Robot That Checks 35 Insulators in Six Minutes",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "CEPRI relata testes de sistema em outubro e verificações de seis minutos de 35 isoladores; os números de precisão e eficiência permanecem relatados pelo projeto."
+},
+{
+"id": "2f38dc7445254e",
+"t": "Ant Group lidera rodada de US$ 100 milhões em fabricante chinesa de robôs humanóides",
+"r": "",
+"u": "https://www.techinasia.com/news/ant-group-leads-100m-chinese-humanoid-robot-maker",
+"f": "Tech in Asia",
+"s": "techinasia.com",
+"i": "",
+"d": "2026-11-22T23:29-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "Ant Group leads $100m round in Chinese humanoid robot maker",
+"lg": "en",
+"p": 3.0,
+"cr": 2,
+"cv": "Tech in Asia",
+"mx": 1
+},
+{
+"id": "76ab274a7ca846",
+"t": "Como escolher um robô telefônico empresarial em 2026? Comparação dos principais indicadores de seleção, desmontagem completa de inteligência, fluência de conversação e links de comunicação",
+"r": "No entanto, à medida que o reconhecimento de fala ASR, a compreensão semântica da PNL e as capacidades de diálogo de grandes modelos continuam a ser implementados, o robô telefônico de hoje, ou seja, o robô de voz Youyintong AI, foi atualizado há muito tempo para um sistema completo de diálogo de voz em tempo real…",
+"u": "https://www.ithome.com/1/030/632.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-22T05:49-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "2026年企业电话机器人怎么选？选型核心指标对比，智能程度、对话流畅度、通信链路全拆解",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "No entanto, à medida que o reconhecimento de fala ASR, a compreensão semântica da PNL e as capacidades de diálogo de grandes modelos continuam a ser implementados, o robô telefônico de hoje, ou seja, o robô de voz Youyintong AI, foi atualizado há muito tempo para um sistema completo de diálogo de voz em tempo real. Ele depende do canal telefônico para completar a interação de voz homem-computador, realizar várias tarefas de comunicação de voz e realizar tarefas como identificação de informações, resposta a perguntas e respostas, coleta de informações, desvio de recursos e arquivamento de diálogos no processo de serviço. É o principal transportador de interação de IA no sistema de comunicação digital da empresa.\nNos últimos anos, quando as empresas adquiriram robôs telefônicos, concentraram-se principalmente em saber se conseguiriam completar a transmissão de informações básicas a baixo custo. Hoje em dia, as empresas têm exigências mais abrangentes: experiência interativa natural, reconhecimento estável, diálogo em circuito fechado, dados conectáveis ​​e riscos de conformidade controláveis."
 }
 ],
 "2026-11-21": [
@@ -7618,9 +7863,9 @@
 "p": 3.5,
 "cr": 2,
 "cv": "Mashable",
-"cur": 1,
 "mx": 1,
-"rx": "Em 20 de janeiro, o aspirador e esfregão robô Roborock Saros 20 atingiu um novo preço mínimo de US$ 989,99 na promoção da Black Friday da Amazon. Se o seu piso é uma grande preocupação, um aspirador robô pode ajudar a aliviar um pouco a pressão. Agora é um ótimo momento para comprar um aspirador de robô, com toneladas de negócios surgindo na promoção da Black Friday da Amazon. Isso inclui o robô aspirador e esfregão Roborock Saros 20, que atingiu um preço recorde na Amazon. 20, este aspirador robô foi reduzido para US$ 989,99 como parte da venda sazonal.\nAlém disso, o aspirador robô tem uma construção fina que pode se mover sob os móveis a até 3,13 polegadas do chão. Leah Stodart, do Mashable, ficou impressionada com isso, escrevendo em sua crítica: “Acho que esta é a primeira vez que um aspirador de robô em meu apartamento teve uma taxa de prevenção de obstáculos de 100% por vários dias a fio”."
+"rx": "Em 20 de janeiro, o aspirador e esfregão robô Roborock Saros 20 atingiu um novo preço mínimo de US$ 989,99 na promoção da Black Friday da Amazon. Se o seu piso é uma grande preocupação, um aspirador robô pode ajudar a aliviar um pouco a pressão. Agora é um ótimo momento para comprar um aspirador de robô, com toneladas de negócios surgindo na promoção da Black Friday da Amazon. Isso inclui o robô aspirador e esfregão Roborock Saros 20, que atingiu um preço recorde na Amazon. 20, este aspirador robô foi reduzido para US$ 989,99 como parte da venda sazonal.\nAlém disso, o aspirador robô tem uma construção fina que pode se mover sob os móveis a até 3,13 polegadas do chão. Leah Stodart, do Mashable, ficou impressionada com isso, escrevendo em sua crítica: “Acho que esta é a primeira vez que um aspirador de robô em meu apartamento teve uma taxa de prevenção de obstáculos de 100% por vários dias a fio”.",
+"cur": 1
 },
 {
 "id": "27f7a947a2dce1",
@@ -7661,6 +7906,27 @@
 "cr": 3,
 "cv": "Mainichi",
 "mx": 3
+},
+{
+"id": "c1e310b815111d",
+"t": "Radar passivo do Reino Unido caça drones sem transmitir um único sinal",
+"r": "A BAE Systems desenvolveu uma nova tecnologia de radar que monitora aeronaves e drones sem transmitir sinais que possam expor sua localização a adversários. O empreiteiro britânico de defesa afirma que seu mais recente desenvolvimento pode fornecer monitoramento contínuo do espaço aéreo, evitando ao mesmo tempo o…",
+"u": "https://www.techradar.com/pro/bae-systems-says-its-new-ghost-radar-piggybacks-tv-and-radio-signals-to-detect-and-track-airborne-threats-without-revealing-its-own-position",
+"f": "TechRadar",
+"s": "techradar.com",
+"i": "https://cdn.mos.cms.futurecdn.net/7NYvDhSGz8mRJTYpppkGc9-1920-80.jpg",
+"d": "2026-11-20T18:20-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "UK passive radar hunts drones without transmitting a single signal",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "TechRadar",
+"mx": 1,
+"rx": "A BAE Systems desenvolveu uma nova tecnologia de radar que monitora aeronaves e drones sem transmitir sinais que possam expor sua localização a adversários. O empreiteiro britânico de defesa afirma que seu mais recente desenvolvimento pode fornecer monitoramento contínuo do espaço aéreo, evitando ao mesmo tempo o monitoramento convencional de radiofrequência. Ao contrário dos equipamentos de radar convencionais, que transmitem sinais eletromagnéticos e recebem reflexões de retorno, este sistema depende inteiramente de transmissões já presentes.\nAs transmissões de televisão digital, estações de rádio e redes móveis fornecem os sinais necessários para identificar os movimentos das aeronaves sem transmissões adicionais, permitindo que o equipamento monitorize o espaço aéreo circundante sem criar emissões facilmente detectáveis."
 },
 {
 "id": "512589ec11e573",
@@ -14110,7 +14376,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -21921,6 +22187,27 @@
 "cv": "Handelsblatt",
 "mx": 1,
 "rx": "À primeira vista, parece loucura: Ulrich Prediger quer fazer com que as e-bikes dirijam de forma autônoma no futuro. Sensores e câmeras têm como objetivo garantir que o veículo de duas rodas se mova com segurança e eficiência no trânsito, mesmo sem motorista. Rodas de suporte extensíveis evitam que tombe quando está parado. Se um cavaleiro estiver na sela, ele poderá verificar seu e-mail ou ler um livro no caminho para o escritório. No entanto, ele ainda precisa pedalar sozinho; a tecnologia cuida do resto.\nAo fundar a empresa Jobrad há 20 anos, Prediger já demonstrou que pode mudar coisas que antes eram consideradas impossíveis. Ele quer repetir esse sucesso com sua nova start-up Veluto."
+},
+{
+"id": "7e8ec33ab353d7",
+"t": "Kumar promove peças padrão de drones para reduzir a dependência de importações",
+"r": "O secretário de Produção de Defesa, Sanjeev Kumar, pediu padronização e autossuficiência na fabricação de drones na Índia em uma cúpula de segurança em Delhi. Ele disse que peças comuns, cargas úteis e sensores locais e encomendas maiores das forças armadas poderiam fortalecer a indústria. Kumar também vinculou os…",
+"u": "https://drones.economictimes.indiatimes.com/news/policy/kumar-pushes-standard-drone-parts-to-cut-import-dependence/135915378",
+"f": "drones.economictimes.indiatimes.com",
+"s": "drones.economictimes.indiatimes.com",
+"i": "https://etimg.etb2bimg.com/thumb/msid-135915378,imgsize-180976,width-1200,height=627,overlay-etdrones,resizemode-75/news/policy/kumar-pushes-standard-drone-parts-to-cut-import-dependence.jpg",
+"d": "2026-11-17T04:41-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Kumar pushes standard drone parts to cut import dependence",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1,
+"rx": "O secretário de Produção de Defesa, Sanjeev Kumar, pediu padronização e autossuficiência na fabricação de drones na Índia em uma cúpula de segurança em Delhi. Ele disse que peças comuns, cargas úteis e sensores locais e encomendas maiores das forças armadas poderiam fortalecer a indústria. Kumar também vinculou os drones à mudança da doutrina de guerra, dizendo…"
 },
 {
 "id": "3041e82b9715ee",
@@ -41674,7 +41961,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -47563,7 +47850,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -63651,7 +63938,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -63680,7 +63967,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
