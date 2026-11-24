@@ -227,7 +227,7 @@
 "p": 9.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "A IT House informou em 24 de novembro que conforme o Dia da Tecnologia Xpeng de 2026 se aproxima, a Xpeng Motors lançou hoje o mais recente vídeo de aquecimento de seu robô humanóide IRON. O curta-metragem se concentra em mostrar o robô completando de forma independente uma série de tarefas refinadas próximas à vida cotidiana, sem controle remoto humano, criando impulso para o próximo Dia da Ciência e Tecnologia.\nA IT House percebeu que, de acordo com as imagens divulgadas desta vez, o IRON executou com sucesso uma série de operações em um ambiente doméstico simulado, como pegar livros, servir vinho em uma xícara e conectar-se autonomamente à energia para carregar. O 2026 Xpeng Technology Day está programado para ser realizado às 14h do dia 25 de novembro. Este evento terá \"Origem\" como tema central. Na reunião, a Xpeng se concentrará em sua pesquisa estratégica e julgamento sobre o futuro estágio de evolução da IA ​​física."
 },
 {
@@ -288,6 +288,42 @@
 "cv": "Yonhap",
 "mx": 1,
 "rx": "(Seoul = Yonhap News) O repórter Jang Ha-na = Hanwha Aerospace anunciou no dia 24 que decidiu não investir na Lion Robotics, uma empresa de robôs de quatro patas. A Hanwha Aerospace explicou que depois de analisar se deveria investir na Lion Robotics, as negociações de investimento foram encerradas porque condições como valor corporativo (avaliação) e valor do investimento não foram atendidas. A Hanwha Aerospace está realizando projetos de sistemas não tripulados nos setores terrestre e de aviação, incluindo o veículo não tripulado multifuncional Arion Met e o drone de decolagem e pouso de curto alcance Mojave STOL."
+},
+{
+"id": "32f89733661f1e",
+"t": "Uber, Nuro e Lucid iniciam testes de robotáxi totalmente sem motorista",
+"r": "A parceria está retirando motoristas de segurança humana de seus SUVs Lucid Gravity antes de uma estreia comercial no início de 2027. Nuro, Lucid e Uber estão iniciando testes em estradas públicas totalmente sem motorista na área da baía de São Francisco, com viagens exclusivas para funcionários sendo lançadas logo…",
+"u": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+"f": "The Verge",
+"s": "theverge.com",
+"i": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+"d": "2026-11-24T10:00-03:00",
+"c": [
+"autonomos",
+"entrega"
+],
+"l": 0,
+"to": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+"lg": "en",
+"p": 6.5,
+"o": [
+{
+"f": "CNET",
+"u": "https://www.cnet.com/roadshow/automobiles/uber-nuro-lucid-robotaxi-fully-driverless-testing/",
+"s": "cnet.com",
+"id": "6be8cc8b82ae1a"
+},
+{
+"f": "TechCrunch",
+"u": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+"s": "techcrunch.com",
+"id": "157aa94ce8e469"
+}
+],
+"cr": 2,
+"cv": "The Verge",
+"mx": 1,
+"rx": "A parceria está retirando motoristas de segurança humana de seus SUVs Lucid Gravity antes de uma estreia comercial no início de 2027. Nuro, Lucid e Uber estão iniciando testes em estradas públicas totalmente sem motorista na área da baía de São Francisco, com viagens exclusivas para funcionários sendo lançadas logo depois. Ao tirar os operadores de segurança humana do volante dos SUVs Lucid Gravity, as empresas dizem que estão eliminando um obstáculo crítico para um lançamento público.\nOs robotáxis estão programados para chegar ao aplicativo Uber para passageiros da Bay Area no primeiro trimestre de 2027, com Houston seguindo no final daquele ano. Olhando para o futuro, a Uber comprometeu-se a comprar pelo menos 35.000 veículos Lucid – incluindo o próximo modelo de médio porte da montadora – nos próximos anos, à medida que corre para escalar uma frota autônoma global."
 },
 {
 "id": "2937c1b0a9f21c",
@@ -434,7 +470,7 @@
 "u": "https://udn.com/news/story/7240/9898449",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-24T01:56-03:00",
 "c": [
 "negocios",
@@ -512,6 +548,35 @@
 "u": "https://ec.ltn.com.tw/amp/article/breakingnews/5652097",
 "s": "ec.ltn.com.tw",
 "id": "98c75298419406"
+}
+]
+},
+{
+"id": "a8282cdfe06815",
+"t": "Robô Dongyouda mostra seus músculos",
+"r": "A \"Exposição de Aplicação de Veículos Não Tripulados e Robôs de Taichung 2026\" estreou ontem (24) no Centro Internacional de Convenções e Exposições de Taichung. O fabricante de soluções de automação de precisão Dongyouda (7942) participou da exposição pela primeira vez e anunciou que optoacopladores de seis eixos…",
+"u": "https://money.udn.com/money/story/11074/9899462",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://udn.com/static/img/UDN_BABY.png",
+"d": "2026-11-24T13:30-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "東佑達機器人展秀肌肉",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "A \"Exposição de Aplicação de Veículos Não Tripulados e Robôs de Taichung 2026\" estreou ontem (24) no Centro Internacional de Convenções e Exposições de Taichung. O fabricante de soluções de automação de precisão Dongyouda (7942) participou da exposição pela primeira vez e anunciou que optoacopladores de seis eixos, plataformas de alinhamento e robôs industriais receberam pedidos de fabricantes de equipamentos CPO e fabricantes de semicondutores, respectivamente, com visibilidade até o final do próximo ano.\nA participação de Dongyouda nesta exposição se concentrará nas três principais linhas de produtos de automação de semicondutores, componentes de robôs humanóides e óptica co-embalada (CPO). Entre eles, o optoacoplador de seis eixos e a plataforma de alinhamento receberam pedidos de muitos dos principais fabricantes de equipamentos CPO. A visibilidade deverá ser até o final do próximo ano. Houve um pequeno atraso recentemente devido à escassez de componentes principais. Espera-se que seja enviado em grandes quantidades no segundo trimestre do próximo ano.",
+"o": [
+{
+"f": "UDN",
+"u": "https://udn.com/news/story/7252/9899462",
+"s": "udn.com",
+"id": "91f5d84cb72981"
 }
 ]
 },
@@ -1298,6 +1363,28 @@
 "rx": "Recentemente, a China Xinhua e o Instituto de Pesquisa de Informação e Comunicação da China anunciaram conjuntamente o 'Relatório de Inovação da Indústria de IA Física de 2026'. Com base neste relatório, Robot News informou que ① o desenvolvimento da indústria física de IA da China"
 },
 {
+"id": "93db9b501957b4",
+"t": "Robotics Summit 2027 abre chamada para palestrantes",
+"r": "O Robot Report convida você a enviar um resumo da sessão para ser considerado para apresentação no 2027 Robotics Summit & Expo, que acontecerá de 2 a 3 de junho no Hynes Convention Center, em Boston. O Robotics Summit é o principal evento focado nas questões técnicas envolvidas no desenvolvimento de robôs comerciais. O…",
+"u": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2025/09/25_0430_DeviceRobotics2025_CR6_8224-scaled-e1758126052528.jpg",
+"d": "2026-11-24T15:03-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "Robotics Summit 2027 opens call for speakers",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "O Robot Report convida você a enviar um resumo da sessão para ser considerado para apresentação no 2027 Robotics Summit & Expo, que acontecerá de 2 a 3 de junho no Hynes Convention Center, em Boston. O Robotics Summit é o principal evento focado nas questões técnicas envolvidas no desenvolvimento de robôs comerciais. O Robotics Summit & Expo reunirá mais de 5.000 participantes para explorar as mais recentes tecnologias facilitadoras, melhores práticas de engenharia e tendências emergentes que moldam a robótica comercial.\nOs participantes podem se conectar com mais de 250 expositores e aproveitar oportunidades de networking, uma Feira de Carreiras, um desafio de desenvolvimento de robótica e a Gala de Prêmios The Robot Report 50. Para perguntas sobre a programação da conferência Robotics Summit, entre em contato com Steve Crowe em scrowe[AT]arrowfly.com."
+},
+{
 "id": "2baf4e28e0c9b3",
 "t": "SANY avança em direção a um futuro de robótica nativa de IA na bauma CHINA 2026",
 "r": "XANGAI, 24 de novembro de 2026 /PRNewswire/ -- Entre na sala de inteligência da SANY na bauma CHINA 2026 e o ​​local de trabalho de amanhã já estará funcionando. Um autônomo",
@@ -1349,34 +1436,33 @@
 "mx": 9
 },
 {
-"id": "32f89733661f1e",
-"t": "Uber, Nuro e Lucid iniciam testes de robotáxi totalmente sem motorista",
-"r": "A parceria está retirando motoristas de segurança humana de seus SUVs Lucid Gravity antes de uma estreia comercial no início de 2027. Nuro, Lucid e Uber estão iniciando testes em estradas públicas totalmente sem motorista na área da baía de São Francisco, com viagens exclusivas para funcionários sendo lançadas logo…",
-"u": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-"f": "The Verge",
-"s": "theverge.com",
-"i": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"d": "2026-11-24T10:00-03:00",
+"id": "da1bc7849da6ca",
+"t": "Melhores ofertas de aspiradores de robôs da Black Friday em 2026: Shop Dreame e Roborock",
+"r": "Quase todos os nossos aspiradores de robô favoritos estão à venda, agora que as ofertas da Black Friday estão oficialmente ativas. Não vou fingir que é normal que já estivéssemos cobrindo os primeiros negócios de aspiradores de robôs da Black Friday em outubro, mas o evento principal finalmente chegou – e alguns…",
+"u": "https://mashable.com/life/best-early-black-friday-robot-vacuum-deals-2026",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/02PGq8jr31ZdOtmUKJDfZ0X/hero-image.fill.size_1200x675.v1792766330.png",
+"d": "2026-11-24T12:12-03:00",
 "c": [
-"autonomos",
-"entrega"
+"casa"
 ],
 "l": 0,
-"to": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+"to": "Best Black Friday robot vacuum deals 2026: Shop Dreame and Roborock",
 "lg": "en",
 "p": 5.0,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "Quase todos os nossos aspiradores de robô favoritos estão à venda, agora que as ofertas da Black Friday estão oficialmente ativas. Não vou fingir que é normal que já estivéssemos cobrindo os primeiros negócios de aspiradores de robôs da Black Friday em outubro, mas o evento principal finalmente chegou – e alguns desses preços são difíceis de ignorar. Até mesmo nosso aspirador robô mais bem classificado em 2026, o Dreame X60 Max Ultra Complete, está à venda.\nContinuaremos atualizando este artigo durante a Black Friday e a Cyber ​​​​Monday à medida que os preços mudam e o estoque se move, então volte para ver o que ainda vale a pena comprar. Se você está procurando uma combinação robô aspirador de pó que não vai custar muito, o Roborock Q10 S5 + está à venda por US$ 229,99, abaixo dos US$ 549,99. Stodart o nomeou como o \"Melhor aspirador robô Roller Mop abaixo de US$ 1.000\". Seu pequeno dock o torna uma ótima opção para pessoas com “espaço limitado” e limpa com precisão.",
 "o": [
 {
-"f": "CNET",
-"u": "https://www.cnet.com/roadshow/automobiles/uber-nuro-lucid-robotaxi-fully-driverless-testing/",
-"s": "cnet.com",
-"id": "6be8cc8b82ae1a"
+"f": "TechRadar",
+"u": "https://www.techradar.com/seasonal-sales/black-friday-robot-vacuum-deals-2026-nov-23",
+"s": "techradar.com",
+"id": "c7ba83b367db41"
 }
-],
-"cr": 2,
-"cv": "The Verge",
-"mx": 1,
-"rx": "A parceria está retirando motoristas de segurança humana de seus SUVs Lucid Gravity antes de uma estreia comercial no início de 2027. Nuro, Lucid e Uber estão iniciando testes em estradas públicas totalmente sem motorista na área da baía de São Francisco, com viagens exclusivas para funcionários sendo lançadas logo depois. Ao tirar os operadores de segurança humana do volante dos SUVs Lucid Gravity, as empresas dizem que estão eliminando um obstáculo crítico para um lançamento público.\nOs robotáxis estão programados para chegar ao aplicativo Uber para passageiros da Bay Area no primeiro trimestre de 2027, com Houston seguindo no final daquele ano. Olhando para o futuro, a Uber comprometeu-se a comprar pelo menos 35.000 veículos Lucid – incluindo o próximo modelo de médio porte da montadora – nos próximos anos, à medida que corre para escalar uma frota autônoma global."
+]
 },
 {
 "id": "b221d10e89ab04",
@@ -1951,25 +2037,89 @@
 "rx": "Asami Sasao, da Kawasaki Heavy Industries, foi selecionada como uma das 11 mulheres do mundo no \"Women in Robotics 2026\" da Federação Internacional de Robótica (IFR), que seleciona mulheres ativas no campo da robótica. Há 35 anos, desde que entrei na empresa, estive envolvido no desenvolvimento de software de controle de robôs e atualmente atuo como Gerente de Garantia de Qualidade. Embora eu fosse às fábricas dos clientes e fizesse ajustes, havia dias em que me preocupava por não conseguir equilibrar o trabalho e os cuidados com os filhos.\nOlhando para as outras pessoas selecionadas, todas são pesquisadores, líderes corporativos e outros que lideraram a indústria global de robôs."
 },
 {
-"id": "a8282cdfe06815",
-"t": "Robô Dongyouda mostra seus músculos",
-"r": "A \"Exposição de Aplicação de Veículos Não Tripulados e Robôs de Taichung 2026\" estreou ontem (24) no Centro Internacional de Convenções e Exposições de Taichung. O fabricante de soluções de automação de precisão Dongyouda (7942) participou da exposição pela primeira vez e anunciou que optoacopladores de seis eixos…",
-"u": "https://money.udn.com/money/story/11074/9899462",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
-"d": "2026-11-24T13:30-03:00",
+"id": "29e157aae4ba32",
+"t": "Dev Deepawali coloca Kashi no mapa da tecnologia do turismo com tour de áudio em 15 idiomas e espetáculo de 2.100 drones",
+"r": "Não venderemos nem compartilharemos suas informações pessoais para informar os anúncios que você vê. Você ainda poderá ver anúncios com base em interesses se suas informações forem vendidas ou compartilhadas por outras empresas ou se tiverem sido vendidas ou compartilhadas anteriormente. Um guia de áudio com GPS…",
+"u": "https://government.economictimes.indiatimes.com/amp/news/technology/dev-deepawali-puts-kashi-on-tourism-tech-map-with-15-language-audio-tour-2100-drone-spectacle/136135890",
+"f": "ET Government",
+"s": "government.economictimes.indiatimes.com",
+"i": "https://etimg.etb2bimg.com/thumb/msid-136135890,imgsize-415272,width-1200,height=627,overlay-etgovernment,resizemode-75/news/technology/dev-deepawali-puts-kashi-on-tourism-tech-map-with-15-language-audio-tour-2100-drone-spectacle.jpg",
+"d": "2026-11-24T13:03-03:00",
 "c": [
-"geral"
+"drones"
 ],
 "l": 0,
-"to": "東佑達機器人展秀肌肉",
+"to": "Dev Deepawali puts Kashi on tourism-tech map with 15-language audio tour, 2,100-drone spectacle",
 "lg": "en",
 "p": 4.8,
 "cr": 3,
-"cv": "United Daily News",
+"cv": "The Economic Times",
 "mx": 1,
-"rx": "A \"Exposição de Aplicação de Veículos Não Tripulados e Robôs de Taichung 2026\" estreou ontem (24) no Centro Internacional de Convenções e Exposições de Taichung. O fabricante de soluções de automação de precisão Dongyouda (7942) participou da exposição pela primeira vez e anunciou que optoacopladores de seis eixos, plataformas de alinhamento e robôs industriais receberam pedidos de fabricantes de equipamentos CPO e fabricantes de semicondutores, respectivamente, com visibilidade até o final do próximo ano.\nA participação de Dongyouda nesta exposição se concentrará nas três principais linhas de produtos de automação de semicondutores, componentes de robôs humanóides e óptica co-embalada (CPO). Entre eles, o optoacoplador de seis eixos e a plataforma de alinhamento receberam pedidos de muitos dos principais fabricantes de equipamentos CPO. A visibilidade deverá ser até o final do próximo ano. Houve um pequeno atraso recentemente devido à escassez de componentes principais. Espera-se que seja enviado em grandes quantidades no segundo trimestre do próximo ano."
+"rx": "Não venderemos nem compartilharemos suas informações pessoais para informar os anúncios que você vê. Você ainda poderá ver anúncios com base em interesses se suas informações forem vendidas ou compartilhadas por outras empresas ou se tiverem sido vendidas ou compartilhadas anteriormente. Um guia de áudio com GPS cobrindo 84 ghats, um show de drones inédito e 21 lakh diyas marcaram as celebrações em Varanasi, com expectativa de que o festival gere ₹400-500 crore em negócios locais."
+},
+{
+"id": "cc4fe0341ed7f7",
+"t": "EUA voaram drone de vigilância sobre o México para ajudar na operação que capturou o principal traficante",
+"r": "Os Estados Unidos pilotaram um drone de vigilância sobre o território mexicano para ajudar o governo a rastrear e capturar um importante traficante de drogas no fim de semana em Sinaloa, disseram autoridades de segurança mexicanas na segunda-feira. A recente detenção de Fausto Isidro Meza Flores, conhecido como “El…",
+"u": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
+"f": "CBS News",
+"s": "cbsnews.com",
+"i": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/8d3a216a-b007-41d4-aaae-5e0e35a67dc5/thumbnail/1200x630/fbef4429daf27728001ed33722ff5bf7/mexico-screenshot-2026-11-23-093551.png",
+"d": "2026-11-24T13:35-03:00",
+"c": [
+"drones",
+"inspecao"
+],
+"l": 0,
+"to": "U.S. flew surveillance drone over Mexico to help operation that captured top drug lord",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CBS News",
+"mx": 1,
+"rx": "Os Estados Unidos pilotaram um drone de vigilância sobre o território mexicano para ajudar o governo a rastrear e capturar um importante traficante de drogas no fim de semana em Sinaloa, disseram autoridades de segurança mexicanas na segunda-feira. A recente detenção de Fausto Isidro Meza Flores, conhecido como “El Chapo Isidro”, ilustra o aumento da cooperação policial entre os países vizinhos, mas o envolvimento dos EUA nas operações de segurança mexicanas tem sido um assunto delicado há muito tempo.\nO Presidente Trump pressionou a Presidente mexicana Claudia Sheinbaum a reprimir os cartéis, enquanto o México sublinhou repetidamente a sua soberania. Na segunda-feira, Sheinbaum enfatizou que as forças dos EUA não estavam autorizadas a operar no terreno no México e que os governos estavam apenas a partilhar informações de inteligência."
+},
+{
+"id": "ced1bda043e1fc",
+"t": "A demanda contra drones pode fortalecer o crescimento da Northrop Grumman?",
+"r": "A Northrop Grumman NOC está fortalecendo sua posição no mercado de sistemas de combate a aeronaves não tripuladas (C-UAS), à medida que os clientes militares buscam soluções móveis e eficazes para enfrentar as crescentes ameaças de drones. A crescente procura de capacidades integradas de defesa aérea poderá criar…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/RTX/pressreleases/8988236/can-counter-drone-demand-strengthen-northrop-grummans-growth/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=999",
+"d": "2026-11-24T13:59-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Can Counter-Drone Demand Strengthen Northrop Grumman's Growth?",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "A Northrop Grumman NOC está fortalecendo sua posição no mercado de sistemas de combate a aeronaves não tripuladas (C-UAS), à medida que os clientes militares buscam soluções móveis e eficazes para enfrentar as crescentes ameaças de drones. A crescente procura de capacidades integradas de defesa aérea poderá criar oportunidades para os prestadores de serviços de defesa com tecnologias avançadas de sensores, armas e munições.\nEm 17 de outubro de 2026, a Northrop Grumman demonstrou uma solução integrada de combate a drones móveis durante um exercício de tiro real. A crescente procura de soluções anti-drones, combinada com investimentos para expandir as capacidades de produção, poderia apoiar o negócio de defesa da Northrop Grumman. Os seus sensores, interceptores e sistemas de defesa integrados posicionam-na para beneficiar da crescente procura de soluções para detectar e combater ameaças aéreas não tripuladas."
+},
+{
+"id": "56dff6fbaf4011",
+"t": "CEO da Medtronic, Geoff Martha: IA e robótica têm sido multiplicadores de força para nós",
+"r": "O CEO da Medtronic, Geoff Martha, junta-se ao 'Squawk on the Street' para discutir o último relatório de lucros da empresa, a demanda por cirurgia assistida por robô e muito mais.",
+"u": "https://www.cnbc.com/video/2026/11/24/medtronic-ceo-geoff-martha-ai-and-robotics-have-been-force-multipliers-for-us.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/108558539-17955395191795539516-49835863148-1080pnbcnews.jpg?v=1795539518&w=1920&h=1080",
+"d": "2026-11-24T14:04-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNBC",
+"mx": 1,
+"rx": "O CEO da Medtronic, Geoff Martha, junta-se ao 'Squawk on the Street' para discutir o último relatório de lucros da empresa, a demanda por cirurgia assistida por robô e muito mais."
 },
 {
 "id": "431592b8501ca2",
@@ -2054,7 +2204,7 @@
 "p": 4.5,
 "cr": 3,
 "cv": "La Repubblica",
-"mx": 2
+"mx": 3
 },
 {
 "id": "2b8fc7ba54aeaa",
@@ -2292,7 +2442,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "ANSA",
-"mx": 2,
+"mx": 3,
 "rx": "Revolução à vista para os robôs, com acesso a enormes quantidades de dados e capacidade de aprender com os seus erros: é possível controlá-los por agentes de inteligência artificial, programas autónomos baseados em grandes modelos de linguagem (Llms). É o resultado de uma pesquisa realizada por Ken Goldberg, especialista em robótica e professor de Engenharia da Universidade da Califórnia em Berkeley, que a apresentou em Austin (Texax) na Conferência sobre Aprendizagem de Robôs. “Em vez de coletar grandes quantidades de dados e ajustar manualmente cada comportamento, equipes de agentes podem gerar, testar e refinar rapidamente programas para robôs, permitindo que engenheiros humanos interpretem seu comportamento para ajuste fino e verificação”, observa Goldberg."
 },
 {
@@ -2305,7 +2455,7 @@
 "i": "",
 "d": "2026-11-24T12:19-03:00",
 "c": [
-"geral"
+"inspecao"
 ],
 "l": 0,
 "to": "robolaunch",
@@ -2313,7 +2463,7 @@
 "p": 3.8,
 "cr": 3,
 "cv": "A3 — Association for Advancing Automation",
-"mx": 1,
+"mx": 2,
 "rx": "Sistemas Vision AI para detecção automatizada de defeitos de superfície e inspeção de qualidade em tempo real em prensas automotivas, oficinas de carroceria, oficinas de pintura e montagem."
 },
 {
@@ -2821,28 +2971,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "France 24",
-"mx": 2
-},
-{
-"id": "da1bc7849da6ca",
-"t": "Melhores ofertas de aspiradores de robôs da Black Friday em 2026: Shop Dreame e Roborock",
-"r": "Quase todos os nossos aspiradores de robô favoritos estão à venda, agora que as ofertas da Black Friday estão oficialmente ativas. Não vou fingir que é normal que já estivéssemos cobrindo os primeiros negócios de aspiradores de robôs da Black Friday em outubro, mas o evento principal finalmente chegou – e alguns…",
-"u": "https://mashable.com/life/best-early-black-friday-robot-vacuum-deals-2026",
-"f": "Mashable",
-"s": "mashable.com",
-"i": "https://helios-i.mashable.com/imagery/articles/02PGq8jr31ZdOtmUKJDfZ0X/hero-image.fill.size_1200x675.v1792766330.png",
-"d": "2026-11-24T12:12-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Best Black Friday robot vacuum deals 2026: Shop Dreame and Roborock",
-"lg": "en",
-"p": 3.5,
-"cr": 2,
-"cv": "Mashable",
-"mx": 1,
-"rx": "Quase todos os nossos aspiradores de robô favoritos estão à venda, agora que as ofertas da Black Friday estão oficialmente ativas. Não vou fingir que é normal que já estivéssemos cobrindo os primeiros negócios de aspiradores de robôs da Black Friday em outubro, mas o evento principal finalmente chegou – e alguns desses preços são difíceis de ignorar. Até mesmo nosso aspirador robô mais bem classificado em 2026, o Dreame X60 Max Ultra Complete, está à venda.\nContinuaremos atualizando este artigo durante a Black Friday e a Cyber ​​​​Monday à medida que os preços mudam e o estoque se move, então volte para ver o que ainda vale a pena comprar. Se você está procurando uma combinação robô aspirador de pó que não vai custar muito, o Roborock Q10 S5 + está à venda por US$ 229,99, abaixo dos US$ 549,99. Stodart o nomeou como o \"Melhor aspirador robô Roller Mop abaixo de US$ 1.000\". Seu pequeno dock o torna uma ótima opção para pessoas com “espaço limitado” e limpa com precisão."
+"mx": 3
 },
 {
 "id": "9dafc067dd0a6b",
@@ -2908,6 +3037,48 @@
 "rx": "36Kr soube que a Guoxia Technology anunciou na Bolsa de Valores de Hong Kong que a empresa recebeu hoje cartas de compromisso do acionista da empresa Hainan Xuding Information Management Consulting Co., Ltd. e dos três fundadores da empresa (Feng Lizheng, Zhang Xi e Liu Ziye) (coletivamente referidos como acionistas fundadores). Os acionistas fundadores prometeram voluntariamente, respectivamente, que durante o período de doze meses a partir de 16 de dezembro de 2026, Hainan Xuding Information Management Consulting Co., Ltd., Feng Lizheng, Zhang Xi e Liu Ziye não alienarão (incluindo, mas não se limitando a vender ou penhorar) os 117.504.000, 10.748.000, 7.000.000 e 13.120.000 Ações H (ações restritas) da empresa detidas diretamente por eles."
 },
 {
+"id": "d688e86a99d335",
+"t": "Artigo técnico da indústria de robôs humanóides de 2026: estrutura da empresa, roteiro tecnológico e perspectiva de cenário",
+"r": "Topstar (Dongguan) compartilha um conjunto de bases de controle em seis formas principais: humanóide bípede, humanóide com rodas, robô quadrúpede, braços duplos humanóides, braço robótico humanóide e estação de trabalho de IA. O quadro industrial em 2026 consiste em vários conjuntos de números: a Topstar concluiu a…",
+"u": "https://www.ithome.com/1/031/693.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-24T06:14-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "2026 人形机器人产业白皮书：公司格局、技术路线与场景展望",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Topstar (Dongguan) compartilha um conjunto de bases de controle em seis formas principais: humanóide bípede, humanóide com rodas, robô quadrúpede, braços duplos humanóides, braço robótico humanóide e estação de trabalho de IA. O quadro industrial em 2026 consiste em vários conjuntos de números: a Topstar concluiu a verificação de mais de 30 cenários industriais e os dois modelos de Xiaotuo e Star estão avançando juntos; O milésimo Walker S2 da UBTECH saiu da linha de montagem em Liuzhou; Xiaomi funcionou continuamente por 3 horas na oficina de fundição da fábrica de automóveis, com uma taxa de sucesso de instalação de 90,2% e um tempo de ciclo de 76 segundos; Agility movimentou mais de 10000000000000000000000000000x em um armazém GXO. Dez mil caixas de materiais; de acordo com os materiais públicos da empresa, o robô Daxiao completou 57 horas e 165 rodadas de experimentos em máquinas reais no cenário da lavanderia do hotel."
+},
+{
+"id": "028d3928423585",
+"t": "O Robô Quadrúpede Biônico Inteligente Galileo foi selecionado como o primeiro grande equipamento técnico (conjunto) em Tianjin",
+"r": "Recentemente, o \"Catálogo de Orientação para a Promoção e Aplicação do Primeiro (Conjunto) de Equipamentos Técnicos Principais de Tianjin (Edição 2026)\" (doravante denominado \"Primeiro (Conjunto)\") foi anunciado oficialmente. O robô quadrúpede biônico inteligente desenvolvido de forma independente pela Galileo…",
+"u": "https://www.ithome.com/1/031/794.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-24T07:27-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "伽利略智能仿生四足机器人入选天津市首台（套）重大技术装备",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Recentemente, o \"Catálogo de Orientação para a Promoção e Aplicação do Primeiro (Conjunto) de Equipamentos Técnicos Principais de Tianjin (Edição 2026)\" (doravante denominado \"Primeiro (Conjunto)\") foi anunciado oficialmente. O robô quadrúpede biônico inteligente desenvolvido de forma independente pela Galileo (Tianjin) Technology Co., Ltd. passou na revisão com seu avanço tecnológico principal e vantagens completas de direitos de propriedade intelectual independentes, e foi selecionado como o primeiro (conjunto) dos principais equipamentos técnicos em Tianjin.\nO primeiro (conjunto) de equipamentos técnicos importantes é reconhecido como uma certificação oficial de alto valor na área de fabricação de equipamentos, visando produtos líderes do setor com grandes avanços tecnológicos e direitos de propriedade intelectual independentes. Galileo adere à estratégia de desenvolvimento orientada para a inovação, continua a aumentar o investimento em investigação e desenvolvimento e construiu um sistema independente de investigação e desenvolvimento de cadeia completa. Sua série de produtos foi implementada em 26 províncias e cidades em todo o país e em vários setores."
+},
+{
 "id": "0ff9eb122d9ad0",
 "t": "Grupo Changhua: Não envolvido em negócios de robôs humanóides",
 "r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
@@ -2928,6 +3099,50 @@
 "cv": "36Kr",
 "mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "3f9ed7669bd581",
+"t": "O primeiro robô humanóide do mundo com certificação UL 3300, Qiyuan Robot Q1 e Qiyuan T1, obteve simultaneamente três certificações oficiais da China, dos Estados Unidos e da Europa.",
+"r": "Recentemente, os produtos Qiyuan Q1 e Qiyuan T1 da Qiyuan Robot foram aprovados com sucesso em três certificações de produto: China CR, EU CE e US UL. A implementação de múltiplas certificações internacionais de produtos marca que a Qiyuan Robot atendeu aos padrões globais de segurança e qualidade de ponta…",
+"u": "https://www.ithome.com/1/031/890.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-24T11:46-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "全球首张人形机器人UL 3300认证落地启元机器人启元Q1、启元T1同步斩获中美欧三项权威认证",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"cur": 1,
+"mx": 1,
+"rx": "Recentemente, os produtos Qiyuan Q1 e Qiyuan T1 da Qiyuan Robot foram aprovados com sucesso em três certificações de produto: China CR, EU CE e US UL. A implementação de múltiplas certificações internacionais de produtos marca que a Qiyuan Robot atendeu aos padrões globais de segurança e qualidade de ponta, solidificando a base de conformidade para o layout global e abrindo um caminho de comercialização para o mercado global.\nZhao Gang, presidente e COO da Shangwei New Materials e Qiyuan Robotics, Zheng Junqi, diretor do Centro Nacional de Testes e Avaliação de Robôs (Sede) e presidente do Instituto de Pesquisa de Tecnologia da Indústria de Robôs de Xangai, Shan Ming, gerente geral da Divisão de Máquinas do Departamento de Serviços de Produtos Solares e Comerciais da TUV Rheinland Grande China, Yu Xiukun, Vice-Presidente Global de Soluções UL, e outros participaram da cerimônia de premiação do certificado."
+},
+{
+"id": "28f5f764625452",
+"t": "China implanta cães-robôs, drones e humanóides para operar um sistema de metrô em “espaço total”",
+"r": "",
+"u": "https://www.techrepublic.com:8443/fr/article/news-china-robot-dogs-drones-apac/",
+"f": "TechRepublic",
+"s": "techrepublic.com:8443",
+"i": "",
+"d": "2026-11-24T08:15-03:00",
+"c": [
+"humanoides",
+"quadrupedes",
+"drones"
+],
+"l": 0,
+"to": "China Deploys Robot Dogs, Drones, and Humanoids to Run a ‘Full-Space’ Metro System",
+"lg": "en",
+"p": 3.0,
+"cr": 2,
+"cv": "TechRepublic",
+"mx": 1
 },
 {
 "id": "5cb18fca6ce69b",
@@ -2971,6 +3186,27 @@
 "cv": "36Kr",
 "mx": 9,
 "rx": "36Kr soube que o aplicativo Tianyancha mostrou que a Anheng (Xiongan) Information Technology Co., Ltd. O representante legal é Chen Siyu, com capital social de 11 milhões de yuans. Seu escopo de negócios inclui desenvolvimento de software de rede e segurança da informação, fabricação de equipamentos de segurança da informação, vendas de equipamentos de segurança da informação, etc. As informações dos acionistas mostram que a empresa é propriedade integral da Hangzhou Anheng Information Technology Co., Ltd.\n8:01 Krypton丨Huang Renxun retoma sua posição como CEO, Nvidia sobe para 952 bilhões de dólares durante a noite; os jardins de infância recrutarão crianças de 2 anos; o imperador experiente em carros respondeu ao \"grande ajuste no conteúdo do teste\""
+},
+{
+"id": "6e62515e1aaa28",
+"t": "Desmontando \"Aquisição, Compreensão, Tradução e Aplicação\": Como os dados crowdsourced da MiFeng Technology entram sistematicamente no \"cérebro\" do robô?",
+"r": "Em 23 de setembro, a MiFeng Technology lançou a plataforma \"Mifengpai\" em Xangai, que está tentando converter em lote essa parte da experiência em dados que os robôs possam aprender. Meifengpai abre suas tarefas de coleta ao público, e as operações registradas por pessoas comuns precisam passar por um link de…",
+"u": "https://www.ithome.com/1/031/412.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-24T00:55-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "拆解“采懂译用”：觅蜂科技的众包数据如何系统进入机器人的“大脑”？",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Em 23 de setembro, a MiFeng Technology lançou a plataforma \"Mifengpai\" em Xangai, que está tentando converter em lote essa parte da experiência em dados que os robôs possam aprender. Meifengpai abre suas tarefas de coleta ao público, e as operações registradas por pessoas comuns precisam passar por um link de processamento completo para se tornarem dados de treinamento disponíveis para o modelo. A Tecnologia Meifeng usa tecnologia de conversão de ação Retarget para mapear trajetórias de operação humana em diferentes corpos de robôs. Esta é a ideia de \"coleta de dados sem corpo\" enfatizada pela Tecnologia Meifeng: nenhum robô específico está vinculado à coleta, e a operação real da pessoa é registrada primeiro e depois adaptada a diferentes modelos e hardware por meio de reconstrução de trajetória e conversão de ação, para que um dado possa servir a mais robôs."
 },
 {
 "id": "ab362831d7ef48",
@@ -3055,8 +3291,8 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"cur": 1,
-"mx": 1
+"mx": 2,
+"cur": 1
 }
 ],
 "2026-11-23": [
@@ -3566,6 +3802,41 @@
 "rx": "CIDADE DO MÉXICO (AP) – Os Estados Unidos pilotaram um drone de vigilância sobre o território mexicano para ajudar o governo a rastrear e capturar um importante traficante de drogas no fim de semana em Sinaloa, disseram autoridades de segurança mexicanas na segunda-feira. A recente detenção de Fausto Isidro Meza Flores, conhecido como “El Chapo Isidro” ilustra o aumento da cooperação policial entre os países vizinhos, mas o envolvimento dos EUA nas operações de segurança mexicanas tem sido um assunto delicado há muito tempo.\nNa semana que antecedeu a captura de Meza Flores, isso incluiu a autorização dos EUA para sobrevoar o território mexicano com drones de inteligência, para ajudar as autoridades mexicanas a cercar o capo e partir para a captura, disseram Trevilla Trejo e outras autoridades mexicanas."
 },
 {
+"id": "46b2767a45fd41",
+"t": "Drone da Amazon cai em garagem após entregar shampoo",
+"r": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
+"u": "https://www.ctvnews.ca/lifestyle/article/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/5P56GFQ35ZGHHIQI7MQGZDOFZI.JPG?smart=true&auth=a5d95864d7f832b077ceecc0a0c2c4b4155d43a57f1dd98bcf73173ad3cb7f0d&width=1200&height=630",
+"d": "2026-11-23T22:32-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Amazon drone crashes into garage after delivering shampoo",
+"lg": "en",
+"p": 7.8,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
+"o": [
+{
+"f": "NBC News",
+"u": "https://www.nbcnews.com/nightly-news/video/amazon-delivery-drone-crashes-into-home-s-garage-274049605876",
+"s": "nbcnews.com",
+"id": "761e806cf3ab06"
+},
+{
+"f": "Ars Technica",
+"u": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+"s": "arstechnica.com",
+"id": "cb6f8525252b21"
+}
+]
+},
+{
 "id": "ed49b7fbbe53b1",
 "t": "Elon Musk \"AI5 será Optimus, os veículos permanecerão AI4\"... “O preço do AI4 dobrou devido ao rápido aumento no preço da memória”",
 "r": "O CEO da Tesla, Elon Musk, reafirmou sua política de continuar a usar o atual computador autônomo 'AI4' em veículos Tesla e de usar o chip de próxima geração 'AI5' primeiro no robô humanóide 'Optimus'. Também foi explicado que o custo do AI4 dobrou à medida que os preços da memória e do armazenamento aumentavam. De acordo com reportagem do ‘Drive Tesla’ do dia 22 (horário local), o CEO da Tesla, Elon Musk, disse isso em resposta à pergunta de um cliente na mídia social X. Este cliente queria trocar de um veículo equipado com AI3, mas perguntou se deveria esperar pelo AI5. Em resposta, o CEO Musk disse: “AI5",
@@ -3901,35 +4172,6 @@
 "u": "https://www.techinasia.com/news/indian-robot-actuator-startup-cosine-raises-24m?ref=tiahome",
 "s": "techinasia.com",
 "id": "4c3517a267c801"
-}
-]
-},
-{
-"id": "46b2767a45fd41",
-"t": "Drone da Amazon cai em garagem após entregar shampoo",
-"r": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
-"u": "https://www.ctvnews.ca/lifestyle/article/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
-"f": "CTV News",
-"s": "ctvnews.ca",
-"i": "https://www.ctvnews.ca/resizer/v2/5P56GFQ35ZGHHIQI7MQGZDOFZI.JPG?smart=true&auth=a5d95864d7f832b077ceecc0a0c2c4b4155d43a57f1dd98bcf73173ad3cb7f0d&width=1200&height=630",
-"d": "2026-11-23T22:32-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Amazon drone crashes into garage after delivering shampoo",
-"lg": "en",
-"p": 6.3,
-"cr": 3,
-"cv": "CTV News",
-"mx": 1,
-"rx": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
-"o": [
-{
-"f": "NBC News",
-"u": "https://www.nbcnews.com/nightly-news/video/amazon-delivery-drone-crashes-into-home-s-garage-274049605876",
-"s": "nbcnews.com",
-"id": "761e806cf3ab06"
 }
 ]
 },
@@ -5538,27 +5780,6 @@
 "rx": "Vídeo. Cinco mil drones iluminaram o céu noturno de Wushan, no sudoeste da China, criando imagens gigantes de folhas de outono, montanhas e paisagens fluviais. A exibição espetacular celebrou o Festival Anual da Folha Vermelha da região."
 },
 {
-"id": "20a666e3ca1bd3",
-"t": "Além da máquina: como o software está impulsionando a próxima revolução robótica",
-"r": "As capacidades físicas de uma máquina estabelecem o que ela poderia fazer; seu software ajuda a determinar a eficácia do seu desempenho em condições reais de trabalho. À medida que as empresas pedem aos robôs que realizem tarefas mais variadas, o mercado de software robótico está a tornar-se uma parte cada vez mais…",
-"u": "https://www.roboticstomorrow.com/story/2026/11/beyond-the-machine-how-software-is-driving-the-next-robotics-revolution/27423/",
-"f": "Robotics Tomorrow",
-"s": "roboticstomorrow.com",
-"i": "",
-"d": "2026-11-23T10:56-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Beyond the Machine: How Software Is Driving the Next Robotics Revolution",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotics Tomorrow",
-"mx": 9,
-"rx": "As capacidades físicas de uma máquina estabelecem o que ela poderia fazer; seu software ajuda a determinar a eficácia do seu desempenho em condições reais de trabalho. À medida que as empresas pedem aos robôs que realizem tarefas mais variadas, o mercado de software robótico está a tornar-se uma parte cada vez mais importante da economia da automação. É aqui que o software se torna comercialmente valioso. A simulação também muda a forma como um comprador pode avaliar o software.\nO software acessível também ajuda as empresas a avaliar se podem gerenciar a automação com sua equipe existente ou se precisarão de suporte especializado adicional. O mercado de software robótico oferece espaço para tecnologias ambiciosas, mas, em última análise, os clientes precisam de resultados mensuráveis. O valor duradouro surge quando seu software ajuda as pessoas a executar uma operação confiável, compreender o desempenho e adaptar o sistema conforme as necessidades do negócio mudam."
-},
-{
 "id": "5cdf8afad8e8aa",
 "t": "Ocean Power Technologies assina LOI para vender negócios WAM-V® para Nauticus Robotics e finaliza acordo de data center offshore com Stratum Holdings Corp.",
 "r": "23, 2026 (GLOBE NEWSWIRE) -- Ocean Power Technologies, Inc. (\"OPT\" ou a \"Empresa\") (NYSE American: OPTT), fornecedora de energia marítima, dados e soluções de reconhecimento de domínio, forneceu hoje uma atualização sobre sua revisão estratégica anunciada anteriormente. A OPT também receberia pagamentos adicionais em…",
@@ -6817,6 +7038,27 @@
 "mx": 3
 },
 {
+"id": "20a666e3ca1bd3",
+"t": "Além da máquina: como o software está impulsionando a próxima revolução robótica",
+"r": "As capacidades físicas de uma máquina estabelecem o que ela poderia fazer; seu software ajuda a determinar a eficácia do seu desempenho em condições reais de trabalho. À medida que as empresas pedem aos robôs que realizem tarefas mais variadas, o mercado de software robótico está a tornar-se uma parte cada vez mais…",
+"u": "https://www.roboticstomorrow.com/story/2026/11/beyond-the-machine-how-software-is-driving-the-next-robotics-revolution/27423/",
+"f": "Robotics Tomorrow",
+"s": "roboticstomorrow.com",
+"i": "",
+"d": "2026-11-23T10:56-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Beyond the Machine: How Software Is Driving the Next Robotics Revolution",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "Robotics Tomorrow",
+"mx": 9,
+"rx": "As capacidades físicas de uma máquina estabelecem o que ela poderia fazer; seu software ajuda a determinar a eficácia do seu desempenho em condições reais de trabalho. À medida que as empresas pedem aos robôs que realizem tarefas mais variadas, o mercado de software robótico está a tornar-se uma parte cada vez mais importante da economia da automação. É aqui que o software se torna comercialmente valioso. A simulação também muda a forma como um comprador pode avaliar o software.\nO software acessível também ajuda as empresas a avaliar se podem gerenciar a automação com sua equipe existente ou se precisarão de suporte especializado adicional. O mercado de software robótico oferece espaço para tecnologias ambiciosas, mas, em última análise, os clientes precisam de resultados mensuráveis. O valor duradouro surge quando seu software ajuda as pessoas a executar uma operação confiável, compreender o desempenho e adaptar o sistema conforme as necessidades do negócio mudam."
+},
+{
 "id": "9f521627134774",
 "t": "Millennium Silver conclui pesquisa magnética com drone, infraestrutura hídrica e construção de plataforma de perfuração em Silver Peak, Nevada; Local pronto para perfuração",
 "r": "Vancouver, British Columbia--(Newsfile Corp. - 23 de novembro de 2026) - Millennium Silver Corp. (TSXV: MSC) (\"Millennium Silver\" ou a \"Empresa\") tem o prazer de anunciar a conclusão de atividades de campo importantes em seu projeto prata-ouro Silver Peak no condado de Esmeralda, Nevada. Essas atividades incluem…",
@@ -7695,7 +7937,8 @@
 "i": "",
 "d": "2026-11-23T12:02-03:00",
 "c": [
-"negocios"
+"negocios",
+"medicina"
 ],
 "l": 0,
 "to": "A股三大指数收盘涨跌不一，机器人概念持续拉升",
@@ -7703,7 +7946,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -7747,7 +7990,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -7768,7 +8011,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -9751,6 +9994,47 @@
 "cv": "36Kr",
 "mx": 1,
 "rx": "(doravante denominada \"Yuanqili\") está promovendo uma nova rodada de financiamento para seu módulo de junta cicloidal integrado de acionamento quase direto autodesenvolvido. Yuan Driving Force corta uma rota técnica no módulo conjunto de robôs humanóides que atualmente tem poucos jogadores. O módulo conjunto é uma unidade de execução que integra motores, redutores, drives e encoders. Determina diretamente a capacidade de movimento e precisão do robô. O custo representa 35% a 60% da lista técnica de toda a máquina e é o principal elo na redução do custo de toda a máquina.\nDe acordo com o registro do projeto da empresa na plataforma pública de informações industriais e comerciais, o módulo de junta cicloidal integrado de acionamento quase direto desenvolvido de forma independente por Yuan Dalili integra um redutor cicloidal de alta precisão, motor de torque, codificador duplo e sistema de acionamento. Os principais indicadores marcados publicamente são que a folga é tão baixa quanto 1 minuto de arco e pode suportar sobrecarga instantânea mais de 5 vezes maior."
+},
+{
+"id": "0013c801905822",
+"t": "Humanóides+robôs+em+fábricas",
+"r": "",
+"u": "http://auto.economictimes.indiatimes.com/tag/humanoid+robots+in+factories",
+"f": "ET Auto",
+"s": "auto.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-22T21:51-03:00",
+"c": [
+"humanoides",
+"industriais"
+],
+"l": 0,
+"to": "Humanoid+robots+in+factories",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1
+},
+{
+"id": "77defbd3391db7",
+"t": "Xiaomi+humanóides+robôs",
+"r": "",
+"u": "https://auto.economictimes.indiatimes.com/tag/xiaomi+humanoid+robots",
+"f": "ET Auto",
+"s": "auto.economictimes.indiatimes.com",
+"i": "",
+"d": "2026-11-22T21:57-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Xiaomi+humanoid+robots",
+"lg": "en",
+"p": 4.3,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1
 },
 {
 "id": "3cad59000e8766",
@@ -17570,6 +17854,36 @@
 ]
 },
 {
+"id": "07bfb6103d754b",
+"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
+"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
+"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+"lg": "en",
+"p": 7.1,
+"cr": 3,
+"cv": "AFP",
+"mx": 2,
+"o": [
+{
+"f": "Robotics Tomorrow",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
+"s": "roboticstomorrow.com",
+"id": "4ff85e0a20bcda"
+}
+],
+"esp": 1,
+"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
+},
+{
 "id": "b8afc9a9b09a44",
 "t": "Robôs dançantes, máquinas servindo: Shenzhen mostra sua força tecnológica na cúpula da APEC",
 "r": "Cúpula da APEC, Shenzhen se transforma em uma vitrine da alta tecnologia chinesa. Robôs humanóides entretêm jornalistas cantando e dançando.",
@@ -17765,36 +18079,6 @@
 "id": "61e889ab9c2258"
 }
 ]
-},
-{
-"id": "07bfb6103d754b",
-"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
-"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
-"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
-"lg": "en",
-"p": 6.1,
-"cr": 3,
-"cv": "AFP",
-"mx": 1,
-"o": [
-{
-"f": "Robotics Tomorrow",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
-"s": "roboticstomorrow.com",
-"id": "4ff85e0a20bcda"
-}
-],
-"esp": 1,
-"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "31d24e91b986a1",
@@ -22931,7 +23215,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -28061,7 +28345,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -28225,7 +28509,7 @@
 "u": "https://udn.com/news/story/7252/9885053",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-17T11:03-03:00",
 "c": [
 "competicoes"
@@ -50670,7 +50954,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -56191,7 +56475,7 @@
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia",
@@ -56559,7 +56843,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -72647,7 +72931,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -72676,7 +72960,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -76001,7 +76285,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "",
+"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -76011,9 +76295,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 12.9,
+"p": 13.9,
 "esp": 1,
-"mx": 1,
+"mx": 2,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
