@@ -296,7 +296,7 @@
 "u": "https://udn.com/news/story/7240/9898449",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-24T01:56-03:00",
 "c": [
 "negocios",
@@ -635,6 +635,29 @@
 "rx": "A MassRobotics está desenvolvendo uma nova instalação de robótica marítima no Boston Fish Pier, proporcionando às startups acesso direto ao porto de Boston para testar robôs subaquáticos, embarcações autônomas e outras tecnologias marítimas. A instalação está a ser desenvolvida em parceria com a Massport como parte da sua iniciativa Blue Edge, que apoia o crescente sector de tecnologia marítima da região.\nA MassRobotics apoia atualmente mais de 100 startups residentes, incluindo a CRABI Robotics, que desenvolve robôs subaquáticos para limpeza de cascos de navios. Uma instalação no porto, a poucos passos de onde você constrói, ajudará a próxima empresa marítima a se mover muito mais rápido do que poderíamos.” A MassRobotics está convidando startups de robótica marítima e potenciais parceiros da indústria a expressarem interesse nas instalações antes de sua inauguração."
 },
 {
+"id": "3c8125fae102d2",
+"t": "Hanwha Aerospace encerra negociações de investimento com Lion Robotics",
+"r": "A Hanwha Aerospace (012450) abandonou os planos para um novo investimento em um desenvolvedor de robôs quadrúpedes militares. A Hanwha Aerospace disse que os termos, incluindo o valor do investimento, não estão alinhados. A Hanwha Aerospace disse na tarde do dia 24 que encerrou as negociações de investimento com a…",
+"u": "https://biz.chosun.com/en/en-industry/2026/11/24/INA5Y47QZZGNNDZT44BRPYCZYA/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/MEHGHTS7Y5CIPJEESNLH4VA24A.jpg?auth=295545bbf8602d1b00a28ef35352380f5ff265d0cf81c8dc19129c55fce586cb&width=1200&height=630&smart=true",
+"d": "2026-11-24T04:35-03:00",
+"c": [
+"negocios",
+"quadrupedes",
+"defesa"
+],
+"l": 0,
+"to": "Hanwha Aerospace ends investment talks with Lion Robotics",
+"lg": "en",
+"p": 5.6,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "A Hanwha Aerospace (012450) abandonou os planos para um novo investimento em um desenvolvedor de robôs quadrúpedes militares. A Hanwha Aerospace disse que os termos, incluindo o valor do investimento, não estão alinhados. A Hanwha Aerospace disse na tarde do dia 24 que encerrou as negociações de investimento com a Lion Robotics após analisar um investimento potencial e descobrir que os termos, incluindo a avaliação da empresa e o valor do investimento, não estavam alinhados.\nA Hanwha Aerospace decidiu participar da rodada de financiamento da Série B de 100 bilhões de won da Lion Robotics e entrou em negociações. O plano previa o investimento de 70 bilhões de won para adquirir cerca de 10% de participação na Lion Robotics, mas a Hanwha Aerospace teria se retirado depois que surgiram diferenças durante as negociações."
+},
+{
 "id": "8b39a2d5cb05f8",
 "t": "A província de Gyeongbuk investe 236 bilhões de won na promoção de 42.000 pessoas talentosas nas indústrias de IA, semicondutores e robótica e na criação de um ecossistema de talentos para indústrias de alta tecnologia!",
 "r": "A província de Gyeongbuk investirá 236 bilhões de won ao longo de quatro anos para se concentrar no desenvolvimento dos recursos humanos necessários para as cinco principais indústrias estratégicas e de alta tecnologia na área metropolitana de Gyeonggi, incluindo semicondutores de IA, robôs avançados de IA, mobilidade futura, baterias secundárias e bio. No dia 24, a província de Gyeongbuk anunciou um plano para \"construir um ecossistema de talentos da indústria de alta tecnologia\" liderado por Gyeongbuk através de uma coletiva de imprensa e anunciou que treinará cerca de 42.000 talentos em indústrias estratégicas e de alta tecnologia. O objetivo é atrair empresas relacionadas e garantir a competitividade industrial, fornecendo um fornecimento oportuno e abundante de talentos necessários às indústrias e empresas estratégicas e de alta tecnologia na área da Grande Gyeonggi. O governador de Gyeongsangbuk-do, Lee Cheol-woo, disse: “Na era da inteligência artificial, nutrir e proteger o talento criativo é a coisa mais importante”.",
@@ -666,8 +689,8 @@
 "i": "https://img.hankyung.com/photo/202611/AD.46531025.1.jpg",
 "d": "2026-11-24T05:19-03:00",
 "c": [
-"quadrupedes",
 "negocios",
+"quadrupedes",
 "resgate"
 ],
 "l": 0,
@@ -720,9 +743,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics & Automation News",
-"cur": 1,
 "mx": 1,
-"rx": "A ABB lançou o Intelleqt, que afirma ser “o primeiro motor de baixa tensão do mundo com inteligência integrada na fábrica”, concebido para fornecer informações operacionais em tempo real desde a sua primeira rotação. A ABB Intelleqt é pioneira no mundo e abre um novo capítulo no desenvolvimento de motores, transformando motores de equipamentos mecânicos em fontes de inteligência em tempo real.”\nAo transformar dados do motor em insights acionáveis, a ABB Intelleqt ajuda os clientes a melhorar a confiabilidade, aumentar a produtividade e identificar oportunidades de economia de energia de 30% ou mais. O ABB Intelleqt é o exemplo mais recente do investimento da ABB em inteligência artificial e tecnologias digitais, trazendo inteligência em nível de equipamento para um dos ativos mais importantes e amplamente utilizados da indústria, ao mesmo tempo que ajuda os clientes a construir a base de dados para a próxima geração de IA industrial."
+"rx": "A ABB lançou o Intelleqt, que afirma ser “o primeiro motor de baixa tensão do mundo com inteligência integrada na fábrica”, concebido para fornecer informações operacionais em tempo real desde a sua primeira rotação. A ABB Intelleqt é pioneira no mundo e abre um novo capítulo no desenvolvimento de motores, transformando motores de equipamentos mecânicos em fontes de inteligência em tempo real.”\nAo transformar dados do motor em insights acionáveis, a ABB Intelleqt ajuda os clientes a melhorar a confiabilidade, aumentar a produtividade e identificar oportunidades de economia de energia de 30% ou mais. O ABB Intelleqt é o exemplo mais recente do investimento da ABB em inteligência artificial e tecnologias digitais, trazendo inteligência em nível de equipamento para um dos ativos mais importantes e amplamente utilizados da indústria, ao mesmo tempo que ajuda os clientes a construir a base de dados para a próxima geração de IA industrial.",
+"cur": 1
 },
 {
 "id": "6ea9911bc7f2c1",
@@ -747,6 +770,95 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "A Ati Robotics, empresa de robótica autônoma com sede nos EUA que desenvolve veículos inteligentes de manuseio de materiais para ambientes industriais, está usando a tecnologia de simulação em nuvem nativa de IA da SimScale para apoiar a validação de hardware de seu robô móvel autônomo (AMR) Sherpa. A tecnologia oferece aos engenheiros a capacidade de investigar virtualmente o desempenho do hardware, apoiando a validação do projeto sem a sobrecarga de infraestrutura associada aos ambientes de simulação tradicionais.\nPara a Ati Robotics, garantir que seus veículos autônomos sejam projetados para atender às demandas dos ambientes industriais do mundo real é fundamental para o crescimento. “Projetar um veículo autônomo que opere de maneira confiável em ambientes de produção contínua requer uma validação rigorosa de hardware”, disse Venkatesh Prasad, chefe de engenharia mecânica da Ati Robotics."
+},
+{
+"id": "bfb82911ce2450",
+"t": "Tiltan lança ferramentas de simulação de sensores e IA que trazem o campo para o laboratório",
+"r": "TOPS-NX Studio: um laboratório baseado em física para desenvolvimento de sensores, testes de desempenho e imagens de treinamento de IA SILOS:",
+"u": "https://www.suasnews.com/2026/11/tiltan-launches-sensor-and-ai-simulation-tools-that-bring-the-field-into-the-lab/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/ai-cuas.jpg?fit=819%2C460&ssl=1",
+"d": "2026-11-24T06:06-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "Tiltan Launches Sensor and AI Simulation Tools That Bring the Field into the Lab",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "TOPS-NX Studio: um laboratório baseado em física para desenvolvimento de sensores, testes de desempenho e imagens de treinamento de IA SILOS: um laboratório aberto em tempo real SIL (Software-In-the-Loop) e HWIL (Hardware-In-the-Loop) para IA e sistemas autônomos, de um único sistema a um sistema de sistemas Tiltan Software Engineering Ltd.\nTOPS-NX Studio e SILOS trazem mais desse trabalho para o laboratório, permitindo que as equipes tomem decisões mais cedo e concentrem os testes de campo onde eles agregam mais valor.” Com mais de 30 anos de experiência, os produtos de simulação da Tiltan fornecem uma solução completa para treinamento, desenvolvimento e sistemas de hardware-in-the-loop, alimentados por um mecanismo 3D proprietário e IA generativa."
+},
+{
+"id": "f3cf22fe21ca1f",
+"t": "DroneShield alcança capacidade operacional inicial para solução contra-UAS em camadas com suporte a JIATF-401",
+"r": "A capacidade multissensor combina a detecção avançada de RF e contramedidas eletrônicas do DroneShield com tecnologia de radar para fortalecer",
+"u": "https://www.suasnews.com/2026/11/droneshield-achieves-initial-operational-capability-for-layered-counter-uas-solution-supporting-jiatf-401/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/droneshield-corner.jpg?fit=600%2C346&ssl=1",
+"d": "2026-11-24T06:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "DroneShield Achieves Initial Operational Capability for Layered Counter-UAS Solution Supporting JIATF-401",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "A capacidade multissensor combina a detecção avançada de RF e contramedidas eletrônicas do DroneShield com tecnologia de radar para fortalecer a proteção contra ameaças de UAS DroneShield (ASX:DRO), líder global em tecnologia avançada de sistemas aéreos contra-desparafusados (C-UAS), anuncia a conquista da Capacidade Operacional Inicial (IOC) para uma solução contra-UAS em camadas e em locais fixos que apoia os EUA.\nO marco marca o progresso contínuo no apoio do DroneShield aos requisitos militares anti-UAS dos EUA, reunindo tecnologias complementares de detecção e mitigação para fornecer uma abordagem em camadas para identificar, rastrear e responder a ameaças aéreas não tripuladas. Este marco demonstra a capacidade do DroneShield de reunir tecnologias avançadas e fornecer capacidade operacional em apoio a missões críticas de defesa dos EUA.”"
+},
+{
+"id": "055b349f0fbabd",
+"t": "Garuda Aerospace, apoiada por MS Dhoni, hospeda empresas do setor de defesa israelense para desenvolvimento conjunto de tecnologia",
+"r": "A Garuda Aerospace, principal fabricante de drones da Índia, recebeu uma delegação industrial israelense composta por 15 delegados para",
+"u": "https://www.suasnews.com/2026/11/ms-dhoni-backed-garuda-aerospace-hosts-israeli-defence-sector-companies-for-joint-development-of-technology/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/11/msdroni-israel.jpg?fit=600%2C338&ssl=1",
+"d": "2026-11-24T06:34-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "MS Dhoni Backed Garuda Aerospace Hosts Israeli Defence Sector Companies for Joint Development of Technology",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "A Garuda Aerospace, principal fabricante de drones da Índia, recebeu uma delegação industrial israelense composta por 15 delegados para uma visita industrial e demonstração de drones em suas instalações em Chennai. A visita proporcionou aos delegados uma exposição em primeira mão ao crescente ecossistema aeroespacial e de fabrico de drones da Índia, destacando as tecnologias indígenas de drones e as suas aplicações na defesa, vigilância, logística, agricultura e gestão de desastres.\nA Garuda Aerospace deu uma visão geral de seu portfólio de drones, tecnologias e diversas aplicações. As principais áreas de foco incluíram transferência de tecnologia, fabricação local nas instalações da Garuda Aerospace, desenvolvimento conjunto de tecnologia e oportunidades para fortalecer o ecossistema indígena de fabricação de drones da Índia."
+},
+{
+"id": "08fbeac374bb2a",
+"t": "Gabinete do Xerife do Condado de Forsyth lança primeira rede AirDock A2Z dos EUA",
+"r": "O Gabinete do Xerife do Condado de Forsyth está expandindo suas capacidades de Drone como Primeiro Respondente com um",
+"u": "https://www.suasnews.com/2026/11/forsyth-county-sheriffs-office-launches-first-u-s-a2z-airdock-network/",
+"f": "sUAS News",
+"s": "suasnews.com",
+"i": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/08/longtail-2-A2Z.png?fit=979%2C629&ssl=1",
+"d": "2026-11-24T06:52-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Forsyth County Sheriff’s Office Launches First U.S. A2Z AirDock Network",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "sUAS News",
+"mx": 1,
+"rx": "O Gabinete do Xerife do Condado de Forsyth está expandindo suas capacidades de Drone como Primeiro Respondente com uma rede conectada de AirDocks A2Z e aeronaves multimissão Longtail Patrol, apoiando operações de aplicação da lei, busca e salvamento e resposta a emergências. O Gabinete do Xerife do Condado de Forsyth estabeleceu a primeira rede A2Z AirDock nos Estados Unidos, apoiando seu crescente programa Drone as First Responder.\nTrês estações AirDock estrategicamente posicionadas fornecem uma base para operações aéreas em uma área de serviço de até 200 milhas quadradas ao redor de Winston-Salem, Carolina do Norte. Ao posicionar as aeronaves Longtail Patrol mais próximas das áreas que atendem, o departamento pode implantar recursos aéreos sem transportar uma tripulação de drones para cada local de lançamento."
 },
 {
 "id": "b221d10e89ab04",
@@ -779,8 +891,9 @@
 "i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/xmx-defense-rogue-450-vtol-uas.webp",
 "d": "2026-11-24T00:00-03:00",
 "c": [
+"defesa",
 "drones",
-"defesa"
+"servico"
 ],
 "l": 0,
 "to": "Seven Companies Join XMX Defense Drone Center in Mineral Wells",
@@ -925,27 +1038,6 @@
 "rx": "Você pode ver artigos sobre a economia coreana com mais frequência nas pesquisas do Google. A Hyundai Autoever atingiu seu limite superior devido à aliança de IA após o retorno do CEO da Nvidia e às expectativas para a indústria de robôs e direção autônoma, mas também há cautela sobre a contribuição do novo negócio para o crescimento real das vendas. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
 },
 {
-"id": "3c8125fae102d2",
-"t": "Hanwha Aerospace encerra negociações de investimento com Lion Robotics",
-"r": "A Hanwha Aerospace (012450) abandonou os planos para um novo investimento em um desenvolvedor de robôs quadrúpedes militares. A Hanwha Aerospace disse que os termos, incluindo o valor do investimento, não estão alinhados. A Hanwha Aerospace disse na tarde do dia 24 que encerrou as negociações de investimento com a…",
-"u": "https://biz.chosun.com/en/en-industry/2026/11/24/INA5Y47QZZGNNDZT44BRPYCZYA/",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "https://biz.chosun.com/resizer/v2/MEHGHTS7Y5CIPJEESNLH4VA24A.jpg?auth=295545bbf8602d1b00a28ef35352380f5ff265d0cf81c8dc19129c55fce586cb&width=1200&height=630&smart=true",
-"d": "2026-11-24T04:35-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Hanwha Aerospace ends investment talks with Lion Robotics",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 1,
-"rx": "A Hanwha Aerospace (012450) abandonou os planos para um novo investimento em um desenvolvedor de robôs quadrúpedes militares. A Hanwha Aerospace disse que os termos, incluindo o valor do investimento, não estão alinhados. A Hanwha Aerospace disse na tarde do dia 24 que encerrou as negociações de investimento com a Lion Robotics após analisar um investimento potencial e descobrir que os termos, incluindo a avaliação da empresa e o valor do investimento, não estavam alinhados.\nA Hanwha Aerospace decidiu participar da rodada de financiamento da Série B de 100 bilhões de won da Lion Robotics e entrou em negociações. O plano previa o investimento de 70 bilhões de won para adquirir cerca de 10% de participação na Lion Robotics, mas a Hanwha Aerospace teria se retirado depois que surgiram diferenças durante as negociações."
-},
-{
 "id": "b4cd963afaa8e2",
 "t": "BITS Pilani WILP lança programa M.Tech em Robótica e Sistemas Autônomos | Tempos do Hindustão",
 "r": "Por mais de uma década, o Hindustan Times Digital Streams – Education Desk tem sido uma fonte confiável de notícias precisas, aprofundadas e oportunas sobre educação e carreiras. Trazemos as últimas atualizações sobre exames, concursos, resultados, notícias sobre empregos, estudos no exterior, bolsas de estudo e…",
@@ -955,7 +1047,7 @@
 "i": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/BITS_Pilani_Campus_1789731079996_ou0K_178973110102_1795508946487_G5gI_1795508946742_fOvc_5f785bff-df1d-4a02-ae35-6bb4ce134577_9WwA.jpeg",
 "d": "2026-11-24T05:29-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "BITS Pilani WILP launches M.Tech program in Robotics and Autonomous Systems | Hindustan Times",
@@ -1006,9 +1098,9 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Infobae",
-"cur": 1,
 "mx": 1,
-"rx": "As câmeras de eventos prometem mudar a forma como os robôs percebem o mundo há décadas. Every second, an event camera generates tens of millions of signals that look nothing like a recognizable image, but rather a chaotic stream of luminous dots. A team of engineers at the University of Pennsylvania developed a general-purpose computational tool that, for the first time, converts that flood of signals into information that different types of robots can use directly.\nRicheek Das, estudante de doutorado e primeiro autor do estudo, resume desta forma: “Sem a capacidade de remover informações redundantes, os dados de uma câmera de evento são muito barulhentos e volumosos para serem usados ​​diretamente”, disse ele, de acordo com o comunicado."
+"rx": "As câmeras de eventos prometem mudar a forma como os robôs percebem o mundo há décadas. Every second, an event camera generates tens of millions of signals that look nothing like a recognizable image, but rather a chaotic stream of luminous dots. A team of engineers at the University of Pennsylvania developed a general-purpose computational tool that, for the first time, converts that flood of signals into information that different types of robots can use directly.\nRicheek Das, estudante de doutorado e primeiro autor do estudo, resume desta forma: “Sem a capacidade de remover informações redundantes, os dados de uma câmera de evento são muito barulhentos e volumosos para serem usados ​​diretamente”, disse ele, de acordo com o comunicado.",
+"cur": 1
 },
 {
 "id": "85903fa2cecd77",
@@ -1021,8 +1113,8 @@
 "d": "2026-11-24T06:08-03:00",
 "c": [
 "resgate",
-"defesa",
-"ia"
+"ia",
+"defesa"
 ],
 "l": 0,
 "to": "台南攜手建東精工導入智慧機器人 消防救災、巡檢拚科技助攻",
@@ -1032,6 +1124,69 @@
 "cv": "Liberty Times",
 "mx": 1,
 "rx": "O governo da cidade de Tainan e a Jiandong Precision Intelligent Control Co., Ltd. assinaram um memorando de cooperação (MOU) hoje (24). A cidade de Tainan se tornará um parceiro de implementação de campo de robôs inteligentes. Através de intercâmbios técnicos e verificações no terreno, avaliarão a viabilidade de veículos não tripulados inteligentes em serviços municipais, tais como combate a incêndios e socorro em catástrofes, inspecções de segurança, prevenção de desastres e digitalização no terreno, e explorarão novos modelos de tecnologia para auxiliar a mão-de-obra e reduzir os riscos de serviço.\nA cerimônia de assinatura foi assinada por Huang Guozhao, Diretor da Secretaria do Governo Municipal, e Lin Hongjie, Presidente da Jiandong Precision Industry. O prefeito Huang Weizhe serviu como testemunha. A cerimônia de assinatura de hoje viu a assinatura de um memorando de cooperação (MOU) no Centro Municipal de Yonghua hoje. O prefeito Huang Weizhe (no meio) serviu como testemunha e foi assinado pelo Diretor do Secretariado, Huang Guozhao (à direita) e pelo Presidente da Jiandong Precision, Lin Hongjie (à esquerda), em nome de ambas as partes."
+},
+{
+"id": "420712cbc3b1ac",
+"t": "A China testa um ‘carro voador sem asas’ que pode pairar e pousar como um drone; assista ao vídeo",
+"r": "Um carro voador sem asas e sem pás de rotor expostas parece algo saído diretamente de um filme de ficção científica dos anos 1980. No entanto, a China acaba de dar um passo tangível para tornar esse conceito real, com um veículo voador sem asas construído localmente a realizar o seu primeiro voo de teste em Changsha.",
+"u": "https://timesofindia.indiatimes.com/etimes/trending/china-tests-a-wingless-flying-car-that-can-hover-and-land-like-a-drone-watch-video/articleshow/136124936.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "https://static.toiimg.com/thumb/msid-136125054,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+"d": "2026-11-24T06:30-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "China tests a ‘wingless flying car’ that can hover and land like a drone; watch video",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 1,
+"rx": "Um carro voador sem asas e sem pás de rotor expostas parece algo saído diretamente de um filme de ficção científica dos anos 1980. No entanto, a China acaba de dar um passo tangível para tornar esse conceito real, com um veículo voador sem asas construído localmente a realizar o seu primeiro voo de teste em Changsha."
+},
+{
+"id": "4751a9ddf3fc64",
+"t": "Drone russo entra no espaço aéreo polonês, Varsóvia denuncia provocação",
+"r": "O exército polaco anunciou na terça-feira uma nova incursão russa no seu espaço aéreo, quatro dias após a queda de três mísseis no seu território. Um drone de reconhecimento russo entrou brevemente no espaço aéreo polonês durante um ataque noturno liderado pela Rússia à vizinha Ucrânia, disseram os militares poloneses…",
+"u": "https://www.lefigaro.fr/international/un-drone-russe-penetre-dans-l-espace-aerien-polonais-varsovie-denonce-une-provocation-20261124",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/24/afcd61676f777aa3bae1c385445bfcfd2f78a3a3ba3e028b5e6516aba64b90d0.jpg",
+"d": "2026-11-24T07:51-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Un drone russe pénètre dans l’espace aérien polonais, Varsovie dénonce une provocation",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "O exército polaco anunciou na terça-feira uma nova incursão russa no seu espaço aéreo, quatro dias após a queda de três mísseis no seu território. Um drone de reconhecimento russo entrou brevemente no espaço aéreo polonês durante um ataque noturno liderado pela Rússia à vizinha Ucrânia, disseram os militares poloneses na terça-feira, dias depois de três mísseis russos terem caído no leste da Polônia. “Durante o ataque noturno levado a cabo pela Federação Russa contra alvos localizados na parte ocidental da Ucrânia (…), houve uma breve violação do espaço aéreo polaco por uma aeronave não tripulada russa”, afirmou o Comando Operacional das Forças Armadas num comunicado."
+},
+{
+"id": "9be5afdb04e503",
+"t": "Opinião: Demos um pequeno passo para controlar drones autônomos. Agora vem a parte difícil",
+"r": "Existem agora relatos não confirmados de que a Rússia desenvolveu, e possivelmente utilizou, drones que podem seleccionar e atacar de forma independente alvos humanos, utilizando visão computacional alimentada por IA e algoritmos autónomos de tomada de decisão. Na semana passada, os 128 estados membros da Convenção…",
+"u": "https://www.theglobeandmail.com/opinion/article-a-small-step-to-control-autonomous-drones/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/resizer/v2/7OWAXKHLYZBDVPQBOUXFKN6A5Q.jpg?auth=1223ad4c2a47ad764fefc701243292f45af3c152ccf871ea601ea063dfbff466&width=1200&height=800&quality=80&smart=true",
+"d": "2026-11-24T08:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Opinion: We’ve made a small step to control autonomous drones. Now comes the hard part",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "Existem agora relatos não confirmados de que a Rússia desenvolveu, e possivelmente utilizou, drones que podem seleccionar e atacar de forma independente alvos humanos, utilizando visão computacional alimentada por IA e algoritmos autónomos de tomada de decisão. Na semana passada, os 128 estados membros da Convenção das Nações Unidas sobre Certas Armas Convencionais (CCW) reuniram-se em Genebra para decidir se iniciariam negociações sobre regras vinculativas sobre a utilização de sistemas de armas autónomas letais (LAWS).\nEm 2019, o Canadá comprometeu-se a avançar nos esforços internacionais para proibir o desenvolvimento e a utilização de armas totalmente autónomas. Durante os próximos dois anos, em Genebra, o Canadá deverá pressionar por um novo instrumento jurídico que proíba armas totalmente autónomas que selecionem, apontem e ataquem pessoas sem controlo humano significativo."
 },
 {
 "id": "2b8fc7ba54aeaa",
@@ -1137,6 +1292,27 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "O Fórum Público-Privado de Inovação em P&D de 2026 foi realizado em El Tower em Seocho-gu, Seul, no dia 24. Koo Ja-gyun, presidente da Associação de Tecnologia Industrial da Coreia (à esquerda), está entregando um relatório estratégico a Park In-gyu, diretor da Divisão de Inovação Científica e Tecnológica do Ministério da Ciência e TIC, junto com o robô humanóide Igris-C de Lobros. Repórter Park Ji-ho jihopress@etnews.com"
+},
+{
+"id": "d1e4b5a186b69b",
+"t": "Saipem obtém extensão dos serviços de robótica subaquática para Njord",
+"r": "(ANSA) - MILÃO, 24 DE NOV - A Saipem obteve da Equinor a prorrogação do contrato de fornecimento de serviços avançados de inspeção e intervenção até o final de 2034, por meio de seu drone subaquático residente Hydrone-R. O acordo amplia uma colaboração iniciada em 2019 com a assinatura do primeiro contrato no setor de…",
+"u": "https://www.ansa.it/amp/lombardia/notizie/2026/11/24/saipem-ottiene-lestensione-dei-servizi-di-robotica-sottomarina-per-njord_d09b2cb3-f264-4f1f-a8c3-83d7debf4f2f.html",
+"f": "ANSA",
+"s": "ansa.it",
+"i": "",
+"d": "2026-11-24T06:50-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Saipem ottiene l'estensione dei servizi di robotica sottomarina per Njord",
+"lg": "it",
+"p": 3.8,
+"cr": 3,
+"cv": "ANSA",
+"mx": 1,
+"rx": "(ANSA) - MILÃO, 24 DE NOV - A Saipem obteve da Equinor a prorrogação do contrato de fornecimento de serviços avançados de inspeção e intervenção até o final de 2034, por meio de seu drone subaquático residente Hydrone-R. O acordo amplia uma colaboração iniciada em 2019 com a assinatura do primeiro contrato no setor de energia offshore para serviços baseados em drones subaquáticos. A extensão permite a continuação da prestação de serviços de inspeção e intervenção submarina no campo de Njord, offshore da Noruega, combinando a experiência única da Hydrone-R com o apoio de um Veículo Operado Remotamente de Classe de Trabalho (Wrov), a fim de atender aos requisitos operacionais da infraestrutura subaquática de produção e transporte."
 },
 {
 "id": "e8a4364d76c0fa",
@@ -1326,7 +1502,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 1
+"mx": 2
 },
 {
 "id": "8970721ed67822",
@@ -1338,7 +1514,8 @@
 "i": "https://image.zdnet.co.kr/2026/11/24/e130c44ab3176a78bd6a7f48d8ac96d4.gif",
 "d": "2026-11-24T05:15-03:00",
 "c": [
-"geral"
+"ia",
+"microrrobos"
 ],
 "l": 0,
 "to": "\"전자 장치 없는 로봇이 이렇게 빨라?\"…시속 16㎞ 질주 성공",
@@ -1369,6 +1546,109 @@
 "cv": "heise online",
 "mx": 1,
 "rx": "Espera-se que os especialistas das Nações Unidas negociem regras graduadas para lidar com sistemas de armas autónomos durante mais dois anos, com um resultado pouco claro."
+},
+{
+"id": "d49ca94ee473a2",
+"t": "Cosine Robots ensaca $$ 22,4 Cr para dimensionar a produção de hardware robótico",
+"r": "A Cosine Robots levantou ₹ 22,4 Cr em uma rodada de financiamento liderada pela Avaana Capital, com a participação da WEH Ventures e investidores anjos. A startup visa fornecer aos fabricantes de robôs atuadores desenvolvidos internamente, componentes cuja precisão, durabilidade e custo influenciam o desempenho…",
+"u": "https://inc42.com/buzz/cosine-robots-bags-%E2%82%B922-4-cr-to-scale-robotics-hardware-production/",
+"f": "Inc42",
+"s": "inc42.com",
+"i": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Cosin-Robots-Social.jpg",
+"d": "2026-11-24T06:16-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Cosine Robots Bags ₹22.4 Cr To Scale Robotics Hardware Production",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Inc42",
+"mx": 1,
+"rx": "A Cosine Robots levantou ₹ 22,4 Cr em uma rodada de financiamento liderada pela Avaana Capital, com a participação da WEH Ventures e investidores anjos. A startup visa fornecer aos fabricantes de robôs atuadores desenvolvidos internamente, componentes cuja precisão, durabilidade e custo influenciam o desempenho robótico e a economia de implantação. A capital ajudará a dimensionar suas instalações de pesquisa e desenvolvimento e produção em Bengaluru, expandir sua equipe de engenharia e acelerar o desenvolvimento de seu portfólio integrado de servoatuadores.\nA Cosine Robots, startup de hardware robótico com sede em Bengaluru, levantou ₹ 22,4 Cr (cerca de US$ 2,4 milhões) em uma rodada de financiamento liderada pela Avaana Capital, com a participação da WEH Ventures e investidores anjos. A startup usará o novo capital para dimensionar suas novas instalações de P&D e produção em Bengaluru, expandir sua equipe de engenharia e acelerar o desenvolvimento de seu portfólio integrado de servoatuadores."
+},
+{
+"id": "793994ace0f354",
+"t": "Quando as empresas de robótica começam a se tornar elas próprias VCs",
+"r": "Esta empresa fabrica skins eletrônicos para robôs e sua lista de investidores inclui duas empresas de robótica: Songyan Dynamics e Zhiping. Dados da IT Juzi mostram que até o momento, 114 empresas nacionais de robôs/inteligência incorporada fizeram investimentos estrangeiros, participando de um total de 378 casos…",
+"u": "http://www.36kr.com/p/4083473068239235",
+"f": "36Kr",
+"s": "36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261124/v2_e9b613bfc27a48279b62bda90556bfb3@000000@ai_oswg660871oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-24T06:17-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "当机器人公司开始自己当 VC",
+"lg": "zh",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Esta empresa fabrica skins eletrônicos para robôs e sua lista de investidores inclui duas empresas de robótica: Songyan Dynamics e Zhiping. Dados da IT Juzi mostram que até o momento, 114 empresas nacionais de robôs/inteligência incorporada fizeram investimentos estrangeiros, participando de um total de 378 casos envolvendo 301 empresas investidas.\nKaiwang Data, uma empresa que fornece serviços de dados inteligentes incorporados, fez um investimento estratégico em agosto de 2026. Cinco empresas, incluindo Zhiyuan Robot, Songyan Dynamics, Independent Variable Robot, Meifeng Technology e Luming Robot, entraram como investidores ao mesmo tempo. Esta rodada de financiamento totalizou 1,5 bilhão de yuans. O investimento médio feito por essas empresas de robôs é de 30 milhões de yuans, e mais da metade dos investimentos são inferiores a 50 milhões de yuans."
+},
+{
+"id": "8ae4e8e3e0ed31",
+"t": "A difícil busca pela soberania na indústria de drones, dependente de componentes críticos chineses",
+"r": "",
+"u": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
+"f": "Le Monde.fr",
+"s": "lemonde.fr",
+"i": "",
+"d": "2026-11-24T06:30-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "Le Monde",
+"mx": 1
+},
+{
+"id": "5b70f9cd10d865",
+"t": "Fundo nº 1 do Instituto Coreano de Máquinas e Materiais investe 2,4 bilhões de won em robô de tecido muscular",
+"r": "O Instituto Coreano de Máquinas e Materiais (KIMM) e a Korea Science and Technology Holdings (KST) investiram 2,4 bilhões de won na Sartexo, que desenvolveu um robô vestível para auxiliar na força muscular. O Instituto Coreano de Engenheiros Mecânicos investiu 2 bilhões de won e a KST investiu 400 milhões de won…",
+"u": "https://zdnet.co.kr/view/?no=20261124190223",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/24/c7e27b50ff8075ea125acea6e93783a8.jpg",
+"d": "2026-11-24T07:02-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "한국기계연구원 펀드 1호, 근육옷감 로봇에 24억원 투자",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "O Instituto Coreano de Máquinas e Materiais (KIMM) e a Korea Science and Technology Holdings (KST) investiram 2,4 bilhões de won na Sartexo, que desenvolveu um robô vestível para auxiliar na força muscular. O Instituto Coreano de Engenheiros Mecânicos investiu 2 bilhões de won e a KST investiu 400 milhões de won, respectivamente. No dia 24, o Instituto Coreano de Máquinas e Materiais realizou o ‘KIMM Tech Space 2026’ sob o tema ‘Encontro entre IA Física e Tecnologia de Máquina’ no COEX Magok Le West A Hall em Gangseo-gu, Seul. Através de KAIROS, MANUX, KHEATUP, Air Five e KIMM Cyber ​​​​Labs selecionados pela KIMM em comemoração ao seu 50º aniversário, foram apresentadas as conquistas de pesquisa representativas da KIMM, incluindo robôs humanóides de IA, equipamentos domésticos avançados de fabricação, bombas de calor de alta eficiência, tecnologia de limpeza de ar e plataformas de engenharia virtuais baseadas em IA.\nOs itens são ▲ Sartexo - Atuador de tecido muscular e traje vestível de suporte muscular ▲ Metasurf - Spray à prova d'água, revestimento à prova d'água e tecnologia relacionada à fibra à prova d'água ▲ Resensing - Sensor Raman em linha que pode analisar composição e conteúdo em tempo real durante o processo de fabricação avançado ▲ EnerN - Tecnologia de design ideal para instalações industriais de energia térmica ▲ Placend - Tecnologia para converter nitrogênio no ar em compostos de nitrogênio úteis usando plasma. ▲ Maceon - Equipamento AI MACE, sistema de monitoramento de visão AI, sistema de previsão de nanofios SI ▲ Abrams - Equipamento de prevenção de poluição do ar que trata gases nocivos de processo com alta eficiência. “A IA física é uma tecnologia central que combina inteligência artificial, robôs e tecnologia de máquinas para resolver problemas não apenas nos locais de fabricação, mas também na vida das pessoas, como agricultura, logística, cuidados médicos e cuidados”, disse Ryu Seok-hyeon, diretor do KIMM. “Esperamos que este evento conecte os resultados da pesquisa do KIMM, que está comemorando seu 50º aniversário, com novas oportunidades na indústria, e sirva como uma oportunidade para empresas e pesquisadores se encontrarem pessoalmente e explorarem novas possibilidades de cooperação.”"
+},
+{
+"id": "263652b6aa75ca",
+"t": "Quando os robôs se inspiram nas colônias de formigas para colaborar",
+"r": "",
+"u": "https://www.lesechos.fr/idees-debats/sciences-prospective/quand-les-robots-sinspirent-des-colonies-de-fourmis-pour-collaborer-2264299",
+"f": "Les Echos",
+"s": "lesechos.fr",
+"i": "",
+"d": "2026-11-24T07:45-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Quand les robots s'inspirent des colonies de fourmis pour collaborer",
+"lg": "fr",
+"p": 3.5,
+"cr": 3,
+"cv": "Les Echos",
+"mx": 1
 },
 {
 "id": "5cb18fca6ce69b",
@@ -1432,46 +1712,29 @@
 "p": 2.5,
 "cr": 2,
 "cv": "36Kr",
-"mx": 2,
+"mx": 3,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
-"id": "d49ca94ee473a2",
-"t": "Cosine Robots ensaca $$ 22,4 Cr para dimensionar a produção de hardware robótico",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3lXdkU1b1cwOVJ5elNwc0JoaTAzNDRwanBtME9CR2NLNWJ5LUlJa1dRSzU2UG1TV3VMNEs2R2xJb1FEakFJS0hESHoyYU43QW5SZkNCeUZHQ2F1T08zM3ZyS1d0dHQybVJoZGlYQzVMVzJyRGdoOWVrdldjeVBzampfaTVGd2cxckQ3T1RCeWhiR2k5c3BIVll0MHRvQQ?oc=5",
-"f": "Inc42",
-"s": "inc42.com",
-"i": "",
-"d": "2026-11-24T06:16-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Cosine Robots Bags ₹22.4 Cr To Scale Robotics Hardware Production",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "Inc42"
-},
-{
-"id": "793994ace0f354",
-"t": "Quando as empresas de robótica começam a se tornar elas próprias VCs",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9maEh2U3JSVktodUVEODQ1bV9YY3dEQXpMS1VYdmFKN0ZGNW5rNi1XNlhYSjd3bkEtWjA0aDl2TWNncnNrelNPa3dudU5DY00?oc=5",
+"id": "4f5aadb6365fb3",
+"t": "NetEase Smart Robot inicia produção em massa",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://36kr.com/newsflashes/4083586155833729",
 "f": "36Kr",
 "s": "36kr.com",
 "i": "",
-"d": "2026-11-24T06:17-03:00",
+"d": "2026-11-24T07:00-03:00",
 "c": [
 "geral"
 ],
 "l": 0,
-"to": "当机器人公司开始自己当 VC",
+"to": "网易灵动机器人开启量产",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
-"cv": "36Kr"
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 }
 ],
 "2026-11-23": [
@@ -1806,6 +2069,47 @@
 "rx": "A IT House informou em 23 de novembro que Yumie Kubota, diretora de robôs de inteligência artificial da fabricante japonesa de robôs industriais YASAKAWA, disse em entrevista ao Kyodo News do Japão no dia 20, horário local, que a empresa planeja alcançar as atuais empresas líderes dos EUA e da China na área de robôs humanóides.\nYumi Kubota disse que o robô humanóide AI desenvolvido pela Yaskawa Electric será lançado oficialmente em 2030, e o tempo específico de lançamento também pode ser avançado com base nas necessidades reais do cliente. No entanto, os robôs humanóides ainda enfrentam o problema de capacidades limitadas de aprendizagem de tarefas autônomas. A Yaskawa Electric planeja explorar soluções com Fujitsu e Nvidia."
 },
 {
+"id": "20d2db68559fcc",
+"t": "[Notícias de última hora] Samsung Electronics promove 131 executivos… Seleção de talentos em tecnologia de robôs HBM·AI·",
+"r": "Selecionamos talentos técnicos que contribuíram para o desenvolvimento de memória de alta largura de banda (HBM) e DRAM de próxima geração, e selecionamos pessoal-chave em áreas de negócios futuras, como inteligência artificial (IA), robôs e fundição (produção em consignação de semicondutores). Na divisão de memória…",
+"u": "https://biz.chosun.com/it-science/ict/2026/11/24/H4FLN22LI5HFJF6AVD5RO2A4WI/",
+"f": "Chosunbiz",
+"s": "biz.chosun.com",
+"i": "https://biz.chosun.com/resizer/v2/MFQWGZRWME2TIMDDME3WENDBG4.jpg?auth=02f4201e48352a6fdd480743b0930d6a26efaa3370ffd65e7a1c2d1f585fb154&width=1200&height=630&smart=true",
+"d": "2026-11-23T21:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[속보] 삼성전자, 임원 131명 승진… HBM·AI·로봇 기술 인재 발탁",
+"lg": "ko",
+"p": 9.3,
+"o": [
+{
+"f": "조선일보",
+"u": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
+"s": "chosun.com",
+"id": "eba873187a7df6"
+},
+{
+"f": "헬스케어N",
+"u": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=585942",
+"s": "health.chosun.com",
+"id": "95777bf61e7fa4"
+},
+{
+"f": "헬스조선",
+"u": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=585986",
+"s": "health.chosun.com",
+"id": "0db07bda9710f8"
+}
+],
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Selecionamos talentos técnicos que contribuíram para o desenvolvimento de memória de alta largura de banda (HBM) e DRAM de próxima geração, e selecionamos pessoal-chave em áreas de negócios futuras, como inteligência artificial (IA), robôs e fundição (produção em consignação de semicondutores). Na divisão de memória, o pessoal-chave que contribuiu para o projeto do circuito DRAM, o desenvolvimento do HBM4 e a melhoria do rendimento da produção foi promovido a vice-presidente. O vice-presidente Park é uma pessoa que garantiu a produção em massa do HBM4 e contribuiu para a expansão da produção de memória, melhorando o processo e o rendimento da DRAM. O DRAM Design Group 2 da divisão de memória da Jinpyo Park foi reconhecido por suas conquistas na liderança do desenvolvimento de HBM customizado de próxima geração com base em sua experiência em design de sistema em chip (SoC) e desenvolvimento de produto customizado. Song Tae-jung, chefe da Equipe de Planejamento de Tecnologia 2 da Divisão de Fundição, foi reconhecido por sua contribuição na expansão dos pedidos de produção em consignação de semicondutores e no estabelecimento de uma base comercial de médio a longo prazo baseada em redes de clientes e conhecimento técnico.\nLee Ho, chefe da equipe PA2 da divisão de fundição, foi promovido a vice-presidente por suas realizações na liderança do desenvolvimento de produtos de processo de 4 e 5 nanômetros (nm, 1 bilionésimo de metro) e melhorias no rendimento e desempenho. No setor DX, indivíduos talentosos que contribuíram para investir em negócios futuros e fortalecer a competitividade de produtos e serviços foram promovidos a vice-presidentes."
+},
+{
 "id": "22b4da558676c9",
 "t": "A startup suíça coprod levanta US$ 6 milhões para tornar a construção de hardware robótico tão simples quanto o desenvolvimento de software",
 "r": "A startup de hardware robótico coprod arrecadou US$ 6 milhões em uma rodada de financiamento pré-semente liderada por Founderful e PROTOTYPE, com a participação da General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital e Venturekick. Fundada no final de 2024 por…",
@@ -1938,41 +2242,6 @@
 "cv": "Toronto Star",
 "mx": 1,
 "rx": "CIDADE DO MÉXICO (AP) – Os Estados Unidos pilotaram um drone de vigilância sobre o território mexicano para ajudar o governo a rastrear e capturar um importante traficante de drogas no fim de semana em Sinaloa, disseram autoridades de segurança mexicanas na segunda-feira. A recente detenção de Fausto Isidro Meza Flores, conhecido como “El Chapo Isidro” ilustra o aumento da cooperação policial entre os países vizinhos, mas o envolvimento dos EUA nas operações de segurança mexicanas tem sido um assunto delicado há muito tempo.\nNa semana que antecedeu a captura de Meza Flores, isso incluiu a autorização dos EUA para sobrevoar o território mexicano com drones de inteligência, para ajudar as autoridades mexicanas a cercar o capo e partir para a captura, disseram Trevilla Trejo e outras autoridades mexicanas."
-},
-{
-"id": "20d2db68559fcc",
-"t": "[Notícias de última hora] Samsung Electronics promove 131 executivos… Seleção de talentos em tecnologia de robôs HBM·AI·",
-"r": "Selecionamos talentos técnicos que contribuíram para o desenvolvimento de memória de alta largura de banda (HBM) e DRAM de próxima geração, e selecionamos pessoal-chave em áreas de negócios futuras, como inteligência artificial (IA), robôs e fundição (produção em consignação de semicondutores). Na divisão de memória…",
-"u": "https://biz.chosun.com/it-science/ict/2026/11/24/H4FLN22LI5HFJF6AVD5RO2A4WI/",
-"f": "Chosunbiz",
-"s": "biz.chosun.com",
-"i": "https://biz.chosun.com/resizer/v2/MFQWGZRWME2TIMDDME3WENDBG4.jpg?auth=02f4201e48352a6fdd480743b0930d6a26efaa3370ffd65e7a1c2d1f585fb154&width=1200&height=630&smart=true",
-"d": "2026-11-23T21:02-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "[속보] 삼성전자, 임원 131명 승진… HBM·AI·로봇 기술 인재 발탁",
-"lg": "ko",
-"p": 7.8,
-"o": [
-{
-"f": "조선일보",
-"u": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
-"s": "chosun.com",
-"id": "eba873187a7df6"
-},
-{
-"f": "헬스케어N",
-"u": "https://health.chosun.com/news/dailynews_view.jsp?mn_idx=585942",
-"s": "health.chosun.com",
-"id": "95777bf61e7fa4"
-}
-],
-"cr": 3,
-"cv": "Chosun Ilbo",
-"mx": 1,
-"rx": "Selecionamos talentos técnicos que contribuíram para o desenvolvimento de memória de alta largura de banda (HBM) e DRAM de próxima geração, e selecionamos pessoal-chave em áreas de negócios futuras, como inteligência artificial (IA), robôs e fundição (produção em consignação de semicondutores). Na divisão de memória, o pessoal-chave que contribuiu para o projeto do circuito DRAM, o desenvolvimento do HBM4 e a melhoria do rendimento da produção foi promovido a vice-presidente. O vice-presidente Park é uma pessoa que garantiu a produção em massa do HBM4 e contribuiu para a expansão da produção de memória, melhorando o processo e o rendimento da DRAM. O DRAM Design Group 2 da divisão de memória da Jinpyo Park foi reconhecido por suas conquistas na liderança do desenvolvimento de HBM customizado de próxima geração com base em sua experiência em design de sistema em chip (SoC) e desenvolvimento de produto customizado. Song Tae-jung, chefe da Equipe de Planejamento de Tecnologia 2 da Divisão de Fundição, foi reconhecido por sua contribuição na expansão dos pedidos de produção em consignação de semicondutores e no estabelecimento de uma base comercial de médio a longo prazo baseada em redes de clientes e conhecimento técnico.\nLee Ho, chefe da equipe PA2 da divisão de fundição, foi promovido a vice-presidente por suas realizações na liderança do desenvolvimento de produtos de processo de 4 e 5 nanômetros (nm, 1 bilionésimo de metro) e melhorias no rendimento e desempenho. No setor DX, indivíduos talentosos que contribuíram para investir em negócios futuros e fortalecer a competitividade de produtos e serviços foram promovidos a vice-presidentes."
 },
 {
 "id": "ed49b7fbbe53b1",
@@ -4200,6 +4469,28 @@
 "rx": "Mariah Carey está sofrendo de algum problema de saúde? Seus vídeos de 'luta para andar' levantam o alarme Sem jato particular, sem primeira classe, assento 33B: Por que o voo comercial de 21 horas da presidente do México Claudia Sheinbaum para a China está se tornando viral KYC e KYB: Zydus Lifesciences - Do balcão da farmácia às farmácias dos EUA."
 },
 {
+"id": "3c477da35e9245",
+"t": "Operadores especiais dos EUA perdem seu próprio concurso de drones para os Royal Marines",
+"r": "O Comando de Operações Especiais da Europa (SOCEUR) organizou seu primeiro Crisol Internacional de Drones na Área de Treinamento de Grafenwöhr, na Alemanha, de 2 a 5 de novembro, e as equipes americanas não venceram. O primeiro lugar foi para os Royal Marines da Grã-Bretanha, que terminaram à frente dos Boinas Verdes…",
+"u": "https://dronexl.co/2026/11/23/us-special-operators-lose-international-drone-crucible-royal-marines-grafenwoehr/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/us-special-operations-operator-fpv-drone-international-drone-crucible-grafenwoehr.webp",
+"d": "2026-11-23T16:11-03:00",
+"c": [
+"drones",
+"subaquaticos"
+],
+"l": 0,
+"to": "US Special Operators Lose Their Own Drone Contest to Royal Marines",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "O Comando de Operações Especiais da Europa (SOCEUR) organizou seu primeiro Crisol Internacional de Drones na Área de Treinamento de Grafenwöhr, na Alemanha, de 2 a 5 de novembro, e as equipes americanas não venceram. O primeiro lugar foi para os Royal Marines da Grã-Bretanha, que terminaram à frente dos Boinas Verdes do Exército, dos operadores da Guerra Especial Naval e dos aviadores de táticas especiais da Força Aérea, e à frente das equipes da Alemanha, Letônia e Ucrânia.\nA Marinha Real afirma que os cinco fuzileiros navais pertencem à Information Warfare Company of 40 Commando. A Alemanha enviou a 270ª Companhia de Engenharia Aerotransportada da Bundeswehr e a Ucrânia enviou uma equipa de operações especiais. A SOCEUR credita aos Royal Marines as “40ª e 45ª equipes de Comando” e convoca o evento de 2 a 5 de novembro com duração de uma semana. A Marinha Real descreve uma equipe de cinco pessoas do 40 Commando e um evento de três dias."
+},
+{
 "id": "3463916278c167",
 "t": "Scout Combat Drone do Canadá assina 12 parceiros antes de ter um comprador",
 "r": "A Dominion Dynamics assinou contrato com 12 empresas aeroespaciais e de defesa para ajudar a construir o Scout, uma aeronave de combate não tripulada destinada a voar ao lado dos caças tripulados do Canadá. A empresa de Ottawa anunciou o grupo em 20 de novembro de 2026, três dias depois de nomear a Pratt & Whitney…",
@@ -4267,6 +4558,27 @@
 "rx": "A Kawasaki Heavy Industries está trabalhando para comercializar drones marinhos autônomos para manutenção de parques eólicos offshore e cabos submarinos. (Foto de Nikkei) TÓQUIO – O Gabinete do Governo do Japão financiará um teste da Kawasaki Heavy Industries para testar o uso de drones marítimos na inspeção de infraestruturas marítimas, como parques eólicos offshore e cabos submarinos."
 },
 {
+"id": "99a2097ba5e063",
+"t": "O drone de Joanna Steidle rastreou um tubarão por 20 minutos para uma foto premiada",
+"r": "A fotógrafa de drones de Southampton, Joanna Steidle, ficou em segundo lugar na Nature no 2026 Global Lens Photography Awards com “The Gateway”, uma fotografia de cima para baixo de um tubarão-rotador caçando em um cardume de menhaden do Atlântico perto de Southampton, Nova York. Uma segunda fotografia de Steidle…",
+"u": "https://dronexl.co/2026/11/23/joanna-steidle-drone-spinner-shark-global-lens-awards/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/joanna-steidle-the-gateway-spinner-shark-menhaden-drone.webp",
+"d": "2026-11-23T17:16-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Joanna Steidle's Drone Tracked a Shark 20 Minutes for an Award Photo",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A fotógrafa de drones de Southampton, Joanna Steidle, ficou em segundo lugar na Nature no 2026 Global Lens Photography Awards com “The Gateway”, uma fotografia de cima para baixo de um tubarão-rotador caçando em um cardume de menhaden do Atlântico perto de Southampton, Nova York. Uma segunda fotografia de Steidle, “Another World”, ganhou Menção Honrosa na mesma categoria. Essa é a imagem da arraia cownose que lhe rendeu o prêmio SkyPixel Top 10 no ano passado, com um drone premiado que a Alfândega dos EUA nunca divulgou.\nSteidle seguiu o tubarão com seu drone por cerca de 20 minutos antes de capturar o quadro vencedor. Steidle passou esses 20 minutos esperando que o tubarão e a menhaden chegassem perto da superfície ao mesmo tempo. Menhaden atrai grandes predadores para perto da praia, o que lhe permite alcançar o tubarão e ainda manter o drone na linha de visão visual, conforme exigido pelas regras da FAA."
+},
+{
 "id": "20d94a32d20b47",
 "t": "Canteiros de obras transformados por IA e robôs... Smart Construction Expo começa no dia 25",
 "r": "(Sejong = Yonhap News) Repórter Oh Jin-song = Será realizada uma exposição onde tecnologias de gerenciamento de segurança e automação em canteiros de obras usando tecnologias de ponta, como inteligência artificial (IA) e robôs, poderão ser vistas em um só lugar. O Ministério de Terras, Infraestrutura e Transportes…",
@@ -4308,6 +4620,27 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "Sabendo antes da parada do transportador, um robô exclusivo que atua como os olhos e os ouvidos das pessoas Startup Drunken Chat Segurança do local industrial Desenvolvedor de soluções de robô Com Robot"
+},
+{
+"id": "053737c7600ffd",
+"t": "Pesquisa do Pilot Institute: três hábitos de pilotos de drones que ganham mais de US$ 10.000",
+"r": "Há algumas semanas entrevistamos cerca de 516 pilotos de drones. Cerca de seis em cada dez pilotos que responderam ainda não foram pagos pelo trabalho com drones, o que é esperado. 85% dos pilotos que ganham mais de US$ 10.000 têm dois ou mais clientes em trabalhos recorrentes. Billy Kyle faz vídeos de drones no…",
+"u": "https://dronexl.co/2026/11/23/pilot-institute-survey-drone-pilots-earning-over-10000-three-habits/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/greg-pilot-institute-scale-drone-business-survey.webp",
+"d": "2026-11-23T19:00-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Pilot Institute Survey: 3 Habits of Drone Pilots Earning Over $10,000",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "Há algumas semanas entrevistamos cerca de 516 pilotos de drones. Cerca de seis em cada dez pilotos que responderam ainda não foram pagos pelo trabalho com drones, o que é esperado. 85% dos pilotos que ganham mais de US$ 10.000 têm dois ou mais clientes em trabalhos recorrentes. Billy Kyle faz vídeos de drones no YouTube há quase 10 anos e administra uma empresa de mídia imobiliária e de construção na área da Filadélfia há cerca de oito anos.\n47% dos pilotos com menos de US$ 10.000 por ano não têm um único cliente em trabalho programado, e apenas 11% deles consideraram isso seu maior problema. Para um drone inicial, Billy voa um Mini 5 Pro em suas fotos imobiliárias todos os dias e diz que qualquer coisa, do Mini 3 ao Mini 5, é boa, nova ou usada. A equipe de Jared está apostando no Mavic 3 Enterprise como o primeiro drone de mapeamento, e ele construiu seu negócio em um Phantom 4."
 },
 {
 "id": "485a277fa8300b",
@@ -4417,6 +4750,27 @@
 "cv": "Business Insider",
 "mx": 1,
 "rx": "23, 2026 (GLOBE NEWSWIRE) - FORT Robotics, Inc. (“FORT”, “FORT Robotics” ou a “Empresa”), a Trust Layer for Physical AI, anunciou hoje que sediará um Analyst Day para investidores institucionais e analistas de pesquisa de ações na quarta-feira, 9 de dezembro de 2026. Apoiada pelos principais investidores estratégicos e financeiros, incluindo Tiger Global, Mark Cuban Companies e Prologis Ventures, a FORT Robotics está buscando uma listagem na Nasdaq por meio de seu negócio Combinação com Newbury Street II Acquisition Corp (Nasdaq: NTWO).\nEm conexão com a Combinação de Negócios, a Newbury Street II e a Empresa arquivaram uma Declaração de Registro no Formulário S-4 junto à SEC (a “Declaração de Registro”), que inclui uma declaração de procuração para os acionistas da Newbury Street II e um prospecto para o registro dos títulos da Newbury Street II a serem emitidos em conexão com a Combinação de Negócios."
+},
+{
+"id": "bd61c3f8fa82be",
+"t": "EASA descarta SORA 2.0 em 1º de janeiro, deixando os operadores de drones por seis semanas",
+"r": "A partir de 1º de janeiro de 2027, a agência não aceita mais o SORA 2.0 como forma de demonstrar conformidade e afirma que novas inscrições para voar na categoria específica devem se basear no SORA 2.5. Também nomeia EUROCAE ED-318 como o formato digital que os estados membros devem usar para zonas geográficas de…",
+"u": "https://dronexl.co/2026/11/23/easa-sora-2-0-ends-january-1-pdra-ed-318/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/10/dji-matrice-4-commercial-uav-expo-pentagon-letters.webp",
+"d": "2026-11-23T20:40-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "EASA Scraps SORA 2.0 On January 1, Leaving Drone Operators Six Weeks",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A partir de 1º de janeiro de 2027, a agência não aceita mais o SORA 2.0 como forma de demonstrar conformidade e afirma que novas inscrições para voar na categoria específica devem se basear no SORA 2.5. Também nomeia EUROCAE ED-318 como o formato digital que os estados membros devem usar para zonas geográficas de drones, no lugar do padrão ED-269 que a EASA escolheu em fevereiro de 2022. A decisão dá uma data para o fim do SORA 2.0.\nO SORA 2.0 e duas das antigas avaliações de risco baseadas nele “deixam de constituir meios aceitáveis ​​de conformidade a partir de 1º de janeiro de 2027”. A própria decisão não contém nenhuma cláusula de transição. Afirma que as autoridades nacionais devem deixar de aceitar novos pedidos SORA 2.0 em 1 de janeiro e continuar a processar os apresentados antes dessa data. Espera-se que as autoridades nacionais publiquem as suas zonas geográficas de drones no formato ED-318, edição de janeiro de 2024, a partir de 1 de janeiro de 2027."
 },
 {
 "id": "7afcbf3fcf2129",
@@ -4535,6 +4889,27 @@
 "rx": "À medida que o sentimento de investimento relacionado à inteligência artificial (IA) melhorou com o retorno do CEO da Nvidia, Jensen Hwang, as ações domésticas relacionadas a robôs, incluindo Hyundai Autoever (307950), estão disparando no início das negociações. A partir das 9h37 do dia 24, a Hyundai Autoever está sendo negociada a 341 mil won na bolsa de valores, um aumento de 62 mil won (22,22%) em relação ao pregão anterior. As ações relacionadas a robôs também estão mostrando força no mercado KOSDAQ. Robotis está sendo negociado a 280.000 won, um aumento de 13,82% em relação ao pregão anterior, e a Rainbow Robotics está sendo negociada a 456.500 won, um aumento de 13,56%. À medida que as ações de tecnologia dos EUA se recuperaram acentuadamente com a notícia do retorno do CEO Jensen Huang, parece que a pressão de compra também está se derramando sobre ações domésticas de IA e relacionadas a robôs. A Hyundai AutoEver é uma empresa que deverá se beneficiar da construção de um data center de IA pelo Hyundai Motor Group e da expansão de seu negócio de robôs. Atuou como agente de compras para a quantidade inicial de 3.000 unidades de processamento gráfico (GPUs) Nvidia introduzidas pelo Hyundai Motor Group e também participará da corporação de serviços de GPU 'HMG AI Factory', garantindo uma participação de 26%."
 },
 {
+"id": "52f7b53774909a",
+"t": "Equipes de Forças Especiais da OTAN competem no primeiro cadinho de drones SOCEUR",
+"r": "O Comando de Operações Especiais dos EUA na Europa realizou seu primeiro Crisol Internacional de Drones na Área de Treinamento de Grafenwohr, na Alemanha, de 2 a 5 de novembro, com a Associação Nacional de Drones dos Estados Unidos. Equipes de sete unidades da OTAN e de parceiros voaram com pequenos drones pelas rotas…",
+"u": "https://dronexl.co/2026/11/23/soceur-international-drone-crucible-nato-special-forces/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/soceur-international-drone-crucible-fpv-operators.webp",
+"d": "2026-11-23T21:47-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "NATO Special Forces Teams Compete in First SOCEUR Drone Crucible",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "O Comando de Operações Especiais dos EUA na Europa realizou seu primeiro Crisol Internacional de Drones na Área de Treinamento de Grafenwohr, na Alemanha, de 2 a 5 de novembro, com a Associação Nacional de Drones dos Estados Unidos. Equipes de sete unidades da OTAN e de parceiros voaram com pequenos drones pelas rotas de batalha, e os comandos da Marinha Real do Reino Unido ficaram em primeiro lugar. GRAFENWÖHR, Alemanha — O Comando de Operações Especiais dos Estados Unidos na Europa sediou o primeiro Cadinho Internacional de Drones liderado pelo SOCEUR, em parceria com a Associação Nacional de Drones dos Estados Unidos, em novembro de 2018.\nOs concorrentes incluíram equipes da 270ª Companhia de Engenharia Aerotransportada da Bundeswehr alemã; uma equipe conjunta do 321º Esquadrão de Táticas Especiais da Força Aérea dos EUA, 352d Ala de Operações Especiais; com o primeiro lugar indo para os operadores das equipes 40º e 45º Comando da Marinha Real do Reino Unido."
+},
+{
 "id": "41ac7a7664153e",
 "t": "Robô doméstico confunde passeador de cães com ladrão e chama a polícia! O anfitrião deve responder a perguntas durante a chamada para evitar fraudes telefônicas de IA",
 "r": "Muitas famílias modernas instalam dispositivos domésticos inteligentes e até compram robôs para cuidar de suas casas. Um vídeo hilário circulou na Internet há poucos dias, no qual um internauta compartilhava a “limpeza” diária de seu próprio robô inteligente. O PO original marcou com antecedência os serviços de…",
@@ -4617,6 +4992,48 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "FamilyMart e Telexistence anunciaram em 19 de novembro de 2026 que introduzirão gradualmente o robô de reabastecimento de bebidas alimentado por IA ``TX GHOST'' e a prateleira de estoque digital ``Smart Shelf'' nas lojas FamilyMart em todo o país a partir de janeiro de 2027.\nFoi confirmado que o tempo necessário para reabastecer as bebidas por loja por dia pode ser reduzido em aproximadamente 70% nas lojas que introduziram o sistema antecipadamente. Desta vez, a empresa apresentará um sistema que combina o robô de reabastecimento de bebidas ``TX GHOST'' e a prateleira de estoque digital ``Smart Shelf''."
+},
+{
+"id": "6543095c717cc3",
+"t": "Aselsan afirma que o sistema de micro-ondas EJDERHA derrubou 51 drones de uma só vez",
+"r": "A empresa de defesa turca Aselsan afirma que seu sistema eletromagnético de alta potência EJDERHA AD neutralizou 51 drones lançados ao mesmo tempo, em segundos, e considera o resultado um recorde mundial. A empresa afirma que uma segunda execução desativou dois drones com fio a cerca de 1.000 metros e que o sistema…",
+"u": "https://dronexl.co/2026/11/23/aselsan-ejderha-hpem-51-drones-neutralized-simultaneously/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/wire-card-aselsan-20261122.webp",
+"d": "2026-11-23T22:19-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Aselsan Says EJDERHA Microwave System Downed 51 Drones at Once",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A empresa de defesa turca Aselsan afirma que seu sistema eletromagnético de alta potência EJDERHA AD neutralizou 51 drones lançados ao mesmo tempo, em segundos, e considera o resultado um recorde mundial. A empresa afirma que uma segunda execução desativou dois drones com fio a cerca de 1.000 metros e que o sistema está agora em produção em série. Marcando o seu 51º aniversário, a ASELSAN demonstra o poder da tecnologia de energia dirigida ao neutralizar 51 drones em segundos.\nA ASELSAN demonstrou com sucesso as capacidades avançadas de seu sistema de defesa UAV eletromagnético de alta potência (HPEM) EJDERHA AD, neutralizando 51 drones lançados simultaneamente em segundos e estabelecendo um recorde mundial. 51 drones, simbolizando os 51 anos de excelência em engenharia da ASELSAN, foram lançados simultaneamente e a EJDERHA neutralizou todos eles em segundos."
+},
+{
+"id": "b582562751849d",
+"t": "Aselsan Gokdeniz destrói drone alvo movido a jato no mar",
+"r": "A Aselsan diz que seu sistema de defesa aérea naval Gokdeniz detectou, rastreou e destruiu um drone alvo com motor a jato de alta velocidade em uma demonstração de fogo real na costa norte de Turkiye. A ASELSAN está a desenvolver soluções eficazes contra ameaças de drones no domínio naval, alargando a sua comprovada…",
+"u": "https://dronexl.co/2026/11/23/aselsan-gokdeniz-destroys-jet-target-drone-naval-live-fire/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/aselsan-gokdeniz-naval-air-defense-system.webp",
+"d": "2026-11-23T22:53-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Aselsan Gokdeniz Destroys Jet-Powered Target Drone at Sea",
+"lg": "tk",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Aselsan diz que seu sistema de defesa aérea naval Gokdeniz detectou, rastreou e destruiu um drone alvo com motor a jato de alta velocidade em uma demonstração de fogo real na costa norte de Turkiye. A ASELSAN está a desenvolver soluções eficazes contra ameaças de drones no domínio naval, alargando a sua comprovada experiência em defesa aérea da terra para o mar. GÖKDENİZ, a configuração naval do sistema de defesa aérea KORKUT da ASELSAN, demonstrou sua capacidade de detectar, rastrear, engajar e destruir ameaças aéreas durante uma demonstração de fogo real na costa norte de Türkiye.\nA demonstração demonstrou a capacidade do GÖKDENİZ de responder eficazmente a alvos pequenos, em movimento rápido e manobráveis, destacando a importância da detecção rápida, rastreamento preciso, reação rápida e envolvimento eficaz na defesa naval aproximada."
 },
 {
 "id": "cad4cfe808ee14",
@@ -5511,45 +5928,6 @@
 "rx": "Vendido e enviado pela Amazon, o aspirador robô e esfregão MOVA Z70 Ultra Roller Complete custa € 699 em comparação com € 1.399 pelo preço recomendado, um desconto de 50%. Seu sistema HydroForce Mopping 2.0 combina pulverização de água limpa, fricção, raspagem e sucção de água suja, com pressão constante anunciada em 5.000 Pa. No lado da sucção, MOVA anuncia 36.000 Pa, com escova TroboWave DuoBrush projetada para pisos duros, bem como carpetes.\nCom o seu sistema MaxiReach 2.0, o rolo pode estender-se 52 mm para limpar ao longo de paredes e cantos, enquanto o seu módulo Smart-Adapt ajusta-se às bordas em 10 mm sem riscar os rodapés. Suas pernas robóticas StepMaster 2.0 levantam o chassi para superar obstáculos de até 9 cm de altura, como soleiras de portas ou pés de móveis."
 },
 {
-"id": "3c477da35e9245",
-"t": "Operadores especiais dos EUA perdem seu próprio concurso de drones para os Royal Marines",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkd0RWFyWlE0bnEwYUVOLWVlOUlqMW9NNUpkcVlxMmhXazdIZGpucXc5Q0NkeWhSdXFhRnNDZGFnU3RMSFE0eF85R1VnNXp6dkZsZU9ZR0lsM3lzeUpyMDJEZGxiRFI1aW9OZ2ZJbkVsbVk5bnBXMWxyYW00Y05fcFczUXVxREJHem56OG1vRmdlUGh4WjJYWF9DMDNhRWdxOWsxUUFmd3RNSm15OGxjSg?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T16:11-03:00",
-"c": [
-"drones",
-"subaquaticos"
-],
-"l": 0,
-"to": "US Special Operators Lose Their Own Drone Contest to Royal Marines",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
-"id": "99a2097ba5e063",
-"t": "O drone de Joanna Steidle rastreou um tubarão por 20 minutos para uma foto premiada",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekhkZWs1dDQ1RUszWGx4MEsyS1BqMU5fZXViTEQ5bFNndVRwNHFtdDBSVUdiRWE2MU1uSGd0Vy16YTNxd0hOTlQ1dU5pX0VHRjdGNTNjWE9mbFRuSkZ0MVFScmQyNktmajZMUkNtTXloQWpaNU1GMVBUbXgtREpvR1FWY0MyRGlZWDExUA?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T17:16-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Joanna Steidle's Drone Tracked a Shark 20 Minutes for an Award Photo",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "589e7d1afc1f89",
 "t": "Caminho de vitória para IA física: o caminho do Japão para o sucesso reside na \"criação de espaços inteligentes\" que incluem robôs Yutaka Terasawa",
 "r": "",
@@ -5589,25 +5967,6 @@
 "cr": 3,
 "cv": "Axios",
 "mx": 3
-},
-{
-"id": "053737c7600ffd",
-"t": "Pesquisa do Pilot Institute: três hábitos de pilotos de drones que ganham mais de US$ 10.000",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVl0b0hpeUkxUTdYTTRiQldpS2tjMFdhb3JsWHg5eEo4bk5TUU1GXzVKUHZtV1EwTHBZZFE3M1JTamlrcVhiMDdfMWc1VFZtWmpKODVvYkRmNGJ3NExyc2duc2ZjRXVnZmxGR2pjd2ZEZV94dnZtakh1SDZNSkRyb1plZFFzQW5hTjczY1J1Zk1fcW5YbFNkMWNnOUhkZnc?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T19:00-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Pilot Institute Survey: 3 Habits of Drone Pilots Earning Over $10,000",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
 },
 {
 "id": "6e342cb98dd409",
@@ -5651,25 +6010,6 @@
 "mx": 3
 },
 {
-"id": "bd61c3f8fa82be",
-"t": "EASA descarta SORA 2.0 em 1º de janeiro, deixando os operadores de drones por seis semanas",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkV3hiSWoxYzFma0NpeDA1bmR1MDFaTkk1RmJ6eEQtNF9kRnc2N1YyWWVyYzBHRnlIZmVSbk5ZZDZrVHA1cnFWeGdiNWRoQ05NQTlvdVJuUF9uZmltRXREOGZ3OWZ2Zm8zeGliRVhkYks5bDVEMzZtX2VjTQ?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T20:40-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "EASA Scraps SORA 2.0 On January 1, Leaving Drone Operators Six Weeks",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "10cc3c9172575e",
 "t": "Por ocasião da Black Friday 2026, este aspirador robô Narwal com classificação 5/5 cai para € 539",
 "r": "O Narwal Flow é um aspirador robô projetado para automatizar a limpeza de pisos graças ao forte poder de sucção e a um sistema de lavagem de rolos dedicado a manchas difíceis. O aparelho cuida da manutenção diária combinando a coleta de detritos e a lavagem úmida, fórmula que convenceu nosso laboratório durante sua…",
@@ -5689,25 +6029,6 @@
 "cv": "Les Numériques",
 "mx": 1,
 "rx": "O Narwal Flow é um aspirador robô projetado para automatizar a limpeza de pisos graças ao forte poder de sucção e a um sistema de lavagem de rolos dedicado a manchas difíceis. O aparelho cuida da manutenção diária combinando a coleta de detritos e a lavagem úmida, fórmula que convenceu nosso laboratório durante sua avaliação.\nPor ocasião da Black Friday, o robô desce para 539,00€ no Boulanger.com, ou cerca de 14% menos que o preço médio observado nos últimos 30 dias, fixado em 628,33€. Esta redução de preço permite-lhe poupar 89,33€ neste equipamento completo. O Narwal Flow destaca-se, em primeiro lugar, pela sua eficiência de recolha do solo. Nossa bancada de testes também confirmou a eficácia de seu sistema de lavagem, que conta com um rolo úmido para soltar a sujeira, em vez das tradicionais almofadas oscilantes."
-},
-{
-"id": "52f7b53774909a",
-"t": "Equipes de Forças Especiais da OTAN competem no primeiro cadinho de drones SOCEUR",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzdOQndMR3hsdFBKQTBuRmxfRHNsN1N6S1dGVnYtYW5OemZhT29SR1VHT0dyWFQzNHVwM1k1RnYwcnVnVDZrTktaZExkS2JHZWVRYnpNOFN3RF9aSVR0STB4X2k0bEJpbW4zdEd2RTVkV0FQbUQ4bUU5VkJaazY5Y25iY2pEYV9lRl9sSThBbw?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T21:47-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "NATO Special Forces Teams Compete in First SOCEUR Drone Crucible",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
 },
 {
 "id": "7918302bd5926c",
@@ -5774,25 +6095,6 @@
 "rx": "O aspirador robô DEEBOT T80 OMNI da Ecovacs está à venda por um preço especial na Amazon. O preço de venda é de 59.800 ienes, 46% de desconto sobre o preço de referência. \"DEEBOT T80 OMNI\" é um modelo intermediário que combina recursos avançados e desempenho de alto custo. Utiliza o sistema de esfregona de limpeza constante com rolo OZMO, que também está instalado no modelo topo de linha da Ecovacs.\nObserve que existe a possibilidade de o item em promoção estar esgotado ou a própria venda ser cancelada, portanto, certifique-se de que o item em questão esteja com o preço de venda antes de comprar."
 },
 {
-"id": "6543095c717cc3",
-"t": "Aselsan afirma que o sistema de micro-ondas EJDERHA derrubou 51 drones de uma só vez",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjdiSjc0MnpQbzRBWjZIS0pvOHNRSUJtZk1rZENrZTQ4QnpMVGVSV2Zxay0teHcwRG54dkN6X1p2d0JxSjllcW9IajNfX3lSUXhZS1FQeEdwU2lfNXp5aU52OW5sOGR6XzIzYXBKRFZXTmNycjZmSWQyNFBZRk5jNUdZMHZoNzJDYWhRQlFOQjNJQQ?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T22:19-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Aselsan Says EJDERHA Microwave System Downed 51 Drones at Once",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "f4d0862685a508",
 "t": "KTR, Agência Coreana de Promoção de Robótica, assinou um acordo para construir uma rede de suporte a robôs de alta tecnologia",
 "r": "Cooperação tecnológica para robôs e peças em conexão com o Campo Nacional de Testes de Robôs… Planejamento conjunto do projeto nacional de P&D de robôs de alta tecnologia KTR (Instituto de Testes e Pesquisa da Coreia, Diretor Seung-ryeol Lee) anunciou que assinou um acordo com a Agência de Promoção da Indústria de…",
@@ -5812,25 +6114,6 @@
 "cv": "ZDNet Korea",
 "mx": 1,
 "rx": "Cooperação tecnológica para robôs e peças em conexão com o Campo Nacional de Testes de Robôs… Planejamento conjunto do projeto nacional de P&D de robôs de alta tecnologia KTR (Instituto de Testes e Pesquisa da Coreia, Diretor Seung-ryeol Lee) anunciou que assinou um acordo com a Agência de Promoção da Indústria de Robôs da Coreia (KIRIA, Diretor Young-hoon Cho) para estabelecer um campo nacional de testes de robôs e fortalecer a competitividade da indústria de robôs de alta tecnologia. De acordo com o acordo, a KTR e a KIRIA decidiram prosseguir um projecto conjunto para apoiar robôs avançados, incluindo a cooperação na construção de um campo nacional de testes de robôs e a utilização conjunta de infra-estruturas. Em particular, a KTR realiza um projeto completo de suporte à avaliação de testes desde o estágio de desenvolvimento do robô até o desempenho e segurança do produto, incluindo suporte à verificação de hardware, como o desempenho e segurança de produtos robóticos acabados e verificação da adequação do projeto de software com base em padrões internacionais. As duas organizações também buscarão ▲ planejamento conjunto de projetos nacionais de P&D e padronização na área de robôs de alta tecnologia ▲ cooperação técnica para promover as capacidades tecnológicas de produtos acabados e peças de robôs de alta tecnologia ▲ educação e seminários conjuntos para promover especialistas em robôs de alta tecnologia.\nO presidente da KTR, Lee Seung-ryeol, disse: “Garantir a segurança, a qualidade e a confiabilidade é mais importante do que qualquer outra coisa, a fim de garantir a competitividade na indústria robótica de ponta”, e acrescentou: “Com o acordo como uma oportunidade, a KTR também tomará medidas ativas para construir e operar com sucesso um campo nacional de testes de robôs que levará a uma maior competitividade na indústria nacional de robôs”. Enquanto isso, a KTR foi designada como uma agência de testes certificada pela KOLAS na área de adequação de projeto de sistemas de controle de máquinas e robôs (ISO 13849-1, ISO 13849-2) e fornece serviços de verificação de SW de máquinas e robôs."
-},
-{
-"id": "b582562751849d",
-"t": "Aselsan Gokdeniz destrói drone alvo movido a jato no mar",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDgxT29rY1hHNGNJLWJCU182WS1fejdBZ19hNDJwR3JxZXhNdlBfaDJMR2pRNkpmbXh6SWFIYl9lazJiQUlsZnV1bFRkb3EyNUJpdVZ1NVZjNTJhUlJvQ1ZxWkcybDRNaHpHclNpbEdnb3J4bWkyZ2JyZE5GWkxyaWxzRl9sTGJrWDZrYnVnQnV5RXM?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-23T22:53-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Aselsan Gokdeniz Destroys Jet-Powered Target Drone at Sea",
-"lg": "tk",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
 },
 {
 "id": "075783650d20e3",
@@ -6082,6 +6365,25 @@
 "cr": 2,
 "cv": "ETNews",
 "mx": 3
+},
+{
+"id": "f8daedcade54b2",
+"t": "Quando as empresas de robótica começam a se tornar elas próprias VCs",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wbmRwaUtnY1lqM3o4ajRSQlFKNmllc015Wlh5dGdMaGd5SUFucVpra2FZVGs2VXlFUWk3eDR3LUNmdkt4NWMwbmVobTFDQQ?oc=5",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-23T14:15-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "当机器人公司开始自己当 VC",
+"lg": "zh",
+"p": 2.2,
+"cr": 2,
+"cv": "36Kr"
 },
 {
 "id": "b0cbb20cfeb19d",
@@ -10286,6 +10588,25 @@
 "cr": 3,
 "cv": "South China Morning Post",
 "mx": 3
+},
+{
+"id": "2e95bda2c66ca9",
+"t": "Negociações da ONU sobre 'robôs assassinos' terminam sem proibição juridicamente vinculativa, prometem novas negociações",
+"r": "",
+"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGtPeXdhb0k5Y3NkRjItWmk4bUt4cVUtbDlsMmlpTnVNeFJnaGFweGYtRjRZVGwzSjlDN2Q5Yk9YdnFvS2VneXhjZnZGdlNMempGS18yanRTVzNOaDQ5b0F5Zl9BbXRLZGs5V1pJd1RQWTQ1bE8xZjBwcGE4N1NPM1FpVk0xM19Rc0MyQXVGWmpwOWNH0gGUAUFVX3lxTFA2WGpiTVNQXzJiRnpZTWtNV3k4bzZHbThTMjROT0tXUi1ScmhXNC0yaHJPQ1VHNlpCWjVxU0hCRjNLYUlxRmx6TmhMTjF4aVI5dFBTeVR2OElTby1lODZ5cWotYVd4Z1NTM2h4X1BVRzVLemVUaC1XRXJIVXQ0OE5ha1JRN3JMLXpLbE1idnppR18zVlY?oc=5",
+"f": "DW.com",
+"s": "dw.com",
+"i": "",
+"d": "2026-11-21T06:20-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "UN talks on 'killer robots' end with no legally binding ban, further talks pledged",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "DW"
 },
 {
 "id": "a8412d66255ca4",
@@ -21108,7 +21429,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -26380,7 +26701,7 @@
 "u": "https://udn.com/news/story/7252/9885053",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-17T11:03-03:00",
 "c": [
 "competicoes"
@@ -48825,7 +49146,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -54346,7 +54667,7 @@
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia",
@@ -54714,7 +55035,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -70802,7 +71123,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -70831,7 +71152,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
