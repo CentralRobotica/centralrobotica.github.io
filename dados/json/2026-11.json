@@ -1,4 +1,48 @@
 {
+"2026-11-24": [
+{
+"id": "b221d10e89ab04",
+"t": "O que é a visão do robô? Diferenças entre 2D e 3D, mecanismo de correção de posição e pontos importantes a serem lembrados ao selecionar câmeras e iluminação antes de apresentá-las",
+"r": "Se a peça de trabalho for colocada sempre no mesmo local, o robô só precisa se mover para as coordenadas que lhe foram ensinadas. No local, as peças colocadas em uma bandeja podem se deslocar alguns milímetros ou mudar de direção dentro da caixa. Para compensar essa diferença, é utilizado um método que mede a posição…",
+"u": "https://robotstart.info/article/2026/11/24/382661.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109673.jpg",
+"d": "2026-11-24T00:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "ロボットビジョンとは？2D・3Dの違いと位置補正の仕組み、導入前に押さえたいカメラ・照明の選定ポイント",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Se a peça de trabalho for colocada sempre no mesmo local, o robô só precisa se mover para as coordenadas que lhe foram ensinadas. No local, as peças colocadas em uma bandeja podem se deslocar alguns milímetros ou mudar de direção dentro da caixa. Para compensar essa diferença, é utilizado um método que mede a posição com uma câmera e corrige os movimentos do robô.\nSe as peças de trabalho se sobrepuserem ou suas alturas mudarem, será difícil determinar a posição apenas pelas imagens. Os resultados do reconhecimento são convertidos em coordenadas do robô com base na relação posicional descrita anteriormente, e o controlador corrige a posição alvo. No reconhecimento, a posição e a orientação da peça dentro da caixa são determinadas a partir de uma nuvem de pontos (uma coleção de pontos tridimensionais)."
+},
+{
+"id": "e8a4364d76c0fa",
+"t": "As promoções executivas da divisão Samsung Electronics DX despencaram em um terço... A TV se concentra na ‘publicidade’ e o futuro se concentra nos ‘robôs’",
+"r": "Um total de 61 executivos foram promovidos na divisão DX anunciada pela Samsung Electronics no dia 24. A proporção de divisões DX entre todas as promoções executivas da Samsung Electronics também diminuiu. A razão para a diminuição do número de pessoas promovidas no sector DX na remodelação regular do pessoal…",
+"u": "https://zdnet.co.kr/view/?no=20261124112108",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/24/06e717d17617c6bcee3240bfa5466f19.jpg",
+"d": "2026-11-24T00:02-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "삼성전자 DX부문 임원 승진 3분의 1 급감…TV는 '광고'·미래는 '로봇' 방점",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Um total de 61 executivos foram promovidos na divisão DX anunciada pela Samsung Electronics no dia 24. A proporção de divisões DX entre todas as promoções executivas da Samsung Electronics também diminuiu. A razão para a diminuição do número de pessoas promovidas no sector DX na remodelação regular do pessoal executivo em 2027 parece ser o mau desempenho. O lucro operacional da divisão DX no terceiro trimestre passou de um superávit de 3,5 trilhões de won no ano passado para um déficit de 800 bilhões de won este ano. Na época, a Samsung Electronics disse: \"O CEO Wonjin Lee é um especialista em conteúdo, serviços e marketing que construiu a base central do negócio de TV e serviços móveis. Esperamos liderar a recuperação dos negócios e descobrir motores de crescimento futuros para aumentar a competitividade do negócio de TV\". A Samsung Electronics também utilizou talentos nas áreas de robótica e inteligência artificial (IA) para liderar o crescimento do setor DX. A Samsung Electronics está se concentrando no desenvolvimento de um robô humanóide bípede e uma mão robótica de cinco dedos."
+}
+],
 "2026-11-23": [
 {
 "id": "b98ffd52e7312c",
@@ -245,6 +289,27 @@
 "rx": "Uma nova controvérsia militar Canadá-EUA irrompe enquanto o governo do primeiro-ministro canadense Mark Carney enfrenta novas questões sobre as supostas restrições do Pentágono à cooperação em defesa. Num desenvolvimento surpreendente, o líder da oposição conservadora Pierre Poilievre critica publicamente a abordagem da administração Trump, chamando quaisquer restrições à cooperação militar entre os dois países vizinhos um \"erro terrível\". Ele invoca o apoio militar do Canadá após os ataques de 11 de Setembro, incluindo o sacrifício de 158 militares canadianos no Afeganistão, ao mesmo tempo que alerta contra o enfraquecimento da cooperação entre os dois aliados da NATO."
 },
 {
+"id": "709a29387c8ebb",
+"t": "Heimdex revela tecnologia de dados de aprendizagem de robôs na CES",
+"r": "Heimdex, uma startup de inteligência artificial (IA) de vídeo, apresentará uma solução que converte vídeo transmitido em dados para aprendizagem de robôs na CES 2027, que será realizada em Las Vegas, EUA, em janeiro do próximo ano. Heimdex anunciou no dia 24 que participará do pavilhão conjunto CES 2027…",
+"u": "https://it.chosun.com/news/articleView.html?idxno=3000000001708",
+"f": "IT조선",
+"s": "it.chosun.com",
+"i": "https://cdn.it.chosun.com/news/photo/202611/3000000001708_501972_3447.jpg",
+"d": "2026-11-23T23:42-03:00",
+"c": [
+"competicoes"
+],
+"l": 1,
+"to": "하임덱스, CES서 로봇 학습 데이터 기술 공개",
+"lg": "ko",
+"p": 10.8,
+"cr": 3,
+"cv": "Chosun Ilbo",
+"mx": 1,
+"rx": "Heimdex, uma startup de inteligência artificial (IA) de vídeo, apresentará uma solução que converte vídeo transmitido em dados para aprendizagem de robôs na CES 2027, que será realizada em Las Vegas, EUA, em janeiro do próximo ano. Heimdex anunciou no dia 24 que participará do pavilhão conjunto CES 2027 Gwangju-Jeonnam e apresentará uma solução de conversão de dados de aprendizagem de robôs, biblioteca de dados de aprendizagem de IA e serviço de IA de vídeo corporativo. A Heimdex desenvolveu tecnologia para gerar dados de aprendizagem sem exportar os arquivos originais do ambiente de armazenamento do proprietário do vídeo. Posteriormente, as imagens obtidas de múltiplas câmeras são sincronizadas, são fornecidas informações sobre movimentos humanos e interações entre mãos e objetos e processadas em dados para aprendizagem do robô. A biblioteca de dados de aprendizagem de IA consiste em 18 conjuntos de dados em 6 campos, incluindo voz de conversação, vídeo de estúdio multicâmera, transmissão de vídeo original/editado, vídeo externo, manipulação de mãos/objetos e ambiente/produto.\nOs serviços de IA de vídeo corporativo são usados ​​para desidentificar conteúdo para emissoras a cabo, produzir vídeos curtos para cada produto para empresas de comércio ao vivo e analisar vídeos de caixa preta para seguradoras não-vida. Jang-won Lee, CEO da Heimdex, disse: \"Para que a IA aprenda tarefas físicas, são necessários dados de alta qualidade que capturem pessoas executando tarefas reais de vários ângulos. Apoiaremos a conversão de arquivos de transmissão em dados de aprendizagem de IA sem mover os arquivos originais externamente\"."
+},
+{
 "id": "a1b47d05158a10",
 "t": "Meta-Drive lança financiamento: módulos de juntas cicloidais abordam as principais deficiências das juntas de robôs humanóides",
 "r": "(doravante denominada \"Yuandongli\") está promovendo uma nova rodada de financiamento para seu módulo de junta cicloidal integrado de acionamento quase direto autodesenvolvido. O módulo conjunto é uma unidade de execução que integra motor, redutor, acionador e codificador, que determina diretamente a capacidade de…",
@@ -264,6 +329,27 @@
 "cv": "36Kr",
 "mx": 1,
 "rx": "(doravante denominada \"Yuandongli\") está promovendo uma nova rodada de financiamento para seu módulo de junta cicloidal integrado de acionamento quase direto autodesenvolvido. O módulo conjunto é uma unidade de execução que integra motor, redutor, acionador e codificador, que determina diretamente a capacidade de movimento e precisão do robô, é responsável por 35% a 60% do custo da lista técnica de toda a máquina e é o principal elo para redução de custos do equipamento completo.\nDe acordo com a introdução do projeto registrada pela empresa na plataforma pública de informações industriais e comerciais, o módulo de junta cicloidal integrado de acionamento quase direto desenvolvido de forma independente pela Yuandongli integra um redutor cicloidal de alta precisão, motor de torque, codificadores duplos e o sistema de acionamento em uma unidade."
+},
+{
+"id": "f7ff93fdbab004",
+"t": "Purificadores de ar e circuladores SwitchBot para ajudar a melhorar o ambiente de inverno a partir de 8.980 ienes nos aspiradores Amazon Robot também estão à venda",
+"r": "A loja Switchbot da Amazon.co.jp está atualmente em promoção nos dispositivos domésticos inteligentes da empresa que podem ser controlados remota e automaticamente a partir de smartphones e voz. \"SwitchBot Smart Circulator Lite\" é um circulador tipo cabo de alimentação que pode acomodar até 30 tatames.",
+"u": "https://internet.watch.impress.co.jp/docs/shopping/2158575.html",
+"f": "INTERNET Watch",
+"s": "internet.watch.impress.co.jp",
+"i": "https://internet.watch.impress.co.jp/img/iw/list/2158/575/i-261124-SwitchBot_1222.jpg",
+"d": "2026-11-23T23:30-03:00",
+"c": [
+"geral"
+],
+"l": 1,
+"to": "冬のお部屋環境を整える、SwitchBotの空気清浄機やサーキュレーターがAmazonで最安8980円から ロボット掃除機もセール中",
+"lg": "ja",
+"p": 9.5,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "A loja Switchbot da Amazon.co.jp está atualmente em promoção nos dispositivos domésticos inteligentes da empresa que podem ser controlados remota e automaticamente a partir de smartphones e voz. \"SwitchBot Smart Circulator Lite\" é um circulador tipo cabo de alimentação que pode acomodar até 30 tatames.\n\"SwitchBot Smart Circulator\" é um circulador que possui bateria embutida e pode ser usado sem fio. O preço de venda é de 11.260 ienes para o conjunto de termohigrômetro à prova d'água e 17.560 ienes para os 2 conjuntos de hubs de controle remoto inteligentes."
 },
 {
 "id": "5a607c1c55a963",
@@ -700,6 +786,35 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "Selecionamos talentos técnicos que contribuíram para o desenvolvimento de memória de alta largura de banda (HBM) e DRAM de próxima geração, e selecionamos pessoal-chave em áreas de negócios futuras, como inteligência artificial (IA), robôs e fundição (produção em consignação de semicondutores). Na divisão de memória, o pessoal-chave que contribuiu para o projeto do circuito DRAM, o desenvolvimento do HBM4 e a melhoria do rendimento da produção foi promovido a vice-presidente. O vice-presidente Park é uma pessoa que garantiu a produção em massa do HBM4 e contribuiu para a expansão da produção de memória, melhorando o processo e o rendimento da DRAM. O DRAM Design Group 2 da divisão de memória da Jinpyo Park foi reconhecido por suas conquistas na liderança do desenvolvimento de HBM customizado de próxima geração com base em sua experiência em design de sistema em chip (SoC) e desenvolvimento de produto customizado. Song Tae-jung, chefe da Equipe de Planejamento de Tecnologia 2 da Divisão de Fundição, foi reconhecido por sua contribuição na expansão dos pedidos de produção em consignação de semicondutores e no estabelecimento de uma base comercial de médio a longo prazo baseada em redes de clientes e conhecimento técnico.\nLee Ho, chefe da equipe PA2 da divisão de fundição, foi promovido a vice-presidente por suas realizações na liderança do desenvolvimento de produtos de processo de 4 e 5 nanômetros (nm, 1 bilionésimo de metro) e melhorias no rendimento e desempenho. No setor DX, indivíduos talentosos que contribuíram para investir em negócios futuros e fortalecer a competitividade de produtos e serviços foram promovidos a vice-presidentes."
+},
+{
+"id": "46b2767a45fd41",
+"t": "Drone da Amazon cai em garagem após entregar shampoo",
+"r": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
+"u": "https://www.ctvnews.ca/lifestyle/article/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/5P56GFQ35ZGHHIQI7MQGZDOFZI.JPG?smart=true&auth=a5d95864d7f832b077ceecc0a0c2c4b4155d43a57f1dd98bcf73173ad3cb7f0d&width=1200&height=630",
+"d": "2026-11-23T22:32-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Amazon drone crashes into garage after delivering shampoo",
+"lg": "en",
+"p": 6.3,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
+"o": [
+{
+"f": "NBC News",
+"u": "https://www.nbcnews.com/nightly-news/video/amazon-delivery-drone-crashes-into-home-s-garage-274049605876",
+"s": "nbcnews.com",
+"id": "761e806cf3ab06"
+}
+]
 },
 {
 "id": "32295f7478a094",
@@ -1649,7 +1764,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "cade2abca101ea",
@@ -1692,6 +1807,52 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "KH VATEC(060720) atingiu o limite de preço diário no dia 24. O salto é visto como um reflexo das expectativas de que a KH VATEC, fornecedora de dobradiças para telefones dobráveis, possa se beneficiar com a notícia de que a Samsung Electronics irá revelar um robô humanóide desenvolvido internamente no início do próximo ano. A partir das 9h30 daquele dia, KH VATEC estava sendo negociado no mercado KOSDAQ a 12.190 won, um aumento de 2.810 won (29,96%) em relação à sessão anterior.\nReportagens da mídia disseram naquele dia que a Samsung Electronics planeja revelar seu próprio robô humanóide pela primeira vez na \"CES 2027\", a maior exposição de tecnologia da informação (TI) e eletrônicos de consumo do mundo, em Las Vegas, nos Estados Unidos, em janeiro próximo. Observadores da indústria esperam que o robô humanóide que a Samsung Electronics revelará se concentre em movimentos precisos das mãos."
+},
+{
+"id": "534109630f9432",
+"t": "[Exclusivo] IL desenvolve seu próprio humanóide industrial… Utilização de peças principais da Zynova na China",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A IL listada na KOSDAQ está expandindo sua área de negócios desenvolvendo um pequeno robô humanóide industrial especializado para locais de fabricação nacionais usando componentes-chave do Xynova da China. Alice responderá às…",
+"u": "https://www.hankyung.com/article/202611246439i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46526137.1.jpg",
+"d": "2026-11-23T23:06-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "[단독] 아이엘, 산업용 휴머노이드 자체 개발…中 자이노바 핵심부품 활용",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A IL listada na KOSDAQ está expandindo sua área de negócios desenvolvendo um pequeno robô humanóide industrial especializado para locais de fabricação nacionais usando componentes-chave do Xynova da China. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
+},
+{
+"id": "6d17b4d9e34886",
+"t": "Como investir em robôs humanóides: três ações para observar",
+"r": "A Tesla prevê a entrega de robôs humanóides no final de 2027 e tem um balanço patrimonial forte o suficiente para esperar. A Micron está crescendo mais rápido que a Nvidia, e seus chips de memória também são essenciais para a indústria robótica. Tesla (NASDAQ:TSLA) é a empresa americana mais direta e estabelecida em…",
+"u": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/8976523/how-to-invest-in-humanoid-robots-3-stocks-to-watch/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=997",
+"d": "2026-11-23T23:31-03:00",
+"c": [
+"humanoides",
+"negocios"
+],
+"l": 0,
+"to": "How to Invest in Humanoid Robots: 3 Stocks to Watch",
+"lg": "en",
+"p": 5.6,
+"xid": [
+"f55123d08d0751"
+],
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "A Tesla prevê a entrega de robôs humanóides no final de 2027 e tem um balanço patrimonial forte o suficiente para esperar. A Micron está crescendo mais rápido que a Nvidia, e seus chips de memória também são essenciais para a indústria robótica. Tesla (NASDAQ:TSLA) é a empresa americana mais direta e estabelecida em exposição a robôs humanóides. À medida que a demanda por robôs humanóides aumenta, os chips da Nvidia ganharão ainda mais força.\nEmbora a alta demanda por robôs humanóides seja crítica para a tese de investimento de longo prazo da Tesla, a Nvidia continua a ter um bom desempenho nos tempos atuais. Micron (NASDAQ:MU) desempenha um papel semelhante ao da Nvidia em robôs humanóides. A sua tecnologia fará parte da base dos robôs humanóides e, tal como a Nvidia, a Micron não espera que estes robôs se tornem populares antes de apresentar resultados financeiros convincentes."
 },
 {
 "id": "946a0c729027f9",
@@ -2696,6 +2857,27 @@
 "rx": "23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (Nasdaq: GMEX) (a “Empresa”), anunciou hoje que efetuará uma consolidação de ações de todas as suas ações ordinárias Classe A emitidas e não emitidas, ações ordinárias Classe B e ações ordinárias Classe C, de US$ 0,000001 de valor nominal cada, na proporção de 1 para 19, em uma ação ordinária Classe A, Classe B e classe C de Valor nominal de US$ 0,000019, em vigor em 27 de novembro de 2026 (a “Consolidação de Ações”).\nEspera-se que as ações ordinárias Classe A da Empresa comecem a ser negociadas pós-consolidação na abertura da sessão de mercado em 27 de novembro de 2026. Após a abertura do mercado em 27 de novembro de 2026, as ações ordinárias Classe A da Empresa continuarão a ser negociadas no Nasdaq Capital Market sob o símbolo “GMEX” com o novo número CUSIP G3514S195."
 },
 {
+"id": "b7a6c460b26672",
+"t": "Com robôs e impressoras 3D: buscam fabricar abrigos em Marte para futuras missões humanas",
+"r": "Antes da chegada dos astronautas a Marte, um grupo de máquinas poderia viajar ao planeta para construir abrigos marcianos. O sistema utilizaria gelo, ar e solo de Marte, com o objetivo de evitar a transferência de grandes quantidades de materiais da Terra. A proposta busca resolver um dos principais desafios de uma…",
+"u": "https://www.infobae.com/america/ciencia-america/2026/11/23/con-robots-e-impresoras-3d-buscan-fabricar-refugios-en-marte-para-las-futuras-misiones-humanas/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/JO7UDE5CSJCGXGQNB5AVXWHAAQ.png?auth=64689d716ddacacb77096d6be52c85749bc0e0cb7848bfda96233880a8cfc1f7&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-23T20:17-03:00",
+"c": [
+"espaco"
+],
+"l": 0,
+"to": "Con robots e impresoras 3D: buscan fabricar refugios en Marte para las futuras misiones humanas",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "Antes da chegada dos astronautas a Marte, um grupo de máquinas poderia viajar ao planeta para construir abrigos marcianos. O sistema utilizaria gelo, ar e solo de Marte, com o objetivo de evitar a transferência de grandes quantidades de materiais da Terra. A proposta busca resolver um dos principais desafios de uma futura missão tripulada a Marte: o peso e o espaço que seriam necessários para transportar materiais de construção da Terra.\nO plano prevê o pouso em uma área de latitude média, com terreno plano e água gelada sob o solo. A outra matéria-prima seria o solo de Marte, conhecido como regolito. Por enquanto, propõe uma cadeia de trabalho que começa com o gelo, o ar e a terra de Marte e termina com espaços fechados para uma futura tripulação."
+},
+{
 "id": "6f967a23030d50",
 "t": "FORT Robotics sediará o Dia do Analista em 9 de dezembro de 2026",
 "r": "23, 2026 (GLOBE NEWSWIRE) - FORT Robotics, Inc. (“FORT”, “FORT Robotics” ou a “Empresa”), a Trust Layer for Physical AI, anunciou hoje que sediará um Analyst Day para investidores institucionais e analistas de pesquisa de ações na quarta-feira, 9 de dezembro de 2026. Apoiada pelos principais investidores estratégicos…",
@@ -2750,7 +2932,8 @@
 "i": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-amazon-drone-ew-726p-32abad.jpg",
 "d": "2026-11-23T21:34-03:00",
 "c": [
-"drones"
+"drones",
+"entrega"
 ],
 "l": 0,
 "to": "Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof",
@@ -2888,25 +3071,130 @@
 "rx": "FamilyMart e Telexistence anunciaram em 19 de novembro de 2026 que introduzirão gradualmente o robô de reabastecimento de bebidas alimentado por IA ``TX GHOST'' e a prateleira de estoque digital ``Smart Shelf'' nas lojas FamilyMart em todo o país a partir de janeiro de 2027.\nFoi confirmado que o tempo necessário para reabastecer as bebidas por loja por dia pode ser reduzido em aproximadamente 70% nas lojas que introduziram o sistema antecipadamente. Desta vez, a empresa apresentará um sistema que combina o robô de reabastecimento de bebidas ``TX GHOST'' e a prateleira de estoque digital ``Smart Shelf''."
 },
 {
-"id": "46b2767a45fd41",
-"t": "Drone da Amazon cai em garagem após entregar shampoo",
-"r": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando.",
-"u": "https://www.ctvnews.ca/lifestyle/article/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
-"f": "CTV News",
-"s": "ctvnews.ca",
-"i": "https://www.ctvnews.ca/resizer/v2/5P56GFQ35ZGHHIQI7MQGZDOFZI.JPG?smart=true&auth=a5d95864d7f832b077ceecc0a0c2c4b4155d43a57f1dd98bcf73173ad3cb7f0d&width=1200&height=630",
-"d": "2026-11-23T22:32-03:00",
+"id": "8a2de8eb0b37bf",
+"t": "Cosine Robots levanta Rs 22 milhões de Avaana, WEH para construir atuadores robóticos",
+"r": "A empresa usará o capital para estabelecer uma instalação dedicada de pesquisa e produção em Bengaluru, expandir sua equipe de engenharia e mover seu portfólio integrado de servoatuadores para comercialização por volta de fevereiro, disseram os cofundadores Kiran Mathew Koshy e Delip Thomas ao ET.",
+"u": "https://economictimes.indiatimes.com/tech/funding/cosine-robots-raises-rs-22-crore-from-avaana-weh-to-build-robotic-actuators/articleshow/136110586.cms",
+"f": "The Economic Times",
+"s": "economictimes.indiatimes.com",
+"i": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50108,resizemode-75,msid-136110586/tech/funding/cosine-robots-raises-rs-22-crore-from-avaana-weh-to-build-robotic-actuators.jpg",
+"d": "2026-11-23T22:30-03:00",
 "c": [
-"drones"
+"negocios"
 ],
 "l": 0,
-"to": "Amazon drone crashes into garage after delivering shampoo",
+"to": "Cosine Robots raises Rs 22 crore from Avaana, WEH to build robotic actuators",
 "lg": "en",
 "p": 4.8,
 "cr": 3,
-"cv": "CTV News",
+"cv": "The Economic Times",
 "mx": 1,
-"rx": "Um drone que fazia uma entrega para a varejista on-line Amazon caiu nos arredores de Detroit na sexta-feira após entregar um frasco de xampu e agora a Administração Federal de Aviação está investigando."
+"rx": "A empresa usará o capital para estabelecer uma instalação dedicada de pesquisa e produção em Bengaluru, expandir sua equipe de engenharia e mover seu portfólio integrado de servoatuadores para comercialização por volta de fevereiro, disseram os cofundadores Kiran Mathew Koshy e Delip Thomas ao ET."
+},
+{
+"id": "cad4cfe808ee14",
+"t": "Desenvolvendo 42.000 talentos em IA, semicondutores e robótica em Gyeongbuk... 236 bilhões investidos",
+"r": "(Andong = Yonhap News) Repórter Seunghyeong Lee = Província de Gyeongbuk treinará 42.000 talentos necessários para as cinco principais indústrias estratégicas e de alta tecnologia na área metropolitana de Gyeonggi. Para este fim, 236 mil milhões de won serão investidos ao longo de quatro anos para promover talentos…",
+"u": "https://www.yna.co.kr/view/AKR20261124054100053",
+"f": "연합뉴스",
+"s": "yna.co.kr",
+"i": "https://img3.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102720440005300_P4.jpg",
+"d": "2026-11-23T23:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "경북 AI·반도체·로봇 인재 4만2천명 키운다…2천360억 투입",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Yonhap",
+"mx": 1,
+"rx": "(Andong = Yonhap News) Repórter Seunghyeong Lee = Província de Gyeongbuk treinará 42.000 talentos necessários para as cinco principais indústrias estratégicas e de alta tecnologia na área metropolitana de Gyeonggi. Para este fim, 236 mil milhões de won serão investidos ao longo de quatro anos para promover talentos nas áreas de semicondutores de inteligência artificial (IA), robôs avançados de IA, mobilidade futura, baterias secundárias e bio. Serão implementados quatro projetos principais: operar uma faculdade industrial de alta tecnologia, concluir uma universidade estratégica âncora da indústria, estabelecer a governação para uma universidade partilhada superampla e fomentar talentos motores de crescimento. A faculdade da indústria de alta tecnologia é responsável por estimular talentos (5.000 pessoas) nas três principais áreas de semicondutores, robôs e baterias secundárias. Universidades e empresas tornar-se-ão criadores conjuntos de formação de talentos e promoverão a criação de departamentos de contratos especializados (formação a pedido, etc.), institutos de investigação de convergência especializados e institutos de investigação conjuntos empresariais. A universidade estratégica âncora da indústria é responsável por estimular talentos (20.000 pessoas) nas áreas de IA, mobilidade avançada e bio.\nO negócio principal é 'One Campus', onde oito universidades reconhecem mutuamente educação e créditos conjuntos, 'One Career', que liga emprego, start-ups e residência permanente, e 'One Chain', que liga investigação conjunta orientada para a procura corporativa e transferência de tecnologia. Ele treinará 3.000 talentos nas áreas de materiais, peças e equipamentos semicondutores físicos baseados em IA e robôs de fabricação de IA."
+},
+{
+"id": "e8074c61d561af",
+"t": "A melhor plataforma para aproveitar as oportunidades de negócios de aplicações interdisciplinares de IA e robótica. TAIREX 2027 Investment Recruitment já aceita inscrições | Máquinas-ferramentas | Informações comerciais",
+"r": "Dando continuidade aos recursos industriais e à experiência de intercâmbio internacional acumulados ao longo dos anos na Exposição Internacional da Indústria de Automação de Taipei, a TAIREX concentra-se na aplicação prática de IA e robôs. O escopo da exposição abrange software e hardware de IA, computação de ponta…",
+"u": "https://money.udn.com/money/story/6092/9897706",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35546881.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=1050&exp=3600",
+"d": "2026-11-23T23:01-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "搶攻AI與機器人技術跨領域應用商機最佳平台 TAIREX 2027招商 即日起受理報名 | 工具機 | 商情",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "Dando continuidade aos recursos industriais e à experiência de intercâmbio internacional acumulados ao longo dos anos na Exposição Internacional da Indústria de Automação de Taipei, a TAIREX concentra-se na aplicação prática de IA e robôs. O escopo da exposição abrange software e hardware de IA, computação de ponta, IA física (IA física), gêmeos digitais, robôs de serviço, robôs comerciais e de catering, robôs de inspeção, drones e visão de máquina, sensores e componentes principais. Estende-se desde a fabricação inteligente até serviços empresariais, logística e transporte, cuidados médicos e outros diversos campos de aplicação, apresentando o desenvolvimento integrado e o potencial de mercado da IA ​​e da tecnologia robótica.\nPerante as empresas globais que aceleram a introdução da IA ​​e da tecnologia de automação, a TAIREX está empenhada em ligar fornecedores de tecnologia, fabricantes de equipamentos, integradores de sistemas, distribuidores e operadores de aplicações de terminais para criar uma plataforma de intercâmbio industrial e cooperação empresarial entre domínios."
+},
+{
+"id": "41c30e14d643a1",
+"t": "Integrando recursos industriais, como máquinas de precisão, fabricação inteligente, veículos não tripulados e aplicações robóticas, 180 fabricantes icônicos mostram suas capacidades inovadoras, estreia em exposições duplas em Taichung, impulsionando a inovação e a inteligência para criar o futuro",
+"r": "A \"Exposição de Máquinas-Ferramenta e Fabricação Inteligente de Taichung\" e a \"Exposição de Veículos Não Tripulados e Aplicação de Robôs de Taichung\", organizadas pelo Economic Daily, serão realizadas grandiosamente no Centro Internacional de Convenções e Exposições de Taichung de hoje (24) a 27. Com \"Futuro…",
+"u": "https://money.udn.com/money/story/6092/9897755",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35546958.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=690&sl=W&fw=1050&exp=3600",
+"d": "2026-11-23T23:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "整合精密機械、智慧製造、無人載具及機器人應用等產業資源 180 家指標性廠商秀創新實力 臺中雙展登場 驅動創新智造未來",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "A \"Exposição de Máquinas-Ferramenta e Fabricação Inteligente de Taichung\" e a \"Exposição de Veículos Não Tripulados e Aplicação de Robôs de Taichung\", organizadas pelo Economic Daily, serão realizadas grandiosamente no Centro Internacional de Convenções e Exposições de Taichung de hoje (24) a 27. Com \"Futuro Inteligente e Impulsionado pela Inovação\" como tema principal, as exposições duplas integram recursos industriais, como máquinas de precisão, fabricação inteligente, veículos não tripulados e aplicações de robôs, atraindo 180 fabricantes icônicos para participar da exposição, com quase 400 estandes, criando uma plataforma de intercâmbio anual para manufatura inteligente e indústrias de tecnologia emergentes na China e em Taiwan, demonstrando a energia inovadora da transformação e atualização industrial e integração entre domínios.\nA \"Exposição de Máquinas-Ferramenta e Fabricação Inteligente de Taichung\", que está profundamente envolvida na indústria há mais de 40 anos, há muito acumula base profissional e reputação na indústria. Este ano, o organizador lançou pela primeira vez a \"Exposição de Veículos Não Tripulados e Aplicação de Robôs de Taichung\" e expandiu ainda mais o escopo das ligações industriais por meio de exposições conjuntas nas duas exposições."
+},
+{
+"id": "6e7e8ef5b8aba2",
+"t": "Robô controlado remotamente faz passeios por Tóquio | Negócios da CNN",
+"r": "Estar internado em um hospital quando criança levou um roboticista japonês a desenvolver robôs pilotados remotamente.",
+"u": "https://www.cnn.com/2026/11/23/business/robot-tour-guide-operated-by-people-with-disabilities-spc",
+"f": "CNN",
+"s": "cnn.com",
+"i": "https://media.cnn.com/api/v1/images/stellar/prod/dsf5499.jpg?c=16x9&q=w_800,c_fill",
+"d": "2026-11-23T23:07-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Remote-controlled robot gives tours of Tokyo | CNN Business",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNN",
+"mx": 1,
+"rx": "Estar internado em um hospital quando criança levou um roboticista japonês a desenvolver robôs pilotados remotamente."
+},
+{
+"id": "39ba0359f95672",
+"t": "[Condições matinais do mercado] KOSPI recupera para 5,000 pontos… Semicondutores, robôs, MLCCs disparam um após o outro",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. À medida que as ações de tecnologia dos EUA disparavam com a notícia do regresso do CEO da NVIDIA, Jensen Hwang, a KOSPI recuperou para o nível 5.000 e um sidecar de compra foi ativado, levando a um aumento nas ações de…",
+"u": "https://www.hankyung.com/article/202611246282i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/ZN.46524482.1.jpg",
+"d": "2026-11-23T23:44-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "[오전시황] 코스피 5000선 회복…반도체·로봇·MLCC株 줄줄이 급등",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. À medida que as ações de tecnologia dos EUA disparavam com a notícia do regresso do CEO da NVIDIA, Jensen Hwang, a KOSPI recuperou para o nível 5.000 e um sidecar de compra foi ativado, levando a um aumento nas ações de tecnologia relacionadas com semicondutores, IA e robôs no mercado de ações doméstico. Alice responderá às perguntas que permaneceram em sua mente enquanto você lia. As informações sobre ações fornecidas pela AI deste serviço são apenas material de referência para fins informativos e não constituem recomendação, conselho ou recomendação de investimento. Os usuários são responsáveis ​​por quaisquer perdas resultantes de seus investimentos."
 },
 {
 "id": "5b3b2f08d4a30f",
@@ -3002,7 +3290,8 @@
 "i": "https://console.kr-asia.com/wp-content/uploads/2026/11/UBTech-Terra-Robotics.jpg",
 "d": "2026-11-23T07:50-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"negocios"
 ],
 "l": 0,
 "to": "Humanoid robot maker UBTech to join Hang Seng Tech Index",
@@ -3051,7 +3340,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3c17b12295f551",
@@ -3305,7 +3594,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "ce168a64184a96",
@@ -3431,6 +3720,27 @@
 "cr": 3,
 "cv": "South China Morning Post",
 "mx": 3
+},
+{
+"id": "ea62d74fb77963",
+"t": "O aspirador de robô Eufy 11S Max está pela metade na Amazon – economize $ 140",
+"r": "9, o Eufy 11S Max está à venda por US$ 139,99 na Amazon. Os aspiradores robóticos percorreram um longo caminho nos últimos anos, com modelos agora disponíveis em diversos preços e com recursos adequados para diferentes residências. Atualmente à venda, você economizará US $ 140 neste aspirador robô Eufy, que também é o…",
+"u": "https://mashable.com/tech/sept-9-eufy-11s-max-deal",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/01WspeKQt4s1sNvf58w9V73/hero-image.fill.size_1200x675.v1788937016.png",
+"d": "2026-11-23T06:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "The Eufy 11S Max robot vacuum is half off at Amazon — Save $140",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "9, o Eufy 11S Max está à venda por US$ 139,99 na Amazon. Os aspiradores robóticos percorreram um longo caminho nos últimos anos, com modelos agora disponíveis em diversos preços e com recursos adequados para diferentes residências. Atualmente à venda, você economizará US $ 140 neste aspirador robô Eufy, que também é o melhor preço deste ano até agora. Tem apenas 2,85 polegadas de altura, então este aspirador robô não tem problemas em entrar naqueles espaços estranhos sob os móveis que são difíceis de alcançar com um aspirador ou escova padrão.\nUm sensor infravermelho ajuda o robô a navegar em torno de obstáculos e sensores de queda ajudam a evitar quedas de bordas ou escadas. Você pode encontrar assinaturas em publicações, incluindo as revistas Fit&Well, Metro e Coach, geralmente cobrindo ofertas de tudo, desde fones de ouvido a TVs, ou guias sobre como vencer o tempo da meia maratona."
 },
 {
 "id": "50302b0173a086",
@@ -3706,7 +4016,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Korea Economic Daily",
-"mx": 1
+"mx": 2
 },
 {
 "id": "10cc3c9172575e",
@@ -3760,8 +4070,8 @@
 "i": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.445a5890821c4d919341bcfddbcc3a7d_P1.jpg",
 "d": "2026-11-23T22:00-03:00",
 "c": [
-"ia",
-"negocios"
+"negocios",
+"ia"
 ],
 "l": 0,
 "to": "KAIST, 피지컬 AI 이끌 로봇 스타트업 10개 팀 최종 격돌…12월 3일 그랜드 파이널",
@@ -3794,6 +4104,69 @@
 "rx": "O aspirador robô DEEBOT T80 OMNI da Ecovacs está à venda por um preço especial na Amazon. O preço de venda é de 59.800 ienes, 46% de desconto sobre o preço de referência. \"DEEBOT T80 OMNI\" é um modelo intermediário que combina recursos avançados e desempenho de alto custo. Utiliza o sistema de esfregona de limpeza constante com rolo OZMO, que também está instalado no modelo topo de linha da Ecovacs.\nObserve que existe a possibilidade de o item em promoção estar esgotado ou a própria venda ser cancelada, portanto, certifique-se de que o item em questão esteja com o preço de venda antes de comprar."
 },
 {
+"id": "f4d0862685a508",
+"t": "KTR, Agência Coreana de Promoção de Robótica, assinou um acordo para construir uma rede de suporte a robôs de alta tecnologia",
+"r": "Cooperação tecnológica para robôs e peças em conexão com o Campo Nacional de Testes de Robôs… Planejamento conjunto do projeto nacional de P&D de robôs de alta tecnologia KTR (Instituto de Testes e Pesquisa da Coreia, Diretor Seung-ryeol Lee) anunciou que assinou um acordo com a Agência de Promoção da Indústria de…",
+"u": "https://zdnet.co.kr/view/?no=20261124104538",
+"f": "지디넷코리아",
+"s": "zdnet.co.kr",
+"i": "https://image.zdnet.co.kr/2026/11/24/343f4b09a7e892ac18dcce4199e62100.jpg",
+"d": "2026-11-23T22:45-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "KTR, 로봇진흥원과 첨단로봇 지원 네트워크 구축 협약",
+"lg": "ko",
+"p": 3.5,
+"cr": 2,
+"cv": "ZDNet Korea",
+"mx": 1,
+"rx": "Cooperação tecnológica para robôs e peças em conexão com o Campo Nacional de Testes de Robôs… Planejamento conjunto do projeto nacional de P&D de robôs de alta tecnologia KTR (Instituto de Testes e Pesquisa da Coreia, Diretor Seung-ryeol Lee) anunciou que assinou um acordo com a Agência de Promoção da Indústria de Robôs da Coreia (KIRIA, Diretor Young-hoon Cho) para estabelecer um campo nacional de testes de robôs e fortalecer a competitividade da indústria de robôs de alta tecnologia. De acordo com o acordo, a KTR e a KIRIA decidiram prosseguir um projecto conjunto para apoiar robôs avançados, incluindo a cooperação na construção de um campo nacional de testes de robôs e a utilização conjunta de infra-estruturas. Em particular, a KTR realiza um projeto completo de suporte à avaliação de testes desde o estágio de desenvolvimento do robô até o desempenho e segurança do produto, incluindo suporte à verificação de hardware, como o desempenho e segurança de produtos robóticos acabados e verificação da adequação do projeto de software com base em padrões internacionais. As duas organizações também buscarão ▲ planejamento conjunto de projetos nacionais de P&D e padronização na área de robôs de alta tecnologia ▲ cooperação técnica para promover as capacidades tecnológicas de produtos acabados e peças de robôs de alta tecnologia ▲ educação e seminários conjuntos para promover especialistas em robôs de alta tecnologia.\nO presidente da KTR, Lee Seung-ryeol, disse: “Garantir a segurança, a qualidade e a confiabilidade é mais importante do que qualquer outra coisa, a fim de garantir a competitividade na indústria robótica de ponta”, e acrescentou: “Com o acordo como uma oportunidade, a KTR também tomará medidas ativas para construir e operar com sucesso um campo nacional de testes de robôs que levará a uma maior competitividade na indústria nacional de robôs”. Enquanto isso, a KTR foi designada como uma agência de testes certificada pela KOLAS na área de adequação de projeto de sistemas de controle de máquinas e robôs (ISO 13849-1, ISO 13849-2) e fornece serviços de verificação de SW de máquinas e robôs."
+},
+{
+"id": "075783650d20e3",
+"t": "Lecoo lista exoesqueleto de assistência para caminhada do consumidor antes da venda na China",
+"r": "O exoesqueleto de assistência à caminhada de Lecoo está listado para venda na China em 28 de novembro pelo preço inicial de CNY 6.999; as especificações anunciadas não são validação médica.",
+"u": "https://pandaily.com/lecoo-consumer-walking-assist-exoskeleton-china-sale",
+"f": "Pandaily",
+"s": "pandaily.com",
+"i": "https://cms-image.pandaily.com/1/lecoo_editorial_d5e4c63093.png",
+"d": "2026-11-23T23:01-03:00",
+"c": [
+"exoesqueletos"
+],
+"l": 0,
+"to": "Lecoo Lists Consumer Walking-Assist Exoskeleton Ahead of China Sale",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Pandaily",
+"mx": 1,
+"rx": "O exoesqueleto de assistência à caminhada de Lecoo está listado para venda na China em 28 de novembro pelo preço inicial de CNY 6.999; as especificações anunciadas não são validação médica."
+},
+{
+"id": "91fd7349426e56",
+"t": "[Item de pechincha encontrado hoje] O aspirador robô Roomba está com 100.000 ienes de desconto! Venda Amazon agora",
+"r": "Na Amazon, o aspirador robô da iRobot “Roomba Plus 615 Combo Robot + Wash Only Charging Station” está à venda por 79.800 ienes, 100.000 ienes de desconto no preço mais recente. O Roomba Plus 615 Combo Robot + Wash Only Charging Station está posicionado como um modelo de classe média voltado para o interior da série…",
+"u": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2158626.html",
+"f": "PC Watch",
+"s": "pc.watch.impress.co.jp",
+"i": "https://pc.watch.impress.co.jp/img/pcw/list/2158/626/03.jpg",
+"d": "2026-11-23T23:22-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "【本日みつけたお買い得品】ロボット掃除機のルンバが10万円引きでオトク！Amazonセール中",
+"lg": "ja",
+"p": 3.5,
+"cr": 2,
+"cv": "Impress Watch",
+"mx": 1,
+"rx": "Na Amazon, o aspirador robô da iRobot “Roomba Plus 615 Combo Robot + Wash Only Charging Station” está à venda por 79.800 ienes, 100.000 ienes de desconto no preço mais recente. O Roomba Plus 615 Combo Robot + Wash Only Charging Station está posicionado como um modelo de classe média voltado para o interior da série Roomba da empresa.\nA estação de carregamento Wash Only do conjunto pode fornecer água, lavar e secar automaticamente o esfregão incluído no aspirador robô, bem como remover a sujeira."
+},
+{
 "id": "d8fca6d655f4e5",
 "t": "Os robôs humanóides entraram num período crítico de comercialização e vários benefícios aumentaram as expectativas da indústria - 36 Krypton",
 "r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
@@ -3803,7 +4176,8 @@
 "i": "",
 "d": "2026-11-23T21:14-03:00",
 "c": [
-"humanoides"
+"humanoides",
+"medicina"
 ],
 "l": 0,
 "to": "人形机器人步入商业化关键期，多重利好推动产业预期升温-36氪",
@@ -3811,7 +4185,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "36Kr",
-"mx": 1,
+"mx": 2,
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
@@ -3875,7 +4249,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 2
+"mx": 3
 },
 {
 "id": "c53779c3e98a39",
@@ -3936,7 +4310,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "ETNews",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b0cbb20cfeb19d",
@@ -3977,7 +4351,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "TechRepublic",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-22": [
@@ -6471,7 +6845,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "South China Morning Post",
-"mx": 1
+"mx": 2
 },
 {
 "id": "600397731b02e8",
@@ -18902,7 +19276,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -46619,7 +46993,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -52508,7 +52882,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -68596,7 +68970,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -68625,7 +68999,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
