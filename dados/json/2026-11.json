@@ -2386,28 +2386,6 @@
 "rx": "Mariah Carey está sofrendo de algum problema de saúde? Seus vídeos de 'luta para andar' levantam o alarme Sem jato particular, sem primeira classe, assento 33B: Por que o voo comercial de 21 horas da presidente do México Claudia Sheinbaum para a China está se tornando viral KYC e KYB: Zydus Lifesciences - Do balcão da farmácia às farmácias dos EUA."
 },
 {
-"id": "c0bc2b71826f9e",
-"t": "Aeroporto de Bagdogra fechado por 1 hora após ‘avistamento de drone’",
-"r": "Suposto drone perto do aeroporto de Bagdogra interrompeu voos por mais de uma hora; pista fechada das 14h55 às 16h, 3 voos cancelados, 1 desviado e 7 atrasados ​​​​em companhias aéreas.",
-"u": "https://timesofindia.indiatimes.com/city/kolkata/bagdogra-airport-closed-for-1-hr-after-drone-sighting/articleshow/136110765.cms",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-23T16:15-03:00",
-"c": [
-"drones",
-"servico"
-],
-"l": 0,
-"to": "Bagdogra airport closed for 1 hr after ‘drone sighting’",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 9,
-"rx": "Suposto drone perto do aeroporto de Bagdogra interrompeu voos por mais de uma hora; pista fechada das 14h55 às 16h, 3 voos cancelados, 1 desviado e 7 atrasados ​​​​em companhias aéreas."
-},
-{
 "id": "3463916278c167",
 "t": "Scout Combat Drone do Canadá assina 12 parceiros antes de ter um comprador",
 "r": "A Dominion Dynamics assinou contrato com 12 empresas aeroespaciais e de defesa para ajudar a construir o Scout, uma aeronave de combate não tripulada destinada a voar ao lado dos caças tripulados do Canadá. A empresa de Ottawa anunciou o grupo em 20 de novembro de 2026, três dias depois de nomear a Pratt & Whitney…",
@@ -2538,6 +2516,90 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "Sabendo antes da parada do transportador, um robô exclusivo que atua como os olhos e os ouvidos das pessoas Startup Drunken Chat Segurança do local industrial Desenvolvedor de soluções de robô Com Robot"
+},
+{
+"id": "db44f3250cb4ca",
+"t": "Boletim informativo The China Connection da CNBC: a corrida da IA ​​se espalha dos robôs para os smartphones",
+"r": "Mas ele me disse que suas conversas durante a Cúpula de CEOs da APEC revelaram entusiasmo em torno de um novo desenvolvimento para humanóides: a crescente demanda por chips robóticos que possam executar modelos de linguagem grandes e mais inteligentes localmente, em vez de na nuvem. Ele espera que nos próximos anos, à…",
+"u": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/108557101-1795397752472-gettyimages-2305123527-AFP_D7FQ6DD.jpeg?v=1795397763&w=1920&h=1080",
+"d": "2026-11-23T20:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNBC",
+"mx": 1,
+"rx": "Mas ele me disse que suas conversas durante a Cúpula de CEOs da APEC revelaram entusiasmo em torno de um novo desenvolvimento para humanóides: a crescente demanda por chips robóticos que possam executar modelos de linguagem grandes e mais inteligentes localmente, em vez de na nuvem. Ele espera que nos próximos anos, à medida que os chips dos smartphones forem capazes de executar modelos de IA mais poderosos, a tecnologia do “superagente” possa se tornar melhor na conclusão de tarefas por conta própria e na antecipação das necessidades do usuário – como pedir café.\n19 prevêem que, no setor retalhista, as receitas da “IA de ponta” aumentarão seis vezes até 2032, com cerca de metade das receitas provenientes de robôs retalhistas que limpam e verificam o inventário – muitas vezes com a ajuda de modelos de IA mais pequenos que podem funcionar em chips incorporados localmente."
+},
+{
+"id": "cc7a303df5a3be",
+"t": "Um exército invisível contra o câncer e os cães de metal: os robôs não querem mais ser ‘humanos’",
+"r": "Até agora, quando imaginávamos o futuro da robótica, quase sempre pensávamos em máquinas que se parecessem connosco. Robôs com braços, pernas e inteligência artificial capazes de responder perguntas ou realizar tarefas domésticas. E uma brigada de robôs que parecem cães farejadores poderia vasculhar os escombros de um…",
+"u": "https://www.elmundo.es/ciencia/2026/11/24/6b00641521efa0fa088b4587.html",
+"f": "El Mundo",
+"s": "elmundo.es",
+"i": "https://e01-phantom-elmundo.uecdn.es/00d052b58712b21d7edfe2e20ac8af3c/resize/1200/f/webp/assets/multimedia/imagenes/2026/11/20/17951877719404.jpg",
+"d": "2026-11-23T20:08-03:00",
+"c": [
+"defesa"
+],
+"l": 0,
+"to": "Un ejército invisible contra el cáncer y perros de metal: los robots ya no quieren ser 'humanos'",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "El Mundo",
+"mx": 1,
+"rx": "Até agora, quando imaginávamos o futuro da robótica, quase sempre pensávamos em máquinas que se parecessem connosco. Robôs com braços, pernas e inteligência artificial capazes de responder perguntas ou realizar tarefas domésticas. E uma brigada de robôs que parecem cães farejadores poderia vasculhar os escombros de um terremoto para localizar sobreviventes.\nSe Samuel Sánchez tenta fazer máquinas minúsculas capazes de agir dentro de um organismo, o matemático Gissell Estrada Rodríguez aborda um problema quase inverso: usar robôs para entender como as células se comportam. Como são esses enxames de robôs? Um pequeno enxame de máquinas movendo-se sobre uma mesa poderia ajudar a explicar como milhões de células conseguem construir um organismo sem que nenhuma delas saiba o que estão construindo."
+},
+{
+"id": "5bf7c587a405ab",
+"t": "GMEX Robotics Corporation anuncia consolidação de ações",
+"r": "23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (Nasdaq: GMEX) (a “Empresa”), anunciou hoje que efetuará uma consolidação de ações de todas as suas ações ordinárias Classe A emitidas e não emitidas, ações ordinárias Classe B e ações ordinárias Classe C, de US$ 0,000001 de valor nominal cada, na proporção de 1…",
+"u": "https://markets.businessinsider.com/news/stocks/gmex-robotics-corporation-announces-share-consolidation-1036793806",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/media/8f2b3ed7-7783-46ca-bfdd-8860da0a9f98/small/gmex-robotics-1-jpg.jpg",
+"d": "2026-11-23T20:14-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "GMEX Robotics Corporation Announces Share Consolidation",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 1,
+"rx": "23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (Nasdaq: GMEX) (a “Empresa”), anunciou hoje que efetuará uma consolidação de ações de todas as suas ações ordinárias Classe A emitidas e não emitidas, ações ordinárias Classe B e ações ordinárias Classe C, de US$ 0,000001 de valor nominal cada, na proporção de 1 para 19, em uma ação ordinária Classe A, Classe B e classe C de Valor nominal de US$ 0,000019, em vigor em 27 de novembro de 2026 (a “Consolidação de Ações”).\nEspera-se que as ações ordinárias Classe A da Empresa comecem a ser negociadas pós-consolidação na abertura da sessão de mercado em 27 de novembro de 2026. Após a abertura do mercado em 27 de novembro de 2026, as ações ordinárias Classe A da Empresa continuarão a ser negociadas no Nasdaq Capital Market sob o símbolo “GMEX” com o novo número CUSIP G3514S195."
+},
+{
+"id": "6f967a23030d50",
+"t": "FORT Robotics sediará o Dia do Analista em 9 de dezembro de 2026",
+"r": "23, 2026 (GLOBE NEWSWIRE) - FORT Robotics, Inc. (“FORT”, “FORT Robotics” ou a “Empresa”), a Trust Layer for Physical AI, anunciou hoje que sediará um Analyst Day para investidores institucionais e analistas de pesquisa de ações na quarta-feira, 9 de dezembro de 2026. Apoiada pelos principais investidores estratégicos…",
+"u": "https://markets.businessinsider.com/news/stocks/fort-robotics-to-host-analyst-day-on-december-9-2026-1036793882",
+"f": "markets.businessinsider.com",
+"s": "markets.businessinsider.com",
+"i": "https://ml.globenewswire.com/media/48225ebe-ed5b-4e41-845a-2df5d3a137dc/small/fort-logo-png.png",
+"d": "2026-11-23T20:40-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "FORT Robotics to Host Analyst Day on December 9, 2026",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "Business Insider",
+"mx": 1,
+"rx": "23, 2026 (GLOBE NEWSWIRE) - FORT Robotics, Inc. (“FORT”, “FORT Robotics” ou a “Empresa”), a Trust Layer for Physical AI, anunciou hoje que sediará um Analyst Day para investidores institucionais e analistas de pesquisa de ações na quarta-feira, 9 de dezembro de 2026. Apoiada pelos principais investidores estratégicos e financeiros, incluindo Tiger Global, Mark Cuban Companies e Prologis Ventures, a FORT Robotics está buscando uma listagem na Nasdaq por meio de seu negócio Combinação com Newbury Street II Acquisition Corp (Nasdaq: NTWO).\nEm conexão com a Combinação de Negócios, a Newbury Street II e a Empresa arquivaram uma Declaração de Registro no Formulário S-4 junto à SEC (a “Declaração de Registro”), que inclui uma declaração de procuração para os acionistas da Newbury Street II e um prospecto para o registro dos títulos da Newbury Street II a serem emitidos em conexão com a Combinação de Negócios."
 },
 {
 "id": "5b3b2f08d4a30f",
@@ -2770,6 +2832,28 @@
 "cv": "A3 — Association for Advancing Automation",
 "mx": 3,
 "rx": "Pesquisadores de diferentes universidades da China desenvolveram um sistema de guindaste autônomo chamado Autane para operações portuárias. Autane é um módulo de controle e sistema algorítmico desenvolvido para guindastes de pórtico sobre pneus de borracha (RTG) que movimentam contêineres padronizados em pátios portuários. O sistema foi desenvolvido para permitir que os guindastes RTG realizem a captura, transporte e colocação autônoma de contêineres com alta precisão, adaptabilidade e eficiência, com um plano para eliminar preocupações de tamanho e precisão.\nPara testar o desempenho do sistema Autane em portos do mundo real, o Autane foi implantado em mais de 60 RTGs em vários pátios portuários para realizar tarefas de movimentação de contêineres, como coleta de contêineres, transporte e posicionamento preciso do contêiner."
+},
+{
+"id": "c0bc2b71826f9e",
+"t": "Aeroporto de Bagdogra fechado por 1 hora após ‘avistamento de drone’",
+"r": "Suposto drone perto do aeroporto de Bagdogra interrompeu voos por mais de uma hora; pista fechada das 14h55 às 16h, 3 voos cancelados, 1 desviado e 7 atrasados ​​​​em companhias aéreas.",
+"u": "https://timesofindia.indiatimes.com/city/kolkata/bagdogra-airport-closed-for-1-hr-after-drone-sighting/articleshow/136110765.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-23T16:15-03:00",
+"c": [
+"drones",
+"servico"
+],
+"l": 0,
+"to": "Bagdogra airport closed for 1 hr after ‘drone sighting’",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 9,
+"rx": "Suposto drone perto do aeroporto de Bagdogra interrompeu voos por mais de uma hora; pista fechada das 14h55 às 16h, 3 voos cancelados, 1 desviado e 7 atrasados ​​​​em companhias aéreas."
 },
 {
 "id": "2a5efb8710f38b",
@@ -3237,6 +3321,27 @@
 "mx": 3
 },
 {
+"id": "10cc3c9172575e",
+"t": "Por ocasião da Black Friday 2026, este aspirador robô Narwal com classificação 5/5 cai para € 539",
+"r": "O Narwal Flow é um aspirador robô projetado para automatizar a limpeza de pisos graças ao forte poder de sucção e a um sistema de lavagem de rolos dedicado a manchas difíceis. O aparelho cuida da manutenção diária combinando a coleta de detritos e a lavagem úmida, fórmula que convenceu nosso laboratório durante sua…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/black-friday-2026-l-aspirateur-robot-narwal-flow-5-etoiles-a-539-00-14-n268368.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/25/251285/5f00b253-aspirateur-robot-narwal-flow__1200_678__overflow_wtmk.webp",
+"d": "2026-11-23T21:02-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "À l'occasion du Black Friday 2026, cet aspirateur robot Narwal noté 5/5 tombe à 539 €",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "O Narwal Flow é um aspirador robô projetado para automatizar a limpeza de pisos graças ao forte poder de sucção e a um sistema de lavagem de rolos dedicado a manchas difíceis. O aparelho cuida da manutenção diária combinando a coleta de detritos e a lavagem úmida, fórmula que convenceu nosso laboratório durante sua avaliação.\nPor ocasião da Black Friday, o robô desce para 539,00€ no Boulanger.com, ou cerca de 14% menos que o preço médio observado nos últimos 30 dias, fixado em 628,33€. Esta redução de preço permite-lhe poupar 89,33€ neste equipamento completo. O Narwal Flow destaca-se, em primeiro lugar, pela sua eficiência de recolha do solo. Nossa bancada de testes também confirmou a eficácia de seu sistema de lavagem, que conta com um rolo úmido para soltar a sujeira, em vez das tradicionais almofadas oscilantes."
+},
+{
 "id": "22261ec066e013",
 "t": "Fairy Devices fará uma exposição conjunta com AVITA e Booster Robotics no \"RoboNext 2026\"",
 "r": "Fairy Devices Apresentando as soluções mais recentes utilizando IA física Fairy Devices Co., Ltd. (Sede: Bunkyo-ku, Tóquio, Diretor Representante: Masato Fujino, doravante denominada \"Empresa\") tem a missão de \"disponibilizar toda a sabedoria da humanidade para distribuição\" e fornece soluções de hardware e software…",
@@ -3280,6 +3385,26 @@
 "rx": "Com sua série Nexode de carregadores e bancos de energia, a Ugreen busca desempenho e tamanho compacto. A bateria externa Nexode 25.000 mAh 145 W tem como objetivo oferecer o compromisso certo entre alta capacidade, velocidade e leveza. Por trás do ditado \"por que mudar uma fórmula que funciona?\", melhorias discretas e muito bem-vindas que pudemos avaliar... Roborock está lançando sua visão da coisa com um Vapor F25 capaz, dizem, de limpar 660 m² de casa com uma única carga.\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
 },
 {
+"id": "8ef775ca87fd57",
+"t": "A reunião geral regular da Korea AI and Robot Industry Association de 2026 e a cerimônia de posse do presidente foram realizadas na El Tower em Seocho-gu, Seul, em 25 de fevereiro. Na época, o ex-presidente da associação Kim Jin-oh (quinto da esquerda), o novo presidente da associação Oh Jun-ho (sexto da esquerda) e os participantes tiraram uma foto comemorativa. Repórter Park Ji-ho jihopress@etnews.com",
+"r": "",
+"u": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXZvV2xtaGtiL3E5czRyaFBJbDFJcWhxQ2F5eENoL3RyelhtK3haSUZ2eW1nUWJzdUtvbTlCRDJ3UTB1Wno0NkMwbjV5ZXUvYmk5aWcxUUpIVzdwZVZacTRReStYVjNxcHVzdjZqaU84Nk9sZXF5d2hEQlJSLzZMK3dkMG1yQ3I5VEI2ZDh5Slh4YTk4elZNK0QxaXhsMmRiY2ZuMFJVMFRJOHVvcFZzcmcvYTRGZTQzQlBKblVFTXlvUVpJbWpCWTUwcW52bjRkTTljWWJKMlBsRTV1SG9Wc3IvVmhKWVpnZ3o1YzRmVmFiNWRlQVZmZ1paSUgvb0ljQnZISTJwZDBkcFdNTnBQSnpBQ2ZzVXFqanhxekgxRG9KbWJrSTlEN29LTllGNStBRmdFTzdudWVLV3d6bmVXenVkeGJ4TlFvaXhKZm5xMndKWVUxd1ZFUUx6REp1dDFFVmhwRnFXTE1FVDFXeUM5V1BSVTNnVGRLVVFReDhPb09vR1YzeERtTXNnN3BYODhadjVRVHl6bHZjQWFsQ3ZWNnNzS0t3T05GVm10QlY0aGZPSmFpQXRra2hvanRWZHh4Y1NIU3RQQW0rWmN6b0EyOEtHajhRNnFQeTdFWWRHTU45ZGJYUHcvajdMd01Oc2piYmpnTlgrQUJOWmgvekttZkg0bUoxUi9aZGF2aThCU0RHbDNyemhNMmp2ek1JS2pWV1ZiZXNiRFV4TUxGamNZUEdJeXY0amZtU3FtbktVYW1hZnRFOFlqWUpYaDFaaEYxUVV3bmJKL3F6UG52ZzBnbVhzS3hCczZqeEY1SkhRa0NFSXBvd0dVVld0VkVjYmJ2ZGZmcEdCdHpUTGpCdU5BOWNmdUFhVk5EQ1B2Z3VROXhjemc3M0lscUtIVDUxaWNodlBFZUdIdEYxRWhKYVZ1MnRCOGwzMXFxNTBMQjNIWlgyZjRZczVrOXpOMXRGcVNqSW1zdzNxVXNPVzVjYmdPUHlEOVVtSmo1TWVmK3lrbW5CbVBPam1mZUpPT2k2ZERWb3V3TS82NDcxUDM2bDlZL3VSUnJiQ09SQWdSYXdlRW9vZS9mK1cyZGdnN0JUbmMzNGhEcGRDVDVTM2N6a005QUVoWlBoT1lLdmd0eUcvcXNUTitXQUlxTElCMnhXS3Q1azF6ZWpaL1VPM2NUVVloeGZ0UDcwQVBqTmVISkNreHd0bTBCRzAwaEFKcE0vUT09",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-23T04:22-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "2026년 한국AI·로봇산업협회 정기총회 및 회장 이취임식이 지난 2월 25일 서울 서초구 엘타워에서 열렸다. 당시 김진오 전임 협회장(왼쪽 다섯 번째)과 오준호 신임협회장(왼쪽 여섯 번째) 및 참석자들이 기념촬영 했다. 박지호기자 jihopress@etnews.com",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
+},
+{
 "id": "c53779c3e98a39",
 "t": "A Fidelity leva a sua luta contra o crime para o céu com Fidelity Drone Solutions",
 "r": "",
@@ -3318,6 +3443,27 @@
 "cr": 2,
 "cv": "Tech in Asia",
 "mx": 3
+},
+{
+"id": "a4e8e5ed5aa712",
+"t": "GeoRobot e funcionários da Escola de Medicina Chan da Universidade de Massachusetts assinaram um acordo comercial e tiraram uma foto comemorativa.",
+"r": "",
+"u": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalhrSVpSVWF2SnJmeENSOVNiMStOUVNZSFkxSzRhNkZjKzl4RGoydlFVaHRMVjlhWEg2dVRubmlZcnpBaEFYb2NBd0tZUXJBSEFKajZMUTV4bHBMOW5rRlN5VlVjTnhKK2NzZ255K1ljTjNxNzdPeEpsZTQxNmdnMDM0cld0TUIvOXBHNEVWRGI0S3FFejFMbFpJUnpJYVZKcE5WcFYrNm9YR3I3WkNNTjN0UDN4RDZrVTUyV3VWZG1tWUhkRXpzbmpBdmNYK1hOaXZLajBGdW8yY2JNUklINS9uUHRHMmkrN28xWXczV0VwZnRZNG9YdzBKYU41T1lJdmFhYURkZDZZdjlwSVp0SGhPTW40VzlvS0ZabXB0WmxFaXcxSC9vZXFBMmZJTk1iRlZLMHE3UWR4SWY5WG1MWm5JbDdtMXd5NEpSUkNtSUcxSkN5YldWQStYMkM1Z1hRclZvNDVsMVNVS1ZwRHhqSk5OSWRzenN5Q2tzR2c5M2V3TzNQTU9mYWlJSGlyQVpMek1rRE9NdDB1TXF6ajVTQjhkZzlGOEpXbERNNUd3UDNMaWVvVVNOdElTSUNnaXNHR3RCUjdrYTFBPT0",
+"f": "전자신문",
+"s": "etnews.com",
+"i": "",
+"d": "2026-11-23T12:27-03:00",
+"c": [
+"educacao",
+"ia"
+],
+"l": 0,
+"to": "지오로봇과 미국 매사추세츠대학교 챈 의과대학 관계자들이 업무협약을 맺고 기념촬영하고 있다.",
+"lg": "ko",
+"p": 2.2,
+"cr": 2,
+"cv": "ETNews",
+"mx": 1
 },
 {
 "id": "b0cbb20cfeb19d",
@@ -4757,27 +4903,6 @@
 "rx": "Na Meia Maratona de Milão não houve exibição do superhumanóide que deveria desafiar os corredores: a chuva parou o Honor Robot D1. Leclerc sob acusação, o contato que fez Hamilton girar no Grande Prêmio de Las Vegas O vídeo do prédio atingido pelos ataques russos em Kiev: equipes de resgate procuram sobreviventes sob os escombros Reflexão de Augias sobre o presente e saudações aos telespectadores no último episódio de \"A Torre de Babel\" no La7\nNo vídeo de Honor D1, o robô deveria correr a meia maratona de Milão, mas foi parado pela chuva Em Milão, manifestantes queimam as silhuetas de Trump e Netanyahu e um tanque de papelão. Em Milão, as silhuetas de Trump e de um tanque são queimadas durante as manifestações de 20 de novembro"
 },
 {
-"id": "a4ea03274b271c",
-"t": "Turista de Kerala preso por drone não autorizado voando perto do Victoria Memorial",
-"r": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves.",
-"u": "https://timesofindia.indiatimes.com/city/kolkata/kerala-tourist-arrested-for-unauthorised-drone-flying-near-victoria-memorial/articleshow/136077733.cms",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-22T12:24-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Kerala tourist arrested for unauthorised drone flying near Victoria Memorial",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 9,
-"rx": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves."
-},
-{
 "id": "67656bc86ac738",
 "t": "TUMO Frankfurt: Onde os jovens aprendem robótica e programação",
 "r": "Desde o final de agosto, os jovens podem aprender aqui programação, desenvolvimento de jogos, robótica, modelagem 3D, animação, produção cinematográfica, design gráfico e produção musical nos tempos livres. Na escadaria, uma mulher usa um quadro inteligente para mostrar aos jovens quais oficinas eles poderão…",
@@ -5265,6 +5390,27 @@
 "cv": "The Globe and Mail",
 "mx": 9,
 "rx": "A Tesla tem uma vantagem em custos de hardware e software no momento, mas essa lacuna pode diminuir no futuro. A vantagem da Tesla não se trata apenas de hardware e software; trata-se também de aprender a reduzir custos operacionais à medida que cresce. O analista da Morgan, Rajat Gupta, acredita que a frota de robotáxis da Tesla (NASDAQ:TSLA) poderia se igualar à frota Waymo da Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) em milhas autônomas acumuladas até o final de 2027.\nFinalmente, os rivais poderiam optar por custos de hardware mais elevados (LiDAR mais software licenciado) e mais quilómetros de operação de robotáxis, mas isso significaria custos iniciais mais elevados, provavelmente mais custos de manutenção, e os robotáxis tornar-se-iam obsoletos mais rapidamente. A boa notícia é que as milhas da Tesla sob expansão do robotáxi significam que ela está aprendendo a reduzir o TCO por milha antes que outros o façam."
+},
+{
+"id": "a4ea03274b271c",
+"t": "Turista de Kerala preso por drone não autorizado voando perto do Victoria Memorial",
+"r": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves.",
+"u": "https://timesofindia.indiatimes.com/city/kolkata/kerala-tourist-arrested-for-unauthorised-drone-flying-near-victoria-memorial/articleshow/136077733.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-22T12:24-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Kerala tourist arrested for unauthorised drone flying near Victoria Memorial",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 9,
+"rx": "Turista de Kerala preso por pilotar um drone DJI não autorizado perto do Victoria Memorial, Calcutá, perto de Fort William; caso arquivado sob BNS e Lei de Aeronaves."
 },
 {
 "id": "b5e84d1385f639",
@@ -15013,27 +15159,6 @@
 "rx": "A Meteomatics afirma que abrirá uma segunda base operacional de drones meteorológicos no Aeroporto Regional McAlester, em Oklahoma, a primeira em um aeroporto ativo nos EUA. Seus Meteodrones voam de 50 a quase 20.000 pés, alimentando as previsões do Serviço Meteorológico Nacional no âmbito do Programa Nacional Mesonet da NOAA. A nova Meteobase de Oklahoma, a primeira em um aeroporto dos EUA, fornece dados de drones do coração do cinturão eólico dos EUA para previsões nacionais\nA Meteomatics, empresa de tecnologia e inteligência meteorológica que permite às empresas líderes mundiais prever com precisão o impacto do clima nos negócios, está aproximando seus drones meteorológicos dessas mudanças com uma nova Meteobase no Aeroporto Regional McAlester. McAlester também é o primeiro aeroporto ativo dos EUA a hospedar uma base operacional de drones meteorológicos."
 },
 {
-"id": "94e05fd5071028",
-"t": "Operações de drones proibidas na cidade durante a visita do vice-presidente em 21 e 22 de novembro",
-"r": "Operações de drones proibidas nas zonas vermelhas de Chennai de 21 a 22 de novembro, durante a visita do vice-presidente; voos autorizados pelo governo isentos de acordo com o pedido BNSS 2023.",
-"u": "https://timesofindia.indiatimes.com/city/chennai/drone-operations-banned-in-city-during-vps-visit-on-nov-21-and-22/articleshow/136000704.cms",
-"f": "The Times of India",
-"s": "timesofindia.indiatimes.com",
-"i": "",
-"d": "2026-11-19T14:28-03:00",
-"c": [
-"drones"
-],
-"l": 0,
-"to": "Drone operations banned in city during VP’s visit on Nov 21 and 22",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "The Times of India",
-"mx": 9,
-"rx": "Operações de drones proibidas nas zonas vermelhas de Chennai de 21 a 22 de novembro, durante a visita do vice-presidente; voos autorizados pelo governo isentos de acordo com o pedido BNSS 2023."
-},
-{
 "id": "50b34bf93ee39e",
 "t": "Ele aspira e lava o chão sem que você precise fazer nada: este aspirador robô a -55% é um sucesso na Amazon",
 "r": "Aspirar e depois esfregar, é isso: este robô Lefant M210 Pro cuida disso sozinho, sem você levantar um dedo. Um piso que já está limpo quando você volta do trabalho é o principal atrativo do aspirador robô Lefant M210 Pro. O aspirador robô Lefant M210 Pro custa 99,98 euros em vez de 219,99 euros na Amazon. O corpo de…",
@@ -16081,6 +16206,27 @@
 "cv": "Business Insider",
 "mx": 3,
 "rx": "19, 2026 (GLOBE NEWSWIRE) – RoboStrategy, Inc. (Nasdaq: BOT) (“RoboStrategy” ou o “Fundo”), um fundo fechado registrado que fornece exposição a empresas privadas em robótica e IA física, anunciou hoje que realizará um webcast ao vivo para investidores do segundo semestre de 2026 na segunda-feira, 14 de dezembro de 2026, às 11h ET. O webcast contará com uma apresentação do CEO da RoboStrategy, Andrew Kang, que fornecerá uma atualização sobre o portfólio da RoboStrategy e sua estratégia de longo prazo, bem como sobre o setor.\nRoboStrategy (NASDAQ: BOT) é o primeiro fundo dedicado a investir nas principais empresas privadas de robótica através de uma empresa de investimento listada publicamente. À medida que a robótica continua a penetrar na vida quotidiana, a RoboStrategy procura fornecer acesso ao mercado público às empresas que constroem esse futuro."
+},
+{
+"id": "94e05fd5071028",
+"t": "Operações de drones proibidas na cidade durante a visita do vice-presidente em 21 e 22 de novembro",
+"r": "Operações de drones proibidas nas zonas vermelhas de Chennai de 21 a 22 de novembro, durante a visita do vice-presidente; voos autorizados pelo governo isentos de acordo com o pedido BNSS 2023.",
+"u": "https://timesofindia.indiatimes.com/city/chennai/drone-operations-banned-in-city-during-vps-visit-on-nov-21-and-22/articleshow/136000704.cms",
+"f": "The Times of India",
+"s": "timesofindia.indiatimes.com",
+"i": "",
+"d": "2026-11-19T14:28-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Drone operations banned in city during VP’s visit on Nov 21 and 22",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "The Times of India",
+"mx": 9,
+"rx": "Operações de drones proibidas nas zonas vermelhas de Chennai de 21 a 22 de novembro, durante a visita do vice-presidente; voos autorizados pelo governo isentos de acordo com o pedido BNSS 2023."
 },
 {
 "id": "dd706b9b7fd810",
@@ -18243,7 +18389,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -45960,7 +46106,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -51849,7 +51995,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -67937,7 +68083,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -67966,7 +68112,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
