@@ -151,7 +151,8 @@
 "i": "https://biz.chosun.com/resizer/v2/G5ML4NKLYNCXHAA6MEBWMBJP3M.jpg?auth=e7ac4e6699612edd86d44c3ee0a81e78c10de601f3b39f857c90bd57f9607adb&width=1200&height=630&smart=true",
 "d": "2026-11-24T18:00-03:00",
 "c": [
-"cobots"
+"cobots",
+"logistica"
 ],
 "l": 1,
 "to": "Cobot System expands obstacle-crossing wheel technology into new markets",
@@ -491,7 +492,7 @@
 "u": "https://udn.com/news/story/7240/9898449",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-24T01:56-03:00",
 "c": [
 "negocios",
@@ -579,7 +580,7 @@
 "u": "https://money.udn.com/money/story/11074/9899462",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-24T13:30-03:00",
 "c": [
 "competicoes"
@@ -1578,6 +1579,27 @@
 "rx": "KYC e KYB: Zydus Lifesciences – Do balcão da farmácia às farmácias dos EUA."
 },
 {
+"id": "47bf768260f512",
+"t": "Saeon, aula de codificação familiar com robô autônomo no Centro de Educação da Universidade Nacional de Jinju",
+"r": "Crianças e pais que participaram do ‘2026 Coding & Maker with AI Camp’, realizado na Universidade Nacional de Educação de Jinju em 22 de novembro, estão tirando uma foto comemorativa. As famílias participantes usaram o robô autônomo ‘Altino’ de Saeon para realizar várias missões de IA e codificação durante 6 horas.",
+"u": "https://sports.donga.com/economy/article/all/20261124/135080333/1",
+"f": "스포츠동아",
+"s": "sports.donga.com",
+"i": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/24/135080396.1.jpg",
+"d": "2026-11-24T01:59-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "새온, 진주교대서 자율주행 로봇으로 가족 코딩 수업",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 2,
+"rx": "Crianças e pais que participaram do ‘2026 Coding & Maker with AI Camp’, realizado na Universidade Nacional de Educação de Jinju em 22 de novembro, estão tirando uma foto comemorativa. As famílias participantes usaram o robô autônomo ‘Altino’ de Saeon para realizar várias missões de IA e codificação durante 6 horas."
+},
+{
 "id": "9d814ab7f8292b",
 "t": "Imigração irregular: em Menton, a polícia está preocupada com apelos contra a vigilância da fronteira por drones",
 "r": "RELATÓRIO - O tribunal administrativo de Nice cancelou em setembro passado dois decretos municipais que autorizavam o sobrevoo de “aeronaves” utilizadas na luta contra a imigração ilegal. Para salvar um artigo você deve estar conectado, para poder visualizá-lo em todos os seus dispositivos. Com vista para as águas…",
@@ -2186,6 +2208,28 @@
 "rx": "A OTAN intensificou a vigilância do espaço aéreo no seu flanco oriental. O comandante-chefe das forças da Aliança na Europa, Alexus Grynkewich, aprovou a implantação de uma aeronave de alerta antecipado AWACS (Sistema Alemão de Alerta e Controle Aéreo...) para um local avançado na Lituânia, de acordo com a porta-voz Allison Hart. Está também a considerar a transferência de mais capacidades militares para a Polónia.\nO Ministro da Defesa polaco, Wladyslaw Kosiniak-Kamysz, considerou este aumento da implantação deste sistema como uma expressão dos compromissos da OTAN para com a Polónia. “As aeronaves de alerta precoce da Aliança já aumentam a proteção do espaço aéreo polaco”, assegurou."
 },
 {
+"id": "70397c573c5cb5",
+"t": "Um robô macio impresso em 3D corre a 17 quilômetros por hora sem usar eletrônicos",
+"r": "Engenheiros da Universidade da Califórnia, em San Diego, construíram um robô de seis pernas, feito apenas de materiais macios e impresso em 3D de uma só vez, que atinge 4,72 metros por segundo (cerca de 17 quilômetros por hora) sem quaisquer componentes eletrônicos. De acordo com a universidade, é o robô totalmente…",
+"u": "https://www.infobae.com/tecno/2026/11/24/un-robot-blando-impreso-en-3d-corre-a-17-kilometros-por-hora-sin-usar-electronica/",
+"f": "Infobae",
+"s": "infobae.com",
+"i": "https://www.infobae.com/resizer/v2/EP4NJHN6TBFHDPGLBFM66SCORQ.png?auth=21d783ecbe996823a033779eb3792766970b5ea175eaab003599c602a1a78411&smart=true&width=1200&height=630&quality=85",
+"d": "2026-11-24T14:44-03:00",
+"c": [
+"microrrobos",
+"ia"
+],
+"l": 0,
+"to": "Un robot blando impreso en 3D corre a 17 kilómetros por hora sin usar electrónica",
+"lg": "es",
+"p": 4.8,
+"cr": 3,
+"cv": "Infobae",
+"mx": 1,
+"rx": "Engenheiros da Universidade da Califórnia, em San Diego, construíram um robô de seis pernas, feito apenas de materiais macios e impresso em 3D de uma só vez, que atinge 4,72 metros por segundo (cerca de 17 quilômetros por hora) sem quaisquer componentes eletrônicos. De acordo com a universidade, é o robô totalmente macio mais rápido construído até agora. Seu primeiro robô macio movido a ar, impresso em 3D, desenvolvido em 2022, movia-se 4 centímetros por segundo.\nDentro do robô há uma série de câmaras, válvulas e tubos que movem as pernas quando o ar pressurizado circula. Segundo o artigo científico, com uma pressão de 408 quilopascais o robô dá 29 passos por segundo, e as pernas geram uma potência mecânica estimada em 169 watts."
+},
+{
 "id": "005954849bdcad",
 "t": "Sheinbaum busca aplicar modelo chinês de robôs em hospitais: “Devemos aproveitar a tecnologia”",
 "r": "A presidente Claudia Sheinbaum anunciou que será aplicado em nosso país o modelo chinês de utilização de robôs em hospitais, bem como o sistema de digitalização e automação que possui o sistema de saúde daquele país asiático — o que ela observou durante sua visita à China. Da sala do Tesouro, o chefe do Executivo…",
@@ -2250,6 +2294,27 @@
 "rx": "“O abismo (estagnação temporária da demanda) no mercado de veículos elétricos tornou-se, na verdade, uma oportunidade para descobrir novos negócios.” O diretor Kim Dong-ju (diretor executivo), que se reuniu no Centro de Pesquisa Física de IA da HT Robotics Co., Ltd. em Gumi-si, Gyeongsangbuk-do, disse isso no dia 24. Esta empresa, que possui tecnologia para produção de suportes de TV e peças automotivas, acumulou tecnologia de fundição de alumínio…"
 },
 {
+"id": "374a5ab9fa510f",
+"t": "“A força que puxa o tecido é muito forte”... Os robôs também ajudam os médicos a tomar decisões cirúrgicas",
+"r": "Uma demonstração do ‘console duplo’, que conecta dois ‘consoles de cirurgião (coordenadores de braço robótico)’ e permite que a equipe médica participe da cirurgia em conjunto (foto à esquerda), e o carrinho do lado do paciente do robô assistente cirúrgico Da Vinci 5.",
+"u": "https://www.donga.com/news/amp/all/20261124/135076891/2",
+"f": "동아일보",
+"s": "donga.com",
+"i": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/24/135076881.3.jpg",
+"d": "2026-11-24T16:30-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "“조직 당기는 힘이 너무 세요”… 로봇, ‘의사 수술 판단’도 돕는다",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Dong-A Ilbo",
+"mx": 1,
+"rx": "Uma demonstração do ‘console duplo’, que conecta dois ‘consoles de cirurgião (coordenadores de braço robótico)’ e permite que a equipe médica participe da cirurgia em conjunto (foto à esquerda), e o carrinho do lado do paciente do robô assistente cirúrgico Da Vinci 5."
+},
+{
 "id": "60f44cd108c485",
 "t": "“Hoje, percebemos que o progresso na IA pode ser incorporado em robôs”",
 "r": "Pelo oitavo ano, o Libération se coloca nas cores e nos textos da juventude para a Feira do Livro de Montreuil, que acontece de 25 a 30 de novembro de 2026. Justin Carpentier, diretor de pesquisa do Instituto Nacional de Pesquisa em Ciência da Computação e Automação (Inria), chefe da equipe do projeto Willow no Centro…",
@@ -2259,7 +2324,7 @@
 "i": "https://www.liberation.fr/resizer/v2/HR5MDXG63NACPIO6EW7D2YKMJA.jpg?auth=9f910942d9442c3424e959c541672f983a1c425722f0a06cb8b8326aeba1857a&quality=70&width=1200&height=630&focal=3178%2C1633",
 "d": "2026-11-24T16:46-03:00",
 "c": [
-"geral"
+"competicoes"
 ],
 "l": 0,
 "to": "«Aujourd’hui, on réalise que les progrès de l’IA peuvent s’incarner dans des robots»",
@@ -2313,6 +2378,153 @@
 "cv": "The Times of India",
 "mx": 1,
 "rx": "À medida que a Índia procura expandir as suas capacidades em robótica e tecnologia espacial, a Fundação da Família Bhupat e Jyoti Mehta está a investir nas pessoas que ajudarão a construí-las. Em parceria com vários IITs, a fundação planeja desenvolver programas especializados em robótica, IA física e engenharia espacial e…"
+},
+{
+"id": "da1fb4dc697f67",
+"t": "RCMP usa tecnologia drone para ficar à frente dos criminosos",
+"r": "Sargento John White, da RCMP da Nova Escócia, fala sobre o uso da tecnologia drone.",
+"u": "https://www.ctvnews.ca/atlantic/video/2026/11/24/rcmp-using-drone-technology-to-stay-ahead-of-criminals/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-24-2026%2Ft_2defb7364fbc4076b62c5ed104c8b38d_name_ATV112426_WHITE_frame_6141.jpeg?smart=true&auth=aab5fa8003cc28f07dbb0879cddc452cbdb3a78c192fdaf504a4ee5ff0d418ef&width=1200&height=630",
+"d": "2026-11-24T19:55-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "RCMP using drone technology to stay ahead of criminals",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "Sargento John White, da RCMP da Nova Escócia, fala sobre o uso da tecnologia drone."
+},
+{
+"id": "dd028fd539848f",
+"t": "‘Dependemos deles mais do que costumávamos’: o uso de drones RCMP continua a crescer",
+"r": "À medida que a tecnologia dos drones continua a crescer e a avançar, a RCMP nas Marítimas está a utilizá-la mais para uma variedade de casos.",
+"u": "https://www.ctvnews.ca/atlantic/nova-scotia/article/we-depend-on-them-more-than-we-used-to-rcmp-drone-use-continues-to-grow/",
+"f": "CTV News",
+"s": "ctvnews.ca",
+"i": "https://www.ctvnews.ca/resizer/v2/CWY7Q7QYY5DLXEWDI2XETVXMWU.jpg?smart=true&auth=e03d7abc40ed77e14afa3071617947be3b36c69f1602df19ba68f9b7d93e602e&width=1200&height=630",
+"d": "2026-11-24T20:11-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "‘We depend on them more than we used to’: RCMP drone use continues to grow",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CTV News",
+"mx": 1,
+"rx": "À medida que a tecnologia dos drones continua a crescer e a avançar, a RCMP nas Marítimas está a utilizá-la mais para uma variedade de casos."
+},
+{
+"id": "7cbd6902d9d013",
+"t": "Empresas que usarão o ‘Samsung Robot’… Os estoques de peças de robôs estão começando a ser identificados.",
+"r": "“O retorno de Jensen Hwang resolve a incerteza do investimento em IA… Catalisador para a recuperação de Samchonix” KB Securities analisou no dia 25, “O retorno do CEO Jensen Hwang à NVIDIA é positivo em termos de aliviar a incerteza em torno do investimento global em IA e garantir a continuidade do roteiro de…",
+"u": "https://www.hankyung.com/article/2026112583446",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46536414.1.jpg",
+"d": "2026-11-24T20:25-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "'삼성 로봇'에 올라탈 기업은…로봇 부품주 옥석 가리기 시작",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "“O retorno de Jensen Hwang resolve a incerteza do investimento em IA… Catalisador para a recuperação de Samchonix” KB Securities analisou no dia 25, “O retorno do CEO Jensen Hwang à NVIDIA é positivo em termos de aliviar a incerteza em torno do investimento global em IA e garantir a continuidade do roteiro de tecnologia e estratégia de negócios de médio a longo prazo da IA.” Esta empresa de valores mobiliários... ‘Jensen Hwang está de volta, o que é isso?’… Formigas Samchunix estão borbulhando [Stock +] Os preços das ações das principais empresas de semicondutores Samsung Electronics e SK Hynix se recuperaram fortemente pela primeira vez em muito tempo com a notícia do retorno do CEO da Nvidia, Jensen Hwang. A estrutura de 'finanças circulares' da NVIDIA, que fornece fundos para o ecossistema de inteligência artificial (IA), tem continuidade... Após a notícia do retorno do CEO da NVIDIA, Jensen Huang, ações relacionadas à infraestrutura de inteligência artificial (IA), como semicondutores, substratos e dispositivos de energia, estão disparando no mercado de ações doméstico. A estrutura de 'finanças circulares' liderada pelo CEO Hwang garante continuidade..."
+},
+{
+"id": "c61bf45ab0a82b",
+"t": "Curexo, robô para cirurgia de articulações artificiais entra na Itália… Expansão do mercado europeu",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. ISS, Glass Lewis e Oscotek Kim Seong-yeon se opõem a todos os candidatos a diretores propostos pelos acionistas Os consultores globais de direitos de voto ISS e Glass Lewis recomendaram oposição a todos os candidatos a diretores…",
+"u": "https://www.hankyung.com/article/202611258369i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46536443.1.png",
+"d": "2026-11-24T20:27-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "큐렉소, 인공관절 수술로봇 이탈리아 진출…유럽 시장 확대",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. ISS, Glass Lewis e Oscotek Kim Seong-yeon se opõem a todos os candidatos a diretores propostos pelos acionistas Os consultores globais de direitos de voto ISS e Glass Lewis recomendaram oposição a todos os candidatos a diretores e auditores recomendados pelas propostas dos acionistas na assembleia geral extraordinária de acionistas da Oscotek a ser realizada no dia 1º do próximo mês. Por outro lado, todos os candidatos a diretor e auditor recomendados pelo conselho de administração da Oscotek são... A Onconic Therapeutics está expandindo o escopo de desenvolvimento do 'OCN-501', um novo candidato a medicamento para o metabolismo muscular, desde a combinação do tratamento da obesidade até a doença de perda muscular que ocorre em pacientes com câncer. Onconic Therapeutics será realizada em Washington, DC, EUA, de 10 a 12 de dezembro... Doctor Now anunciou no dia 19 que o número de tratamentos médicos no terceiro trimestre deste ano ultrapassou 910 mil, um aumento de 108% em relação ao mesmo período do ano passado. Foi revelado. Incluindo os 1,45 milhões de tratamentos médicos no primeiro semestre deste ano, o número acumulado de tratamentos médicos em Setembro é de 2,46 milhões. A média mensal de atendimento médico no segundo semestre..."
+},
+{
+"id": "239b1e4a106884",
+"t": "A Samsung uniu forças para criar um ‘robô grelhador de carne’ e ele se tornou um grande sucesso… Os eletrodomésticos com IA estão ficando maiores",
+"r": "“Peguei melancias na época das chuvas e morangos no verão”… Lotte Mart, aumentando a competitividade dos produtos agrícolas A Lotte Mart anunciou no dia 25 que vai ampliar a escala de operação do 'Naeil Farm', um projeto de produtos agrícolas que utiliza tecnologia agrícola de ponta. Tomorrow Farm é um projeto…",
+"u": "https://www.hankyung.com/article/202611258429g",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/99.24752068.1.jpg",
+"d": "2026-11-24T20:54-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "삼성 나와 '고기 굽는 로봇' 만들어 대박 나더니…판 커지는 AI 가전",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "“Peguei melancias na época das chuvas e morangos no verão”… Lotte Mart, aumentando a competitividade dos produtos agrícolas A Lotte Mart anunciou no dia 25 que vai ampliar a escala de operação do 'Naeil Farm', um projeto de produtos agrícolas que utiliza tecnologia agrícola de ponta. Tomorrow Farm é um projeto planejado para reduzir a incerteza na oferta e demanda de produtos agrícolas e os desvios de qualidade devido às mudanças climáticas, e no ano passado... Alemanha e Japão também levantaram a bandeira branca... O déficit da Samsung deverá dobrar [Techlog] \"Exportar ou fechar\" A situação atual na indústria global de eletrodomésticos é tão forte que pode ser resumida da seguinte forma. Até mesmo “marcas de eletrodomésticos” bem conhecidas enfrentam o peso da procura lenta e do aumento dos custos de produção... Seul foi considerada à frente dos centros globais de tecnologia da informação (TI), como São Francisco, nos EUA, e Pequim, na China, quando se trata de introdução de inteligência artificial (IA) em toda a cidade. Classificada em 2º lugar no mundo por dois anos consecutivos, com foco no uso de IA na educação, administração e indústria..."
+},
+{
+"id": "1fb004dd198318",
+"t": "Wakayama: Experiência apenas com robôs animais: notícias regionais",
+"r": "Eu trabalho com uma equipe chamada ``Kokorobo'' no Adventure World e faço robôs animais. Pessoalmente, acredito que a melhor maneira de experimentar o encanto dos animais é ver os animais reais. Isso ocorre porque os robôs têm um papel diferente dos animais reais. Até agora, os humanos controlavam a natação usando…",
+"u": "https://www.yomiuri.co.jp/local/wakayama/feature/CO100006/20261125-GYTAT00001/",
+"f": "読売新聞",
+"s": "yomiuri.co.jp",
+"i": "https://www.yomiuri.co.jp/media/2026/11/20261125-GYTAI00002-1.jpg?type=ogp",
+"d": "2026-11-24T21:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "和歌山：動物ロボットだけの体験：地域ニュース",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Yomiuri Shimbun",
+"mx": 1,
+"rx": "Eu trabalho com uma equipe chamada ``Kokorobo'' no Adventure World e faço robôs animais. Pessoalmente, acredito que a melhor maneira de experimentar o encanto dos animais é ver os animais reais. Isso ocorre porque os robôs têm um papel diferente dos animais reais. Até agora, os humanos controlavam a natação usando controles de rádio, mas desta vez tentamos a “natação automática”, na qual o robô nada de acordo com o ambiente ao seu redor usando sensores e outros dispositivos.\nAo fazer robôs, é essencial saber como a coisa real se move. O robô pinguim Humboldt está em exposição ao lado da piscina onde vivem os verdadeiros."
+},
+{
+"id": "39361cdb7626a0",
+"t": "Os robôs com mais eixos são mais versáteis? Critérios de seleção para cada aplicação considerando graus de liberdade, sistema de coordenadas e prevenção de interferências",
+"r": "Os robôs articulados verticais geralmente possuem seis eixos e um braço humano possui sete graus de liberdade. Olhando apenas para esses números, parece que o robô com mais eixos é melhor. Aqui organizaremos a quantidade de eixos necessários para cada aplicação com base no conceito de graus de liberdade e sistemas de…",
+"u": "https://robotstart.info/article/2026/11/25/382665.html",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "https://robotstart.info/imgs/ogp_f/109682.jpg",
+"d": "2026-11-24T21:00-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "軸数が多いロボットほど万能か 自由度・座標系・干渉回避から考える用途別の選定基準",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 1,
+"rx": "Os robôs articulados verticais geralmente possuem seis eixos e um braço humano possui sete graus de liberdade. Olhando apenas para esses números, parece que o robô com mais eixos é melhor. Aqui organizaremos a quantidade de eixos necessários para cada aplicação com base no conceito de graus de liberdade e sistemas de coordenadas. As partes móveis de um robô são chamadas de juntas e eixos, e seu número também é expresso em graus de liberdade.\nOs robôs articulados verticais geralmente possuem uma configuração na qual o primeiro ao terceiro eixo move o pulso para o local desejado e o quarto ao sexto eixo determina a direção da ferramenta. Um sistema de coordenadas cuja origem é a base do robô é chamado de sistema de coordenadas de base."
 },
 {
 "id": "37246ad7e867fe",
@@ -2545,7 +2757,7 @@
 "p": 4.3,
 "cr": 3,
 "cv": "Forbes",
-"mx": 1
+"mx": 2
 },
 {
 "id": "d1e4b5a186b69b",
@@ -2852,26 +3064,6 @@
 "cv": "ETNews",
 "mx": 1,
 "rx": "O Brills está aumentando à medida que o sentimento de investimento em toda a indústria de robôs está revivendo rapidamente. Brills (468670) estava sendo negociado a 11.550 won às 13h48. em 24 de novembro, alta de 13,91% em relação ao pregão anterior. A tendência ascendente das ações relacionadas com robôs pode ser interpretada como o resultado de um melhor sentimento de investimento em ações globais de tecnologia e do aumento das expectativas para a expansão da automação na indústria transformadora. Na Bolsa de Valores de Nova York no dia 23 (horário local), o preço das ações da Nvidia subiu 31,48%, fechando em US$ 165,05, com a notícia do retorno do CEO da Nvidia, Jensen Huang. A perspetiva de que a procura de robôs industriais e robôs colaborativos aumentará à medida que a escassez de mão-de-obra da indústria transformadora global e o aumento dos custos laborais também está a atuar como um fator positivo. À medida que grandes empresas nacionais, como Samsung Electronics e LG Electronics, selecionam os robôs como o negócio de crescimento da próxima geração e aceleram a colaboração e o investimento com empresas relacionadas, a área de utilização de robôs está se expandindo de simples tarefas repetitivas para logística, montagem de precisão e inspeção. Assim, a tendência de compra está se espalhando não apenas para fabricantes de robôs completos, mas também para empresas que fornecem soluções de automação e peças essenciais."
-},
-{
-"id": "47bf768260f512",
-"t": "Saeon, aula de codificação familiar com robô autônomo no Centro de Educação da Universidade Nacional de Jinju",
-"r": "",
-"u": "https://sports.donga.com/economy/article/all/20261124/135080333/1",
-"f": "스포츠동아",
-"s": "sports.donga.com",
-"i": "",
-"d": "2026-11-24T01:59-03:00",
-"c": [
-"ia"
-],
-"l": 0,
-"to": "새온, 진주교대서 자율주행 로봇으로 가족 코딩 수업",
-"lg": "ko",
-"p": 3.5,
-"cr": 3,
-"cv": "Dong-A Ilbo",
-"mx": 1
 },
 {
 "id": "dd9bc91dd58c03",
@@ -3314,7 +3506,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "The New York Times",
-"mx": 1
+"mx": 2
 },
 {
 "id": "9dafc067dd0a6b",
@@ -3594,6 +3786,28 @@
 "rx": "Em 23 de setembro, a MiFeng Technology lançou a plataforma \"Mifengpai\" em Xangai, que está tentando converter em lote essa parte da experiência em dados que os robôs possam aprender. Meifengpai abre suas tarefas de coleta ao público, e as operações registradas por pessoas comuns precisam passar por um link de processamento completo para se tornarem dados de treinamento disponíveis para o modelo. A Tecnologia Meifeng usa tecnologia de conversão de ação Retarget para mapear trajetórias de operação humana em diferentes corpos de robôs. Esta é a ideia de \"coleta de dados sem corpo\" enfatizada pela Tecnologia Meifeng: nenhum robô específico está vinculado à coleta, e a operação real da pessoa é registrada primeiro e depois adaptada a diferentes modelos e hardware por meio de reconstrução de trajetória e conversão de ação, para que um dado possa servir a mais robôs."
 },
 {
+"id": "c95d4d6b412196",
+"t": "Zhiping passou no \"Grande Exame\" da APEC e venceu o campeonato em termos de número de cenários de robôs inteligentes gerais do tipo produção, escala de implantação e número de usuários do serviço.",
+"r": "Dezenas de robôs inteligentes de uso geral da série AlphaBot (Aibo) estão em serviço coletivo, cobrindo vários cenários, como locais de conferências, cidades, aeroportos, indústrias e emergências. Eles ganharam os três \"primeiros\" nos cenários de serviço de robô inteligente de uso geral mais produtivos da APEC…",
+"u": "https://www.ithome.com/1/031/421.htm",
+"f": "IT之家",
+"s": "ithome.com",
+"i": "",
+"d": "2026-11-24T00:57-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "智平方通过APEC“大考”，包揽生产力型通用智能机器人场景数量、部署规模、服务人次三料冠军",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Dezenas de robôs inteligentes de uso geral da série AlphaBot (Aibo) estão em serviço coletivo, cobrindo vários cenários, como locais de conferências, cidades, aeroportos, indústrias e emergências. Eles ganharam os três \"primeiros\" nos cenários de serviço de robô inteligente de uso geral mais produtivos da APEC, cobrindo a maioria dos tipos de cenários de serviço, o maior número de implantações reais e o maior número de pessoas atendidas, entregando uma folha de respostas da área da Grande Baía para a APEC.\n7 AIBOs formam a maior equipe de serviço de robôs inteligentes incorporados no centro de notícias. Desde a implantação de serviços a nível de cidade da APEC de Shenzhen, às tarefas industriais dos portos e aeroportos de Singapura, à cooperação vertical e horizontal em mercados como Hong Kong, Indonésia e Coreia do Sul, Zhiping está a impulsionar robôs inteligentes em geral para um cenário industrial global mais amplo."
+},
+{
 "id": "ab362831d7ef48",
 "t": "Os três principais índices de ações A fecharam com ganhos e perdas mistos, e o conceito de robôs continuou a subir",
 "r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
@@ -3697,7 +3911,7 @@
 "p": 2.2,
 "cr": 2,
 "cv": "Gizmodo",
-"mx": 1
+"mx": 2
 }
 ],
 "2026-11-23": [
@@ -18579,6 +18793,35 @@
 ]
 },
 {
+"id": "f4887451b1b7f7",
+"t": "CSS Holdings [2304]: Mudando o futuro dos serviços com IA x robôs x capacidades no local. ~Assumindo uma nova etapa em parceria com a TechMagic~ 20 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
+"r": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF",
+"u": "https://www.nikkei.com/nkd/disclosure/tdnr/20261120583833/",
+"f": "日本経済新聞",
+"s": "nikkei.com",
+"i": "https://www.nikkei.com/nkd/disclosure/tdnr/20261120583833/thumbnail/?ttype=ogp",
+"d": "2026-11-19T22:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "ＣＳＳホールディングス[2304]：AI×ロボット×現場力で、サービスの未来を変えていく。～TechMagic社とのパートナーシップで挑む、新たなステージへ～ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
+"lg": "ja",
+"p": 6.3,
+"cr": 3,
+"cv": "Nikkei Asia",
+"mx": 1,
+"rx": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF",
+"o": [
+{
+"f": "株探",
+"u": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261120/g8pgqh/140120261120583833.pdf",
+"s": "nikkei.com",
+"id": "317cb08331f2e9"
+}
+]
+},
+{
 "id": "31d24e91b986a1",
 "t": "Marubun começa a lidar com braços robóticos ultraleves e humanóides Assina acordo de distribuição doméstica com RealMan",
 "r": "A empresa de comércio de eletrônicos Marubun Co., Ltd. anunciou que assinou um acordo de distribuição doméstica com a RealMan Robotics (RealMan), uma empresa chinesa que produz hardware ultraleve e infraestrutura de dados para IA física. Começaremos a lidar com os braços robóticos ultraleves da empresa, módulos…",
@@ -20886,27 +21129,6 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "Lee & Ko, liderados pelo sócio-gerente Kim Sang-gon, e a Sociedade Coreana de Ética na Internet serão co-organizadores de um seminário intitulado \"Projetando novas normas para a coexistência humano-robô na era da IA ​​física\" às 14h. no dia 27, no Edifício Hanjin, o novo anexo do escritório de advocacia no distrito de Jung, em Seul. O seminário foi organizado para examinar questões-chave, incluindo o desenvolvimento da indústria robótica, padrões de segurança, responsabilidade legal em acidentes e transições de emprego.\nO seminário começará com os comentários de abertura de Sun Ji-won, presidente da Sociedade Coreana de Ética na Internet, e um discurso de boas-vindas de Kim Sang-gon, sócio-gerente da Lee & Ko. A terceira sessão, “Transição de emprego e aceitação social”, será liderada pelo conselheiro da Lee & Ko, Kim Jung-sam."
-},
-{
-"id": "f4887451b1b7f7",
-"t": "CSS Holdings [2304]: Mudando o futuro dos serviços com IA x robôs x capacidades no local. ~Assumindo uma nova etapa em parceria com a TechMagic~ 20 de novembro de 2026 (divulgação oportuna): Nikkei Company Information DIGITAL",
-"r": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF",
-"u": "https://www.nikkei.com/nkd/disclosure/tdnr/20261120583833/",
-"f": "日本経済新聞",
-"s": "nikkei.com",
-"i": "https://www.nikkei.com/nkd/disclosure/tdnr/20261120583833/thumbnail/?ttype=ogp",
-"d": "2026-11-19T22:00-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "ＣＳＳホールディングス[2304]：AI×ロボット×現場力で、サービスの未来を変えていく。～TechMagic社とのパートナーシップで挑む、新たなステージへ～ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Nikkei Asia",
-"mx": 1,
-"rx": "20 de novembro de 2026 Você pode visualizar o documento de divulgação da CSS Holdings [2304] ``Mudando o futuro dos serviços com IA x robôs x recursos no local. ~Assumindo uma nova etapa em parceria com a TechMagic~''. Os materiais podem ser baixados em PDF"
 },
 {
 "id": "300d27b03f26db",
@@ -23713,7 +23935,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -25805,7 +26027,7 @@
 "i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=999",
 "d": "2026-11-18T05:00-03:00",
 "c": [
-"geral"
+"subaquaticos"
 ],
 "l": 0,
 "to": "Nauticus Robotics Earnings Call Signals Progress Amid Uncertainty",
@@ -29028,7 +29250,7 @@
 "u": "https://udn.com/news/story/7252/9885053",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-17T11:03-03:00",
 "c": [
 "competicoes"
@@ -51473,7 +51695,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -56994,7 +57216,7 @@
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia",
@@ -57362,7 +57584,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -73450,7 +73672,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -73479,7 +73701,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://money.udn.com/static/img/moneyudn.jpg",
+"i": "https://udn.com/static/img/UDN_BABY.png",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
