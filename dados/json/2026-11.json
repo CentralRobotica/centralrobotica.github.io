@@ -7,7 +7,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/25/overhead-safeguard-for-humanoid-robots-ceilix-showcases-new-ceiling-system-at-the-humanoids-summit-in-silicon-valley/27437",
 "f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-25T10:46-03:00",
 "c": [
 "humanoides",
@@ -20,7 +20,7 @@
 "p": 12.4,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"mx": 1,
+"mx": 9,
 "rx": "O módulo combina rastreamento baseado em câmera com proteção contra quedas integrada montada no teto. Ele dá aos robôs humanóides máxima liberdade de movimento durante o treinamento, manutenção e operação ativa – sem ocupar espaço valioso. A empresa de alta tecnologia CeiliX está abrindo um novo campo de aplicação para sua tecnologia de automação aérea, apresentando pela primeira vez o novo Kit Humanoid no Humanoids Summit. Compatibilidade entre fabricantes e pronto para uso A detecção baseada em câmera do Humanoid Kit funciona entre fabricantes e oferece suporte a robôs humanóides de diferentes fornecedores sem exigir treinamento adicional de modelo. CeiliX no Humanoids Summit Os visitantes do Humanoids Summit podem se conectar com a equipe CeiliX no estande 71 para explorar aplicações para o Humanoid Kit e discutir como proteger e dimensionar a robótica humanóide em soluções personalizadas."
 },
 {
@@ -54,7 +54,8 @@
 "i": "https://www.dizzotv.com/site/data/img_dir/2026/11/25/2026112580162_0.jpg",
 "d": "2026-11-25T04:03-03:00",
 "c": [
-"inspecao"
+"inspecao",
+"resgate"
 ],
 "l": 1,
 "to": "인텔리빅스, 건설현장 누비는 AI 순찰로봇 '아르고스' 공개",
@@ -174,6 +175,27 @@
 "cv": "Impress Watch",
 "mx": 1,
 "rx": "O aspirador robô da Tapo está à venda com preço especial na Amazon. O aspirador robô \"Rv50 Pro Omni\" está equipado com uma estação multifuncional com funções automáticas de coleta de lixo, esfregão e secagem, e pode ser usado sem manutenção por até 60 dias.\nAo limpar carpetes de pêlo longo, o esfregão é removido automaticamente, para que você possa aspirar sem molhar o carpete. Observe que os itens em promoção podem esgotar ou a venda em si pode ser cancelada, portanto, certifique-se de que o item que você está procurando está com o preço de venda antes de comprar."
+},
+{
+"id": "1fc16ab9c959ce",
+"t": "Este drone apresenta a melhor relação qualidade/preço na nossa comparação",
+"r": "Lançado em meados de setembro de 2025 pela DJI, o drone Mini 5 Pro eleva ainda mais a fasquia com um novo sensor de 50 Mpx de 1 polegada e uma nacela capaz de girar até 225°.",
+"u": "https://www.lesnumeriques.com/drone/ce-drone-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n268554.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/24/243618/ff2a18eb-dji-mini-5-pro-enfin-la-qualite-pro-dans-un-drone-de-poche__1200_678__0-239-1196-866_wtmk.webp",
+"d": "2026-11-25T14:07-03:00",
+"c": [
+"drones"
+],
+"l": 1,
+"to": "Ce drone présente le meilleur rapport qualité / prix de notre comparatif",
+"lg": "fr",
+"p": 9.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "Lançado em meados de setembro de 2025 pela DJI, o drone Mini 5 Pro eleva ainda mais a fasquia com um novo sensor de 50 Mpx de 1 polegada e uma nacela capaz de girar até 225°."
 },
 {
 "id": "59536c04423a36",
@@ -368,6 +390,28 @@
 "rx": "O Ministério da Indústria e Tecnologia de Türkiye lançou um apelo para desenvolver robôs humanoides industriais domésticos, oferecendo subsídios que cobrem 50% dos custos elegíveis do projeto. O programa tem como alvo máquinas bípedes para fabricação, montagem, logística e usinagem de precisão, de acordo com um relatório da Agência Anadolu publicado pelo Daily Sabah em 23 de novembro. O programa de robôs humanóides Türkiye apoiará projetos com duração de até 48 meses, abrangendo design, prototipagem, testes, validação e implantação no mundo real. Os seus requisitos técnicos descrevem metas de desenvolvimento, em vez das capacidades de um robô turco existente.\nA chamada requer robôs com pelo menos 1,6 metro de altura, capazes de operar por pelo menos quatro horas em tarefas mistas."
 },
 {
+"id": "8a3f378691e15f",
+"t": "A FCC deve se concentrar na segurança dos robôs, não no país de origem",
+"r": "O robô quadrúpede Go2 da Unitree, um proeminente desenvolvedor de robôs chinês. | Fonte: Unitree A FCC está certa em tratar os robôs conectados como uma questão de segurança. A sua recente acção que restringe dispositivos robóticos avançados produzidos no estrangeiro reflecte um risco real. Essas máquinas carregam câmeras e sensores, transmitem dados, capturam…",
+"u": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+"f": "The Robot Report",
+"s": "therobotreport.com",
+"i": "https://www.therobotreport.com/wp-content/uploads/2026/11/unitreequadruped-featured.jpg",
+"d": "2026-11-25T14:00-03:00",
+"c": [
+"quadrupedes"
+],
+"l": 0,
+"to": "FCC should focus on robot security, not country of origin",
+"lg": "en",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "The Robot Report",
+"mx": 1,
+"rx": "A FCC tem razão em tratar os robôs conectados como uma questão de segurança. Um robô construído inteiramente nos Estados Unidos, com atualizações não assinadas e acesso remoto aberto, representa um risco maior do que um construído no exterior com software seguro. A FCC já reconheceu que um robô é definido pelo seu software. David Pinn assumiu o cargo de CEO da Brain Corp em 2022, onde ocupou vários cargos executivos desde que ingressou em 2017, incluindo diretor de estratégia e diretor financeiro.\nAntes de ingressar na Brain Corp, Pinn atuou como chefe de finanças da Antenna79, uma startup de tecnologia apoiada por L Catterton, o maior grupo de private equity do mundo com foco no consumidor, onde facilitou a captação de US$ 94,9 milhões em financiamento de private equity."
+},
+{
 "id": "5b5840a87d36b6",
 "t": "Comunicado de imprensa: [Universidade Kyoto Tachibana] O artesanato pode ser herdado pela IA? - O desafio da robótica de IA para conectar indústrias tradicionais, habilidades qualificadas e cultura ao futuro - palestra especial RoboNext2026 realizada (PR TIMES)",
 "r": "A Universidade Kyoto Tachibana dará uma palestra especial no \"RoboNext2026\" (patrocinado pela Japan Robot Association, Nikkan Kogyo Shimbun) a ser realizada na Intex Osaka na sexta-feira, 4 de dezembro de 2026, \"O artesanato pode ser passado para a IA? - Robôs de IA que conectam indústrias tradicionais, habilidades…",
@@ -377,7 +421,8 @@
 "i": "https://www.asahi.com/and/ogp/ogp_and.png",
 "d": "2026-11-25T05:23-03:00",
 "c": [
-"ia"
+"ia",
+"competicoes"
 ],
 "l": 0,
 "to": "プレスリリース：［京都橘大学］匠の技はAIに受け継げるのか-伝統産業・熟練技能・文化を未来へつなぐAIロボティクスの挑戦-RoboNext2026 特別講演開催（PR TIMES）",
@@ -436,7 +481,7 @@
 "i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35553962.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
 "d": "2026-11-25T10:46-03:00",
 "c": [
-"geral"
+"ia"
 ],
 "l": 0,
 "to": "大陸機器人產業洗牌 近兩年約30家企業退場",
@@ -1153,7 +1198,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/25/manufacturers-can-scale-industrial-intelligence-faster-with-schneider-electric-open-software-defined-automation-on-aws/27436",
 "f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-25T10:38-03:00",
 "c": [
 "industriais"
@@ -1165,7 +1210,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"mx": 1,
+"mx": 9,
 "rx": "- A Automação Aberta Definida por Software da Schneider Electric agora se integra à Nuvem AWS, à borda, aos recursos de segurança e de IA para ajudar os fabricantes a conectar a tecnologia operacional diretamente à inteligência da nuvem - Permite que os fabricantes simplifiquem a engenharia, implantem IA e análises mais rapidamente e dimensionem aplicativos comprovados em máquinas e locais - Combina computação em escala de nuvem com controle de chão de fábrica em tempo real, mantendo locais as cargas de trabalho de tempo crítico enquanto estende a Inteligência Industrial em todas as operações\nApresentada na SPS 2026, a Automação Aberta Definida por Software da Schneider Electric integra-se com os recursos de nuvem, edge, segurança e IA da AWS para simplificar a implantação, acelerar o dimensionamento e conectar dados operacionais mais diretamente à ação industrial."
 },
 {
@@ -1188,7 +1233,7 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 2
+"mx": 3
 },
 {
 "id": "6da133c3f744d5",
@@ -1209,9 +1254,9 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Robotics & Automation News",
-"cur": 1,
 "mx": 1,
-"rx": "A interrupção remonta a uma mensagem de rede atrasada, deixando os engenheiros investigando uma conexão em vez de um motor. Conseqüentemente, uma infraestrutura de rede confiável pertence à mesma conversa de engenharia que o desempenho da máquina. Para automação, a confiabilidade envolve tempo, capacidade disponível e separação de tráfego. Um comando atrasado pode interromper uma célula robótica; um veículo móvel deve desacelerar ou parar com segurança quando sua conexão for prejudicada.\nTambém amplia as consequências do mau planeamento da rede: uma ligação partilhada necessita de regras deliberadas sobre qual o tráfego que passa primeiro. As prioridades de tráfego e as consequências de uma conexão interrompida pertencem à revisão do projeto, antes que os gabinetes sejam construídos e os equipamentos de produção sejam conectados no chão de fábrica."
+"rx": "A interrupção remonta a uma mensagem de rede atrasada, deixando os engenheiros investigando uma conexão em vez de um motor. Conseqüentemente, uma infraestrutura de rede confiável pertence à mesma conversa de engenharia que o desempenho da máquina. Para automação, a confiabilidade envolve tempo, capacidade disponível e separação de tráfego. Um comando atrasado pode interromper uma célula robótica; um veículo móvel deve desacelerar ou parar com segurança quando sua conexão for prejudicada.\nTambém amplia as consequências do mau planeamento da rede: uma ligação partilhada necessita de regras deliberadas sobre qual o tráfego que passa primeiro. As prioridades de tráfego e as consequências de uma conexão interrompida pertencem à revisão do projeto, antes que os gabinetes sejam construídos e os equipamentos de produção sejam conectados no chão de fábrica.",
+"cur": 1
 },
 {
 "id": "99a9622a16dbd5",
@@ -1260,6 +1305,97 @@
 "rx": "Os inversores marítimos convertem a energia CC do seu banco de baterias para fornecer energia CA. O equipamento que pode ser alimentado depende da potência do inversor e da energia disponível no banco de baterias. Portanto, é importante escolher um Inversor Marítimo de especificação adequada com base no banco de baterias, cargas e aplicações em sua embarcação. Os inversores marítimos permitem que a energia do banco de baterias da embarcação seja convertida em CA para permitir a utilização deste equipamento.\nEsses recursos tornam o inversor adequado para alimentar uma variedade de equipamentos. A tensão da bateria também deve ser correta para o inversor. Como acima, a tensão da bateria deve estar correta e a potência combinada contínua e de inicialização não deve exceder a potência do inversor."
 },
 {
+"id": "eae8a16c098231",
+"t": "Como a DARPA desafiou as equipes a levar os robôs à triagem de desastres",
+"r": "Em 5 de novembro, 10 equipes invadiram uma cidade simulada de 52 acres em College Station, Texas, chamada Disaster City. Eles participaram de uma competição de nove dias para ver até que ponto equipes de robôs e humanos conseguiam navegar em catástrofes simuladas, como um mercado devastado por um tornado e um ataque noturno a uma base militar. No…",
+"u": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+"f": "IEEE Spectrum",
+"s": "spectrum.ieee.org",
+"i": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=980",
+"d": "2026-11-25T12:00-03:00",
+"c": [
+"defesa",
+"resgate",
+"competicoes"
+],
+"l": 0,
+"to": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "IEEE Spectrum",
+"mx": 1,
+"rx": "O mais recente grande desafio da agência de defesa visa provar que os robôs podem salvar vidas em emergências. Uma mulher que interpreta uma vítima de desastre pede ajuda enquanto um robô Spot da equipe RoboScout da Universidade de Maryland examina seus arredores durante as finais do DARPA Triage Challenge."
+},
+{
+"id": "a5ee50832d70ef",
+"t": "Xpeng quer produzir robôs humanóides em massa: isso é IRON",
+"r": "A indústria automotiva chinesa começa a explorar um negócio que vai muito além de fabricar carros elétricos e agora quer dar aulas também de como fazer robôs humanóides. A Xpeng quer agora trazer seus avanços em inteligência artificial e produção industrial para o mundo da robótica, com o Iron, um humanóide que busca…",
+"u": "https://www.eluniversal.com.mx/autopistas/xpeng-iron-asi-es-el-robot-humanoide-con-inteligencia-artificial-que-llegara-en-2027/",
+"f": "El Universal",
+"s": "eluniversal.com.mx",
+"i": "https://www.eluniversal.com.mx/resizer/v2/NWJDBSWNPFATVOL2JNEBGBQRGI.JPG?auth=b54e98144c9952b0c2bc695e7db5cd2c66d814c2c8b1f4d08b6cb3148e05beef",
+"d": "2026-11-25T13:19-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "Xpeng quiere fabricar robots humanoides en masa: así es IRON",
+"lg": "es",
+"p": 5.6,
+"cr": 3,
+"cv": "El Universal",
+"mx": 1,
+"rx": "A indústria automotiva chinesa começa a explorar um negócio que vai muito além de fabricar carros elétricos e agora quer dar aulas também de como fazer robôs humanóides. A Xpeng quer agora trazer seus avanços em inteligência artificial e produção industrial para o mundo da robótica, com o Iron, um humanóide que busca passar das demonstrações tecnológicas para o trabalho em cenários reais.\nA empresa pretende iniciar a produção em massa no final de 2026, com planos para implantar inicialmente os seus robôs nas suas próprias lojas e campi, antes de iniciar as entregas comerciais na China e outros mercados durante 2027."
+},
+{
+"id": "7531db83c4ad54",
+"t": "Robótica espacial: notas de uma sessão plenária IROS 2026",
+"r": "Por Emmet Cole A robótica espacial foi o foco de um painel plenário no IROS 2026 em Pittsburgh, onde palestrantes da NASA, JAXA e acadêmicos discutiram os papéis que os robôs desempenharão na exploração lunar, voos espaciais humanos e trabalho em órbita. Seus exemplos variaram desde o descarregamento de carga e construção de infraestrutura lunar até…",
+"u": "https://robohub.org/space-robotics-notes-from-an-iros-2026-plenary-session/",
+"f": "Robohub",
+"s": "robohub.org",
+"i": "https://robohub.org/wp-content/uploads/2026/11/piro4d-satellite-1820064-1024x539.jpg",
+"d": "2026-11-25T13:36-03:00",
+"c": [
+"espaco",
+"competicoes",
+"logistica"
+],
+"l": 0,
+"to": "Space robotics: notes from an IROS 2026 plenary session",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robohub",
+"mx": 1,
+"rx": "A robótica espacial foi o foco de um painel plenário no IROS 2026 em Pittsburgh, onde palestrantes da NASA, JAXA e acadêmicos discutiram os papéis que os robôs desempenharão na exploração lunar, voos espaciais humanos e trabalho em órbita. Seus exemplos variaram desde o descarregamento de carga e construção de infraestrutura lunar até a coleta de amostras de Fobos e a remoção de detritos espaciais. As apresentações também apontaram para uma questão mais ampla: como pode o investimento na robótica espacial promover capacidades importantes na Terra?\nAmbrose reconheceu que a órbita da Terra provavelmente continuará sendo o maior mercado espacial no futuro próximo. A maior parte da actividade espacial e do investimento estão concentrados lá, e é provável que esse mercado continue a crescer mesmo com a expansão da actividade lunar e, eventualmente, marciana. Ele descreveu a Estação Espacial Internacional como um exemplo de quanto trabalho robótico já ocorre em órbita."
+},
+{
+"id": "60b2be1be2baf7",
+"t": "Inteligência de enxame para superfícies: robôs em miniatura dão vida à pele artificial",
+"r": "Desde têxteis responsivos que criam uma nova experiência tátil em jogos até displays interativos, braços robóticos macios e sistemas de transporte de fábrica inteligentes – robôs em miniatura feitos de finas películas de polímero podem fornecer às superfícies uma ampla gama de funções novas e úteis. O grupo de pesquisa do professor Gianluca Rizzello…",
+"u": "https://techxplore.com/news/2026-11-swarm-intelligence-surfaces-miniature-robots.html",
+"f": "Tech Xplore",
+"s": "techxplore.com",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-students-saverio-a.jpg",
+"d": "2026-11-25T14:00-03:00",
+"c": [
+"microrrobos",
+"industriais"
+],
+"l": 0,
+"to": "Swarm intelligence for surfaces: Miniature robots bring artificial skin to life",
+"lg": "en",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Tech Xplore",
+"mx": 1
+},
+{
 "id": "3daf954d311153",
 "t": "Preço atual das ações da empresa de robôs (2026-11-25)",
 "r": "",
@@ -1287,10 +1423,10 @@
 "u": "https://www.roboticstomorrow.com/article/2026/11/the-robot-cell-that-pays-back-on-paper-and-drains-cash-for-a-year/27392",
 "f": "Robotics Tomorrow",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-25T01:01-03:00",
 "c": [
-"geral"
+"negocios"
 ],
 "l": 0,
 "to": "The Robot Cell That Pays Back on Paper and Drains Cash for a Year",
@@ -1298,7 +1434,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "Robotics Tomorrow",
-"mx": 1,
+"mx": 9,
 "rx": "Uma célula robótica pode ser o investimento certo e ainda assim ser comprada da maneira errada. O número de retorno informa à loja se ela deve comprar. Uma célula pode parecer excelente na demonstração de resultados e ainda assim deixar a conta bancária curta durante a maior parte do seu primeiro ano, porque o dinheiro sai muito antes de as poupanças entrarem. A loja espera que a célula economize $ 12.000 por mês em trabalho, ou $ 144.000 por ano, uma vez que funcione a toda velocidade.\nDurante a aceleração, a produção cai enquanto os operadores aprendem a usar a célula, o que custa à fábrica cerca de US$ 10.000 em perda de produção e horas extras no quinto mês. Depois que a célula estiver funcionando, a oficina poderá realizar mais trabalho. O ponto mais baixo acumulado chega no nono mês, com a loja caindo US$ 393.000 em uma célula de US$ 300.000."
 },
 {
@@ -1921,6 +2057,48 @@
 "rx": "Os gourmets poderão sujar as mãos sem inflacionar o orçamento! O robô pasteleiro multifuncional VEVOR beneficia de um desconto de 23% alguns dias antes da Black Friday. A Black Friday ainda não começou e a VEVOR já está sujando a mão com promoções! A sua pastelaria e processadora de alimentos multifunções de 1.300 W, equipada com liquidificador e picadora de carne, vê o seu preço cair de 119,90€ para apenas 91,90€.\nPão fresco, brioches macios, pizzas caseiras ou até bolos gourmet: o robô de pastelaria e culinária VEVOR facilita a confecção de muitas receitas graças ao seu motor de 1.300 W. Seus seis níveis de velocidade e sua função Pulse permitem adaptar a potência à consistência dos ingredientes que estão sendo processados."
 },
 {
+"id": "f6c41cbfe3eea8",
+"t": "Dynamic Aerospace Systems (OTCQB: BRQL) expande IP com três patentes inovadoras para UAV/Drones autônomos avançados",
+"r": "ANN ARBOR, MI / ACCESS Newswire / 25 de novembro de 2026 / Dynamic Aerospace Systems Corporation (OTCQB:BRQL), uma desenvolvedora norte-americana de veículos aéreos não tripulados avançados (UAVs) e plataformas de logística autônomas, registrou formalmente um portfólio abrangente de três pedidos de patentes…",
+"u": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/9003175/dynamic-aerospace-systems-otcqb-brql-expands-ip-with-three-breakthrough-patents-for-advanced-autonomous-uav-drones/",
+"f": "The Globe and Mail",
+"s": "theglobeandmail.com",
+"i": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=999",
+"d": "2026-11-25T10:45-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Dynamic Aerospace Systems (OTCQB: BRQL) Expands IP with Three Breakthrough Patents for Advanced Autonomous UAV/ Drones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Globe and Mail",
+"mx": 1,
+"rx": "ANN ARBOR, MI / ACCESS Newswire / 25 de novembro de 2026 / Dynamic Aerospace Systems Corporation (OTCQB:BRQL), uma desenvolvedora norte-americana de veículos aéreos não tripulados avançados (UAVs) e plataformas de logística autônomas, registrou formalmente um portfólio abrangente de três pedidos de patentes provisórias de referência que cobrem inovações básicas de design: o braço de bateria com ponta de lançamento para uma aeronave multirotor, o recipiente de pára-quedas ejetado com pólo de mola com um Porta de comprimento total e gatilho AI e compressão de célula mecanicamente isolada para braços de aeronaves com bateria.\nEsses três pedidos de patente abordam essas prioridades por meio de inovações em braços de aeronaves integrados à bateria, pontas que melhoram a sustentação, proteção estrutural da bateria e recuperação automatizada de pára-quedas\", disse Kent Wilson, CEO e presidente do Conselho de Sistemas Aeroespaciais Dinâmicos."
+},
+{
+"id": "72268bf100c3c1",
+"t": "Este estoque de robótica perdeu metade do seu valor. Veja por que o Citi diz que é uma compra",
+"r": "A Agility Robotics perdeu mais da metade de seu valor desde seu IPO, mas está posicionada para ver muitas vantagens se o mercado de robôs humanóides se expandir, de acordo com o Citi.",
+"u": "https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html",
+"f": "CNBC",
+"s": "cnbc.com",
+"i": "https://image.cnbcfm.com/api/v1/image/107302331-1695049060845-Agility_Robotics_-_DIGIT_-_3.jpeg?v=1695050859&w=1920&h=1080",
+"d": "2026-11-25T11:27-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "This robotics stock lost half its value. Here's why Citi says it's a buy",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "CNBC",
+"mx": 1,
+"rx": "A Agility Robotics perdeu mais da metade de seu valor desde seu IPO, mas está posicionada para ver muitas vantagens se o mercado de robôs humanóides se expandir, de acordo com o Citi."
+},
+{
 "id": "9e1fe731701380",
 "t": "Depois de levantar centenas de milhões de dólares em financiamento, ainda faliu. O que deu errado com as novas startups de robôs na China? | Política e Economia do Continente | Através do Estreito",
 "r": "※ Você pode repassar o link do artigo \"repostando\" ou \"compartilhando\"; por favor, não copie e repasse o conteúdo do artigo sem autorização.",
@@ -1942,6 +2120,27 @@
 "rx": "※ Você pode repassar o link do artigo \"repostando\" ou \"compartilhando\"; por favor, não copie e repasse o conteúdo do artigo sem autorização."
 },
 {
+"id": "6e5803b74d6620",
+"t": "IIT Palakkad oferece treinamento gratuito em tecnologia de drones para jovens de minorias",
+"r": "O Instituto Indiano de Tecnologia (IIT) Palakkad oferecerá um programa de treinamento gratuito de três meses em tecnologia de drones para jovens de comunidades minoritárias, com uma bolsa mensal para estagiários elegíveis. O programa, intitulado engenheiro júnior - drone (P&D), está sendo organizado no âmbito do…",
+"u": "https://www.thehindu.com/news/national/kerala/iit-palakkad-offers-free-drone-technology-training-for-minority-youth/article71743129.ece",
+"f": "The Hindu",
+"s": "thehindu.com",
+"i": "https://www.thehindu.com/theme/images/og-image.png",
+"d": "2026-11-25T12:12-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "IIT Palakkad offers free drone technology training for minority youth",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Hindu",
+"mx": 1,
+"rx": "O Instituto Indiano de Tecnologia (IIT) Palakkad oferecerá um programa de treinamento gratuito de três meses em tecnologia de drones para jovens de comunidades minoritárias, com uma bolsa mensal para estagiários elegíveis. O programa, intitulado engenheiro júnior - drone (P&D), está sendo organizado no âmbito do esquema PM VIKAS do Ministério de Assuntos Minoritários da União, através da IIT Palakkad Technology IHub Foundation (IPTIF).\nAqueles pertencentes a comunidades muçulmanas, cristãs, sikhs, budistas, jainistas e parsi, bem como pessoas com deficiência, podem candidatar-se, de acordo com uma declaração do IIT Palakkad. Abrangerá tecnologia de drones, sistemas de veículos aéreos não tripulados (UAV), montagem, operação, manutenção, solução de problemas e pesquisa e desenvolvimento."
+},
+{
 "id": "cd687d2308b7a1",
 "t": "Dreame Aqua20 Pro Ultra Roller X Complete, o robô que limpa com vapor e possui rolo extensível",
 "r": "Dreame lança na Itália seu novo modelo, o Aqua20 Pro Ultra Roller X Complete, apresentado na IFA 2026 e projetado para levar a limpeza automatizada a um nível superior. O novo modelo incorpora algumas soluções já vistas no X60 Pro Ultra Complete, mas apresenta diversas atualizações. Isso é um pouco menor que os 42.000…",
@@ -1961,6 +2160,70 @@
 "cv": "Il Sole 24 Ore",
 "mx": 1,
 "rx": "Dreame lança na Itália seu novo modelo, o Aqua20 Pro Ultra Roller X Complete, apresentado na IFA 2026 e projetado para levar a limpeza automatizada a um nível superior. O novo modelo incorpora algumas soluções já vistas no X60 Pro Ultra Complete, mas apresenta diversas atualizações. Isso é um pouco menor que os 42.000 Pa do X60 Pro Ultra Complete, mas 10.000 Pa maior que o Aqua10 Ultra Roller Complete anterior.\nO Aqua20 Pro Ultra Roller O Aqua10 Ultra Roller Complete anterior parou em dois limites de 4 cm cada. Apesar das atualizações, Dreame mantém um posicionamento de ponta para o Aqua20 Pro Ultra Roller"
+},
+{
+"id": "8961bf4995652c",
+"t": "Reino Unido: Força Aérea Britânica protege seus aviões à noite da ameaça de drones",
+"r": "A segurança das bases militares britânicas tem estado no centro das notícias nos últimos meses, após vários incidentes. As autoridades britânicas alertam regularmente sobre a ameaça representada pela Rússia, bem como pelo Irão. A Força Aérea Britânica decidiu transferir os seus aviões durante a noite para hangares ou…",
+"u": "https://www.lefigaro.fr/international/royaume-uni-l-armee-de-l-air-britannique-met-ses-avions-a-l-abri-la-nuit-face-a-la-menace-des-drones-20261125",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/25/245a7be08b6fc2fae5cc9b8a5c24bb8d35a104f06bccaf5b56ca0e391c3715c2.jpg",
+"d": "2026-11-25T13:02-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "Royaume-Uni : l'armée de l'air britannique met ses avions à l'abri la nuit face à la menace des drones",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "A segurança das bases militares britânicas tem estado no centro das notícias nos últimos meses, após vários incidentes. As autoridades britânicas alertam regularmente sobre a ameaça representada pela Rússia, bem como pelo Irão. A Força Aérea Britânica decidiu transferir os seus aviões durante a noite para hangares ou abrigos reforçados, a fim de protegê-los de possíveis ataques de drones, informaram o jornal The Times e a Sky News na quarta-feira, 25 de novembro.\nEm 13 de novembro, as forças americanas intervieram após suspeita de atividade não autorizada de drones sobre uma base da Royal Air Force (RAF) em Lakenheath (leste da Inglaterra), uma das principais bases utilizadas pelo exército americano no Reino Unido."
+},
+{
+"id": "685acc8d292575",
+"t": "Sete suspeitos presos em uma noite: nos arredores da prisão de Aix-Luynes, o rastreamento implacável de entregadores por drones",
+"r": "Os “narco-dronistas” foram presos pelas brigadas noturnas anticrime de Aix-en-Provence e Vitrolles. No entorno do centro penitenciário, aumentam as entregas clandestinas. Durante a noite de terça para quarta-feira, sete pessoas suspeitas de participarem na entrega de “pacotes” para reclusos do centro penitenciário…",
+"u": "https://www.lefigaro.fr/marseille/sept-suspects-arretes-en-une-nuit-autour-de-la-prison-d-aix-luynes-la-traque-sans-repit-des-livreurs-par-drone-20261125",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/25/74b321b70d0f094b3f0e4ada51f7a07b6d6a78701e1e501483e89e438a587900.jpg",
+"d": "2026-11-25T13:09-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Sept suspects arrêtés en une nuit : autour de la prison d’Aix-Luynes, la traque sans répit des livreurs par drone",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "Os “narco-dronistas” foram presos pelas brigadas noturnas anticrime de Aix-en-Provence e Vitrolles. No entorno do centro penitenciário, aumentam as entregas clandestinas. Durante a noite de terça para quarta-feira, sete pessoas suspeitas de participarem na entrega de “pacotes” para reclusos do centro penitenciário foram detidas por agentes da polícia da Brigada Noturna Anticrime (BAC N) de Aix-en-Provence.\nSegundo fontes policiais corroborantes, que confirmam informações dos nossos colegas da França 3, estas detenções ocorreram com pouco mais de três horas de intervalo nos arredores do centro penitenciário. Pouco antes da meia-noite, a tripulação do BAC N, bem versada nestes novos tipos de entregadores de narcóticos, foi alertada sobre um avião sobrevoando a prisão."
+},
+{
+"id": "aaf4aee1eabbbe",
+"t": "Vídeos de tirar o fôlego: este drone DJI e todos os seus acessórios custam menos de 280€",
+"r": "Graças a este drone DJI Neo vendido em pacote na Amazon com suas três baterias e controle remoto, beneficie de um kit pronto para operar assim que sai da caixa, mesmo sem qualquer conhecimento. O suficiente para dar uma nova dimensão aos seus vídeos de souvenir, desportivos ou profissionais. As fotos aéreas como no…",
+"u": "https://www.lefigaro.fr/bons-plans/high-tech/des-videos-a-couper-le-souffle-ce-drone-dji-et-tous-ses-accessoires-sont-a-moins-de-280-20261125",
+"f": "Le Figaro",
+"s": "lefigaro.fr",
+"i": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/23/786012c902968ed5310ed163e72d78475923184b4c31075ec42c835593fcc92a.jpg",
+"d": "2026-11-25T14:11-03:00",
+"c": [
+"drones"
+],
+"l": 0,
+"to": "Des vidéos à couper le souffle : ce drone DJI et tous ses accessoires sont à moins de 280 €",
+"lg": "fr",
+"p": 4.8,
+"cr": 3,
+"cv": "Le Figaro",
+"mx": 1,
+"rx": "Graças a este drone DJI Neo vendido em pacote na Amazon com suas três baterias e controle remoto, beneficie de um kit pronto para operar assim que sai da caixa, mesmo sem qualquer conhecimento. O suficiente para dar uma nova dimensão aos seus vídeos de souvenir, desportivos ou profissionais. As fotos aéreas como no cinema estão finalmente se tornando acessíveis ao maior número de pessoas possível com este mini drone DJI Neo pesando apenas 135 g. O pacote DJI Neo Fly More Combo custa 279 euros na Amazon, acompanhado de todos os seus acessórios e da sua estação de carregamento bidirecional.\nCaminhando nas montanhas, praticando mountain bike nas trilhas ou na pista de skate, o drone DJI Neo segue de forma inteligente o assunto para mantê-lo no centro do quadro e tirar fotos únicas, como se você tivesse sua própria equipe de filmagem."
 },
 {
 "id": "550dd4e52c5343",
@@ -2003,7 +2266,7 @@
 "p": 4.6,
 "cr": 3,
 "cv": "Leiphone (雷锋网)",
-"mx": 1,
+"mx": 2,
 "rx": "De acordo com Leifeng.com (conta pública: Leifeng.com), com base na plataforma de computação da série X100 incorporada AMD Ryzen AI, as duas partes concluíram a operação local de grande modelo, interação multimodal e verificação inteligente de agendamento de tarefas no robô humanóide Huiling CASBOT 02, e realizaram um ciclo fechado desde a compreensão da linguagem até a execução da ação. Com base nisso, Zhongke Huiling planeja usar ainda mais os processadores AMD Ryzen AI incorporados das séries X100 e P100 na próxima geração de robôs humanóides para construir uma arquitetura de computação colaborativa modular \"cérebro + cerebelo\".\nDe acordo com o plano, o robô humanóide de próxima geração de Zhongke Huiling planeja usar configurações de processador duplo da série X100 e série P100 incorporadas AMD Ryzen AI para realizar as tarefas de computação do \"cérebro\" e \"cerebelo\" do robô, respectivamente."
 },
 {
@@ -2745,7 +3008,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "NDTV",
-"mx": 2
+"mx": 3
 },
 {
 "id": "da99a0d23c885e",
@@ -2765,7 +3028,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Sky News",
-"mx": 2
+"mx": 3
 },
 {
 "id": "fe2a262cb71110",
@@ -2810,6 +3073,27 @@
 "rx": "O inverno não é necessariamente a estação para nadar, mas pode ser uma boa época para se preparar para o retorno dos dias de sol. O Beatbot AquaSense 2 Ultra, lançado por 3.850€, é oferecido por 2.699€ na Wellbots para a Black Friday. Com o código exclusivo WBXNUM10, que acrescenta 10% de desconto, o seu preço desce para 2.429€, ou menos 1.421€ que o preço de lançamento."
 },
 {
+"id": "8a7fcb323c33f2",
+"t": "China incorpora simulações de drones de ‘alas leais’ no treinamento de pilotos de caça",
+"r": "",
+"u": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
+"f": "South China Morning Post",
+"s": "scmp.com",
+"i": "",
+"d": "2026-11-25T11:00-03:00",
+"c": [
+"drones",
+"ia"
+],
+"l": 0,
+"to": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "South China Morning Post",
+"mx": 1
+},
+{
 "id": "ad592b9c44c2eb",
 "t": "Ex-chefe de aprendizado de máquina da PolyAI levanta US$ 20 milhões para nova startup de robótica",
 "r": "A startup de IA física Lute Robotics arrecadou US$ 20 milhões em financiamento combinado pré-semente e inicial de investidores, incluindo OTB Ventures, Naval Ravikant, Forward.one, Seedcamp e Credo Ventures.",
@@ -2819,7 +3103,8 @@
 "i": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/24161303/Copy-of-Team_photo_with_artist_Lute.jpeg",
 "d": "2026-11-25T12:00-03:00",
 "c": [
-"negocios"
+"negocios",
+"ia"
 ],
 "l": 0,
 "to": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
@@ -2850,6 +3135,69 @@
 "cv": "Xataka",
 "mx": 1,
 "rx": "Um júri federal no Brooklyn condenou a Huawei e três subsidiárias em 10 das 12 acusações criminais que enfrentaram nos Estados Unidos, incluindo conspiração para roubar segredos comerciais, fraude bancária e violação de sanções contra o Irão. O caso remonta a 2019, quando o Ministério Público dos Estados Unidos apresentou acusações contra a Huawei e várias das suas subsidiárias.\nPela acusação, a Huawei teria mentido para entidades bancárias sobre seus negócios no Irã e usado tecnologia de empresas norte-americanas para fortalecer sua posição competitiva. O veredicto, emitido em 24 de novembro de 2026, após um julgamento que durou cerca de três meses, afeta a Huawei Technologies e as subsidiárias Huawei Device Co., Futurewei Technologies e Huawei Device USA."
+},
+{
+"id": "0ef334bae4db0e",
+"t": "Aspirador robô Roborock 20 Neo: não dá chance ao pó e muito menos à sua carteira",
+"r": "O Saros 20 Neo, apresentado na IFA 2026 em Berlim, junta-se à gama Saros juntamente com o Saros 20 Flow Complete. Se o 20 Flow Complete possui rolo autolimpante, o Saros 20 Neo opta por duas esfregonas rotativas. O Roborock Saros 20 Neo está à venda desde 4 de setembro de 2026 a um preço inicial de 1.299€. O 20 Neo…",
+"u": "https://www.lesnumeriques.com/aspirateur-robot/roborock-saros-20-neo-p78787/test.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/26/267222/4f21ced4-aspirateur-robot-roborock-20-neo__1200_678__0-622-6960-4276.webp",
+"d": "2026-11-25T13:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Aspirateur-robot Roborock 20 Neo : il ne laisse aucune chance à la poussière, encore moins à votre portefeuille",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "O Saros 20 Neo, apresentado na IFA 2026 em Berlim, junta-se à gama Saros juntamente com o Saros 20 Flow Complete. Se o 20 Flow Complete possui rolo autolimpante, o Saros 20 Neo opta por duas esfregonas rotativas. O Roborock Saros 20 Neo está à venda desde 4 de setembro de 2026 a um preço inicial de 1.299€. O 20 Neo também evita a dor de cabeça do rolete do 20 Flow Complete: suas duas pastilhas podem ser removidas sem a menor desmontagem complexa.\nLavar o Roborock Saros 20 Neo é particularmente convincente. Este é claramente um dos principais trunfos do Roborock Saros 20 Neo. Isso é quase uma hora a mais que o Saros 20 Flow Complete."
+},
+{
+"id": "7b7cb44d5be86a",
+"t": "Recapitulação do Ars Live: não espere que os ataques militares aos data centers parem",
+"r": "Ataques de drones em data centers. Os data centers da Amazon foram atacados militarmente pela primeira vez no Oriente Médio este ano, e a Rússia e a Ucrânia trocaram uma enxurrada sem precedentes de ataques de drones nos data centers uns dos outros. Para examinar o que esses ataques a data centers significam para o futuro dos serviços em nuvem…",
+"u": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+"f": "Ars Technica",
+"s": "arstechnica.com",
+"i": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+"d": "2026-11-25T13:47-03:00",
+"c": [
+"defesa",
+"drones"
+],
+"l": 0,
+"to": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Ars Technica",
+"mx": 1,
+"rx": "Os data centers da Amazon foram atacados militarmente pela primeira vez no Oriente Médio este ano, e a Rússia e a Ucrânia trocaram uma enxurrada sem precedentes de ataques de drones nos data centers uns dos outros. Para examinar o que tais ataques aos centros de dados significam para o futuro dos serviços em nuvem dos quais dependem todas as sociedades modernas, Ars organizou uma discussão ao vivo. Em uma conversa com Jeremy Hsu, repórter técnico da Ars Technica, Joseph Jarnecki, do Royal United Services Institute, falou pela primeira vez sobre por que os data centers em nuvem pública se tornaram cada vez mais alvos militares durante a guerra do Irã em 2026 e a contínua invasão russa em grande escala da Ucrânia:\nVemos um reconhecimento crescente e o fato do uso duplo, especialmente na nuvem pública, mas também em todos os data centers de nuvem privada."
+},
+{
+"id": "a37fb5a9f7101a",
+"t": "Reequipamentos motores para a corrida robotáxi",
+"r": "",
+"u": "https://www.axios.com/2026/11/25/motional-robotaxi-uber-hyundai",
+"f": "Axios",
+"s": "axios.com",
+"i": "",
+"d": "2026-11-25T14:05-03:00",
+"c": [
+"autonomos"
+],
+"l": 0,
+"to": "Motional retools for the robotaxi race",
+"lg": "en",
+"p": 3.5,
+"cr": 3,
+"cv": "Axios",
+"mx": 1
 },
 {
 "id": "8dc724f28ef66a",
@@ -2934,7 +3282,7 @@
 "p": 3.2,
 "cr": 2,
 "cv": "Sifted",
-"mx": 1
+"mx": 2
 },
 {
 "id": "3e0b4f844b3a11",
@@ -3040,7 +3388,7 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 1,
+"mx": 2,
 "rx": "As empresas de robôs pesquisam \"Metodologia de melhoria da taxa de menção de perguntas e respostas de IA\" e seu apelo é \"Quando os clientes perguntam aos robôs no modelo como escolher, podemos ser mencionados e se os mencionados estão corretos\"; procure por \"Entrega de ativos de conteúdo da empresa de construção de sites de Jiangsu, Zhejiang e Xangai\", seu apelo é \"Os dados técnicos podem ser transformados em ativos reutilizáveis ​​e uma nova equipe pode assumir o controle\". Os dois tipos de intenções apontam para a mesma coisa: o site oficial de uma empresa de robôs não pode mais ser apenas um folheto de produto, mas deve transformar parâmetros, cenários e certificações em ativos de conteúdo que possam ser aceitos pelo modelo, e entregar os ativos à própria empresa.\nSite oficial da empresa de robôs; Taxa de menção de perguntas e respostas sobre IA; fabricação de construção de sites; entrega de ativos de conteúdo; Empresa de construção de sites em Jiangsu, Zhejiang e Xangai; Metodologia GEO; OranAI; 2026"
 },
 {
@@ -3837,7 +4185,7 @@
 "u": "https://udn.com/news/story/7240/9898449",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-24T01:56-03:00",
 "c": [
 "negocios",
@@ -3925,7 +4273,7 @@
 "u": "https://money.udn.com/money/story/11074/9899462",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-24T13:30-03:00",
 "c": [
 "competicoes"
@@ -5673,6 +6021,28 @@
 "rx": "Uma demonstração do ‘console duplo’, que conecta dois ‘consoles de cirurgião (coordenadores de braço robótico)’ e permite que a equipe médica participe da cirurgia em conjunto (foto à esquerda), e o carrinho do lado do paciente do robô assistente cirúrgico Da Vinci 5."
 },
 {
+"id": "0dd247222c858f",
+"t": "Braiin planeja acordo de US$ 40 milhões para Marut Drones da Índia",
+"r": "A Braiin Limited, listada na Nasdaq, afirma que assinou um termo de compromisso não vinculativo para adquirir a Marut Drones de Hyderabad em fases, começando com uma participação majoritária, em um negócio no valor de cerca de US$ 40 milhões. Braiin planeja adquirir uma participação majoritária na Marut Drones…",
+"u": "https://dronexl.co/2026/11/24/braiin-marut-drones-40-million-india-acquisition/",
+"f": "DroneXL",
+"s": "dronexl.co",
+"i": "https://cdn.dronexl.co/wp-content/uploads/2026/11/marut-drones-agricultural-spraying-drone-india.webp",
+"d": "2026-11-24T16:35-03:00",
+"c": [
+"drones",
+"negocios"
+],
+"l": 0,
+"to": "Braiin Plans $40 Million Deal For India's Marut Drones",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "DroneXL",
+"mx": 1,
+"rx": "A Braiin Limited, listada na Nasdaq, afirma que assinou um termo de compromisso não vinculativo para adquirir a Marut Drones de Hyderabad em fases, começando com uma participação majoritária, em um negócio no valor de cerca de US$ 40 milhões. Braiin planeja adquirir uma participação majoritária na Marut Drones, desenvolvedora do primeiro drone agrícola multiutilitário com certificação DGCA da Índia, dando à divisão de robótica e IA da Braiin fabricação de drones com certificação DGCA e uma frota instalada na Índia, onde o mercado geral de drones está projetado para atingir US$ 11 bilhões até 2030\nA aquisição faseada da empresa com sede em Hyderabad, sob um termo de compromisso não vinculativo, seria seguida pela integração com a plataforma de drones autônomos Raptor300 da Braiin e pela expansão na Índia e nos mercados internacionais da Braiin."
+},
+{
 "id": "60f44cd108c485",
 "t": "“Hoje, percebemos que o progresso na IA pode ser incorporado em robôs”",
 "r": "Pelo oitavo ano, o Libération se coloca nas cores e nos textos da juventude para a Feira do Livro de Montreuil, que acontece de 25 a 30 de novembro de 2026. Justin Carpentier, diretor de pesquisa do Instituto Nacional de Pesquisa em Ciência da Computação e Automação (Inria), chefe da equipe do projeto Willow no Centro…",
@@ -5799,6 +6169,29 @@
 "cv": "CTV News",
 "mx": 1,
 "rx": "Sargento John White, da RCMP da Nova Escócia, fala sobre o uso da tecnologia drone."
+},
+{
+"id": "a458ab4b643683",
+"t": "Robôs de limpeza comercial e comodidades ecológicas serão exibidos na 1ª Hospitality Tech EXPO",
+"r": "~Equipe dedicada estará disponível no dia para propor soluções ideais para resolver a escassez de mão de obra e diferenciar instalações~ iGoods Co., Ltd. (Sede: Shibuya-ku, Tóquio), que vende robôs de limpeza comercial e produz comodidades e equipamentos ecológicos, realizará um evento de 2 de dezembro (quarta-feira)…",
+"u": "https://www.asahi.com/and/pressrelease/17077129",
+"f": "朝日新聞",
+"s": "asahi.com",
+"i": "https://www.asahi.com/and/ogp/ogp_and.png",
+"d": "2026-11-24T20:00-03:00",
+"c": [
+"servico",
+"medicina",
+"competicoes"
+],
+"l": 0,
+"to": "業務用清掃ロボットとエコなアメニティを一挙に展示「第1回 ホスピタリティテックEXPO」に出展",
+"lg": "ja",
+"p": 4.8,
+"cr": 3,
+"cv": "Asahi Shimbun",
+"mx": 1,
+"rx": "~Equipe dedicada estará disponível no dia para propor soluções ideais para resolver a escassez de mão de obra e diferenciar instalações~ iGoods Co., Ltd. (Sede: Shibuya-ku, Tóquio), que vende robôs de limpeza comercial e produz comodidades e equipamentos ecológicos, realizará um evento de 2 de dezembro (quarta-feira) a 4 de dezembro (sexta-feira) de 2026 em Ariake…"
 },
 {
 "id": "dd028fd539848f",
@@ -6739,7 +7132,28 @@
 "p": 3.5,
 "cr": 3,
 "cv": "Stuff",
-"mx": 1
+"mx": 2
+},
+{
+"id": "0d6b954922b2bf",
+"t": "Como o Roborock F25 Pro Turbo se sai em manchas secas?",
+"r": "No F25 Pro Turbo, um pequeno gatilho alojado dentro da alça faz isso. O tanque de água limpa é colocado no cabeçote de lavagem, as rodas auxiliam nos movimentos do braço nas duas direções e tudo pode ser inclinado 180° para caber embaixo da cama. O F25 Pro Turbo junta uma estação entre duas utilizações que recarrega a…",
+"u": "https://www.lesnumeriques.com/nettoyeur-sol/roborock-f25-pro-turbo-p79027/test.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "https://cdn.lesnumeriques.com/optim/test/26/268159/4878d666-roborock-f25-pro-turbo-un-aspirateur-laveur-a-la-gachette-facile__1200_678__0-258-1600-1098_wtmk.webp",
+"d": "2026-11-24T03:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Que vaut le Roborock F25 Pro Turbo sur les taches séchées ?",
+"lg": "fr",
+"p": 3.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 1,
+"rx": "No F25 Pro Turbo, um pequeno gatilho alojado dentro da alça faz isso. O tanque de água limpa é colocado no cabeçote de lavagem, as rodas auxiliam nos movimentos do braço nas duas direções e tudo pode ser inclinado 180° para caber embaixo da cama. O F25 Pro Turbo junta uma estação entre duas utilizações que recarrega a bateria, lava o rolo e seca-o com ar quente.\nO F25 Pro Turbo pesa 4,75 kg vazio. Foi no crash test do café da manhã que o F25 Pro Turbo mais nos impressionou. De volta à sua estação, o F25 pode iniciar a lavagem do rolo com um simples toque na alça. O F25 Pro Turbo é, portanto, claramente ouvido enquanto aspira, mais do que outros modelos."
 },
 {
 "id": "dd9bc91dd58c03",
@@ -7123,6 +7537,27 @@
 "mx": 3
 },
 {
+"id": "cb03939a71acaf",
+"t": "Melhor aspirador de robô 2026: deixe esses bots inteligentes fazerem o trabalho sujo",
+"r": "O melhor aspirador de robô para a maioria das pessoas é o Roborock Qrevo Curv. ❌ Você está mais interessado em esfregar: os esfregões giratórios do Saros 20 são muito bons para a limpeza diária, mas respingos pegajosos ainda podem exigir um pano e um pouco de graxa nos cotovelos. ❌ Você não precisa de toda essa…",
+"u": "https://www.techradar.com/home/robot-vacuums/best-robot-vacuums",
+"f": "TechRadar",
+"s": "techradar.com",
+"i": "https://cdn.mos.cms.futurecdn.net/StndydHmr4GxcNTQFPNPnV-1920-80.jpg",
+"d": "2026-11-24T11:12-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Best robot vacuum 2026: let these smart bots do the dirty work",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "TechRadar",
+"mx": 1,
+"rx": "O melhor aspirador de robô para a maioria das pessoas é o Roborock Qrevo Curv. ❌ Você está mais interessado em esfregar: os esfregões giratórios do Saros 20 são muito bons para a limpeza diária, mas respingos pegajosos ainda podem exigir um pano e um pouco de graxa nos cotovelos. ❌ Você não precisa de toda essa tecnologia: este é um aspirador de robô muito capaz, mas muitas casas não precisam de um robô de mais de US$ 1.500 para manter o chão limpo.\nO Roborock Saros 20 é o melhor aspirador robô para carpetes, principalmente se você estiver lidando com pêlos de animais de estimação, tapetes grossos ou pisos que não são tão simples quanto uma casa comum. ❌ Você não precisa do melhor esfregão: o esfregão avançado e o dock abrangente aumentam o preço aqui, e outros robovacs farão um trabalho de limpeza bom o suficiente para a maioria das pessoas (o Eufy X10 em # 1 tem um ótimo esfregão, por exemplo). ❌ Você tem pouco espaço: o dock pode fazer muitas coisas, mas como resultado é bastante volumoso."
+},
+{
 "id": "1d66e45cbf50ca",
 "t": "Polónia: drone russo viola espaço aéreo",
 "r": "",
@@ -7245,26 +7680,6 @@
 "mx": 3
 },
 {
-"id": "0dd247222c858f",
-"t": "Braiin planeja acordo de US$ 40 milhões para Marut Drones da Índia",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWThhWnprZTJUaFIwYVhQSExKdGJXWm05X3F6aUlHZXJVRmtCMEdmR0dhcEVHVjY0bmJBc2ljT0lPb09yY1hCUk1zX281Y0NJT0k3OV8zRm56Znp6eEtGS3h1Zm00aWUwZDJvUG9KakZrM3hBMnJ3TWNYRkhSaXg2ajNmeGxsdw?oc=5",
-"f": "DroneXL",
-"s": "dronexl.co",
-"i": "",
-"d": "2026-11-24T16:35-03:00",
-"c": [
-"drones",
-"negocios"
-],
-"l": 0,
-"to": "Braiin Plans $40 Million Deal For India's Marut Drones",
-"lg": "en",
-"p": 3.5,
-"cr": 3,
-"cv": "DroneXL"
-},
-{
 "id": "3513b24667673e",
 "t": "Apareceu um robô que pode fazer qualquer coisa usando IA física? Executivos da KDDI apontam como os pontos fortes do \"Japão, uma superpotência robótica\" mudarão",
 "r": "AI̐iŁA炩rótonaꂽJǂ]^̃{bgAOŚCIFĎIɓutBWJAIvɒڂLĂBNOŚCI Łu{bg卑vzĂ{ wała̋͂ǂω̂B (1/2)",
@@ -7305,27 +7720,6 @@
 "cv": "ITmedia",
 "mx": 1,
 "rx": "@SiMa.aíAuEdgeTech+ 2026vi2026N1118`20ApVtBRljɂāAtBWJAIilHm\\jvZbTuMLSoC Modalixv𓋍ڂ]LbguModalix SoM DevKitvpA@fXg[VIB @MLSoC Modalix́A10Wȉ̒d͂LLMiK͌ꃂfjVLMioꃂfjȂǂAIsłǍoƂ摜FAIɑΉB\\AI\\͂ƖLxȃC^tF[XɂAYƋ@⃍{eBNXȂǂ̕LłAIxĂB @Wu[Xł́AModalix SoM DevKitHiwonder̃A[t4s{bguPuppyPivpĕxm\\tg삵fXg[VIBfXg[V́AcenturyPu ppyPiɉŎwoAw̓eɉăJŎ͂ȂAΏەTB̌AΏە̋֋؂PuppyPiញăA[őΏە̂ہAw̏ꏊɉ^ԂƂełB @̈A̓̂AVision AIɂΏە̌o👵fA{bgcenturyNEhზ዗炸AMLSoC Modalixǂ̂ŎsĂBumblingAMLSoC ModalixłROSiRobot Operacional Sistemaj̎sɑΉA{bgAIAvP[V̊J^xზ\\BV[}EeNmW[EWp̗ѓcT́u CNNiۍۃj[lbg[Njɂ錟mVLMɂ💋g۝کہ邚ƂŁA1Ė̃foCXŃ{bgŜ𐧌䂵ĂvƋB\n@ZLeBʐM̐ɂAf[^OɏoƂłȂƂڋq̉ۑ邽ւɁANEhᔋɈˑAGbW[AIᔔ\\ɂMLSoC ModalixI肵BɂAOƒʐM邱ƂȂAňSĉ^pე\\ȑ̐\\złBfXg[V̐S҂́uMLSoC Modalix͏d͂10Wȉɗ}邱Ƃł邽оAʓIȃoCobe[ł̋쓮ƒ\\ɂȂĂvƌB @SiMa.ais T[rXJnڎwon֭ĂB̃\\[V́AcenturycêntricaȋƊEŕ]iłA2027Nȍ~ɂ͂ǂ̐iɍ̗pꂽƂȃ[U[𔭕\\A{̃Gh[U[ɂSđIł悤ȎтĂvƏqׂB"
-},
-{
-"id": "a458ab4b643683",
-"t": "Robôs de limpeza comercial e comodidades ecológicas serão exibidos na 1ª Hospitality Tech EXPO",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11LUppbGNLWDdBZ2dYd1p2NXRVd0tRdkVxcXZJamFFUC1SZ0NxWm8za240QmRmLWR5ckd6aGJPWVdiWEJkVXNzbUdjN2E5ZE9uY3FHclhqYlF6WVE?oc=5",
-"f": "朝日新聞",
-"s": "asahi.com",
-"i": "",
-"d": "2026-11-24T20:00-03:00",
-"c": [
-"servico",
-"medicina",
-"competicoes"
-],
-"l": 0,
-"to": "業務用清掃ロボットとエコなアメニティを一挙に展示「第1回 ホスピタリティテックEXPO」に出展",
-"lg": "ja",
-"p": 3.5,
-"cr": 3,
-"cv": "Asahi Shimbun"
 },
 {
 "id": "30198da5dc4124",
@@ -7523,6 +7917,27 @@
 "cur": 1
 },
 {
+"id": "f98b93f37536ce",
+"t": "4-Link Electromechanical Co., Ltd.: atualmente não envolve produtos relacionados à área de robôs humanóides",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/newsflashes/4085035798211207",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-24T15:49-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "4连板克来机电：目前不涉及人形机器人领域相关产品",
+"lg": "zh",
+"p": 3.3,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
 "id": "5cb18fca6ce69b",
 "t": "Ministério da Indústria e Tecnologia da Informação: Nos primeiros três trimestres, as vendas de óculos inteligentes nas principais plataformas aumentaram 1,1 vezes em relação ao ano anterior, e as vendas de robôs inteligentes incorporados aumentaram 22,6% em relação ao ano anterior.",
 "r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
@@ -7676,29 +8091,10 @@
 "rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
-"id": "0d6b954922b2bf",
-"t": "Como o Roborock F25 Pro Turbo se sai em manchas secas?",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkVkdWl2NkQ1ZEdGSTU2WkRZbi1KYklxcjRZTFJBNHZfZThwTE9CTU4zeVRoVnRMSnlBWlJoYldxWG5Bd1RxdjkybnBBTkhPS0FVZGVacnJfTGxtejY5SnlWaUNSemYzbGkzbkhFQWhYOGVhLUVzLWtqc2lRaXR5RUxXOGkzc3dJSTZB?oc=5",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-24T03:00-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Que vaut le Roborock F25 Pro Turbo sur les taches séchées ?",
-"lg": "fr",
-"p": 2.2,
-"cr": 2,
-"cv": "Les Numériques"
-},
-{
 "id": "ea7d8f9c9c6fca",
 "t": "Os robôs inteligentes NetEase iniciam a produção em massa, a IA assume 85% das principais tarefas de produção",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxUmVlQmpxSThzZ3M5ejB0VDFDLUtRSWpJS2YzUmFZcUFsVzJUb2FGTC1uNWJ4ZjRYbGhIaVVWNllFUXQwUkNLMnJ6Umg?oc=5",
+"r": "Em 24 de novembro, no Bauma CHINA 2026 em Xangai, a marca de inteligência incorporada da NetEase, NetEase Smart e Liugong Group, assinaram oficialmente uma cooperação estratégica, planejando promover a produção em massa em grande escala e a implantação no exterior de escavadeiras nativas de IA, e demonstraram todo o…",
+"u": "https://www.ithome.com/1/031/748.htm",
 "f": "IT之家",
 "s": "ithome.com",
 "i": "",
@@ -7709,15 +8105,17 @@
 "l": 0,
 "to": "网易灵动机器人开启量产，AI 承担核心生产任务超85%",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
-"cv": "IT之家 (IThome)"
+"cv": "IT之家 (IThome)",
+"mx": 1,
+"rx": "Em 24 de novembro, no Bauma CHINA 2026 em Xangai, a marca de inteligência incorporada da NetEase, NetEase Smart e Liugong Group, assinaram oficialmente uma cooperação estratégica, planejando promover a produção em massa em grande escala e a implantação no exterior de escavadeiras nativas de IA, e demonstraram todo o processo de carregamento automático da primeira escavadeira de IA interativa multimodal em uma máquina real. Ao mesmo tempo, a NetEase Smart foi a primeira a lançar o Modelo de Ação Mundial (WAM) para condições de trabalho de máquinas de construção, que pode prever o colapso de pilhas de materiais, riscos de colisão e alterações nos níveis de material da caçamba em tempo real durante as operações. Também divulgou simultaneamente os resultados da operação em larga escala de carregamento de robôs em cenários nacionais essenciais, como energia nuclear e portos. A carga de trabalho num único trimestre excedeu o total do ano passado e a IA realizou mais de 85% das tarefas principais de produção."
 },
 {
 "id": "75871bbbc0e32b",
 "t": "Outro unicórnio robô explode",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xTDJDb3kzZHdldno3ZVBkaVZJUUtQME8tUmNsZkd0NVZaOG13TDZQZWhHUHpTXzdXMjVPZ0lCbTVqLWgtMnBrNDN1dURlQQ?oc=5",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4084583743122052",
 "f": "36Kr",
 "s": "m.36kr.com",
 "i": "",
@@ -7728,15 +8126,17 @@
 "l": 0,
 "to": "又一家机器人独角兽爆雷",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
-"cv": "36Kr"
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "1b29fbc8be6d47",
 "t": "A inteligência incorporada atinge um ponto de inflexão na comercialização: robôs entram nas fábricas, despedindo-se da era da “esfregação das mãos”",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80R1dUcjdGTFFoRjduMFoyTHBjQ295X09vcTEtQkJNeEVrOUw4NXRtTVNSZEpqdlVqWTBLV0J4SWI0eGhzWEQ5UTVnVHAyZw?oc=5",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4084600525073030",
 "f": "36Kr",
 "s": "m.36kr.com",
 "i": "",
@@ -7748,28 +8148,11 @@
 "l": 0,
 "to": "具身智能迎来商业化拐点：机器人进厂，告别“手搓”时代",
 "lg": "zh",
-"p": 2.2,
+"p": 2.5,
 "cr": 2,
-"cv": "36Kr"
-},
-{
-"id": "cb03939a71acaf",
-"t": "Melhor aspirador de robô 2026: deixe esses bots inteligentes fazerem o trabalho sujo",
-"r": "",
-"u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82aVpnTUFhSWxSUUZSVVdKS3A2OUtXX0hJNEFteE1QbEQ2RUhJUXd0WE1nZ3N3NTNQVk44WU5uZlByWEFnUzJEblE1c0doeXNVVW1CSzYzcHBtQzR3aEVQT09SOThtZ0piNlB0RlVYWTY?oc=5",
-"f": "TechRadar",
-"s": "techradar.com",
-"i": "",
-"d": "2026-11-24T11:12-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "Best robot vacuum 2026: let these smart bots do the dirty work",
-"lg": "en",
-"p": 2.2,
-"cr": 2,
-"cv": "TechRadar"
+"cv": "36Kr",
+"mx": 1,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
 },
 {
 "id": "183870de068768",
@@ -22643,36 +23026,6 @@
 ]
 },
 {
-"id": "07bfb6103d754b",
-"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
-"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
-"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
-"f": "AFP.com",
-"s": "afp.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-"d": "2026-11-19T06:00-03:00",
-"c": [
-"logistica"
-],
-"l": 0,
-"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
-"lg": "en",
-"p": 7.1,
-"cr": 3,
-"cv": "AFP",
-"mx": 2,
-"o": [
-{
-"f": "Robotics Tomorrow",
-"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
-"s": "roboticstomorrow.com",
-"id": "4ff85e0a20bcda"
-}
-],
-"esp": 1,
-"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
-},
-{
 "id": "b8afc9a9b09a44",
 "t": "Robôs dançantes, máquinas servindo: Shenzhen mostra sua força tecnológica na cúpula da APEC",
 "r": "Cúpula da APEC, Shenzhen se transforma em uma vitrine da alta tecnologia chinesa. Robôs humanóides entretêm jornalistas cantando e dançando.",
@@ -22897,6 +23250,36 @@
 "id": "317cb08331f2e9"
 }
 ]
+},
+{
+"id": "07bfb6103d754b",
+"t": "Logistics Reply expande atendimento assistido por robô no Quality Group",
+"r": "O projeto baseia-se em uma colaboração existente entre as duas empresas. No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla.",
+"u": "http://www.afp.com/en/infos/logistics-reply-expands-robot-assisted-fulfilment-quality-group",
+"f": "AFP.com",
+"s": "afp.com",
+"i": "",
+"d": "2026-11-19T06:00-03:00",
+"c": [
+"logistica"
+],
+"l": 0,
+"to": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+"lg": "en",
+"p": 6.1,
+"cr": 3,
+"cv": "AFP",
+"mx": 1,
+"o": [
+{
+"f": "Robotics Tomorrow",
+"u": "http://www.RoboticsTomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416",
+"s": "roboticstomorrow.com",
+"id": "4ff85e0a20bcda"
+}
+],
+"esp": 1,
+"rx": "No início de 2024, a TQG já havia implantado a plataforma de gerenciamento de armazéns LEA Reply™ em cinco locais de armazenamento, apoiando sua rede logística mais ampla. Logistics Reply, empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gestão de armazéns, aprofundou sua colaboração com o The Quality Group (TQG) implementando um sistema ágil de intralogística para o novo centro de distribuição da empresa em Elsdorf, perto de Bremen. A robótica por si só não resolve os desafios de escala; a orquestração inteligente é o que permite que as operações intralogísticas permaneçam ágeis, mesmo sob flutuações extremas de demanda.\" Logistics Reply Logistics Reply é a empresa do Grupo Reply especializada em soluções de software para execução da cadeia de suprimentos e gerenciamento de armazéns."
 },
 {
 "id": "31d24e91b986a1",
@@ -28012,7 +28395,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -33327,7 +33710,7 @@
 "u": "https://udn.com/news/story/7252/9885053",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-17T11:03-03:00",
 "c": [
 "competicoes"
@@ -55772,7 +56155,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -61293,7 +61676,7 @@
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia",
@@ -61661,7 +62044,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -77749,7 +78132,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -77778,7 +78161,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -81103,7 +81486,7 @@
 "u": "http://www.RoboticsTomorrow.com/news/2026/11/06/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/27353",
 "f": "RoboticsTomorrow.com News",
 "s": "roboticstomorrow.com",
-"i": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+"i": "",
 "d": "2026-11-06T05:00-03:00",
 "c": [
 "humanoides",
@@ -81113,9 +81496,9 @@
 "l": 1,
 "to": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
 "lg": "en",
-"p": 13.9,
+"p": 12.9,
 "esp": 1,
-"mx": 2,
+"mx": 1,
 "cr": 3,
 "cv": "Robotics Tomorrow",
 "o": [
