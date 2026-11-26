@@ -1,5 +1,96 @@
 [
 {
+"id": "cb6452bf4625c9",
+"u": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+"f": "BBC",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-26T13:18-03:00",
+"i": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc7/live/da987b80-e9b3-11f1-a094-5fdc692f3e33.jpg",
+"to": "Fireball steals the show during Thanksgiving drone display in Indiana",
+"ro": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
+"t": "Fireball rouba a cena durante exibição de drones no Dia de Ação de Graças em Indiana",
+"r": "O objeto brilhante foi capturado em vídeo enquanto drones com tema natalino iluminavam o céu noturno.",
+"lg": "en",
+"c": [
+"drones"
+]
+},
+{
+"id": "f1984f72225ee9",
+"u": "https://techxplore.com/news/2026-11-autonomous-crane-port-centimeter-precision.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-26T11:20-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-autonomous-crane-sy-1.jpg",
+"to": "Autonomous crane system handles port containers with centimeter-level precision",
+"ro": "Robotic systems have already been deployed in many factories, industrial sites and warehouses worldwide to automate processes and improve their efficiency. A taxing task that requires the precise control of large machinery is lifting and moving shipping containers in ports.",
+"t": "Sistema de guindaste autônomo movimenta contêineres portuários com precisão centimétrica",
+"r": "Os sistemas robóticos já foram implantados em muitas fábricas, instalações industriais e armazéns em todo o mundo para automatizar processos e melhorar a sua eficiência. Uma tarefa exigente que requer o controle preciso de grandes máquinas é a elevação e movimentação de contêineres nos portos.",
+"lg": "en",
+"c": [
+"industriais",
+"logistica"
+]
+},
+{
+"id": "20ed4c2ea05bb4",
+"u": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
+"f": "Phys.org",
+"tipo": "site",
+"pais": "Reino Unido",
+"d": "2026-11-26T06:41-03:00",
+"i": "https://scx1.b-cdn.net/csz/news/tmb/2026/singapore-is-carrying.jpg",
+"to": "Robots roam Singapore's urban AI testing ground",
+"ro": "When coffee is spilled at an office block in a futuristic enclave of Singapore, AI-powered cameras and sensors detect it and send a cleaning robot right away.",
+"t": "Robôs percorrem campo de testes urbanos de IA em Singapura",
+"r": "Quando o café é derramado num edifício de escritórios num enclave futurista de Singapura, câmaras e sensores alimentados por IA detectam-no e enviam imediatamente um robô de limpeza.",
+"lg": "en",
+"c": [
+"servico"
+]
+},
+{
+"id": "92d503c22d3845",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1977243",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-25T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "The uncanny valley in childhood: evidence from two studies on likeability judgments",
+"ro": "This exploratory study examined how children evaluate robot faces intended to vary in human-likeness, with a focus on whether affective evaluations follow a non-monotonic pattern consistent with the uncanny valley. In Study 1 (N=198), participants aged 6 to 15 rated the likeability of six predominantly female robot…",
+"t": "O vale misterioso na infância: evidências de dois estudos sobre julgamentos de simpatia",
+"r": "Este estudo exploratório examinou como as crianças avaliam os rostos dos robôs que pretendem variar na semelhança humana, com foco em se as avaliações afetivas seguem um padrão não monotônico consistente com o vale misterioso. No Estudo 1 (N=198), participantes com idades entre 6 e 15 anos avaliaram a simpatia de seis robôs predominantemente femininos…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia",
+"educacao"
+]
+},
+{
+"id": "d13bf80a28d903",
+"u": "https://www.frontiersin.org/articles/10.3389/frobt.2026.2006209",
+"f": "Frontiers in Robotics and AI",
+"tipo": "periodico",
+"pais": "Suíça",
+"d": "2026-11-25T21:00-03:00",
+"i": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/96E68BEC-109B-436A-BBBDA48EF20C06A0/A539D24F-50DE-4C28-B6E7F8BC6DED8901/WebsiteWebP_XL-FROBT_Main Visual_Cyan_Website.webp",
+"inst": "Frontiers",
+"to": "Beyond personalisation: governed durable adaptation for trustworthy embodied AI companions",
+"ro": "Personalisation is increasingly treated as necessary for sustained human-robot interaction, yet the term covers mechanisms ranging from remembered preferences to adaptive dialogue, task difficulty and social behaviour. Long-term embodied interaction raises a harder question: when should information about a person be…",
+"t": "Além da personalização: adaptação durável governada para parceiros confiáveis ​​de IA incorporada",
+"r": "A personalização é cada vez mais tratada como necessária para a interação sustentada entre humanos e robôs, mas o termo abrange mecanismos que vão desde preferências lembradas até diálogo adaptativo, dificuldade de tarefas e comportamento social. A interação incorporada de longo prazo levanta uma questão mais difícil: quando as informações sobre uma pessoa devem ser…",
+"lg": "en",
+"mx": 1,
+"c": [
+"ia"
+]
+},
+{
 "id": "b6b47820b9062a",
 "u": "https://techxplore.com/news/2026-11-method-state-pneumatic-artificial-muscledriven.html",
 "f": "Phys.org",
