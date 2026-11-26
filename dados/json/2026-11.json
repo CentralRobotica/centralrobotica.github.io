@@ -1,6 +1,52 @@
 {
 "2026-11-25": [
 {
+"id": "67d418d21347b7",
+"t": "Clobot revela sala de demonstração ao vivo ‘Spot’ do Boston Dynamics… Expansão do negócio de robôs industriais de quatro patas",
+"r": "Clobot (CEO Kim Chang-gu), especialista em serviços de robótica, está expandindo seus negócios de robôs de inspeção e vigilância/patrulha para instalações industriais usando o robô ambulante de quatro patas 'Spot' da Boston Dynamics. A Clobot revelou a 'Spot Live Demo Room' no dia 25, no primeiro andar da sede da empresa localizada em Seongnam, Gyeonggi-do, onde pode demonstrar continuamente várias tarefas realizadas pelo Spot em instalações industriais para a mídia nacional para a mídia nacional. O evento foi realizado neste dia. Kim Chang-gu, CEO da Clobot, e Choi Jin-seok, diretor da divisão de robôs de campo, compareceram para discutir o status atual do negócio de robôs da Clobot, as principais funções do Spot e sua aplicação em instalações industriais nacionais e estrangeiras.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49802",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49802_105984_143.png",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"industriais",
+"inspecao",
+"quadrupedes"
+],
+"l": 1,
+"to": "클로봇, 보스턴다이나믹스 ‘스팟’ 라이브 데모룸 공개…산업용 4족 보행 로봇 사업 확대",
+"lg": "ko",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Clobot (CEO Kim Chang-gu), uma empresa especializada em serviços de robôs, expandiu seus negócios de inspeção, vigilância e patrulha de instalações industriais em instalações industriais usando o robô ambulante de quatro patas 'Spot' da Boston Dynamics."
+},
+{
+"id": "896422ce7ad47e",
+"t": "Instituto de Tecnologia de Nova Jersey desenvolve robô humanóide de baixo custo feito à mão com impressora 3D",
+"r": "Uma equipe de pesquisa do Instituto de Tecnologia de Nova Jersey (NJIT) desenvolveu uma mão robótica para humanóides que pode ser produzida com uma impressora 3D básica. Ao implementar três graus de liberdade para cada dedo, é possível segurar diversos objetos e realizar tarefas sofisticadas, como manipular ferramentas com os dedos. A ‘PHD-Hand (Printable Humanoid Dexterous Hand)’ revelada pela equipe de pesquisa consiste em um polegar e quatro dedos. O comprimento total é de cerca de 200 mm e possui um total de 15 graus de liberdade operacionais, 3 para cada dedo. De acordo com a equipe de pesquisa, as mãos robóticas de alto funcionamento existentes exigem movimentos complexos para implementar movimentos sofisticados.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49809",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49809_106001_1312.jpg",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"humanoides"
+],
+"l": 1,
+"to": "美 뉴저지공대, 3D 프린터로 제작하는 저비용 휴머노이드 로봇 손 개발",
+"lg": "ko",
+"esp": 1,
+"p": 12.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Uma equipe de pesquisa do Instituto de Tecnologia de Nova Jersey (NJIT) desenvolveu uma mão robótica para humanóides que pode ser produzida com uma impressora 3D básica. Cada dedo implementa três graus de liberdade para mover vários objetos."
+},
+{
 "id": "f53cdcfde7803d",
 "t": "[Foto] Humanóide ‘Atlas’ apresentado no Design Korea 2026",
 "r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. Uma criança cumprimenta o robô humanóide ‘ALLEX’ no ‘Design Korea 2026’, realizado no COEX em Gangnam-gu, Seul, no dia 25. O robô humanóide 'Alex' introduzido pela startup de robôs Wibotics reduz o peso de seus braços ... Hyrium…",
@@ -239,7 +285,7 @@
 "p": 9.5,
 "cr": 3,
 "cv": "Mainichi",
-"mx": 2
+"mx": 3
 },
 {
 "id": "59536c04423a36",
@@ -282,6 +328,38 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "According to live news from IT House on November 25, at today's \"Origin\" 2026 Xpeng Technology Day event, He Xiaopeng, chairman and CEO of Xpeng Group, announced that Xpeng's high-end general-purpose humanoid robot IRON will begin internships in the first quarter of 2027 and will be the first to enter Xpeng's domestic stores as a shopping guide for internship.\nA IT House soube na coletiva de imprensa que a Xpeng IRON está entrando na fase final de preparação para listagem. It plans to enter hardware mass production in January 2027 and officially release it in the second quarter of 2027. He Xiaopeng also looked forward to the future business model of humanoid robots, saying that there will definitely be a charging model for software subscription and Token subscription in the future, allowing IRON to continuously learn new skills."
+},
+{
+"id": "0fb6f85c551186",
+"t": "CLOBOT inaugura sala de demonstração ao vivo do Boston Dynamics Spot na Coreia do Sul e expande negócios de robótica industrial",
+"r": "O provedor sul-coreano de serviços de robótica CLOBOT Co., liderado pelo CEO Chang-gu Kim, está expandindo seu negócio de inspeção industrial e robótica de segurança com base no Spot, o robô quadrúpede desenvolvido pela Boston Dynamics. Em 25 de novembro, a CLOBOT revelou sua nova “Spot Live Demo Room” para membros do med coreano.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49803",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49803_105991_4310.png",
+"d": "2026-11-25T22:33-03:00",
+"c": [
+"quadrupedes",
+"industriais",
+"inspecao"
+],
+"l": 0,
+"to": "CLOBOT Unveils Boston Dynamics Spot Live Demo Room in South Korea, Expands Industrial Robotics Business",
+"lg": "en",
+"p": 7.9,
+"o": [
+{
+"f": "Robot Newspaper (Coreia)",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49803",
+"s": "irobotnews.com",
+"id": "2c62dec3aff421"
+}
+],
+"esp": 1,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "O provedor sul-coreano de serviços de robótica CLOBOT Co., liderado pelo CEO Chang-gu Kim, está expandindo i"
 },
 {
 "id": "553bea15b7e6bf",
@@ -477,6 +555,51 @@
 "cv": "Robotics & Automation News",
 "mx": 1,
 "rx": "Oversonic Robotics, uma empresa italiana especializada no desenvolvimento e fabricação de robôs humanóides cognitivos, anunciou que a Angelini Technologies adquiriu uma participação na empresa para apoiar o seu crescimento industrial e expansão internacional. A Oversonic se beneficiará dos 50 anos de experiência em automação industrial da Angelini Technologies, expertise em robótica logística, cadeia de suprimentos estabelecida e presença internacional.\nLuigi De Vito, CEO da Angelini Technologies, afirma: \"Optamos por investir na Oversonic Robotics porque acreditamos no potencial da sua tecnologia e nas oportunidades que a robótica cognitiva pode oferecer ao setor industrial. Sergio Marullo di Condojanni, CEO da Angelini Industries, afirma: \"O nosso investimento na Oversonic Robotics confirma o compromisso da Angelini Industries em investir na tecnologia industrial, um dos pilares estratégicos para o crescimento do Grupo."
+},
+{
+"id": "e6ed2c60ab6114",
+"t": "Korea Robot Convergence inicia desenvolvimento de plataforma de robô humanóide para exploração e trabalho em regiões extremamente frias",
+"r": "O Instituto Coreano de Robótica e Convergência (KIRO, Diretor Kang Ki-won) anunciou que começou a desenvolver uma plataforma de robô humanóide para exploração e trabalho em regiões extremamente frias. Esta pesquisa é a segunda fase do projeto de desenvolvimento de tecnologia de sistema móvel cooperativo para regiões de frio extremo e exploração, que tem sido promovido desde 2021. Com base no desempenho de demonstração antártica do 'KAREX (Korea Antarctic Robot EXplorer)' desenvolvido na primeira fase, a tecnologia robótica existente orientada para a exploração será estendida à área de trabalho de campo. Expandir é a chave. Para tal, a plataforma robótica KAREX-M (KAREX Ma) é capaz de realizar missões complexas como exploração e transporte de longa distância e instalação de equipamentos de observação.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49811",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49811_106004_3231.png",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "한국로봇융합硏, 극한지 탐사·작업용 휴머노이드 로봇 플랫폼 개발 착수",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "O Instituto Coreano de Robótica e Convergência (KIRO, Diretor Kang Ki-won) anunciou que começou a desenvolver uma plataforma de robô humanóide para exploração e trabalho em regiões extremamente frias. Esta pesquisa tem sido realizada desde 2021 para desenvolver regiões de frio extremo."
+},
+{
+"id": "961dd6059a35e1",
+"t": "A comercialização de humanóides nos EUA e na China desacelera... Será que a porta da oportunidade se abrirá na Coreia?",
+"r": "Há uma análise de que esta é a última oportunidade que resta para a Coreia neste momento, quando a comercialização de humanóides nos Estados Unidos e na China não está a acelerar. Prevê-se que 2027 será um ponto de viragem, à medida que as grandes empresas nacionais iniciam a comercialização em grande escala. Yang Seung-yoon, pesquisador da Eugene Investment & Securities, diagnosticou em relatório publicado no dia 26 (Título: Robot In Depth Commentary ③ – Estagnação nos EUA e na China, Oportunidade para a Coreia) que os humanóides se tornaram o tema central da indústria de robôs, mas a comercialização ainda está longe. Ele ressaltou que agora pode ser uma oportunidade para a Coreia. Olhando para a situação atual entre os EUA e a China, em primeiro lugar, a Tesla, a empresa líder, está atrasada. vendas externas",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49810",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49810_106007_3716.png",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"humanoides",
+"medicina"
+],
+"l": 0,
+"to": "미·중 휴머노이드 상용화 주춤…한국에 기회의 문 열리나?",
+"lg": "ko",
+"esp": 1,
+"p": 6.4,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Há uma análise de que esta é a última oportunidade que resta para a Coreia neste momento, quando a comercialização de humanóides nos Estados Unidos e na China não está a acelerar. Até 2027, quando as grandes empresas nacionais iniciarem a comercialização em grande escala,"
 },
 {
 "id": "5b5840a87d36b6",
@@ -1687,7 +1810,122 @@
 "p": 5.6,
 "cr": 3,
 "cv": "Tech Xplore",
-"mx": 1
+"mx": 2
+},
+{
+"id": "9d0c05cf89223e",
+"t": "Na Dong-wook, diretor da Angel Robotics, recebeu uma recomendação do Ministro da Saúde e Bem-Estar como a ‘Pessoa de Mérito de 2026 para Promoção da Saúde e Tecnologia Médica’",
+"r": "Angel Robotics (CEO Gong Gyeong-cheol) anunciou no dia 26 que seu Diretor Médico (CMO) Na Dong-wook recebeu uma comenda do Ministro da Saúde e Bem-Estar no 'Prêmio do Governo de 2026 para Pessoas Meritórias na Saúde e Promoção de Tecnologia Médica.' organizações que contribuíram para o desenvolvimento e promoção da saúde e da tecnologia médica nacionais e internacionais. O Diretor Na foi reconhecido por sua contribuição para o desenvolvimento, comercialização, verificação clínica e expansão no exterior de um robô doméstico de reabilitação ambulante vestível na área de excelente desenvolvimento de tecnologia médica e de saúde. O Diretor Na é membro do Departamento de Medicina de Reabilitação da Yonsei University College of Medicine.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49813",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49813_106013_4139.jpg",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"medicina",
+"exoesqueletos",
+"casa"
+],
+"l": 0,
+"to": "엔젤로보틱스 나동욱 이사, ‘2026 보건의료기술진흥 유공자’ 보건복지부 장관표창 수상",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Angel Robotics (CEO Gyeong-cheol Gong) recebeu o prêmio de Na Dong-wook, Diretor Médico (CMO) no ‘Prêmio Governamental de 2026 para Pessoas Meritórias na Promoção de Tecnologia Médica e de Saúde’."
+},
+{
+"id": "e671abdd3604a1",
+"t": "EndoRobotics participa do Workshop de Endoscopia da Flórida nos EUA por dois anos consecutivos... Introdução ao Robot ESD",
+"r": "EndoRobotics, uma empresa de robôs flexíveis para cirurgia endoscópica (representantes Hong Dae-hee e Kim Byeong-gon), participou pela segunda vez desde o ano passado do 'Florida Third Space Endoscopia Workshop 2026', realizado no AdventHealth Nicholson Center em Celebration, Flórida, de 15 a 17 de novembro (horário local) e apresentou um robô usando o robô flexível de cirurgia endoscópica da empresa 'ROBOPERA™'. Foi anunciado que foram realizadas palestras sobre dissecção endoscópica da submucosa (ESD), demonstrações ao vivo e treinamento prático. ‘Endoscopia do Terceiro Espaço’",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49815",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49815_106016_348.jpeg",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"medicina"
+],
+"l": 0,
+"to": "엔도로보틱스, 2년 연속 미국 플로리다 내시경 워크숍 참가… 로봇 ESD 소개",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A EndoRobotics (respectivos CEOs Daehee Hong e Byeonggon Kim), uma empresa flexível de robôs para cirurgia endoscópica, realizou um evento na Advent Health Nicholson em Celebration, Flórida, EUA, de 15 a 17 de novembro (horário local)."
+},
+{
+"id": "9167d86f879055",
+"t": "Universidade de Inha colabora com Synapse Imaging para desenvolver tecnologia de IA para equipamentos de inspeção de semicondutores",
+"r": "A Universidade de Inha (presidente Choi Ki-young) anunciou no dia 26 que o Centro de Pesquisa de Convergência de Inteligência Artificial assinou recentemente um acordo comercial de cooperação industrial-acadêmica com a Synapse Imaging Co., Ltd. Este acordo foi preparado para desenvolver a tecnologia necessária para os locais de fabricação, conectando as capacidades de pesquisa de IA da universidade e a experiência de desenvolvimento de equipamentos de inspeção da empresa e para aprimorar as capacidades práticas de estudantes e funcionários. A cerimônia do acordo contou com a presença de Park In-gyu, diretor do Centro de Pesquisa de Convergência de Inteligência Artificial da Universidade de Inha, e Kim Jae-sun, CEO da Synapse Imaging. As duas organizações cooperaram principalmente na área de inspeção e medição de placas de circuito impresso (PCBs) para semicondutores e substratos de vidro.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49812",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49812_106011_3831.jpg",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"ia",
+"inspecao",
+"educacao"
+],
+"l": 0,
+"to": "인하대, 시냅스이미징과 반도체 검사장비 AI 기술개발 맞손",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Universidade de Inha (presidente Choi Ki-young) estabeleceu recentemente o Centro de Pesquisa de Convergência de Inteligência Artificial e a Synapse Imaging Co., Ltd., uma colaboração indústria-academia para desenvolver tecnologia de inteligência artificial (IA) e treinar mão de obra profissional para ser aplicada em equipamentos de inspeção de semicondutores e componentes eletrônicos."
+},
+{
+"id": "2b1174f42dc5ee",
+"t": "O Instituto de Tecnologia da Califórnia consegue montar de forma autônoma uma estrutura treliçada no espaço... Abrindo a era da construção espacial",
+"r": "Uma equipe de pesquisa do Instituto de Tecnologia da Califórnia (Caltech) conseguiu montar de forma autônoma uma estrutura treliçada (treliça) no espaço usando um robô. Esta é a primeira vez que um robô fabrica diretamente uma estrutura no espaço sem a ajuda de um astronauta. Espera-se que seja capaz de desenvolver tecnologia para construir telescópios espaciais muito grandes, antenas de comunicação e instalações espaciais de geração de energia solar diretamente na órbita espacial. De acordo com um relatório da Phys.org, a equipe de pesquisa da Caltech está trabalhando no 'Novo Projeto de Fabricação, Materiais e Eficiência de Massa (NOM4D)' da Agência de Projetos de Pesquisa Avançada de Defesa dos EUA (DARPA).",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49807",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49807_105999_5743.jpg",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"espaco",
+"defesa"
+],
+"l": 0,
+"to": "美 캘리포니아공대, 우주에서 격자형 구조물 자율 조립 성공…우주 건설 시대 연다",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "Uma equipe de pesquisa do Instituto de Tecnologia da Califórnia (Caltech) conseguiu montar de forma autônoma uma estrutura treliçada (treliça) no espaço sideral usando um robô. O robô pode ser usado sem a ajuda de um astronauta."
+},
+{
+"id": "56fff0aa7f63ab",
+"t": "Japão, ‘certificação de governança de IA’ em pleno andamento… Expansão para gerenciamento de segurança de IA física",
+"r": "No Japão, um sistema de certificação que avalia a utilização da inteligência artificial (IA) e o sistema de gestão de uma empresa está sendo operado seriamente. A Japan Deep Learning Association (JDLA) introduziu o sistema de governança de IA 'C Certification (AI Governance Core Certification)' em agosto passado. Desde a introdução do sistema em agosto, Fujisoft, Rosso, Stitch, Management Collaboration Foundation, nove empresas, incluindo ABEJA, foram certificadas, e no dia 24 deste mês, ‘SB OAI Japan’, uma joint venture entre o Grupo Softbank e Open AI, foi certificada. A associação e a indústria vão além da IA ​​generativa e concentram-se em agentes de IA e",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49806",
+"f": "Robot Newspaper (Coreia)",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49806_105998_474.png",
+"d": "2026-11-25T22:41-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "일본, 'AI 거버넌스 인증' 본격화…피지컬 AI 안전관리까지 확대",
+"lg": "ko",
+"esp": 1,
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "No Japão, um sistema de certificação que avalia o uso e o sistema de gerenciamento de inteligência artificial (IA) de uma empresa está sendo operado seriamente. A Japan Deep Learning Association (JDLA) lançou o sistema de governança de IA 'C Certification' em agosto."
 },
 {
 "id": "3daf954d311153",
@@ -2393,27 +2631,6 @@
 "rx": "ANN ARBOR, MI / ACCESS Newswire / 25 de novembro de 2026 / Dynamic Aerospace Systems Corporation (OTCQB:BRQL), uma desenvolvedora norte-americana de veículos aéreos não tripulados avançados (UAVs) e plataformas de logística autônomas, registrou formalmente um portfólio abrangente de três pedidos de patentes provisórias de referência que cobrem inovações básicas de design: o braço de bateria com ponta de lançamento para uma aeronave multirotor, o recipiente de pára-quedas ejetado com pólo de mola com um Porta de comprimento total e gatilho AI e compressão de célula mecanicamente isolada para braços de aeronaves com bateria.\nEsses três pedidos de patente abordam essas prioridades por meio de inovações em braços de aeronaves integrados à bateria, pontas que melhoram a sustentação, proteção estrutural da bateria e recuperação automatizada de pára-quedas\", disse Kent Wilson, CEO e presidente do Conselho de Sistemas Aeroespaciais Dinâmicos."
 },
 {
-"id": "64b22af7d4629f",
-"t": "Os robôs de negociação Bybit e a negociação de cópias agora suportam contratos financeiros perpétuos tradicionais da ANTUSDT",
-"r": "Dubai, Emirados Árabes Unidos, 25 de novembro de 2026 /PRNewswire/ -- A Bybit, uma plataforma financeira de nova geração na qual mais de 90 milhões de usuários registrados em todo o mundo confiam, anunciou que seu robô de negociação e sua plataforma de copy trading agora oferecem suporte a contratos financeiros…",
-"u": "https://money.udn.com/money/story/123828/9902167",
-"f": "經濟日報",
-"s": "money.udn.com",
-"i": "",
-"d": "2026-11-25T11:00-03:00",
-"c": [
-"negocios"
-],
-"l": 0,
-"to": "Bybit交易機器人與跟單交易現已支持ANTUSDT傳統金融類永續合約",
-"lg": "en",
-"p": 4.8,
-"cr": 3,
-"cv": "United Daily News",
-"mx": 9,
-"rx": "Dubai, Emirados Árabes Unidos, 25 de novembro de 2026 /PRNewswire/ -- A Bybit, uma plataforma financeira de nova geração na qual mais de 90 milhões de usuários registrados em todo o mundo confiam, anunciou que seu robô de negociação e sua plataforma de copy trading agora oferecem suporte a contratos financeiros perpétuos tradicionais (TradFi) da ANTUSDT. Os usuários podem executar automaticamente estratégias de negociação ANT por meio do robô de futuros da Bybit ou seguir as estratégias de mestres de negociação de primeira classe.\nContando com o apoio de robôs de negociação e de copy trading, os traders podem agora gerir posições ANTUSDT através de estratégias automatizadas e orientadas pela comunidade, além da negociação manual. Os robôs de negociação Bybit e a negociação de cópias agora suportam contratos financeiros perpétuos tradicionais da ANTUSDT"
-},
-{
 "id": "9e1fe731701380",
 "t": "Depois de levantar centenas de milhões de dólares em financiamento, ainda faliu. O que deu errado com as novas startups de robôs na China? | Política e Economia do Continente | Através do Estreito",
 "r": "※ Você pode repassar o link do artigo \"repostando\" ou \"compartilhando\"; por favor, não copie e repasse o conteúdo do artigo sem autorização.",
@@ -2572,7 +2789,8 @@
 "i": "https://static.independent.co.uk/2026/11/10/9/44/GettyImages-2255066988-8f974928.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800",
 "d": "2026-11-25T14:57-03:00",
 "c": [
-"drones"
+"drones",
+"defesa"
 ],
 "l": 0,
 "to": "RAF ‘hiding planes in hangars overnight’ amid drone threat fears",
@@ -2707,7 +2925,7 @@
 "p": 4.8,
 "cr": 3,
 "cv": "The New York Times",
-"mx": 2
+"mx": 3
 },
 {
 "id": "b5cbd2dfd6c275",
@@ -2729,6 +2947,28 @@
 "cv": "The Globe and Mail",
 "mx": 1,
 "rx": "Vancouver, British Columbia--(Newsfile Corp. - 25 de novembro de 2026) - Monteoro Minerals Ltd. (TSXV: MTAU) (\"Monteoro\" ou a \"Empresa\") tem o prazer de anunciar o início de uma pesquisa magnética de alta resolução, transmitida por drone (UAV), espectrométrica de raios gama (radiométrica) e LiDAR sobre seu projeto Nudillales cobre-ouro-molibdênio-prata (\"Nudillales\" ou o \"Projeto\"), localizado no município de Dabeiba, Antioquia, Colômbia.\n\"Nudillales é um sistema de cobre-ouro-molibdênio amplamente não testado, e esta pesquisa é um passo importante para posicionar nossos primeiros furos\", afirmou Bob Neill, CEO da Monteoro Minerals. Figura 1: Projeto Nudillales – área de levantamento magnético, radiométrico e LiDAR de UAV (sombreamento azul-cinza), contendo as anomalias históricas da mina Nudillales Cu e geoquímicas do solo (Au > 100 ppb, Mo > 25 ppm, Cu > 342 ppm)."
+},
+{
+"id": "fd9b18e63f59f9",
+"t": "Drone de combate GJ-11 - The Economic Times - Indiatimes",
+"r": "O desenvolvimento segue esforços anteriores para validar operações tripuladas e não tripuladas envolvendo o caça stealth J-20 da China e o drone de combate GJ-11. Os recentes incidentes com mísseis e drones destacam os riscos crescentes para a segurança europeia, enquanto a mudança nos EUA. O IRGC afirmou que o seu…",
+"u": "https://economictimes.indiatimes.com/topic/gj-11-combat-drone",
+"f": "The Economic Times",
+"s": "economictimes.indiatimes.com",
+"i": "https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg",
+"d": "2026-11-25T19:50-03:00",
+"c": [
+"drones",
+"defesa"
+],
+"l": 0,
+"to": "GJ-11 combat drone - The Economic Times - Indiatimes",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "The Economic Times",
+"mx": 1,
+"rx": "O desenvolvimento segue esforços anteriores para validar operações tripuladas e não tripuladas envolvendo o caça stealth J-20 da China e o drone de combate GJ-11. Os recentes incidentes com mísseis e drones destacam os riscos crescentes para a segurança europeia, enquanto a mudança nos EUA. O IRGC afirmou que o seu avançado sistema de defesa aérea teve como alvo o drone com sucesso durante as operações.\nOs ataques tiveram como alvo infra-estruturas militares, instalações de montagem de drones e a rede eléctrica da Ucrânia durante os preparativos para o Inverno. A Ucrânia lançou um ataque direcionado de drones e mísseis à ponte da Crimeia em resposta aos contínuos ataques russos. O jovem empresário Devash K. Hegade, fundador do Fly Camp, criou o que descreve como o primeiro centro de experiência com drones da Índia, permitindo que pessoas sem experiência anterior experimentem pilotar drones e aprendam sobre a tecnologia."
 },
 {
 "id": "441f80740ef5c8",
@@ -2771,6 +3011,48 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "Quando questionado: “Escolha algo para dar a alguém que está cansado”, o robô pega uma bebida energética. O RT-2 treinou simultaneamente um modelo de linguagem visual de ponta usando registros de movimento de robôs e dados de imagem e linguagem em escala da Internet. Figura 1 Diagrama conceitual do fluxo de coleta de dados de vários modelos para criar um modelo básico e retornar movimento para cada robô\nNo seminário, convidaremos mais uma vez o CEO do ugo, Ken Matsui, para dar uma explicação detalhada do histórico de desenvolvimento do ugo Nova, pontos de evolução e melhorias dos modelos anteriores, e o mecanismo e estratégia de desenvolvimento do modelo básico do robô."
+},
+{
+"id": "913a633ee32b4c",
+"t": "Entrega de medicamentos ao cérebro usando nanorrobôs... Será aberta uma nova forma de tratar a doença de Parkinson?",
+"r": "“Encontramos uma maneira de aumentar a eficácia do tratamento da doença de Parkinson em 2,5 vezes”… Os mercados relacionados também prestam atenção: uma equipe de pesquisa conjunta dos Estados Unidos e da China revelou que a doença de Parkinson ocorre quando há uma anormalidade na rede cerebral que coordena a cognição…",
+"u": "https://www.hankyung.com/article/202611261085i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46549657.1.jpg",
+"d": "2026-11-25T21:18-03:00",
+"c": [
+"microrrobos"
+],
+"l": 0,
+"to": "나노로봇으로 뇌에 약물 전달…파킨슨병 치료 새 길 열리나",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "“Encontramos uma maneira de aumentar a eficácia do tratamento da doença de Parkinson em 2,5 vezes”… Os mercados relacionados também prestam atenção: uma equipe de pesquisa conjunta dos Estados Unidos e da China revelou que a doença de Parkinson ocorre quando há uma anormalidade na rede cerebral que coordena a cognição e o comportamento, e não em uma parte específica do cérebro. A Contera Pharma interrompe o ensaio clínico nos EUA de um novo medicamento para a doença de Parkinson devido ao 'fracasso da fase 2 na Europa'... Atraso inevitável do IPO A Contera Pharma, uma subsidiária da Bukwang Pharmaceutical, decidiu descontinuar o ensaio clínico da fase 2 nos Estados Unidos devido ao fracasso do ensaio clínico europeu do JM-010, um candidato a medicamento para a doença de Parkinson. Assim, o cronograma de oferta pública inicial (IPO) originalmente previsto para 2025 foi adiado... O ensaio clínico do 'PT320', o principal pipeline (candidato) da Peptron, deverá progredir significativamente este ano. Seung-gu Jang, Diretor Executivo da Peptron, disse na '2022 Korea Bio Investment Conference (KBIC 2022)' realizada no dia 11, “A doença de Parkinson..."
+},
+{
+"id": "74c1772fbb0417",
+"t": "Yuil Robotics selecionada simultaneamente para dois projetos nacionais de robôs no valor de KRW 16,6 bilhões",
+"r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A Yuil Robotics anunciou no dia 4 que aplicou seu sistema de robô de cozinha somente para fritar no projeto piloto da 'sala de apoio à fritura de merenda escolar tipo base' promovida pelo Escritório Provincial de Educação de…",
+"u": "https://www.hankyung.com/article/202611261316i",
+"f": "한국경제",
+"s": "hankyung.com",
+"i": "https://img.hankyung.com/photo/202611/01.46549725.1.jpg",
+"d": "2026-11-25T21:23-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "유일로보틱스, 166억 규모 로봇 국책과제 2건 동시 선정",
+"lg": "ko",
+"p": 4.8,
+"cr": 3,
+"cv": "Korea Economic Daily",
+"mx": 1,
+"rx": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A Yuil Robotics anunciou no dia 4 que aplicou seu sistema de robô de cozinha somente para fritar no projeto piloto da 'sala de apoio à fritura de merenda escolar tipo base' promovida pelo Escritório Provincial de Educação de Gyeonggi. O Escritório Provincial de Educação de Gyeonggi anunciou no dia 19 que ganhou um contrato para fornecer duas unidades de equipamento de secagem a vácuo (VPD) para transformadores de ultra-alta tensão para a subsidiária americana da HD Hyundai Electric. Esta instalação faz parte do segundo projeto de expansão da fábrica de transformadores da HD Hyundai Electric... Yuil Robotics, empresa especializada em automação robótica de ponta, anunciou no dia 21 que realizou a 'Cerimônia de Abertura da Nova Fábrica de Cheongna' no Vision Hall. Representantes do Partido Democrático da Coreia, Lee Yong-woo, o prefeito executivo da cidade de Incheon, Ha Byeong-pil, o prefeito da cidade de Incheon, Kang Beom-seok, e o Global CEO Club de Seo Dong-man..."
 },
 {
 "id": "550dd4e52c5343",
@@ -3202,6 +3484,48 @@
 "rx": "Ai ROBOTICS INC., listada na Bolsa de Valores de Tóquio sob o código de títulos 247A, relatou vendas líquidas consolidadas de ¥ 22.721 milhões nos seis meses encerrados em 30 de setembro de 2026. O lucro operacional foi de ¥ 93 milhões, enquanto o lucro ordinário foi negativo de ¥ 319 milhões e o lucro atribuível aos proprietários da controladora foi negativo de ¥ 534 milhões; O EBITDA ajustado foi de ¥ 1.119 milhões e o lucro ajustado atribuível aos proprietários foi de ¥ 410 milhões.\nA empresa iniciou a preparação de demonstrações financeiras consolidadas intercalares deste período, pelo que não foram apresentados valores comparativos dos anos anteriores. Em 1º de abril de 2026, adquiriu a totalidade das ações da BJC Co., Ltd. e tornou-a uma subsidiária integral; A BJC e três outras empresas foram recentemente incluídas nos resultados consolidados, enquanto o dividendo intermediário foi de ¥ 0,00 por ação."
 },
 {
+"id": "64b22af7d4629f",
+"t": "Os robôs de negociação Bybit e a negociação de cópias agora suportam contratos financeiros perpétuos tradicionais da ANTUSDT",
+"r": "Dubai, Emirados Árabes Unidos, 25 de novembro de 2026 /PRNewswire/ -- A Bybit, uma plataforma financeira de nova geração na qual mais de 90 milhões de usuários registrados em todo o mundo confiam, anunciou que seu robô de negociação e sua plataforma de copy trading agora oferecem suporte a contratos financeiros…",
+"u": "https://money.udn.com/money/story/123828/9902167",
+"f": "經濟日報",
+"s": "money.udn.com",
+"i": "",
+"d": "2026-11-25T11:00-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "Bybit交易機器人與跟單交易現已支持ANTUSDT傳統金融類永續合約",
+"lg": "en",
+"p": 3.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 9,
+"rx": "Dubai, Emirados Árabes Unidos, 25 de novembro de 2026 /PRNewswire/ -- A Bybit, uma plataforma financeira de nova geração na qual mais de 90 milhões de usuários registrados em todo o mundo confiam, anunciou que seu robô de negociação e sua plataforma de copy trading agora oferecem suporte a contratos financeiros perpétuos tradicionais (TradFi) da ANTUSDT. Os usuários podem executar automaticamente estratégias de negociação ANT por meio do robô de futuros da Bybit ou seguir as estratégias de mestres de negociação de primeira classe.\nContando com o apoio de robôs de negociação e de copy trading, os traders podem agora gerir posições ANTUSDT através de estratégias automatizadas e orientadas pela comunidade, além da negociação manual. Os robôs de negociação Bybit e a negociação de cópias agora suportam contratos financeiros perpétuos tradicionais da ANTUSDT"
+},
+{
+"id": "f316cc25d596d0",
+"t": "Por trás da produção em massa de robôs, a IA física começou a calcular novas contas: por que precisamos construir bases de P&D separadas?",
+"r": "Da coleta de dados, simulação física ao treinamento de modelos e verificação de máquinas reais, cada vez que um robô domina uma nova habilidade, por trás dela pode estar a operação repetida de um conjunto completo de processos de pesquisa e desenvolvimento. Isto também representa uma nova oportunidade para a indústria…",
+"u": "https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html",
+"f": "雷峰网",
+"s": "leiphone.com",
+"i": "",
+"d": "2026-11-25T22:35-03:00",
+"c": [
+"ia"
+],
+"l": 0,
+"to": "机器人量产背后，物理AI开始算新账：研发底座何必各自建？",
+"lg": "zh",
+"p": 3.8,
+"cr": 3,
+"cv": "Leiphone (雷锋网)",
+"mx": 1,
+"rx": "Da coleta de dados, simulação física ao treinamento de modelos e verificação de máquinas reais, cada vez que um robô domina uma nova habilidade, por trás dela pode estar a operação repetida de um conjunto completo de processos de pesquisa e desenvolvimento. Isto também representa uma nova oportunidade para a indústria da IA ​​física: quem tiver a capacidade de organizar recursos dispersos de I&D em infraestruturas reutilizáveis ​​terá a oportunidade de se tornar um importante organizador na cadeia da indústria.\nÀ medida que o investimento em I&D e a complexidade técnica da IA ​​física continuam a aumentar, as empresas começaram a partilhar custos e a alcançar a divisão profissional do trabalho através da co-construção de infra-estruturas e da partilha de recursos de I&D. Como fornecedor independente de serviços de infraestrutura de IA, Jiuzhang Yunji propôs construir uma fábrica física de IA baseada em agendamento de poder de computação e ferramentas de P&D, e conectar recursos profissionais como dados, simulação, treinamento de modelos e verificação de máquinas reais por meio de cooperação ecológica."
+},
+{
 "id": "67c62fb340043b",
 "t": "Coluna: Atuadores robóticos expõem gargalos na cadeia de suprimentos",
 "r": "A indústria de robôs abrange uma cadeia de suprimentos multicamadas que abrange máquinas de precisão, sistemas elétricos, detecção, controle, computação, integração de sistemas e aplicações...",
@@ -3621,27 +3945,6 @@
 "mx": 3
 },
 {
-"id": "fe2a262cb71110",
-"t": "Black Friday 2026: Robô de pastelaria cremosa “5 estrelas” KitchenAid Artisan 5KSM125 por 399,00",
-"r": "O KitchenAid Artisan 5KSM125 dá continuidade a uma fórmula comprovada em panificação, focada na mecânica bruta e na durabilidade. Idêntico em termos de motor ao 5KSM175, suporta amassar e bater com o seu sistema de transmissão direta. Por ocasião da Black Friday, este robô pasteleiro desce para 399,00€ no…",
-"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-creme-5-etoiles-a-399-00-n268527.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-25T09:38-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Black Friday 2026 : Le robot-pâtissier KitchenAid Artisan 5KSM125 Crème \"5 étoiles\" à 399,00",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "O KitchenAid Artisan 5KSM125 dá continuidade a uma fórmula comprovada em panificação, focada na mecânica bruta e na durabilidade. Idêntico em termos de motor ao 5KSM175, suporta amassar e bater com o seu sistema de transmissão direta. Por ocasião da Black Friday, este robô pasteleiro desce para 399,00€ no Boulanger.com, ou cerca de 8% menos que o preço médio observado nos últimos 30 dias.\nO motor de acionamento direto de 300W envia energia diretamente para os acessórios, sem correias ou perdas intermediárias de energia. O corpo metálico proporciona um assento firme na superfície de trabalho, permitindo que o aparelho trabalhe com massas densas sem se mover ou vibrar excessivamente, conforme detalhado em nossa análise completa."
-},
-{
 "id": "ab3a8b8cc61463",
 "t": "Black Friday: um robô de piscina Beatbot reduzido graças ao nosso código",
 "r": "O inverno não é necessariamente a estação para nadar, mas pode ser uma boa época para se preparar para o retorno dos dias de sol. O Beatbot AquaSense 2 Ultra, lançado por 3.850€, é oferecido por 2.699€ na Wellbots para a Black Friday. Com o código exclusivo WBXNUM10, que acrescenta 10% de desconto, o seu preço desce…",
@@ -3895,25 +4198,25 @@
 "rx": "Em 25 de janeiro, o aspirador robô Eufy C28 está à venda por US$ 379,99 na Amazon. Aspirar já é uma tarefa árdua por si só, sem ter que esfregar o chão depois. Se você gostaria de eliminar ambos da sua lista de tarefas domésticas, conheça o Eufy C28. Este aspirador robô pode fazer as duas coisas, e a Amazon reduziu em mais de US$ 400 o preço da Black Friday. O C28 possui 15.000Pa de sucção e um sistema de escova DuoSpiral projetado para pegar o cabelo sem que ele fique enrolado no rolo.\nPara pisos duros, o aspirador robô possui uma esfregona giratória HydroJet que gira a 270 RPM. Ele esvazia o aspirador em um saco de pó de 3 litros, lava o esfregão e seca-o com ar quente, deixando você com ainda menos trabalhos de limpeza para fazer sozinho."
 },
 {
-"id": "4c5a09dae49433",
-"t": "Durante a Black Friday 2026, este robô pasteleiro KitchenAid com classificação 5/5 cai para € 399",
-"r": "A KitchenAid oferece com o Artisan 5KSM125 um robô pasteleiro projetado para durar, baseado em um projeto mecânico comprovado há quase um século. O aparelho conta com motor de transmissão direta e estrutura metálica para realizar preparações culinárias sem enfraquecimento. Por ocasião da Black Friday, o aparelho cai…",
-"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-creme-5-etoiles-a-399-00-n268565.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-25T20:01-03:00",
+"id": "9f791ae9969aaa",
+"t": "Economize 60% no drone dobrável Aero Volt Explorer, agora por US$ 79,99",
+"r": "DR: Adquira o Aero Volt Explorer Drone dobrável com câmeras duplas por US$ 79,99 (US$ 199,99 normal), economizando US$ 120. Drones de câmera volumosos tendem a ficar em casa quando você faz as malas para uma viagem, mas o Aero Volt Explorer Drone dobra-se o suficiente para caber em uma mochila. Durante a Black Friday…",
+"u": "https://mashable.com/tech/nov-25-aero-volt-explorer-drone-carbon-fibre",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/04pstYCOq2aCasHVKNVODTM/hero-image.fill.size_1200x675.v1795513430.jpg",
+"d": "2026-11-25T20:00-03:00",
 "c": [
-"geral"
+"drones"
 ],
 "l": 0,
-"to": "Pendant le Black Friday 2026, ce robot pâtissier KitchenAid noté 5/5 tombe à 399 €",
-"lg": "fr",
+"to": "Save 60% on the foldable Aero Volt Explorer drone, now $79.99",
+"lg": "en",
 "p": 3.5,
 "cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "A KitchenAid oferece com o Artisan 5KSM125 um robô pasteleiro projetado para durar, baseado em um projeto mecânico comprovado há quase um século. O aparelho conta com motor de transmissão direta e estrutura metálica para realizar preparações culinárias sem enfraquecimento. Por ocasião da Black Friday, o aparelho cai para 399,00€ no Boulanger.com, ou cerca de 8% menos que o preço médio observado nos últimos 30 dias (432,64€).\nSeu motor de transmissão direta desenvolve uma potência de 300 W, o que permite trabalhar massas densas rapidamente sem sofrer perda de energia entre o bloco do motor e os acessórios. Atualmente avaliado como 5/5 pela nossa redação, o aparelho também conta com seu corpo todo em metal para garantir excelente estabilidade na superfície de trabalho, mantendo um nível de ruído reduzido durante o funcionamento."
+"cv": "Mashable",
+"mx": 1,
+"rx": "DR: Adquira o Aero Volt Explorer Drone dobrável com câmeras duplas por US$ 79,99 (US$ 199,99 normal), economizando US$ 120. Drones de câmera volumosos tendem a ficar em casa quando você faz as malas para uma viagem, mas o Aero Volt Explorer Drone dobra-se o suficiente para caber em uma mochila. Durante a Black Friday, este drone de fibra de carbono cai para US$ 79,99 (normalmente US$ 199,99). O aplicativo complementar permite traçar uma trajetória de vôo na tela para o drone seguir, e a captura de gestos tira uma foto com um sinal manual. Quatro motores sem escova e posicionamento de fluxo óptico ajudam o drone a manter uma flutuação constante. Os sensores ajudam a detectar obstáculos próximos, mas você ainda deve manter o drone à vista enquanto voa.\nO envio é gratuito para os EUA contíguos, as devoluções são aceitas dentro de 30 dias após o envio e o drone tem garantia do fabricante de 13 meses."
 },
 {
 "id": "aa285adf609eac",
@@ -3934,7 +4237,7 @@
 "p": 3.5,
 "cr": 3,
 "cv": "CBC",
-"mx": 1
+"mx": 2
 },
 {
 "id": "68def47980ada7",
@@ -3946,7 +4249,7 @@
 "i": "https://img.36krcdn.com/hsossms/20261125/v2_9d589e3f15a645379c34e0883855263b@1743780481@ai_oswg400563oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
 "d": "2026-11-25T20:44-03:00",
 "c": [
-"geral"
+"educacao"
 ],
 "l": 0,
 "to": "Jia Yueting Ventures into Robot Development: Education as the Core Breakthrough Point for Commercialization",
@@ -3956,6 +4259,27 @@
 "cv": "36Kr",
 "mx": 1,
 "rx": "Em 23 de novembro, Jia Yueting, fundador da Faraday Future (FF), revelou que a FFR, seu braço comercial de robôs, fez novos progressos no mercado educacional dos EUA e se tornou um fornecedor de robôs para distritos escolares públicos. Mais de 1.000 escolas nos distritos escolares relevantes podem adquirir diretamente robôs FFR e soluções educacionais. Da venda de robôs à venda de cursos, à construção de laboratórios e à formação de professores, a educação está a tornar-se um mercado-chave para a comercialização precoce da indústria da inteligência incorporada.\nPor um lado, as empresas robóticas estão a começar a fazer educação e, por outro lado, as empresas de educação estão a começar a fabricar robôs. Dos “robôs educativos” à “educação robótica”, está a tomar forma um mercado que abrange hardware, cursos, professores, formação prática e integração da indústria e da educação."
+},
+{
+"id": "ab15170371ca84",
+"t": "ByteDance entra na briga: Jogador emergente de robótica acelera em direção ao seu IPO",
+"r": "Atualmente, a Dahua formou um sistema de negócios baseado em pinças elétricas industriais e produtos de controle de movimento de precisão, e mãos hábeis se tornaram seu layout importante para a indústria de inteligência incorporada. Depois que o negócio industrial cresceu gradualmente, a Dahua também está redesenhando…",
+"u": "https://eu.36kr.com/en/p/4085823553431936",
+"f": "36Kr",
+"s": "eu.36kr.com",
+"i": "https://img.36krcdn.com/hsossms/20261126/v2_8ccb471239504071ba3a5161f7e32cf4@1743780481@ai_oswg985902oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+"d": "2026-11-25T21:44-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "ByteDance Enters the Fray: Emerging Robotics Player Speeds Toward Its IPO",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 1,
+"rx": "Atualmente, a Dahua formou um sistema de negócios baseado em pinças elétricas industriais e produtos de controle de movimento de precisão, e mãos hábeis se tornaram seu layout importante para a indústria de inteligência incorporada. Depois que o negócio industrial cresceu gradualmente, a Dahua também está redesenhando mãos hábeis. As tecnologias de controle de força, acionamento e confiabilidade acumuladas pela Dahua no campo de garras industriais fornecem uma base para P&D de mãos hábeis, mas mãos hábeis com cinco dedos envolvem mais graus de liberdade e estruturas de transmissão mais complexas, e a dificuldade de P&D e produção em massa também é maior.\nEm termos de cooperação industrial, a Dahua também procura saídas de produção em massa para o seu negócio manual hábil."
 },
 {
 "id": "8dc724f28ef66a",
@@ -4019,7 +4343,7 @@
 "p": 3.3,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "Em novembro de 2026, em um dia aberto em Dongguan, a Topstar lançou o humanóide bípede Star, que tem 172 centímetros de altura, pesa 72 quilos e carrega 10 quilos. Pode se adaptar ao layout da linha de produção da fábrica existente; no mesmo local, Dongguan Kaihang Technology e Topstar assinaram um acordo de compra de robôs humanóides. Topstar posiciona o humanóide bípede Star para ser adaptável ao layout da linha de produção da fábrica existente e coloca o humanóide com rodas \"Xiaotuo\" na cena de moldagem por injeção. Uma máquina controla o raio do movimento e a outra mantém a precisão. As duas formas correspondem a dois tipos de processos.\nAs duas questões de lançamento e assinatura recaíram sobre a mesma empresa em novembro de 2026: foi lançado pela primeira vez o humanóide bípede Star da Topstar, que pode se adaptar ao layout da linha de produção da fábrica existente; no mesmo mês, a Dongguan Kaihang Technology assinou com ela um contrato de compra de robôs humanóides."
 },
 {
@@ -4138,10 +4462,31 @@
 "i": "",
 "d": "2026-11-25T04:24-03:00",
 "c": [
-"geral"
+"medicina"
 ],
 "l": 0,
 "to": "贾跃亭做机器人，教育成了商业化突破口",
+"lg": "zh",
+"p": 2.5,
+"cr": 2,
+"cv": "36Kr",
+"mx": 2,
+"rx": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente."
+},
+{
+"id": "0717c792695075",
+"t": "Byte entra no jogo e robôs saem correndo do IPO",
+"r": "Para garantir a segurança do seu acesso, o sistema está detectando o ambiente de rede atual. Este processo geralmente leva alguns segundos, aguarde pacientemente.",
+"u": "https://m.36kr.com/p/4085823553431936",
+"f": "36Kr",
+"s": "m.36kr.com",
+"i": "",
+"d": "2026-11-25T05:21-03:00",
+"c": [
+"negocios"
+],
+"l": 0,
+"to": "字节入局，机器人又冲出IPO",
 "lg": "zh",
 "p": 2.5,
 "cr": 2,
@@ -4210,8 +4555,29 @@
 "p": 2.5,
 "cr": 2,
 "cv": "IT之家 (IThome)",
-"mx": 2,
+"mx": 3,
 "rx": "O modelo representativo é a série AlphaBot, equipada com o grande modelo incorporado AlphaBrain autodesenvolvido, que continua a evoluir a tecnologia em torno do \"cérebro do robô\": da inteligência integrada (VLA ponta a ponta), aos sistemas duplos rápidos e lentos, ao modelo de mundo 4D integrado, à quarta geração de arquitetura semelhante ao cérebro. É o único grande sistema de modelo incorporado no mundo que completou quatro gerações de iterações de modelo.\nCom o grande modelo AlphaBrain incorporado como o \"cérebro\", a série de robôs AlphaBot como o \"corpo\" e a cena real como o \"nutriente\", Zhiping continua a promover a evolução colaborativa das principais capacidades do único sistema trindade \"modelo × hardware × cena\" do mundo."
+},
+{
+"id": "fe2a262cb71110",
+"t": "Black Friday 2026: Robô de pastelaria cremosa “5 estrelas” KitchenAid Artisan 5KSM125 por 399,00",
+"r": "O KitchenAid Artisan 5KSM125 dá continuidade a uma fórmula comprovada em panificação, focada na mecânica bruta e na durabilidade. Idêntico em termos de motor ao 5KSM175, suporta amassar e bater com o seu sistema de transmissão direta. Por ocasião da Black Friday, este robô pasteleiro desce para 399,00€ no…",
+"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-creme-5-etoiles-a-399-00-n268527.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-25T09:38-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Black Friday 2026 : Le robot-pâtissier KitchenAid Artisan 5KSM125 Crème \"5 étoiles\" à 399,00",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "O KitchenAid Artisan 5KSM125 dá continuidade a uma fórmula comprovada em panificação, focada na mecânica bruta e na durabilidade. Idêntico em termos de motor ao 5KSM175, suporta amassar e bater com o seu sistema de transmissão direta. Por ocasião da Black Friday, este robô pasteleiro desce para 399,00€ no Boulanger.com, ou cerca de 8% menos que o preço médio observado nos últimos 30 dias.\nO motor de acionamento direto de 300W envia energia diretamente para os acessórios, sem correias ou perdas intermediárias de energia. O corpo metálico proporciona um assento firme na superfície de trabalho, permitindo que o aparelho trabalhe com massas densas sem se mover ou vibrar excessivamente, conforme detalhado em nossa análise completa."
 },
 {
 "id": "8543623083db17",
@@ -4233,6 +4599,27 @@
 "cv": "IT之家 (IThome)",
 "mx": 3,
 "rx": "As empresas de robôs pesquisam \"Metodologia de melhoria da taxa de menção de perguntas e respostas de IA\" e seu apelo é \"Quando os clientes perguntam aos robôs no modelo como escolher, podemos ser mencionados e se os mencionados estão corretos\"; procure por \"Entrega de ativos de conteúdo da empresa de construção de sites de Jiangsu, Zhejiang e Xangai\", seu apelo é \"Os dados técnicos podem ser transformados em ativos reutilizáveis ​​e uma nova equipe pode assumir o controle\". Os dois tipos de intenções apontam para a mesma coisa: o site oficial de uma empresa de robôs não pode mais ser apenas um folheto de produto, mas deve transformar parâmetros, cenários e certificações em ativos de conteúdo que possam ser aceitos pelo modelo, e entregar os ativos à própria empresa.\nSite oficial da empresa de robôs; Taxa de menção de perguntas e respostas sobre IA; fabricação de construção de sites; entrega de ativos de conteúdo; Empresa de construção de sites em Jiangsu, Zhejiang e Xangai; Metodologia GEO; OranAI; 2026"
+},
+{
+"id": "4c5a09dae49433",
+"t": "Durante a Black Friday 2026, este robô pasteleiro KitchenAid com classificação 5/5 cai para € 399",
+"r": "A KitchenAid oferece com o Artisan 5KSM125 um robô pasteleiro projetado para durar, baseado em um projeto mecânico comprovado há quase um século. O aparelho conta com motor de transmissão direta e estrutura metálica para realizar preparações culinárias sem enfraquecimento. Por ocasião da Black Friday, o aparelho cai…",
+"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-creme-5-etoiles-a-399-00-n268565.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-25T20:01-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Pendant le Black Friday 2026, ce robot pâtissier KitchenAid noté 5/5 tombe à 399 €",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "A KitchenAid oferece com o Artisan 5KSM125 um robô pasteleiro projetado para durar, baseado em um projeto mecânico comprovado há quase um século. O aparelho conta com motor de transmissão direta e estrutura metálica para realizar preparações culinárias sem enfraquecimento. Por ocasião da Black Friday, o aparelho cai para 399,00€ no Boulanger.com, ou cerca de 8% menos que o preço médio observado nos últimos 30 dias (432,64€).\nSeu motor de transmissão direta desenvolve uma potência de 300 W, o que permite trabalhar massas densas rapidamente sem sofrer perda de energia entre o bloco do motor e os acessórios. Atualmente avaliado como 5/5 pela nossa redação, o aparelho também conta com seu corpo todo em metal para garantir excelente estabilidade na superfície de trabalho, mantendo um nível de ruído reduzido durante o funcionamento."
 },
 {
 "id": "94ea565ad407be",
@@ -5048,7 +5435,7 @@
 "u": "https://udn.com/news/story/7240/9898449",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-24T01:56-03:00",
 "c": [
 "negocios",
@@ -5136,7 +5523,7 @@
 "u": "https://money.udn.com/money/story/11074/9899462",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-24T13:30-03:00",
 "c": [
 "competicoes"
@@ -5230,28 +5617,6 @@
 "cv": "Robotstart",
 "mx": 1,
 "rx": "Nos \"Jogos Mundiais de Robôs Humanóides\" realizados em Pequim, China, em agosto de 2026, um humanóide chinês correu 100 metros em 8,64 segundos, superando numericamente o recorde mundial humano de 9,58 segundos detido por Usain Bolt.\nAs habilidades físicas dos humanóides evoluíram surpreendentemente. No entanto, o que realmente me chamou a atenção neste torneio não foi a competição rápida. Esta competição é baseada em tarefas do mundo real, como carregamento de veículos elétricos, conexão de cabos e manipulação de objetos.",
-"cur": 1
-},
-{
-"id": "2cb6ccc0d9645b",
-"t": "“Coluna do Editor-Chefe “Robotopi!”” | Prémio | Robostar - revista na web com informações sobre robôs/IA",
-"r": "Na \"Competição Mundial de Robôs Humanóides\" realizada em Pequim, China, em agosto de 2026, um humanóide chinês correu 100 metros em 8,64 segundos, superando numericamente o recorde mundial humano de 9,58 segundos detido por Usain Bolt. As habilidades físicas dos humanóides evoluíram surpreendentemente. No entanto, o…",
-"u": "https://robotstart.info/category/premium/robot-topics/latest/",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-24T03:13-03:00",
-"c": [
-"humanoides"
-],
-"l": 0,
-"to": "「編集長のコラム「ロボトピ！」」 | プレミアム | ロボスタ - ロボット･AI情報WEBマガジン",
-"lg": "ja",
-"p": 5.6,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 9,
-"rx": "Na \"Competição Mundial de Robôs Humanóides\" realizada em Pequim, China, em agosto de 2026, um humanóide chinês correu 100 metros em 8,64 segundos, superando numericamente o recorde mundial humano de 9,58 segundos detido por Usain Bolt. As habilidades físicas dos humanóides evoluíram surpreendentemente. No entanto, o que realmente me chamou a atenção neste torneio não foi a competição rápida.",
 "cur": 1
 },
 {
@@ -7065,6 +7430,27 @@
 "rx": "À medida que a Índia procura expandir as suas capacidades em robótica e tecnologia espacial, a Fundação da Família Bhupat e Jyoti Mehta está a investir nas pessoas que ajudarão a construí-las. Em parceria com vários IITs, a fundação planeja desenvolver programas especializados em robótica, IA física e engenharia espacial e…"
 },
 {
+"id": "0e37253da5bec7",
+"t": "Grandes construtoras no Japão recorrendo a robôs de IA | Notícias NHK WORLD-JAPÃO",
+"r": "Mais empresas de construção no Japão estão começando a usar robôs para monitorar de forma autônoma o progresso e a segurança dos edifícios em meio à escassez de mão de obra. A gigante da construção Kajima tem usado robôs alimentados por IA desde 2025. A construtora rival Shimizu planeja começar a usar robôs para…",
+"u": "https://www3.nhk.or.jp/nhkworld/news/20261125de81391/",
+"f": "NHKニュース",
+"s": "www3.nhk.or.jp",
+"i": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261125de81391_E0000208619_L.jpg",
+"d": "2026-11-24T19:21-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Big builders in Japan turning to AI robots | NHK WORLD-JAPAN News",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "NHK",
+"mx": 1,
+"rx": "Mais empresas de construção no Japão estão começando a usar robôs para monitorar de forma autônoma o progresso e a segurança dos edifícios em meio à escassez de mão de obra. A gigante da construção Kajima tem usado robôs alimentados por IA desde 2025. A construtora rival Shimizu planeja começar a usar robôs para apoiar os supervisores do local em dezembro. Os dispositivos que Kajima usa dependem de IA para contornar obstáculos e tirar fotos e medições nos locais de trabalho. Os robôs supostamente reconhecem postes, paredes e passagens e criam um mapa do edifício.\nPara Shimizu, os robôs de IA editarão fotos automaticamente e identificarão possíveis problemas, como cabos e bancadas de trabalho desacompanhados. Os dispositivos também comparam o estado do projeto com os projetos de construção para fornecer atualizações contínuas."
+},
+{
 "id": "da1fb4dc697f67",
 "t": "RCMP usa tecnologia drone para ficar à frente dos criminosos",
 "r": "Sargento John White, da RCMP da Nova Escócia, fala sobre o uso da tecnologia drone.",
@@ -7425,6 +7811,28 @@
 "cv": "Korea Economic Daily",
 "mx": 1,
 "rx": "Depois de dormir, os preços das casas sobem, mas há uma “possibilidade de uma queda acentuada”… Olhando para as evidências, [Conversa de Mercado] “Há uma grande possibilidade de que os preços das casas despenquem no futuro.” Esta é a palavra que mais tem recebido atenção no mercado imobiliário recentemente. Estas são as observações feitas por Lee Seong-hoon, CEO da Korea Land and Housing Corporation (LH), durante sua aparição na auditoria da Assembleia Nacional no dia 12. O Presidente Lee disse: 'Esta é a primeira casa da minha vida... As discussões sobre a obrigatoriedade da utilização de materiais fornecidos pelo governo (produtos de pequenas e médias empresas) para 'habitação pública com participação privada (projecto de participação pública)' estão a vir à tona novamente. Tem havido discussão, incluindo o presidente da Korea Land and Housing Corporation (LH) ser listado como testemunha e referência para a auditoria da Assembleia Nacional à Assembleia Nacional... Entre a enxurrada de notícias imobiliárias da semana, estamos dando uma nova olhada em uma questão que não valeria a pena perder. Tudo, desde o significado das políticas e estatísticas até ao impacto nos consumidores reais, é resumido em pequenos pedaços. [Nota do Editor] Os números em torno da oferta no mercado imobiliário aparecem um após o outro..."
+},
+{
+"id": "2cb6ccc0d9645b",
+"t": "“Coluna do Editor-Chefe “Robotopi!”” | Prémio | Robostar - revista na web com informações sobre robôs/IA",
+"r": "Na \"Competição Mundial de Robôs Humanóides\" realizada em Pequim, China, em agosto de 2026, um humanóide chinês correu 100 metros em 8,64 segundos, superando numericamente o recorde mundial humano de 9,58 segundos detido por Usain Bolt. As habilidades físicas dos humanóides evoluíram surpreendentemente. No entanto, o…",
+"u": "https://robotstart.info/category/premium/robot-topics/latest/",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "",
+"d": "2026-11-24T03:13-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "「編集長のコラム「ロボトピ！」」 | プレミアム | ロボスタ - ロボット･AI情報WEBマガジン",
+"lg": "ja",
+"p": 4.6,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 9,
+"rx": "Na \"Competição Mundial de Robôs Humanóides\" realizada em Pequim, China, em agosto de 2026, um humanóide chinês correu 100 metros em 8,64 segundos, superando numericamente o recorde mundial humano de 9,58 segundos detido por Usain Bolt. As habilidades físicas dos humanóides evoluíram surpreendentemente. No entanto, o que realmente me chamou a atenção neste torneio não foi a competição rápida.",
+"cur": 1
 },
 {
 "id": "37246ad7e867fe",
@@ -11207,6 +11615,27 @@
 "rx": "KH VATEC(060720) atingiu o limite de preço diário no dia 24. O salto é visto como um reflexo das expectativas de que a KH VATEC, fornecedora de dobradiças para telefones dobráveis, possa se beneficiar com a notícia de que a Samsung Electronics irá revelar um robô humanóide desenvolvido internamente no início do próximo ano. A partir das 9h30 daquele dia, KH VATEC estava sendo negociado no mercado KOSDAQ a 12.190 won, um aumento de 2.810 won (29,96%) em relação à sessão anterior.\nReportagens da mídia disseram naquele dia que a Samsung Electronics planeja revelar seu próprio robô humanóide pela primeira vez na \"CES 2027\", a maior exposição de tecnologia da informação (TI) e eletrônicos de consumo do mundo, em Las Vegas, nos Estados Unidos, em janeiro próximo. Observadores da indústria esperam que o robô humanóide que a Samsung Electronics revelará se concentre em movimentos precisos das mãos."
 },
 {
+"id": "82fcd19e3e23da",
+"t": "Big Wave Robotics demonstra com sucesso o primeiro processo de ligação do local de fabricação de “humanóide bípede” da Coreia",
+"r": "A Big Wave Robotics, uma empresa física de IA e soluções robóticas, é a primeira na Coreia a implantar um robô humanóide bípede em uma linha real de demonstração de fabricação de peças de automóveis.",
+"u": "https://www.irobotnews.com/news/articleView.html?idxno=49763",
+"f": "로봇신문",
+"s": "irobotnews.com",
+"i": "https://cdn.irobotnews.com/news/photo/202611/49763_105914_4127.jpg",
+"d": "2026-11-23T22:38-03:00",
+"c": [
+"humanoides"
+],
+"l": 0,
+"to": "빅웨이브로보틱스, 국내 최초 ‘이족보행 휴머노이드’ 제조 현장 연계 공정 실증 성공",
+"lg": "ko",
+"p": 5.6,
+"cr": 3,
+"cv": "Robot Newspaper",
+"mx": 1,
+"rx": "A Big Wave Robotics, uma empresa física de IA e soluções robóticas, é a primeira na Coreia a implantar um robô humanóide bípede em uma linha real de demonstração de fabricação de peças de automóveis."
+},
+{
 "id": "534109630f9432",
 "t": "[Exclusivo] IL desenvolve seu próprio humanóide industrial… Utilização de peças principais da Zynova na China",
 "r": "Você pode ver artigos sobre economia coreana com mais frequência nas pesquisas do Google. A IL listada na KOSDAQ está expandindo sua área de negócios desenvolvendo um pequeno robô humanóide industrial especializado para locais de fabricação nacionais usando componentes-chave do Xynova da China. Alice responderá às…",
@@ -11377,6 +11806,28 @@
 "cv": "Chosun Ilbo",
 "mx": 1,
 "rx": "<Editar Nota> Hoje em dia é importante ter ‘equipamentos’ em tudo. O ‘equipamento’ é essencial para o diagnóstico, tratamento e gestão de doenças. Em meio a essa tendência, vários dispositivos médicos, incluindo dispositivos médicos digitais e medicina eletrônica..."
+},
+{
+"id": "80416fa4717327",
+"t": "Universidade de Ciência e Tecnologia de Kunshan vence o campeonato da 11ª TE Robot Competition, demonstrando sua força de inovação em IA",
+"r": "A 11ª \"Competição TEL Robot Combat Tokyo Power Robot\", organizada pela TEL Taiwan, um fabricante de equipamentos de fabricação de semicondutores de renome mundial, foi concluída com sucesso na Kaohsiung Pier 2 Art Zone. Esta competição reúne equipes de destaque de várias faculdades e universidades de Taiwan para…",
+"u": "https://udn.com/news/story/7240/9896229",
+"f": "UDN",
+"s": "udn.com",
+"i": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35544894.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+"d": "2026-11-23T02:25-03:00",
+"c": [
+"competicoes",
+"ia"
+],
+"l": 0,
+"to": "崑山科大勇奪第11屆TE 機器人大賽冠軍 展現AI創新實力",
+"lg": "en",
+"p": 4.8,
+"cr": 3,
+"cv": "United Daily News",
+"mx": 1,
+"rx": "A 11ª \"Competição TEL Robot Combat Tokyo Power Robot\", organizada pela TEL Taiwan, um fabricante de equipamentos de fabricação de semicondutores de renome mundial, foi concluída com sucesso na Kaohsiung Pier 2 Art Zone. Esta competição reúne equipes de destaque de várias faculdades e universidades de Taiwan para competir no mesmo campo. Os alunos usam tecnologias como design mecânico, controle de programa, inteligência artificial e integração de sistemas para construir um robô lançador de beisebol com capacidades criativas e práticas, demonstrando plenamente o potencial inovador da juventude taiwanesa nas áreas de tecnologia e engenharia.\nA fim de aprofundar o cultivo de talentos científicos e tecnológicos, a TEL Taiwan convidou três poderosas equipes de ensino médio - Ankang High School, Mingdao Middle School e Nanke Shi Middle School - para participar pela primeira vez na competição de intercâmbio para competir com equipes universitárias para promover intercâmbios entre gerações e herança de experiência."
 },
 {
 "id": "5b4f925bcabf62",
@@ -13454,6 +13905,27 @@
 "cv": "Mashable",
 "mx": 1,
 "rx": "9, o Eufy 11S Max está à venda por US$ 139,99 na Amazon. Os aspiradores robóticos percorreram um longo caminho nos últimos anos, com modelos agora disponíveis em diversos preços e com recursos adequados para diferentes residências. Atualmente à venda, você economizará US $ 140 neste aspirador robô Eufy, que também é o melhor preço deste ano até agora. Tem apenas 2,85 polegadas de altura, então este aspirador robô não tem problemas em entrar naqueles espaços estranhos sob os móveis que são difíceis de alcançar com um aspirador ou escova padrão.\nUm sensor infravermelho ajuda o robô a navegar em torno de obstáculos e sensores de queda ajudam a evitar quedas de bordas ou escadas. Você pode encontrar assinaturas em publicações, incluindo as revistas Fit&Well, Metro e Coach, geralmente cobrindo ofertas de tudo, desde fones de ouvido a TVs, ou guias sobre como vencer o tempo da meia maratona."
+},
+{
+"id": "d40a564c3facaa",
+"t": "Melhor oferta de aspirador de robô: economize $ 270 no Shark AV2501S AI Ultra",
+"r": "Em 27 de novembro, o aspirador robô Shark AV2501S AI Ultra está à venda por US$ 279,99 na Amazon. Ficar em dia com a limpeza do chão pode parecer uma tarefa interminável, especialmente se você tem uma casa ocupada com animais de estimação que adoram brincar. Os aspiradores robóticos eliminam parte desse incômodo, e…",
+"u": "https://mashable.com/tech/oct-27-shark-ai-robot-vacuum-deal",
+"f": "Mashable",
+"s": "mashable.com",
+"i": "https://helios-i.mashable.com/imagery/articles/030oxeTBORgXbLn9d6enhK3/hero-image.fill.size_1200x675.v1793084374.png",
+"d": "2026-11-23T06:00-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "Best robot vacuum deal: Save $270 on Shark AV2501S AI Ultra",
+"lg": "en",
+"p": 3.5,
+"cr": 2,
+"cv": "Mashable",
+"mx": 1,
+"rx": "Em 27 de novembro, o aspirador robô Shark AV2501S AI Ultra está à venda por US$ 279,99 na Amazon. Ficar em dia com a limpeza do chão pode parecer uma tarefa interminável, especialmente se você tem uma casa ocupada com animais de estimação que adoram brincar. Os aspiradores robóticos eliminam parte desse incômodo, e modelos como o Shark AV2501S AI Ultra podem fazer isso com uma eficiência incrível. O aspirador vem com uma base sem saco e com esvaziamento automático que pode conter sujeira e detritos por até 30 dias, então você não precisará esvaziá-lo após cada sessão de limpeza.\nQuando a bateria fica fraca, o robô pode retornar à sua base para recarregar e retomar de onde parou, para que você não precise reiniciar o ciclo de limpeza. Se este aspirador robô parece a realização de um sonho para sua lista de tarefas, você ficará satisfeito em saber que também está à venda."
 },
 {
 "id": "50302b0173a086",
@@ -20806,28 +21278,6 @@
 "rx": "A tecnologia está sendo desenvolvida para mudar funções e personalidades, anexando fantasias ou acessórios a robôs, como o Rich Mini da francesa Pollen Robotics. Estamos aumentando a utilização de robôs por meio do reconhecimento NFC e da substituição de equipamentos, o que deverá contribuir para melhorar a produtividade em locais industriais e reduzir os custos de produção de robôs."
 },
 {
-"id": "3485feea4d6038",
-"t": "AGV | Robostar - revista na web com informações sobre robôs/IA",
-"r": "Os robôs que transportam cargas em fábricas e armazéns têm dois nomes: AGVs (veículos guiados automaticamente) e AMRs (robôs de transporte autônomo). A filial Total Factory Solutions da Yamazen (filial TFS) iniciou vendas em grande escala do sistema de mobilidade robótica de próxima geração \"ROBO-COTATZ\", que otimiza…",
-"u": "https://robotstart.info/special/2418/recent/AGV",
-"f": "ロボスタ",
-"s": "robotstart.info",
-"i": "",
-"d": "2026-11-20T05:10-03:00",
-"c": [
-"logistica",
-"industriais"
-],
-"l": 0,
-"to": "AGV | ロボスタ - ロボット･AI情報WEBマガジン",
-"lg": "ja",
-"p": 4.8,
-"cr": 3,
-"cv": "Robotstart",
-"mx": 9,
-"rx": "Os robôs que transportam cargas em fábricas e armazéns têm dois nomes: AGVs (veículos guiados automaticamente) e AMRs (robôs de transporte autônomo). A filial Total Factory Solutions da Yamazen (filial TFS) iniciou vendas em grande escala do sistema de mobilidade robótica de próxima geração \"ROBO-COTATZ\", que otimiza a disposição de robôs colaborativos e AGVs (veículos guiados automaticamente) e os automatiza de forma eficiente e com baixo custo, a partir de 28 de novembro de 2024.\nComo parte da mais recente tecnologia TIC, a empresa introduziu vários robôs de transporte autónomos (AMR) e veículos guiados automaticamente (AGV), bem como uma plataforma para controlo integrado."
-},
-{
 "id": "e6bc8e89638f41",
 "t": "Habilidades operacionais especializadas, método de controle compartilhado inteligente baseado em aprendizado para um robô de biópsia percutânea guiado por TC",
 "r": "A biópsia percutânea precisa e minimamente invasiva é crítica para o diagnóstico precoce do câncer de pulmão, mas os procedimentos manuais convencionais sofrem com a exposição repetida à radiação, alta dependência da experiência do médico e risco de lesão tecidual. Este estudo apresenta um sistema robótico com 5 graus…",
@@ -22140,6 +22590,28 @@
 "cv": "The Globe and Mail",
 "mx": 9,
 "rx": "Em 18 de novembro de 2026, o conselho da Wetour Robotics Limited aprovou a renúncia de Bin Lian como diretor de tecnologia, a partir daquele dia. A empresa afirmou que a demissão não se deveu a desentendimentos com as suas operações, políticas ou procedimentos e que estava à procura activa de um candidato qualificado para preencher a vaga resultante."
+},
+{
+"id": "3485feea4d6038",
+"t": "AGV | Robostar - revista na web com informações sobre robôs/IA",
+"r": "Os robôs que transportam cargas em fábricas e armazéns têm dois nomes: AGVs (veículos guiados automaticamente) e AMRs (robôs de transporte autônomo). A filial Total Factory Solutions da Yamazen (filial TFS) iniciou vendas em grande escala do sistema de mobilidade robótica de próxima geração \"ROBO-COTATZ\", que otimiza…",
+"u": "https://robotstart.info/special/2418/recent/AGV",
+"f": "ロボスタ",
+"s": "robotstart.info",
+"i": "",
+"d": "2026-11-20T05:10-03:00",
+"c": [
+"logistica",
+"industriais"
+],
+"l": 0,
+"to": "AGV | ロボスタ - ロボット･AI情報WEBマガジン",
+"lg": "ja",
+"p": 3.8,
+"cr": 3,
+"cv": "Robotstart",
+"mx": 9,
+"rx": "Os robôs que transportam cargas em fábricas e armazéns têm dois nomes: AGVs (veículos guiados automaticamente) e AMRs (robôs de transporte autônomo). A filial Total Factory Solutions da Yamazen (filial TFS) iniciou vendas em grande escala do sistema de mobilidade robótica de próxima geração \"ROBO-COTATZ\", que otimiza a disposição de robôs colaborativos e AGVs (veículos guiados automaticamente) e os automatiza de forma eficiente e com baixo custo, a partir de 28 de novembro de 2024.\nComo parte da mais recente tecnologia TIC, a empresa introduziu vários robôs de transporte autónomos (AMR) e veículos guiados automaticamente (AGV), bem como uma plataforma para controlo integrado."
 },
 {
 "id": "89cce9941fb92c",
@@ -29334,35 +29806,6 @@
 "cur": 1
 },
 {
-"id": "60b5c7b4acd55b",
-"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
-"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
-"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
-"d": "2026-11-18T04:53-03:00",
-"c": [
-"competicoes"
-],
-"l": 0,
-"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
-"lg": "ja",
-"p": 6.3,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452937/",
-"s": "ascii.jp",
-"id": "7ee3e0b92e99de"
-}
-],
-"cr": 3,
-"cv": "Mainichi",
-"mx": 2,
-"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
-},
-{
 "id": "2e48e59dd3b75b",
 "t": "Equipe de treinamento DDD da Carbon Black fica em segundo lugar na competição de IA de robôs da NVIDIA... Prêmio de Inovação Industrial",
 "r": "Uma equipe inicial preliminar no campo de inteligência artificial física (IA) doméstica ganhou o Prêmio de Inovação Industrial na Competição Internacional de Tecnologia de IA de Robôs organizada pela NVIDIA. A empresa ganhou um prêmio por desenvolver tecnologia para converter vídeos de pessoas trabalhando em dados 3D…",
@@ -29519,7 +29962,7 @@
 "u": "https://money.udn.com/money/story/5710/9887349",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-18T13:21-03:00",
 "c": [
 "geral"
@@ -31133,6 +31576,35 @@
 "cr": 3,
 "cv": "Robot Newspaper",
 "mx": 3
+},
+{
+"id": "60b5c7b4acd55b",
+"t": "Comunicado de imprensa: “NICOBO”, um robô que te faz sorrir, aparece na Estação de Tóquio! Exposição por tempo limitado na Gransta Tokyo “&found” (PR TIMES)",
+"r": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de…",
+"u": "https://mainichi.jp/articles/20261118/pr1/00m/020/243000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "",
+"d": "2026-11-18T04:53-03:00",
+"c": [
+"competicoes"
+],
+"l": 0,
+"to": "プレスリリース：思わず笑顔になるロボット「NICOBO」が東京駅に登場！ グランスタ東京「＆found」に期間限定出展（PR TIMES）",
+"lg": "ja",
+"p": 5.3,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452937/",
+"s": "ascii.jp",
+"id": "7ee3e0b92e99de"
+}
+],
+"cr": 3,
+"cv": "Mainichi",
+"mx": 1,
+"rx": "Sinta-se à vontade para experimentar a interação com Nicobo Panasonic Corporation (doravante denominada Panasonic) exibirá o robô ``NICOBO'' que fará você sorrir por um tempo limitado na ``&found'', uma loja de experiência da marca ekinaka que será inaugurada em Gransta Tokyo na estação JR Tokyo na terça-feira, 15 de dezembro de 2026. Nesta exposição, você pode experimentar os encantos únicos de Nicobo, como seus gestos despreocupados e conversas barulhentas, enquanto acaricia e conversa com Nicobo."
 },
 {
 "id": "160fdaad9ae633",
@@ -34834,7 +35306,7 @@
 "u": "https://udn.com/news/story/7252/9885053",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-17T11:03-03:00",
 "c": [
 "competicoes"
@@ -35836,7 +36308,7 @@
 "u": "https://robotstart.info/pages/info/privacy-policy/robotfrontier2027.html",
 "f": "ロボスタ",
 "s": "robotstart.info",
-"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+"i": "https://robotstart.info/base/images/img_ogp.png",
 "d": "2026-11-17T00:25-03:00",
 "c": [
 "geral"
@@ -42287,35 +42759,6 @@
 ]
 },
 {
-"id": "95ff8179f3cf32",
-"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
-"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
-"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
-"f": "毎日新聞",
-"s": "mainichi.jp",
-"i": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
-"d": "2026-11-16T05:52-03:00",
-"c": [
-"casa"
-],
-"l": 0,
-"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
-"lg": "ja",
-"p": 6.3,
-"cr": 3,
-"cv": "Mainichi",
-"mx": 2,
-"o": [
-{
-"f": "ASCII.jp",
-"u": "https://ascii.jp/elem/000/004/452/4452008/",
-"s": "ascii.jp",
-"id": "fb8f5333de1234"
-}
-],
-"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
-},
-{
 "id": "e55caac70ca73b",
 "t": "“Robôs assassinos”: o secretário-geral da ONU pede ação contra essas armas “implacáveis”",
 "r": "O chefe da ONU, Antonio Guterres, apelou à comunidade internacional em Genebra na segunda-feira para estabelecer um acordo vinculativo sobre o uso destas armas letais autónomas. O secretário-geral da ONU apelou na segunda-feira à comunidade internacional para agir no sentido de estabelecer um acordo internacional…",
@@ -43444,6 +43887,35 @@
 "cr": 3,
 "cv": "Dong-A Ilbo",
 "mx": 3
+},
+{
+"id": "95ff8179f3cf32",
+"t": "Ecovacs expõe na 25ª “Living Wellness in Luxury(R) (LWL)” Propondo um estilo de vida “confortável” trazido até você por robôs (PR TIMES)",
+"r": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO.",
+"u": "https://mainichi.jp/articles/20261116/pr2/00m/020/756000c",
+"f": "毎日新聞",
+"s": "mainichi.jp",
+"i": "",
+"d": "2026-11-16T05:52-03:00",
+"c": [
+"casa"
+],
+"l": 0,
+"to": "エコバックス、第25回「Living Wellness in Luxury(R)（LWL）」に出展ロボットがもたらす“ゆとり”ある暮らしを提案（PR TIMES）",
+"lg": "ja",
+"p": 5.3,
+"cr": 3,
+"cv": "Mainichi",
+"mx": 1,
+"o": [
+{
+"f": "ASCII.jp",
+"u": "https://ascii.jp/elem/000/004/452/4452008/",
+"s": "ascii.jp",
+"id": "fb8f5333de1234"
+}
+],
+"rx": "exibirá seu modelo principal \"DEEBOT Exibimos no 25º \"Living Wellness in Luxury(R) (LWL)\" (doravante denominado LWL), um evento que cruza luxo e bem-estar, realizado em TÓQUIO."
 },
 {
 "id": "a58ece747f45a3",
@@ -57279,7 +57751,7 @@
 "u": "https://udn.com/news/story/7240/9874747",
 "f": "UDN",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-12T05:28-03:00",
 "c": [
 "geral"
@@ -62800,7 +63272,7 @@
 "u": "https://udn.com/news/story/7240/9873068",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
 "d": "2026-11-11T13:20-03:00",
 "c": [
 "ia",
@@ -63168,7 +63640,7 @@
 "u": "https://udn.com/news/story/7240/9873567",
 "f": "udn",
 "s": "udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-11T23:41-03:00",
 "c": [
 "geral"
@@ -73779,27 +74251,6 @@
 "mx": 3
 },
 {
-"id": "1c7a26c717fd70",
-"t": "Durante a Black Friday 2026, este robô pasteleiro KitchenAid com classificação 5/5 cai abaixo de € 400",
-"r": "Com quase um século de existência, o robô pasteleiro KitchenAid Artisan tem tudo de pioneiro. Seu motor de transmissão direta e numerosos acessórios fazem dele um dispositivo robusto e versátil. Se este modelo for idêntico ao 5KSM175 testado por nós, o 5KSM125 perde alguns acessórios ao longo do caminho.",
-"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-rouge-empire-5-etoiles-a-399-00-18-n267181.html",
-"f": "Les Numériques",
-"s": "lesnumeriques.com",
-"i": "",
-"d": "2026-11-10T13:39-03:00",
-"c": [
-"geral"
-],
-"l": 0,
-"to": "Pendant le Black Friday 2026, ce robot pâtissier KitchenAid noté 5/5 passe sous les 400 €",
-"lg": "fr",
-"p": 3.5,
-"cr": 2,
-"cv": "Les Numériques",
-"mx": 9,
-"rx": "Com quase um século de existência, o robô pasteleiro KitchenAid Artisan tem tudo de pioneiro. Seu motor de transmissão direta e numerosos acessórios fazem dele um dispositivo robusto e versátil. Se este modelo for idêntico ao 5KSM175 testado por nós, o 5KSM125 perde alguns acessórios ao longo do caminho."
-},
-{
 "id": "fb390d48d66ed3",
 "t": "Melhor oferta de cortador de grama robô: economize $ 1.100 no Mammotion Luba 3",
 "r": "10, compre o Mammotion Luba 3 por US$ 1.999 na Amazon, abaixo do preço normal de US$ 3.099. O tempo pode estar esfriando, mas isso não significa que a grama vai parar de crescer repentinamente. Cuidar do seu gramado, pelo menos até que o frio acabe, fará parte da rotina de sua casa no futuro próximo, até o inverno…",
@@ -74536,6 +74987,27 @@
 "cv": "Les Numériques",
 "mx": 9,
 "rx": "O Anker Zolo 140 W é um carregador pensado para quem deseja utilizar uma única unidade para todos os seus dispositivos conectados. Um clone quase perfeito do HW-Q995F, o HW-Q990H simplesmente adiciona uma pitada de novas funções de software a um pacote de home theater ainda espetacular. A Anker completa seu vasto catálogo de carregadores com um modelo chamado Nano (45 W, tela inteligente).\nNota: A queda de preço reportada é calculada comparando o preço mais baixo do dia com a média dos preços mais baixos cobrados por todos os comerciantes pelo produto no mês passado, com regras de segurança para excluir preços de lojas cuja política de IVA não é clara (as chamadas lojas “cinzentas”, normalmente no caso de importações provenientes da China)."
+},
+{
+"id": "1c7a26c717fd70",
+"t": "Durante a Black Friday 2026, este robô pasteleiro KitchenAid com classificação 5/5 cai abaixo de € 400",
+"r": "Com quase um século de existência, o robô pasteleiro KitchenAid Artisan tem tudo de pioneiro. Seu motor de transmissão direta e numerosos acessórios fazem dele um dispositivo robusto e versátil. Se este modelo for idêntico ao 5KSM175 testado por nós, o 5KSM125 perde alguns acessórios ao longo do caminho.",
+"u": "https://www.lesnumeriques.com/robot-patissier/black-friday-2026-le-robot-patissier-kitchenaid-artisan-5ksm125-rouge-empire-5-etoiles-a-399-00-18-n267181.html",
+"f": "Les Numériques",
+"s": "lesnumeriques.com",
+"i": "",
+"d": "2026-11-10T13:39-03:00",
+"c": [
+"geral"
+],
+"l": 0,
+"to": "Pendant le Black Friday 2026, ce robot pâtissier KitchenAid noté 5/5 passe sous les 400 €",
+"lg": "fr",
+"p": 2.5,
+"cr": 2,
+"cv": "Les Numériques",
+"mx": 9,
+"rx": "Com quase um século de existência, o robô pasteleiro KitchenAid Artisan tem tudo de pioneiro. Seu motor de transmissão direta e numerosos acessórios fazem dele um dispositivo robusto e versátil. Se este modelo for idêntico ao 5KSM175 testado por nós, o 5KSM125 perde alguns acessórios ao longo do caminho."
 },
 {
 "id": "beed1329adcf46",
@@ -79256,7 +79728,7 @@
 "u": "https://money.udn.com/money/story/5612/9867939?from=edn_next_story",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
@@ -79285,7 +79757,7 @@
 "u": "https://money.udn.com/money/story/5612/9867940",
 "f": "經濟日報",
 "s": "money.udn.com",
-"i": "https://udn.com/static/img/UDN_BABY.png",
+"i": "https://money.udn.com/static/img/moneyudn.jpg",
 "d": "2026-11-08T05:00-03:00",
 "c": [
 "humanoides"
